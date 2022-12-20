@@ -1,0 +1,93 @@
+name: Telegram Channel Updater
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v2
+      with:
+        python-version: "3.11"
+        cache: 'pip'
+  
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 18
+        cache: 'npm'
+        
+    - uses: awalsh128/cache-apt-pkgs-action@latest
+      with:
+        packages: ffmpeg
+        version: 1.0
+
+    - name: Install dependencies
+      run: |
+        set -xe
+        python -VV
+        python -m pip install tgc
+        yarn global add puppeteer-lottie-cli
+
+    - name: Checkout gh-pages
+      run: |
+        ls -lah
+        
+        # Ensure gh-pages branch exists, and check it out
+        if ! git fetch --no-tags --depth=1 origin gh-pages; then
+          echo "Branch gh-pages does not exist. Creating branch"
+          git switch --orphan gh-pages
+        else
+          echo "Checking out remote gh-pages branch"
+          git switch gh-pages
+        fi
+        
+        ls -lah
+    
+    - name: Run tgc
+      env:
+        tgc_config: ${{ secrets.TGC_CONFIG }}
+        PYTHONUNBUFFERED: 1
+      run: tgc
+    
+    - name: Zotero Download
+      env:
+        ZOTERO: ${{ secrets.ZOTERO_USERID }}
+      if: "${{ env.ZOTERO != '' }}"
+      run: |
+        rm -rf zotero.json
+        curl -L "https://api.zotero.org/users/${ZOTERO}/publications/items?linkwrap=1&order=date&sort=desc&start=0&include=data&limit=100" --output zotero.json
+        ls -lah
+        
+    - name: Profile Readme Download
+      env:
+        REPO_NAME: ${{ github.repository }}
+      run: |
+        echo "$REPO_NAME"
+        USER=$(python -c "print('${REPO_NAME}'.split('/')[0])")
+        echo "$USER"
+        rm -rf profile-readme.md
+        if ! curl -L "https://raw.githubusercontent.com/${USER}/${USER}/main/README.md" --output profile-readme.md; then
+          echo "Failed to download readme."
+        fi
+        ls -lah
+        
+    - uses: EndBug/add-and-commit@v7
+      with:
+        # Determines the way the action fills missing author name and email. Three options are available:
+        # - github_actor -> UserName <UserName@users.noreply.github.com>
+        # - user_info -> Your Display Name <your-actual@email.com>
+        # - github_actions -> github-actions <email associated with the github logo>
+        # Default: github_actor
+        default_author: github_actions
+        
+        branch: gh-pages
+        branch_mode: create
+
+        # The message for the commit.
+        # Default: 'Commit from GitHub Actions (name of the workflow)'
+        message: '[U] Update channel content'
