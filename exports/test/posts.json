@@ -2,8 +2,8 @@
   {
     "id": 1,
     "date": "2022-12-04T18:24:16",
-    "text": "Channel chat created",
-    "type": "service"
+    "type": "service",
+    "text": "Channel chat created"
   },
   {
     "id": 2,
@@ -13,7 +13,6 @@
     "views": 4,
     "forwards": 0,
     "media_group_id": 13361427725150533,
-    "type": "photo",
     "images": [
       {
         "width": 1280,
@@ -87,7 +86,6 @@
     "author": "Hykilpikonna",
     "views": 4,
     "forwards": 0,
-    "type": "sticker",
     "files": [
       {
         "file_name": "sticker.webm",
@@ -113,7 +111,6 @@
     "author": "Hykilpikonna",
     "views": 4,
     "forwards": 0,
-    "type": "sticker",
     "files": [
       {
         "file_name": "sticker.webp",
@@ -139,7 +136,6 @@
     "author": "Hykilpikonna",
     "views": 4,
     "forwards": 0,
-    "type": "animation",
     "files": [
       {
         "file_name": "G}SQG%UP(S@]1~MI_ZZ%%7H.gif.mp4",
@@ -166,7 +162,6 @@
       "name": "宇多田 对立",
       "url": "https://t.me/utada_tairitsu"
     },
-    "type": "voice_message",
     "files": [
       {
         "duration": 1,
@@ -199,7 +194,6 @@
     "views": 4,
     "forwards": 0,
     "media_group_id": 13361428700246173,
-    "type": "audio_file",
     "files": [
       {
         "duration": 222,
@@ -236,7 +230,6 @@
     "author": "Hykilpikonna",
     "views": 4,
     "forwards": 0,
-    "type": "audio_file",
     "files": [
       {
         "duration": 224,
@@ -287,7 +280,6 @@
       "name": "宇多田 对立",
       "url": "https://t.me/utada_tairitsu"
     },
-    "type": "animation",
     "files": [
       {
         "file_name": "Rec 2022-11-12 18-11.x264-24.mp4",
@@ -310,7 +302,6 @@
     "author": "Hykilpikonna",
     "views": 4,
     "forwards": 0,
-    "type": "video_file",
     "files": [
       {
         "width": 480,
@@ -333,7 +324,6 @@
     "author": "Hykilpikonna",
     "views": 6,
     "forwards": 1,
-    "type": "sticker",
     "files": [
       {
         "file_name": "AnimatedSticker.tgs",
@@ -360,7 +350,6 @@
     "author": "Hykilpikonna",
     "views": 7,
     "forwards": 0,
-    "type": "photo",
     "reply": {
       "id": 2,
       "text": "plain <del>strik<u>ethrou</u>gh</del> <code>mono</code> <em>italic</em> <u>underline</u> <b>bold</b> <span class=\"spoiler\"><span>spoiler</span></span> <a href=\"https://google.com/\">link</a>"
@@ -419,7 +408,9 @@
         "date": "2022-12-09T19:53:34",
         "original_name": "75792905.jpg",
         "url": "media/26.jpg",
-        "thumb": "media/26.jpg_thumb.jpg"
+        "thumb": "media/26.jpg_thumb.jpg",
+        "width": 1413,
+        "height": 1000
       },
       {
         "file_name": "78246143.jpg",
@@ -428,7 +419,9 @@
         "date": "2022-12-09T19:53:37",
         "original_name": "78246143.jpg",
         "url": "media/27.jpg",
-        "thumb": "media/27.jpg_thumb.jpg"
+        "thumb": "media/27.jpg_thumb.jpg",
+        "width": 1024,
+        "height": 740
       }
     ]
   },
@@ -438,7 +431,6 @@
     "author": "Hykilpikonna",
     "views": 5,
     "forwards": 0,
-    "type": "contact",
     "files": [
       {
         "phone_number": "42777",
@@ -454,7 +446,6 @@
     "author": "Hykilpikonna",
     "views": 5,
     "forwards": 0,
-    "type": "poll",
     "files": [
       {
         "id": "6098107494435913780",
@@ -491,7 +482,6 @@
     "author": "Hykilpikonna",
     "views": 5,
     "forwards": 0,
-    "type": "poll",
     "files": [
       {
         "id": "6098107494435913781",
@@ -528,7 +518,6 @@
     "author": "Hykilpikonna",
     "views": 5,
     "forwards": 0,
-    "type": "poll",
     "files": [
       {
         "id": "6098107494435913782",
@@ -575,17 +564,14 @@
     "author": "Hykilpikonna",
     "views": 5,
     "forwards": 0,
-    "type": "location",
     "files": [
       {
-        "location": {
-          "longitude": -79.45294694930912,
-          "latitude": 43.731780049874914
-        },
         "title": "The Home Depot",
         "address": "90 Billy Bishop Way",
         "foursquare_id": "4b00541bf964a520e43c22e3",
-        "media_type": "location"
+        "media_type": "location",
+        "longitude": -79.45294694930912,
+        "latitude": 43.731780049874914
       }
     ]
   },
@@ -595,7 +581,6 @@
     "author": "Hykilpikonna",
     "views": 5,
     "forwards": 0,
-    "type": "location",
     "files": [
       {
         "longitude": -79.45119172765426,
@@ -607,7 +592,7 @@
   {
     "id": 36,
     "date": "2022-12-13T23:18:42",
-    "text": "Pinned message",
-    "type": "service"
+    "type": "service",
+    "text": "Pinned message"
   }
 ]
