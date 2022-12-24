@@ -23,7 +23,7 @@ jobs:
         
     - uses: awalsh128/cache-apt-pkgs-action@latest
       with:
-        packages: ffmpeg
+        packages: ffmpeg chromium-browser
         version: 1.0
 
     - name: Install dependencies
