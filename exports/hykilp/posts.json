@@ -18648,7 +18648,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 z-lib.org 下线了，镜像域名也几乎全都被美国邮政检验局回收... b-ok.cc, es.b-ok.lat, booksc.org, booksc.eu 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\nzlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion",
-    "views": 5431,
+    "views": 5432,
     "forwards": 169,
     "media_group_id": 13340239729731381,
     "images": [
@@ -18951,7 +18951,7 @@
     "id": 1477,
     "date": "2022-11-08T21:32:03",
     "text": "一条指令找到系统里装的所有 Java JDK:\n\n<code>sudo find / -executable -name java -type f -exec printf \"\\033[33mFound {}\\033[0m\\n\" \\; -exec {} -version \\; -exec echo \"\" \\;</code>\n\n...然后发现我电脑上居然有 174 个 JDK，有很多是 docker 的，不过怎么连 VSCode Java 插件都会在它的本地目录装一个 JDK 下来\n(╯‵□′)╯︵┻━┻",
-    "views": 121,
+    "views": 122,
     "forwards": 2,
     "media_group_id": 13343544985353501,
     "images": [
@@ -20255,7 +20255,7 @@
     "id": 1562,
     "date": "2022-12-04T07:58:34",
     "text": "把聊聊的めるアイコン画完了！完善了一下细节\n\n来一张 Telegram 合影 qwq",
-    "views": 112,
+    "views": 113,
     "forwards": 2,
     "media_group_id": 13361125712599693,
     "images": [
@@ -21537,7 +21537,7 @@
     "id": 1644,
     "date": "2022-12-23T08:50:56",
     "text": "🐱！",
-    "views": 37,
+    "views": 38,
     "forwards": 2,
     "images": [
       {
