@@ -17,21 +17,21 @@
       {
         "width": 1280,
         "height": 745,
-        "file_size": 95826,
         "date": "2022-12-04T18:27:43",
         "media_type": "photo",
         "original_name": "photo_2022-12-04_18-27-43.jpg",
         "url": "media/2.jpg",
+        "size": 95826,
         "thumb": "media/2.jpg_thumb.jpg"
       },
       {
         "width": 1280,
         "height": 947,
-        "file_size": 220393,
         "date": "2022-12-04T18:27:45",
         "media_type": "photo",
         "original_name": "photo_2022-12-04_18-27-45.jpg",
         "url": "media/3.jpg",
+        "size": 220393,
         "thumb": "media/3.jpg_thumb.jpg"
       }
     ]
@@ -39,7 +39,7 @@
   {
     "id": 4,
     "date": "2022-12-04T18:28:28",
-    "text": "<a href=\"https://t.me/RawDataBot\">@RawDataBot</a> <a href=\"##hashtag\">#hashtag</a>\n\n* meow\n\n🌚 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248\">✨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/5469697373225622297\">😍</i> 🫥",
+    "text": "<a href=\"https://t.me/RawDataBot\">@RawDataBot</a> <a href=\"##hashtag\">#hashtag</a>\n\n* meow\n\n🌚 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨✨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/5469697373225622297.webp\">😍😍</i> 🫥",
     "author": "Hykilpikonna",
     "views": 5,
     "forwards": 0
@@ -53,7 +53,8 @@
     "forwards": 0,
     "reply": {
       "id": 2,
-      "text": "plain <del>strik<u>ethrou</u>gh</del> <code>mono</code> <em>italic</em> <u>underline</u> <b>bold</b> <span class=\"spoiler\"><span>spoiler</span></span> <a href=\"https://google.com/\">link</a>"
+      "text": "plain <del>strik<u>ethrou</u>gh</del> <code>mono</code> <em>italic</em> <u>underline</u> <b>bold</b> <span class=\"spoiler\"><span>spoiler</span></span> <a href=\"https://google.com/\">link</a>",
+      "thumb": "media/2.jpg_thumb.jpg"
     }
   },
   {
@@ -65,7 +66,7 @@
     "forwards": 0,
     "reply": {
       "id": 4,
-      "text": "<a href=\"https://t.me/RawDataBot\">@RawDataBot</a> <a href=\"##hashtag\">#hashtag</a>\n\n* meow\n\n🌚 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248\">✨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/5469697373225622297\">😍</i> 🫥"
+      "text": "<a href=\"https://t.me/RawDataBot\">@RawDataBot</a> <a href=\"##hashtag\">#hashtag</a>\n\n* meow\n\n🌚 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨✨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/5469697373225622297.webp\">😍😍</i> 🫥"
     }
   },
   {
@@ -90,7 +91,6 @@
       {
         "file_name": "sticker.webm",
         "mime_type": "video/webm",
-        "file_size": 33709,
         "date": "2022-02-12T17:39:01",
         "width": 512,
         "height": 512,
@@ -101,6 +101,7 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/8.webm",
+        "size": 33709,
         "thumb": "media/8.webm_thumb.jpg"
       }
     ]
@@ -115,7 +116,6 @@
       {
         "file_name": "sticker.webp",
         "mime_type": "image/webp",
-        "file_size": 11108,
         "date": "2018-12-01T14:11:28",
         "width": 438,
         "height": 512,
@@ -126,6 +126,7 @@
         "media_type": "sticker",
         "original_name": "sticker.webp",
         "url": "media/9.webp",
+        "size": 11108,
         "thumb": "media/9.webp_thumb.jpg"
       }
     ]
@@ -140,7 +141,6 @@
       {
         "file_name": "G}SQG%UP(S@]1~MI_ZZ%%7H.gif.mp4",
         "mime_type": "video/mp4",
-        "file_size": 124167,
         "date": "2020-10-03T10:54:46",
         "width": 320,
         "height": 178,
@@ -148,6 +148,7 @@
         "media_type": "animation",
         "original_name": "G}SQG%%UP(S@]1%fgMI_ZZ%%%%7H.gif.mp4",
         "url": "media/10.mp4",
+        "size": 124167,
         "thumb": "media/10.mp4_thumb.jpg"
       }
     ]
@@ -167,11 +168,11 @@
         "duration": 1,
         "waveform": "AAAAAAAAAAAAAAAAAAAAAAAAAAgMAAAAAAAAAAAAAAAAAACBtPn//7//3///////+f/f//////9/ry1MhwQA",
         "mime_type": "audio/ogg",
-        "file_size": 5726,
         "date": "2022-12-04T17:46:36",
         "media_type": "voice_message",
         "original_name": "voice_2022-12-04_17-46-36.ogg",
-        "url": "media/11.ogg"
+        "url": "media/11.ogg",
+        "size": 5726
       }
     ]
   },
@@ -201,11 +202,11 @@
         "title": "Vincent",
         "file_name": "Ellie Goulding - Vincent.mp3",
         "mime_type": "audio/mpeg",
-        "file_size": 9196951,
         "date": "2022-12-04T17:47:40",
         "media_type": "audio_file",
         "original_name": "Ellie Goulding - Vincent.mp3",
         "url": "media/13.mp3",
+        "size": 9196951,
         "thumb": "media/13.mp3_thumb.jpg"
       },
       {
@@ -214,11 +215,11 @@
         "title": "Nier Fluquor",
         "file_name": "onoken - Nier Fluquor.mp3",
         "mime_type": "audio/mpeg",
-        "file_size": 4876945,
         "date": "2022-12-04T17:47:46",
         "media_type": "audio_file",
         "original_name": "onoken - Nier Fluquor.mp3",
         "url": "media/14.mp3",
+        "size": 4876945,
         "thumb": "media/14.mp3_thumb.jpg"
       }
     ]
@@ -237,11 +238,11 @@
         "title": "今晩はお月さん",
         "file_name": "ハンバート ハンバート - 今晩はお月さん.mp3",
         "mime_type": "audio/mpeg",
-        "file_size": 9126467,
         "date": "2022-12-04T17:48:08",
         "media_type": "audio_file",
         "original_name": "ハンバート ハンバート - 今晩はお月さん.mp3",
         "url": "media/15.mp3",
+        "size": 9126467,
         "thumb": "media/15.mp3_thumb.jpg"
       }
     ]
@@ -261,10 +262,10 @@
       {
         "file_name": "boggs2015.pdf",
         "mime_type": "application/pdf",
-        "file_size": 748244,
         "date": "2022-12-04T17:48:42",
         "original_name": "boggs2015.pdf",
         "url": "media/16.pdf",
+        "size": 748244,
         "thumb": "media/16.pdf_thumb.jpg"
       }
     ]
@@ -274,7 +275,7 @@
     "date": "2022-12-04T18:29:51",
     "text": "video as gif with description 📹",
     "author": "Hykilpikonna",
-    "views": 5,
+    "views": 6,
     "forwards": 0,
     "forwarded_from": {
       "name": "宇多田 对立",
@@ -284,7 +285,6 @@
       {
         "file_name": "Rec 2022-11-12 18-11.x264-24.mp4",
         "mime_type": "video/mp4",
-        "file_size": 660919,
         "date": "2022-12-04T17:50:17",
         "width": 1956,
         "height": 900,
@@ -292,6 +292,7 @@
         "media_type": "animation",
         "original_name": "Rec 2022-11-12 18-11.x264-24.mp4",
         "url": "media/17.mp4",
+        "size": 660919,
         "thumb": "media/17.mp4_thumb.jpg"
       }
     ]
@@ -300,7 +301,7 @@
     "id": 18,
     "date": "2022-12-04T18:29:53",
     "author": "Hykilpikonna",
-    "views": 5,
+    "views": 6,
     "forwards": 0,
     "files": [
       {
@@ -308,12 +309,12 @@
         "height": 854,
         "duration": 7,
         "mime_type": "video/mp4",
-        "file_size": 910319,
         "supports_streaming": true,
         "date": "2022-08-21T05:36:00",
         "media_type": "video_file",
         "original_name": "video_2022-08-21_05-36-00.mp4",
         "url": "media/18.mp4",
+        "size": 910319,
         "thumb": "media/18.mp4_thumb.jpg"
       }
     ]
@@ -322,13 +323,12 @@
     "id": 19,
     "date": "2022-12-04T18:31:34",
     "author": "Hykilpikonna",
-    "views": 7,
+    "views": 8,
     "forwards": 1,
     "files": [
       {
         "file_name": "AnimatedSticker.tgs",
         "mime_type": "application/x-tgsticker",
-        "file_size": 24069,
         "date": "2019-07-30T18:51:54",
         "width": 512,
         "height": 512,
@@ -339,6 +339,7 @@
         "media_type": "sticker",
         "original_name": "AnimatedSticker.tgs",
         "url": "media/19.apng",
+        "size": 24069,
         "thumb": "media/19.apng_thumb.jpg"
       }
     ]
@@ -348,21 +349,22 @@
     "date": "2022-12-04T19:57:10",
     "text": "reply by image",
     "author": "Hykilpikonna",
-    "views": 8,
+    "views": 9,
     "forwards": 0,
     "reply": {
       "id": 2,
-      "text": "plain <del>strik<u>ethrou</u>gh</del> <code>mono</code> <em>italic</em> <u>underline</u> <b>bold</b> <span class=\"spoiler\"><span>spoiler</span></span> <a href=\"https://google.com/\">link</a>"
+      "text": "plain <del>strik<u>ethrou</u>gh</del> <code>mono</code> <em>italic</em> <u>underline</u> <b>bold</b> <span class=\"spoiler\"><span>spoiler</span></span> <a href=\"https://google.com/\">link</a>",
+      "thumb": "media/2.jpg_thumb.jpg"
     },
     "images": [
       {
         "width": 1280,
         "height": 895,
-        "file_size": 95029,
         "date": "2022-12-04T19:57:10",
         "media_type": "photo",
         "original_name": "photo_2022-12-04_19-57-10.jpg",
         "url": "media/20.jpg",
+        "size": 95029,
         "thumb": "media/20.jpg_thumb.jpg"
       }
     ]
@@ -372,16 +374,16 @@
     "date": "2022-12-04T20:07:03",
     "text": "file without thumbnail",
     "author": "Hykilpikonna",
-    "views": 8,
+    "views": 9,
     "forwards": 0,
     "files": [
       {
         "file_name": "lab6_part1.circ",
         "mime_type": "application/xml",
-        "file_size": 14684,
         "date": "2022-12-04T20:07:03",
         "original_name": "lab6_part1.circ",
-        "url": "media/21.circ"
+        "url": "media/21.circ",
+        "size": 14684
       }
     ]
   },
@@ -390,24 +392,24 @@
     "date": "2022-12-09T19:40:10",
     "text": "<pre>yml\n# List of exports\nexports:\n- # Telegram chat id\n  chat_id: -1001564142575\n  # Output Path\n  path: hykilp</pre>",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0
   },
   {
     "id": 26,
     "date": "2022-12-09T19:53:37",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0,
     "media_group_id": 13364924940877637,
     "images": [
       {
         "file_name": "75792905.jpg",
         "mime_type": "image/jpeg",
-        "file_size": 2095458,
         "date": "2022-12-09T19:53:34",
         "original_name": "75792905.jpg",
         "url": "media/26.jpg",
+        "size": 2095458,
         "thumb": "media/26.jpg_thumb.jpg",
         "width": 1413,
         "height": 1000
@@ -415,10 +417,10 @@
       {
         "file_name": "78246143.jpg",
         "mime_type": "image/jpeg",
-        "file_size": 347538,
         "date": "2022-12-09T19:53:37",
         "original_name": "78246143.jpg",
         "url": "media/27.jpg",
+        "size": 347538,
         "thumb": "media/27.jpg_thumb.jpg",
         "width": 1024,
         "height": 740
@@ -429,7 +431,7 @@
     "id": 28,
     "date": "2022-12-09T19:55:38",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0,
     "files": [
       {
@@ -444,7 +446,7 @@
     "id": 29,
     "date": "2022-12-09T19:57:11",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0,
     "files": [
       {
@@ -480,7 +482,7 @@
     "id": 30,
     "date": "2022-12-09T19:59:19",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0,
     "files": [
       {
@@ -516,7 +518,7 @@
     "id": 31,
     "date": "2022-12-09T19:59:49",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0,
     "files": [
       {
@@ -547,7 +549,7 @@
     "id": 32,
     "date": "2022-12-09T20:00:27",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0
   },
   {
@@ -555,14 +557,14 @@
     "date": "2022-12-09T20:02:30",
     "text": "https://telegra.ph/%E6%B7%B1%E5%BA%A6%E5%A5%BD%E6%96%87%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%8D%E6%84%9F%E8%A5%BF%E6%96%B9%E6%96%87%E6%98%8E-03-21",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0
   },
   {
     "id": 34,
     "date": "2022-12-09T20:03:14",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0,
     "files": [
       {
@@ -579,7 +581,7 @@
     "id": 35,
     "date": "2022-12-09T20:03:27",
     "author": "Hykilpikonna",
-    "views": 6,
+    "views": 7,
     "forwards": 0,
     "files": [
       {
