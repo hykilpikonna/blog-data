@@ -3113,7 +3113,7 @@
     "id": 344,
     "date": "2021-11-30T21:25:41",
     "text": "放假之前最后的冲刺w\n<del>Sun 5: MAT223 PAR 3\nMon 6: PSY100 Test 3\nTue 7: PSY270 Lab Report 2 Due\nWed 8: CSC110 Test 2\nMon 13: CSC110 Project\nFri 17: PSY270 Final</del>\n<del>Fri 17: MAT223 Final</del>",
-    "views": 40,
+    "views": 41,
     "forwards": 0
   },
   {
@@ -3126,7 +3126,7 @@
     "id": 348,
     "date": "2021-12-01T20:23:58",
     "text": "发现好像我嗜睡有周期性规律——会不会...\n记录一个月的睡眠量再研究下吧w",
-    "views": 39,
+    "views": 40,
     "forwards": 1,
     "reply": {
       "id": 309,
@@ -3137,7 +3137,7 @@
     "id": 349,
     "date": "2021-12-02T03:42:32",
     "text": "CollegeBoard，一个每年赚 $11.1 亿的非盈利组织（？？？",
-    "views": 35,
+    "views": 36,
     "forwards": 0,
     "images": [
       {
@@ -3156,28 +3156,28 @@
     "id": 350,
     "date": "2021-12-02T04:52:48",
     "text": "发现沙拉可能是很棒的零食ww\n满足了我对零食的所有需求：\n好吃 ✅，≈0准备时间 ✅，能吃饱 ✅\n还比几乎所有零食都健康？？\n决定了！以后不买巧克力棒，改成买沙拉当零食了hhh",
-    "views": 36,
+    "views": 37,
     "forwards": 0
   },
   {
     "id": 351,
     "date": "2021-12-02T06:26:15",
     "text": "出现了一滴水滴的表情：\n😅🥲😢🥵😰😥😓😪😿💧\n出现了两滴水滴的表情：\n😂🤣😹\n出现了≥3滴水滴的表情：\n😭🥶🤤🐳🌎🌍🌏\n🌦🌧⛈🌨💦☔️🌊\n🧊🚰🚿🛁\n\n...\n\n<del>我到底是有多么不想写作业💦</del>",
-    "views": 37,
+    "views": 38,
     "forwards": 0
   },
   {
     "id": 352,
     "date": "2021-12-02T16:16:31",
     "text": "今天的梦真的好厉害，智商全程在线，还全都记得超清楚w\n\n梦见我在做一项密码学研究，目的是可以弹一首钢琴谱作为登录密码。但是我弹一个钢琴谱肯定会弹错几个键，所以肯定不能直接判断弹出来的是不是等于完整的谱子，要比较正确率（用需要添加/减少多少个音符才能等于正确谱子来判断... 是我某次 OI 比赛做过的一道题，原题是从字符串 A 到 B 最少要添加/删除/调换多少个字符）。但这样要怎样存这个密码呢？肯定不能把谱子存成明文，但是如果是哈希的话，又只能判断是不是完全正确，不可能对比正确率，因为哈希只要改一点明文就整个哈希都会变。然后想到可以把所有可能的组合和对应的正确率存成哈希，这样对于一个文字密码很可行，因为文字密码不会很长，但是一个谱子很容易有上百个音符，排列组合的数据量指数增长就太大了。然后想到把每个音符存成哈希，但是这样很容易被彩虹表破解。然后想到给每个音符的哈希加盐（很有趣的是梦里想的是加 IV，虽然 IV (initialization vector) 是 AES 的名词，不是哈希的，哈希加的叫 salt，这两个作用同样都是为了防止彩虹表）但是用什么做盐呢？在梦里只想到了用音符的顺序做盐，然后觉得这样就已经完美了，因为对比正确率的时候可以通过把弹出来的谱子音符顺序错位来找到最低的错误率。然后激动得梦醒了，赶紧记下来hhhh\n\n现在想想其实这样还是很容易被彩虹表，毕竟已知顺序是 ≥0 的整数，所以几百次循环就能把一个音符所有可能的顺序的哈希存下来...\n\n虽然是一个很没有实际用处的研究题目，也没有解出来，但是我终于做了一次智商全程在线的梦了hhhh",
-    "views": 42,
+    "views": 43,
     "forwards": 1
   },
   {
     "id": 353,
     "date": "2021-12-02T16:49:32",
     "text": "说不定不是没有实际用处的研究题目呢，如果弹一首谱子是“肌肉记忆”（implicit memory）的话，就不会不小心说出来，也不会被未来读取记忆的反乌托邦科技读走。决定了！明年期末项目不限制题目的话就研究它了！",
-    "views": 40,
+    "views": 41,
     "forwards": 0,
     "reply": {
       "id": 352,
@@ -3188,7 +3188,7 @@
     "id": 354,
     "date": "2021-12-03T03:19:04",
     "text": "噗！这首居然也是不插电的吉他... 不对这到底是什么吉他哇？不插电能弹出电吉他的失真效果好厉害w",
-    "views": 38,
+    "views": 39,
     "forwards": 0,
     "reply": {
       "id": 213,
@@ -3211,7 +3211,7 @@
     "id": 357,
     "date": "2021-12-04T06:37:21",
     "text": "好喜欢 FLCL！第二遍了！\n我会喜欢上吵闹的 Alt Rock 也是因为 the pillows 的配乐，推荐两首w\n\n《I think I can》\n最难实现的愿望也要付出全部去追求，理想主义矢志不渝！\n<a href=\"https://music.163.com/song?id=1401537246\">https://music.163.com/song?id=1401537246</a>\n<a href=\"https://music.youtube.com/watch?v=mC6xr8R_ltU\">https://music.youtube.com/watch?v=mC6xr8R_ltU</a>\n\n《Little Busters》\n「With the kids sing out the future\nMaybe, kids don't need the masters」\n能看清这个世界的往往是还是小孩子的我们——不需要让被现实限制住想象力的大人们告诉我们做什么，怎么做，执着的大人们比彷徨的我们更加迷茫。\n<a href=\"https://music.163.com/song?id=1401537252\">https://music.163.com/song?id=1401537252</a>\n<a href=\"https://music.youtube.com/watch?v=gwd_WJ7PBa4\">https://music.youtube.com/watch?v=gwd_WJ7PBa4</a>\n\n...这么好的曲子怎么才十几条评论（\n<a href=\"##ラジオ\">#ラジオ</a>",
-    "views": 37,
+    "views": 38,
     "forwards": 0,
     "reply": {
       "id": 311,
@@ -3222,7 +3222,7 @@
     "id": 358,
     "date": "2021-12-04T19:16:42",
     "text": "好难 😭",
-    "views": 38,
+    "views": 39,
     "forwards": 0,
     "reply": {
       "id": 354,
@@ -3249,14 +3249,14 @@
     "id": 359,
     "date": "2021-12-04T21:26:54",
     "text": "想想怎么画个人主页，参考下大家的吧w\n\n... ∞ minutes later ...\n\n呜呜呜大家原来都这么厉害",
-    "views": 37,
+    "views": 38,
     "forwards": 0
   },
   {
     "id": 360,
     "date": "2021-12-05T00:21:51",
     "text": "书签动画w",
-    "views": 37,
+    "views": 38,
     "forwards": 1,
     "reply": {
       "id": 359,
@@ -3283,7 +3283,7 @@
     "id": 362,
     "date": "2021-12-06T00:38:07",
     "text": "...原来 bend 是这样弹出来的\n要多大力气才能把一根弦推那么远 🤯",
-    "views": 36,
+    "views": 37,
     "forwards": 0,
     "reply": {
       "id": 357,
@@ -3306,7 +3306,7 @@
     "id": 364,
     "date": "2021-12-07T02:14:17",
     "text": "<del>原来地球会发光\n</del>（把”半球光“关掉就是第二张图那样w",
-    "views": 36,
+    "views": 37,
     "forwards": 0,
     "media_group_id": 13110746060335357,
     "images": [
@@ -3336,7 +3336,7 @@
     "id": 366,
     "date": "2021-12-07T05:00:25",
     "text": "Three.js 好棒！！！\n决定了！我要做动画设... \n...好像不太行，只是用线条建一个方块就要好多数学 🥲",
-    "views": 37,
+    "views": 38,
     "forwards": 0,
     "media_group_id": 13110825803524605,
     "files": [
@@ -3371,7 +3371,7 @@
   {
     "id": 368,
     "date": "2021-12-07T16:23:16",
-    "views": 39,
+    "views": 40,
     "forwards": 1,
     "images": [
       {
@@ -3390,7 +3390,7 @@
     "id": 369,
     "date": "2021-12-07T19:39:53",
     "text": "Immersive Garden 工作室好厉害w\n（Source: <a href=\"https://immersive-g.com/wishes-2017/\">https://immersive-g.com/wishes-2017/</a>",
-    "views": 34,
+    "views": 35,
     "forwards": 0,
     "files": [
       {
@@ -3413,7 +3413,7 @@
     "id": 371,
     "date": "2021-12-08T00:25:06",
     "text": "我以前都写过什么奇奇怪怪的轮子hhhh\n... 这是谁三行代码都不忘记把大名贴上去 👀\n... 怎么还是写 Javadocs 里的？？？",
-    "views": 33,
+    "views": 34,
     "forwards": 0,
     "media_group_id": 13111384851304637,
     "images": [
@@ -3433,14 +3433,14 @@
     "id": 372,
     "date": "2021-12-08T03:36:00",
     "text": "如何为开卷的 CS 考试做准备：\n复习笔记 ❌\n刷练习题 ❌\n把官方笔记爬下来合并到一个网页里方便考试的时候 Ctrl+F ✅\n<a href=\"https://hykilpikonna.github.io/CSC110/full.html\">https://hykilpikonna.github.io/CSC110/full.html</a>",
-    "views": 40,
+    "views": 41,
     "forwards": 0
   },
   {
     "id": 373,
     "date": "2021-12-08T19:24:27",
     "text": "这个搭配好棒w\n炒饭+酱油+蛋黄酱+番茄酱+海鲜酱",
-    "views": 36,
+    "views": 37,
     "forwards": 0,
     "images": [
       {
@@ -3459,7 +3459,7 @@
     "id": 374,
     "date": "2021-12-09T17:12:29",
     "text": "设计了一个 404 页面w",
-    "views": 34,
+    "views": 35,
     "forwards": 0,
     "images": [
       {
@@ -3478,7 +3478,7 @@
     "id": 375,
     "date": "2021-12-10T05:34:00",
     "text": "只剩两个考试了！都在下周五！<del>可以睡六天了www</del>\n\n像是跨过了一个垂直渐近线，压力一下子从 ∞ 变到 -∞",
-    "views": 32,
+    "views": 33,
     "forwards": 0,
     "reply": {
       "id": 344,
@@ -3501,7 +3501,7 @@
     "id": 377,
     "date": "2021-12-11T03:25:11",
     "text": "写了一整天的颜色选择器w",
-    "views": 34,
+    "views": 35,
     "forwards": 0,
     "images": [
       {
@@ -3520,7 +3520,7 @@
     "id": 378,
     "date": "2021-12-11T14:29:54",
     "text": "完美了！\n<del>这是不是历史上第一个色板这么方便还可拖动的 H5 颜色选择器ww</del> （你别\n（设计借鉴于 Procreate",
-    "views": 35,
+    "views": 36,
     "forwards": 1,
     "reply": {
       "id": 377,
@@ -3547,7 +3547,7 @@
     "id": 379,
     "date": "2021-12-11T15:30:55",
     "text": "🙂",
-    "views": 35,
+    "views": 36,
     "forwards": 0,
     "images": [
       {
@@ -3566,7 +3566,7 @@
     "id": 380,
     "date": "2021-12-12T19:11:49",
     "text": "<del>变成了鸡尾酒实验室w</del>",
-    "views": 35,
+    "views": 36,
     "forwards": 0,
     "images": [
       {
@@ -3585,7 +3585,7 @@
     "id": 382,
     "date": "2021-12-13T18:25:00",
     "text": "第一次见这么多人同时在食堂w",
-    "views": 36,
+    "views": 37,
     "forwards": 0,
     "media_group_id": 13115359205521501,
     "images": [
@@ -3615,7 +3615,7 @@
     "id": 384,
     "date": "2021-12-13T18:56:16",
     "text": "看看人类在关心什么w",
-    "views": 54,
+    "views": 55,
     "forwards": 1,
     "media_group_id": 13115374212886237,
     "images": [
@@ -3665,7 +3665,7 @@
     "id": 390,
     "date": "2021-12-13T19:48:44",
     "text": "昨天开了一个卢森堡的服务器，终于可以 BT 不怕被 DMCA 了w",
-    "views": 53,
+    "views": 54,
     "forwards": 1,
     "images": [
       {
@@ -3684,7 +3684,7 @@
     "id": 392,
     "date": "2021-12-14T02:32:52",
     "text": "好讨厌 python-ta！！！！\n我强迫症好受不了这个不对齐 🥲",
-    "views": 38,
+    "views": 39,
     "forwards": 0,
     "media_group_id": 13115593378257789,
     "images": [
@@ -3714,14 +3714,14 @@
     "id": 395,
     "date": "2021-12-14T21:29:11",
     "text": "日落了，刚起床。",
-    "views": 40,
+    "views": 41,
     "forwards": 2
   },
   {
     "id": 396,
     "date": "2021-12-14T22:46:40",
     "text": "...我手这么大都按不住 Am9 😭",
-    "views": 41,
+    "views": 42,
     "forwards": 0,
     "images": [
       {
@@ -3740,7 +3740,7 @@
     "id": 397,
     "date": "2021-12-14T23:18:24",
     "text": "音准好多了，但是还是高一点点... 不知道怎样微调，想着要低一点点唱的话就会低到 E4 去（x",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "images": [
       {
@@ -3759,7 +3759,7 @@
     "id": 398,
     "date": "2021-12-16T03:10:05",
     "text": "蜜桃苏打和白桃奶油鸡尾酒w\n<del>完了我怎么天天对酒了</del>",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13116993644984469,
     "images": [
@@ -3793,7 +3793,7 @@
     "id": 400,
     "date": "2021-12-16T08:32:26",
     "text": "看星星w\n多伦多窗外不可能有这样的星空...",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -3812,7 +3812,7 @@
     "id": 401,
     "date": "2021-12-16T09:48:37",
     "text": "开了一个 Minecraft 创造服务器！\n地址 <a href=\"mc.hydev.org\">mc.hydev.org</a> (:25565)\n想想我多少年没有开 Minecraft 服务器了hhh",
-    "views": 54,
+    "views": 55,
     "forwards": 1,
     "images": [
       {
@@ -3831,7 +3831,7 @@
     "id": 402,
     "date": "2021-12-17T08:32:53",
     "text": "看看真正出事的时候我会带什么东西跑\n带了两块备份盘（x",
-    "views": 63,
+    "views": 64,
     "forwards": 2,
     "media_group_id": 13117839789795629,
     "images": [
@@ -3861,7 +3861,7 @@
     "id": 405,
     "date": "2021-12-17T08:48:44",
     "text": "回来啦，不知道出了什么事w\n原来像这次真正需要撤离的情况会有一个广播员很慌张地喊所有人撤离hhh\n之前每次都是用单调的语气说“消防铃响了，我们正在调查”",
-    "views": 50,
+    "views": 51,
     "forwards": 1,
     "reply": {
       "id": 402,
@@ -3873,7 +3873,7 @@
     "id": 406,
     "date": "2021-12-18T01:41:00",
     "text": "放假了！！！\n想想这一个月想做什么w",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 344,
@@ -3884,7 +3884,7 @@
     "id": 407,
     "date": "2021-12-18T03:20:48",
     "text": "好多血丝，要好好调整下作息了...",
-    "views": 48,
+    "views": 49,
     "forwards": 1,
     "images": [
       {
@@ -3903,28 +3903,28 @@
     "id": 408,
     "date": "2021-12-18T05:51:56",
     "text": "做了 HyDEV 所有服务器的在线状态监控：\n<a href=\"https://status.hydev.org/\">https://status.hydev.org/</a>",
-    "views": 54,
+    "views": 55,
     "forwards": 1
   },
   {
     "id": 409,
     "date": "2021-12-20T19:49:14",
     "text": "做了用 GitHub Actions 把这个频道的内容转成 JSON API 的脚本w\n<a href=\"https://github.com/hykilpikonna/TelegramChanApi\">https://github.com/hykilpikonna/TelegramChanApi</a>",
-    "views": 49,
+    "views": 50,
     "forwards": 0
   },
   {
     "id": 411,
     "date": "2021-12-21T02:20:54",
     "text": "好有趣的广告w\n<a href=\"https://youtu.be/fnNW2hr886w\">https://youtu.be/fnNW2hr886w</a>",
-    "views": 57,
+    "views": 58,
     "forwards": 0
   },
   {
     "id": 412,
     "date": "2021-12-21T03:46:49",
     "text": "听哭了呜呜...\n<a href=\"http://music.163.com/song?id=19149254\">http://music.163.com/song?id=19149254</a>",
-    "views": 75,
+    "views": 76,
     "forwards": 2,
     "images": [
       {
@@ -3943,7 +3943,7 @@
     "id": 413,
     "date": "2021-12-23T20:04:17",
     "text": "抽完血之后的快乐ww\n过了多少年还是好喜欢麦香鱼",
-    "views": 45,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -3962,7 +3962,7 @@
     "id": 415,
     "date": "2021-12-24T21:47:17",
     "text": "Zotero 好好用！\n所有看过的文献和相关链接都能整理到同一个地方了w",
-    "views": 55,
+    "views": 56,
     "forwards": 3,
     "media_group_id": 13123059496388669,
     "images": [
@@ -3992,14 +3992,14 @@
     "id": 417,
     "date": "2021-12-25T09:57:47",
     "text": "《Merry Christmas Mr. Lawrence - FYI》\n<a href=\"https://music.163.com/song?id=1361336637\">https://music.163.com/song?id=1361336637</a>",
-    "views": 63,
+    "views": 64,
     "forwards": 0
   },
   {
     "id": 418,
     "date": "2021-12-25T19:43:48",
     "text": "关于页面差不多写完啦w\n把今年写的研究报告全都发布上去了hhh\n<del>哈哈哈为什么圣诞节我在写代码</del>",
-    "views": 43,
+    "views": 44,
     "forwards": 0,
     "files": [
       {
@@ -4021,7 +4021,7 @@
     "id": 419,
     "date": "2021-12-26T04:29:13",
     "text": "「Please drink responsibly.」",
-    "views": 44,
+    "views": 45,
     "forwards": 1,
     "media_group_id": 13123943628966149,
     "images": [
@@ -4056,7 +4056,7 @@
     "id": 421,
     "date": "2021-12-27T04:31:12",
     "text": "？？？？\n居然真的有人这么无聊把我这个没人上线的服务器黑了 🌚",
-    "views": 40,
+    "views": 41,
     "forwards": 1,
     "media_group_id": 13124635781525821,
     "images": [
@@ -4090,7 +4090,7 @@
     "id": 423,
     "date": "2021-12-27T05:05:51",
     "text": "回档回档w",
-    "views": 41,
+    "views": 42,
     "forwards": 1,
     "files": [
       {
@@ -4113,7 +4113,7 @@
     "id": 424,
     "date": "2021-12-27T19:19:35",
     "text": "终于把博客框架写完啦w\n让展开动画和 URL 同步花了好久...",
-    "views": 45,
+    "views": 46,
     "forwards": 2,
     "files": [
       {
@@ -4135,7 +4135,7 @@
     "id": 425,
     "date": "2021-12-27T23:34:16",
     "text": "回想一下这五年都写过什么项目w\n\n🟥: 咕了 🕊\n🟦: 写完但是没发布/没什么用的\n🟩: 满意的项目w",
-    "views": 43,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
@@ -4154,7 +4154,7 @@
     "id": 426,
     "date": "2021-12-28T01:42:10",
     "text": "FLCL 真的好小众... 和 Eva 同样是鹤卷和哉导演的旧番，那么多人看 Eva 都没人听说过 FLCL...",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "reply": {
       "id": 357,
@@ -4177,14 +4177,14 @@
     "id": 427,
     "date": "2021-12-30T00:00:33",
     "text": "原来美国的 Utah 州是读 /ˈjuːtɑː/\n一直以为它读 /ɯˈtäː/",
-    "views": 52,
+    "views": 53,
     "forwards": 1
   },
   {
     "id": 429,
     "date": "2021-12-30T04:14:22",
     "text": "如果初衷真的是这样，瞧瞧现在都变成什么了（\n\n自从那天晚上 K 取关了这个频道就感觉发频道也没意义了，明明这两天发生了那么多值得记录的事情。从什么时候开始我的人生变成给 K 看的了...",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -4203,7 +4203,7 @@
     "id": 430,
     "date": "2022-01-04T08:58:57",
     "text": "搬回去了，昨天是住在 K 那里的最后一天。收拾东西好心痛，每件要收的东西都联系着一段和 K 生活的回忆... 又哭了好久。不过即使ta回来，这些回忆也像承载它们的时间一样不会重现。让我的不舍和还回去的门卡一起封印在那里吧，接下来只要向前看w",
-    "views": 58,
+    "views": 59,
     "forwards": 2,
     "media_group_id": 13130293898975093,
     "images": [
@@ -4233,7 +4233,7 @@
     "id": 433,
     "date": "2022-01-07T00:51:24",
     "text": "煎三文鱼！\n第一次在聊聊家里做饭w",
-    "views": 87,
+    "views": 88,
     "forwards": 2,
     "media_group_id": 13132133474967349,
     "images": [
@@ -18687,8 +18687,8 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 5523,
-    "forwards": 170,
+    "views": 5524,
+    "forwards": 171,
     "media_group_id": 13340239729731381,
     "images": [
       {
@@ -19677,7 +19677,7 @@
     "id": 1521,
     "date": "2022-11-23T08:50:58",
     "text": "回来啦，躲过了一场风暴\n\n书书的事情似乎并没有发展得很糟糕，感觉书书身边的大家都比当事人还要焦虑，也没有我能实际帮到的忙，反而做了好多余的事情...\n\n结果似乎是我的 deadline 进度更糟糕，堆了一学期的事情一起砸下来，今天的考试完全砸了，还欠着一个作文（x\n\n之前和某位聊到这个圈子的各种事，ta 觉得虽然抱团让大家可以互助，但是同时也很容易让我们一起掉进漩涡。也许确实是这样... 四处回响的情绪会给一个共情者很大的压力\n\n登出 telegram 的那天晚上和聊聊去湖边的荒郊野岭散步，逃脱了城市的嘈杂，看到了好多星星，被野草和湖水的气味环绕，像放下了所有包袱一样一起说笑。这是我第三次来这里了，冬天这里是一个被抛弃的废墟，路灯和设施都断了电、生了绣，手机也没有信号了。没有人反而让我更安心，可惜也没有小狐狸钻出来陪我们玩（x\n\n好想就在那里搭一个小屋住下来，好久没有这么开心过。可惜最终还是要回到城市，回到自己的笼子，踩自己布下的坑",
-    "views": 140,
+    "views": 141,
     "forwards": 2,
     "media_group_id": 13353547671408381,
     "images": [
@@ -19746,7 +19746,7 @@
     "id": 1526,
     "date": "2022-11-24T17:34:47",
     "text": "坏人进来给我最近的消息点了💩，但是 telegram 好像不能删掉一个指定的 reaction 表情，设置里禁用掉也不会影响以前的消息... 看来只能留在这里了 🥲\n\n有公开频道的大家注意去设置里把 reaction 过滤一下哦，以及记得多加几个管理员",
-    "views": 6689,
+    "views": 6690,
     "forwards": 7,
     "images": [
       {
@@ -22106,7 +22106,7 @@
     "id": 1676,
     "date": "2022-12-31T02:17:49",
     "text": "<a href=\"##桂桂书书Yuri今天吃什么\">#桂桂书书Yuri今天吃什么</a>\n炸土豆牛排 qwq\n\n第一次做油炸的食物，意外地很不错，虽然说看着这么多油我真的好害怕（x\n\n明天再单独给聊聊做一份w",
-    "views": 34,
+    "views": 35,
     "forwards": 0,
     "media_group_id": 13379624558946885,
     "images": [
