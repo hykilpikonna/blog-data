@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 5570,
+    "views": 5571,
     "forwards": 173,
     "media_group_id": 13340239729731381,
     "images": [
@@ -18990,7 +18990,7 @@
     "id": 1477,
     "date": "2022-11-08T21:32:03",
     "text": "一条指令找到系统里装的所有 Java JDK:\n\n<code>sudo find / -executable -name java -type f -exec printf \"\\033[33mFound {}\\033[0m\\n\" \\; -exec {} -version \\; -exec echo \"\" \\;</code>\n\n...然后发现我电脑上居然有 174 个 JDK，有很多是 docker 的，不过怎么连 VSCode Java 插件都会在它的本地目录装一个 JDK 下来\n(╯‵□′)╯︵┻━┻",
-    "views": 124,
+    "views": 125,
     "forwards": 2,
     "media_group_id": 13343544985353501,
     "images": [
@@ -21354,7 +21354,7 @@
     "id": 1629,
     "date": "2022-12-21T03:23:31",
     "text": "花 3h 写了一个 vue3 图片预览 qwq\n\n支持用键盘/滚轮/按钮切换图片、用键盘/按钮退出、用 Ctrl + 滚轮缩放、下载文件、显示日期/index/文字、移动视图优化\n\n<a href=\"https://github.com/one-among-us/tg-blog/blob/main/src/views/ImageViewer.vue\">代码在这里</a> （等 tg-blog 的其他功能都完善好之后再一起发布好啦",
-    "views": 67,
+    "views": 68,
     "forwards": 1,
     "media_group_id": 13372744093775109,
     "images": [
@@ -21582,7 +21582,7 @@
     "id": 1644,
     "date": "2022-12-23T08:50:56",
     "text": "🐱！",
-    "views": 63,
+    "views": 64,
     "forwards": 3,
     "images": [
       {
