@@ -16,7 +16,7 @@
     "id": 8,
     "date": "2021-09-02T03:00:59",
     "text": "<del>看我干什么w</del>",
-    "views": 41,
+    "views": 42,
     "forwards": 0,
     "images": [
       {
@@ -22237,14 +22237,14 @@
     "id": 1685,
     "date": "2023-01-01T20:51:39",
     "text": "新的一年的第一天从睡 13 小时开始 <i class=\"custom-emoji\" emoji-src=\"emoji/5469634808437021491.webp\">😴😴</i>",
-    "views": 56,
+    "views": 57,
     "forwards": 1
   },
   {
     "id": 1686,
     "date": "2023-01-02T01:45:51",
     "text": "不知不觉离上次得新冠已经过了六个月了... 什么时候再去打一个安全补丁",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "reply": {
       "id": 835,
@@ -22267,7 +22267,7 @@
     "id": 1687,
     "date": "2023-01-02T11:14:08",
     "text": "ADHD 现状：搭了 p2p 同步文件的 syncthing 和 obsidian，然后因为同步到 iOS 需要 iCloud 但是我的 iCloud 满了所以去做备份，然后发现了∞年前整理到一半的备份 🌚\n\n预计∞天之后会同样迷惑地看到今天搭到一半的 syncthing 和在 obsidian 里面写到一半的年度总结 🌚",
-    "views": 50,
+    "views": 51,
     "forwards": 0
   },
   {
@@ -22312,7 +22312,7 @@
     "id": 1690,
     "date": "2023-01-03T00:53:27",
     "text": "好羡慕 ChatGPT 的阅历... 刚出生下来就读完了世界上大部分的书还能记住好多重要的引用是多么值得羡慕的事情\n\n...except that they <em>aren't</em> quotes 🌚\n\n它回复的这五句引用我搜了整本书都并没有找到，然后我想会不会是句式相似的转述，就重新读了第四章，结果一句主题相似的句子都没找到 🥲\n\n...你不要对不知道的东西这么自信啊\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 52,
+    "views": 54,
     "forwards": 0,
     "media_group_id": 13381657658948789,
     "images": [
@@ -22399,7 +22399,7 @@
     "id": 1699,
     "date": "2023-01-04T09:42:20",
     "text": "聊聊不在家以后要让谷歌助手提醒我睡觉了（x\n\n本来想试试 ChatGPT，可惜 ChatGPT 连现在是几点都不知道... 不知道有没有办法给语言模型加这些外界 context",
-    "views": 43,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
@@ -22418,7 +22418,7 @@
     "id": 1700,
     "date": "2023-01-05T02:37:41",
     "text": "花了一天时间总算是把 linux 上的邮件客户端调好啦——\n\n新版 Thunderbird UI 终于能看了，还设好了用 yubikey + pin 的 GPG 签名 & 端到端加密 qwq\n\n然后终于可以用除了 outlook 以外的客户端登上我的 me@hydev.org 的域名邮箱了... 这个邮箱同时是 Office365 企业帐号又是 Live 个人帐号的别名，是非常小众的 case，以前除了 Outlook 没有其他客户端可以同时登上这两个帐号。现在微软已经不让把企业邮箱添加成别名了，<del>怎么感觉自己有了一个什么稀有绝版帐号（虽然用起来超级不方便\n\n</del>感觉花好长时间配 Linux 也只是用起来比原来舒服了一点点... 好累 😭",
-    "views": 38,
+    "views": 40,
     "forwards": 0,
     "media_group_id": 13383090095312605,
     "images": [
@@ -22458,7 +22458,7 @@
     "id": 1703,
     "date": "2023-01-05T03:15:01",
     "text": "pusheen!",
-    "views": 37,
+    "views": 40,
     "forwards": 0,
     "images": [
       {
@@ -22477,11 +22477,48 @@
     "id": 1704,
     "date": "2023-01-05T04:21:45",
     "text": "今天准时睡觉了 qwq",
-    "views": 37,
+    "views": 40,
     "forwards": 0,
     "reply": {
       "id": 1699,
       "text": "聊聊不在家以后要让谷歌助手提醒我睡觉了（x\n\n本来想试试 ChatGPT，可惜 ChatGPT 连现在是几点都不知道... 不知道有没有办法给语言模型加这些外界 context"
     }
+  },
+  {
+    "id": 1705,
+    "date": "2023-01-06T04:28:30",
+    "text": "今天给 <a href=\"https://one-among.us/profile/donotexist_A\">One Among Us</a> 加了链接媒体预览！\n\n因为用 Vue SSG 生成静态网页需要改的代码太多，就直接加了一个脚本在构建之后用构建好的 html 注入元数据，居然真的工作了hhh\n\n除了主页的图片以外其他页面的缩略图都是用 puppeteer 动态渲染的哦，是不是很好看 qwq\n\n毕竟<del>众所周知 html 是世界上最好看的图片渲染框架</del>。puppeteer 就是用一个虚拟浏览器把 html 元素渲染成高清图片来着，然后你就会看到我在 Github Action 里面装 X11, wayland, chrome，启动一个 xvfb... 🌚",
+    "views": 24,
+    "forwards": 0
+  },
+  {
+    "id": 1706,
+    "date": "2023-01-06T06:01:28",
+    "text": "每日健身 1/1 ✅\n\n呜呜结果今天没有早睡 看来如果想十一点上床大概要把提醒设到十点——",
+    "views": 6,
+    "forwards": 0,
+    "media_group_id": 13383879104964605,
+    "images": [
+      {
+        "width": 1280,
+        "height": 816,
+        "date": "2023-01-06T06:01:27",
+        "media_type": "photo",
+        "original_name": "photo_2023-01-06_06-01-27.jpg",
+        "url": "media/1706.jpg",
+        "size": 62540,
+        "thumb": "media/1706.jpg_thumb.jpg"
+      },
+      {
+        "width": 1237,
+        "height": 745,
+        "date": "2023-01-06T06:01:27",
+        "media_type": "photo",
+        "original_name": "photo_2023-01-06_06-01-27.jpg",
+        "url": "media/1707.jpg",
+        "size": 67135,
+        "thumb": "media/1707.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
