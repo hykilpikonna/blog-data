@@ -21601,7 +21601,7 @@
     "id": 1645,
     "date": "2022-12-24T03:17:43",
     "text": "tg-blog 写完啦，是一个用来显示电报频道数据的网页前端 qwq\n\n一个部署到了我的 blog <a href=\"https://aza.moe/life\">aza.moe</a> 上面，用来同步显示这个频道的内容。另一个部署到了 <a href=\"one-among.us\">one-among.us</a> 上面，用来备份逝者的频道。毕竟不能期待电报会永远保存频道数据，之前回收非活跃频道用户名的时候也没有提前通知...\n\n给几乎所有的消息格式都写了支持，包括矢量动画表情、视频、投票、地图位置共享、图片预览、音乐播放... <del>完全可以用来做一个第三方 Telegram 客户端了</del> （不\n\n源码链接：\n<a href=\"https://github.com/one-among-us/tg-blog\">tg-blog</a> - 网页前端\n<a href=\"https://github.com/one-among-us/TelegramBackup\">TelegramBackup</a> - 电报爬虫\n<a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> - 推特爬虫",
-    "views": 83,
+    "views": 84,
     "forwards": 5,
     "media_group_id": 13374814908025325,
     "files": [
@@ -22740,7 +22740,7 @@
     "id": 1723,
     "date": "2023-01-10T21:31:39",
     "text": "“You may not use code generated from AI tools (e.g., ChatGPT) to complete any course work.” 草哈哈哈哈\n\n这老师真的看得出来么 🌚",
-    "views": 66,
+    "views": 69,
     "forwards": 1,
     "images": [
       {
@@ -22759,7 +22759,7 @@
     "id": 1724,
     "date": "2023-01-10T23:00:28",
     "text": "<a href=\"##桂桂聊聊今天吃什么\">#桂桂聊聊今天吃什么</a>\n左宗棠鸡和芹菜炒菜花！\n\n一个人在家没动力做饭，给聊聊做就有动力了 qwq\n\n<del>（然后顺便把今天的课也翘了</del>",
-    "views": 37,
+    "views": 40,
     "forwards": 1,
     "images": [
       {
@@ -22778,7 +22778,7 @@
     "id": 1725,
     "date": "2023-01-11T03:20:44",
     "text": "C 真的好原始... 想 hack 一些作业题然后它一次一次第让我失望 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶😶</i>",
-    "views": 40,
+    "views": 46,
     "forwards": 1,
     "images": [
       {
@@ -22796,7 +22796,7 @@
   {
     "id": 1726,
     "date": "2023-01-11T03:59:06",
-    "views": 26,
+    "views": 31,
     "forwards": 0,
     "images": [
       {
@@ -22815,10 +22815,29 @@
     "id": 1727,
     "date": "2023-01-11T03:59:36",
     "text": "豆腐 hack 出来了，好厉害！\n\n原来可以这样定义一个外部的 function",
-    "views": 26,
+    "views": 30,
     "forwards": 0,
     "reply": {
       "id": 1726
     }
+  },
+  {
+    "id": 1728,
+    "date": "2023-01-11T06:23:20",
+    "text": "把去年那个下载录像的脚本改成全自动了！\n\n学校的登录验证太复杂就不逆向了，直接用 python 开一个本地 HTTP 服务器，然后调用浏览器打开 canvas url，登绿&启动 OCCS 之后油猴脚本请求 json 然后传回本地服务器把窗口关掉hhhh",
+    "views": 17,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 875,
+        "date": "2023-01-11T06:23:20",
+        "media_type": "photo",
+        "original_name": "photo_2023-01-11_06-23-20.jpg",
+        "url": "media/1728.jpg",
+        "size": 147025,
+        "thumb": "media/1728.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
