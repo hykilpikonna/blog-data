@@ -3283,7 +3283,7 @@
     "id": 362,
     "date": "2021-12-06T00:38:07",
     "text": "...原来 bend 是这样弹出来的\n要多大力气才能把一根弦推那么远 🤯",
-    "views": 37,
+    "views": 38,
     "forwards": 0,
     "reply": {
       "id": 357,
@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 5686,
+    "views": 5687,
     "forwards": 173,
     "media_group_id": 13340239729731381,
     "images": [
@@ -21601,7 +21601,7 @@
     "id": 1645,
     "date": "2022-12-24T03:17:43",
     "text": "tg-blog 写完啦，是一个用来显示电报频道数据的网页前端 qwq\n\n一个部署到了我的 blog <a href=\"https://aza.moe/life\">aza.moe</a> 上面，用来同步显示这个频道的内容。另一个部署到了 <a href=\"one-among.us\">one-among.us</a> 上面，用来备份逝者的频道。毕竟不能期待电报会永远保存频道数据，之前回收非活跃频道用户名的时候也没有提前通知...\n\n给几乎所有的消息格式都写了支持，包括矢量动画表情、视频、投票、地图位置共享、图片预览、音乐播放... <del>完全可以用来做一个第三方 Telegram 客户端了</del> （不\n\n源码链接：\n<a href=\"https://github.com/one-among-us/tg-blog\">tg-blog</a> - 网页前端\n<a href=\"https://github.com/one-among-us/TelegramBackup\">TelegramBackup</a> - 电报爬虫\n<a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> - 推特爬虫",
-    "views": 118,
+    "views": 119,
     "forwards": 7,
     "media_group_id": 13374814908025325,
     "files": [
@@ -22418,7 +22418,7 @@
     "id": 1700,
     "date": "2023-01-05T02:37:41",
     "text": "花了一天时间总算是把 linux 上的邮件客户端调好啦——\n\n新版 Thunderbird UI 终于能看了，还设好了用 yubikey + pin 的 GPG 签名 & 端到端加密 qwq\n\n然后终于可以用除了 outlook 以外的客户端登上我的 me@hydev.org 的域名邮箱了... 这个邮箱同时是 Office365 企业帐号又是 Live 个人帐号的别名，是非常小众的 case，以前除了 Outlook 没有其他客户端可以同时登上这两个帐号。现在微软已经不让把企业邮箱添加成别名了，<del>怎么感觉自己有了一个什么稀有绝版帐号（虽然用起来超级不方便\n\n</del>感觉花好长时间配 Linux 也只是用起来比原来舒服了一点点... 好累 😭",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "media_group_id": 13383090095312605,
     "images": [
@@ -22488,7 +22488,7 @@
     "id": 1705,
     "date": "2023-01-06T04:28:30",
     "text": "今天给 <a href=\"https://one-among.us/profile/donotexist_A\">One Among Us</a> 加了链接媒体预览！\n\n因为用 Vue SSG 生成静态网页需要改的代码太多，就直接加了一个脚本在构建之后用构建好的 html 注入元数据，居然真的工作了hhh\n\n除了主页的图片以外其他页面的缩略图都是用 puppeteer 动态渲染的哦，是不是很好看 qwq\n\n毕竟<del>众所周知 html 是世界上最好看的图片渲染框架</del>。puppeteer 就是用一个虚拟浏览器把 html 元素渲染成高清图片来着，然后你就会看到我在 Github Action 里面装 X11, wayland, chrome，启动一个 xvfb... 🌚",
-    "views": 56,
+    "views": 57,
     "forwards": 1
   },
   {
@@ -22584,7 +22584,7 @@
     "id": 1711,
     "date": "2023-01-07T00:10:10",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://www.bilibili.com/audio/au3699784\">https://www.bilibili.com/audio/au3699784</a>\n\n灯花给我发了她用 FL 做的曲子，好厉害 qwq",
-    "views": 58,
+    "views": 59,
     "forwards": 0
   },
   {
@@ -23076,7 +23076,7 @@
     "id": 1751,
     "date": "2023-01-14T21:12:57",
     "text": "看番看到一半收到一堆仇恨 issue，五分钟写完一个 bot 继续看番 qwq",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "media_group_id": 13389846216586981,
     "images": [
@@ -23116,7 +23116,7 @@
     "id": 1754,
     "date": "2023-01-15T04:11:17",
     "text": "我两整周都花在 one among us 上，没人表扬我的功能，没人觉得我写的功能有用，今天公交车上都在写代码，回来和我说我写的下载进度条没用？？？？\n\n删库了 全都删了，所有 git 历史都删了，cloudflare 域名删了，db 服务器 mysql 存储删了，所有的部署 branch 都删了\n\n我为什么要删？如果不是上周我申请退出的时候书把我的 owner 权限转走了我绝对不会删。基础的信任都没有了那就让它没有吧",
-    "views": 83,
+    "views": 85,
     "forwards": 13,
     "reply": {
       "id": 1747,
@@ -23128,21 +23128,21 @@
     "id": 1755,
     "date": "2023-01-15T04:53:10",
     "text": "呜呜 最近太容易生气了... 冷静下来超后悔",
-    "views": 46,
+    "views": 48,
     "forwards": 0
   },
   {
     "id": 1756,
     "date": "2023-01-15T10:02:42",
     "text": "刚才和聊聊打电话，边听她读书边做一些能让自己安心的事情，然后聊聊给我读了约翰格林 The Anthropocene Reviewed 里面的「You'll Never Walk Alone」。被这篇文章治愈了，真的非常感动...\n\n你经常感到孤独，但是即使在感觉最孤独的时候——在旅店隔离、一个人住在空空荡荡的三人小家、失去最重要的朋友——也不会真的孤独。聊聊会陪伴你，朋友们会关心你安慰你，父母和死去的作家曾经说过的话也会在你脑海中搭起小船。你不会孤单，大家的话语会伴随你穿过风雪，「You'll never walk alone」<i class=\"custom-emoji\" emoji-src=\"emoji/5469967960460237944.webp\">✨✨</i>",
-    "views": 34,
+    "views": 38,
     "forwards": 0
   },
   {
     "id": 1757,
     "date": "2023-01-15T10:13:50",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n「You'll Never Walk Alone」\n- Gerry & The Pacemakers\n\n<a href=\"https://open.spotify.com/track/6fSNK6QlZskYmKTvJnNH5P\">Spotify\n</a><a href=\"https://music.163.com/#/song?id=1328073670\">网易云</a>",
-    "views": 29,
+    "views": 36,
     "forwards": 0,
     "files": [
       {
@@ -23164,7 +23164,26 @@
     "id": 1758,
     "date": "2023-01-15T12:03:41",
     "text": "在床上躺到现在还是睡不着，有太多想写下来的文字了...",
-    "views": 23,
+    "views": 32,
     "forwards": 0
+  },
+  {
+    "id": 1759,
+    "date": "2023-01-15T15:16:17",
+    "text": "聊聊很担心我有自杀念头想让我去 CAMH... 我确实会有，但是我对终极问题的完美答案不会允许我自杀。我能控制我的思想，我会把这些想法全都塞进一个小盒子，封上盖子卷上胶布放在床下面 qwq\n\n为了让聊聊放心搭了一个 owncast 大概有死角的监控直播间，在情绪不稳定的时候大概这样会让自己更安心。欢迎大家监控我好好睡觉 <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>",
+    "views": 20,
+    "forwards": 1,
+    "images": [
+      {
+        "width": 1082,
+        "height": 863,
+        "date": "2023-01-15T15:16:17",
+        "media_type": "photo",
+        "original_name": "photo_2023-01-15_15-16-17.jpg",
+        "url": "media/1759.jpg",
+        "size": 142889,
+        "thumb": "media/1759.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
