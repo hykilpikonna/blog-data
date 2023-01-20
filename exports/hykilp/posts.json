@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 5732,
+    "views": 5733,
     "forwards": 173,
     "media_group_id": 13340239729731381,
     "images": [
@@ -18990,7 +18990,7 @@
     "id": 1477,
     "date": "2022-11-08T21:32:03",
     "text": "一条指令找到系统里装的所有 Java JDK:\n\n<code>sudo find / -executable -name java -type f -exec printf \"\\033[33mFound {}\\033[0m\\n\" \\; -exec {} -version \\; -exec echo \"\" \\;</code>\n\n...然后发现我电脑上居然有 174 个 JDK，有很多是 docker 的，不过怎么连 VSCode Java 插件都会在它的本地目录装一个 JDK 下来\n(╯‵□′)╯︵┻━┻",
-    "views": 127,
+    "views": 128,
     "forwards": 2,
     "media_group_id": 13343544985353501,
     "images": [
@@ -22399,7 +22399,7 @@
     "id": 1699,
     "date": "2023-01-04T09:42:20",
     "text": "聊聊不在家以后要让谷歌助手提醒我睡觉了（x\n\n本来想试试 ChatGPT，可惜 ChatGPT 连现在是几点都不知道... 不知道有没有办法给语言模型加这些外界 context",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "images": [
       {
@@ -22418,7 +22418,7 @@
     "id": 1700,
     "date": "2023-01-05T02:37:41",
     "text": "花了一天时间总算是把 linux 上的邮件客户端调好啦——\n\n新版 Thunderbird UI 终于能看了，还设好了用 yubikey + pin 的 GPG 签名 & 端到端加密 qwq\n\n然后终于可以用除了 outlook 以外的客户端登上我的 me@hydev.org 的域名邮箱了... 这个邮箱同时是 Office365 企业帐号又是 Live 个人帐号的别名，是非常小众的 case，以前除了 Outlook 没有其他客户端可以同时登上这两个帐号。现在微软已经不让把企业邮箱添加成别名了，<del>怎么感觉自己有了一个什么稀有绝版帐号（虽然用起来超级不方便\n\n</del>感觉花好长时间配 Linux 也只是用起来比原来舒服了一点点... 好累 😭",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13383090095312605,
     "images": [
@@ -23378,7 +23378,7 @@
     "id": 1772,
     "date": "2023-01-18T20:20:41",
     "text": "微软 msr 居然要我了？！我只申了一个实习居然进了！！\n\n心情好复杂... 收到这封邮件超级超级开心，但是原本这个暑假是打算休息来着，因为想三年毕业的话不休息大概会坏掉... 但是母上非常固执想让我申，想让我体验一下申工作的不易，我就说「那就试着申一个吧反正进不进我都不会去的」然后居然真的进了？？\n\n实习大概一定会去的，我还超喜欢这个声学研究项目... 但是我需要在把自己累坏和放弃三年毕业之间做选择 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪😪</i>\n\n以及去 Redmond 的话就要和聊聊异地了，我哭哭 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢😢</i>",
-    "views": 41,
+    "views": 42,
     "forwards": 1,
     "images": [
       {
@@ -23397,7 +23397,7 @@
     "id": 1773,
     "date": "2023-01-19T01:41:02",
     "text": "北方春节习俗之「二十七，烧只鸡」✅\n\n（把 0.5% 的小考翘了做了烤鸡 qwq\n\n原本这里应该是「杀公鸡」来着... <span class=\"spoiler\"><span>还是不要杀了，做肉的时候最不想想到的就是这块肉曾经是一个活着的小动物...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢😢</i>",
-    "views": 42,
+    "views": 44,
     "forwards": 0,
     "media_group_id": 13392739701902741,
     "images": [
@@ -23427,7 +23427,37 @@
     "id": 1775,
     "date": "2023-01-19T14:06:37",
     "text": "梦见在学校，从地上捡了一把枫叶🍁，丢进随身滚筒净化机转转转，然后浇上沙拉酱扮了枫叶沙拉 qwq",
-    "views": 38,
+    "views": 44,
     "forwards": 0
+  },
+  {
+    "id": 1776,
+    "date": "2023-01-20T08:23:42",
+    "text": "<del>桂桂家春节习俗</del>之「二十八，把面发；二十九，烤蛋糕」✅\n\n原本应该是“蒸馒头”来着，但是我身边应该没有人爱吃馒头，所以烤了抹茶奶油小蛋糕！（<del>小蛋糕也可以是馒头哦！</del>\n\n抹茶奶油放了 12% 的糖和 6% 的无印的抹茶拿铁粉，真的超好吃！做蛋糕的时候总是忍不住会到处舔奶油的边角料 <i class=\"custom-emoji\" emoji-src=\"emoji/6323605445118264983\">🙈</i>",
+    "views": 22,
+    "forwards": 1,
+    "media_group_id": 13393624182793309,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-01-20T07:56:38",
+        "media_type": "photo",
+        "original_name": "photo_2023-01-20_07-56-38.jpg",
+        "url": "media/1776.jpg",
+        "size": 686804,
+        "thumb": "media/1776.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2023-01-20T08:22:07",
+        "media_type": "photo",
+        "original_name": "photo_2023-01-20_08-22-07.jpg",
+        "url": "media/1777.jpg",
+        "size": 564973,
+        "thumb": "media/1777.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
