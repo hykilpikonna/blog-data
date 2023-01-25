@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 5769,
+    "views": 5770,
     "forwards": 174,
     "media_group_id": 13340239729731381,
     "images": [
@@ -21354,7 +21354,7 @@
     "id": 1629,
     "date": "2022-12-21T03:23:31",
     "text": "花 3h 写了一个 vue3 图片预览 qwq\n\n支持用键盘/滚轮/按钮切换图片、用键盘/按钮退出、用 Ctrl + 滚轮缩放、下载文件、显示日期/index/文字、移动视图优化\n\n<a href=\"https://github.com/one-among-us/tg-blog/blob/main/src/views/ImageViewer.vue\">代码在这里</a> （等 tg-blog 的其他功能都完善好之后再一起发布好啦",
-    "views": 76,
+    "views": 77,
     "forwards": 1,
     "media_group_id": 13372744093775109,
     "images": [
@@ -23540,7 +23540,7 @@
     "id": 1784,
     "date": "2023-01-22T01:24:27",
     "text": "逛了一圈中国村没有发现烟花，好可惜... 小时候超喜欢烟花的，每年过年最期待的就是<del>点用各种烟花缝合做成的自制火箭炮</del>，直到有一年把手烧到了... qwq\n\n不过买到了好多零食w",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -23589,7 +23589,7 @@
     "id": 1787,
     "date": "2023-01-23T04:30:24",
     "text": "今年的 New Year's Resolution：想要找回记录日常花费时间的习惯，希望这样能把作息重新调整好 <i class=\"custom-emoji\" emoji-src=\"emoji/5469967960460237944.webp\">✨✨</i>\n\n今天效率很高！花了 3h 补了 8h 的课程录像，写了一点作业，搭了一个有密码保护的直播间（虽然还没想好要怎么用\n\n去准时睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5469634808437021491.webp\">😴😴</i>",
-    "views": 46,
+    "views": 47,
     "forwards": 1,
     "images": [
       {
@@ -23608,7 +23608,7 @@
     "id": 1788,
     "date": "2023-01-24T07:15:41",
     "text": "今天花了一整天写了「WearSync」一个把手环 BLE 数据同步到 InfluxDB 的 App！\n\n现在大家可以<a href=\"https://grafana.hydev.org/heart\">在这里</a>看到我的心跳了 qwq\n\n第一次写安卓应用，感觉好奇妙，有些功能比如变量绑定超级方便，还有些异步回调过分地复杂... 要是异步可以全都用协程写就好了\n\n（TODO: 明天加睡眠数据和运动数据...\n然后就会看到「您完全不运动是吗」🌚\n\n<a href=\"https://github.com/hykilpikonna/WearSync\">Github 源码</a>",
-    "views": 46,
+    "views": 47,
     "forwards": 2,
     "images": [
       {
@@ -23627,7 +23627,7 @@
     "id": 1789,
     "date": "2023-01-24T15:30:54",
     "text": "唔 结果后台进程还是没写好，晚上的心跳没有记录上——但是电量记录上了，怪耶... 难道是 Channel.consumeAsFlow 断掉了... 还是用传统 Observer 试试\n\n以及怎么手机插着 5v1a 还在掉电 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶😶</i>",
-    "views": 39,
+    "views": 40,
     "forwards": 0,
     "images": [
       {
@@ -23646,7 +23646,7 @@
     "id": 1790,
     "date": "2023-01-25T04:25:30",
     "text": "今天<del>又花了一整天</del>添加了把小米睡眠数据同步上去的功能，然后修复了后台运行的问题 qwq\n\n...然后发现我最近 45 天里平均入睡时间居然是凌晨 03:25 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640\">😨</i>\n\n↓ 这个面板是公开的哦，<del>欢迎监督我睡觉\n</del><a href=\"gf.hydev.org\">gf.hydev.org</a>",
-    "views": 31,
+    "views": 32,
     "forwards": 1,
     "images": [
       {
