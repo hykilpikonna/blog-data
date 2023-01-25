@@ -13,6 +13,7 @@ I also love cats =^･-･^=
 
 ### 🕊️ You can reach me at <!--{ collapseSection() }-->
 
+* [Blog](https://aza.moe) | [Monitor](https://gf.hydev.org)
 * Telegram [@hykilpikonna](https://t.me/hykilpikonna)
 * Discord `Hykilpikonna#3162`
 * Email me@hydev.org
@@ -28,10 +29,10 @@ I also love cats =^･-･^=
 
 ### ⭐ I have experience using <!--{ collapseSection() }-->
 
-* Kotlin / Java - (Spring, Hibernate, ...)
+* Kotlin / Java - (Spring, Hibernate, Android, Coroutines, ...)
 * TypeScript / JS - (Vue3, Angular, Cordova, Three.js, ...)
 * HTML & SCSS
-* Python 3
+* Python 3 - (numpy, tensorflow, sklearn, pandas, numba, xgboost, ...)
 * Swift for iOS
 
 
@@ -39,13 +40,12 @@ I also love cats =^･-･^=
 
 * `1%` A risc-v 16" laptop
 * `90%` A personal home page / blog: [profile.hydev.org](https://profile.hydev.org) / [aza.moe](https://aza.moe)
-* `50%` A speech gender recognition algorithm based on ML and statistical analysis of formants.
-* `40%` A transgender voice training app.
-* `90%` Taking over neofetch with [HyFetch](https://github.com/hykilpikonna/HyFetch) / neowofetch
+* `50%` A speech gender recognition algorithm based on ML and statistical analysis of formants. 
+* `40%` A transgender voice training app. [voice.hydev.org](https://voice.hydev.org/)
 * `10%` ~~A spaced-repetition vocabulary memorization program optimized for Japanese language study - [NyaaMemo](https://github.com/hykilpikonna/AnkiNG)~~.
 
 
 ### 🌲 Completed projects <!--{ collapseSection() }-->
 
-I published most my projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), previously a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx) before we broke up last year. Currently, I publish my projects to this personal account.
-There is a list of my significant projects on my [projects website](https://me.hydev.org).
+I published many projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), previously a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx) before we broke up last year. Currently, I publish my projects to this personal account.
+There is a list of my significant projects on my [projects website](https://me.hydev.org). (TODO: Update this)
