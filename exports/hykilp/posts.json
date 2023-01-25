@@ -23608,7 +23608,7 @@
     "id": 1788,
     "date": "2023-01-24T07:15:41",
     "text": "今天花了一整天写了「WearSync」一个把手环 BLE 数据同步到 InfluxDB 的 App！\n\n现在大家可以<a href=\"https://grafana.hydev.org/heart\">在这里</a>看到我的心跳了 qwq\n\n第一次写安卓应用，感觉好奇妙，有些功能比如变量绑定超级方便，还有些异步回调过分地复杂... 要是异步可以全都用协程写就好了\n\n（TODO: 明天加睡眠数据和运动数据...\n然后就会看到「您完全不运动是吗」🌚\n\n<a href=\"https://github.com/hykilpikonna/WearSync\">Github 源码</a>",
-    "views": 37,
+    "views": 38,
     "forwards": 1,
     "images": [
       {
@@ -23627,7 +23627,7 @@
     "id": 1789,
     "date": "2023-01-24T15:30:54",
     "text": "唔 结果后台进程还是没写好，晚上的心跳没有记录上——但是电量记录上了，怪耶... 难道是 Channel.consumeAsFlow 断掉了... 还是用传统 Observer 试试\n\n以及怎么手机插着 5v1a 还在掉电 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶😶</i>",
-    "views": 26,
+    "views": 28,
     "forwards": 0,
     "images": [
       {
