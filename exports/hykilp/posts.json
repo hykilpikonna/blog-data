@@ -21601,7 +21601,7 @@
     "id": 1645,
     "date": "2022-12-24T03:17:43",
     "text": "tg-blog 写完啦，是一个用来显示电报频道数据的网页前端 qwq\n\n一个部署到了我的 blog <a href=\"https://aza.moe/life\">aza.moe</a> 上面，用来同步显示这个频道的内容。另一个部署到了 <a href=\"one-among.us\">one-among.us</a> 上面，用来备份逝者的频道。毕竟不能期待电报会永远保存频道数据，之前回收非活跃频道用户名的时候也没有提前通知...\n\n给几乎所有的消息格式都写了支持，包括矢量动画表情、视频、投票、地图位置共享、图片预览、音乐播放... <del>完全可以用来做一个第三方 Telegram 客户端了</del> （不\n\n源码链接：\n<a href=\"https://github.com/one-among-us/tg-blog\">tg-blog</a> - 网页前端\n<a href=\"https://github.com/one-among-us/TelegramBackup\">TelegramBackup</a> - 电报爬虫\n<a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> - 推特爬虫",
-    "views": 137,
+    "views": 138,
     "forwards": 7,
     "media_group_id": 13374814908025325,
     "files": [
@@ -22274,7 +22274,7 @@
     "id": 1688,
     "date": "2023-01-02T18:20:24",
     "text": "翻到一些以前的截图",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "images": [
       {
@@ -23578,7 +23578,7 @@
     "id": 1786,
     "date": "2023-01-23T00:52:00",
     "text": "...结果今天一天没吃饭反而把零食快吃完了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊🧊</i>",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "reply": {
       "id": 1784,
@@ -23589,7 +23589,7 @@
     "id": 1787,
     "date": "2023-01-23T04:30:24",
     "text": "今年的 New Year's Resolution：想要找回记录日常花费时间的习惯，希望这样能把作息重新调整好 <i class=\"custom-emoji\" emoji-src=\"emoji/5469967960460237944.webp\">✨✨</i>\n\n今天效率很高！花了 3h 补了 8h 的课程录像，写了一点作业，搭了一个有密码保护的直播间（虽然还没想好要怎么用\n\n去准时睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5469634808437021491.webp\">😴😴</i>",
-    "views": 53,
+    "views": 54,
     "forwards": 1,
     "images": [
       {
@@ -23608,7 +23608,7 @@
     "id": 1788,
     "date": "2023-01-24T07:15:41",
     "text": "今天花了一整天写了「WearSync」一个把手环 BLE 数据同步到 InfluxDB 的 App！\n\n现在大家可以<a href=\"https://grafana.hydev.org/heart\">在这里</a>看到我的心跳了 qwq\n\n第一次写安卓应用，感觉好奇妙，有些功能比如变量绑定超级方便，还有些异步回调过分地复杂... 要是异步可以全都用协程写就好了\n\n（TODO: 明天加睡眠数据和运动数据...\n然后就会看到「您完全不运动是吗」🌚\n\n<a href=\"https://github.com/hykilpikonna/WearSync\">Github 源码</a>",
-    "views": 52,
+    "views": 53,
     "forwards": 2,
     "images": [
       {
@@ -23627,7 +23627,7 @@
     "id": 1789,
     "date": "2023-01-24T15:30:54",
     "text": "唔 结果后台进程还是没写好，晚上的心跳没有记录上——但是电量记录上了，怪耶... 难道是 Channel.consumeAsFlow 断掉了... 还是用传统 Observer 试试\n\n以及怎么手机插着 5v1a 还在掉电 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶😶</i>",
-    "views": 52,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -23665,7 +23665,7 @@
     "id": 1791,
     "date": "2023-01-25T13:50:59",
     "text": "早饭是米粉 qwq\n\n聊聊终于要出院了，今天去接聊聊回家... <span class=\"spoiler\"><span>啊呜终于又可以抱着聊聊睡了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6113827929437767315\">❤</i>",
-    "views": 47,
+    "views": 49,
     "forwards": 0,
     "images": [
       {
@@ -23684,7 +23684,7 @@
     "id": 1792,
     "date": "2023-01-26T05:49:52",
     "text": "Arcaea 更新了 world extend 就重新上线玩了一会，然后同步的时候发现我居然已经 401 天没碰过 Arcaea 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640\">😨</i>\n\n时间过得好快... <del>想起高中的时候为了肝活动睡觉都要订上六个小时的闹钟</del>",
-    "views": 34,
+    "views": 37,
     "forwards": 0,
     "images": [
       {
@@ -23698,5 +23698,12 @@
         "thumb": "media/1792.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 1793,
+    "date": "2023-01-27T17:33:35",
+    "text": "昨晚和聊聊看了孤独摇滚的第一集，我全程 be like「啊 这完全就是我吗」<i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌🛌</i>\n\n还是好社恐... 刚才在 CSSU 写作业，Jamie 问我要不要去 Kensington 然后有点被吓到就习惯性地拒绝了，明明我也要去吃午饭来着，还想去 Kensington 旁边的 united hardware store 看看，结果还是一个人去大统华了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭😭</i>",
+    "views": 16,
+    "forwards": 0
   }
 ]
