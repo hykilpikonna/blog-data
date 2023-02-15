@@ -2619,7 +2619,7 @@
     "id": 285,
     "date": "2021-11-23T23:07:30",
     "text": "坏女孩发现了新大陆w",
-    "views": 39,
+    "views": 40,
     "forwards": 0,
     "media_group_id": 13101670805795957,
     "images": [
@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 5962,
+    "views": 5963,
     "forwards": 175,
     "media_group_id": 13340239729731381,
     "images": [
@@ -24372,7 +24372,7 @@
     "id": 1837,
     "date": "2023-02-12T16:01:53",
     "text": "家里没有李子酱了，试试蘸草莓果酱吃炸鸡块，意外地好好吃 qwq\n\n（毕竟草莓果酱和李子酱同样是酸甜，虽然更偏甜一点",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -24391,21 +24391,21 @@
     "id": 1838,
     "date": "2023-02-13T00:46:42",
     "text": "ADHD 现状：需要读一篇 15 页的论文\n\n第一天：先丢给语言模型生成一个概括吧，发现 bart 模型有长度限制，尝试用 symai stream 绕过限制。但是 symai 默认用的是收费的 gpt3，但是我不想给 openai 钱，尝试自己跑免费 gpt-j-6B，发现显存装不下，魔改了 symsrv 的代码让它在 cpu 上跑一个小时都没跑出来，换了小模型发现生成结果并不能读，然后还是老实把 api token 放进去了... 花了 $1 生成完发现好多地方 AI 都理解错了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪😪</i>\n\n回过神来发现已经六个小时过去了，回去读了一页原文就去睡觉了...\n\n第二天：读了第二页，发现有好多生词，复制粘贴查词典好麻烦。装了各种选中查词的词典软件都不兼容 zotero，装了一个 zotero 插件但是不支持离线词典，每次查词都要等超级久。然后尝试魔改插件的代码让它兼容离线 dictd 协议，发现 dictd 居然是独立的 TCP 协议，没有 http api 所以 js 不能访问... 然后开始写一个 RFC dict:// to rest api 的中间件\n(╯’ – ‘)╯︵ ┻━┻\n\n好，现在第二天快结束了，15 页的论文刚读到第二页... overdue 几天的作文还一笔没动",
-    "views": 49,
+    "views": 50,
     "forwards": 2
   },
   {
     "id": 1839,
     "date": "2023-02-13T02:51:53",
     "text": "呜 刚刚发现 matrix 上朋友一个月前给我发了消息现在才看到... 结果搭了 matrix 也一个月没有登录过\n\n感觉好对不起那些不用 telegram 的朋友...",
-    "views": 50,
+    "views": 51,
     "forwards": 0
   },
   {
     "id": 1840,
     "date": "2023-02-13T06:49:32",
     "text": "补了水星的魔女第一集，这个展开好爽好甜我死了 qwq\n\n看了超压抑的先导集完全想不到第一集会这样写哇，还好没有被剧透",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -24506,7 +24506,7 @@
     "id": 1845,
     "date": "2023-02-14T15:32:24",
     "text": "和聊聊一起做的抹茶酸奶慕斯！\n\n情人节快乐ww <i class=\"custom-emoji\" emoji-src=\"emoji/6113827929437767315\">❤</i>",
-    "views": 55,
+    "views": 57,
     "forwards": 2,
     "media_group_id": 13411109953852685,
     "images": [
