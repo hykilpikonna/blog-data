@@ -21354,7 +21354,7 @@
     "id": 1629,
     "date": "2022-12-21T03:23:31",
     "text": "花 3h 写了一个 vue3 图片预览 qwq\n\n支持用键盘/滚轮/按钮切换图片、用键盘/按钮退出、用 Ctrl + 滚轮缩放、下载文件、显示日期/index/文字、移动视图优化\n\n<a href=\"https://github.com/one-among-us/tg-blog/blob/main/src/views/ImageViewer.vue\">代码在这里</a> （等 tg-blog 的其他功能都完善好之后再一起发布好啦",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "media_group_id": 13372744093775109,
     "images": [
@@ -23559,7 +23559,7 @@
     "id": 1785,
     "date": "2023-01-22T05:01:41",
     "text": "东岸新春快乐！兔年猫猫年快乐ww\n\n祝大家新的一年也一定会活着、会偶尔很开心地望向路边玩闹的小松鼠小海鸥——每年都只要再活一年就好 qwq",
-    "views": 89,
+    "views": 90,
     "forwards": 2,
     "images": [
       {
@@ -23578,7 +23578,7 @@
     "id": 1786,
     "date": "2023-01-23T00:52:00",
     "text": "...结果今天一天没吃饭反而把零食快吃完了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊🧊</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "reply": {
       "id": 1784,
@@ -24391,21 +24391,21 @@
     "id": 1838,
     "date": "2023-02-13T00:46:42",
     "text": "ADHD 现状：需要读一篇 15 页的论文\n\n第一天：先丢给语言模型生成一个概括吧，发现 bart 模型有长度限制，尝试用 symai stream 绕过限制。但是 symai 默认用的是收费的 gpt3，但是我不想给 openai 钱，尝试自己跑免费 gpt-j-6B，发现显存装不下，魔改了 symsrv 的代码让它在 cpu 上跑一个小时都没跑出来，换了小模型发现生成结果并不能读，然后还是老实把 api token 放进去了... 花了 $1 生成完发现好多地方 AI 都理解错了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪😪</i>\n\n回过神来发现已经六个小时过去了，回去读了一页原文就去睡觉了...\n\n第二天：读了第二页，发现有好多生词，复制粘贴查词典好麻烦。装了各种选中查词的词典软件都不兼容 zotero，装了一个 zotero 插件但是不支持离线词典，每次查词都要等超级久。然后尝试魔改插件的代码让它兼容离线 dictd 协议，发现 dictd 居然是独立的 TCP 协议，没有 http api 所以 js 不能访问... 然后开始写一个 RFC dict:// to rest api 的中间件\n(╯’ – ‘)╯︵ ┻━┻\n\n好，现在第二天快结束了，15 页的论文刚读到第二页... overdue 几天的作文还一笔没动",
-    "views": 51,
+    "views": 52,
     "forwards": 2
   },
   {
     "id": 1839,
     "date": "2023-02-13T02:51:53",
     "text": "呜 刚刚发现 matrix 上朋友一个月前给我发了消息现在才看到... 结果搭了 matrix 也一个月没有登录过\n\n感觉好对不起那些不用 telegram 的朋友...",
-    "views": 52,
+    "views": 53,
     "forwards": 0
   },
   {
     "id": 1840,
     "date": "2023-02-13T06:49:32",
     "text": "补了水星的魔女第一集，这个展开好爽好甜我死了 qwq\n\n看了超压抑的先导集完全想不到第一集会这样写哇，还好没有被剧透",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -24424,7 +24424,7 @@
     "id": 1841,
     "date": "2023-02-14T01:30:11",
     "text": "谷歌谁设计的 UI <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266\">😡</i>",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -24443,7 +24443,7 @@
     "id": 1842,
     "date": "2023-02-14T02:14:11",
     "text": "睡衣穿破了，画了一只眼睛www",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -24462,7 +24462,7 @@
     "id": 1843,
     "date": "2023-02-14T02:38:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n「We're Finally Landing」—HOME\n\n从聊聊看的某个视频里面听到的，怎么整首歌都是 arp 好棒啊ww\n\n<a href=\"https://y.music.163.com/m/song?id=466332691\">网易云</a>",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "files": [
       {
@@ -24506,7 +24506,7 @@
     "id": 1845,
     "date": "2023-02-14T15:32:24",
     "text": "和聊聊一起做的抹茶酸奶慕斯！\n\n情人节快乐ww <i class=\"custom-emoji\" emoji-src=\"emoji/6113827929437767315\">❤</i>",
-    "views": 77,
+    "views": 79,
     "forwards": 2,
     "media_group_id": 13411109953852685,
     "images": [
@@ -24546,7 +24546,7 @@
     "id": 1848,
     "date": "2023-02-15T17:41:26",
     "text": "<a href=\"##桂桂聊聊今天吃什么\">#桂桂聊聊今天吃什么</a>\n和聊聊一起做的日式叉烧酱油面！\n\n第一次捆五花肉做日式叉烧，感觉真的好钠超标，这次放了半瓶 300g 酱油哇... 不想浪费就用炖肉的汤底做了酱油面，剩下的汤底也收汁保存起来了",
-    "views": 42,
+    "views": 46,
     "forwards": 1,
     "media_group_id": 13411863089365933,
     "images": [
@@ -24586,7 +24586,7 @@
     "id": 1851,
     "date": "2023-02-15T19:58:11",
     "text": "果然 Khan Academy 上 14 年前的十分钟视频还是比 UofT 教授三个小时讲得清楚（笑",
-    "views": 39,
+    "views": 44,
     "forwards": 1,
     "images": [
       {
@@ -24605,7 +24605,7 @@
     "id": 1852,
     "date": "2023-02-16T00:26:38",
     "text": "原来 uoft 冬天摆在地上的地毯是接了电源的电热垫，好高端",
-    "views": 34,
+    "views": 41,
     "forwards": 1,
     "media_group_id": 13412057584132165,
     "images": [
@@ -24628,6 +24628,25 @@
         "url": "media/1853.jpg",
         "size": 844556,
         "thumb": "media/1853.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1854,
+    "date": "2023-02-16T18:31:06",
+    "text": "电灯杆上长出了树枝 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346\">🤩</i>",
+    "views": 23,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1416,
+        "height": 2016,
+        "date": "2023-02-16T18:31:06",
+        "media_type": "photo",
+        "original_name": "photo_2023-02-16_18-31-06.jpg",
+        "url": "media/1854.jpg",
+        "size": 361854,
+        "thumb": "media/1854.jpg_thumb.jpg"
       }
     ]
   }
