@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-03-15T02:21:38.036741+00:00</updated>
+  <updated>2023-03-15T04:03:12.594024+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>1935</id>
+    <title>小桂桂的回忆录 📒 #1935</title>
+    <updated>2023-03-15T03:40:43+00:00</updated>
+    <content>&lt;p&gt;啊啊啊它工作！！！它工作！！我的想法工作！！&lt;/p&gt;
+&lt;p&gt;好，开坑做一个可以在家 3D 打印的开源打击琴！接下来就是 24h 无间断的 3D 打印了，&lt;del&gt;定闹钟每小时叫醒我一次换文件&lt;/p&gt;
+&lt;p&gt;&lt;/del&gt;压电片用来做打击力度感应效果好棒！虽然花了好久 fine-tune 但是声音真的会跟着打击力度变大变小了。不过打得特别轻还是识别不到，可能要写一个 UI 给每个键单独设阈值，还有好多改进空间。以及琴架设计还要再想想，想要减震又不失颜值。明天考完试继续 qwq&lt;/p&gt;
+&lt;p&gt;（不要吐槽为什么琴槌是一根筷子穿着一个麻薯hhhh&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=1935" rel="alternate"/>
+  </entry>
   <entry>
     <id>1934</id>
     <title>小桂桂的回忆录 📒 #1934</title>
