@@ -12,7 +12,14 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Mar 2023 22:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 00:05:52 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #1955</title>
+      <link>https://aza.moe/life?post=1955</link>
+      <description>&lt;p&gt;今天花了一整天时间焊元件，在洞洞板上焊两排一共 24 个电阻二极管。所有能想到的事故都发生了，焊了六个小时之后哭着想要放弃，真的好受打击... 看到 SIG 焊盘掉了我真的哭出来了，又两小时的工作白费了的那种感觉。然后！然后突然聪明了一秒发现其实整个六小时都是白费&lt;/p&gt;
+&lt;p&gt;之前看的教程是四个传感器都接了单独的输入，所以每个都需要单独的电阻和二极管。但是我的传感器走了复用，也就是说其实我可以直接把电阻和二极管接到复用器的出口，用 1/12 阻抗的电阻，这样就只需要 5 套而不是 61 套电阻和二极管了... 怎么花了四天才想明白啊，蠢死了，焊好的元件还能退吗 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;</description>
+      <guid isPermaLink="false">1955</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #1953</title>
       <link>https://aza.moe/life?post=1953</link>

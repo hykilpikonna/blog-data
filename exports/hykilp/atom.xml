@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-03-18T22:02:59.516778+00:00</updated>
+  <updated>2023-03-19T00:05:52.418020+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>1955</id>
+    <title>小桂桂的回忆录 📒 #1955</title>
+    <updated>2023-03-18T23:57:08+00:00</updated>
+    <content>&lt;p&gt;今天花了一整天时间焊元件，在洞洞板上焊两排一共 24 个电阻二极管。所有能想到的事故都发生了，焊了六个小时之后哭着想要放弃，真的好受打击... 看到 SIG 焊盘掉了我真的哭出来了，又两小时的工作白费了的那种感觉。然后！然后突然聪明了一秒发现其实整个六小时都是白费&lt;/p&gt;
+&lt;p&gt;之前看的教程是四个传感器都接了单独的输入，所以每个都需要单独的电阻和二极管。但是我的传感器走了复用，也就是说其实我可以直接把电阻和二极管接到复用器的出口，用 1/12 阻抗的电阻，这样就只需要 5 套而不是 61 套电阻和二极管了... 怎么花了四天才想明白啊，蠢死了，焊好的元件还能退吗 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=1955" rel="alternate"/>
+  </entry>
   <entry>
     <id>1953</id>
     <title>小桂桂的回忆录 📒 #1953</title>
