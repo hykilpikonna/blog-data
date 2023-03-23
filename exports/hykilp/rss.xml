@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Mar 2023 10:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2023 12:03:19 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #1967</title>
+      <link>https://aza.moe/life?post=1967</link>
+      <description>&lt;p&gt;WS2812 灯真是一个超天才的设计&lt;/p&gt;
+&lt;p&gt;众所周知一个全彩灯需要三个引脚，分别控制 RGB。假如我想要连 20 个 LED 灯，直接连需要 60 个输出口。可是我的开发板一共只有 48 个输出口，怎么办呢？&lt;/p&gt;
+&lt;p&gt;WS2812 的解决方案是把时序电路做在每个灯上，顺序读取代表着 RGB 颜色的 24 位之后存起来，再把接下来的数据全部传给下一个灯，一个一个传下去，直到收到「重置」信号再从头开始更新自己的颜色。&lt;/p&gt;
+&lt;p&gt;这样只用一个输出口就可以单独控制∞个灯的颜色了哇，好厉害！（虽然接太多的话更新速度会慢hhh&lt;/p&gt;</description>
+      <guid isPermaLink="false">1967</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #1966</title>
       <link>https://aza.moe/life?post=1966</link>

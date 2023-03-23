@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-03-23T10:03:25.728282+00:00</updated>
+  <updated>2023-03-23T12:03:19.328108+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>1967</id>
+    <title>小桂桂的回忆录 📒 #1967</title>
+    <updated>2023-03-23T11:21:51+00:00</updated>
+    <content>&lt;p&gt;WS2812 灯真是一个超天才的设计&lt;/p&gt;
+&lt;p&gt;众所周知一个全彩灯需要三个引脚，分别控制 RGB。假如我想要连 20 个 LED 灯，直接连需要 60 个输出口。可是我的开发板一共只有 48 个输出口，怎么办呢？&lt;/p&gt;
+&lt;p&gt;WS2812 的解决方案是把时序电路做在每个灯上，顺序读取代表着 RGB 颜色的 24 位之后存起来，再把接下来的数据全部传给下一个灯，一个一个传下去，直到收到「重置」信号再从头开始更新自己的颜色。&lt;/p&gt;
+&lt;p&gt;这样只用一个输出口就可以单独控制∞个灯的颜色了哇，好厉害！（虽然接太多的话更新速度会慢hhh&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=1967" rel="alternate"/>
+  </entry>
   <entry>
     <id>1966</id>
     <title>小桂桂的回忆录 📒 #1966</title>
