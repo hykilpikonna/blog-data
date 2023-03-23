@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-03-23T20:03:39.535974+00:00</updated>
+  <updated>2023-03-23T22:03:27.935598+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>1968</id>
+    <title>小桂桂的回忆录 📒 #1968</title>
+    <updated>2023-03-23T20:03:41+00:00</updated>
+    <content>&lt;p&gt;今天把打算放在琴最右边的 MIDI 控制板也做完了！呜 又一天没睡，记录一下我精神崩溃的过程。&lt;/p&gt;
+&lt;p&gt;凌晨十二点：不就是连几个按钮旋钮嘛，一个小时肯定够了！&lt;/p&gt;
+&lt;p&gt;两点：咦，怎么开关和旋钮都需要上拉电阻的？
+三点：这个编码器到底是上拉还是下拉，文档没有写啊...
+四点：线连好了，整理下电路图开始摆 PCB！（&lt;del&gt;然后花了一个小时整理电路图&lt;/del&gt;）
+五点：元件摆好了！再在这里加一只小猫，诶嘿嘿 &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;
+六点：手焊的版本传上去了，但是想加点光污染，怎么办呢？好像单独的 RGB 控制芯片都不是很好用的样子，问问 GPT。
+七点：哇 WS2812 灯好厉害！但是因为尺寸太小就不能手焊了，干脆把整个板子改成贴片——
+八点：终于终于全都摆好了。那么接下来只要... 上传贴片的时候告诉我我选的灯太小，￥130 的优惠流程不能贴，要多花 ￥300 &lt;i class="custom-emoji" emoji-src="emoji/6323397499981661640.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;为什么不在选元件的时候告诉我啊 (╯’ – ‘)╯︵ ┻━┻ 好崩溃。&lt;/p&gt;
+&lt;p&gt;中午十二点：好了好了，深呼吸，把所有灯换成大一点的规格重新布局吧... 然后改到了现在下午三点 &lt;i class="custom-emoji" emoji-src="emoji/6170358057059485759.webm"&gt;😪&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;不过终于完全做完了！接琴键的电路板和这个 MIDI 面板都提交打印了，接下来只剩下漫长的等待...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=1968" rel="alternate"/>
+  </entry>
   <entry>
     <id>1967</id>
     <title>小桂桂的回忆录 📒 #1967</title>
