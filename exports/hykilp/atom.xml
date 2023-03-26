@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-03-26T06:03:33.066532+00:00</updated>
+  <updated>2023-03-26T07:39:51.047420+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>1978</id>
+    <title>小桂桂的回忆录 📒 #1978</title>
+    <updated>2023-03-26T07:19:40+00:00</updated>
+    <content>&lt;p&gt;昨晚有小幽灵托梦给我这个 Pusheen 坐着扫地机转来转去的 DVD 屏保然后就画出来了！第一次画矢量动画！&lt;/p&gt;
+&lt;p&gt;踩了好多坑。原本想要用 Lottie 渲染全矢量动画，又开源又可以流畅 60fps 听起来好完美... 然后发现并没有开源软件可以做 Lottie。看到网上说 SVGator 免费，就先用 Illustrator 画完丢进去做了动画，然而全做完才发现导出颜色滤镜和带透明度的视频格式都需要会员，这哪里免费了啊 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;试了各种转换都没成功之后还是换 After Effects 重做了。虽然有 Adobe 全家桶但是一直很害怕碰 AE，看着这么复杂的 UI 总感觉做简单的效果都要学好多基础。不过做完发现好像门槛也没有那么高，磕磕绊绊地到处查查再问问 ChatGPT 就做完了。好耶，技能树又多开了一个分支（？）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=1978" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>1977</id>
+    <title>小桂桂的回忆录 📒 #1977</title>
+    <updated>2023-03-26T06:20:07+00:00</updated>
+    <content/>
+    <link href="https://aza.moe/life?post=1977" rel="alternate"/>
+  </entry>
   <entry>
     <id>1976</id>
     <title>小桂桂的回忆录 📒 #1976</title>
