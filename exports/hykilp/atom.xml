@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-03-28T00:04:18.629082+00:00</updated>
+  <updated>2023-03-28T02:19:21.028653+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>1982</id>
+    <title>小桂桂的回忆录 📒 #1982</title>
+    <updated>2023-03-28T01:47:53+00:00</updated>
+    <content>&lt;p&gt;开坑爬一个 LCSC API 的完整 dump！想再写一个离线搜索客户端，以后找电子原件就不需要再用官方那个糟糕搜索引擎了。&lt;/p&gt;
+&lt;p&gt;我都不知道该从哪里吐槽... 官方搜索甚至不能按数字搜索尺寸，想选中一个范围也同样不行。如果你在找可以插 28 AWG 线的端子元件，你只能把 AWG 那栏里 "24-30", "22-30", "22-28" 等等所有包含 28 的字符串选项都选上 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;跑了六个小时已经下载了 20%，基础信息加上所有图片和数据文档一共 300gb，全部爬完大概会有 1.5T 吧，不知道压缩之后会有多大（x&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=1982" rel="alternate"/>
+  </entry>
   <entry>
     <id>1981</id>
     <title>小桂桂的回忆录 📒 #1981</title>
