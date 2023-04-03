@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-04-03T14:03:26.059462+00:00</updated>
+  <updated>2023-04-03T16:03:28.854368+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2003</id>
+    <title>小桂桂的回忆录 📒 #2003</title>
+    <updated>2023-04-03T15:08:14+00:00</updated>
+    <content>&lt;p&gt;哭了... 之前寄 PCB 的时候专门分析了物流数据选了平均送达时间第四位的 FedEx 路线，平均只要九天而且时间分布范围特别小，结果我的订单六天还没有出深圳 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;是不是已经倒霉到可以去买彩票了&lt;/del&gt;，不知道还要等多久... &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;这是之前从 Superbuy 主页的「大家都在买和寄」公开推荐栏爬下来的从 2020-12-31 到现在的全部 135205 个运单数据来着。防止所有权冲突就不把数据公开发出来啦，需要的人可以联系（不过爬虫也挺好写的hhh&lt;/p&gt;
+&lt;p&gt;完整分析: &lt;a href="https://github.com/hykilpikonna/Superbuy/blob/main/analysis.ipynb"&gt;Analysis.ipynb&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2003" rel="alternate"/>
+  </entry>
   <entry>
     <id>1999</id>
     <title>小桂桂的回忆录 📒 #1999</title>
