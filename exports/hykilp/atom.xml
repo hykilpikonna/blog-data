@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-04-05T04:03:33.010957+00:00</updated>
+  <updated>2023-04-05T06:03:10.139523+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2007</id>
+    <title>小桂桂的回忆录 📒 #2007</title>
+    <updated>2023-04-05T04:07:52+00:00</updated>
+    <content>&lt;p&gt;再次花一天补完了一整月的录像，好累。&lt;a href="https://hydev.notion.site/CSC343-Databases-37897edfc2a242c08995de9c54157c3a"&gt;笔记在这里&lt;/a&gt;，好现在补完课可以开始写明晚要交的大作业了 &lt;i class="custom-emoji" emoji-src="emoji/6323380753904174863.webp"&gt;😭&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;这次提前用 OpenAI Whisper 模型生成了字幕，有字幕之后两倍速也不需要常常回放了，比上次补课快了很多！这是 OpenAI 的最后一个开源模型，好准确几乎没有看到错误哇。之前想做一个 AI 友人来着，想找时间试试把 Whisper 实时从麦克风识别的输出接到语言模型上就可以和 AI 聊天了！还想给 VLC 写一个实时生成字幕的插件，不过还没有写过 Lua 也许需要适应一下。呜，想要做的事情又开始堆得越来越多... 什么时候会有时间开始 pop 呢 &lt;i class="custom-emoji" emoji-src="emoji/6323364467388188938.webp"&gt;😴&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;明天应该是最后一节课了... 明明从开学到现在一节课都没去过，却还是会有不舍的心情，为什么呢？明明这段回忆从未属于我...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2007" rel="alternate"/>
+  </entry>
   <entry>
     <id>2006</id>
     <title>小桂桂的回忆录 📒 #2006</title>
