@@ -9,14 +9,14 @@
     "id": 3,
     "date": "2021-05-07T14:44:23",
     "text": "是梦开始的地方w",
-    "views": 39,
+    "views": 40,
     "forwards": 1
   },
   {
     "id": 8,
     "date": "2021-09-02T03:00:59",
     "text": "<del>看我干什么w</del>",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -7203,7 +7203,7 @@
     "id": 654,
     "date": "2022-04-07T04:07:16",
     "text": "...好用个鬼呀（掀\n\n除了超级简单的函数以外，其他函数都要改超级多东西才能用 Numba 编译...\n\n今天遇到的各种问题：\n1. np.vstack 不支持，所以用原始 for loop 手写了一个轮子\n2. 如果有 n 个可选参数，它必须编译成 n^2 + 1 个不同的 native 函数\n3. 类型推导超迷惑... 图上这个报错说 float64[] 不能转换成 float32[]，但是明明我所有类型连常量都标了 float32 🌚\n\n还想把整个后端的计算都套一遍 Numba... 现在发现翻译一个函数要半小时 😭",
-    "views": 45,
+    "views": 46,
     "forwards": 0,
     "media_group_id": 13194435492083381,
     "images": [
@@ -7237,13 +7237,13 @@
     "id": 656,
     "date": "2022-04-08T02:45:19",
     "text": "结课啦！\n然后下午一下子睡了 5h，睡到头疼hhhh",
-    "views": 54,
+    "views": 55,
     "forwards": 0
   },
   {
     "id": 658,
     "date": "2022-04-08T21:14:04",
-    "views": 57,
+    "views": 58,
     "forwards": 1,
     "images": [
       {
@@ -7262,7 +7262,7 @@
     "id": 659,
     "date": "2022-04-08T21:14:17",
     "text": "这套真的好适合聊聊\n聊聊也是过期 JK 了ww",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "reply": {
       "id": 658
@@ -7272,7 +7272,7 @@
     "id": 660,
     "date": "2022-04-09T03:41:39",
     "text": "电脑桌变成了聊聊的模玩工作室w",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "media_group_id": 13195805597487309,
     "images": [
@@ -7292,7 +7292,7 @@
     "id": 662,
     "date": "2022-04-10T02:06:06",
     "text": "好特别的四轮自行车w",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -7311,7 +7311,7 @@
     "id": 663,
     "date": "2022-04-10T10:52:04",
     "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: <code>pip install hyfetch</code> \n(python > 3.7)\n\n<a href=\"https://github.com/hykilpikonna/hyfetch\">源码</a> （欢迎贡献！",
-    "views": 325,
+    "views": 326,
     "forwards": 11,
     "media_group_id": 13196703396479709,
     "images": [
@@ -7351,14 +7351,14 @@
     "id": 666,
     "date": "2022-04-10T11:00:44",
     "text": "天亮了！（哭",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 667,
     "date": "2022-04-11T20:49:14",
     "text": "我居然真的重写了一个分布式计算的轮子...\n\n居然真的做到了差不多是 Linear Scaling！三台服务器总共 GPU 跑分加起来大概是这台的 4.1 倍，运行时间也缩短了 3.7 倍，只有 9.7% 的 overhead",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13197681236959341,
     "images": [
@@ -7388,7 +7388,7 @@
     "id": 669,
     "date": "2022-04-11T22:48:16",
     "text": "开始<del>健康饮食</del>",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13197738374548853,
     "images": [
@@ -26559,7 +26559,7 @@
     "id": 1990,
     "date": "2023-03-31T08:39:59",
     "text": "今天是一年一度的跨性别现身日哦，准备了一张刮画 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n无论认同和身份，希望每个人都可以不受拘束地展现出最真实的自己，在茫茫宇宙中找到自己的归宿，点亮属于自己的光芒 qwq",
-    "views": 393,
+    "views": 394,
     "forwards": 4,
     "images": [
       {
@@ -26810,7 +26810,7 @@
     "id": 2007,
     "date": "2023-04-05T04:07:52",
     "text": "再次花一天补完了一整月的录像，好累。<a href=\"https://hydev.notion.site/CSC343-Databases-37897edfc2a242c08995de9c54157c3a\">笔记在这里</a>，好现在补完课可以开始写明晚要交的大作业了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n这次提前用 OpenAI Whisper 模型生成了字幕，有字幕之后两倍速也不需要常常回放了，比上次补课快了很多！这是 OpenAI 的最后一个开源模型，好准确几乎没有看到错误哇。之前想做一个 AI 友人来着，想找时间试试把 Whisper 实时从麦克风识别的输出接到语言模型上就可以和 AI 聊天了！还想给 VLC 写一个实时生成字幕的插件，不过还没有写过 Lua 也许需要适应一下。呜，想要做的事情又开始堆得越来越多... 什么时候会有时间开始 pop 呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>\n\n明天应该是最后一节课了... 明明从开学到现在一节课都没去过，却还是会有不舍的心情，为什么呢？明明这段回忆从未属于我...",
-    "views": 44,
+    "views": 45,
     "forwards": 1,
     "media_group_id": 13445341380921389,
     "images": [
@@ -26923,7 +26923,7 @@
     "id": 2015,
     "date": "2023-04-07T06:22:51",
     "text": "花瓶打完了！效果真的好棒好美，爱了爱了 qwq\n\n（感谢 Area3d 做的<a href=\"https://www.thingiverse.com/thing:4899605\">模型</a>）",
-    "views": 56,
+    "views": 58,
     "forwards": 1,
     "media_group_id": 13446788573731053,
     "images": [
@@ -26963,7 +26963,7 @@
     "id": 2018,
     "date": "2023-04-07T13:39:57",
     "text": "后续：前天校医问了些初筛的问题，但是全科医生并不能开药，所以她决定给我 refer 一个精神科医生再详细评估开药... 然后她说因为精神科医生等待时间太长了五月我去美国之前应该是约不上了所以等九月重来吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 30,
+    "views": 31,
     "forwards": 0,
     "reply": {
       "id": 1909,
