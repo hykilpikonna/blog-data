@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-04-08T12:03:10.723252+00:00</updated>
+  <updated>2023-04-08T14:03:17.810414+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2019</id>
+    <title>小桂桂的回忆录 📒 #2019</title>
+    <updated>2023-04-08T14:02:26+00:00</updated>
+    <content>&lt;p&gt;通宵爆肝 14h 终于把数据库最后一个大作业写完了...&lt;/p&gt;
+&lt;p&gt;好讨厌这次作业。要求设计一个数据库但是所有要求都特别的含糊，要加不知道能不能加的假设，问答平台教授也不说明，大概是想让我们体验真实世界设计数据库的感觉吧。我觉得实践挺好的，问题是它不像去年的实践课那样按功能完成度打分，它是有正确答案的，所以比起自由发挥反而大部分时间都在乱猜「教授看着答案写出这个题目的时候应该是想让我们这样解吧...」啊好烦好烦 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;还写了两个查询时间随随便便就 O(n*m) 的理论写法hhh 地球应用应该没人会这样写吧，这两个地方手动优化都是能 O(1) 的 🌚&lt;/p&gt;
+&lt;p&gt;不过总算是写完啦，感觉又一次花半年学到了一个「我不喜欢」，&lt;del&gt;学了 sql 才知道最近在用的 mongo 和 influx 有多么灵活&lt;/del&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2019" rel="alternate"/>
+  </entry>
   <entry>
     <id>2018</id>
     <title>小桂桂的回忆录 📒 #2018</title>
