@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Apr 2023 10:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2023 12:03:25 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2024</title>
+      <link>https://aza.moe/life?post=2024</link>
+      <description>&lt;p&gt;Bell 的光猫好糟糕，出错的时候不会自动重启，这周已经因为它宕机两次了，导致 uptime 只有 95%... &lt;i class="custom-emoji" emoji-src="emoji/6323380753904174863.webp"&gt;😭&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;临时想办法用智能插座再写了一个脚本解决啦，如果检测到断网一分钟就调 Home Assistant 重启路由器，感觉好灵车不过 it works！（拔网线测试过了hhh）&lt;/p&gt;
+&lt;p&gt;测试的时候发现 tuya 设备官方并不支持离线控制。即使连在同一个局域网，断了外网还是不能控制，好糟糕。饶了一大圈最后用第三方的 LocalTuya 插件解决啦，虽然配对过程还是要注册 tuya 开发者帐号填一堆 token 好过分，把大家的智能家具都看光了 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;等闲下来一定把它刷成开源 tasmota 固件&lt;/p&gt;</description>
+      <guid isPermaLink="false">2024</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2023</title>
       <link>https://aza.moe/life?post=2023</link>

@@ -3283,7 +3283,7 @@
     "id": 362,
     "date": "2021-12-06T00:38:07",
     "text": "...原来 bend 是这样弹出来的\n要多大力气才能把一根弦推那么远 🤯",
-    "views": 40,
+    "views": 41,
     "forwards": 0,
     "reply": {
       "id": 357,
@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6377,
+    "views": 6378,
     "forwards": 175,
     "media_group_id": 13340239729731381,
     "images": [
@@ -27004,7 +27004,7 @@
     "id": 2021,
     "date": "2023-04-08T14:25:11",
     "text": "美好的一天从早上十点睡觉开始 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 40,
+    "views": 41,
     "forwards": 0,
     "reply": {
       "id": 1984,
@@ -27015,14 +27015,44 @@
     "id": 2022,
     "date": "2023-04-08T22:23:32",
     "text": "我：今天是星期几来着？\n聊：周四呀\n：啊？\n：不对是周五\n：...啊？\n：（看表）哦哦不对今天是周六啊\n\n...为什么我不记得今天是星期几却记得今天不是星期几，好怪 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 35,
+    "views": 40,
     "forwards": 0
   },
   {
     "id": 2023,
     "date": "2023-04-09T02:56:04",
     "text": "和聊聊去看了 Super Mario 电影。这次我也认出了好多好多彩蛋玩梗哇，以前还总要聊聊暂停给我讲梗来着（？）像是终于被从火星救回来了吗。除了彩蛋，感觉这部电影还很精妙地捕捉了马里奥这种平台游戏游戏的精髓——死无数次还不知道为什么在继续玩的执着 🌚\n\n<del>你看我这么不擅长平台游戏的人死了∞次之后也快打通蔚蓝了，还有什么做不到么</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 28,
+    "views": 34,
     "forwards": 0
+  },
+  {
+    "id": 2024,
+    "date": "2023-04-09T10:53:06",
+    "text": "Bell 的光猫好糟糕，出错的时候不会自动重启，这周已经因为它宕机两次了，导致 uptime 只有 95%... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n临时想办法用智能插座再写了一个脚本解决啦，如果检测到断网一分钟就调 Home Assistant 重启路由器，感觉好灵车不过 it works！（拔网线测试过了hhh）\n\n测试的时候发现 tuya 设备官方并不支持离线控制。即使连在同一个局域网，断了外网还是不能控制，好糟糕。饶了一大圈最后用第三方的 LocalTuya 插件解决啦，虽然配对过程还是要注册 tuya 开发者帐号填一堆 token 好过分，把大家的智能家具都看光了 (╯’ – ‘)╯︵ ┻━┻\n\n等闲下来一定把它刷成开源 tasmota 固件",
+    "views": 16,
+    "forwards": 0,
+    "media_group_id": 13448300692008909,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2023-04-09T10:53:04",
+        "media_type": "photo",
+        "original_name": "photo_2023-04-09_10-53-04.jpg",
+        "url": "media/2024.jpg",
+        "size": 138697,
+        "thumb": "media/2024.jpg_thumb.jpg"
+      },
+      {
+        "width": 809,
+        "height": 1052,
+        "date": "2023-04-09T10:53:06",
+        "media_type": "photo",
+        "original_name": "photo_2023-04-09_10-53-06.jpg",
+        "url": "media/2025.jpg",
+        "size": 99487,
+        "thumb": "media/2025.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
