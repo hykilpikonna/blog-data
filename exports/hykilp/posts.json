@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6379,
+    "views": 6380,
     "forwards": 175,
     "media_group_id": 13340239729731381,
     "images": [
@@ -27029,7 +27029,7 @@
     "id": 2024,
     "date": "2023-04-09T10:53:06",
     "text": "Bell 的光猫好糟糕，出错的时候不会自动重启，这周已经因为它宕机两次了，导致 uptime 只有 95%... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n临时想办法用智能插座再写了一个脚本解决啦，如果检测到断网一分钟就调 Home Assistant 重启路由器，感觉好灵车不过 it works！（拔网线测试过了hhh）\n\n测试的时候发现 tuya 设备官方并不支持离线控制。即使连在同一个局域网，断了外网还是不能控制，好糟糕。饶了一大圈最后用第三方的 LocalTuya 插件解决啦，虽然配对过程还是要注册 tuya 开发者帐号填一堆 token 好过分，把大家的智能家具都看光了 (╯’ – ‘)╯︵ ┻━┻\n\n等闲下来一定把它刷成开源 tasmota 固件",
-    "views": 35,
+    "views": 36,
     "forwards": 0,
     "media_group_id": 13448300692008909,
     "images": [
@@ -27059,7 +27059,7 @@
     "id": 2026,
     "date": "2023-04-10T09:07:09",
     "text": "终于等到又暖又晴又没风的天气了！开始给琴键喷喷喷 qwq\n\n虽然最初打算喷黑金属色，试了之后还是感觉玫瑰金/铜色更好看。用亚克力喷漆真的喷出了金属的效果哇，好棒。甚至把垫琴键的纸板也一起喷金了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 25,
+    "views": 26,
     "forwards": 0,
     "media_group_id": 13448941037710293,
     "images": [
@@ -27099,7 +27099,7 @@
     "id": 2029,
     "date": "2023-04-10T09:22:32",
     "text": "呜 utc+8 的作息要回不去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 21,
+    "views": 23,
     "forwards": 0
   }
 ]
