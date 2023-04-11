@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6388,
+    "views": 6390,
     "forwards": 175,
     "media_group_id": 13340239729731381,
     "images": [
@@ -26147,7 +26147,7 @@
     "id": 1960,
     "date": "2023-03-20T08:29:55",
     "text": "刚才提交完 PCB 写了一半邮件半睡半梦游地累瘫在床上，和聊聊开玩笑说没力气动了你拖我过去刷牙吧，然后聊聊真的答应了！被一路公主抱过去了！！啊啊第一次被公主抱，不知道是哪里戳到我了一样，头顶一直在冒小爱心（x）好想在脑海里让这个感觉无限回放...\n\n然后聊聊试了帮我刷牙，好痒好痒差点把牙膏吞进去了呜。明明自己刷同样的位置不会觉得痒的，人的感官真的好奇怪",
-    "views": 155,
+    "views": 156,
     "forwards": 3
   },
   {
@@ -26923,7 +26923,7 @@
     "id": 2015,
     "date": "2023-04-07T06:22:51",
     "text": "花瓶打完了！效果真的好棒好美，爱了爱了 qwq\n\n（感谢 Area3d 做的<a href=\"https://www.thingiverse.com/thing:4899605\">模型</a>）",
-    "views": 93,
+    "views": 94,
     "forwards": 2,
     "media_group_id": 13446788573731053,
     "images": [
@@ -27129,7 +27129,7 @@
     "id": 2031,
     "date": "2023-04-10T20:23:17",
     "text": "烙铁用太久了烙铁头变成了星空的颜色 qwq",
-    "views": 38,
+    "views": 40,
     "forwards": 0,
     "images": [
       {
@@ -27148,7 +27148,7 @@
     "id": 2032,
     "date": "2023-04-11T10:54:04",
     "text": "被灵车开发板折磨... TLDR：绝对不要买销量少没人用的板子 ;-;\n\n之前贪 ￥10 的小便宜买了源地 YD-STM32F411 坂，配了 YD-Link 调试器，以为是 WeAct BlackPill 和 ST-Link 的完美兼容平替... 然后翻车了。YD-Link 设备信息里面没有写 CMSIS-DAP 所以刷写软件识别不到，花了几个小时才调好。然后就是开发板，用 BlackPill 的适配编译之后 USB 串口怎样都识别不到，试来试去发现是晶振频率不一样，但是这个坂月销只有 3，没有人做过适配... 尝试了自己做适配怎样都不工作就放弃了。（还是感谢 Yangff 帮忙发现问题 qwq）\n\n不过！我早就料到会出这种问题了，所以买了几个不同处理器的坂做备胎！...然后发现这几块板也同样没有适配 (╯’ – ‘)╯︵ ┻━┻\n\n最后用唯一一个不需要特殊适配的 ESP32-S3 解决啦，也没有遇到之前 S2/C3 ADC 乱跳的问题，可以说是非常非常非常幸运了啊哈哈感谢 rng <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 20,
+    "views": 22,
     "forwards": 0,
     "images": [
       {
