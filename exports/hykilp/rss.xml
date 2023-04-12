@@ -12,7 +12,17 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Apr 2023 18:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2023 20:03:32 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2035</title>
+      <link>https://aza.moe/life?post=2035</link>
+      <description>&lt;p&gt;PCB 终于到了！jlc 打得真的好好看，丝印阻焊都好完美，原件也整整齐齐。焊上要手焊的元件之后接上了一个 octave 做测试，和以前乱成一团的跳线形成了鲜明对比hhhh（背面的图案分别来自 &lt;a href="https://ayu.land/"&gt;Ayu 赛博小屋&lt;/a&gt;的分割线和 &lt;a href="https://www.pixiv.net/en/artworks/66250942"&gt;@sassa 的插画&lt;/a&gt;，感谢感谢）&lt;/p&gt;
+&lt;p&gt;...然后发现两个电路都有好严重的错误 &lt;i class="custom-emoji" emoji-src="emoji/6169958075345144164.webm"&gt;🫣&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;接琴键的复用器电路上，我原本写了 5.1V 的稳压二极管被嘉立创匹配成了 1kV 的普通二极管，所以复用器信号会乱串。手动把正确的二极管替换上就好啦，虽然不是很好看呜。&lt;/p&gt;
+&lt;p&gt;接下来是控制板的 PCB，我居然把旋钮编码器用来固定的两个焊点一个接了 5V 另一个接了地，导致插上元件直接短路 (╯’ – ‘)╯︵ ┻━┻ 5V 那边用绝缘材料裹起来就好了，虽然不牢固但是还能用。&lt;/p&gt;
+&lt;p&gt;重焊元件的时候还不小心碰到烙铁烫了小拇指，不过及时冲了冷水又裹了烫伤贴今天就不疼啦。总之超受打击，各种被蠢哭。不过没关系，下次就知道要检查哪里了 qwq&lt;/p&gt;</description>
+      <guid isPermaLink="false">2035</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2034</title>
       <link>https://aza.moe/life?post=2034</link>
