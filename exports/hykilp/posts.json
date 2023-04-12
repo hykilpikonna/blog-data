@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6392,
+    "views": 6395,
     "forwards": 175,
     "media_group_id": 13340239729731381,
     "images": [
@@ -27148,7 +27148,7 @@
     "id": 2032,
     "date": "2023-04-11T10:54:04",
     "text": "被灵车开发板折磨... TLDR：绝对不要买销量少没人用的板子 ;-;\n\n之前贪 ￥10 的小便宜买了源地 YD-STM32F411 坂，配了 YD-Link 调试器，以为是 WeAct BlackPill 和 ST-Link 的完美兼容平替... 然后翻车了。YD-Link 设备信息里面没有写 CMSIS-DAP 所以刷写软件识别不到，花了几个小时才调好。然后就是开发板，用 BlackPill 的适配编译之后 USB 串口怎样都识别不到，试来试去发现是晶振频率不一样，但是这个坂月销只有 3，没有人做过适配... 尝试了自己做适配怎样都不工作就放弃了。（还是感谢 Yangff 帮忙发现问题 qwq）\n\n不过！我早就料到会出这种问题了，所以买了几个不同处理器的坂做备胎！...然后发现这几块板也同样没有适配 (╯’ – ‘)╯︵ ┻━┻\n\n最后用唯一一个不需要特殊适配的 ESP32-S3 解决啦，也没有遇到之前 S2/C3 ADC 乱跳的问题，可以说是非常非常非常幸运了啊哈哈感谢 rng <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 36,
+    "views": 37,
     "forwards": 0,
     "images": [
       {
@@ -27167,7 +27167,7 @@
     "id": 2033,
     "date": "2023-04-12T00:58:54",
     "text": "一年前的今天：六小时写完了 HyFetch\n\n居然已经一年了，那时候肯定想不到一个小脚本我会维护这么久吧hhh。接了好多 PR 和 issue，设了稳定的更新周期，也因为这个项目认识了些新的朋友，想想还有点不可思议",
-    "views": 20,
+    "views": 23,
     "forwards": 0,
     "reply": {
       "id": 663,
@@ -27179,7 +27179,7 @@
     "id": 2034,
     "date": "2023-04-12T02:14:10",
     "text": "这几天好暖，25-26℃ 像是到了夏天一样（虽然花还是没有开 ;-;\n\n今天抓住太阳了！聊聊去买了辆自行车之后一起去骑了车。是今年第一次把这辆自行车骑出去哇，然后报复性地骑到我和聊聊都要累倒才回去，好开心 qwq <del>松开双手也能平衡的感觉好爽</del>\n\n路上聊聊车链掉了，然后遇到了超好心的路人阿姨教我们把链条挂回去。原来直接把后轮旁边变速器的手臂向前推就可以让车链松开，然后就轻松挂回去了，好方便！想起两年前自己骑车掉链折腾了超级久",
-    "views": 5,
+    "views": 13,
     "forwards": 0,
     "images": [
       {
