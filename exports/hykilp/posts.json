@@ -7311,8 +7311,8 @@
     "id": 663,
     "date": "2022-04-10T10:52:04",
     "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: <code>pip install hyfetch</code> \n(python > 3.7)\n\n<a href=\"https://github.com/hykilpikonna/hyfetch\">源码</a> （欢迎贡献！",
-    "views": 335,
-    "forwards": 11,
+    "views": 345,
+    "forwards": 12,
     "media_group_id": 13196703396479709,
     "images": [
       {
@@ -26559,7 +26559,7 @@
     "id": 1990,
     "date": "2023-03-31T08:39:59",
     "text": "今天是一年一度的跨性别现身日哦，准备了一张刮画 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n无论认同和身份，希望每个人都可以不受拘束地展现出最真实的自己，在茫茫宇宙中找到自己的归宿，点亮属于自己的光芒 qwq",
-    "views": 434,
+    "views": 435,
     "forwards": 4,
     "images": [
       {
@@ -27029,7 +27029,7 @@
     "id": 2024,
     "date": "2023-04-09T10:53:06",
     "text": "Bell 的光猫好糟糕，出错的时候不会自动重启，这周已经因为它宕机两次了，导致 uptime 只有 95%... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n临时想办法用智能插座再写了一个脚本解决啦，如果检测到断网一分钟就调 Home Assistant 重启路由器，感觉好灵车不过 it works！（拔网线测试过了hhh）\n\n测试的时候发现 tuya 设备官方并不支持离线控制。即使连在同一个局域网，断了外网还是不能控制，好糟糕。饶了一大圈最后用第三方的 LocalTuya 插件解决啦，虽然配对过程还是要注册 tuya 开发者帐号填一堆 token 好过分，把大家的智能家具都看光了 (╯’ – ‘)╯︵ ┻━┻\n\n等闲下来一定把它刷成开源 tasmota 固件",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13448300692008909,
     "images": [
@@ -27167,8 +27167,8 @@
     "id": 2033,
     "date": "2023-04-12T00:58:54",
     "text": "一年前的今天：六小时写完了 HyFetch\n\n居然已经一年了，那时候肯定想不到一个小脚本我会维护这么久吧hhh。接了好多 PR 和 issue，设了稳定的更新周期，也因为这个项目认识了些新的朋友，想想还有点不可思议",
-    "views": 33,
-    "forwards": 0,
+    "views": 43,
+    "forwards": 1,
     "reply": {
       "id": 663,
       "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: <code>pip install hyfetch</code> \n(python > 3.7)\n\n<a href=\"https://github.com/hykilpikonna/hyfetch\">源码</a> （欢迎贡献！",
@@ -27179,8 +27179,8 @@
     "id": 2034,
     "date": "2023-04-12T02:14:10",
     "text": "这几天好暖，25-26℃ 像是到了夏天一样（虽然花还是没有开 ;-;\n\n今天抓住太阳了！聊聊去买了辆自行车之后一起去骑了车。是今年第一次把这辆自行车骑出去哇，然后报复性地骑到我和聊聊都要累倒才回去，好开心 qwq <del>松开双手也能平衡的感觉好爽</del>\n\n路上聊聊车链掉了，然后遇到了超好心的路人阿姨教我们把链条挂回去。原来直接把后轮旁边变速器的手臂向前推就可以让车链松开，然后就轻松挂回去了，好方便！想起两年前自己骑车掉链折腾了超级久",
-    "views": 27,
-    "forwards": 0,
+    "views": 31,
+    "forwards": 1,
     "images": [
       {
         "width": 1920,
@@ -27198,7 +27198,7 @@
     "id": 2035,
     "date": "2023-04-12T18:53:34",
     "text": "PCB 终于到了！jlc 打得真的好好看，丝印阻焊都好完美，原件也整整齐齐。焊上要手焊的元件之后接上了一个 octave 做测试，和以前乱成一团的跳线形成了鲜明对比hhhh（背面的图案分别来自 <a href=\"https://ayu.land/\">Ayu 赛博小屋</a>的分割线和 <a href=\"https://www.pixiv.net/en/artworks/66250942\">@sassa 的插画</a>，感谢感谢）\n\n...然后发现两个电路都有好严重的错误 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n接琴键的复用器电路上，我原本写了 5.1V 的稳压二极管被嘉立创匹配成了 1kV 的普通二极管，所以复用器信号会乱串。手动把正确的二极管替换上就好啦，虽然不是很好看呜。\n\n接下来是控制板的 PCB，我居然把旋钮编码器用来固定的两个焊点一个接了 5V 另一个接了地，导致插上元件直接短路 (╯’ – ‘)╯︵ ┻━┻ 5V 那边用绝缘材料裹起来就好了，虽然不牢固但是还能用。\n\n重焊元件的时候还不小心碰到烙铁烫了小拇指，不过及时冲了冷水又裹了烫伤贴今天就不疼啦。总之超受打击，各种被蠢哭。不过没关系，下次就知道要检查哪里了 qwq",
-    "views": 17,
+    "views": 23,
     "forwards": 0,
     "media_group_id": 13450604914098109,
     "images": [
@@ -27251,6 +27251,25 @@
         "url": "media/2039.jpg",
         "size": 160191,
         "thumb": "media/2039.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2040,
+    "date": "2023-04-13T00:07:40",
+    "text": "<a href=\"##桂桂聊聊今天吃什么\">#桂桂聊聊今天吃什么</a>\n没时间的时候做咖喱总不会错 qwq\n\n（聊聊最近做了好多，昨天烫到手的时候烫伤贴也是聊聊去买的哇，感谢 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
+    "views": 20,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-04-13T00:07:39",
+        "media_type": "photo",
+        "original_name": "photo_2023-04-13_00-07-39.jpg",
+        "url": "media/2040.jpg",
+        "size": 654191,
+        "thumb": "media/2040.jpg_thumb.jpg"
       }
     ]
   }
