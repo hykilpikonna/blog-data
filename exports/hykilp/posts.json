@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6400,
+    "views": 6402,
     "forwards": 175,
     "media_group_id": 13340239729731381,
     "images": [
@@ -27148,7 +27148,7 @@
     "id": 2032,
     "date": "2023-04-11T10:54:04",
     "text": "被灵车开发板折磨... TLDR：绝对不要买销量少没人用的板子 ;-;\n\n之前贪 ￥10 的小便宜买了源地 YD-STM32F411 坂，配了 YD-Link 调试器，以为是 WeAct BlackPill 和 ST-Link 的完美兼容平替... 然后翻车了。YD-Link 设备信息里面没有写 CMSIS-DAP 所以刷写软件识别不到，花了几个小时才调好。然后就是开发板，用 BlackPill 的适配编译之后 USB 串口怎样都识别不到，试来试去发现是晶振频率不一样，但是这个坂月销只有 3，没有人做过适配... 尝试了自己做适配怎样都不工作就放弃了。（还是感谢 Yangff 帮忙发现问题 qwq）\n\n不过！我早就料到会出这种问题了，所以买了几个不同处理器的坂做备胎！...然后发现这几块板也同样没有适配 (╯’ – ‘)╯︵ ┻━┻\n\n最后用唯一一个不需要特殊适配的 ESP32-S3 解决啦，也没有遇到之前 S2/C3 ADC 乱跳的问题，可以说是非常非常非常幸运了啊哈哈感谢 rng <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 41,
+    "views": 42,
     "forwards": 0,
     "images": [
       {
@@ -27198,7 +27198,7 @@
     "id": 2035,
     "date": "2023-04-12T18:53:34",
     "text": "PCB 终于到了！jlc 打得真的好好看，丝印阻焊都好完美，原件也整整齐齐。焊上要手焊的元件之后接上了一个 octave 做测试，和以前乱成一团的跳线形成了鲜明对比hhhh（背面的图案分别来自 <a href=\"https://ayu.land/\">Ayu 赛博小屋</a>的分割线和 <a href=\"https://www.pixiv.net/en/artworks/66250942\">@sassa 的插画</a>，感谢感谢）\n\n...然后发现两个电路都有好严重的错误 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n接琴键的复用器电路上，我原本写了 5.1V 的稳压二极管被嘉立创匹配成了 1kV 的普通二极管，所以复用器信号会乱串。手动把正确的二极管替换上就好啦，虽然不是很好看呜。\n\n接下来是控制板的 PCB，我居然把旋钮编码器用来固定的两个焊点一个接了 5V 另一个接了地，导致插上元件直接短路 (╯’ – ‘)╯︵ ┻━┻ 5V 那边用绝缘材料裹起来就好了，虽然不牢固但是还能用。\n\n重焊元件的时候还不小心碰到烙铁烫了小拇指，不过及时冲了冷水又裹了烫伤贴今天就不疼啦。总之超受打击，各种被蠢哭。不过没关系，下次就知道要检查哪里了 qwq",
-    "views": 23,
+    "views": 24,
     "forwards": 0,
     "media_group_id": 13450604914098109,
     "images": [
@@ -27258,7 +27258,7 @@
     "id": 2040,
     "date": "2023-04-13T00:07:40",
     "text": "<a href=\"##桂桂聊聊今天吃什么\">#桂桂聊聊今天吃什么</a>\n没时间的时候做咖喱总不会错 qwq\n\n（聊聊最近做了好多，昨天烫到手的时候烫伤贴也是聊聊去买的哇，感谢 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 20,
+    "views": 24,
     "forwards": 0,
     "images": [
       {
