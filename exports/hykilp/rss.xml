@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 13 Apr 2023 08:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2023 10:03:52 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2041</title>
+      <link>https://aza.moe/life?post=2041</link>
+      <description>&lt;p&gt;今天接好了线，写完了固件驱动读输入的部分，焊完了 MIDI 面板，重焊了两个八度的复用器二极管，连好了第二个八度，还提交了改完的 PCB，是很高效的一天呢 qwq&lt;/p&gt;
+&lt;p&gt;MIDI 面板的按钮旋钮和 RGB 灯都能驱动了！除了之前固定点短路和最后一个灯不亮以外其他功能都正常。不过发现顺序读取面板和琴键的话速度好慢，采样率只有 32 Hz 了 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;所以去写了多线程！ESP32-S3 正好有两个核心来着。嵌入式的 FreeRTOS 多线程写法和 Unix 好不一样，每圈结束需要调函数把多余的 CPU 时间让给其他进程，太久没让就会被看门狗杀掉 ;-; &lt;del&gt;不能吃掉一整个 CPU 好可惜&lt;/del&gt;。以及 FreeRTOS 的多线程开销好大，多线程 240 Hz 比单线程多了 460 μs 的样子，看看能不能优化...&lt;/p&gt;
+&lt;p&gt;以及虽然打印 PCB 让布线整齐很多了，但是拉 19 根线出来还是不太好看... 下一个版本试试把 ESP32 芯片画到 PCB 上好啦&lt;/p&gt;</description>
+      <guid isPermaLink="false">2041</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2040</title>
       <link>https://aza.moe/life?post=2040</link>

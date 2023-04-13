@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-04-13T08:04:13.327948+00:00</updated>
+  <updated>2023-04-13T10:03:52.970367+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2041</id>
+    <title>小桂桂的回忆录 📒 #2041</title>
+    <updated>2023-04-13T08:21:47+00:00</updated>
+    <content>&lt;p&gt;今天接好了线，写完了固件驱动读输入的部分，焊完了 MIDI 面板，重焊了两个八度的复用器二极管，连好了第二个八度，还提交了改完的 PCB，是很高效的一天呢 qwq&lt;/p&gt;
+&lt;p&gt;MIDI 面板的按钮旋钮和 RGB 灯都能驱动了！除了之前固定点短路和最后一个灯不亮以外其他功能都正常。不过发现顺序读取面板和琴键的话速度好慢，采样率只有 32 Hz 了 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;所以去写了多线程！ESP32-S3 正好有两个核心来着。嵌入式的 FreeRTOS 多线程写法和 Unix 好不一样，每圈结束需要调函数把多余的 CPU 时间让给其他进程，太久没让就会被看门狗杀掉 ;-; &lt;del&gt;不能吃掉一整个 CPU 好可惜&lt;/del&gt;。以及 FreeRTOS 的多线程开销好大，多线程 240 Hz 比单线程多了 460 μs 的样子，看看能不能优化...&lt;/p&gt;
+&lt;p&gt;以及虽然打印 PCB 让布线整齐很多了，但是拉 19 根线出来还是不太好看... 下一个版本试试把 ESP32 芯片画到 PCB 上好啦&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2041" rel="alternate"/>
+  </entry>
   <entry>
     <id>2040</id>
     <title>小桂桂的回忆录 📒 #2040</title>
