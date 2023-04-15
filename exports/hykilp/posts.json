@@ -12217,7 +12217,7 @@
     "id": 1000,
     "date": "2022-07-19T17:10:44",
     "text": "猫猫踩键盘w",
-    "views": 68,
+    "views": 69,
     "forwards": 1,
     "files": [
       {
@@ -12239,7 +12239,7 @@
     "id": 1001,
     "date": "2022-07-20T03:09:56",
     "text": "炒意面！",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -12258,14 +12258,14 @@
     "id": 1002,
     "date": "2022-07-20T23:58:43",
     "text": "想画 pusheen 动画... 不知道要学 Adobe AE 还是 SVGator 还是用传统方法一帧一帧画\n\n（官方 pusheen 动画只有四帧所以估计是逐帧画的吧...",
-    "views": 80,
+    "views": 81,
     "forwards": 0
   },
   {
     "id": 1003,
     "date": "2022-07-21T01:58:39",
     "text": "vscode 从 1.66 开始用管理员权限启动会白屏，而且官方不打算修复... 解决方法是开 vscode 远程开发插件然后 ssh 到 root@localhost 🌚",
-    "views": 91,
+    "views": 92,
     "forwards": 1
   },
   {
@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6412,
+    "views": 6413,
     "forwards": 175,
     "media_group_id": 13340239729731381,
     "images": [
@@ -27454,6 +27454,36 @@
         "url": "media/2051.jpg",
         "size": 172056,
         "thumb": "media/2051.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2052,
+    "date": "2023-04-15T09:30:00",
+    "text": "今天把第三代 panel PCB 设计好啦，这次直接贴上了 ESP32-S3 的 MCU，终于可以不用接 19 根跳线了。还用双 TypeC 口 5V 3+1A 替代了之前的外接电源供电。顺便加长了旋钮之间的间隙，希望能解决一点挤手的问题。\n\n这次花了好久布线... 之前做的 PCB 没有这么复杂，自动布线蠢蠢也能布完。但是加上 MCU 之后线实在太密集了，要花心思想每个元件放在哪里才能让线程最短、线之间交叉最少什么的。结果花了五个小时重排了很多元件和连接才布好，又花了好久缩小尺寸（说好的复习考试呢 (╯’ – ‘)╯︵ ┻━┻\n\n明早去下单，希望这次没有犯蠢接错什么呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
+    "views": 4,
+    "forwards": 0,
+    "media_group_id": 13452408006751229,
+    "images": [
+      {
+        "width": 1280,
+        "height": 426,
+        "date": "2023-04-15T09:29:57",
+        "media_type": "photo",
+        "original_name": "photo_2023-04-15_09-29-57.jpg",
+        "url": "media/2052.jpg",
+        "size": 74551,
+        "thumb": "media/2052.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 872,
+        "date": "2023-04-15T09:30:00",
+        "media_type": "photo",
+        "original_name": "photo_2023-04-15_09-30-00.jpg",
+        "url": "media/2053.jpg",
+        "size": 270668,
+        "thumb": "media/2053.jpg_thumb.jpg"
       }
     ]
   }

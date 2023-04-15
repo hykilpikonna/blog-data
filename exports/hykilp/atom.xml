@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-04-15T08:03:06.971006+00:00</updated>
+  <updated>2023-04-15T10:03:29.275548+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2052</id>
+    <title>小桂桂的回忆录 📒 #2052</title>
+    <updated>2023-04-15T09:30:00+00:00</updated>
+    <content>&lt;p&gt;今天把第三代 panel PCB 设计好啦，这次直接贴上了 ESP32-S3 的 MCU，终于可以不用接 19 根跳线了。还用双 TypeC 口 5V 3+1A 替代了之前的外接电源供电。顺便加长了旋钮之间的间隙，希望能解决一点挤手的问题。&lt;/p&gt;
+&lt;p&gt;这次花了好久布线... 之前做的 PCB 没有这么复杂，自动布线蠢蠢也能布完。但是加上 MCU 之后线实在太密集了，要花心思想每个元件放在哪里才能让线程最短、线之间交叉最少什么的。结果花了五个小时重排了很多元件和连接才布好，又花了好久缩小尺寸（说好的复习考试呢 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;明早去下单，希望这次没有犯蠢接错什么呜呜 &lt;i class="custom-emoji" emoji-src="emoji/5470078478558700075.webp"&gt;🙏&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2052" rel="alternate"/>
+  </entry>
   <entry>
     <id>2051</id>
     <title>小桂桂的回忆录 📒 #2051</title>
