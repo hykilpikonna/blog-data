@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-04-21T04:07:36.180089+00:00</updated>
+  <updated>2023-04-21T04:45:37.629093+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2074</id>
+    <title>小桂桂的回忆录 📒 #2074</title>
+    <updated>2023-04-21T04:33:41+00:00</updated>
+    <content>&lt;p&gt;做了一对电子太鼓槌！&lt;/p&gt;
+&lt;p&gt;昨晚想试试用琴键一样的触发方式给鼓槌加上传感器，这样不需要鼓就可以玩太鼓达人了，&lt;del&gt;还可以用来玩一些奇怪的 play&lt;/del&gt;。今天做出来啦，响应好准，虽然左咔右咚还是有点难适应&lt;/p&gt;
+&lt;p&gt;调固件的时候还学到了些信号过滤的技巧，现在连打也不会吞音了！明天给琴的固件也加上这些优化好啦。&lt;a href="https://github.com/hykilpikonna/OpenHardware/tree/main/TaikoStick"&gt;源码在这里&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2074" rel="alternate"/>
+  </entry>
   <entry>
     <id>2073</id>
     <title>小桂桂的回忆录 📒 #2073</title>
