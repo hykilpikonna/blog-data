@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-04-24T20:06:50.147955+00:00</updated>
+  <updated>2023-04-24T22:06:14.812591+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2080</id>
+    <title>小桂桂的回忆录 📒 #2080</title>
+    <updated>2023-04-24T21:38:03+00:00</updated>
+    <content>&lt;p&gt;呜 多元微积分完全考砸了，预估大概 54%，不过总分 B- 也还好。有好多计算量超大的题哇...&lt;/p&gt;
+&lt;p&gt;感觉有大半个小时全都砸在一道格林定理题上了，因为那个曲线是由四个斜线组成的形状，所以找了四个交叉点分成三块区域单独积分了，然后发现把三个结果加起来的时候大部分都抵消了最终答案是 1 🌚 是不是忘了什么简化&lt;/p&gt;
+&lt;p&gt;最后两道矢量场的题也卡了超级久，好不容易算好 F · (rv × ru) 发现这个东西好长一行都写不下，根本没办法积分... 考完之后同学说直接用法向量点乘就行了 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2080" rel="alternate"/>
+  </entry>
   <entry>
     <id>2079</id>
     <title>小桂桂的回忆录 📒 #2079</title>
