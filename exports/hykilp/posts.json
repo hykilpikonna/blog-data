@@ -28252,7 +28252,7 @@
     "id": 2104,
     "date": "2023-05-02T03:05:45",
     "text": "HyFetch repo 又有反跨人来捣乱了，把之前写的脚本跑起来发现它真的好有限——只能按黑名单删 issue，两次刷新要间隔五秒，还看不到评论和 pr...\n\n所以！今天写了一个完整的 Github 审核 bot！用 OpenAI Moderation 接口自动化审核，然后用 webhook 保证了在发出邮件通知之前就可以把内容全都替换掉。总算是不用再担心反跨人了！<i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n然后用 NovelAI Diffusion 生成了一个超级酷炫的头像，还注册了一个超级正经的用户名，仪式感拉满啊哈哈哈\n\n（欢迎来围观: <a href=\"https://github.com/ai-moderator\">https://github.com/ai-moderator</a>",
-    "views": 32,
+    "views": 33,
     "forwards": 0,
     "media_group_id": 13463973967138525,
     "images": [
