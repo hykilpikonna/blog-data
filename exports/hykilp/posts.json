@@ -22989,7 +22989,7 @@
     "id": 1746,
     "date": "2023-01-14T00:57:08",
     "text": "啊啊我怎么这两天吃了这么多酥心糖...",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -23008,7 +23008,7 @@
     "id": 1747,
     "date": "2023-01-14T01:50:38",
     "text": "花了一天给留言审核加了「封禁 IP」和「AI 自动过滤」的功能 qwq\n\nAI 用了二郎神中文 RoBERTa 模型，没想到 110M 的模型准确率就已经有 93% 了哇 (91% prec, 96% recall)，明天试试 fine tune 一下这个还有 UniMC 的版本...",
-    "views": 79,
+    "views": 80,
     "forwards": 3,
     "media_group_id": 13389288305488429,
     "images": [
@@ -23038,7 +23038,7 @@
     "id": 1749,
     "date": "2023-01-14T16:23:16",
     "text": "？！我居然成功准时睡觉了",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -23057,7 +23057,7 @@
     "id": 1750,
     "date": "2023-01-14T18:29:00",
     "text": "「变成输入面条输出代码的机器人了」\n\n输入一碗海鲜方便面",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "images": [
       {
@@ -23076,7 +23076,7 @@
     "id": 1751,
     "date": "2023-01-14T21:12:57",
     "text": "看番看到一半收到一堆仇恨 issue，五分钟写完一个 bot 继续看番 qwq",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "media_group_id": 13389846216586981,
     "images": [
@@ -23116,7 +23116,7 @@
     "id": 1754,
     "date": "2023-01-15T04:11:17",
     "text": "我两整周都花在 one among us 上，没人表扬我的功能，没人觉得我写的功能有用，今天公交车上都在写代码，回来和我说我写的下载进度条没用？？？？\n\n删库了 全都删了，所有 git 历史都删了，cloudflare 域名删了，db 服务器 mysql 存储删了，所有的部署 branch 都删了\n\n我为什么要删？如果不是上周我申请退出的时候书把我的 owner 权限转走了我绝对不会删。基础的信任都没有了那就让它没有吧",
-    "views": 130,
+    "views": 131,
     "forwards": 17,
     "reply": {
       "id": 1747,
@@ -28199,7 +28199,7 @@
     "id": 2101,
     "date": "2023-05-01T12:34:56",
     "text": "得救了！还好附近有早上八点开门的照相馆 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 45,
+    "views": 46,
     "forwards": 1,
     "reply": {
       "id": 2100,
@@ -28222,7 +28222,7 @@
     "id": 2102,
     "date": "2023-05-01T14:50:40",
     "text": "过了！护照交上去了，<del>希望能在实习开始之前贴好签送回来</del>\n\n结果之前准备的一大堆文件完全没有用到，可能不是拖延只是太焦虑了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 41,
+    "views": 42,
     "forwards": 0,
     "media_group_id": 13463621124990669,
     "images": [
@@ -28252,7 +28252,7 @@
     "id": 2104,
     "date": "2023-05-02T03:05:45",
     "text": "HyFetch repo 又有反跨人来捣乱了，把之前写的脚本跑起来发现它真的好有限——只能按黑名单删 issue，两次刷新要间隔五秒，还看不到评论和 pr...\n\n所以！今天写了一个完整的 Github 审核 bot！用 OpenAI Moderation 接口自动化审核，然后用 webhook 保证了在发出邮件通知之前就可以把内容全都替换掉。总算是不用再担心反跨人了！<i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n然后用 NovelAI Diffusion 生成了一个超级酷炫的头像，还注册了一个超级正经的用户名，仪式感拉满啊哈哈哈\n\n（欢迎来围观: <a href=\"https://github.com/ai-moderator\">https://github.com/ai-moderator</a>",
-    "views": 33,
+    "views": 34,
     "forwards": 0,
     "media_group_id": 13463973967138525,
     "images": [
