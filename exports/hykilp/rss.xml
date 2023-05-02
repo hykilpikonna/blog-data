@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 May 2023 02:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 04:07:50 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2104</title>
+      <link>https://aza.moe/life?post=2104</link>
+      <description>&lt;p&gt;HyFetch repo 又有反跨人来捣乱了，把之前写的脚本跑起来发现它真的好有限——只能按黑名单删 issue，两次刷新要间隔五秒，还看不到评论和 pr...&lt;/p&gt;
+&lt;p&gt;所以！今天写了一个完整的 Github 审核 bot！用 OpenAI Moderation 接口自动化审核，然后用 webhook 保证了在发出邮件通知之前就可以把内容全都替换掉。总算是不用再担心反跨人了！&lt;i class="custom-emoji" emoji-src="emoji/6114192958708254309.webm"&gt;🌈&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;然后用 NovelAI Diffusion 生成了一个超级酷炫的头像，还注册了一个超级正经的用户名，仪式感拉满啊哈哈哈&lt;/p&gt;
+&lt;p&gt;（欢迎来围观: &lt;a href="https://github.com/ai-moderator"&gt;https://github.com/ai-moderator&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2104</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2102</title>
       <link>https://aza.moe/life?post=2102</link>
