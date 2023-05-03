@@ -3170,14 +3170,14 @@
     "id": 352,
     "date": "2021-12-02T16:16:31",
     "text": "今天的梦真的好厉害，智商全程在线，还全都记得超清楚w\n\n梦见我在做一项密码学研究，目的是可以弹一首钢琴谱作为登录密码。但是我弹一个钢琴谱肯定会弹错几个键，所以肯定不能直接判断弹出来的是不是等于完整的谱子，要比较正确率（用需要添加/减少多少个音符才能等于正确谱子来判断... 是我某次 OI 比赛做过的一道题，原题是从字符串 A 到 B 最少要添加/删除/调换多少个字符）。但这样要怎样存这个密码呢？肯定不能把谱子存成明文，但是如果是哈希的话，又只能判断是不是完全正确，不可能对比正确率，因为哈希只要改一点明文就整个哈希都会变。然后想到可以把所有可能的组合和对应的正确率存成哈希，这样对于一个文字密码很可行，因为文字密码不会很长，但是一个谱子很容易有上百个音符，排列组合的数据量指数增长就太大了。然后想到把每个音符存成哈希，但是这样很容易被彩虹表破解。然后想到给每个音符的哈希加盐（很有趣的是梦里想的是加 IV，虽然 IV (initialization vector) 是 AES 的名词，不是哈希的，哈希加的叫 salt，这两个作用同样都是为了防止彩虹表）但是用什么做盐呢？在梦里只想到了用音符的顺序做盐，然后觉得这样就已经完美了，因为对比正确率的时候可以通过把弹出来的谱子音符顺序错位来找到最低的错误率。然后激动得梦醒了，赶紧记下来hhhh\n\n现在想想其实这样还是很容易被彩虹表，毕竟已知顺序是 ≥0 的整数，所以几百次循环就能把一个音符所有可能的顺序的哈希存下来...\n\n虽然是一个很没有实际用处的研究题目，也没有解出来，但是我终于做了一次智商全程在线的梦了hhhh",
-    "views": 47,
+    "views": 48,
     "forwards": 1
   },
   {
     "id": 353,
     "date": "2021-12-02T16:49:32",
     "text": "说不定不是没有实际用处的研究题目呢，如果弹一首谱子是“肌肉记忆”（implicit memory）的话，就不会不小心说出来，也不会被未来读取记忆的反乌托邦科技读走。决定了！明年期末项目不限制题目的话就研究它了！",
-    "views": 45,
+    "views": 46,
     "forwards": 0,
     "reply": {
       "id": 352,
@@ -3188,7 +3188,7 @@
     "id": 354,
     "date": "2021-12-03T03:19:04",
     "text": "噗！这首居然也是不插电的吉他... 不对这到底是什么吉他哇？不插电能弹出电吉他的失真效果好厉害w",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "reply": {
       "id": 213,
@@ -3211,7 +3211,7 @@
     "id": 357,
     "date": "2021-12-04T06:37:21",
     "text": "好喜欢 FLCL！第二遍了！\n我会喜欢上吵闹的 Alt Rock 也是因为 the pillows 的配乐，推荐两首w\n\n《I think I can》\n最难实现的愿望也要付出全部去追求，理想主义矢志不渝！\n<a href=\"https://music.163.com/song?id=1401537246\">https://music.163.com/song?id=1401537246</a>\n<a href=\"https://music.youtube.com/watch?v=mC6xr8R_ltU\">https://music.youtube.com/watch?v=mC6xr8R_ltU</a>\n\n《Little Busters》\n「With the kids sing out the future\nMaybe, kids don't need the masters」\n能看清这个世界的往往是还是小孩子的我们——不需要让被现实限制住想象力的大人们告诉我们做什么，怎么做，执着的大人们比彷徨的我们更加迷茫。\n<a href=\"https://music.163.com/song?id=1401537252\">https://music.163.com/song?id=1401537252</a>\n<a href=\"https://music.youtube.com/watch?v=gwd_WJ7PBa4\">https://music.youtube.com/watch?v=gwd_WJ7PBa4</a>\n\n...这么好的曲子怎么才十几条评论（\n<a href=\"##ラジオ\">#ラジオ</a>",
-    "views": 42,
+    "views": 43,
     "forwards": 0,
     "reply": {
       "id": 311,
@@ -3222,7 +3222,7 @@
     "id": 358,
     "date": "2021-12-04T19:16:42",
     "text": "好难 😭",
-    "views": 43,
+    "views": 44,
     "forwards": 0,
     "reply": {
       "id": 354,
@@ -3249,14 +3249,14 @@
     "id": 359,
     "date": "2021-12-04T21:26:54",
     "text": "想想怎么画个人主页，参考下大家的吧w\n\n... ∞ minutes later ...\n\n呜呜呜大家原来都这么厉害",
-    "views": 42,
+    "views": 43,
     "forwards": 0
   },
   {
     "id": 360,
     "date": "2021-12-05T00:21:51",
     "text": "书签动画w",
-    "views": 42,
+    "views": 43,
     "forwards": 1,
     "reply": {
       "id": 359,
@@ -3283,7 +3283,7 @@
     "id": 362,
     "date": "2021-12-06T00:38:07",
     "text": "...原来 bend 是这样弹出来的\n要多大力气才能把一根弦推那么远 🤯",
-    "views": 42,
+    "views": 43,
     "forwards": 0,
     "reply": {
       "id": 357,
@@ -27911,7 +27911,7 @@
     "id": 2081,
     "date": "2023-04-25T08:44:07",
     "text": "在聊聊的 3DS 上捏了一个 Mii！\n\n上次这么认真地捏 Mii 是多少年前的事情了。想起来那时候和父上玩 Wii Sports 甩甩跳跳真的像在运动一样，好怀念以前玩体感游戏的热情，<del>现在和聊聊玩 Switch Sports 和 Just Dance 都只会挥挥手挪挪脚糊判定了hhh\n\n</del>小时候还喜欢在 Wii 上玩太鼓，如果 Patapon 不算的话太鼓就是我入坑的第一部音游了！看不懂日语靠动画勉强理解着剧情，卡在某一个 boss 之前还走了很远呢，肯定比现在厉害多了。当时总是喜欢玩看不懂的游戏呢，感觉汉化游戏好少的，中文的怪物猎人和塞尔达也没看懂剧情，<del>完全被当成烧肉肉和丢小鸡模拟器了</del>（？）不过当时比起看剧情就喜欢到处乱转，蠢萌蠢萌的",
-    "views": 55,
+    "views": 57,
     "forwards": 1,
     "images": [
       {
@@ -27930,7 +27930,7 @@
     "id": 2082,
     "date": "2023-04-26T02:37:03",
     "text": "最后一门 209 也考完啦，手写了五六页的代码好累，不过 A 应该稳了！\n\n还好给了一张函数参考，不然函数定义怎么可能记得住嘛。然而这个参考上并没有写调用出错的时候会返回 -1 还是 0 还是 null，希望没有记错被扣分。\n\n这样期末就结束啦！终于有时间捡起各种项目了，希望可以在出发去美国之前做完一些 todo 列表上只有在这个家里可以做的事情... 这两周要加油呢 qwq",
-    "views": 53,
+    "views": 55,
     "forwards": 1,
     "images": [
       {
@@ -27949,7 +27949,7 @@
     "id": 2084,
     "date": "2023-04-27T04:47:28",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n「Beware of Darkness」\n—George Harrison\n\n昨晚发现我也好脆弱，不小心就会被焦虑和无力感缠绕，几个小时的时间就迷迷糊糊地消失了。明明比起为些还望不清的岔路和无法触及的结果焦虑，这几个小时能做好多更有趣有意义的事情，\"That is not what you are here for\"... 希望可以 Beware of darkness，也许这样就不会陷进去了吧\n\nBeware of the thoughts that linger\nWinding up inside your head\nThe hopelessness around you\nIn the dead of night\nBeware of sadness\nIt can hit you\nIt can hurt you\nMake you sore and what is more\nThat is not what you are here for\n\n<a href=\"https://y.music.163.com/m/song?id=22569952\">网易云</a>\n<a href=\"https://youtu.be/FrsGTItbss4\">YouTube</a>",
-    "views": 50,
+    "views": 52,
     "forwards": 0,
     "files": [
       {
@@ -27970,14 +27970,14 @@
     "id": 2085,
     "date": "2023-04-27T11:19:32",
     "text": "<a href=\"##梦\">#梦</a>\n梦到和朋友聊天的时候朋友发了一些字母简写，我看不懂但是又不想让别人失望，在尝试用各种方法解密这几个字母。试了 chatgpt 和翻译软件，查了各种玩梗科普站，试了在输入法上打各种拼音组合，写了脚本扒下来维基和萌娘百科所有词条建一个首字母查找表搜索，然而还是没办法解密这个简写... 然后又假装没看到消息了。\n\n呜 感觉在被梦骂，这真的是我可能做出来的事情。为什么承认自己不理解那么难呢... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 50,
+    "views": 51,
     "forwards": 0
   },
   {
     "id": 2086,
     "date": "2023-04-27T19:24:39",
     "text": "<del>三文鱼！培根！西瓜！</del><i class=\"custom-emoji\" emoji-src=\"emoji/5444927399181425459.tgs\">🍽</i>",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "media_group_id": 13460987832416757,
     "images": [
@@ -28017,7 +28017,7 @@
     "id": 2089,
     "date": "2023-04-28T03:31:46",
     "text": "<a href=\"##桂桂聊聊今天吃什么\">#桂桂聊聊今天吃什么</a>\n烤鸡皮！\n\n昨天在超市看到了好便宜的鸡皮，一整包 800g 才 $2 哇，比烤鸡用的调料还便宜了。也好好吃 qwq",
-    "views": 46,
+    "views": 47,
     "forwards": 0,
     "media_group_id": 13461221651755837,
     "images": [
@@ -28047,7 +28047,7 @@
     "id": 2091,
     "date": "2023-04-28T05:42:54",
     "text": "选了不下雨的唯一一天和聊聊去二刷 ROM，路上看到学校的樱花花瓣已经快落光了，似乎春天还没有来就已经结束，连续两周的大雨仿佛完美地影射了我现在的心情。\n\n<span class=\"spoiler\"><span>还剩几天就要离开了，要和聊聊和琴和这个家告别，独自去面对新的未知... 似乎做什么都没办法关掉脑海里的这个倒计时，不停滴答滴答让我分心让我焦虑。不想让一年的春天和短短两周的暑假这样草率地结束，但是我又能做什么呢？花落了，还下着雨...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 46,
+    "views": 47,
     "forwards": 1,
     "media_group_id": 13461284594335829,
     "images": [
@@ -28091,7 +28091,7 @@
     "id": 2094,
     "date": "2023-04-29T03:37:16",
     "text": "下着雨但是好想骑车，顶着雨去骑了一会结果全身都湿了，好冷好冷。等天暖了好想试试在下雨天穿着泳衣泳镜骑车 qwq\n\n去银行交了房租，回家之后给聊聊梳了一个双马尾好可爱，扒了四小节的谱子，然后书书过来整理剩下的东西、聊了一会，再写了点电子琴固件里的灯光动画，就又到睡觉的时间了。真希望时间能过得慢一点呀...",
-    "views": 46,
+    "views": 47,
     "forwards": 1,
     "media_group_id": 13461915491309437,
     "images": [
@@ -28121,7 +28121,7 @@
     "id": 2097,
     "date": "2023-04-30T12:54:39",
     "text": "作息调好了！是早睡早起做早饭的好孩子 qwq",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "media_group_id": 13462874234968941,
     "images": [
@@ -28161,7 +28161,7 @@
     "id": 2099,
     "date": "2023-04-30T18:38:12",
     "text": "去实习的住所都订好了，也是少了一点未知。明天要去面签了，希望不会有问题... 飞机票还没订，还好担心护照能不能在十几号出发之前送到，订好的房间也不能改日期了，想到这些就好焦虑。",
-    "views": 44,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -28180,7 +28180,7 @@
     "id": 2100,
     "date": "2023-05-01T04:37:24",
     "text": "一打热乎乎刚出炉的打印纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n拖延症没救了。明早七点起来去面签，然后晚上和茉莉和书书约饭回家的路上想起来是不是还需要准备些材料。问了下 chatgpt 发现有好多要打印的文件，而且照片也没有准备... 在车上说完茉莉扭头就向照相馆开了，呜呜感谢茉莉 qwq\n\n不过照相馆和 shoppers 里面的照相服务都关了门，结果回家自己用光面的打印纸打了一张 5x5cm，不知道能不能用，明早路上再找一找好啦",
-    "views": 44,
+    "views": 46,
     "forwards": 1,
     "images": [
       {
@@ -28199,7 +28199,7 @@
     "id": 2101,
     "date": "2023-05-01T12:34:56",
     "text": "得救了！还好附近有早上八点开门的照相馆 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 46,
+    "views": 50,
     "forwards": 1,
     "reply": {
       "id": 2100,
@@ -28222,7 +28222,7 @@
     "id": 2102,
     "date": "2023-05-01T14:50:40",
     "text": "过了！护照交上去了，<del>希望能在实习开始之前贴好签送回来</del>\n\n结果之前准备的一大堆文件完全没有用到，可能不是拖延只是太焦虑了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 42,
+    "views": 47,
     "forwards": 0,
     "media_group_id": 13463621124990669,
     "images": [
@@ -28252,7 +28252,7 @@
     "id": 2104,
     "date": "2023-05-02T03:05:45",
     "text": "HyFetch repo 又有反跨人来捣乱了，把之前写的脚本跑起来发现它真的好有限——只能按黑名单删 issue，两次刷新要间隔五秒，还看不到评论和 pr...\n\n所以！今天写了一个完整的 Github 审核 bot！用 OpenAI Moderation 接口自动化审核，然后用 webhook 保证了在发出邮件通知之前就可以把内容全都替换掉。总算是不用再担心反跨人了！<i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n然后用 NovelAI Diffusion 生成了一个超级酷炫的头像，还注册了一个超级正经的用户名，仪式感拉满啊哈哈哈\n\n（欢迎来围观: <a href=\"https://github.com/ai-moderator\">https://github.com/ai-moderator</a>",
-    "views": 37,
+    "views": 46,
     "forwards": 0,
     "media_group_id": 13463973967138525,
     "images": [
@@ -28282,5 +28282,85 @@
       "text": "花了一天给留言审核加了「封禁 IP」和「AI 自动过滤」的功能 qwq\n\nAI 用了二郎神中文 RoBERTa 模型，没想到 110M 的模型准确率就已经有 93% 了哇 (91% prec, 96% recall)，明天试试 fine tune 一下这个还有 UniMC 的版本...",
       "thumb": "media/1747.jpg_thumb.jpg"
     }
+  },
+  {
+    "id": 2106,
+    "date": "2023-05-03T02:59:33",
+    "text": "今天见到了从西岸飘来的鱼塔！鱼塔好可爱！<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n出门前打扮太久迟到了五分钟，然后发现对方一个小时前就到了约定的地方... 好愧疚。不过第一次成功给出了见面抱抱！想起来见前前任子兰和去机场接书书的时候都很想抱却因为社恐没有抱到呢。我也终于克服社恐了 qwq\n\n先逛了一圈 UofT，发现之前在施工的区域扩大了，楼道里四处贴的海报被清理掉了，樱花只剩下了花蕊，CSSU 也关了门，一周不见变化好大。然后去吃饭，因为兰州拉面店坐满去了旁边不是很好吃的米粉店，感觉没有自己做的好吃，早知道就等一个位置了。\n\n吃完鱼塔要和同学打招呼，就跟着一起去了物理系学生会 PhySU，<del>怎么感觉比 CSSU 还疯</del>。看到天花板的格子上好多各种各样的画，桌子上摆满了棋盘和书，还有一个复古游戏角落摆了 NES 和一台 CRT 电视，第一次线下见到 NES 这么古老的游戏机。\n\n在这里鱼塔的同学甲（叫什么来着...）问我们下象棋就和他下了一盘。听他那么自信原本以为是旗鼓相当的对手，做好了全力以赴也会输掉的心理准备，然后下了几步发现怎么比聊聊还菜（笑\n\n离开学生会之后带鱼塔去 Little Canada 看微观模型。我已经是二刷了，看到了好多上次没注意到的小彩蛋，自动检测小车电量的机房，还有正在搭建北部模型的员工。原来每个会动的小车里面都有锂电池和一块 mcu 哇，还有用来防止撞车的红外感应器，能做到这么小好厉害。\n\n接下来去优衣库和鱼塔试了衣服！第一次给别人挑衣服好紧张好紧张的，好怕选的不合适。按照心里的形象挑了一套穿搭让鱼塔试了下发现效果还不错——虽然看到穿好的样子才想到更好的搭配。原本打算配半身长裙但是没找到换成了不太搭的裙裤，好可惜。\n\n总之是很开心的一天！还收到了可爱的猫猫笔袋礼物，感谢鱼塔。回到家就累倒睡着了，昨晚因为太期待也没睡好呜呜。睡一个小时起来写下日记<del>存下档</del>继续睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
+    "views": 20,
+    "forwards": 0,
+    "media_group_id": 13464662187613869,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2023-05-03T02:59:29",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-03_02-59-29.jpg",
+        "url": "media/2106.jpg",
+        "size": 237158,
+        "thumb": "media/2106.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2023-05-03T02:59:30",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-03_02-59-30.jpg",
+        "url": "media/2107.jpg",
+        "size": 211058,
+        "thumb": "media/2107.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-05-03T02:59:31",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-03_02-59-31.jpg",
+        "url": "media/2108.jpg",
+        "size": 687401,
+        "thumb": "media/2108.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-05-03T02:59:31",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-03_02-59-31.jpg",
+        "url": "media/2109.jpg",
+        "size": 894265,
+        "thumb": "media/2109.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-05-03T02:59:32",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-03_02-59-32.jpg",
+        "url": "media/2110.jpg",
+        "size": 508557,
+        "thumb": "media/2110.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-05-03T02:59:32",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-03_02-59-32.jpg",
+        "url": "media/2111.jpg",
+        "size": 492780,
+        "thumb": "media/2111.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-05-03T02:59:32",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-03_02-59-32.jpg",
+        "url": "media/2112.jpg",
+        "size": 510237,
+        "thumb": "media/2112.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
