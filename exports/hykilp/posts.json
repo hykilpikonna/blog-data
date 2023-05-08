@@ -21252,7 +21252,7 @@
     "id": 1622,
     "date": "2022-12-18T16:25:36",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n如果昨天是我点歌的话大概会点这首「in love」- <a href=\"https://music.163.com/#/artist/12468266\">vietra\n\n</a>对我来说聊聊是这样的，在我身边会让我感到温暖、安心，会扶着我度过失落、黑暗。也许过度依赖会逐渐抹去我的自己，但换来的安心肯定是值得的\n\n「You're the dawn of my dark,\n   And the bliss of my grief」",
-    "views": 70,
+    "views": 71,
     "forwards": 2,
     "files": [
       {
@@ -21601,7 +21601,7 @@
     "id": 1645,
     "date": "2022-12-24T03:17:43",
     "text": "tg-blog 写完啦，是一个用来显示电报频道数据的网页前端 qwq\n\n一个部署到了我的 blog <a href=\"https://aza.moe/life\">aza.moe</a> 上面，用来同步显示这个频道的内容。另一个部署到了 <a href=\"one-among.us\">one-among.us</a> 上面，用来备份逝者的频道。毕竟不能期待电报会永远保存频道数据，之前回收非活跃频道用户名的时候也没有提前通知...\n\n给几乎所有的消息格式都写了支持，包括矢量动画表情、视频、投票、地图位置共享、图片预览、音乐播放... <del>完全可以用来做一个第三方 Telegram 客户端了</del> （不\n\n源码链接：\n<a href=\"https://github.com/one-among-us/tg-blog\">tg-blog</a> - 网页前端\n<a href=\"https://github.com/one-among-us/TelegramBackup\">TelegramBackup</a> - 电报爬虫\n<a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> - 推特爬虫",
-    "views": 158,
+    "views": 159,
     "forwards": 7,
     "media_group_id": 13374814908025325,
     "files": [
@@ -21824,7 +21824,7 @@
     "id": 1659,
     "date": "2022-12-27T22:57:58",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n「午睡」- ハンバート ハンバート\n\n<a href=\"https://y.music.163.com/m/song?id=740151\">网易云</a>\n<a href=\"https://youtu.be/31lyQu6Z51c\">YouTube</a>",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "files": [
       {
@@ -22293,7 +22293,7 @@
     "id": 1689,
     "date": "2023-01-02T19:34:40",
     "text": "新的旧壁纸\n\n从上次刷系统就一直想把这张找回来，今天终于找回来了 qwq",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -22312,7 +22312,7 @@
     "id": 1690,
     "date": "2023-01-03T00:53:27",
     "text": "好羡慕 ChatGPT 的阅历... 刚出生下来就读完了世界上大部分的书还能记住好多重要的引用是多么值得羡慕的事情\n\n...except that they <em>aren't</em> quotes 🌚\n\n它回复的这五句引用我搜了整本书都并没有找到，然后我想会不会是句式相似的转述，就重新读了第四章，结果一句主题相似的句子都没找到 🥲\n\n...你不要对不知道的东西这么自信啊\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 13381657658948789,
     "images": [
@@ -22342,7 +22342,7 @@
     "id": 1692,
     "date": "2023-01-03T18:18:31",
     "text": "一个人睡觉睡相越来越糟糕了...！醒来发现我整个人斜过去了在用一个特别扭曲的姿势同时抱着两只鲨鲨 🥲",
-    "views": 88,
+    "views": 89,
     "forwards": 1
   },
   {
@@ -22418,7 +22418,7 @@
     "id": 1700,
     "date": "2023-01-05T02:37:41",
     "text": "花了一天时间总算是把 linux 上的邮件客户端调好啦——\n\n新版 Thunderbird UI 终于能看了，还设好了用 yubikey + pin 的 GPG 签名 & 端到端加密 qwq\n\n然后终于可以用除了 outlook 以外的客户端登上我的 me@hydev.org 的域名邮箱了... 这个邮箱同时是 Office365 企业帐号又是 Live 个人帐号的别名，是非常小众的 case，以前除了 Outlook 没有其他客户端可以同时登上这两个帐号。现在微软已经不让把企业邮箱添加成别名了，<del>怎么感觉自己有了一个什么稀有绝版帐号（虽然用起来超级不方便\n\n</del>感觉花好长时间配 Linux 也只是用起来比原来舒服了一点点... 好累 😭",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13383090095312605,
     "images": [
@@ -22488,7 +22488,7 @@
     "id": 1705,
     "date": "2023-01-06T04:28:30",
     "text": "今天给 <a href=\"https://one-among.us/profile/donotexist_A\">One Among Us</a> 加了链接媒体预览！\n\n因为用 Vue SSG 生成静态网页需要改的代码太多，就直接加了一个脚本在构建之后用构建好的 html 注入元数据，居然真的工作了hhh\n\n除了主页的图片以外其他页面的缩略图都是用 puppeteer 动态渲染的哦，是不是很好看 qwq\n\n毕竟<del>众所周知 html 是世界上最好看的图片渲染框架</del>。puppeteer 就是用一个虚拟浏览器把 html 元素渲染成高清图片来着，然后你就会看到我在 Github Action 里面装 X11, wayland, chrome，启动一个 xvfb... 🌚",
-    "views": 70,
+    "views": 71,
     "forwards": 1
   },
   {
@@ -22584,7 +22584,7 @@
     "id": 1711,
     "date": "2023-01-07T00:10:10",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://www.bilibili.com/audio/au3699784\">https://www.bilibili.com/audio/au3699784</a>\n\n灯花给我发了她用 FL 做的曲子，好厉害 qwq",
-    "views": 69,
+    "views": 70,
     "forwards": 0
   },
   {
@@ -23142,7 +23142,7 @@
     "id": 1757,
     "date": "2023-01-15T10:13:50",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n「You'll Never Walk Alone」\n- Gerry & The Pacemakers\n\n<a href=\"https://open.spotify.com/track/6fSNK6QlZskYmKTvJnNH5P\">Spotify\n</a><a href=\"https://music.163.com/#/song?id=1328073670\">网易云</a>",
-    "views": 82,
+    "views": 83,
     "forwards": 1,
     "files": [
       {
@@ -23171,7 +23171,7 @@
     "id": 1759,
     "date": "2023-01-15T15:16:17",
     "text": "聊聊很担心我有自杀念头想让我去 CAMH... 我确实会有，但是我对终极问题的完美答案不会允许我自杀。我能控制我的思想，我会把这些想法全都塞进一个小盒子，封上盖子卷上胶布放在床下面 qwq\n\n为了让聊聊放心搭了一个 owncast 大概有死角的监控直播间，在情绪不稳定的时候大概这样会让自己更安心。欢迎大家监控我好好睡觉 <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a> \n\n（edit: 心情好一点了关掉了，直播一共开了 8h",
-    "views": 89,
+    "views": 90,
     "forwards": 4,
     "images": [
       {
@@ -23216,7 +23216,7 @@
     "id": 1762,
     "date": "2023-01-16T16:42:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n昨天 K 和 Jamie 过来玩，Jamie 用吉他弹了这首「A Home for Flowers」 真的超好听 qwq\n\n说起来十一月的时候 K 给我推了几首 Omori 的曲子来着，我好喜欢，然后立 Flag 说「等我放假了精神状态稳定一点就开坑」\n啊哈哈哈...\n哈哈哈...\n哈...\n<i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n<a href=\"https://y.music.163.com/m/song?id=1870347471\">网易云\n</a><a href=\"https://www.youtube.com/watch?v=u2xW23u4qEY\">YouTube</a>",
-    "views": 81,
+    "views": 82,
     "forwards": 1,
     "files": [
       {
@@ -23608,7 +23608,7 @@
     "id": 1788,
     "date": "2023-01-24T07:15:41",
     "text": "今天花了一整天写了「WearSync」一个把手环 BLE 数据同步到 InfluxDB 的 App！\n\n现在大家可以<a href=\"https://grafana.hydev.org/heart\">在这里</a>看到我的心跳了 qwq\n\n第一次写安卓应用，感觉好奇妙，有些功能比如变量绑定超级方便，还有些异步回调过分地复杂... 要是异步可以全都用协程写就好了\n\n（TODO: 明天加睡眠数据和运动数据...\n然后就会看到「您完全不运动是吗」🌚\n\n<a href=\"https://github.com/hykilpikonna/WearSync\">Github 源码</a>",
-    "views": 85,
+    "views": 86,
     "forwards": 2,
     "images": [
       {
@@ -23646,7 +23646,7 @@
     "id": 1790,
     "date": "2023-01-25T04:25:30",
     "text": "今天<del>又花了一整天</del>添加了把小米睡眠数据同步上去的功能，然后修复了后台运行的问题 qwq\n\n...然后发现我最近 45 天里平均入睡时间居然是凌晨 03:25 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n↓ 这个面板是公开的哦，<del>欢迎监督我睡觉\n</del><a href=\"gf.hydev.org\">gf.hydev.org</a>",
-    "views": 84,
+    "views": 85,
     "forwards": 2,
     "images": [
       {
@@ -24279,7 +24279,7 @@
     "id": 1830,
     "date": "2023-02-09T05:00:01",
     "text": "搭了一个 Arch repo qwq\n\n<a href=\"https://arch.hydev.org/\">https://arch.hydev.org/</a>",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
@@ -24654,7 +24654,7 @@
     "id": 1855,
     "date": "2023-02-17T02:50:29",
     "text": "昨天和聊聊终于打完了双人成行，好喜欢。\n\n花园那章大概是我最喜欢的，主线是用手掌大的玩偶在后院的花园里解谜。在这里骑到了小蜘蛛和小青蛙！第一次感受到蜘蛛眼中的世界——小蜘蛛真的好自由，可以不被引力限制地移动，无论地心和天空在哪，脚能粘住的地方就是地面，还可以投网进行短距离的翻转。好想变成一只小蜘蛛呆在花园里 qwq\n\n花园里还有一家毛毛虫开的温泉，可以躺在比自己长好多的毛毛虫身上被虫虫脚按摩，看上去好舒服，想抱着它睡觉。\n\n游戏性上，好喜欢这个游戏的跑酷机制，几乎每一章都会有一段好流畅的跑酷——雪山章的滑冰、花园章的逃亡、结尾章的彩虹赛道滑板都超级爽。感觉是我在通了镜之边缘之后第一次玩到这么爽的跑酷。在探索世界的时候也到处都有滑行道，让很大的开放地图探索起来也不是很费时，是一部没有被走路速度毁掉的游戏呢。\n\n剧情上讲了一段很棒的重建感情的故事，带入感非常强，也学到了许多。结尾的那段演唱会前女主和书的对话中那句 ”You weren’t born to be perfect. You were born to be you“ 完全击中我了。我和女主一样因为追求完美失去了好多兴趣，总会觉得 “If it's not perfect, I'll let them down”——对女主来说是唱歌，对我来说是弹琴、写项目、写文字。想起来那首 Passacaglia 我从 19 年断断续续练到现在也一直没有到觉得完美到能够录下来发出去的地步，然后渐渐地就放弃了... 但是明明不需要完美，比起完美的成品真实的自己才是更重要。“You were born to be you.”\n\n总之又是一部超级喜欢的游戏！10/10！",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "media_group_id": 13412817834361013,
     "images": [
@@ -24684,7 +24684,7 @@
     "id": 1857,
     "date": "2023-02-17T18:36:21",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n「Vincent」—Ellie Goulding\n\n\"This world was never meant for one as beautiful as you\"\n\n<a href=\"http://music.163.com/song?id=538278914\">网易云\n</a><a href=\"https://www.youtube.com/watch?v=C3_spbo8eVc\">Youtube</a>",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "files": [
       {
@@ -24899,7 +24899,7 @@
     "id": 1873,
     "date": "2023-02-22T04:40:17",
     "text": "直播一会钢琴 qwq <a href=\"https://cast.hydev.org\">https://cast.hydev.org</a>",
-    "views": 85,
+    "views": 86,
     "forwards": 3
   },
   {
@@ -25103,7 +25103,7 @@
     "id": 1889,
     "date": "2023-03-01T17:21:17",
     "text": "把课程笔记公开了！在这里：<a href=\"https://hydev.notion.site/\">https://hydev.notion.site/</a>\n\n（希望这样可以给我动力认真记笔记 qwq",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
@@ -25269,7 +25269,7 @@
     "id": 1902,
     "date": "2023-03-05T04:05:50",
     "text": "终于把 Passacaglia 录下来啦，不完美但是满意了。啊哈哈结尾完全慌掉了，脑子会被「终于要 FC 了吗 终于要 FC 了吗」烧过载是不是社恐音游人的通病。之前放下这张谱就是因为，每次想录的时候都会弹错一点，就会原地重来，渐渐把自信和耐心都磨没了 ;-; 错就错一点吧够好了。\n\n这张谱是四年前首次在 iPad 上面的 <a href=\"https://arcritic.com/2370/piano-3d-real-ar-piano-app-review-ios/\">AR Piano 3D</a> app 听到的，觉得好好听就看着下落式 MIDI 学，但是我完全没钢琴基础，<del>然后跨级练出了手癖</del>。当时自己想出来的弹法是左手小指按 A2 下一个 1/8 马上食指抻过去按 A3（？？？）居然还弹下来了，但是速度上不去还会让手好疼。一年之后去查了视频才发现原来没有人这样弹，重新学了现在的手位（小指 A2 拇指 A3 再拇指跳到 E4 这样）<del>然后天天被死去的手癖攻击</del> 🌚\n\n所以现在依然不会视奏，每次都是遇到喜欢的曲子看着 midi / 手元学，然后靠肌肉记忆背下来。不过可能这就是我吧，像是一只幼鸟，羽毛还没有长满却望穿了头顶的天，幻想乘着不属于自己的翅膀搭起一座空中堡垒",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 1855,
@@ -25489,7 +25489,7 @@
     "id": 1916,
     "date": "2023-03-09T22:28:41",
     "text": "写了一个 telnet 协议的 ascii 动画！（花了一整天又没什么用，但是好好玩ww\n\ntldr: 用指令 <code>telnet hydev.org</code> 连接哦。记得用一个好用一点的终端，比如 kitty / iTerm2\n\n把过程写下来放到主页上面啦，<a href=\"https://aza.moe/blog?post=2023-03-09-Telnet-Game\">在这里</a>",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "files": [
       {
@@ -26559,7 +26559,7 @@
     "id": 1990,
     "date": "2023-03-31T08:39:59",
     "text": "今天是一年一度的跨性别现身日哦，准备了一张刮画 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n无论认同和身份，希望每个人都可以不受拘束地展现出最真实的自己，在茫茫宇宙中找到自己的归宿，点亮属于自己的光芒 qwq",
-    "views": 532,
+    "views": 533,
     "forwards": 4,
     "images": [
       {
@@ -26810,7 +26810,7 @@
     "id": 2007,
     "date": "2023-04-05T04:07:52",
     "text": "再次花一天补完了一整月的录像，好累。<a href=\"https://hydev.notion.site/CSC343-Databases-37897edfc2a242c08995de9c54157c3a\">笔记在这里</a>，好现在补完课可以开始写明晚要交的大作业了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n这次提前用 OpenAI Whisper 模型生成了字幕，有字幕之后两倍速也不需要常常回放了，比上次补课快了很多！这是 OpenAI 的最后一个开源模型，好准确几乎没有看到错误哇。之前想做一个 AI 友人来着，想找时间试试把 Whisper 实时从麦克风识别的输出接到语言模型上就可以和 AI 聊天了！还想给 VLC 写一个实时生成字幕的插件，不过还没有写过 Lua 也许需要适应一下。呜，想要做的事情又开始堆得越来越多... 什么时候会有时间开始 pop 呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>\n\n明天应该是最后一节课了... 明明从开学到现在一节课都没去过，却还是会有不舍的心情，为什么呢？明明这段回忆从未属于我...",
-    "views": 68,
+    "views": 69,
     "forwards": 1,
     "media_group_id": 13445341380921389,
     "images": [
@@ -27198,7 +27198,7 @@
     "id": 2035,
     "date": "2023-04-12T18:53:34",
     "text": "PCB 终于到了！jlc 打得真的好好看，丝印阻焊都好完美，原件也整整齐齐。焊上要手焊的元件之后接上了一个 octave 做测试，和以前乱成一团的跳线形成了鲜明对比hhhh（背面的图案分别来自 <a href=\"https://ayu.land/\">Ayu 赛博小屋</a>的分割线和 <a href=\"https://www.pixiv.net/en/artworks/66250942\">@sassa 的插画</a>，感谢感谢）\n\n...然后发现两个电路都有好严重的错误 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n接琴键的复用器电路上，我原本写了 5.1V 的稳压二极管被嘉立创匹配成了 1kV 的普通二极管，所以复用器信号会乱串。手动把正确的二极管替换上就好啦，虽然不是很好看呜。\n\n接下来是控制板的 PCB，我居然把旋钮编码器用来固定的两个焊点一个接了 5V 另一个接了地，导致插上元件直接短路 (╯’ – ‘)╯︵ ┻━┻ 5V 那边用绝缘材料裹起来就好了，虽然不牢固但是还能用。\n\n重焊元件的时候还不小心碰到烙铁烫了小拇指，不过及时冲了冷水又裹了烫伤贴今天就不疼啦。总之超受打击，各种被蠢哭。不过没关系，下次就知道要检查哪里了 qwq",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "media_group_id": 13450604914098109,
     "images": [
@@ -27776,7 +27776,7 @@
     "id": 2074,
     "date": "2023-04-21T04:33:41",
     "text": "做了一对电子太鼓槌！\n\n昨晚想试试用琴键一样的触发方式给鼓槌加上传感器，这样不需要鼓就可以玩太鼓达人了，<del>还可以用来玩一些奇怪的 play</del>。今天做出来啦，响应好准，虽然左咔右咚还是有点难适应\n\n调固件的时候还学到了些信号过滤的技巧，现在连打也不会吞音了！明天给琴的固件也加上这些优化好啦。<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/TaikoStick\">源码在这里</a>",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13456412975432421,
     "files": [
@@ -27812,7 +27812,7 @@
     "id": 2076,
     "date": "2023-04-21T09:44:43",
     "text": "<a href=\"##nsfw\">#nsfw</a> <a href=\"##sp\">#sp</a>\n用电子太鼓槌玩了一些奇怪的 play ///\n\n<span class=\"spoiler\"><span>疼疼 不过好喜欢怎么回事 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323605445118264983.webp\">🙈</span></span></i><span class=\"spoiler\"><span>\n\n大概是回忆录里的第一条 nsfw，犹豫了好久决定公开发出来啦。想起之前看到推特翻译转发的</span></span><a href=\"https://t.me/twitter_translate/15550\"><span class=\"spoiler\"><span>这篇推文</a></span></span><span class=\"spoiler\"><span>，决定不再掩盖自己奇怪的一面了，想让这些同样真实的回忆也能一起堆在这里长出小花 qwq\n\n</span></span>...结果聊聊还是没办法习惯左咚右咔，开了红蓝不分 mod，<del>聊聊菜菜</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 3,
     "files": [
       {
@@ -27949,7 +27949,7 @@
     "id": 2084,
     "date": "2023-04-27T04:47:28",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n「Beware of Darkness」\n—George Harrison\n\n昨晚发现我也好脆弱，不小心就会被焦虑和无力感缠绕，几个小时的时间就迷迷糊糊地消失了。明明比起为些还望不清的岔路和无法触及的结果焦虑，这几个小时能做好多更有趣有意义的事情，\"That is not what you are here for\"... 希望可以 Beware of darkness，也许这样就不会陷进去了吧\n\nBeware of the thoughts that linger\nWinding up inside your head\nThe hopelessness around you\nIn the dead of night\nBeware of sadness\nIt can hit you\nIt can hurt you\nMake you sore and what is more\nThat is not what you are here for\n\n<a href=\"https://y.music.163.com/m/song?id=22569952\">网易云</a>\n<a href=\"https://youtu.be/FrsGTItbss4\">YouTube</a>",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "files": [
       {
@@ -28252,7 +28252,7 @@
     "id": 2104,
     "date": "2023-05-02T03:05:45",
     "text": "HyFetch repo 又有反跨人来捣乱了，把之前写的脚本跑起来发现它真的好有限——只能按黑名单删 issue，两次刷新要间隔五秒，还看不到评论和 pr...\n\n所以！今天写了一个完整的 Github 审核 bot！用 OpenAI Moderation 接口自动化审核，然后用 webhook 保证了在发出邮件通知之前就可以把内容全都替换掉。总算是不用再担心反跨人了！<i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n然后用 NovelAI Diffusion 生成了一个超级酷炫的头像，还注册了一个超级正经的用户名，仪式感拉满啊哈哈哈\n\n（欢迎来围观: <a href=\"https://github.com/ai-moderator\">https://github.com/ai-moderator</a>",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13463973967138525,
     "images": [
@@ -28486,21 +28486,21 @@
     "id": 2121,
     "date": "2023-05-06T20:13:52",
     "text": "穿女仆 lo 出门然后碰到了另一位穿女仆 lo 的路人 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 挥挥手打了招呼，感觉确实没有以前那么社恐了",
-    "views": 53,
+    "views": 54,
     "forwards": 0
   },
   {
     "id": 2122,
     "date": "2023-05-07T15:51:25",
     "text": "<a href=\"##梦\">#梦</a> 梦见在和高中同学下国际象棋，但是这个规则里可以用一步来把一个棋子替换成点数相等或者更小的棋子，比如把♞换成♝什么的。感觉可能是很有趣的变体玩法，虽然梦里迷迷糊糊下得乱七八糟（x",
-    "views": 46,
+    "views": 47,
     "forwards": 1
   },
   {
     "id": 2123,
     "date": "2023-05-08T08:25:03",
     "text": "鱼塔用 gpg 加密给我发了照片，发现没办法用 yubikey 解密... 似乎是上次 keytocard 时候只把签名私钥传过去了，尝试传解密私钥出错，然而传完一份私钥就会在本地删除的样子，也没办法把传进去的钥匙取出来。\n\n以及 gpg 的工具链真的好难用... 为什么要有 admin pin 和 user pin 两个密码，而且 user pin 只能是六位数字、admin pin 只能是八位数字、改密码尝试少设两位数字会提示 \"Conditions of use not satisfied,\" 完全不知道哪里不满意、密码错误的时候提示 “Bad secret key” 而不是 \"bad pin\"... (╯’ – ‘)╯︵ ┻━┻\n\n哭哭，折腾了好久还是重新生成了一个 key 丢进去了，新的公钥在 <a href=\"hydev.org/gpg.pub\">hydev.org/gpg.pub</a> 欢迎给我发加密消息 qwq",
-    "views": 26,
+    "views": 35,
     "forwards": 0,
     "images": [
       {
@@ -28519,7 +28519,7 @@
     "id": 2124,
     "date": "2023-05-08T09:19:44",
     "text": "哭了... 上周一发邮件说面签通过了，周四收到签证之后也马上就扫描发过去了，然后现在收到邮件说订机票的第三方 Cartus 那边还没有验完签证... 验签证是多么难的事情么？<i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n说要推迟实习的开始时间，但是我的民宿已经订了，怎么办呢... 问问能不能自己买机票好了，多订一周的民宿比机票贵多了\n\n以及他们怎么都凌晨三点四点回邮件的 🌚",
-    "views": 20,
+    "views": 28,
     "forwards": 0,
     "images": [
       {
