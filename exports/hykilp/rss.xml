@@ -12,7 +12,23 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 May 2023 08:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2023 10:08:23 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2124</title>
+      <link>https://aza.moe/life?post=2124</link>
+      <description>&lt;p&gt;哭了... 上周一发邮件说面签通过了，周四收到签证之后也马上就扫描发过去了，然后现在收到邮件说订机票的第三方 Cartus 那边还没有验完签证... 验签证是多么难的事情么？&lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;说要推迟实习的开始时间，但是我的民宿已经订了，怎么办呢... 问问能不能自己买机票好了，多订一周的民宿比机票贵多了&lt;/p&gt;
+&lt;p&gt;以及他们怎么都凌晨三点四点回邮件的 🌚&lt;/p&gt;</description>
+      <guid isPermaLink="false">2124</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #2123</title>
+      <link>https://aza.moe/life?post=2123</link>
+      <description>&lt;p&gt;鱼塔用 gpg 加密给我发了照片，发现没办法用 yubikey 解密... 似乎是上次 keytocard 时候只把签名私钥传过去了，尝试传解密私钥出错，然而传完一份私钥就会在本地删除的样子，也没办法把传进去的钥匙取出来。&lt;/p&gt;
+&lt;p&gt;以及 gpg 的工具链真的好难用... 为什么要有 admin pin 和 user pin 两个密码，而且 user pin 只能是六位数字、admin pin 只能是八位数字、改密码尝试少设两位数字会提示 "Conditions of use not satisfied," 完全不知道哪里不满意、密码错误的时候提示 “Bad secret key” 而不是 "bad pin"... (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;哭哭，折腾了好久还是重新生成了一个 key 丢进去了，新的公钥在 &lt;a href="hydev.org/gpg.pub"&gt;hydev.org/gpg.pub&lt;/a&gt; 欢迎给我发加密消息 qwq&lt;/p&gt;</description>
+      <guid isPermaLink="false">2123</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2122</title>
       <link>https://aza.moe/life?post=2122</link>
