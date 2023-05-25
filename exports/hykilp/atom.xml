@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-05-25T06:07:58.938893+00:00</updated>
+  <updated>2023-05-25T08:06:50.689004+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2208</id>
+    <title>小桂桂的回忆录 📒 #2208</title>
+    <updated>2023-05-25T06:44:09+00:00</updated>
+    <content>&lt;p&gt;今天演讲完啦，研究方向大概是要自动检测 AI 生成的音乐中声音漂游的问题。比如说如果生成一个五分钟的 jazz 的话，主乐器可能会从柔和的钢琴慢慢变成明亮的木吉他，再逐渐失真变成电吉他，大概就是要检测这种一去不复返的漂游啦。&lt;/p&gt;
+&lt;p&gt;呜 原本不是这个方向的，原本想做一个主观性音乐评分模型，明明流程都规划好了，然后导师说他们以后的项目用不到改方向吧 (╯’ – ‘)╯︵ ┻━┻ 所以就变成了我想同时做的 side project，不知道会不会有多余的时间来做。&lt;/p&gt;
+&lt;p&gt;演讲完 Sebastian 带我去参观了音频组的 lab，几年前在新闻上看到的「世界上最安静的房间」居然真的就在眼前，似乎就是这个音频组搭起来的，还有球形的环绕麦克风、用来模拟人类耳道和声道的 dummy head、接了巨大步进马达的椅子... 音频组好厉害！然后让我注册一下服务器就回去啦。&lt;/p&gt;
+&lt;p&gt;因为需要跑一些 ML 就去申请了最低配置的 GPU Sandbox 来着，然后居然直接给我开了一个 A100 (╯’ – ‘)╯︵ ┻━┻ &lt;/p&gt;
+&lt;p&gt;...一块 A100 比我一个月的薪水贵了，呜呜要加油让自己的研究不辜负这么好的设备啊，&lt;del&gt;每天再多工作一会吧&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170248621292783564.webm"&gt;😢&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2208" rel="alternate"/>
+  </entry>
   <entry>
     <id>2207</id>
     <title>小桂桂的回忆录 📒 #2207</title>
