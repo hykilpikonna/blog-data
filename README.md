@@ -4,7 +4,7 @@ Syncronized telegram channel data for my blog, created using my [TelegramBackup]
 
 ## Usage
 
-1. Fork this repo
+1. Fork this repo (uncheck the option "Copy the _main_ branch only")
 2. Create your secrets (read here: [TelegramBackup](https://github.com/one-among-us/TelegramBackup))
 3. Run GitHub actions
 4. Go to GitHub Pages settings and enable it, select `gh-pages` branch.
