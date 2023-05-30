@@ -5367,7 +5367,7 @@
     "id": 525,
     "date": "2022-02-22T06:19:53",
     "text": "翻服务器备份翻到了以前的 QQ osu! Bot 的截图... 全都是回忆唉\n\n当时因为 osu 官网频繁更新，爬虫代码总是死就「暂时」关掉了。好想什么时候重构一下重新跑起来，跑到 Telegram 上",
-    "views": 36,
+    "views": 37,
     "forwards": 0,
     "media_group_id": 13164086345294909,
     "images": [
@@ -15104,7 +15104,7 @@
     "id": 1204,
     "date": "2022-09-13T23:59:13",
     "text": "认真试了一下用 nixos 做主力系统，感觉完全不行（x\n\nnodejs 和 python 很多依赖都需要 native binding，npm/pip 也都把编好的二进制打包进去了。然而因为 nixos 没有一般 linux 的那些路径，大部分二进制都不能直接运行，需要 patchelf 把依赖路径都改掉才行...\n\n用 nixpkgs 里面的 pythonPackages 和 nodePackages 写 nix 构建脚本的话就没办法保证别人在普通的 distro 上也能正常用 npm/pip 构建了，而且 nixpkgs 的更新频率好慢\n\n还有一个问题就是，虽然 /etc 系统配置同步很方便，但是用同样方式同步用户 home 的配置的话非常麻烦... 用 home-manager 就不能在应用内改设置了，必须花时间查每个选项用 nix 语法应该怎么写\n\n决定还是换成 Arch + nix 啦",
-    "views": 77,
+    "views": 78,
     "forwards": 1
   },
   {
@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6565,
+    "views": 6566,
     "forwards": 176,
     "media_group_id": 13340239729731381,
     "images": [
@@ -19998,7 +19998,7 @@
     "id": 1542,
     "date": "2022-11-30T00:09:29",
     "text": "地球气候好神奇，明明温哥华维度比多伦多高 6°，冬天的气温反而比多伦多高了 10°C 🤔\n\n不过温哥华气候真的好棒，冬天没有这么冷，夏天还更凉快一点。好想毕业之后搬去温哥华 qwq",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "media_group_id": 13358135755613605,
     "images": [
@@ -20028,7 +20028,7 @@
     "id": 1544,
     "date": "2022-11-30T00:29:00",
     "text": "这个地球上居然还有全年温度都一样的地方 🤯",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "images": [
       {
@@ -20047,7 +20047,7 @@
     "id": 1545,
     "date": "2022-11-30T19:41:29",
     "text": "呜呜呜 好久没用蚝油然后今天打开瓶盖发现里面发霉了...",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 523,
@@ -20070,7 +20070,7 @@
     "id": 1546,
     "date": "2022-11-30T22:32:06",
     "text": "还有 7 天结课，还有 3/5 项期末作业要写... 需要开始一下期末冲刺",
-    "views": 85,
+    "views": 86,
     "forwards": 0
   },
   {
@@ -22778,7 +22778,7 @@
     "id": 1725,
     "date": "2023-01-11T03:20:44",
     "text": "C 真的好原始... 想 hack 一些作业题然后它一次一次第让我失望 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "images": [
       {
@@ -22870,7 +22870,7 @@
     "id": 1731,
     "date": "2023-01-11T22:23:04",
     "text": "哇 Deemo 真的动画化了！\n\n感觉一年没关注剧场版更新错过了好多——",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -26559,7 +26559,7 @@
     "id": 1990,
     "date": "2023-03-31T08:39:59",
     "text": "今天是一年一度的跨性别现身日哦，准备了一张刮画 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n无论认同和身份，希望每个人都可以不受拘束地展现出最真实的自己，在茫茫宇宙中找到自己的归宿，点亮属于自己的光芒 qwq",
-    "views": 568,
+    "views": 569,
     "forwards": 4,
     "images": [
       {
@@ -29735,7 +29735,7 @@
     "id": 2213,
     "date": "2023-05-26T05:44:10",
     "text": "灰蝴蝶！",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -29761,7 +29761,7 @@
     "id": 2215,
     "date": "2023-05-27T20:38:42",
     "text": "盆栽！",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -29780,7 +29780,7 @@
     "id": 2216,
     "date": "2023-05-28T05:02:14",
     "text": "Wan 搬出去了... 今天帮忙一起搬家、去他们 CMU 同学聚会蹭蹭饭、去他朋友家里玩了一会\n\n明明刚认识短短两周还是对离别好不舍，仿佛两周里他成为了我在这里唯一的依赖。走之前送给他了一只同款的小猫 plush，希望小猫的魔法能让这份友情保留下来 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 48,
+    "views": 49,
     "forwards": 0,
     "media_group_id": 13482001075277541,
     "images": [
@@ -29820,15 +29820,15 @@
     "id": 2219,
     "date": "2023-05-29T01:27:19",
     "text": "正在计划生日的那周去 CA 州玩，发现自己好不会计划呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 39,
+    "views": 44,
     "forwards": 0
   },
   {
     "id": 2220,
     "date": "2023-05-29T21:33:00",
     "text": "一些中二片段 qwq",
-    "views": 11,
-    "forwards": 0,
+    "views": 25,
+    "forwards": 1,
     "files": [
       {
         "width": 1920,
@@ -29843,6 +29843,56 @@
         "url": "media/2220.mp4",
         "size": 24765019,
         "thumb": "media/2220.mp4_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2221,
+    "date": "2023-05-29T22:31:57",
+    "text": "昨天ゆり叫上我一起去了 mili 家的机厅！没想到第一次玩到 maimai 和 wacca 和中二和 Nostalgia 居然是在朋友的朋友家里。能买到这么多机台好厉害哇，突然好想在多伦多也开一家机厅怎么办 > <\n\n感觉音游能力真的好容易转移，就像学程序语言一样，学会一种之后入坑其他的都简单好多。初见水平大概在 maimai 8+，wacca 9，中二 11 的样子，不过可惜也没有太多机会继续玩啦\n\n之前听聊聊讲到过 Nostalgia，好喜欢这个游戏的画风和选曲，但是玩到之后发现这种谱面上连续判定上却不连续的排键手感实在太怪了，感觉中二那样全连续或者 IIDX 那样全不连续都好很多。maimai 果然好受欢迎，看 OC 和另一位玩得好厉害，好像是收了一首 14 哇大家都在庆祝。等他们休息的时候我也去试了一下，拍按钮打击感确实好棒，虽然因为太吵还是用触屏玩了 ;-;\n\n不过街机好费体力，OC 的朋友是怎样有精力连续敲五个小时街机的... 我还累倒在沙发上睡了一个小时来着。玩到凌晨两点回家啦，感谢ゆり和 mili qwq",
+    "views": 20,
+    "forwards": 2,
+    "media_group_id": 13483196136710829,
+    "images": [
+      {
+        "width": 2016,
+        "height": 1512,
+        "date": "2023-05-29T22:31:27",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-29_22-31-27.jpg",
+        "url": "media/2221.jpg",
+        "size": 517707,
+        "thumb": "media/2221.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2023-05-29T04:35:06",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-29_04-35-06.jpg",
+        "url": "media/2222.jpg",
+        "size": 564032,
+        "thumb": "media/2222.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2023-05-29T08:36:39",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-29_08-36-39.jpg",
+        "url": "media/2223.jpg",
+        "size": 563492,
+        "thumb": "media/2223.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2023-05-29T22:31:28",
+        "media_type": "photo",
+        "original_name": "photo_2023-05-29_22-31-28.jpg",
+        "url": "media/2224.jpg",
+        "size": 807864,
+        "thumb": "media/2224.jpg_thumb.jpg"
       }
     ]
   }
