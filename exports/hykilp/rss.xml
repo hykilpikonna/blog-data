@@ -12,7 +12,17 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 07 Jun 2023 02:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2023 04:06:59 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2255</title>
+      <link>https://aza.moe/life?post=2255</link>
+      <description>&lt;p&gt;在 MS 工作就必须用 Azure，发现 Azure 还没有我的 homelab 好用 &lt;i class="custom-emoji" emoji-src="emoji/6330367841061046406.webp"&gt;🐱&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;上周从 GCR 申请了一台有 GPU 的服务器，他们在 Azure 上分配给我了一个 A100 VPS，配了两个 1TB HDD。第二周爬数据，爬的时候懒得做处理直接把 json 存下来了，爬了大概 100GB 九百万个 json，然后清理数据分析的时候读的特别慢，刚开始还以为是 python json 解析慢结果换成 rust simd-json 还是一样慢，然后 btop 一下看 100% IO 读速居然只有 5 MB/s &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt; 好，读本地硬盘比从网上爬还慢了&lt;/p&gt;
+&lt;p&gt;找解决方案的时候 fdisk -l 发现有一个没有初始化的 800GB NVMe，测一下顺序写 825 MB/s。群友告诉我这是重启都有可能清空的临时盘，但是没办法呀就用这个吧，然后就把数据 rsync 过去了，可能因为 rsync 是顺序读快一点，50 MB/s。同时又发邮件找 GCR 客服要了一块 SSD，一串邮件之后，他们在五分钟内重启了服务器并给我把那块 1T HDD “扩容成” 2TB SSD 了... 这是什么魔法 &lt;i class="custom-emoji" emoji-src="emoji/6323397499981661640.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;fdisk 显示甚至分区表都没有变但是空间确实多了 1T，新的数据写入 233 MB/s，但是旧的数据读取更慢了，900 KB/s。算了算了，那就搬数据吧，然后发现重启之后那个临时 NVMe 盘居然真的被清空了... 重新从扩容 SSD 拷到 NVMe 再重新建文件系统拷回去，前者 900 KB/s 拷了两整天才拷完，不过后者两个小时就拷完啦。&lt;/p&gt;
+&lt;p&gt;好，终于有一个能用的 SSD 了，做了些数据分析，发现数据不太能用，开始爬新的数据。新的爬虫改成了 postgres，因为实在不想再折腾这么多小文件了，虽然 pg 也有 pg 的问题... 总之踩了各种坑把新的爬虫写好了。全都跑起来之后发现即使在 SSD 上跑 pg 也会遇到读写瓶颈，似乎占到 100% IO 也只能写到 50MB/s。结果再次迁移到临时 NVMe 上面去了，写到 400MB/s 瓶颈反而更平衡一些，又写了一个备份脚本每小时把数据同步回 SSD 上，终于有望在有限的时间内把数据爬完了 ;-;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2255</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2253</title>
       <link>https://aza.moe/life?post=2253</link>
