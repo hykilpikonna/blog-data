@@ -18687,7 +18687,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6584,
+    "views": 6585,
     "forwards": 176,
     "media_group_id": 13340239729731381,
     "images": [
@@ -30309,7 +30309,7 @@
     "id": 2255,
     "date": "2023-06-07T03:35:24",
     "text": "在 MS 工作就必须用 Azure，发现 Azure 还没有我的 homelab 好用 <i class=\"custom-emoji\" emoji-src=\"emoji/6330367841061046406.webp\">🐱</i>\n\n上周从 GCR 申请了一台有 GPU 的服务器，他们在 Azure 上分配给我了一个 A100 VPS，配了两个 1TB HDD。第二周爬数据，爬的时候懒得做处理直接把 json 存下来了，爬了大概 100GB 九百万个 json，然后清理数据分析的时候读的特别慢，刚开始还以为是 python json 解析慢结果换成 rust simd-json 还是一样慢，然后 btop 一下看 100% IO 读速居然只有 5 MB/s <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 好，读本地硬盘比从网上爬还慢了\n\n找解决方案的时候 fdisk -l 发现有一个没有初始化的 800GB NVMe，测一下顺序写 825 MB/s。群友告诉我这是重启都有可能清空的临时盘，但是没办法呀就用这个吧，然后就把数据 rsync 过去了，可能因为 rsync 是顺序读快一点，50 MB/s。同时又发邮件找 GCR 客服要了一块 SSD，一串邮件之后，他们在五分钟内重启了服务器并给我把那块 1T HDD “扩容成” 2TB SSD 了... 这是什么魔法 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\nfdisk 显示甚至分区表都没有变但是空间确实多了 1T，新的数据写入 233 MB/s，但是旧的数据读取更慢了，900 KB/s。算了算了，那就搬数据吧，然后发现重启之后那个临时 NVMe 盘居然真的被清空了... 重新从扩容 SSD 拷到 NVMe 再重新建文件系统拷回去，前者 900 KB/s 拷了两整天才拷完，不过后者两个小时就拷完啦。\n\n好，终于有一个能用的 SSD 了，做了些数据分析，发现数据不太能用，开始爬新的数据。新的爬虫改成了 postgres，因为实在不想再折腾这么多小文件了，虽然 pg 也有 pg 的问题... 总之踩了各种坑把新的爬虫写好了。全都跑起来之后发现即使在 SSD 上跑 pg 也会遇到读写瓶颈，似乎占到 100% IO 也只能写到 50MB/s。结果再次迁移到临时 NVMe 上面去了，写到 400MB/s 瓶颈反而更平衡一些，又写了一个备份脚本每小时把数据同步回 SSD 上，终于有望在有限的时间内把数据爬完了 ;-;",
-    "views": 53,
+    "views": 54,
     "forwards": 1,
     "media_group_id": 13488871396425789,
     "images": [
@@ -30407,7 +30407,7 @@
     "id": 2261,
     "date": "2023-06-09T15:40:14",
     "text": "正好在这个月结算的最后一天把流量用完了 qwq 好幸运",
-    "views": 46,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -30426,7 +30426,7 @@
     "id": 2262,
     "date": "2023-06-09T17:47:04",
     "text": "自制奶茶！\n\n...不太好喝。即使颜色深但是茶味也好淡，需要查查怎样让茶味更浓一点（x）",
-    "views": 38,
+    "views": 41,
     "forwards": 1,
     "files": [
       {
@@ -30447,7 +30447,7 @@
     "id": 2263,
     "date": "2023-06-09T23:33:51",
     "text": "<del>等数据跑的时候都在干什么</del>",
-    "views": 26,
+    "views": 33,
     "forwards": 0,
     "media_group_id": 13490829048372805,
     "images": [
@@ -30472,5 +30472,12 @@
         "thumb": "media/2264.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 2265,
+    "date": "2023-06-10T05:03:38",
+    "text": "呜呜 高中学的物理全都还给物理老师了。刚才和聊聊聊天的时候问我从六楼跳下去要多久落地，想解。还记得第一步应该假设一个常量 9.8，但是想不起来代表什么、是什么单位... 随口说了一个“地球的引力是 9.8 公里每小时”（？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n被聊聊提醒才想起来是加速度 m/ss，然后解积分的时候 t 变成 t² 还忘记加 1/2... 自闭了，我为什么要上学，明明什么都记不住... <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
+    "views": 25,
+    "forwards": 0
   }
 ]
