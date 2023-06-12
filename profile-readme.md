@@ -1,6 +1,6 @@
 ### 🐱 Hi there, I'm Azalea!
 
-I'm Azalea Gui, a second-year undergraduate student at the University of Toronto, majoring in computer science and psychology. I'm interested in web development and machine learning. I'm currently doing research on voice-based gender identification for Chinese speakers.
+I'm Azalea Gui, a third-year undergrad at the University of Toronto, studying computer science and psychology. I'm interested in web development and machine learning. I'm currently a research intern at Microsoft, working with the Audio and Acoustics team on improving the evaluation of generative music. I've also been doing independent research on creating an AI transgender voice training assistant on the side.
 
 I also love cats =^･-･^=
 
@@ -15,7 +15,7 @@ I also love cats =^･-･^=
 
 * [Blog](https://aza.moe) | [Monitor](https://gf.hydev.org) | [Class Notes](https://hydev.notion.site/)
 * Telegram [@hykilpikonna](https://t.me/hykilpikonna)
-* Discord `Azalea#3162`
+* Discord `hykilp`
 * Email me@hydev.org
 * **NEW!** Anonymous Question Box: https://peing.net/hykilpikonna
 
@@ -30,22 +30,20 @@ I also love cats =^･-･^=
 ### ⭐ I have experience using <!--{ collapseSection() }-->
 
 * Kotlin / Java - (Spring, Hibernate, Android, Coroutines, ...)
-* TypeScript / JS - (Vue3, Angular, Cordova, Three.js, ...)
+* TypeScript / JS - (Vue3, Next.js, Cordova, Three.js, Sequelize, ...)
 * HTML & SCSS
 * Python 3 - (numpy, tensorflow, sklearn, pandas, numba, xgboost, ...)
+* Rust!
 * Swift for iOS
 
 
 ### 🌱 Projects I'm currently working on <!--{ collapseSection() }-->
 
-* `1%` A risc-v 16" laptop
-* `90%` A personal home page / blog: [profile.hydev.org](https://profile.hydev.org) / [aza.moe](https://aza.moe)
-* `50%` A speech gender recognition algorithm based on ML and statistical analysis of formants. 
+* `90%` A personal home page / blog: [profile.hydev.org](https://profile.hydev.org) / [aza.moe](https://aza.moe) 
 * `40%` A transgender voice training app. [voice.hydev.org](https://voice.hydev.org/)
-* `10%` ~~A spaced-repetition vocabulary memorization program optimized for Japanese language study - [NyaaMemo](https://github.com/hykilpikonna/AnkiNG)~~.
 
 
 ### 🌲 Completed projects <!--{ collapseSection() }-->
 
-I published many projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), previously a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx) before we broke up last year. Currently, I publish my projects to this personal account.
+I published many projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), previously a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx) before we broke up two year ago. Currently, I publish my projects to this personal account.
 There is a list of my significant projects on my [projects website](https://me.hydev.org). (TODO: Update this)
