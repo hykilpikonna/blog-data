@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-06-13T22:09:23.203102+00:00</updated>
+  <updated>2023-06-14T00:07:58.765535+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2280</id>
+    <title>小桂桂的回忆录 📒 #2280</title>
+    <updated>2023-06-13T23:31:57+00:00</updated>
+    <content>&lt;p&gt;突然想到，会不会 embedding model 和 generative model 结合在一起就是完美的极限压缩工具 &lt;i class="custom-emoji" emoji-src="emoji/6330277917330770199.webp"&gt;🧐&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;举一个简单的例子就是，假如我想给你发一张图片，我先用 embedding 把它转换成最能描述它的一系列文字标签，发给你只要几十字节，之后你再用 generative 模型用这些文字标签生成一张图片 &lt;i class="custom-emoji" emoji-src="emoji/6330232034195147291.webp"&gt;😇&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2280" rel="alternate"/>
+  </entry>
   <entry>
     <id>2279</id>
     <title>小桂桂的回忆录 📒 #2279</title>
