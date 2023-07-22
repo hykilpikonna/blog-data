@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-07-21T22:08:29.156607+00:00</updated>
+  <updated>2023-07-22T00:09:12.007270+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2428</id>
+    <title>小桂桂的回忆录 📒 #2428</title>
+    <updated>2023-07-21T22:57:16+00:00</updated>
+    <content>&lt;p&gt;哭了 &lt;i class="custom-emoji" emoji-src="emoji/6170358057059485759.webm"&gt;😪&lt;/i&gt; 两周前做完期中演讲原本以为研究结果已经很稳了，然后前几天发烧的时候导师把单曲评分的分布画出来发现和对整个数据集的评分完全对不上... &lt;/p&gt;
+&lt;p&gt;这几天为了找到原因解释这个现象接连试了各种不同的验证方法，然后没有一个符合期望的结果 &lt;i class="custom-emoji" emoji-src="emoji/6318635837244313060.webp"&gt;😡&lt;/i&gt; 发现有些数据集里把单曲评分高的曲子加进去反而会降低整个数据集的评分，但是又有别的数据集不会...？？？明明评分算法都是一样的...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2428" rel="alternate"/>
+  </entry>
   <entry>
     <id>2427</id>
     <title>小桂桂的回忆录 📒 #2427</title>
