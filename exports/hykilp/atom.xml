@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-08-01T16:08:02.597634+00:00</updated>
+  <updated>2023-08-01T18:07:14.205664+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2471</id>
+    <title>小桂桂的回忆录 📒 #2471</title>
+    <updated>2023-08-01T16:53:46+00:00</updated>
+    <content>&lt;p&gt;呜呜，发现工作的研究被 ffmpeg 坑了，所有双声道音频数据都要重新跑。&lt;i class="custom-emoji" emoji-src="emoji/6169958075345144164.webm"&gt;🫣&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;事情是这样的：我无聊想听听数据集里面的曲子，发现有些明明是人类作曲音质却异常地差，为什么呢？在调了各种 ffmpeg 参数之后发现，只要加了 -ac 1 把双声道合并成单声道音质就会非常差，可是单声道听起来应该和双声道没区别才对呀？&lt;/p&gt;
+&lt;p&gt;到处查查发现，-ac 1 降声道其实就是把两个波形平均到一起，这样做本身就很有问题... 假设你有一个音频，左耳是 500Hz 的正弦波，右耳也一样但是平移了半个周期，这样的话双声道人耳听到的还是一个正弦波的声音，但是用 -ac 1 降声道就完全没有声音了。为什么呢？因为上下两个正弦波的平均值是 0，互相抵消了。&lt;/p&gt;
+&lt;p&gt;现实中用两个麦克风给乐器录音的话，两个声道平均互相干扰也是很常见的情况，所以比起平均值还是直接取单声道会好很多很多... 似乎导师也刚意识到这个坑，总之是浪费了一两个月的算力学到了一个很重要的教训 &lt;i class="custom-emoji" emoji-src="emoji/6169958075345144164.webm"&gt;🫣&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2471" rel="alternate"/>
+  </entry>
   <entry>
     <id>2470</id>
     <title>小桂桂的回忆录 📒 #2470</title>
