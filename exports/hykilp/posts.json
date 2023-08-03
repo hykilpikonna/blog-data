@@ -32478,7 +32478,7 @@
     "id": 2428,
     "date": "2023-07-21T22:57:16",
     "text": "哭了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 两周前做完期中演讲原本以为研究结果已经很稳了，然后前几天发烧的时候导师把单曲评分的分布画出来发现和对整个数据集的评分完全对不上... \n\n这几天为了找到原因解释这个现象接连试了各种不同的验证方法，然后没有一个符合期望的结果 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i> 发现有些数据集里把单曲评分高的曲子加进去反而会降低整个数据集的评分，但是又有别的数据集不会...？？？明明评分算法都是一样的...",
-    "views": 76,
+    "views": 77,
     "forwards": 0
   },
   {
@@ -33130,7 +33130,7 @@
     "id": 2474,
     "date": "2023-08-02T21:42:26",
     "text": "去年暑假被 numba 折腾，今年继续被 numba 折腾 (╯’ – ‘)╯︵ ┻━┻\n\nnumba 的初衷是想要简单地把 python 函数编译成二进制加快速度，只要加一个 <code>@njit</code> 就好了这么简单，然而实际效果并不是这样。\n\n加上 <code>@njit</code>，然后发现 logger 不支持要换成 print，修了然后发现 atleast_1d 不支持 float16 要换成 float32，修了然后发现 sqrtm 不支持要手动重造轮子，造了然后发现字符串 % 替换不支持需要换成 f-string，换了然后发现同名变量不能用不同精度，改了然后发现 np.diagonal 不支持要重造轮子，造了然后发现 np.allclose 参数要求太多要重造轮子，造了然后给我一个报错消息里面只写了 “float16” 也没有说在哪行... 给几乎所有变量赋值都加了 .astype(float32) 之后终于可以了，然后跟我说 np.eig 产生复数就不能编译？？我真的不知道怎么修了，问问 GPT，GPT 直接说别优化了把 <code>@njit</code> 删了吧 🙃\n\n原本应该是加一个 <code>@njit</code> 就好的事情结果改了一小时放弃了，决定以后再也不碰 numba 了，要优化还是直接 rust 重写吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 39,
+    "views": 41,
     "forwards": 0,
     "media_group_id": 13528100371661525,
     "images": [
@@ -33165,7 +33165,7 @@
     "id": 2476,
     "date": "2023-08-03T03:52:20",
     "text": "<del>好色哦</del>",
-    "views": 21,
+    "views": 31,
     "forwards": 0,
     "forwarded_from": {
       "name": "今日桂桂怎样被 duolingo 气晕"
