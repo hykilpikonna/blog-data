@@ -31754,7 +31754,7 @@
     "id": 2361,
     "date": "2023-07-04T03:05:16",
     "text": "<a href=\"https://youtu.be/ca0RpxknHCI\">https://youtu.be/ca0RpxknHCI</a>\n\nTom Scott 说明年一号就不会继续周更视频了。居然已经十年了，好羡慕可以把一件事坚持做十年 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n是我好喜欢每次更新我都会看的频道，可惜美好的事物都有始有终呢...",
-    "views": 635,
+    "views": 636,
     "forwards": 8
   },
   {
@@ -33111,7 +33111,7 @@
     "id": 2473,
     "date": "2023-08-02T08:29:28",
     "text": "发现计划旅行没头绪不知所措的时候，想做的第一件事是先把航班和路程的时间定下来，给旅行加上各种限制...\n\n定好限制反而感觉决定去哪里怎样玩变得没有那么 impossible 了，明明在限制内做出的不一定是最合适的计划... 人真的好矛盾\n\n<del>如果有模型可以让我把想去的地方和时间精力各种因素丢进一个加权图 BFS 一遍找到最合适的计划就好了</del>",
-    "views": 55,
+    "views": 56,
     "forwards": 1,
     "images": [
       {
@@ -33130,7 +33130,7 @@
     "id": 2474,
     "date": "2023-08-02T21:42:26",
     "text": "去年暑假被 numba 折腾，今年继续被 numba 折腾 (╯’ – ‘)╯︵ ┻━┻\n\nnumba 的初衷是想要简单地把 python 函数编译成二进制加快速度，只要加一个 <code>@njit</code> 就好了这么简单，然而实际效果并不是这样。\n\n加上 <code>@njit</code>，然后发现 logger 不支持要换成 print，修了然后发现 atleast_1d 不支持 float16 要换成 float32，修了然后发现 sqrtm 不支持要手动重造轮子，造了然后发现字符串 % 替换不支持需要换成 f-string，换了然后发现同名变量不能用不同精度，改了然后发现 np.diagonal 不支持要重造轮子，造了然后发现 np.allclose 参数要求太多要重造轮子，造了然后给我一个报错消息里面只写了 “float16” 也没有说在哪行... 给几乎所有变量赋值都加了 .astype(float32) 之后终于可以了，然后跟我说 np.eig 产生复数就不能编译？？我真的不知道怎么修了，问问 GPT，GPT 直接说别优化了把 <code>@njit</code> 删了吧 🙃\n\n原本应该是加一个 <code>@njit</code> 就好的事情结果改了一小时放弃了，决定以后再也不碰 numba 了，要优化还是直接 rust 重写吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13528100371661525,
     "images": [
@@ -33165,7 +33165,7 @@
     "id": 2476,
     "date": "2023-08-03T03:52:20",
     "text": "<del>好色哦</del>",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "forwarded_from": {
       "name": "今日桂桂怎样被 duolingo 气晕"
@@ -33187,7 +33187,7 @@
     "id": 2477,
     "date": "2023-08-04T01:49:14",
     "text": "好想变成一团面团 <i class=\"custom-emoji\" emoji-src=\"emoji/6170098297437423351.webm\">🐾</i>",
-    "views": 33,
+    "views": 34,
     "forwards": 0
   }
 ]
