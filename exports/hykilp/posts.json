@@ -33130,7 +33130,7 @@
     "id": 2474,
     "date": "2023-08-02T21:42:26",
     "text": "去年暑假被 numba 折腾，今年继续被 numba 折腾 (╯’ – ‘)╯︵ ┻━┻\n\nnumba 的初衷是想要简单地把 python 函数编译成二进制加快速度，只要加一个 <code>@njit</code> 就好了这么简单，然而实际效果并不是这样。\n\n加上 <code>@njit</code>，然后发现 logger 不支持要换成 print，修了然后发现 atleast_1d 不支持 float16 要换成 float32，修了然后发现 sqrtm 不支持要手动重造轮子，造了然后发现字符串 % 替换不支持需要换成 f-string，换了然后发现同名变量不能用不同精度，改了然后发现 np.diagonal 不支持要重造轮子，造了然后发现 np.allclose 参数要求太多要重造轮子，造了然后给我一个报错消息里面只写了 “float16” 也没有说在哪行... 给几乎所有变量赋值都加了 .astype(float32) 之后终于可以了，然后跟我说 np.eig 产生复数就不能编译？？我真的不知道怎么修了，问问 GPT，GPT 直接说别优化了把 <code>@njit</code> 删了吧 🙃\n\n原本应该是加一个 <code>@njit</code> 就好的事情结果改了一小时放弃了，决定以后再也不碰 numba 了，要优化还是直接 rust 重写吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13528100371661525,
     "images": [
@@ -33279,7 +33279,7 @@
     "id": 2484,
     "date": "2023-08-07T08:29:12",
     "text": "明天八号是国际猫猫节 <i class=\"custom-emoji\" emoji-src=\"emoji/6327782811914733923.webp\">🥳</i> 给自己和朋友们的头像上画了猫耳朵！尽力模仿了原画的风格，效果大部分还不错，<del>style transfer 机器人就是我</del>（不\n\n黎黎的头像好难，感觉超出能力范围了瞎糊了一个... 原作者用纯色笔刷能打出渐变一样的阴影和高光好厉害。我到现在打的阴影要不然就是简单的一层纯色，要不然就是用喷枪打看起来脏兮兮的渐变。这次尝试了像原作那样打，结果打不好还是换回喷枪了... 效果有点脏兮兮还不是特别搭 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>\n\n有没有人教教我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 62,
+    "views": 63,
     "forwards": 2,
     "media_group_id": 13531175623170565,
     "images": [
