@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-08-14T06:06:38.446797+00:00</updated>
+  <updated>2023-08-14T08:07:52.849579+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2503</id>
+    <title>小桂桂的回忆录 📒 #2503</title>
+    <updated>2023-08-14T06:36:05+00:00</updated>
+    <content>&lt;p&gt;今天被别人的代码灵车创到了 &lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;在 Linux 上用 &lt;a href="https://github.com/lakinduakash/linux-wifi-hotspot"&gt;wihotspot&lt;/a&gt; 一键开热点，关掉热点之后发现我的 wifi 设备没了。花了两个小时找问题发现原来是它开热点的时候会自动编辑 &lt;code&gt;/etc&lt;/code&gt; 里面的 NetworkManager 配置把 wlan0 设备改成不管理，关掉热点之后却不会自动改回去... &lt;i class="custom-emoji" emoji-src="emoji/6318635837244313060.webp"&gt;😡&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;然后群友告诉我 Gnome 和 KDE 都已经自带热点功能了，虽然 Gnome 的藏得比较深之前没找到... 呜呜白浪费了两个小时 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2503" rel="alternate"/>
+  </entry>
   <entry>
     <id>2502</id>
     <title>小桂桂的回忆录 📒 #2502</title>
