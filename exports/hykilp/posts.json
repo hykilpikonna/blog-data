@@ -33395,14 +33395,14 @@
     "id": 2494,
     "date": "2023-08-10T18:53:43",
     "text": "？今天早上组里一位同事过来发现放在椅子上的衣服不见了，到处找还很急，然后发现是另一位同事的恶作剧把它藏起来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n<del>你们 phd 好幼稚哦</del>",
-    "views": 68,
+    "views": 69,
     "forwards": 0
   },
   {
     "id": 2495,
     "date": "2023-08-10T19:48:36",
     "text": "非常好 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "forwarded_from": {
       "name": "今日桂桂怎样被 duolingo 气晕"
@@ -33445,7 +33445,7 @@
     "id": 2498,
     "date": "2023-08-11T02:06:11",
     "text": "啊啊刚才差点死在路上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n这个电滑板没有硬刹车，刹车按钮是通过反向供电来刹车，原本以为是很够的... 结果刚才在 udist 从一个大坡冲下去，离路口还有一段距离的时候按死刹车发现完全不减速... 在十字路口差一点点就被从右边过来的车撞到，还好反应快在它边上左转过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以后买电滑板绝对不要买没有硬刹车的呜呜 <del>才不是因为没有遵守限速</del>（？）",
-    "views": 77,
+    "views": 78,
     "forwards": 1,
     "reply": {
       "id": 2164,
@@ -33525,7 +33525,7 @@
     "id": 2503,
     "date": "2023-08-14T06:36:05",
     "text": "今天被别人的代码灵车创到了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n在 Linux 上用 <a href=\"https://github.com/lakinduakash/linux-wifi-hotspot\">wihotspot</a> 一键开热点，关掉热点之后发现我的 wifi 设备没了。花了两个小时找问题发现原来是它开热点的时候会自动编辑 <code>/etc</code> 里面的 NetworkManager 配置把 wlan0 设备改成不管理，关掉热点之后却不会自动改回去... <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>\n\n然后群友告诉我 Gnome 和 KDE 都已经自带热点功能了，虽然 Gnome 的藏得比较深之前没找到... 呜呜白浪费了两个小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -33544,14 +33544,21 @@
     "id": 2504,
     "date": "2023-08-16T04:01:21",
     "text": "明天是我的期末演讲和组里其他人的期中演讲... 然后现在晚上九点了组里还有三个人在公司肝演讲 🌚",
-    "views": 44,
+    "views": 46,
     "forwards": 1
   },
   {
     "id": 2505,
     "date": "2023-08-16T06:47:59",
     "text": "哭哭 十点去车站等 10:09 的末班车等了四十分钟没有来... 回不去家了，去蓝夏家借沙发睡睡，感谢感谢 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 39,
+    "views": 42,
+    "forwards": 0
+  },
+  {
+    "id": 2506,
+    "date": "2023-08-16T22:02:11",
+    "text": "开始期末演讲了，欢迎大家围观 qwq\n\n<a href=\"https://teams.microsoft.com/l/meetup-join/19%3Ameeting_NWQ4YjAwOWQtNDJiOC00OGQ4LWEwMjYtZjI5ZmI0Y2M4OWUw%40thread.v2/0?context=%7B%22Tid%22%3A%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2C%22Oid%22%3A%22a819da9f-89ab-4a81-b004-536752dbdc16%22%7D\">链接</a>",
+    "views": 5,
     "forwards": 0
   }
 ]
