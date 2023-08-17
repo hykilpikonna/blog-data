@@ -32953,7 +32953,7 @@
     "id": 2466,
     "date": "2023-07-29T08:29:34",
     "text": "到家了。10:30 出发 1:00 到家... 哭了\n\n果然没有赶上一号线末班。想试试电滑板能不能撑过这 3.8mi，结果果然骑了 2.7mi 没电了，显示还剩 3/4 的时候低电压关机... 明明官网说能滑 11-14mi 的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不过路上看到了很棒的夜景！想起来和前前任子兰第一次分的凌晨在北京骑车骑到了差不多一模一样的桥上用这部手机拍了好多照片，说不定角度都一样呢。好怀念，想翻出来看看。还拍到了封到只剩一条线的 I-5 慢慢高速，希望明天能恢复...\n\n还看到了一个会升降的桥，在凌晨升起来了！原来凌晨有船要过的时候专门有人会开车过来升桥... 觉得好有趣又好讽刺，现在 AI 能写诗画画作曲了，一个应该只有三个状态的开关怎么还要人手动控制 🌚",
-    "views": 70,
+    "views": 71,
     "forwards": 1,
     "media_group_id": 13524954991227917,
     "images": [
@@ -33003,14 +33003,14 @@
     "id": 2467,
     "date": "2023-07-29T16:25:14",
     "text": "<a href=\"##adhd日常\">#adhd日常</a> 在上周六的 Farmer's Market 买了樱桃，放进冰箱里就完全把它忘了，直到刚才听到这周的 Farmer's Market 开始才想起来... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n...然后还发现了上周日腌好忘记做的盐焗鸡 🤯",
-    "views": 69,
+    "views": 70,
     "forwards": 0
   },
   {
     "id": 2468,
     "date": "2023-07-31T00:12:27",
     "text": "放进锅里的青蛙跳走了！<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "files": [
       {
@@ -33033,7 +33033,7 @@
     "id": 2469,
     "date": "2023-07-31T07:04:37",
     "text": "今天也出现了 AI 行为... 想要把需要计划的日期先打出来，打着打着打出了八月 32 号和 33 号 🌚\n\n不是我怎么打到 33 号才发现不对...",
-    "views": 73,
+    "views": 74,
     "forwards": 1,
     "reply": {
       "id": 2005,
@@ -33056,14 +33056,14 @@
     "id": 2470,
     "date": "2023-08-01T07:41:59",
     "text": "哭 洗完澡贴好新的贴片之后总是会发情，但是又不想让刚洗干净的身体弄脏<span class=\"spoiler\"><span>或者染上海鲜味（？）</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323605445118264983.webp\">🙈</i> 怎么办怎么办",
-    "views": 71,
+    "views": 72,
     "forwards": 0
   },
   {
     "id": 2471,
     "date": "2023-08-01T16:53:46",
     "text": "呜呜，发现工作的研究被 ffmpeg 坑了，所有双声道音频数据都要重新跑。<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n事情是这样的：我无聊想听听数据集里面的曲子，发现有些明明是人类作曲音质却异常地差，为什么呢？在调了各种 ffmpeg 参数之后发现，只要加了 -ac 1 把双声道合并成单声道音质就会非常差，可是单声道听起来应该和双声道没区别才对呀？\n\n到处查查发现，-ac 1 降声道其实就是把两个波形平均到一起，这样做本身就很有问题... 假设你有一个音频，左耳是 500Hz 的正弦波，右耳也一样但是平移了半个周期，这样的话双声道人耳听到的还是一个正弦波的声音，但是用 -ac 1 降声道就完全没有声音了。为什么呢？因为上下两个正弦波的平均值是 0，互相抵消了。\n\n现实中用两个麦克风给乐器录音的话，两个声道平均互相干扰也是很常见的情况，所以比起平均值还是直接取单声道会好很多很多... 似乎导师也刚意识到这个坑，总之是浪费了一两个月的算力学到了一个很重要的教训 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 2,
     "images": [
       {
@@ -33082,14 +33082,14 @@
     "id": 2472,
     "date": "2023-08-02T01:04:16",
     "text": "is it Friday yet?",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
     "id": 2473,
     "date": "2023-08-02T08:29:28",
     "text": "发现计划旅行没头绪不知所措的时候，想做的第一件事是先把航班和路程的时间定下来，给旅行加上各种限制...\n\n定好限制反而感觉决定去哪里怎样玩变得没有那么 impossible 了，明明在限制内做出的不一定是最合适的计划... 人真的好矛盾\n\n<del>如果有模型可以让我把想去的地方和时间精力各种因素丢进一个加权图 BFS 一遍找到最合适的计划就好了</del>",
-    "views": 74,
+    "views": 75,
     "forwards": 1,
     "images": [
       {
@@ -33108,7 +33108,7 @@
     "id": 2474,
     "date": "2023-08-02T21:42:26",
     "text": "去年暑假被 numba 折腾，今年继续被 numba 折腾 (╯’ – ‘)╯︵ ┻━┻\n\nnumba 的初衷是想要简单地把 python 函数编译成二进制加快速度，只要加一个 <code>@njit</code> 就好了这么简单，然而实际效果并不是这样。\n\n加上 <code>@njit</code>，然后发现 logger 不支持要换成 print，修了然后发现 atleast_1d 不支持 float16 要换成 float32，修了然后发现 sqrtm 不支持要手动重造轮子，造了然后发现字符串 % 替换不支持需要换成 f-string，换了然后发现同名变量不能用不同精度，改了然后发现 np.diagonal 不支持要重造轮子，造了然后发现 np.allclose 参数要求太多要重造轮子，造了然后给我一个报错消息里面只写了 “float16” 也没有说在哪行... 给几乎所有变量赋值都加了 .astype(float32) 之后终于可以了，然后跟我说 np.eig 产生复数就不能编译？？我真的不知道怎么修了，问问 GPT，GPT 直接说别优化了把 <code>@njit</code> 删了吧 🙃\n\n原本应该是加一个 <code>@njit</code> 就好的事情结果改了一小时放弃了，决定以后再也不碰 numba 了，要优化还是直接 rust 重写吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "media_group_id": 13528100371661525,
     "images": [
@@ -33165,14 +33165,14 @@
     "id": 2477,
     "date": "2023-08-04T01:49:14",
     "text": "好想变成一团面团 <i class=\"custom-emoji\" emoji-src=\"emoji/6170098297437423351.webm\">🐾</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 0
   },
   {
     "id": 2478,
     "date": "2023-08-06T01:16:08",
     "text": "今天 farmers market 的花花好好看 qwq\n\n不过没有买，因为知道剪下来的养不活... 要是可以在桌上种这些花就好了，可惜这些大部分都是灌木丛里长的花，不太能摆在桌上 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "images": [
       {
@@ -33191,7 +33191,7 @@
     "id": 2479,
     "date": "2023-08-06T05:37:13",
     "text": "去亚超，一盒花卷 $11（￥80）🌚 ...<del>这是什么「东亚传奇小吃」么？</del>有点怀念以前在初中为了省钱<del>买手办</del>每次午饭去食堂都花 <￥1 买一两个花卷配上咸蛋或者自己带的酱吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n以及旁边水果区香蕉看起来好伤心的样子",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "media_group_id": 13530401870998997,
     "images": [
@@ -33395,14 +33395,14 @@
     "id": 2494,
     "date": "2023-08-10T18:53:43",
     "text": "？今天早上组里一位同事过来发现放在椅子上的衣服不见了，到处找还很急，然后发现是另一位同事的恶作剧把它藏起来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n<del>你们 phd 好幼稚哦</del>",
-    "views": 69,
+    "views": 70,
     "forwards": 0
   },
   {
     "id": 2495,
     "date": "2023-08-10T19:48:36",
     "text": "非常好 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "forwarded_from": {
       "name": "今日桂桂怎样被 duolingo 气晕"
@@ -33445,7 +33445,7 @@
     "id": 2498,
     "date": "2023-08-11T02:06:11",
     "text": "啊啊刚才差点死在路上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n这个电滑板没有硬刹车，刹车按钮是通过反向供电来刹车，原本以为是很够的... 结果刚才在 udist 从一个大坡冲下去，离路口还有一段距离的时候按死刹车发现完全不减速... 在十字路口差一点点就被从右边过来的车撞到，还好反应快在它边上左转过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以后买电滑板绝对不要买没有硬刹车的呜呜 <del>才不是因为没有遵守限速</del>（？）",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "reply": {
       "id": 2164,
@@ -33457,7 +33457,7 @@
     "id": 2499,
     "date": "2023-08-11T05:06:42",
     "text": "计划婚礼，需要我和聊聊有一个人在电脑上填一个表，但是谁都不想起床怎么办：<i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>\n\n1. 用定时消息石头剪刀布，平局\n2. 丢标枪，平局\n3. 踢足球，平局\n4. 丢篮球，我赢了！\n\n好耶，躺躺 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "images": [
       {
@@ -33476,7 +33476,7 @@
     "id": 2500,
     "date": "2023-08-12T01:27:28",
     "text": "<a href=\"##adhd日常\">#adhd日常</a> 在公司买三明治送水果，但是他们不会帮你放在三明治旁边需要自己去水果框里拿，然后我每次都忘记拿 🌚",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -33495,7 +33495,7 @@
     "id": 2502,
     "date": "2023-08-14T01:52:50",
     "text": "实践证明 29℃ 在没有空调的房间里真的没办法做事情... 要准备接下来的三天在公司呆到晚上十点了，至少有很棒的空调，<del>或者在想能不能直接在公司睡</del>",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "media_group_id": 13535823763441621,
     "images": [
@@ -33525,7 +33525,7 @@
     "id": 2503,
     "date": "2023-08-14T06:36:05",
     "text": "今天被别人的代码灵车创到了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n在 Linux 上用 <a href=\"https://github.com/lakinduakash/linux-wifi-hotspot\">wihotspot</a> 一键开热点，关掉热点之后发现我的 wifi 设备没了。花了两个小时找问题发现原来是它开热点的时候会自动编辑 <code>/etc</code> 里面的 NetworkManager 配置把 wlan0 设备改成不管理，关掉热点之后却不会自动改回去... <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>\n\n然后群友告诉我 Gnome 和 KDE 都已经自带热点功能了，虽然 Gnome 的藏得比较深之前没找到... 呜呜白浪费了两个小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 52,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -33544,21 +33544,56 @@
     "id": 2504,
     "date": "2023-08-16T04:01:21",
     "text": "明天是我的期末演讲和组里其他人的期中演讲... 然后现在晚上九点了组里还有三个人在公司肝演讲 🌚",
-    "views": 46,
+    "views": 49,
     "forwards": 1
   },
   {
     "id": 2505,
     "date": "2023-08-16T06:47:59",
     "text": "哭哭 十点去车站等 10:09 的末班车等了四十分钟没有来... 回不去家了，去蓝夏家借沙发睡睡，感谢感谢 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 42,
+    "views": 47,
     "forwards": 0
   },
   {
     "id": 2506,
     "date": "2023-08-16T22:02:11",
     "text": "开始期末演讲了，欢迎大家围观 qwq\n\n<a href=\"https://teams.microsoft.com/l/meetup-join/19%3Ameeting_NWQ4YjAwOWQtNDJiOC00OGQ4LWEwMjYtZjI5ZmI0Y2M4OWUw%40thread.v2/0?context=%7B%22Tid%22%3A%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2C%22Oid%22%3A%22a819da9f-89ab-4a81-b004-536752dbdc16%22%7D\">链接</a>",
-    "views": 5,
+    "views": 22,
     "forwards": 0
+  },
+  {
+    "id": 2507,
+    "date": "2023-08-16T23:44:36",
+    "text": "结束啦，感觉前面大半还好，最后的 1/3 的时候好紧张完全忘了稿 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
+    "views": 17,
+    "forwards": 0,
+    "reply": {
+      "id": 2506,
+      "text": "开始期末演讲了，欢迎大家围观 qwq\n\n<a href=\"https://teams.microsoft.com/l/meetup-join/19%3Ameeting_NWQ4YjAwOWQtNDJiOC00OGQ4LWEwMjYtZjI5ZmI0Y2M4OWUw%40thread.v2/0?context=%7B%22Tid%22%3A%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2C%22Oid%22%3A%22a819da9f-89ab-4a81-b004-536752dbdc16%22%7D\">链接</a>"
+    }
+  },
+  {
+    "id": 2508,
+    "date": "2023-08-16T23:45:10",
+    "views": 15,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-10-23T15:15:16",
+        "width": 512,
+        "height": 512,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "🥲",
+        "set_name": "Bocchi_the_Rock_sticker",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/2508.webm",
+        "size": 42909,
+        "thumb": "media/2508.webm_thumb.jpg"
+      }
+    ]
   }
 ]
