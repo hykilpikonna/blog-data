@@ -12,7 +12,26 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 22 Sep 2023 20:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 22:09:13 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2691</title>
+      <link>https://aza.moe/life?post=2691</link>
+      <description>&lt;p&gt;今天大统华出前一丁好便宜，买了一大堆带不回去怎么办呢？结完帐直接在店里拆了，带走汤底把面饼扔掉hhhh&lt;/p&gt;</description>
+      <guid isPermaLink="false">2691</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #2684</title>
+      <link>https://aza.moe/life?post=2684</link>
+      <description>&lt;p&gt;边上课边解锁了 BL、刷了 Magisk、试了各种模块之后终于过了 SafetyNet，终于有一个能刷 Google Pay 的手机了！&lt;/p&gt;
+&lt;p&gt;来讲一下今天踩到的坑：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="twrp.me"&gt;twrp.me&lt;/a&gt; 官网的镜像只支持安卓 11，需要换成第三方的小米安卓 13 镜像 | &lt;a href="https://sourceforge.net/projects/recovery-for-xiaomi-devices/"&gt;链接
+&lt;/a&gt;2. 不要听 Magisk 官方那个繁琐的安装教程，直接把 magisk.apk 当作更新包用 Twrp 刷上就行了&lt;/li&gt;
+&lt;li&gt;官方的 Safetynet-Fix 更新很慢，需要用 Displax 的 fork | &lt;a href="https://github.com/Displax/safetynet-fix/releases"&gt;链接
+&lt;/a&gt;4. 记得打开 Zygisk 和 Denylist&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <guid isPermaLink="false">2684</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2683</title>
       <link>https://aza.moe/life?post=2683</link>
