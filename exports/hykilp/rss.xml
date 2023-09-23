@@ -12,7 +12,13 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 23 Sep 2023 20:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2023 22:09:22 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2694</title>
+      <link>https://aza.moe/life?post=2694</link>
+      <description>&lt;p&gt;哭 回家已经三个月没有用这个 3D 打印机了，结果以前遇到的坑都重新踩了一遍... 调平一直不工作，可是忘记了以前是怎样解决调平问题的，结果翻了好久才翻到这篇日记里的 M420 S1 ;-;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2694</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2693</title>
       <link>https://aza.moe/life?post=2693</link>
@@ -2718,14 +2724,16 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</description>
     <item>
       <title>小桂桂的回忆录 📒 #1958</title>
       <link>https://aza.moe/life?post=1958</link>
-      <description>&lt;p&gt;凌晨三点的第一个八度！&lt;/p&gt;</description>
+      <description>&lt;p&gt;凌晨三点的第一个八度！&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1958</guid>
     </item>
     <item>
       <title>小桂桂的回忆录 📒 #1955</title>
       <link>https://aza.moe/life?post=1955</link>
       <description>&lt;p&gt;今天花了一整天时间焊元件，在洞洞板上焊两排一共 24 个电阻二极管。所有能想到的事故都发生了，焊了六个小时之后哭着想要放弃，真的好受打击... 看到 SIG 焊盘掉了我真的哭出来了，又两小时的工作白费了的那种感觉。然后！然后突然聪明了一秒发现其实整个六小时都是白费&lt;/p&gt;
-&lt;p&gt;之前看的教程是四个传感器都接了单独的输入，所以每个都需要单独的电阻和二极管。但是我的传感器走了复用，也就是说其实我可以直接把电阻和二极管接到复用器的出口，用 1/12 阻抗的电阻，这样就只需要 5 套而不是 61 套电阻和二极管了... 怎么花了四天才想明白啊，蠢死了，焊好的元件还能退吗 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;</description>
+&lt;p&gt;之前看的教程是四个传感器都接了单独的输入，所以每个都需要单独的电阻和二极管。但是我的传感器走了复用，也就是说其实我可以直接把电阻和二极管接到复用器的出口，用 1/12 阻抗的电阻，这样就只需要 5 套而不是 61 套电阻和二极管了... 怎么花了四天才想明白啊，蠢死了，焊好的元件还能退吗 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1955</guid>
     </item>
     <item>
@@ -2747,7 +2755,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</description>
       <description>&lt;p&gt;开源打击琴的第四天&lt;/p&gt;
 &lt;p&gt;下午去 Home Depot 买了木头！12 脚长的松木棍只要 $9 好便宜，不过还是选择了合成的 MDF，因为松木歪歪扭扭的会杀掉强迫症。然后让店员帮忙裁成 1.5m 长的小段扛回去了，这里店员好热情，感觉好多都是 DIY 爱好者。&lt;/p&gt;
 &lt;p&gt;回家之后戴上口罩去阳台喷喷喷，呲啦呲哩，然后忘记关门把有机溶剂全都吹进来了... &lt;del&gt;离字面意义上被蠢死不远了&lt;/del&gt;。今天把所有面的漆和保护层都喷完啦，比较均匀。&lt;/p&gt;
-&lt;p&gt;然后写了切换复用器的代码，踩了两个坑，一个是原来模拟输入不接地会读到了一只小幽灵，另一个是原来这个复用器给“启用”针脚供电是禁用的意思，嗯，启用了启用就禁用了，这都什么啊 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;</description>
+&lt;p&gt;然后写了切换复用器的代码，踩了两个坑，一个是原来模拟输入不接地会读到了一只小幽灵，另一个是原来这个复用器给“启用”针脚供电是禁用的意思，嗯，启用了启用就禁用了，这都什么啊 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1948</guid>
     </item>
     <item>
@@ -2763,7 +2772,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</description>
       <title>小桂桂的回忆录 📒 #1944</title>
       <link>https://aza.moe/life?post=1944</link>
       <description>&lt;p&gt;去这里买了 65 个二极管和 60 个电阻花了 $30，好贵！&lt;/p&gt;
-&lt;p&gt;JST 母口还是不在这里买了，一根线居然要 $1.25 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;</description>
+&lt;p&gt;JST 母口还是不在这里买了，一根线居然要 $1.25 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1944</guid>
     </item>
     <item>
@@ -2797,20 +2807,22 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</description>
     <item>
       <title>小桂桂的回忆录 📒 #1938</title>
       <link>https://aza.moe/life?post=1938</link>
-      <description>&lt;p&gt;开源打击琴的第二天 qwq&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt; 开源打击琴的第二天 qwq&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://aza.moe/blog?post=2023-03-15-OKP-Day-2"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1938</guid>
     </item>
     <item>
       <title>小桂桂的回忆录 📒 #1937</title>
       <link>https://aza.moe/life?post=1937</link>
-      <description>&lt;p&gt;全焊好了！熟练了好多哇，最后 24 个引脚居然只用了两分钟（然后录下来了 &lt;i class="custom-emoji" emoji-src="emoji/6111506770197219135.webm"&gt;😮&lt;/i&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;全焊好了！熟练了好多哇，最后 24 个引脚居然只用了两分钟（然后录下来了 &lt;i class="custom-emoji" emoji-src="emoji/6111506770197219135.webm"&gt;😮&lt;/i&gt;
+&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1937</guid>
     </item>
     <item>
       <title>小桂桂的回忆录 📒 #1936</title>
       <link>https://aza.moe/life?post=1936</link>
-      <description>&lt;p&gt;接下来要焊接 96 个引脚... 早知如此就自己画 PCB 了 ;-;&lt;/p&gt;</description>
+      <description>&lt;p&gt;接下来要焊接 96 个引脚... 早知如此就自己画 PCB 了 ;-;
+&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1936</guid>
     </item>
     <item>
@@ -2819,7 +2831,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</description>
       <description>&lt;p&gt;啊啊啊它工作！！！它工作！！我的想法工作！！&lt;/p&gt;
 &lt;p&gt;好，开坑做一个可以在家 3D 打印的开源打击琴！接下来就是 24h 无间断的 3D 打印了，&lt;del&gt;定闹钟每小时叫醒我一次换文件&lt;/p&gt;
 &lt;p&gt;&lt;/del&gt;压电片用来做打击力度感应效果好棒！虽然花了好久 fine-tune 但是声音真的会跟着打击力度变大变小了。不过打得特别轻还是识别不到，可能要写一个 UI 给每个键单独设阈值，还有好多改进空间。以及琴架设计还要再想想，想要减震又不失颜值。明天考完试继续 qwq&lt;/p&gt;
-&lt;p&gt;（不要吐槽为什么琴槌是一根筷子穿着一个麻薯hhhh&lt;/p&gt;</description>
+&lt;p&gt;（不要吐槽为什么琴槌是一根筷子穿着一个麻薯hhhh
+&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1935</guid>
     </item>
     <item>
@@ -2833,7 +2846,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</description>
     <item>
       <title>小桂桂的回忆录 📒 #1933</title>
       <link>https://aza.moe/life?post=1933</link>
-      <description>&lt;p&gt;梦到了一个很好的项目想法，然后凌晨两点醒了，吃片褪黑素想着「等褪黑素生效的十几分钟里查查怎么实现吧」。然后查到现在凌晨四点，内心充满决心，完全不困了，好想马上起床做一个样本测试下可行性 🌚&lt;/p&gt;</description>
+      <description>&lt;p&gt;梦到了一个很好的项目想法，然后凌晨两点醒了，吃片褪黑素想着「等褪黑素生效的十几分钟里查查怎么实现吧」。然后查到现在凌晨四点，内心充满决心，完全不困了，好想马上起床做一个样本测试下可行性 🌚&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1933</guid>
     </item>
     <item>
