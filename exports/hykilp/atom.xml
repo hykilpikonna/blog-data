@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-09-23T22:09:22.880576+00:00</updated>
+  <updated>2023-09-24T00:09:09.445036+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2695</id>
+    <title>小桂桂的回忆录 📒 #2695</title>
+    <updated>2023-09-23T22:36:53+00:00</updated>
+    <content>&lt;p&gt;一觉起来...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2695" rel="alternate"/>
+  </entry>
   <entry>
     <id>2694</id>
     <title>小桂桂的回忆录 📒 #2694</title>
@@ -2592,7 +2599,8 @@ That is not what you are here for&lt;/p&gt;
     <updated>2023-04-15T09:30:00+00:00</updated>
     <content>&lt;p&gt;今天把第三代 panel PCB 设计好啦，这次直接贴上了 ESP32-S3 的 MCU，终于可以不用接 19 根跳线了。还用双 TypeC 口 5V 3+1A 替代了之前的外接电源供电。顺便加长了旋钮之间的间隙，希望能解决一点挤手的问题。&lt;/p&gt;
 &lt;p&gt;这次花了好久布线... 之前做的 PCB 没有这么复杂，自动布线蠢蠢也能布完。但是加上 MCU 之后线实在太密集了，要花心思想每个元件放在哪里才能让线程最短、线之间交叉最少什么的。结果花了五个小时重排了很多元件和连接才布好，又花了好久缩小尺寸（说好的复习考试呢 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
-&lt;p&gt;明早去下单，希望这次没有犯蠢接错什么呜呜 &lt;i class="custom-emoji" emoji-src="emoji/5470078478558700075.webp"&gt;🙏&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;明早去下单，希望这次没有犯蠢接错什么呜呜 &lt;i class="custom-emoji" emoji-src="emoji/5470078478558700075.webp"&gt;🙏&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=2052" rel="alternate"/>
   </entry>
   <entry>
@@ -2607,7 +2615,8 @@ That is not what you are here for&lt;/p&gt;
     <title>小桂桂的回忆录 📒 #2050</title>
     <updated>2023-04-14T18:48:44+00:00</updated>
     <content>&lt;p&gt;配好马林巴音色之后第一件事当然是...&lt;/p&gt;
-&lt;p&gt;那个超经典的 iPhone 铃声！&lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;那个超经典的 iPhone 铃声！&lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=2050" rel="alternate"/>
   </entry>
   <entry>
@@ -2617,7 +2626,8 @@ That is not what you are here for&lt;/p&gt;
     <content>&lt;p&gt;刚说完要准备考试就去又焊了两个八度的二极管，接好四个八度了！&lt;/p&gt;
 &lt;p&gt;然后发现，即使二极管都是对的，接上第四个八度之后同一个复用器的音符还是会乱串。为什么呢？思考了好久反复检查了 PCB 还是一头雾水，最后看到暗下来的 LED，说试试再接一个电源吧，接上居然真的就好了 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
 &lt;p&gt;原来复用器这么耗电的，现在已经多接了三个 5V1A 的电源了，家里的 USB-Serial 转换器和 YD-Link 全都被我用来接电源了 🤯&lt;/p&gt;
-&lt;p&gt;不过这样好难看... 看看能不能定制一个 5V4A 的 TypeC 电源 qwq&lt;/p&gt;</content>
+&lt;p&gt;不过这样好难看... 看看能不能定制一个 5V4A 的 TypeC 电源 qwq&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=2048" rel="alternate"/>
   </entry>
   <entry>
@@ -2672,7 +2682,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
     <content>&lt;p&gt;今天接好了线，写完了固件驱动读输入的部分，焊完了 MIDI 面板，重焊了两个八度的复用器二极管，连好了第二个八度，还提交了改完的 PCB，是很高效的一天呢 qwq&lt;/p&gt;
 &lt;p&gt;MIDI 面板的按钮旋钮和 RGB 灯都能驱动了！除了之前固定点短路和最后一个灯不亮以外其他功能都正常。不过发现顺序读取面板和琴键的话速度好慢，采样率只有 32 Hz 了 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
 &lt;p&gt;所以去写了多线程！ESP32-S3 正好有两个核心来着。嵌入式的 FreeRTOS 多线程写法和 Unix 好不一样，每圈结束需要调函数把多余的 CPU 时间让给其他进程，太久没让就会被看门狗杀掉 ;-; &lt;del&gt;不能吃掉一整个 CPU 好可惜&lt;/del&gt;。以及 FreeRTOS 的多线程开销好大，多线程 240 Hz 比单线程多了 460 μs 的样子，看看能不能优化...&lt;/p&gt;
-&lt;p&gt;以及虽然打印 PCB 让布线整齐很多了，但是拉 19 根线出来还是不太好看... 下一个版本试试把 ESP32 芯片画到 PCB 上好啦&lt;/p&gt;</content>
+&lt;p&gt;以及虽然打印 PCB 让布线整齐很多了，但是拉 19 根线出来还是不太好看... 下一个版本试试把 ESP32 芯片画到 PCB 上好啦&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=2041" rel="alternate"/>
   </entry>
   <entry>
@@ -2692,7 +2703,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
 &lt;p&gt;...然后发现两个电路都有好严重的错误 &lt;i class="custom-emoji" emoji-src="emoji/6169958075345144164.webm"&gt;🫣&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;接琴键的复用器电路上，我原本写了 5.1V 的稳压二极管被嘉立创匹配成了 1kV 的普通二极管，所以复用器信号会乱串。手动把正确的二极管替换上就好啦，虽然不是很好看呜。&lt;/p&gt;
 &lt;p&gt;接下来是控制板的 PCB，我居然把旋钮编码器用来固定的两个焊点一个接了 5V 另一个接了地，导致插上元件直接短路 (╯’ – ‘)╯︵ ┻━┻ 5V 那边用绝缘材料裹起来就好了，虽然不牢固但是还能用。&lt;/p&gt;
-&lt;p&gt;重焊元件的时候还不小心碰到烙铁烫了小拇指，不过及时冲了冷水又裹了烫伤贴今天就不疼啦。总之超受打击，各种被蠢哭。不过没关系，下次就知道要检查哪里了 qwq&lt;/p&gt;</content>
+&lt;p&gt;重焊元件的时候还不小心碰到烙铁烫了小拇指，不过及时冲了冷水又裹了烫伤贴今天就不疼啦。总之超受打击，各种被蠢哭。不过没关系，下次就知道要检查哪里了 qwq&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=2035" rel="alternate"/>
   </entry>
   <entry>
@@ -2719,7 +2731,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
     <content>&lt;p&gt;被灵车开发板折磨... TLDR：绝对不要买销量少没人用的板子 ;-;&lt;/p&gt;
 &lt;p&gt;之前贪 ￥10 的小便宜买了源地 YD-STM32F411 坂，配了 YD-Link 调试器，以为是 WeAct BlackPill 和 ST-Link 的完美兼容平替... 然后翻车了。YD-Link 设备信息里面没有写 CMSIS-DAP 所以刷写软件识别不到，花了几个小时才调好。然后就是开发板，用 BlackPill 的适配编译之后 USB 串口怎样都识别不到，试来试去发现是晶振频率不一样，但是这个坂月销只有 3，没有人做过适配... 尝试了自己做适配怎样都不工作就放弃了。（还是感谢 Yangff 帮忙发现问题 qwq）&lt;/p&gt;
 &lt;p&gt;不过！我早就料到会出这种问题了，所以买了几个不同处理器的坂做备胎！...然后发现这几块板也同样没有适配 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
-&lt;p&gt;最后用唯一一个不需要特殊适配的 ESP32-S3 解决啦，也没有遇到之前 S2/C3 ADC 乱跳的问题，可以说是非常非常非常幸运了啊哈哈感谢 rng &lt;i class="custom-emoji" emoji-src="emoji/5470078478558700075.webp"&gt;🙏&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;最后用唯一一个不需要特殊适配的 ESP32-S3 解决啦，也没有遇到之前 S2/C3 ADC 乱跳的问题，可以说是非常非常非常幸运了啊哈哈感谢 rng &lt;i class="custom-emoji" emoji-src="emoji/5470078478558700075.webp"&gt;🙏&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=2032" rel="alternate"/>
   </entry>
   <entry>
@@ -2749,7 +2762,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
     <title>小桂桂的回忆录 📒 #2026</title>
     <updated>2023-04-10T09:07:09+00:00</updated>
     <content>&lt;p&gt;终于等到又暖又晴又没风的天气了！开始给琴键喷喷喷 qwq&lt;/p&gt;
-&lt;p&gt;虽然最初打算喷黑金属色，试了之后还是感觉玫瑰金/铜色更好看。用亚克力喷漆真的喷出了金属的效果哇，好棒。甚至把垫琴键的纸板也一起喷金了 &lt;i class="custom-emoji" emoji-src="emoji/6323315689444607430.webp"&gt;☁️&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;虽然最初打算喷黑金属色，试了之后还是感觉玫瑰金/铜色更好看。用亚克力喷漆真的喷出了金属的效果哇，好棒。甚至把垫琴键的纸板也一起喷金了 &lt;i class="custom-emoji" emoji-src="emoji/6323315689444607430.webp"&gt;☁️&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=2026" rel="alternate"/>
   </entry>
   <entry>
@@ -2830,7 +2844,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
     <updated>2023-04-05T08:22:42+00:00</updated>
     <content>&lt;p&gt;前几天看完了孤独摇滚，好喜欢最后一集中间的八音盒插曲《やさしいな》。扒好了谱子（感谢 Ayu 指导 &amp;gt; &amp;lt;）然后想试试在钟琴上敲就打车去 Cosmo 租了琴。真正的钟琴音色好好听！适应了一下今天终于完整弹下来了 qwq&lt;/p&gt;
 &lt;p&gt;感觉没能把原曲的那种忧郁、不舍的情感弹出来呢 ;-; 注意力全都在手上了，还需要继续练习...&lt;/p&gt;
-&lt;p&gt;琴槌手感好奇妙，感觉像是在演杂技。一根槌夹在三四指之间、另一根通过大拇指和食指搓动控制横向间距，这样很小力气就能控制很大的区间。想出这个手法的人好厉害，虽然还是感觉怪怪的（x）&lt;/p&gt;</content>
+&lt;p&gt;琴槌手感好奇妙，感觉像是在演杂技。一根槌夹在三四指之间、另一根通过大拇指和食指搓动控制横向间距，这样很小力气就能控制很大的区间。想出这个手法的人好厉害，虽然还是感觉怪怪的（x）&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=2009" rel="alternate"/>
   </entry>
   <entry>
@@ -2972,7 +2987,7 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
     <id>1981</id>
     <title>小桂桂的回忆录 📒 #1981</title>
     <updated>2023-03-27T13:37:52+00:00</updated>
-    <content>&lt;p&gt;&lt;a href="##梦"&gt;#梦&lt;/a&gt; (tw)
+    <content>&lt;p&gt;&lt;a href="##梦"&gt;#梦&lt;/a&gt; &lt;a href="##琴"&gt;#琴&lt;/a&gt; (tw)
 做噩梦了。梦见收到 PCB 之后发现所有的线都被我接错了，是把家里所有的线都焊成跳线也救不了的程度，&lt;span class="spoiler"&gt;&lt;span&gt;然后拿着它站在阳台边思考着要把它丢下去还是把自己丢下去...&lt;/span&gt;&lt;/span&gt; &lt;i class="custom-emoji" emoji-src="emoji/6169958075345144164.webm"&gt;🫣&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;完了我好害怕好害怕，这真的是我这几天最担心的事情，以至于 v1 还没送到就做了 v2，至少还有两周才能送到。签证顺利的话只有不到六周就要出发去美国了，没有时间给我 v3 v4... 如果发生了我真的不知道该怎样对待&lt;/p&gt;
 &lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;好难受，自卑和自疑的情绪再一次涌入，感觉像是要窒息。&lt;/span&gt;&lt;/span&gt;&lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
@@ -3043,7 +3058,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
 八点：终于终于全都摆好了。那么接下来只要... 上传贴片的时候告诉我我选的灯太小，￥130 的优惠流程不能贴，要多花 ￥300 &lt;i class="custom-emoji" emoji-src="emoji/6323397499981661640.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;为什么不在选元件的时候告诉我啊 (╯’ – ‘)╯︵ ┻━┻ 好崩溃。&lt;/p&gt;
 &lt;p&gt;中午十二点：好了好了，深呼吸，把所有灯换成大一点的规格重新布局吧... 然后改到了现在下午三点 &lt;i class="custom-emoji" emoji-src="emoji/6170358057059485759.webm"&gt;😪&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;不过终于完全做完了！接琴键的电路板和这个 MIDI 面板都提交打印了，接下来只剩下漫长的等待...&lt;/p&gt;</content>
+&lt;p&gt;不过终于完全做完了！接琴键的电路板和这个 MIDI 面板都提交打印了，接下来只剩下漫长的等待...&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=1968" rel="alternate"/>
   </entry>
   <entry>
@@ -3053,7 +3069,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
     <content>&lt;p&gt;WS2812 灯真是一个超天才的设计&lt;/p&gt;
 &lt;p&gt;众所周知一个全彩灯需要三个引脚，分别控制 RGB。假如我想要连 20 个 LED 灯，直接连需要 60 个输出口。可是我的开发板一共只有 48 个输出口，怎么办呢？&lt;/p&gt;
 &lt;p&gt;WS2812 的解决方案是把时序电路做在每个灯上，顺序读取代表着 RGB 颜色的 24 位之后存起来，再把接下来的数据全部传给下一个灯，一个一个传下去，直到收到「重置」信号再从头开始更新自己的颜色。&lt;/p&gt;
-&lt;p&gt;这样只用一个输出口就可以单独控制∞个灯的颜色了哇，好厉害！（虽然接太多的话更新速度会慢hhh&lt;/p&gt;</content>
+&lt;p&gt;这样只用一个输出口就可以单独控制∞个灯的颜色了哇，好厉害！（虽然接太多的话更新速度会慢hhh&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=1967" rel="alternate"/>
   </entry>
   <entry>
@@ -3067,7 +3084,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
     <id>1965</id>
     <title>小桂桂的回忆录 📒 #1965</title>
     <updated>2023-03-22T02:20:48+00:00</updated>
-    <content>&lt;p&gt;谁说电路板画线必须横平竖直hhhhh&lt;/p&gt;</content>
+    <content>&lt;p&gt;谁说电路板画线必须横平竖直hhhhh&lt;/p&gt;
+&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=1965" rel="alternate"/>
   </entry>
   <entry>
@@ -3090,7 +3108,8 @@ Tue 25: CSC209 Unix &amp;amp; C&lt;/p&gt;</content>
     <title>小桂桂的回忆录 📒 #1959</title>
     <updated>2023-03-19T07:33:41+00:00</updated>
     <content>&lt;p&gt;调好了！凌晨三点的一些 jigglypuff qwq&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;（好想养一只 jigglypuff，又可爱又能让我睡觉&lt;/del&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;del&gt;（好想养一只 jigglypuff，又可爱又能让我睡觉&lt;/p&gt;
+&lt;p&gt;&lt;/del&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=1959" rel="alternate"/>
   </entry>
   <entry>
