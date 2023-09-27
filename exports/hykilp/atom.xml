@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-09-27T04:08:57.028740+00:00</updated>
+  <updated>2023-09-27T06:08:15.686954+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2707</id>
+    <title>小桂桂的回忆录 📒 #2707</title>
+    <updated>2023-09-27T05:08:31+00:00</updated>
+    <content>&lt;p&gt;之前写网页一直在用 Vue，但是觉得 Vue 太重了就去学了 Solid.js，用 Solid.js 写了几次网站又觉得语法太繁琐所以这次打算学学 Svelte&lt;/p&gt;
+&lt;p&gt;Svelte 好容易学！或者说真的太 intuitive 了很多响应式功能都不用去专门学各种奇怪写法（&lt;del&gt;也许只是正好和我的脑回路对上了&lt;/del&gt;但是总之就是好好用！&lt;/p&gt;
+&lt;p&gt;零基础从开模板项目到写完想要写的 demo page 只用了 1h 40m&lt;/p&gt;
+&lt;p&gt;在 Svelte 里面用响应式更新不需要像 Vue 3 那样写 &lt;code&gt;const a = ref&lt;type&gt;(default)&lt;/code&gt; 然后用 a.value 改值，也不需要像 React/Solid 那样定义 &lt;code&gt;const [a, setA] = createSignal&lt;type&gt;(default)&lt;/code&gt; 两个函数，一个用来获取一个用来修改。Svelte 直接像原生 JS 一样定义变量、改值就能响应式更新真的好舒服！&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;其实一直很喜欢 Vue Class Component 写法也是因为它直接用原生 ts class 的写法就能实现所有功能，可惜更新 Vue3 的时候 Class Component 的官方支持被砍了，换成了他们自己的别扭写法...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2707" rel="alternate"/>
+  </entry>
   <entry>
     <id>2705</id>
     <title>小桂桂的回忆录 📒 #2705</title>
