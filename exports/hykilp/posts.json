@@ -35888,7 +35888,7 @@
     "id": 2684,
     "date": "2023-09-22T20:53:07",
     "text": "边上课边解锁了 BL、刷了 Magisk、试了各种模块之后终于过了 SafetyNet，终于有一个能刷 Google Pay 的手机了！\n\n来讲一下今天踩到的坑：\n\n1. <a href=\"twrp.me\">twrp.me</a> 官网的镜像只支持安卓 11，需要换成第三方的小米安卓 13 镜像 | <a href=\"https://sourceforge.net/projects/recovery-for-xiaomi-devices/\">链接\n</a>2. 不要听 Magisk 官方那个繁琐的安装教程，直接把 magisk.apk 当作更新包用 Twrp 刷上就行了\n3. 官方的 Safetynet-Fix 更新很慢，需要用 Displax 的 fork | <a href=\"https://github.com/Displax/safetynet-fix/releases\">链接\n</a>4. 记得打开 Zygisk 和 Denylist",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "media_group_id": 13563327899840437,
     "images": [
@@ -35938,7 +35938,7 @@
     "id": 2691,
     "date": "2023-09-22T21:57:35",
     "text": "今天大统华出前一丁好便宜，买了一大堆带不回去怎么办呢？结完帐直接在店里拆了，带走汤底把面饼扔掉hhhh",
-    "views": 75,
+    "views": 76,
     "forwards": 1,
     "media_group_id": 13563358842752557,
     "images": [
@@ -35988,7 +35988,7 @@
     "id": 2692,
     "date": "2023-09-22T23:07:09",
     "text": "新睡裙也到了！\n\n<del>是带奶子的睡裙</del>",
-    "views": 75,
+    "views": 78,
     "forwards": 1,
     "images": [
       {
@@ -36007,14 +36007,14 @@
     "id": 2693,
     "date": "2023-09-23T00:14:19",
     "text": "怎么这几天大家都换上了 zr60v 的头像",
-    "views": 73,
+    "views": 76,
     "forwards": 0
   },
   {
     "id": 2694,
     "date": "2023-09-23T20:42:14",
     "text": "哭 回家已经三个月没有用这个 3D 打印机了，结果以前遇到的坑都重新踩了一遍... 调平一直不工作，可是忘记了以前是怎样解决调平问题的，结果翻了好久才翻到这篇日记里的 M420 S1 ;-;",
-    "views": 63,
+    "views": 65,
     "forwards": 1,
     "reply": {
       "id": 1938,
@@ -36026,7 +36026,7 @@
     "id": 2695,
     "date": "2023-09-23T22:36:53",
     "text": "一觉起来...",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -36049,7 +36049,7 @@
     "id": 2696,
     "date": "2023-09-24T12:35:33",
     "text": "谷歌为了赚钱在 Chrome 上把 Adblock for Youtube 标为病毒强制禁用了... 看来是时候全面卸载 Chrome 换 Firefox 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 507,
+    "views": 511,
     "forwards": 10,
     "images": [
       {
@@ -36185,7 +36185,7 @@
     "id": 2705,
     "date": "2023-09-26T20:28:37",
     "text": "昨天逛加拿大日语论坛看到一套巫女和服好想买，然后用多邻国刚学两个月的日语写了封邮件！......结果今天对方直接用英语回了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n有被自己蠢哭\n\n（还感谢幽灵灵和蓝夏帮忙检查 qwq",
-    "views": 46,
+    "views": 50,
     "forwards": 1,
     "media_group_id": 13566080937682373,
     "images": [
@@ -36215,7 +36215,7 @@
     "id": 2707,
     "date": "2023-09-27T05:08:31",
     "text": "之前写网页一直在用 Vue，但是觉得 Vue 太重了就去学了 Solid.js，用 Solid.js 写了几次网站又觉得语法太繁琐所以这次打算学学 Svelte\n\nSvelte 好容易学！或者说真的太 intuitive 了很多响应式功能都不用去专门学各种奇怪写法（<del>也许只是正好和我的脑回路对上了</del>但是总之就是好好用！\n\n零基础从开模板项目到写完想要写的 demo page 只用了 1h 40m\n\n在 Svelte 里面用响应式更新不需要像 Vue 3 那样写 <code>const a = ref<type>(default)</code> 然后用 a.value 改值，也不需要像 React/Solid 那样定义 <code>const [a, setA] = createSignal<type>(default)</code> 两个函数，一个用来获取一个用来修改。Svelte 直接像原生 JS 一样定义变量、改值就能响应式更新真的好舒服！\n\n<span class=\"spoiler\"><span>其实一直很喜欢 Vue Class Component 写法也是因为它直接用原生 ts class 的写法就能实现所有功能，可惜更新 Vue3 的时候 Class Component 的官方支持被砍了，换成了他们自己的别扭写法...</span></span>",
-    "views": 33,
+    "views": 44,
     "forwards": 2,
     "media_group_id": 13566330489419853,
     "images": [
