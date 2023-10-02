@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-10-02T06:09:30.781569+00:00</updated>
+  <updated>2023-10-02T08:08:13.501871+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2716</id>
+    <title>小桂桂的回忆录 📒 #2716</title>
+    <updated>2023-10-02T07:42:31+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##琴"&gt;#琴&lt;/a&gt; 想把这个马林巴琴的源码公布出来，但是感觉还有好多地方要完善... 先列一个 todo list 吧&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打印一个固定架让它可以从这个桌子上挪开（现在是四根木板用粘土胶粘在桌子上... 中间没有任何固定）&lt;/li&gt;
+&lt;li&gt;把容易松、容易受干扰的杜邦线换掉&lt;/li&gt;
+&lt;li&gt;重新打印 Mux 的 PCB 解决供电路不够粗导致一个 5v 电源带不动的问题&lt;/li&gt;
+&lt;li&gt;和 UofT 音乐部门联动录制马林巴音源，把音源和声音逻辑写进固件里面&lt;/li&gt;
+&lt;li&gt;练琴、录一段介绍视频&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;呜 还有好多事情要做 quq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2716" rel="alternate"/>
+  </entry>
   <entry>
     <id>2715</id>
     <title>小桂桂的回忆录 📒 #2715</title>
