@@ -35474,7 +35474,7 @@
     "id": 2656,
     "date": "2023-09-15T22:50:55",
     "text": "没有开机键怎么办.jpg",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "media_group_id": 13558546042981149,
     "images": [
@@ -35504,7 +35504,7 @@
     "id": 2658,
     "date": "2023-09-16T04:19:36",
     "text": "聊聊的模型太多了摆不下，给聊聊买了一个模型柜一起拼好了 qwq",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13558703808882701,
     "images": [
@@ -36049,7 +36049,7 @@
     "id": 2696,
     "date": "2023-09-24T12:35:33",
     "text": "谷歌为了赚钱在 Chrome 上把 Adblock for Youtube 标为病毒强制禁用了... 看来是时候全面卸载 Chrome 换 Firefox 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 835,
+    "views": 837,
     "forwards": 14,
     "images": [
       {
@@ -36215,7 +36215,7 @@
     "id": 2707,
     "date": "2023-09-27T05:08:31",
     "text": "之前写网页一直在用 Vue，但是觉得 Vue 太重了就去学了 Solid.js，用 Solid.js 写了几次网站又觉得语法太繁琐所以这次打算学学 Svelte\n\nSvelte 好容易学！或者说真的太 intuitive 了很多响应式功能都不用去专门学各种奇怪写法（<del>也许只是正好和我的脑回路对上了</del>但是总之就是好好用！\n\n零基础从开模板项目到写完想要写的 demo page 只用了 1h 40m\n\n在 Svelte 里面用响应式更新不需要像 Vue 3 那样写 <code>const a = ref<type>(default)</code> 然后用 a.value 改值，也不需要像 React/Solid 那样定义 <code>const [a, setA] = createSignal<type>(default)</code> 两个函数，一个用来获取一个用来修改。Svelte 直接像原生 JS 一样定义变量、改值就能响应式更新真的好舒服！\n\n<span class=\"spoiler\"><span>其实一直很喜欢 Vue Class Component 写法也是因为它直接用原生 ts class 的写法就能实现所有功能，可惜更新 Vue3 的时候 Class Component 的官方支持被砍了，换成了他们自己的别扭写法...</span></span>",
-    "views": 114,
+    "views": 115,
     "forwards": 4,
     "media_group_id": 13566330489419853,
     "images": [
@@ -36325,7 +36325,7 @@
     "id": 2714,
     "date": "2023-09-30T04:40:53",
     "text": "躺在草丛上翻过身就可以抱着 1:1 等身大的地球模型睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5465143921912846619.tgs\">💭</i>",
-    "views": 276,
+    "views": 277,
     "forwards": 4
   },
   {
@@ -36351,7 +36351,7 @@
     "id": 2716,
     "date": "2023-10-02T07:42:31",
     "text": "<a href=\"##琴\">#琴</a> 想把这个马林巴琴的源码公布出来，但是感觉还有好多地方要完善... 先列一个 todo list 吧\n\n1. 打印一个固定架让它可以从这个桌子上挪开（现在是四根木板用粘土胶粘在桌子上... 中间没有任何固定）\n2. 把容易松、容易受干扰的杜邦线换掉\n3. 重新打印 Mux 的 PCB 解决供电路不够粗导致一个 5v 电源带不动的问题\n4. 和 UofT 音乐部门联动录制马林巴音源，把音源和声音逻辑写进固件里面\n5. 练琴、录一段介绍视频\n\n呜 还有好多事情要做 quq",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 2050,
@@ -36362,14 +36362,14 @@
     "id": 2717,
     "date": "2023-10-02T09:37:35",
     "text": "凌晨五点半了还没睡... 还有 5.5h 就要去考试了，加上昨天也只睡了 5h... 害怕<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 2718,
     "date": "2023-10-02T17:23:33",
     "text": "考完了！Intro AI 课好简单\n\n昨天晚上原本想熬夜把翘的三周课的录像补上，但是发现这门居然只有 1/3 的课有录像... 然后聊聊给我推荐了 UC Berkeley 的 CS188 录像发现和这门课讲的完全一致 🌚 几小时二倍速补完了 <a href=\"https://www.youtube.com/@CS-bd2lz\">https://www.youtube.com/@CS-bd2lz</a>",
-    "views": 72,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 2717,
@@ -36380,7 +36380,7 @@
     "id": 2719,
     "date": "2023-10-03T22:44:32",
     "text": "🌚",
-    "views": 68,
+    "views": 70,
     "forwards": 1,
     "images": [
       {
@@ -36544,7 +36544,7 @@
     "id": 2727,
     "date": "2023-10-05T11:32:14",
     "text": "呜呜呜 预计 30 分钟结果花了快七个小时才弄完，都怪这个灵车 cx4 网卡和灵车 10G 电转光模块...\n\n记录一下今天踩的坑",
-    "views": 68,
+    "views": 69,
     "forwards": 2,
     "media_group_id": 13572044278561989,
     "images": [
@@ -36578,14 +36578,14 @@
     "id": 2729,
     "date": "2023-10-06T04:00:47",
     "text": "呜 刚才习惯性问聊聊我们今天晚上吃什么，然后才想起来现在已经凌晨 0 点了而且我们已经吃过晚饭了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n作息完全被打乱了... 呜",
-    "views": 49,
+    "views": 50,
     "forwards": 0
   },
   {
     "id": 2730,
     "date": "2023-10-06T15:26:22",
     "text": "UofT 的演讲设备好棒，按一个按钮就能录屏录像上传哇\n\n<span class=\"spoiler\"><span>...所以这么方便为什么还有教授不录课 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</span></span></i>",
-    "views": 39,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -36597,6 +36597,55 @@
         "url": "media/2730.jpg",
         "size": 514596,
         "thumb": "media/2730.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2731,
+    "date": "2023-10-07T00:25:45",
+    "text": "草 用着用着电脑突然 USB controller 坏掉了，仔细排查一下看到是用来给小玩具充电的磁吸充电头吸到另一个 USB 头的金属片上短路了 🌚",
+    "views": 33,
+    "forwards": 0,
+    "media_group_id": 13573106766462373,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2023-10-07T00:24:51",
+        "media_type": "photo",
+        "original_name": "photo_2023-10-07_00-24-51.jpg",
+        "url": "media/2731.jpg",
+        "size": 347816,
+        "thumb": "media/2731.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2023-10-07T00:25:45",
+        "media_type": "photo",
+        "original_name": "photo_2023-10-07_00-25-45.jpg",
+        "url": "media/2732.jpg",
+        "size": 330642,
+        "thumb": "media/2732.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2733,
+    "date": "2023-10-07T01:27:47",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸鱼！\n\n记录一下食谱：把鱼柳解冻之后切块，均匀撒一勺料酒、撒些姜粉、半勺盐、一勺蚝油、一勺鱼だし、巨量蒜粉，腌 15 分钟。接下来热锅热油，边等油烧边给鱼裹粉，等油温烧到 215°C 放进去炸到金黄就可以了！",
+    "views": 19,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-10-07T01:27:47",
+        "media_type": "photo",
+        "original_name": "photo_2023-10-07_01-27-47.jpg",
+        "url": "media/2733.jpg",
+        "size": 438458,
+        "thumb": "media/2733.jpg_thumb.jpg"
       }
     ]
   }
