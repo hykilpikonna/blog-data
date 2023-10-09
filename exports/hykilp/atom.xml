@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-10-09T08:08:24.025408+00:00</updated>
+  <updated>2023-10-09T10:08:29.104431+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2741</id>
+    <title>小桂桂的回忆录 📒 #2741</title>
+    <updated>2023-10-09T08:40:57+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##CTF"&gt;#CTF&lt;/a&gt;?
+把 AI 课的 autograder 系统黑一黑直接拿到了老师的官方答案代码 &lt;i class="custom-emoji" emoji-src="emoji/6111607409870898919.webm"&gt;👍&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;这个判卷系统居然敢在运行学生代码的 python 环境里直接 import 正确答案代码... 写着写着作业跑测试的时候遇到一个报错，但是我在我的代码里怎样都找不到这行，然后发现是答案代码的报错 🌚 居然直接打出了答案代码的一行我也是懵了&lt;/p&gt;
+&lt;p&gt;然后 reload 一下模块拿到 &lt;code&gt;&lt;strong&gt;file&lt;/strong&gt;&lt;/code&gt; 直接读，丢报错打出来就拿到答案代码了！🌚&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://telegra.ph/Piazza-Post-Backup-Markus-autograder-is-vulnerable-students-can-obtain-full-solution-code-10-09"&gt;Piazza Post 的备份&lt;/p&gt;
+&lt;p&gt;&lt;/a&gt;（当然只是 proof-of-concept，黑之前测试已经全通过了hhh&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2741" rel="alternate"/>
+  </entry>
   <entry>
     <id>2740</id>
     <title>小桂桂的回忆录 📒 #2740</title>
