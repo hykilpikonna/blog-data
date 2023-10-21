@@ -36215,7 +36215,7 @@
     "id": 2707,
     "date": "2023-09-27T05:08:31",
     "text": "之前写网页一直在用 Vue，但是觉得 Vue 太重了就去学了 Solid.js，用 Solid.js 写了几次网站又觉得语法太繁琐所以这次打算学学 Svelte\n\nSvelte 好容易学！或者说真的太 intuitive 了很多响应式功能都不用去专门学各种奇怪写法（<del>也许只是正好和我的脑回路对上了</del>但是总之就是好好用！\n\n零基础从开模板项目到写完想要写的 demo page 只用了 1h 40m\n\n在 Svelte 里面用响应式更新不需要像 Vue 3 那样写 <code>const a = ref<type>(default)</code> 然后用 a.value 改值，也不需要像 React/Solid 那样定义 <code>const [a, setA] = createSignal<type>(default)</code> 两个函数，一个用来获取一个用来修改。Svelte 直接像原生 JS 一样定义变量、改值就能响应式更新真的好舒服！\n\n<span class=\"spoiler\"><span>其实一直很喜欢 Vue Class Component 写法也是因为它直接用原生 ts class 的写法就能实现所有功能，可惜更新 Vue3 的时候 Class Component 的官方支持被砍了，换成了他们自己的别扭写法...</span></span>",
-    "views": 125,
+    "views": 126,
     "forwards": 4,
     "media_group_id": 13566330489419853,
     "images": [
@@ -36915,7 +36915,7 @@
     "id": 2755,
     "date": "2023-10-13T05:35:17",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -36934,7 +36934,7 @@
     "id": 2756,
     "date": "2023-10-14T16:24:41",
     "text": "新买的 Chunithm 和 Nostalgia 手台到了！手感像真的街机一样哇\n\n现在家里有五个手台了！另外三个是 SDVX, IIDX, 和 Groove Coaster。正在开坑给这五个手台设计一个街机框，感觉又是一个好大的项目 qwq",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13578405453331917,
     "files": [
@@ -36969,7 +36969,7 @@
     "id": 2758,
     "date": "2023-10-14T18:25:24",
     "text": "原来这个家曾经这么干净过",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 1760,
@@ -36980,14 +36980,14 @@
     "id": 2759,
     "date": "2023-10-14T22:31:36",
     "text": "想吃酥心糖",
-    "views": 75,
+    "views": 76,
     "forwards": 0
   },
   {
     "id": 2761,
     "date": "2023-10-15T21:38:40",
     "text": "折腾了一天把私服搭好啦，然后把更新补丁都打好了，虚拟卡可以扫了，用户数据也都可以存了。（私服地址 <a href=\"lux.hydev.org\">lux.hydev.org</a>\n\n不过还差一个读卡器。在想，是私服又可以虚拟卡号为什么要做真正的 Felica 读卡器呢？<del>既然在多伦多是不是应该本地化一下写一个读 Presto 公交卡的驱动</del>",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13579247360548029,
     "images": [
@@ -37027,14 +37027,14 @@
     "id": 2764,
     "date": "2023-10-16T14:28:02",
     "text": "早上 10:10 迷迷糊糊看一下表以为考试要迟到了，急急忙忙叼块饼干出门了，然后走到十字路口才想起来是 12 点的考试不是 11 点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 2765,
     "date": "2023-10-17T07:10:19",
     "text": "街机框体造型差不多设计好了！显示器有两个位置，横向倾斜 45° 用来玩 Chunithm 和 Nostalgia、竖过来 90° 用来玩 SDVX 和 Groove Coaster！\n\n固定显示器的话，横斜向打算用两个架子拖住后面再打印一个小角卡在前面让它不向前滑。竖向稍微有点麻烦，毕竟这个显示器的竖向边框只有 1cm... 赌一下倾斜 5° 能不能让它不向前翻好了，<del>如果向前翻的话就用绳子把 VESA 绑起来拉到后面\n\n</del>接下来要设计一下内部结构，想做几个放手台和电脑的架子希望不会太复杂（x",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13580212956230205,
     "images": [
@@ -37089,7 +37089,7 @@
     "id": 2769,
     "date": "2023-10-17T17:24:41",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n蘸面！\n\n因为第一次做做了两种口味的汤，把面和汤分开就不怕面吸水膨胀了 qwq",
-    "views": 61,
+    "views": 63,
     "forwards": 0,
     "images": [
       {
@@ -37108,14 +37108,14 @@
     "id": 2770,
     "date": "2023-10-18T06:50:36",
     "text": "想买一台 Wacca 街机但是好纠结，觉得花掉 $3200 买台街机好浪费，但是也可能再过几年就会涨到真的买不起的价格了...毕竟是停产了还很有人气的游戏。\n\n然后和聊聊在讨论这件事\n\n我：是不是不买车就能买得起街机了，两三个月的保险就能有 $3k 了吧\n聊聊：那我们可以买车但是不买保险\n<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 57,
+    "views": 59,
     "forwards": 0
   },
   {
     "id": 2771,
     "date": "2023-10-19T08:23:08",
     "text": "升宽带升得好郁闷啊... 现在下载种子的速度 380MB/s，但是因为要在笔记本上运行要先拷出来，把下载好的文件拷到 USB3 NVMe SSD 上的速度居然只有 35MB/s... 结果还是要等等等，下载花了不到两分钟，拷盘等了十分钟 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及刚知道原来 USB3 的速度还没有千兆网线快吗...",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "media_group_id": 13581630305224349,
     "images": [
@@ -37145,14 +37145,14 @@
     "id": 2773,
     "date": "2023-10-20T03:05:56",
     "text": "想让聊聊在拍卖快结束的时候提醒我一下\n聊聊：什么时候结束呢？\n我：Oct 24, 20:57\n聊聊：上午还是下午\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 49,
+    "views": 51,
     "forwards": 0
   },
   {
     "id": 2779,
     "date": "2023-10-20T05:28:11",
     "text": "想打街机，把笔记本开起来之后听到里面风扇像电钻一样的响，拆开笔电想清理一下，但是发现掀开前盖需要的卡扣被猪猪用 502 胶粘住了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n没办法只能把原本粘住的地方锯开了，心疼笔电 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n打开之后发现声音的来源是因为标签贴纸放久了失去粘性掉进了风扇里，取出来就好了。顺便清了灰、把干的硅脂清掉重新涂了，拼回去之后满血复活了！压满 CPU 也只有 70℃ 哇，风扇几乎不用转！\n\n...虽然只花了一个小时修好，但是已经累得没力气玩街机了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 61,
+    "views": 64,
     "forwards": 1,
     "media_group_id": 13582237530773717,
     "files": [
@@ -37222,5 +37222,45 @@
         "thumb": "media/2779.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 2780,
+    "date": "2023-10-21T18:21:34",
+    "text": "没想到用八年前的笔记本 960M 即使跑最新 sdvx6 valkyrie 120hz 帧率还很稳\n\n可惜我还不太会打（x）",
+    "views": 17,
+    "forwards": 0,
+    "media_group_id": 13583299957297245,
+    "files": [
+      {
+        "width": 1280,
+        "height": 720,
+        "duration": 39,
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2023-10-21T18:21:34",
+        "media_type": "video_file",
+        "original_name": "video_2023-10-21_18-21-34.mp4",
+        "url": "media/2780.mp4",
+        "size": 14071431,
+        "thumb": "media/2780.mp4_thumb.jpg"
+      }
+    ],
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2023-10-21T18:21:31",
+        "media_type": "photo",
+        "original_name": "photo_2023-10-21_18-21-31.jpg",
+        "url": "media/2781.jpg",
+        "size": 805948,
+        "thumb": "media/2781.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 2779,
+      "text": "想打街机，把笔记本开起来之后听到里面风扇像电钻一样的响，拆开笔电想清理一下，但是发现掀开前盖需要的卡扣被猪猪用 502 胶粘住了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n没办法只能把原本粘住的地方锯开了，心疼笔电 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n打开之后发现声音的来源是因为标签贴纸放久了失去粘性掉进了风扇里，取出来就好了。顺便清了灰、把干的硅脂清掉重新涂了，拼回去之后满血复活了！压满 CPU 也只有 70℃ 哇，风扇几乎不用转！\n\n...虽然只花了一个小时修好，但是已经累得没力气玩街机了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
+      "thumb": "media/2774.mp4_thumb.jpg"
+    }
   }
 ]
