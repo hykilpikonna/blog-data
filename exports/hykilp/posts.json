@@ -36049,7 +36049,7 @@
     "id": 2696,
     "date": "2023-09-24T12:35:33",
     "text": "谷歌为了赚钱在 Chrome 上把 Adblock for Youtube 标为病毒强制禁用了... 看来是时候全面卸载 Chrome 换 Firefox 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 983,
+    "views": 984,
     "forwards": 15,
     "images": [
       {
@@ -36215,7 +36215,7 @@
     "id": 2707,
     "date": "2023-09-27T05:08:31",
     "text": "之前写网页一直在用 Vue，但是觉得 Vue 太重了就去学了 Solid.js，用 Solid.js 写了几次网站又觉得语法太繁琐所以这次打算学学 Svelte\n\nSvelte 好容易学！或者说真的太 intuitive 了很多响应式功能都不用去专门学各种奇怪写法（<del>也许只是正好和我的脑回路对上了</del>但是总之就是好好用！\n\n零基础从开模板项目到写完想要写的 demo page 只用了 1h 40m\n\n在 Svelte 里面用响应式更新不需要像 Vue 3 那样写 <code>const a = ref<type>(default)</code> 然后用 a.value 改值，也不需要像 React/Solid 那样定义 <code>const [a, setA] = createSignal<type>(default)</code> 两个函数，一个用来获取一个用来修改。Svelte 直接像原生 JS 一样定义变量、改值就能响应式更新真的好舒服！\n\n<span class=\"spoiler\"><span>其实一直很喜欢 Vue Class Component 写法也是因为它直接用原生 ts class 的写法就能实现所有功能，可惜更新 Vue3 的时候 Class Component 的官方支持被砍了，换成了他们自己的别扭写法...</span></span>",
-    "views": 134,
+    "views": 135,
     "forwards": 4,
     "media_group_id": 13566330489419853,
     "images": [
@@ -36351,7 +36351,7 @@
     "id": 2716,
     "date": "2023-10-02T07:42:31",
     "text": "<a href=\"##琴\">#琴</a> 想把这个马林巴琴的源码公布出来，但是感觉还有好多地方要完善... 先列一个 todo list 吧\n\n1. 打印一个固定架让它可以从这个桌子上挪开（现在是四根木板用粘土胶粘在桌子上... 中间没有任何固定）\n2. 把容易松、容易受干扰的杜邦线换掉\n3. 重新打印 Mux 的 PCB 解决供电路不够粗导致一个 5v 电源带不动的问题\n4. 和 UofT 音乐部门联动录制马林巴音源，把音源和声音逻辑写进固件里面\n5. 练琴、录一段介绍视频\n\n呜 还有好多事情要做 quq",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "reply": {
       "id": 2050,
@@ -36362,14 +36362,14 @@
     "id": 2717,
     "date": "2023-10-02T09:37:35",
     "text": "凌晨五点半了还没睡... 还有 5.5h 就要去考试了，加上昨天也只睡了 5h... 害怕<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0
   },
   {
     "id": 2718,
     "date": "2023-10-02T17:23:33",
     "text": "考完了！Intro AI 课好简单\n\n昨天晚上原本想熬夜把翘的三周课的录像补上，但是发现这门居然只有 1/3 的课有录像... 然后聊聊给我推荐了 UC Berkeley 的 CS188 录像发现和这门课讲的完全一致 🌚 几小时二倍速补完了 <a href=\"https://www.youtube.com/@CS-bd2lz\">https://www.youtube.com/@CS-bd2lz</a>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "reply": {
       "id": 2717,
@@ -36380,7 +36380,7 @@
     "id": 2719,
     "date": "2023-10-03T22:44:32",
     "text": "🌚",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "images": [
       {
@@ -36399,7 +36399,7 @@
     "id": 2720,
     "date": "2023-10-04T05:31:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n是猪猪做的肉沫意面！\n\n原来意面也可以多花点时间做得很精致，发现我之前做的都是加热肉丸和酱和面倒到一起就好的方便意面 <i class=\"custom-emoji\" emoji-src=\"emoji/5442928637365985920.tgs\">😮‍💨</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "images": [
       {
@@ -36544,7 +36544,7 @@
     "id": 2727,
     "date": "2023-10-05T11:32:14",
     "text": "呜呜呜 预计 30 分钟结果花了快七个小时才弄完，都怪这个灵车 cx4 网卡和灵车 10G 电转光模块...\n\n记录一下今天踩的坑",
-    "views": 104,
+    "views": 105,
     "forwards": 2,
     "media_group_id": 13572044278561989,
     "images": [
@@ -36578,14 +36578,14 @@
     "id": 2729,
     "date": "2023-10-06T04:00:47",
     "text": "呜 刚才习惯性问聊聊我们今天晚上吃什么，然后才想起来现在已经凌晨 0 点了而且我们已经吃过晚饭了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n作息完全被打乱了... 呜",
-    "views": 79,
+    "views": 80,
     "forwards": 0
   },
   {
     "id": 2730,
     "date": "2023-10-06T15:26:22",
     "text": "UofT 的演讲设备好棒，按一个按钮就能录屏录像上传哇\n\n<span class=\"spoiler\"><span>...所以这么方便为什么还有教授不录课 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</span></span></i>",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "images": [
       {
@@ -37496,7 +37496,7 @@
     "id": 2796,
     "date": "2023-10-27T04:59:50",
     "text": "草 翻到了 2017 年前后开的 Moecraft MC 服务器和 HyUltimatePlugin 的珍贵录像\n\n<del>过了太久以至于看着不会觉得尴尬了</del>",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13587062323576197,
     "images": [
@@ -37526,7 +37526,7 @@
     "id": 2798,
     "date": "2023-10-27T05:26:14",
     "text": "在翻以前的 Adobe Pr 项目目录... 当时钢琴弹得好好，现在已经完全不会这首了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n这首曲子是甘茶の音楽工房的《<a href=\"https://soundcloud.com/setsuki-tq-986705864/amacha-ochiba\">落ち葉</a>》，想起来最早是从凝冰剑斩的视觉小说好像是《<a href=\"https://store.steampowered.com/app/925440/__Floral_Aroma_in_the_Shrine/\">神社的百合香</a>》里面听到的，凝冰的剧情都好甜蜜又好折磨，现在听到这首歌仿佛能感受到回忆中的感觉...\n\n那时候好喜欢玩会让自己哭的游戏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "files": [
       {
@@ -38213,7 +38213,7 @@
     "id": 2849,
     "date": "2023-11-06T15:59:59",
     "text": "看到对面楼有人把超市的购物车推回家了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "images": [
       {
@@ -38232,7 +38232,7 @@
     "id": 2850,
     "date": "2023-11-06T18:59:56",
     "text": "草 网速快到下一个种子然后显示网速的 runcat 插件 int32 溢出了 🌚\n\n然后去开了一个真的是我开过的最凡尔赛的 issue 🌚",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -38251,7 +38251,7 @@
     "id": 2851,
     "date": "2023-11-07T09:13:15",
     "text": "Jun 生日快乐！\n\n今天和前任 Jun 的朋友们去吃了甜甜奶酪蛋糕然后去她现任 Jamie 家里玩了。Jun 今天的打扮加上双马尾好可爱，是不是好像一个十五岁的小女孩！\n\n去绕着 Jamie 家旁边的池塘和小路摸黑走了一圈，抬头就能看到星星诶，好久没有在这么自然的地方散步了，好怀念。想起来高中在麻省好喜欢下楼在小溪旁边散步，总是可以让所有烦恼消失。\n\n绕回去的路上用手机拍了几张长曝光，ISO800 30s 拍出来还挺好看的，第二张居然同时排到了三架飞机的轨道！看到照片才发现诶 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n呜 好想以后在没人的地方买一块这样的地自己搭房子 qwq",
-    "views": 49,
+    "views": 51,
     "forwards": 1,
     "media_group_id": 13594787165473069,
     "images": [
@@ -38321,7 +38321,7 @@
     "id": 2857,
     "date": "2023-11-08T23:16:10",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n叉烧肉！叉烧蛋！",
-    "views": 39,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
@@ -38340,7 +38340,7 @@
     "id": 2858,
     "date": "2023-11-09T02:16:50",
     "text": "发现 UCB CS188 从 2016 到 2023 加了好多新东西... 原来这些课程内容真的会跟着学术界发展 evolve\n\n<a href=\"https://inst.eecs.berkeley.edu/~cs188/sp23/\">https://inst.eecs.berkeley.edu/~cs188/sp23/</a>",
-    "views": 30,
+    "views": 39,
     "forwards": 1,
     "reply": {
       "id": 2718,
@@ -38351,7 +38351,7 @@
     "id": 2859,
     "date": "2023-11-09T02:35:00",
     "text": "草 不仅课程内容在进步，呈现方式也在进步。发现同一个演示里 2016 年的红绿蓝在 2023 改成了红黄蓝，为了更好 accommodate 红绿色盲吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n后悔没申 UCB 了，似乎 UCB CS 很多课都有每年的视频和教材归档，选课之前就知道这门课会学什么... 相比之下 UofT 同样的 intro AI 课甚至作业要求 handout 都不让公开 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 22,
+    "views": 33,
     "forwards": 1,
     "media_group_id": 13595978402041797,
     "images": [
