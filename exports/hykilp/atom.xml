@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-11-28T08:08:53.850444+00:00</updated>
+  <updated>2023-11-28T10:07:34.298547+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2950</id>
+    <title>小桂桂的回忆录 📒 #2950</title>
+    <updated>2023-11-28T08:19:38+00:00</updated>
+    <content>&lt;p&gt;写了一个扫坏道脚本，会用 1gb 区块估算速度和剩余时间、可以随时停下从断点继续、停止扫描的时候会等这个区块扫完以防遗留、会把所有坏道和扫描历史记录成 Json、自动做地址换算转成要屏蔽的 LBA&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2950" rel="alternate"/>
+  </entry>
   <entry>
     <id>2949</id>
     <title>小桂桂的回忆录 📒 #2949</title>
