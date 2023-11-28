@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Nov 2023 02:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 04:09:09 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #2949</title>
+      <link>https://aza.moe/life?post=2949</link>
+      <description>&lt;p&gt;好消息是数据都备份出去了，而且 scrub 一遍发现数据只有 28 个 4kb 块出无法恢复的错。坏消息是剩下的问题我也不知道怎么修，现在 Reallocated Sector 还在不断增加，而且 scrub 之后 btrfs check 还有无数个报错...&lt;/p&gt;
+&lt;p&gt;目前在进行一些超级慢的坏道扫描，从 SMART error log 看来坏道似乎是比较连续的，地址也很接近，希望可以屏蔽一些坏道解决。&lt;/p&gt;
+&lt;p&gt;从国内买了一块新的二手 14TB 盘，暂时打算等新盘到之前继续用，希望不会在新盘到之前坏掉（x）&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;为什么别人通电两年没问题的盘到我手里不到一年就坏成这样了呢？突然在想会不会和使用习惯有关... &lt;del&gt;我我服务器离桌子很近而且我 ADHD 经常抖腿，会不会是抖腿震到硬盘了&lt;/del&gt; &lt;/span&gt;&lt;/span&gt;&lt;span class="spoiler"&gt;&lt;span&gt;&lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2949</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #2948</title>
       <link>https://aza.moe/life?post=2948</link>
