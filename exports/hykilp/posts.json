@@ -39015,7 +39015,7 @@
     "id": 2908,
     "date": "2023-11-18T23:26:36",
     "text": "CTF 大成功！解出了五道题拿了 2377 分，团队总共拿了 3316 分，排在了加拿大第九和多伦多第四 qwq\n\n这次居然还有 LLM prompt injection 的题目诶，好厉害\n\n唯一的小小遗憾就是为了参加紧接着的 one among us 折纸活动提前走了二十分钟，接下来的工作面试环节也翘掉了（不过也已经决定这个暑假不实习了所以没关系！<i class=\"custom-emoji\" emoji-src=\"emoji/5444868274661629514.tgs\">☕️</i>\n\n以及这次的时间管理好迷幻，一共三个小时的比赛花了一个小时才连上比赛的 VPN（这里又要怪 Linux，旁边用 macOS Win 的人点两个按钮就连上了）然后剩下一个半小时做完了五道题 🌚 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\nwriteup 之后再写吧，睡觉睡觉 😴",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "media_group_id": 13602799972445293,
     "images": [
@@ -39066,7 +39066,7 @@
   {
     "id": 2910,
     "date": "2023-11-19T01:17:09",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "files": [
       {
@@ -39470,7 +39470,7 @@
     "id": 2936,
     "date": "2023-11-25T05:07:19",
     "text": "好耶！今天豆腐来玩，和豆腐一起给这个读卡器写了固件和驱动，现在可以刷 presto 登游戏了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n*支持任何 nfc 卡哦，不是 felica 的话会被转换成 felica 格式 qwq",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "files": [
       {
@@ -39492,7 +39492,7 @@
     "id": 2937,
     "date": "2023-11-25T09:36:07",
     "text": "RGB！",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 2936,
@@ -39697,7 +39697,7 @@
     "id": 2949,
     "date": "2023-11-28T02:56:36",
     "text": "好消息是数据都备份出去了，而且 scrub 一遍发现数据只有 28 个 4kb 块出无法恢复的错。坏消息是剩下的问题我也不知道怎么修，现在 Reallocated Sector 还在不断增加，而且 scrub 之后 btrfs check 还有无数个报错...\n\n目前在进行一些超级慢的坏道扫描，从 SMART error log 看来坏道似乎是比较连续的，地址也很接近，希望可以屏蔽一些坏道解决。\n\n从国内买了一块新的二手 14TB 盘，暂时打算等新盘到之前继续用，希望不会在新盘到之前坏掉（x）\n\n<span class=\"spoiler\"><span>为什么别人通电两年没问题的盘到我手里不到一年就坏成这样了呢？突然在想会不会和使用习惯有关... <del>我我服务器离桌子很近而且我 ADHD 经常抖腿，会不会是抖腿震到硬盘了</del> </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</span></span></i>",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 2944,
@@ -39720,7 +39720,7 @@
     "id": 2950,
     "date": "2023-11-28T08:19:38",
     "text": "写了一个扫坏道脚本，会用 1gb 区块估算速度和剩余时间、可以随时停下从断点继续、停止扫描的时候会等这个区块扫完以防遗留、会把所有坏道和扫描历史记录成 Json、自动做地址换算转成要屏蔽的 LBA",
-    "views": 51,
+    "views": 54,
     "forwards": 3,
     "media_group_id": 13609276631025917,
     "images": [
