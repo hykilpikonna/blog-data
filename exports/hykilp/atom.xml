@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-01T06:09:52.878599+00:00</updated>
+  <updated>2023-12-01T08:07:56.780195+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2958</id>
+    <title>小桂桂的回忆录 📒 #2958</title>
+    <updated>2023-12-01T07:30:27+00:00</updated>
+    <content>&lt;p&gt;说起来现在 &lt;a href="aza.moe"&gt;aza.moe&lt;/a&gt; 这个主页还是部署在 github pages 来着，之前还害怕会不会总共大小超过 1GB 就要重构了，因为 github 规则上写允许的最大部署就是 1GB&lt;/p&gt;
+&lt;p&gt;结果原来只是警告一下“超过了可能会部署失败”但是实际上完全没问题 &lt;i class="custom-emoji" emoji-src="emoji/6323315689444607430.webp"&gt;☁️&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2958" rel="alternate"/>
+  </entry>
   <entry>
     <id>2957</id>
     <title>小桂桂的回忆录 📒 #2957</title>

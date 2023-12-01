@@ -36479,7 +36479,7 @@
     "id": 2724,
     "date": "2023-10-04T22:18:28",
     "text": "多伦多.jpg 🤯",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "reply": {
       "id": 2723,
@@ -39596,7 +39596,7 @@
     "id": 2944,
     "date": "2023-11-26T21:31:46",
     "text": "悲 二月份买的盘现在已经有 12056 个 reallocated sector 了... 正在排错",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "reply": {
       "id": 1810,
@@ -39620,14 +39620,14 @@
     "id": 2945,
     "date": "2023-11-27T11:04:19",
     "text": "哭哭 整天都用来修硬盘了，结果明天考试凌晨六点还没复习完...",
-    "views": 70,
+    "views": 71,
     "forwards": 1
   },
   {
     "id": 2946,
     "date": "2023-11-27T12:28:12",
     "text": "算了不补课了，这个点尝试理解 Hidden Markov filtering 真的完全看不懂... 还有 5h 考试那就睡 4h 好了。\n\n今天还要给 Jun 带电钻去搬她的电视，晚上 11:59 之前要交 OS 的小作业，明天要去医院至少要 3h，然而后天中午之前要两个人写完一个能用的 Duolingo++ 移动端网页（现在只写完了登录和选择语言），周五语言学大作业，下周一共三个专业课大作业还有一个演讲...\n\n好累好累好累",
-    "views": 72,
+    "views": 78,
     "forwards": 1,
     "reply": {
       "id": 2945,
@@ -39649,7 +39649,7 @@
   {
     "id": 2947,
     "date": "2023-11-27T12:53:00",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "files": [
       {
@@ -39674,7 +39674,7 @@
     "id": 2948,
     "date": "2023-11-27T18:14:07",
     "text": "考完了！比预计的好，有被某位校友写在考场柱子上的文字暖到 qwq",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "reply": {
       "id": 2946,
@@ -39697,7 +39697,7 @@
     "id": 2949,
     "date": "2023-11-28T02:56:36",
     "text": "好消息是数据都备份出去了，而且 scrub 一遍发现数据只有 28 个 4kb 块出无法恢复的错。坏消息是剩下的问题我也不知道怎么修，现在 Reallocated Sector 还在不断增加，而且 scrub 之后 btrfs check 还有无数个报错...\n\n目前在进行一些超级慢的坏道扫描，从 SMART error log 看来坏道似乎是比较连续的，地址也很接近，希望可以屏蔽一些坏道解决。\n\n从国内买了一块新的二手 14TB 盘，暂时打算等新盘到之前继续用，希望不会在新盘到之前坏掉（x）\n\n<span class=\"spoiler\"><span>为什么别人通电两年没问题的盘到我手里不到一年就坏成这样了呢？突然在想会不会和使用习惯有关... <del>我我服务器离桌子很近而且我 ADHD 经常抖腿，会不会是抖腿震到硬盘了</del> </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</span></span></i>",
-    "views": 67,
+    "views": 69,
     "forwards": 0,
     "reply": {
       "id": 2944,
@@ -39772,14 +39772,14 @@
     "id": 2954,
     "date": "2023-11-29T11:08:01",
     "text": "我：想吃披萨🍕，明天我们烤披萨吧\n聊聊：但是我们没有披萨怎么烤\n我：自己和面自己做！\n聊聊：那我们也没有披萨的食材呀\n我：我们有菠萝罐头和淀粉香肠 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n聊聊：💢💢（大声哀嚎）",
-    "views": 66,
+    "views": 67,
     "forwards": 0
   },
   {
     "id": 2955,
     "date": "2023-11-30T05:12:53",
     "text": "不久前朋友拿到了最新最热 maimai 1.40 BUDDiES 的数据，花了一段时间拆包脱壳终于能启动了，接下来只需要给 AquaDX 做兼容...\n\n不过我的那台 ADX3 手台还有 17 天才会到，所以时间还很够，<del>等考完期末 1.40 烂大街了肯定就有别人写好服务器了吧</del> qwq\n\n逆向的 writeup 在这里： <a href=\"https://aza.moe/blog?post=2023-11-30-Maimai-Reversing\">https://aza.moe/blog?post=2023-11-30-Maimai-Reversing</a>",
-    "views": 65,
+    "views": 66,
     "forwards": 3,
     "images": [
       {
@@ -39798,18 +39798,41 @@
     "id": 2956,
     "date": "2023-11-30T09:27:52",
     "text": "想开坑做一些街机 mod 让手游的谱也能在街机上玩、还原街机手感\n\n比如把 pjsk 和 bang 移植到 chuni、把 deemo 和 pianista 移植到 nos、把 lanota 和 rotaeno 移植到 wacca、把 chrono circle 和<del>舞立方</del>移植到 mai、<del>把 arcaea... 算了这个有点难</del>\n\n感觉应该可行，<del>但是会不会同时 piss off 至少九个公司</del>",
-    "views": 58,
+    "views": 59,
     "forwards": 1
   },
   {
     "id": 2957,
     "date": "2023-11-30T22:51:10",
     "text": "那天听猫猫球的建议吃了 DPH 之后胃好了很多，果然是过敏，不过到现在快两天了还在隐隐约约地胀痛... 不知道什么时候会完全好\n\n...以及吃了 DPH 好容易困困，白天睡到下午四点起来写点作业然后现在还想睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6323184405179270958.webp\">😪</i>",
-    "views": 38,
+    "views": 47,
     "forwards": 0,
     "reply": {
       "id": 2952,
       "text": "哭哭 对虾过敏，但是今天聊聊叫炸虾没忍住就吃了，结果现在胃痛到想要去 ER <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n明明之前吃虾只会拉肚子就觉得也许没事的... 结果这次是持续的剧烈胃痛，已经从十一点疼到现在两个小时了"
     }
+  },
+  {
+    "id": 2958,
+    "date": "2023-12-01T07:30:27",
+    "text": "说起来现在 <a href=\"aza.moe\">aza.moe</a> 这个主页还是部署在 github pages 来着，之前还害怕会不会总共大小超过 1GB 就要重构了，因为 github 规则上写允许的最大部署就是 1GB\n\n结果原来只是警告一下“超过了可能会部署失败”但是实际上完全没问题 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
+    "views": 28,
+    "forwards": 0,
+    "reply": {
+      "id": 2955,
+      "text": "不久前朋友拿到了最新最热 maimai 1.40 BUDDiES 的数据，花了一段时间拆包脱壳终于能启动了，接下来只需要给 AquaDX 做兼容...\n\n不过我的那台 ADX3 手台还有 17 天才会到，所以时间还很够，<del>等考完期末 1.40 烂大街了肯定就有别人写好服务器了吧</del> qwq\n\n逆向的 writeup 在这里： <a href=\"https://aza.moe/blog?post=2023-11-30-Maimai-Reversing\">https://aza.moe/blog?post=2023-11-30-Maimai-Reversing</a>"
+    },
+    "images": [
+      {
+        "width": 1280,
+        "height": 1251,
+        "date": "2023-12-01T07:30:26",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-01_07-30-26.jpg",
+        "url": "media/2958.jpg",
+        "size": 71347,
+        "thumb": "media/2958.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
