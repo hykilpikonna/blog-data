@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-08T20:09:45.575547+00:00</updated>
+  <updated>2023-12-08T22:10:09.749896+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2991</id>
+    <title>小桂桂的回忆录 📒 #2991</title>
+    <updated>2023-12-08T21:01:29+00:00</updated>
+    <content>&lt;p&gt;今天为什么没有睡觉：想要下单好再睡，结果下单和下单之后的一段时间里发现了无数个问题导致需要直接把订单取消了&lt;/p&gt;
+&lt;p&gt;首先是 SMT 贴 ESP32-S3-WROOM-1 非常非常贵（+￥155）因为它不能用经济型 SMT，结果总计下来打样两张板子一共要 ￥450。而且其实这个 IO 板完全不需要 S3 这么好的 MCU，想改成 RP2040 或者 C3。&lt;/p&gt;
+&lt;p&gt;然后发现我选的插件振荡器没货，改 PCB 改成了标准 SMT 振荡器。然后发现焊接背面的 USB A 口要再多加 ￥100（明明是三个有手都能焊的 USB A 口...）总之亏死了但是还是下单了。&lt;/p&gt;
+&lt;p&gt;然后发现我 PCB 上读卡器板接口的其中一个 pinout 反了，赶紧取消订单，然后发现已经凌晨十点了（？）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2991" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>2990</id>
+    <title>小桂桂的回忆录 📒 #2990</title>
+    <updated>2023-12-08T20:51:42+00:00</updated>
+    <content>&lt;p&gt;洗碗机修好了！&lt;/p&gt;
+&lt;p&gt;物业拆开来看了一下发现水泵里面卡了一小片骨头 &lt;i class="custom-emoji" emoji-src="emoji/6323267916523374069.webp"&gt;🥺&lt;/i&gt; 原来是这么简单的问题为什么我没拆开自己看看（x）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2990" rel="alternate"/>
+  </entry>
   <entry>
     <id>2989</id>
     <title>小桂桂的回忆录 📒 #2989</title>
