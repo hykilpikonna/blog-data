@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-08T10:08:13.602186+00:00</updated>
+  <updated>2023-12-08T12:09:02.883307+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>2986</id>
+    <title>小桂桂的回忆录 📒 #2986</title>
+    <updated>2023-12-08T11:29:16+00:00</updated>
+    <content>&lt;p&gt;把 wacca 控制器的 IO4 板子画好了！&lt;/p&gt;
+&lt;p&gt;四个按钮分别是 Test, Service, Coin, Vol+, Vol-，带一个 PN532 读卡器的对接口，把用来接控制器的 USB hub 也做进去了，然后这些都是用 ESP32-S3 控制（好像有点 overkill 但是算了hhh&lt;/p&gt;
+&lt;p&gt;（然后花一个小时调丝印 🌚 希望生产出来丝印也能这么好看，毕竟控制器架子侧边的 PC 板是透明的&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=2986" rel="alternate"/>
+  </entry>
   <entry>
     <id>2985</id>
     <title>小桂桂的回忆录 📒 #2985</title>
