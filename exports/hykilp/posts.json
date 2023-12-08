@@ -37568,7 +37568,7 @@
     "id": 2800,
     "date": "2023-10-27T16:38:19",
     "text": "<a href=\"##omnicade\">#omnicade</a>\n《Flower》一首歌五个游戏的手元混剪\n\n是音游窝在厨房的临时 setup，好想赶快把框体搭起来呀 qwq",
-    "views": 113,
+    "views": 114,
     "forwards": 2,
     "reply": {
       "id": 2765,
@@ -39816,7 +39816,7 @@
     "id": 2958,
     "date": "2023-12-01T07:30:27",
     "text": "说起来现在 <a href=\"aza.moe\">aza.moe</a> 这个主页还是部署在 github pages 来着，之前还害怕会不会总共大小超过 1GB 就要重构了，因为 github 规则上写允许的最大部署就是 1GB\n\n结果原来只是警告一下“超过了可能会部署失败”但是实际上完全没问题 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "reply": {
       "id": 2955,
@@ -39839,7 +39839,7 @@
     "id": 2959,
     "date": "2023-12-01T20:31:51",
     "text": "呜 昨天熬夜写作业熬到凌晨八点，现在迷迷糊糊躺在床上听着<del>聊聊打字_asmr.wav</del>，感觉好好听被催眠了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 2,
     "images": [
       {
@@ -40121,7 +40121,7 @@
     "id": 2978,
     "date": "2023-12-06T11:24:22",
     "text": "把设计课的演讲 Demo 视频剪好交上去了！\n\n这个课挺恐怖的，给我们三周做用户调查，两周做纸质原型，一周评估纸原型，然后一周时间把整个能用的 app 做出来 🌚\n\n结果四个人一周还真的做出来了一个有点能用的 demo，而且有些功能效果还不错诶... 不过原本打算做增强 duolingo 的浏览器插件来着，但是因为一周好短不想踩新坑就改成了熟悉的 react app（x）\n\n<a href=\"https://youtu.be/8XwH3I_qGZ4\">视频在这里</a>感兴趣的话可以来看看 qwq 真的有被现在的 AI 语音能力震撼到\n\n接下来还剩下这门课的报告和 384 AI 的大作业...",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13614894897248453,
     "images": [
@@ -40151,7 +40151,7 @@
     "id": 2980,
     "date": "2023-12-06T11:36:02",
     "text": "来聊聊 AI 震撼...\n\n设计课这个项目里有些功能要语音识别，但是测试遇到了一个很奇妙的 bug——说日语有机率出罗马音，还有机率被翻译成英文？？\n\n排查之后发现把模型从 whisper-v2 换成 v3 就可以正常识别日语了。但是这样难道是说之前 v2 的数据集里日语配日语的标注数据少所以它就自己学会了翻译嘛？！而且翻译得还是对的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n大模型的这种吃到什么数据就能学会什么的能力真的好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 51,
+    "views": 54,
     "forwards": 1,
     "media_group_id": 13614900498972029,
     "images": [
@@ -40186,7 +40186,7 @@
     "id": 2982,
     "date": "2023-12-07T05:28:14",
     "text": "还剩下最后一天期末作业就要肝完了！\n\n（虽然之后还有期末考试但是考试排得更松一点反而不会这么累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 50,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -40205,11 +40205,30 @@
     "id": 2983,
     "date": "2023-12-08T01:10:14",
     "text": "全都肝完了！好耶\n\n电报登回来啦",
-    "views": 35,
+    "views": 42,
     "forwards": 0,
     "reply": {
       "id": 2982,
       "text": "还剩下最后一天期末作业就要肝完了！\n\n（虽然之后还有期末考试但是考试排得更松一点反而不会这么累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>"
     }
+  },
+  {
+    "id": 2984,
+    "date": "2023-12-08T03:46:26",
+    "text": "今早的雪 qwq\n\n上次窗外变得白白一片还是一年前，有点激动（不过可惜白天就融化了没玩到雪",
+    "views": 21,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2023-12-08T03:46:25",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-08_03-46-25.jpg",
+        "url": "media/2984.jpg",
+        "size": 843273,
+        "thumb": "media/2984.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
