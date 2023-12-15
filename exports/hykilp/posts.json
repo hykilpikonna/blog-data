@@ -1777,7 +1777,7 @@
     "id": 164,
     "date": "2021-11-04T05:16:02",
     "text": "申请到 extension 啦，到周五。不过其实我也没有理由 ddl 两天前才开始写... 明明九月三十号就公布数据了，我有两个月的时间写它",
-    "views": 46,
+    "views": 47,
     "forwards": 0,
     "reply": {
       "id": 162,
@@ -40316,7 +40316,7 @@
     "id": 2991,
     "date": "2023-12-08T21:01:29",
     "text": "今天为什么没有睡觉：想要下单好再睡，结果下单和下单之后的一段时间里发现了无数个问题导致需要直接把订单取消了\n\n首先是 SMT 贴 ESP32-S3-WROOM-1 非常非常贵（+￥155）因为它不能用经济型 SMT，结果总计下来打样两张板子一共要 ￥450。而且其实这个 IO 板完全不需要 S3 这么好的 MCU，想改成 RP2040 或者 C3。\n\n然后发现我选的插件振荡器没货，改 PCB 改成了标准 SMT 振荡器。然后发现焊接背面的 USB A 口要再多加 ￥100（明明是三个有手都能焊的 USB A 口...）总之亏死了但是还是下单了。\n\n然后发现我 PCB 上读卡器板接口的其中一个 pinout 反了，赶紧取消订单，然后发现已经凌晨十点了（？）",
-    "views": 64,
+    "views": 65,
     "forwards": 1,
     "media_group_id": 13616554316131261,
     "images": [
@@ -40360,7 +40360,7 @@
     "id": 2994,
     "date": "2023-12-09T19:13:52",
     "text": "第二个版本把 S3-wroom 里面的 MCU 和晶振和闪存画出来了，还加了 jtag 调试接口。下单啦，省下了 ￥155\n\n希望它工作 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 64,
+    "views": 66,
     "forwards": 1,
     "reply": {
       "id": 2991,
@@ -40384,7 +40384,7 @@
     "id": 2995,
     "date": "2023-12-09T19:20:24",
     "text": "大号蛋挞模（？）",
-    "views": 69,
+    "views": 71,
     "forwards": 1,
     "reply": {
       "id": 2886,
@@ -40407,7 +40407,7 @@
     "id": 2996,
     "date": "2023-12-10T22:43:27",
     "text": "spoiler: r18（？）",
-    "views": 97,
+    "views": 98,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -40431,7 +40431,7 @@
     "id": 2997,
     "date": "2023-12-11T06:09:30",
     "text": "<a href=\"##dump\">#dump</a> GRS Montreal 的所有公开文件（信息手册/填表）",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "files": [
       {
@@ -40448,7 +40448,7 @@
     "id": 2998,
     "date": "2023-12-11T17:21:27",
     "text": "发现我的三场考试一场在 TC 宿舍，一场在 Knox 教堂，一场在教学楼 🤯\n\nUofT 真的是人太多了，Exam Center 排不到我们就随便选地点吗 (╯’ – ‘)╯︵ ┻━┻",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -40467,7 +40467,7 @@
     "id": 2999,
     "date": "2023-12-11T19:34:34",
     "text": "pd/kg 是个什么单位\n\n<del>我的体重是 56 pd/kg</del>",
-    "views": 64,
+    "views": 65,
     "forwards": 1,
     "images": [
       {
@@ -40486,7 +40486,7 @@
     "id": 3002,
     "date": "2023-12-11T21:31:24",
     "text": "鱼塔寄的盒送到了，收到了一封夹着枫叶的信和鱼塔的头像胸针，好开心 qwq\n\n感谢鱼塔的祝福 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 1,
     "media_group_id": 13618642278649533,
     "images": [
@@ -40556,7 +40556,7 @@
     "id": 3005,
     "date": "2023-12-12T10:27:34",
     "text": "这个支架设计好之后先给土豆订了一份想让她帮忙验证一下能不能成功拼起来，今天连麦和土豆和 DV 一起试着拼了结果果然遇到了这些问题：\n\n1. 直角件太长了，两个 28mm 直角件加起来超过了中间 50mm 支柱的长度，换隐形连接件了\n2. 螺丝头太大，三通件插进去一个螺丝就插不进去第二个了\n3. 忘记买旋转 T 螺母（悲）\n\n总之今天拼了大概 1/3，写了一些迫真宜家拼装教程，等要补的零件到了再继续啦。感谢土豆和 DV 帮忙 qwq",
-    "views": 57,
+    "views": 58,
     "forwards": 1,
     "media_group_id": 13619014837220061,
     "images": [
@@ -40621,14 +40621,14 @@
     "id": 3010,
     "date": "2023-12-12T23:12:17",
     "text": "去考 384 AI 期末了 qwq",
-    "views": 60,
+    "views": 61,
     "forwards": 0
   },
   {
     "id": 3011,
     "date": "2023-12-13T03:41:41",
     "text": "考完了，考场好好看！",
-    "views": 87,
+    "views": 88,
     "forwards": 1,
     "reply": {
       "id": 3010,
@@ -40651,14 +40651,14 @@
     "id": 3012,
     "date": "2023-12-13T06:26:23",
     "text": "没有力气了 睡睡。今天除了考试什么都没做 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 58,
+    "views": 59,
     "forwards": 0
   },
   {
     "id": 3013,
     "date": "2023-12-13T22:28:31",
     "text": "好耶，我的第一篇纸过审了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢 MSR 音频组的三位导师引领这次的研究 qwq\n\n四月要去韩国演讲耶，在想要不要借机在那之前学一些韩语... 不过四个月感觉会好快\n\n（以及和明年考试时间完全撞上了哇，还需要联系一下教授改考试时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 71,
+    "views": 72,
     "forwards": 2,
     "images": [
       {
@@ -40677,14 +40677,14 @@
     "id": 3014,
     "date": "2023-12-14T17:17:11",
     "text": "悲 昨天画板子画到今早九点才睡，然后现在感冒了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 45,
+    "views": 50,
     "forwards": 0
   },
   {
     "id": 3015,
     "date": "2023-12-14T23:54:40",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n今天聊聊做的五花肉炒卷心菜和昨天我做的同一道菜，聊聊做的比我好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 38,
+    "views": 44,
     "forwards": 0,
     "media_group_id": 13620784645817677,
     "images": [
@@ -40719,5 +40719,62 @@
         "thumb": "media/3017.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 3018,
+    "date": "2023-12-15T07:36:37",
+    "text": "感冒好难受，还是断断续续补完了六个小时课，希望现在睡 9h 明天能好一点... 希望不会影响明天下午两点的考试",
+    "views": 27,
+    "forwards": 0,
+    "reply": {
+      "id": 3014,
+      "text": "悲 昨天画板子画到今早九点才睡，然后现在感冒了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>"
+    },
+    "images": [
+      {
+        "width": 388,
+        "height": 628,
+        "date": "2023-12-15T07:36:37",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-15_07-36-37.jpg",
+        "url": "media/3018.jpg",
+        "size": 21635,
+        "thumb": "media/3018.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3019,
+    "date": "2023-12-15T07:57:54",
+    "text": "因为想要更早发现问题，把 PCB 寄到加拿大之前先让 Asuna 帮忙做了测试 qwq\n\n前两天板子出厂了，今天刚找到时间一起测试。感觉结果意外的好，除了 U0 的 TX RX 接反了导致串口不工作以外其他的都工作 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（然后测试的时候发现居然不用 U0 直接用 USB CDC 也可以刷固件输出串口数据，所以下一个版本直接把串口去掉就好啦\n\n总之应该是我打过的错误最少的板子了，感谢群友帮忙检查也感谢 Asuna 帮忙测试 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
+    "views": 20,
+    "forwards": 0,
+    "media_group_id": 13621016593398765,
+    "images": [
+      {
+        "width": 533,
+        "height": 318,
+        "date": "2023-12-15T07:57:51",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-15_07-57-51.jpg",
+        "url": "media/3019.jpg",
+        "size": 63711,
+        "thumb": "media/3019.jpg_thumb.jpg"
+      },
+      {
+        "width": 603,
+        "height": 1280,
+        "date": "2023-12-15T07:57:53",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-15_07-57-53.jpg",
+        "url": "media/3020.jpg",
+        "size": 149513,
+        "thumb": "media/3020.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 2994,
+      "text": "第二个版本把 S3-wroom 里面的 MCU 和晶振和闪存画出来了，还加了 jtag 调试接口。下单啦，省下了 ￥155\n\n希望它工作 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>"
+    }
   }
 ]

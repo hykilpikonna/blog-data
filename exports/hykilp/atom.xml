@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-15T06:08:53.811825+00:00</updated>
+  <updated>2023-12-15T08:08:44.892041+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3019</id>
+    <title>小桂桂的回忆录 📒 #3019</title>
+    <updated>2023-12-15T07:57:54+00:00</updated>
+    <content>&lt;p&gt;因为想要更早发现问题，把 PCB 寄到加拿大之前先让 Asuna 帮忙做了测试 qwq&lt;/p&gt;
+&lt;p&gt;前两天板子出厂了，今天刚找到时间一起测试。感觉结果意外的好，除了 U0 的 TX RX 接反了导致串口不工作以外其他的都工作 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt;（然后测试的时候发现居然不用 U0 直接用 USB CDC 也可以刷固件输出串口数据，所以下一个版本直接把串口去掉就好啦&lt;/p&gt;
+&lt;p&gt;总之应该是我打过的错误最少的板子了，感谢群友帮忙检查也感谢 Asuna 帮忙测试 &lt;i class="custom-emoji" emoji-src="emoji/6114040285505783709.webm"&gt;🙏&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3019" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>3018</id>
+    <title>小桂桂的回忆录 📒 #3018</title>
+    <updated>2023-12-15T07:36:37+00:00</updated>
+    <content>&lt;p&gt;感冒好难受，还是断断续续补完了六个小时课，希望现在睡 9h 明天能好一点... 希望不会影响明天下午两点的考试&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3018" rel="alternate"/>
+  </entry>
   <entry>
     <id>3015</id>
     <title>小桂桂的回忆录 📒 #3015</title>
