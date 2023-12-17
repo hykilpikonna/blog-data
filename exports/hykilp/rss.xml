@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 17 Dec 2023 16:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2023 18:09:27 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3030</title>
+      <link>https://aza.moe/life?post=3030</link>
+      <description>&lt;p&gt;&lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 今天学到了原来 TTL、Serial、UART、RS232、RS485 都是不同的东西&lt;/p&gt;
+&lt;p&gt;TTL 是一种用 0~Vcc 正电压表示 bit 的方式，UART 指的是有 Rx 和 Tx 线对接的硬件传输协议，Serial 是软件协议，RS232 是一种用 -Vcc 到 Vcc 的正负电压的硬件传输协议，RS485 是一种用正负差分线的硬件传输协议&lt;/p&gt;
+&lt;p&gt;&lt;a href="##TIL"&gt;#TIL&lt;/a&gt; #2 原来 ESP32 即使支持 Serial 支持 CAN bus，收发 RS232、RS485、CAN 也都是需要单独的 transceiver ic 的&lt;/p&gt;</description>
+      <guid isPermaLink="false">3030</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3027</title>
       <link>https://aza.moe/life?post=3027</link>

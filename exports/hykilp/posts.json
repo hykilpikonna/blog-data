@@ -40724,7 +40724,7 @@
     "id": 3018,
     "date": "2023-12-15T07:36:37",
     "text": "感冒好难受，还是断断续续补完了六个小时课，希望现在睡 9h 明天能好一点... 希望不会影响明天下午两点的考试",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "reply": {
       "id": 3014,
@@ -40781,7 +40781,7 @@
     "id": 3021,
     "date": "2023-12-15T16:47:44",
     "text": "起床了 感觉不是一个可以考三个小时期末的状态，但是也只能试试了",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "reply": {
       "id": 3018,
@@ -40792,7 +40792,7 @@
     "id": 3022,
     "date": "2023-12-15T17:08:10",
     "text": "呜呜",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "images": [
       {
@@ -40811,7 +40811,7 @@
     "id": 3023,
     "date": "2023-12-15T19:38:58",
     "text": "决定把考试 defer 到二月了...",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "reply": {
       "id": 3021,
@@ -40822,7 +40822,7 @@
     "id": 3024,
     "date": "2023-12-15T21:23:25",
     "text": "结果没去考试但是去 walk in clinic 坐着等医生等了两个小时，前台说还要再等一个小时，早知道开假条这么麻烦就去考试了... 坐在椅子上也没有得到休息",
-    "views": 52,
+    "views": 53,
     "forwards": 1,
     "reply": {
       "id": 3023,
@@ -40833,7 +40833,7 @@
     "id": 3025,
     "date": "2023-12-15T22:17:15",
     "text": "坐着干等了三个小时还花了 $30 终于开到假条了... 然后别人也考完了\n\n真的好后悔没去考试",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -40852,7 +40852,7 @@
     "id": 3026,
     "date": "2023-12-17T03:48:28",
     "text": "今天 copilot 又给我补全了什么东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 46,
+    "views": 47,
     "forwards": 0,
     "reply": {
       "id": 2811,
@@ -40875,7 +40875,7 @@
     "id": 3027,
     "date": "2023-12-17T06:19:45",
     "text": "家里的 VPS 服务器框架终于搭好了！宿主机用了 ArchLinux + VirtualBox，今天写了一个管理 VPS 的 bot，可以用来管理端口映射、自动更新 CloudFlare DDNS、进行一些蠢蠢的 PPPoE IP 转发、还有基础操作比如重启什么的\n\n现在一共有三个人预订了，目前正在稳定性测试阶段，打算圣诞节开始正式出租 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 40,
+    "views": 42,
     "forwards": 1,
     "media_group_id": 13622351883298733,
     "images": [
@@ -40908,6 +40908,25 @@
         "url": "media/3029.jpg",
         "size": 36517,
         "thumb": "media/3029.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3030,
+    "date": "2023-12-17T17:03:00",
+    "text": "<a href=\"##TIL\">#TIL</a> 今天学到了原来 TTL、Serial、UART、RS232、RS485 都是不同的东西\n\nTTL 是一种用 0~Vcc 正电压表示 bit 的方式，UART 指的是有 Rx 和 Tx 线对接的硬件传输协议，Serial 是软件协议，RS232 是一种用 -Vcc 到 Vcc 的正负电压的硬件传输协议，RS485 是一种用正负差分线的硬件传输协议\n\n<a href=\"##TIL\">#TIL</a> #2 原来 ESP32 即使支持 Serial 支持 CAN bus，收发 RS232、RS485、CAN 也都是需要单独的 transceiver ic 的",
+    "views": 42,
+    "forwards": 1,
+    "images": [
+      {
+        "width": 588,
+        "height": 308,
+        "date": "2023-12-17T17:03:00",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-17_17-03-00.jpg",
+        "url": "media/3030.jpg",
+        "size": 23366,
+        "thumb": "media/3030.jpg_thumb.jpg"
       }
     ]
   }

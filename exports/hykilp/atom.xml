@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-17T16:07:59.831144+00:00</updated>
+  <updated>2023-12-17T18:09:27.711493+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3030</id>
+    <title>小桂桂的回忆录 📒 #3030</title>
+    <updated>2023-12-17T17:03:00+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 今天学到了原来 TTL、Serial、UART、RS232、RS485 都是不同的东西&lt;/p&gt;
+&lt;p&gt;TTL 是一种用 0~Vcc 正电压表示 bit 的方式，UART 指的是有 Rx 和 Tx 线对接的硬件传输协议，Serial 是软件协议，RS232 是一种用 -Vcc 到 Vcc 的正负电压的硬件传输协议，RS485 是一种用正负差分线的硬件传输协议&lt;/p&gt;
+&lt;p&gt;&lt;a href="##TIL"&gt;#TIL&lt;/a&gt; #2 原来 ESP32 即使支持 Serial 支持 CAN bus，收发 RS232、RS485、CAN 也都是需要单独的 transceiver ic 的&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3030" rel="alternate"/>
+  </entry>
   <entry>
     <id>3027</id>
     <title>小桂桂的回忆录 📒 #3027</title>
