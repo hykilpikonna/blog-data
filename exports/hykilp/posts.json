@@ -39779,7 +39779,7 @@
     "id": 2955,
     "date": "2023-11-30T05:12:53",
     "text": "不久前朋友拿到了最新最热 maimai 1.40 BUDDiES 的数据，花了一段时间拆包脱壳终于能启动了，接下来只需要给 AquaDX 做兼容...\n\n不过我的那台 ADX3 手台还有 17 天才会到，所以时间还很够，<del>等考完期末 1.40 烂大街了肯定就有别人写好服务器了吧</del> qwq\n\n逆向的 writeup 在这里： <a href=\"https://aza.moe/blog?post=2023-11-30-Maimai-Reversing\">https://aza.moe/blog?post=2023-11-30-Maimai-Reversing</a>",
-    "views": 110,
+    "views": 111,
     "forwards": 4,
     "images": [
       {
@@ -40915,7 +40915,7 @@
     "id": 3030,
     "date": "2023-12-17T17:03:00",
     "text": "<a href=\"##TIL\">#TIL</a> 今天学到了原来 TTL、Serial、UART、RS232、RS485 都是不同的东西\n\nTTL 是一种用 0~Vcc 正电压表示 bit 的方式，UART 指的是有 Rx 和 Tx 线对接的硬件传输协议，Serial 是软件协议，RS232 是一种用 -Vcc 到 Vcc 的正负电压的硬件传输协议，RS485 是一种用正负差分线的硬件传输协议\n\n<a href=\"##TIL\">#TIL</a> #2 原来 ESP32 即使支持 Serial 支持 CAN bus，收发 RS232、RS485、CAN 也都是需要单独的 transceiver ic 的",
-    "views": 54,
+    "views": 59,
     "forwards": 1,
     "images": [
       {
