@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6921,
+    "views": 6922,
     "forwards": 177,
     "media_group_id": 13340239729731381,
     "images": [
@@ -40792,7 +40792,7 @@
     "id": 3022,
     "date": "2023-12-15T17:08:10",
     "text": "呜呜",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -40934,7 +40934,7 @@
     "id": 3031,
     "date": "2023-12-18T01:07:43",
     "text": "之前一直在用 EasyEDA，听大家说都在用 KiCad 就去试了一下，感觉 schematic 和 PCB 的手动走线功能确实比 EasyEDA 好了很多，而且因为不是网页端也流畅了很多，但是这个自动走线真的完全没法用...\n\n感觉每次画板子能省下时间最多的就是自动走线了，用 EasyEDA 摆好 PCB 让它自动走五分钟大概能走好 98% 的线，然后再手动把剩下的 2% 调好就好了。然而换到 KiCad 装上 freerouting 发现这个自动走线真的完全没法用，是 Java 写就算了居然还是单线程 (╯’ – ‘)╯︵ ┻━┻\n\n而且看着动画感觉它像是在 BFS 一样，大部分线都没尝试去走就回退，感觉它比起找到一个「大部分线都走好了的失败」更想花∞时间找到完美答案，结果就是等了半小时到第 200 次 iteration 了它还只成功走了一条线...\n\n想导入到 EasyEDA 自动走线但是 EasyEDA 不能导入 KiCad 7 项目... 所以大概这个板子会是我第一次也是最后一次手动走线，今后还是回去继续用 EasyEDA 吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442928637365985920.tgs\">😮‍💨</i>",
-    "views": 48,
+    "views": 49,
     "forwards": 0,
     "media_group_id": 13622893304292797,
     "images": [
@@ -40974,7 +40974,7 @@
     "id": 3034,
     "date": "2023-12-18T07:11:16",
     "text": "今天一直停不下来地咳嗽... 然后喝了一点以前买的右美沙芬，发现这个味道真的好防 OD，或者说好防喝 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 我刚舔一口就不想再碰它了，好苦又好重的薄荷味完全没办法下口\n\n哭哭 明天去超市找一个不是这么防 OD 的好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 48,
+    "views": 49,
     "forwards": 1,
     "images": [
       {
@@ -40993,7 +40993,7 @@
     "id": 3035,
     "date": "2023-12-18T13:49:37",
     "text": "醒了 聊聊说我昨天一边不停咳嗽一边睡着了，睡觉的时候也在一直咳嗽 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n第一次知道原来特别困的时候咳嗽可以不影响睡觉（？）",
-    "views": 41,
+    "views": 43,
     "forwards": 0,
     "reply": {
       "id": 3034,
@@ -41004,7 +41004,7 @@
     "id": 3036,
     "date": "2023-12-18T15:06:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的超级美式早餐！好好吃\n\n感觉相比之下我做的菜就好🀄️，<span class=\"spoiler\"><span>昨天还想买培根做红烧培根的</span></span>",
-    "views": 28,
+    "views": 30,
     "forwards": 0,
     "images": [
       {
