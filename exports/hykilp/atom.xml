@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-18T00:09:32.264588+00:00</updated>
+  <updated>2023-12-18T02:20:48.851670+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3031</id>
+    <title>小桂桂的回忆录 📒 #3031</title>
+    <updated>2023-12-18T01:07:43+00:00</updated>
+    <content>&lt;p&gt;之前一直在用 EasyEDA，听大家说都在用 KiCad 就去试了一下，感觉 schematic 和 PCB 的手动走线功能确实比 EasyEDA 好了很多，而且因为不是网页端也流畅了很多，但是这个自动走线真的完全没法用...&lt;/p&gt;
+&lt;p&gt;感觉每次画板子能省下时间最多的就是自动走线了，用 EasyEDA 摆好 PCB 让它自动走五分钟大概能走好 98% 的线，然后再手动把剩下的 2% 调好就好了。然而换到 KiCad 装上 freerouting 发现这个自动走线真的完全没法用，是 Java 写就算了居然还是单线程 (╯’ – ‘)╯︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;而且看着动画感觉它像是在 BFS 一样，大部分线都没尝试去走就回退，感觉它比起找到一个「大部分线都走好了的失败」更想花∞时间找到完美答案，结果就是等了半小时到第 200 次 iteration 了它还只成功走了一条线...&lt;/p&gt;
+&lt;p&gt;想导入到 EasyEDA 自动走线但是 EasyEDA 不能导入 KiCad 7 项目... 所以大概这个板子会是我第一次也是最后一次手动走线，今后还是回去继续用 EasyEDA 吧 &lt;i class="custom-emoji" emoji-src="emoji/5442928637365985920.tgs"&gt;😮‍💨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3031" rel="alternate"/>
+  </entry>
   <entry>
     <id>3030</id>
     <title>小桂桂的回忆录 📒 #3030</title>
