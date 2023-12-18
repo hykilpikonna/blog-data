@@ -18875,7 +18875,7 @@
     "id": 1469,
     "date": "2022-11-06T22:19:54",
     "text": "写汇编之前先把自动生成汇编代码的 VSCode snippet 写好hhhh",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "files": [
       {
@@ -18897,7 +18897,7 @@
     "id": 1470,
     "date": "2022-11-07T05:06:31",
     "text": "花了五个小时用 python 写了一个简易 MIPS ASM 编译器！\n\n起名叫做 EASM (Extended ASM)，因为是可以逐行翻译的汇编扩展。现在支持的指令有: stack_save(data...), stack_restore(reg...), pop_args(reg...), call(fn, args...), swap(r1, r2), if(cond), else(), endif(), while(cond), done(), return(ra), arithmetic(exp)\n\n因为是逐行翻译，编译出来的汇编代码也是缩进整齐还带完整注释的哦，所以即使用了编译器省下超级多代码也不影响交作业 qwq\n\n好耶 <del>写完编译器终于可以开始写期末项目了</del>",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "media_group_id": 13342380731253077,
     "images": [
@@ -18937,7 +18937,7 @@
     "id": 1473,
     "date": "2022-11-07T20:48:06",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> squares by Cavetown\n\n随机到这首歌突然感觉好熟悉——然后想起来这个旋律原曲是 C418 的 Subwoofer Lullaby，在 Minecraft 主世界会随机播放的气氛音乐之一，承载了我在那个方块世界里无数的记忆\n\nC418 的音乐真的好让人安心，可惜在被微软收购之后已经不再为 Minecraft 做音乐了...\n\n<a href=\"http://music.163.com/song?id=1910971366\">网易云\n</a><a href=\"https://www.youtube.com/watch?v=0gzHz43V3Ck\">Youtube\n</a><a href=\"https://www.youtube.com/watch?v=Gpd85y_iTxY\">原曲 Subwoofer Lullaby</a>",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "files": [
       {
@@ -18959,7 +18959,7 @@
     "id": 1474,
     "date": "2022-11-07T21:28:58",
     "text": "......第一次申请实习居然因为理解错了提交系统没有交上去 😭😭😭\n\n因为作文和推荐信截止时间不一样我还以为这三项都是单独的提交，以为 Completed 就是交上了，没想到居然还是要点右上角的 Submit\n\n啊啊啊为什么我没有仔细读一下它的说明，昨天熬到凌晨五点写的申请没交上去... 好想撞墙撞死",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -18978,7 +18978,7 @@
     "id": 1475,
     "date": "2022-11-08T01:44:42",
     "text": "MIPS 8-bit 字体渲染！",
-    "views": 162,
+    "views": 163,
     "forwards": 3,
     "media_group_id": 13342975056202277,
     "files": [
@@ -19014,7 +19014,7 @@
     "id": 1477,
     "date": "2022-11-08T21:32:03",
     "text": "一条指令找到系统里装的所有 Java JDK:\n\n<code>sudo find / -executable -name java -type f -exec printf \"\\033[33mFound {}\\033[0m\\n\" \\; -exec {} -version \\; -exec echo \"\" \\;</code>\n\n...然后发现我电脑上居然有 174 个 JDK，有很多是 docker 的，不过怎么连 VSCode Java 插件都会在它的本地目录装一个 JDK 下来\n(╯‵□′)╯︵┻━┻",
-    "views": 130,
+    "views": 131,
     "forwards": 2,
     "media_group_id": 13343544985353501,
     "images": [
@@ -19054,7 +19054,7 @@
     "id": 1480,
     "date": "2022-11-09T01:48:23",
     "text": "<a href=\"##桂桂聊聊书书今天吃什么\">#桂桂聊聊书书今天吃什么</a>\n炒土豆丝和菠菜鸡蛋 qwq\n\n这个鸡蛋是不包含鸡蛋的哦，是纯植物模仿的鸡蛋。炒出来味道还不错，不过炒的时候真的太吓人了... 因为材质不一样所以一直向油下面沉，结果放了好多油都飘在蛋液上面然后蛋液还粘锅了 🌚",
-    "views": 126,
+    "views": 127,
     "forwards": 1,
     "media_group_id": 13343668029442373,
     "images": [
@@ -19084,7 +19084,7 @@
     "id": 1482,
     "date": "2022-11-09T03:21:37",
     "text": "我：明天 12 点叫醒我\n谷歌：已将闹钟设在明天凌晨 12 点\n🙃",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -19103,7 +19103,7 @@
     "id": 1483,
     "date": "2022-11-09T09:57:50",
     "text": "「再写一个 feature 就睡」\n\n...然后就又写到凌晨五点把两个 milestone 写完了",
-    "views": 119,
+    "views": 120,
     "forwards": 1,
     "files": [
       {
@@ -19125,7 +19125,7 @@
     "id": 1484,
     "date": "2022-11-09T17:21:03",
     "text": "组员来问我给她留点事情做了，I be like 原来我还有一个组员 🌚",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "reply": {
       "id": 1483,
@@ -19148,7 +19148,7 @@
     "id": 1485,
     "date": "2022-11-10T03:12:32",
     "text": "今天天气好棒！去湖边没人的地方躺了好久，太阳晒在身上好舒服\n\n之后和聊聊书书一起去了铁道博物馆，虽然总是经过这里但是还是第一次进去看。室内比室外小了好多，有些设施还在制作中。不过看到了好多好不错的模型，玩到了好像是用来训练驾驶员的火车模拟器 qwq\n\n然后去旁边的机厅看了一下，看到金字塔全息投影被用在了绝对是最无聊的游戏上... 还有 floppy bird、别踩白块、crossy road 的机台... 为什么北美机厅那么喜欢把手机上流行的免费游戏做成街机机台，谁会花钱玩嘛（",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 13344399620762541,
     "images": [
@@ -19218,7 +19218,7 @@
     "id": 1492,
     "date": "2022-11-10T05:34:52",
     "text": "一年前在 K 家发生的悲剧又重演了... 又有炒勺掉进洗碗机里化掉了\n\n不过这次是硅胶不是塑料所以没有留下什么奇怪的味道，变形的炒勺也还能继续用 🤔",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13344467942000637,
     "images": [
@@ -19248,7 +19248,7 @@
     "id": 1493,
     "date": "2022-11-11T01:46:39",
     "text": "<a href=\"##桂桂聊聊书书今天吃什么\">#桂桂聊聊书书今天吃什么</a>\n烟熏鱼鱼沙拉饭！\n\n今天用了烟熏鲭鱼和三文鱼的罐头，和上次的生三文鱼沙拉饭口味不太一样，不过也好好吃，而且因为是罐头随时都可以做\n\n还把昨天剩的 guacamole 抹进去了。牛油果好好吃，好想买一个搅拌机就可以自己做 guacamole 了 🥑",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13345049597943149,
     "images": [
@@ -40781,7 +40781,7 @@
     "id": 3021,
     "date": "2023-12-15T16:47:44",
     "text": "起床了 感觉不是一个可以考三个小时期末的状态，但是也只能试试了",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "reply": {
       "id": 3018,
@@ -40792,7 +40792,7 @@
     "id": 3022,
     "date": "2023-12-15T17:08:10",
     "text": "呜呜",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "images": [
       {
@@ -40915,7 +40915,7 @@
     "id": 3030,
     "date": "2023-12-17T17:03:00",
     "text": "<a href=\"##TIL\">#TIL</a> 今天学到了原来 TTL、Serial、UART、RS232、RS485 都是不同的东西\n\nTTL 是一种用 0~Vcc 正电压表示 bit 的方式，UART 指的是有 Rx 和 Tx 线对接的硬件传输协议，Serial 是软件协议，RS232 是一种用 -Vcc 到 Vcc 的正负电压的硬件传输协议，RS485 是一种用正负差分线的硬件传输协议\n\n<a href=\"##TIL\">#TIL</a> #2 原来 ESP32 即使支持 Serial 支持 CAN bus，收发 RS232、RS485、CAN 也都是需要单独的 transceiver ic 的",
-    "views": 99,
+    "views": 100,
     "forwards": 1,
     "images": [
       {
@@ -40934,7 +40934,7 @@
     "id": 3031,
     "date": "2023-12-18T01:07:43",
     "text": "之前一直在用 EasyEDA，听大家说都在用 KiCad 就去试了一下，感觉 schematic 和 PCB 的手动走线功能确实比 EasyEDA 好了很多，而且因为不是网页端也流畅了很多，但是这个自动走线真的完全没法用...\n\n感觉每次画板子能省下时间最多的就是自动走线了，用 EasyEDA 摆好 PCB 让它自动走五分钟大概能走好 98% 的线，然后再手动把剩下的 2% 调好就好了。然而换到 KiCad 装上 freerouting 发现这个自动走线真的完全没法用，是 Java 写就算了居然还是单线程 (╯’ – ‘)╯︵ ┻━┻\n\n而且看着动画感觉它像是在 BFS 一样，大部分线都没尝试去走就回退，感觉它比起找到一个「大部分线都走好了的失败」更想花∞时间找到完美答案，结果就是等了半小时到第 200 次 iteration 了它还只成功走了一条线...\n\n想导入到 EasyEDA 自动走线但是 EasyEDA 不能导入 KiCad 7 项目... 所以大概这个板子会是我第一次也是最后一次手动走线，今后还是回去继续用 EasyEDA 吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442928637365985920.tgs\">😮‍💨</i>",
-    "views": 45,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13622893304292797,
     "images": [
@@ -40974,7 +40974,7 @@
     "id": 3034,
     "date": "2023-12-18T07:11:16",
     "text": "今天一直停不下来地咳嗽... 然后喝了一点以前买的右美沙芬，发现这个味道真的好防 OD，或者说好防喝 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 我刚舔一口就不想再碰它了，好苦又好重的薄荷味完全没办法下口\n\n哭哭 明天去超市找一个不是这么防 OD 的好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 43,
+    "views": 47,
     "forwards": 1,
     "images": [
       {
@@ -40993,7 +40993,7 @@
     "id": 3035,
     "date": "2023-12-18T13:49:37",
     "text": "醒了 聊聊说我昨天一边不停咳嗽一边睡着了，睡觉的时候也在一直咳嗽 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n第一次知道原来特别困的时候咳嗽可以不影响睡觉（？）",
-    "views": 35,
+    "views": 40,
     "forwards": 0,
     "reply": {
       "id": 3034,
@@ -41004,7 +41004,7 @@
     "id": 3036,
     "date": "2023-12-18T15:06:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的超级美式早餐！好好吃\n\n感觉相比之下我做的菜就好🀄️，<span class=\"spoiler\"><span>昨天还想买培根做红烧培根的</span></span>",
-    "views": 17,
+    "views": 25,
     "forwards": 0,
     "images": [
       {
