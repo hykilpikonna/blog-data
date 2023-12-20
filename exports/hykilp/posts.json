@@ -4430,7 +4430,7 @@
     "id": 451,
     "date": "2022-01-19T22:38:34",
     "text": "🐱",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -40792,7 +40792,7 @@
     "id": 3022,
     "date": "2023-12-15T17:08:10",
     "text": "呜呜",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -40811,7 +40811,7 @@
     "id": 3023,
     "date": "2023-12-15T19:38:58",
     "text": "决定把考试 defer 到二月了...",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "reply": {
       "id": 3021,
@@ -41094,7 +41094,7 @@
     "id": 3042,
     "date": "2023-12-19T05:18:07",
     "text": "<a href=\"##ADHD\">#ADHD</a> 明早要继续之前没做完的 ADHD 诊断，然后今天才想起来上次诊断医生说要做 ECG 检查才能开药来着，然而现在已经没有做检查的地方开门了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 57,
+    "views": 59,
     "forwards": 0,
     "reply": {
       "id": 2895,
@@ -41105,7 +41105,7 @@
     "id": 3044,
     "date": "2023-12-19T22:41:14",
     "text": "看到学校 cs lab 的电脑升级了... 这个配置好扭曲？？\n\nCPU 上了服务器级别的 Xeon W 但是只有四核，显卡上了超级贵的企业级 A2000 卡，然而显存只有 6GB 而且性能还没有 3060 好... 内存 64GB，日常占用 1.4GB 🌚\n\n而且桌面是古董一样的 LXDE... 真的感觉可能 Xfce 都比这个好用一点。不开心，cs dept 这样做真的会给很多没用过 Linux 人带来一种“原来 Linux 桌面这么难用”的印象，明明有更现代更好用的桌面... 找时间发邮件 complain 一下好了",
-    "views": 64,
+    "views": 67,
     "forwards": 1,
     "media_group_id": 13624205391149293,
     "images": [
@@ -41135,14 +41135,14 @@
     "id": 3045,
     "date": "2023-12-20T02:16:17",
     "text": "语言学考完了！把所有不确定的算错也至少有 68 分，肯定 CR 了！好耶，放假啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 47,
+    "views": 51,
     "forwards": 0
   },
   {
     "id": 3046,
     "date": "2023-12-20T02:40:44",
     "text": "说起来这个考试最后一道题4分，让你写下两条规则定义英语词哪里可以插 \"f#cking\" 哪里不行 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（比如说为什么 \"fan-f#cking-tastic\" 可以但是 \"fantas-f#cking-tic\" 不行\n\n这居然是有规则的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 42,
+    "views": 45,
     "forwards": 0,
     "reply": {
       "id": 3045,
@@ -41153,7 +41153,30 @@
     "id": 3047,
     "date": "2023-12-20T06:27:01",
     "text": "Celestium 住进来会不会是我和聊聊恢复作息的契机呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 33,
+    "views": 44,
     "forwards": 1
+  },
+  {
+    "id": 3048,
+    "date": "2023-12-20T08:37:33",
+    "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>* 🇨🇦 UofT CS Wolf     |  122 Mbps\n* 🇨🇦 UofT CS dbsrv1   |  247 Mbps\n* 🇨🇦 OVH (100M)       |   77 Mbps\n* 🇨🇦 Bell (Jun 家)    |  857 Mbps\n* 🇨🇦 Bell M5V         |  939 Mbps\n* 🇨🇦 多伦多 鱼塔网络  |  485 Mbps\n* 🇱🇺 Luxemburg Gcore  |  122 Mbps\n* 🇺🇸 Washington Vultr |  385 Mbps\n* 🇺🇸 西雅图 鱼塔网络  |  278 Mbps\n* 🇺🇺🇸 Texas Comcast    |   11 Mbps\n* 🇮🇳 Mumbai Gcore     |   46 Mbps\n* 🇨🇳 杭州 阿里云 (6M) |    6 Mbps\n* 🇨🇳 湖南 连通        |   32 Mbps\n* 🇨🇳 江苏 移动        |   31 Mbps\n* 🇭🇰 香港 CNServers   |  122 Mbps\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 Mbps\n* 🇨🇦 Speedtest.net    | 3153 Mbps</pre>\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -c daisy-ddns.hydev.org</code> 就可以",
+    "views": 20,
+    "forwards": 1,
+    "reply": {
+      "id": 2726,
+      "text": "终于！！！"
+    },
+    "images": [
+      {
+        "width": 483,
+        "height": 375,
+        "date": "2023-12-20T08:37:32",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-20_08-37-32.jpg",
+        "url": "media/3048.jpg",
+        "size": 50237,
+        "thumb": "media/3048.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
