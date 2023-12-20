@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-20T10:09:28.973146+00:00</updated>
+  <updated>2023-12-20T12:09:41.101367+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
@@ -16,13 +16,13 @@
 &lt;pre&gt;* 🇨🇦 UofT CS Wolf     |  122 Mbps
 * 🇨🇦 UofT CS dbsrv1   |  247 Mbps
 * 🇨🇦 OVH (100M)       |   77 Mbps
-* 🇨🇦 Bell (Jun 家)    |  857 Mbps
+* 🇨🇦 Bell (Jun)       |  857 Mbps
 * 🇨🇦 Bell M5V         |  939 Mbps
 * 🇨🇦 多伦多 鱼塔网络  |  485 Mbps
 * 🇱🇺 Luxemburg Gcore  |  122 Mbps
 * 🇺🇸 Washington Vultr |  385 Mbps
 * 🇺🇸 西雅图 鱼塔网络  |  278 Mbps
-* 🇺🇺🇸 Texas Comcast    |   11 Mbps
+* 🇺🇸 Texas Comcast    |   11 Mbps
 * 🇮🇳 Mumbai Gcore     |   46 Mbps
 * 🇨🇳 杭州 阿里云 (6M) |    6 Mbps
 * 🇨🇳 湖南 连通        |   32 Mbps
@@ -32,6 +32,7 @@
 (下面两个不太算数)
 * 🇨🇦 Bell Aster PPPoE | 2830 Mbps
 * 🇨🇦 Speedtest.net    | 3153 Mbps&lt;/pre&gt;
+
 &lt;p&gt;总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 &lt;i class="custom-emoji" emoji-src="emoji/6323380753904174863.webp"&gt;😭&lt;/i&gt; 这几天找一个各地互联都比较快的节点做外网代理好了&lt;/p&gt;
 &lt;p&gt;欢迎大家有电脑也来测一下 qwq 跑 &lt;code&gt;iperf3 -c daisy-ddns.hydev.org&lt;/code&gt; 就可以&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=3048" rel="alternate"/>
