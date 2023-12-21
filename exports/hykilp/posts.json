@@ -41135,14 +41135,14 @@
     "id": 3045,
     "date": "2023-12-20T02:16:17",
     "text": "语言学考完了！把所有不确定的算错也至少有 68 分，肯定 CR 了！好耶，放假啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 60,
+    "views": 61,
     "forwards": 0
   },
   {
     "id": 3046,
     "date": "2023-12-20T02:40:44",
     "text": "说起来这个考试最后一道题4分，让你写下两条规则定义英语词哪里可以插 \"f#cking\" 哪里不行 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（比如说为什么 \"fan-f#cking-tastic\" 可以但是 \"fantas-f#cking-tic\" 不行\n\n这居然是有规则的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "reply": {
       "id": 3045,
@@ -41153,14 +41153,14 @@
     "id": 3047,
     "date": "2023-12-20T06:27:01",
     "text": "Celestium 住进来会不会是我和聊聊恢复作息的契机呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 60,
+    "views": 61,
     "forwards": 1
   },
   {
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传到这里 | 从这里下载\n* 🇨🇦 UofT CS Wolf     |  122 Mbps |  825 Mbps\n* 🇨🇦 UofT CS dbsrv1   |  247 Mbps |  742 Mbps\n* 🇨🇦 OVH (100M)       |   77 Mbps |  100 Mbps\n* 🇨🇦 Bell (Jun)       |  857 Mbps |  \n* 🇨🇦 Bell M5V         |  939 Mbps |\n* 🇨🇦 TekSavvy L6C     |   44 Mbps |  927 Mbps\n* 🇨🇦 多伦多 鱼塔网络  |           |  485 Mbps\n* 🇱🇺 Luxemburg Gcore  |  122 Mbps |  109 Mbps\n* 🇺🇸 Washington Vultr |  385 Mbps |  330 Mbps\n* 🇺🇸 西雅图 鱼塔网络  |           |  278 Mbps\n* 🇺🇸 Texas Comcast    |   11 Mbps |\n* 🇮🇳 Mumbai Gcore     |   46 Mbps |   27 Mbps\n* 🇨🇳 杭州 阿里云 (6M) |    6 Mbps |  115 Mbps\n* 🇨🇳 湖南 连通        |   32 Mbps | \n* 🇨🇳 江苏 移动        |   31 Mbps |\n* 🇭🇰 香港 CNServers   |  122 Mbps |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 Mbps | 2790 Mbps\n* 🇨🇦 Speedtest.net    | 3201 Mbps | 3153 Mbps</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 45,
+    "views": 46,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 35,
+    "views": 39,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41194,7 +41194,7 @@
     "id": 3050,
     "date": "2023-12-20T18:53:08",
     "text": "聊聊买了一个这个鼓，没有压感感觉接上 garageband 的音源也救不了它...",
-    "views": 19,
+    "views": 25,
     "forwards": 0,
     "images": [
       {
