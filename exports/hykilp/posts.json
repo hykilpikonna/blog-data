@@ -39470,7 +39470,7 @@
     "id": 2936,
     "date": "2023-11-25T05:07:19",
     "text": "好耶！今天豆腐来玩，和豆腐一起给这个读卡器写了固件和驱动，现在可以刷 presto 登游戏了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n*支持任何 nfc 卡哦，不是 felica 的话会被转换成 felica 格式 qwq",
-    "views": 115,
+    "views": 116,
     "forwards": 1,
     "files": [
       {
@@ -39492,7 +39492,7 @@
     "id": 2937,
     "date": "2023-11-25T09:36:07",
     "text": "RGB！",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 2936,
@@ -39518,7 +39518,7 @@
     "id": 2938,
     "date": "2023-11-25T18:33:49",
     "text": "开源了写了文档，源码在<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/CardReader\">这里</a> qwq",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "reply": {
       "id": 2936,
@@ -39529,21 +39529,21 @@
     "id": 2939,
     "date": "2023-11-25T20:14:34",
     "text": "悲 发烧了",
-    "views": 96,
+    "views": 97,
     "forwards": 0
   },
   {
     "id": 2940,
     "date": "2023-11-26T01:14:10",
     "text": "每次看到分区软件上的 \"GPT\" 都会愣一下，原来 GPT 还有过这个意思来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 0
   },
   {
     "id": 2941,
     "date": "2023-11-26T03:29:29",
     "text": "学过语言学里面的各种发音 process 之后发现，剪辑演讲的时候剪掉卡顿之后让语言听起来更连贯也变得容易了！",
-    "views": 90,
+    "views": 91,
     "forwards": 1,
     "files": [
       {
@@ -39566,7 +39566,7 @@
     "id": 2942,
     "date": "2023-11-26T08:54:34",
     "text": "一些胡思乱想 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13607910995433989,
     "images": [
@@ -39596,7 +39596,7 @@
     "id": 2944,
     "date": "2023-11-26T21:31:46",
     "text": "悲 二月份买的盘现在已经有 12056 个 reallocated sector 了... 正在排错",
-    "views": 100,
+    "views": 101,
     "forwards": 1,
     "reply": {
       "id": 1810,
@@ -39620,14 +39620,14 @@
     "id": 2945,
     "date": "2023-11-27T11:04:19",
     "text": "哭哭 整天都用来修硬盘了，结果明天考试凌晨六点还没复习完...",
-    "views": 86,
+    "views": 87,
     "forwards": 1
   },
   {
     "id": 2946,
     "date": "2023-11-27T12:28:12",
     "text": "算了不补课了，这个点尝试理解 Hidden Markov filtering 真的完全看不懂... 还有 5h 考试那就睡 4h 好了。\n\n今天还要给 Jun 带电钻去搬她的电视，晚上 11:59 之前要交 OS 的小作业，明天要去医院至少要 3h，然而后天中午之前要两个人写完一个能用的 Duolingo++ 移动端网页（现在只写完了登录和选择语言），周五语言学大作业，下周一共三个专业课大作业还有一个演讲...\n\n好累好累好累",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "reply": {
       "id": 2945,
@@ -39649,7 +39649,7 @@
   {
     "id": 2947,
     "date": "2023-11-27T12:53:00",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "files": [
       {
@@ -39674,7 +39674,7 @@
     "id": 2948,
     "date": "2023-11-27T18:14:07",
     "text": "考完了！比预计的好，有被某位校友写在考场柱子上的文字暖到 qwq",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 2946,
@@ -39697,7 +39697,7 @@
     "id": 2949,
     "date": "2023-11-28T02:56:36",
     "text": "好消息是数据都备份出去了，而且 scrub 一遍发现数据只有 28 个 4kb 块出无法恢复的错。坏消息是剩下的问题我也不知道怎么修，现在 Reallocated Sector 还在不断增加，而且 scrub 之后 btrfs check 还有无数个报错...\n\n目前在进行一些超级慢的坏道扫描，从 SMART error log 看来坏道似乎是比较连续的，地址也很接近，希望可以屏蔽一些坏道解决。\n\n从国内买了一块新的二手 14TB 盘，暂时打算等新盘到之前继续用，希望不会在新盘到之前坏掉（x）\n\n<span class=\"spoiler\"><span>为什么别人通电两年没问题的盘到我手里不到一年就坏成这样了呢？突然在想会不会和使用习惯有关... <del>我我服务器离桌子很近而且我 ADHD 经常抖腿，会不会是抖腿震到硬盘了</del> </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</span></span></i>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 2944,
@@ -39720,7 +39720,7 @@
     "id": 2950,
     "date": "2023-11-28T08:19:38",
     "text": "写了一个扫坏道脚本，会用 1gb 区块估算速度和剩余时间、可以随时停下从断点继续、停止扫描的时候会等这个区块扫完以防遗留、会把所有坏道和扫描历史记录成 Json、自动做地址换算转成要屏蔽的 LBA",
-    "views": 119,
+    "views": 120,
     "forwards": 4,
     "media_group_id": 13609276631025917,
     "images": [
@@ -39754,14 +39754,14 @@
     "id": 2952,
     "date": "2023-11-29T06:16:05",
     "text": "哭哭 对虾过敏，但是今天聊聊叫炸虾没忍住就吃了，结果现在胃痛到想要去 ER <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n明明之前吃虾只会拉肚子就觉得也许没事的... 结果这次是持续的剧烈胃痛，已经从十一点疼到现在两个小时了",
-    "views": 105,
+    "views": 106,
     "forwards": 2
   },
   {
     "id": 2953,
     "date": "2023-11-29T06:32:32",
     "text": "因为痛所以吃了止痛药布洛芬，然后刚才问猫猫球才知道布洛芬反而会刺激胃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 2952,
@@ -39772,14 +39772,14 @@
     "id": 2954,
     "date": "2023-11-29T11:08:01",
     "text": "我：想吃披萨🍕，明天我们烤披萨吧\n聊聊：但是我们没有披萨怎么烤\n我：自己和面自己做！\n聊聊：那我们也没有披萨的食材呀\n我：我们有菠萝罐头和淀粉香肠 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n聊聊：💢💢（大声哀嚎）",
-    "views": 85,
+    "views": 86,
     "forwards": 0
   },
   {
     "id": 2955,
     "date": "2023-11-30T05:12:53",
     "text": "不久前朋友拿到了最新最热 maimai 1.40 BUDDiES 的数据，花了一段时间拆包脱壳终于能启动了，接下来只需要给 AquaDX 做兼容...\n\n不过我的那台 ADX3 手台还有 17 天才会到，所以时间还很够，<del>等考完期末 1.40 烂大街了肯定就有别人写好服务器了吧</del> qwq\n\n逆向的 writeup 在这里： <a href=\"https://aza.moe/blog?post=2023-11-30-Maimai-Reversing\">https://aza.moe/blog?post=2023-11-30-Maimai-Reversing</a>",
-    "views": 115,
+    "views": 116,
     "forwards": 4,
     "images": [
       {
@@ -39798,14 +39798,14 @@
     "id": 2956,
     "date": "2023-11-30T09:27:52",
     "text": "想开坑做一些街机 mod 让手游的谱也能在街机上玩、还原街机手感\n\n比如把 pjsk 和 bang 移植到 chuni、把 deemo 和 pianista 移植到 nos、把 lanota 和 rotaeno 移植到 wacca、把 chrono circle 和<del>舞立方</del>移植到 mai、<del>把 arcaea... 算了这个有点难</del>\n\n感觉应该可行，<del>但是会不会同时 piss off 至少九个公司</del>",
-    "views": 102,
+    "views": 103,
     "forwards": 1
   },
   {
     "id": 2957,
     "date": "2023-11-30T22:51:10",
     "text": "那天听猫猫球的建议吃了 DPH 之后胃好了很多，果然是过敏，不过到现在快两天了还在隐隐约约地胀痛... 不知道什么时候会完全好\n\n...以及吃了 DPH 好容易困困，白天睡到下午四点起来写点作业然后现在还想睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6323184405179270958.webp\">😪</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 2952,
@@ -39816,7 +39816,7 @@
     "id": 2958,
     "date": "2023-12-01T07:30:27",
     "text": "说起来现在 <a href=\"aza.moe\">aza.moe</a> 这个主页还是部署在 github pages 来着，之前还害怕会不会总共大小超过 1GB 就要重构了，因为 github 规则上写允许的最大部署就是 1GB\n\n结果原来只是警告一下“超过了可能会部署失败”但是实际上完全没问题 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "reply": {
       "id": 2955,
@@ -39839,7 +39839,7 @@
     "id": 2959,
     "date": "2023-12-01T20:31:51",
     "text": "呜 昨天熬夜写作业熬到凌晨八点，现在迷迷糊糊躺在床上听着<del>聊聊打字_asmr.wav</del>，感觉好好听被催眠了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 150,
+    "views": 151,
     "forwards": 2,
     "images": [
       {
@@ -39858,14 +39858,14 @@
     "id": 2960,
     "date": "2023-12-01T21:21:35",
     "text": "下雪了！",
-    "views": 96,
+    "views": 97,
     "forwards": 0
   },
   {
     "id": 2961,
     "date": "2023-12-01T21:30:21",
     "text": "切掉的芹菜看起来像一朵玫瑰花",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -39884,14 +39884,14 @@
     "id": 2962,
     "date": "2023-12-02T06:37:16",
     "text": "哭哭 让聊聊生气了... 最近几天我让聊聊作息和我一起颠倒了，感觉好自责。\n\n<del>（cw: 年度期末焦虑）</del><span class=\"spoiler\"><span>\n明明这几天学校非常非常多 ddl 但是还是忍不住去做自己的项目，结果就是总是要熬夜肝作业把自己弄得迷迷糊糊... 是不是自控好差，今天下午明明应该去写 due 11:59 的语言学作业，但是没忍住去给 HyFetch 推了更新，晚上九点才开始写作业，结果写完 part 1 太困撑不住就没写 part 2。然后刚才醒过来聊聊看着我无忧无虑地在看做 Wacca 街机手台的事情就爆发了...\n\n怎么办呢？我拥有的时间和精力早就不够做好所有想做的要做的事情了... 但是作业是永远做不完的，如果要为了作业就把其他事情向后推的话我永远挤不出时间做其他事，所以我大概是接受了成绩会差的代价，把课和作业翘掉把时间留给更有意义的事情吧。\n\n...不过即使嘴上这样说实际上还是会为成绩焦虑，明明 B 已经比平均高了还觉得 B 好差，明明语言学是 cr/ncr 还要为了一次晚一秒没交上去的作业花时间和教授计较... 好矛盾好矛盾，明明知道没有精力兼顾为什么我就不能完全心平气和地真的放弃成绩呢？</span></span>",
-    "views": 97,
+    "views": 98,
     "forwards": 0
   },
   {
     "id": 2963,
     "date": "2023-12-03T19:15:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n洗碗机坏掉了叫了外卖 shawarma！\n\n因为自己不太能吃辣点了最微辣 mild，以为是咖喱块上那种基本上感觉不到的 mild，结果比我吃过的最辣的东西还辣（悲\n\n然后看旁边 Luna 点了一个 medium 完全吃不下去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "images": [
       {
@@ -39910,7 +39910,7 @@
     "id": 2964,
     "date": "2023-12-04T06:52:01",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《My Jinji》—落日飞车\n\n好喜欢这种又 chill 又浪漫的 Jazz！\n\n<a href=\"https://www.youtube.com/watch?v=2VA9E3O2660\">Youtube</a> | <a href=\"https://music.163.com/song?id=1321740481\">网易云</a>",
-    "views": 93,
+    "views": 94,
     "forwards": 1,
     "files": [
       {
@@ -39931,7 +39931,7 @@
     "id": 2965,
     "date": "2023-12-04T08:08:25",
     "text": "在给这个甜甜圈做支架 qwq\n\n（是 Wacca 的控制器！里面的黑色长方体是一块 50\" 大电视 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 2,
     "media_group_id": 13613418442173133,
     "images": [
@@ -39965,7 +39965,7 @@
     "id": 2967,
     "date": "2023-12-05T01:15:26",
     "text": "今日份的 UofT: 最后一周的期末演讲 meeting 让我们填问券的时候才发现原来 CSC301 软工这门课有 lecture 🌚",
-    "views": 82,
+    "views": 83,
     "forwards": 1,
     "images": [
       {
@@ -39984,7 +39984,7 @@
     "id": 2968,
     "date": "2023-12-05T06:59:01",
     "text": "啊好犹豫... 又在犹豫空运还是海运了\n\n现在 CAD 模型已经做好了，去淘宝货比三家找到最便宜的 CNC 厂了，购物单写好了，然后发现因为有一个 120cm 的大长边所以空运要加超长附加费怎么寄都好贵... 但是直接在这边 CNC 的话要 US$300 比空运还贵 🤯\n\n在犹豫要空运还是海运... 海运虽然便宜一点但是代价是收到之后绝对就放完假开学了。怎么办呜呜呜\n\n<span class=\"spoiler\"><span>每次遇到这种情况就好希望自己毕业之后能搬到离中国近一点的香港或者日本... 或者如果有在国内的人可以和我合作就好了</span></span>",
-    "views": 75,
+    "views": 76,
     "forwards": 1,
     "media_group_id": 13614076333628805,
     "images": [
@@ -40029,7 +40029,7 @@
     "id": 2971,
     "date": "2023-12-05T11:02:28",
     "text": "下单了！\n\n￥320 CNC 前后两面铝 6061 板\n￥200 铝型材（有一半是攻丝的费用）\n￥130 CNC 侧面的 PC 塑料板\n￥75 螺丝 overdose（懒得数了）\n￥110 铝型材配件（三通 直角 T螺母）\n￥85 HDMI 转接座、电插座、提手、<del>防拆机</del>橡胶垫片\n\n∑ = ￥920 感觉比想象得便宜一些。先寄到土豆家测试啦，测试好就不会说运过来才发现哪里有问题了 qwq",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "media_group_id": 13614193189477869,
     "images": [
@@ -40064,14 +40064,14 @@
     "id": 2973,
     "date": "2023-12-05T19:25:03",
     "text": "接下来四天要爆肝期末作业，打算登出 telegram，有事情找我的话请联系聊聊 qwq",
-    "views": 94,
+    "views": 95,
     "forwards": 2
   },
   {
     "id": 2974,
     "date": "2023-12-06T04:28:55",
     "text": "哇 我居然把 OS 大作业肝完了！两个小时补完课之后花了六个小时肝完了... 连续 debug 六个小时文件系统真的眼睛都要瞎了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n不过还好写完啦，开始之前某位很厉害的 ys 学长还 warn 我说他花了八小时才写完。可能是因为这次完全没在乎代码质量才这么快，需要重用代码的时候完全不考虑封装重构直接复制过去改了，然后刚才和 ys 学长对比一下代码长度我长了 200 多行hhhhh\n\n好了接下来要去肝 318 设计课明天中午的演讲和报告了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 3,
     "media_group_id": 13614695481190805,
     "images": [
@@ -40121,7 +40121,7 @@
     "id": 2978,
     "date": "2023-12-06T11:24:22",
     "text": "把设计课的演讲 Demo 视频剪好交上去了！\n\n这个课挺恐怖的，给我们三周做用户调查，两周做纸质原型，一周评估纸原型，然后一周时间把整个能用的 app 做出来 🌚\n\n结果四个人一周还真的做出来了一个有点能用的 demo，而且有些功能效果还不错诶... 不过原本打算做增强 duolingo 的浏览器插件来着，但是因为一周好短不想踩新坑就改成了熟悉的 react app（x）\n\n<a href=\"https://youtu.be/8XwH3I_qGZ4\">视频在这里</a>感兴趣的话可以来看看 qwq 真的有被现在的 AI 语音能力震撼到\n\n接下来还剩下这门课的报告和 384 AI 的大作业...",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13614894897248453,
     "images": [
@@ -40151,7 +40151,7 @@
     "id": 2980,
     "date": "2023-12-06T11:36:02",
     "text": "来聊聊 AI 震撼...\n\n设计课这个项目里有些功能要语音识别，但是测试遇到了一个很奇妙的 bug——说日语有机率出罗马音，还有机率被翻译成英文？？\n\n排查之后发现把模型从 whisper-v2 换成 v3 就可以正常识别日语了。但是这样难道是说之前 v2 的数据集里日语配日语的标注数据少所以它就自己学会了翻译嘛？！而且翻译得还是对的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n大模型的这种吃到什么数据就能学会什么的能力真的好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 1,
     "media_group_id": 13614900498972029,
     "images": [
@@ -40186,7 +40186,7 @@
     "id": 2982,
     "date": "2023-12-07T05:28:14",
     "text": "还剩下最后一天期末作业就要肝完了！\n\n（虽然之后还有期末考试但是考试排得更松一点反而不会这么累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -40205,7 +40205,7 @@
     "id": 2983,
     "date": "2023-12-08T01:10:14",
     "text": "全都肝完了！好耶\n\n电报登回来啦",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 2982,
@@ -40216,7 +40216,7 @@
     "id": 2984,
     "date": "2023-12-08T03:46:26",
     "text": "今早的雪 qwq\n\n上次窗外变得白白一片还是一年前，有点激动（不过可惜白天就融化了没玩到雪",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "images": [
       {
@@ -40235,7 +40235,7 @@
     "id": 2985,
     "date": "2023-12-08T07:03:57",
     "text": "🤔\n\n（是在搜 USB 接口元件 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -40254,7 +40254,7 @@
     "id": 2986,
     "date": "2023-12-08T11:29:16",
     "text": "把 wacca 控制器的 IO4 板子画好了！\n\n五个按钮分别是 Test, Service, Coin, Vol+, Vol-，带一个 PN532 读卡器的对接口，把用来接控制器的 USB hub 也做进去了，然后这些都是用 ESP32-S3 控制（好像有点 overkill 但是算了hhh\n\n（然后花一个小时调丝印 🌚 希望生产出来丝印也能这么好看，毕竟控制器架子侧边的 PC 板是透明的",
-    "views": 70,
+    "views": 71,
     "forwards": 1,
     "media_group_id": 13616279652246725,
     "images": [
@@ -40298,14 +40298,14 @@
     "id": 2989,
     "date": "2023-12-08T16:43:26",
     "text": "呜呜 今天没有睡觉",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
     "id": 2990,
     "date": "2023-12-08T20:51:42",
     "text": "洗碗机修好了！\n\n物业拆开来看了一下发现水泵里面卡了一小片骨头 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 原来是这么简单的问题为什么我没拆开自己看看（x）",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "reply": {
       "id": 2963,
@@ -40316,7 +40316,7 @@
     "id": 2991,
     "date": "2023-12-08T21:01:29",
     "text": "今天为什么没有睡觉：想要下单好再睡，结果下单和下单之后的一段时间里发现了无数个问题导致需要直接把订单取消了\n\n首先是 SMT 贴 ESP32-S3-WROOM-1 非常非常贵（+￥155）因为它不能用经济型 SMT，结果总计下来打样两张板子一共要 ￥450。而且其实这个 IO 板完全不需要 S3 这么好的 MCU，想改成 RP2040 或者 C3。\n\n然后发现我选的插件振荡器没货，改 PCB 改成了标准 SMT 振荡器。然后发现焊接背面的 USB A 口要再多加 ￥100（明明是三个有手都能焊的 USB A 口...）总之亏死了但是还是下单了。\n\n然后发现我 PCB 上读卡器板接口的其中一个 pinout 反了，赶紧取消订单，然后发现已经凌晨十点了（？）",
-    "views": 74,
+    "views": 75,
     "forwards": 1,
     "media_group_id": 13616554316131261,
     "images": [
@@ -40360,7 +40360,7 @@
     "id": 2994,
     "date": "2023-12-09T19:13:52",
     "text": "第二个版本把 S3-wroom 里面的 MCU 和晶振和闪存画出来了，还加了 jtag 调试接口。下单啦，省下了 ￥155\n\n希望它工作 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 1,
     "reply": {
       "id": 2991,
@@ -40384,7 +40384,7 @@
     "id": 2995,
     "date": "2023-12-09T19:20:24",
     "text": "大号蛋挞模（？）",
-    "views": 82,
+    "views": 83,
     "forwards": 1,
     "reply": {
       "id": 2886,
@@ -40407,7 +40407,7 @@
     "id": 2996,
     "date": "2023-12-10T22:43:27",
     "text": "spoiler: r18（？）",
-    "views": 112,
+    "views": 113,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -40431,7 +40431,7 @@
     "id": 2997,
     "date": "2023-12-11T06:09:30",
     "text": "<a href=\"##dump\">#dump</a> GRS Montreal 的所有公开文件（信息手册/填表）",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "files": [
       {
@@ -40448,7 +40448,7 @@
     "id": 2998,
     "date": "2023-12-11T17:21:27",
     "text": "发现我的三场考试一场在 TC 宿舍，一场在 Knox 教堂，一场在教学楼 🤯\n\nUofT 真的是人太多了，Exam Center 排不到我们就随便选地点吗 (╯’ – ‘)╯︵ ┻━┻",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -40467,7 +40467,7 @@
     "id": 2999,
     "date": "2023-12-11T19:34:34",
     "text": "pd/kg 是个什么单位\n\n<del>我的体重是 56 pd/kg</del>",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "images": [
       {
@@ -40486,7 +40486,7 @@
     "id": 3002,
     "date": "2023-12-11T21:31:24",
     "text": "鱼塔寄的盒送到了，收到了一封夹着枫叶的信和鱼塔的头像胸针，好开心 qwq\n\n感谢鱼塔的祝福 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "media_group_id": 13618642278649533,
     "images": [
@@ -40526,7 +40526,7 @@
     "id": 3003,
     "date": "2023-12-12T10:01:22",
     "text": "今天半喵来玩，玩了简简单单又好可爱的 pusheen 桌游，有被治愈 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n然后猪猪做了牛丼好好吃 qwq",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13619002263460005,
     "images": [
@@ -40556,7 +40556,7 @@
     "id": 3005,
     "date": "2023-12-12T10:27:34",
     "text": "这个支架设计好之后先给土豆订了一份想让她帮忙验证一下能不能成功拼起来，今天连麦和土豆和 DV 一起试着拼了结果果然遇到了这些问题：\n\n1. 直角件太长了，两个 28mm 直角件加起来超过了中间 50mm 支柱的长度，换隐形连接件了\n2. 螺丝头太大，三通件插进去一个螺丝就插不进去第二个了\n3. 忘记买旋转 T 螺母（悲）\n\n总之今天拼了大概 1/3，写了一些迫真宜家拼装教程，等要补的零件到了再继续啦。感谢土豆和 DV 帮忙 qwq",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "media_group_id": 13619014837220061,
     "images": [
@@ -40621,14 +40621,14 @@
     "id": 3010,
     "date": "2023-12-12T23:12:17",
     "text": "去考 384 AI 期末了 qwq",
-    "views": 74,
+    "views": 75,
     "forwards": 0
   },
   {
     "id": 3011,
     "date": "2023-12-13T03:41:41",
     "text": "考完了，考场好好看！",
-    "views": 104,
+    "views": 105,
     "forwards": 1,
     "reply": {
       "id": 3010,
@@ -40651,14 +40651,14 @@
     "id": 3012,
     "date": "2023-12-13T06:26:23",
     "text": "没有力气了 睡睡。今天除了考试什么都没做 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 72,
+    "views": 73,
     "forwards": 0
   },
   {
     "id": 3013,
     "date": "2023-12-13T22:28:31",
     "text": "好耶，我的第一篇纸过审了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢 MSR 音频组的三位导师引领这次的研究 qwq\n\n四月要去韩国演讲耶，在想要不要借机在那之前学一些韩语... 不过四个月感觉会好快\n\n（以及和明年考试时间完全撞上了哇，还需要联系一下教授改考试时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 2,
     "images": [
       {
@@ -40677,14 +40677,14 @@
     "id": 3014,
     "date": "2023-12-14T17:17:11",
     "text": "悲 昨天画板子画到今早九点才睡，然后现在感冒了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 71,
+    "views": 72,
     "forwards": 0
   },
   {
     "id": 3015,
     "date": "2023-12-14T23:54:40",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n今天聊聊做的五花肉炒卷心菜和昨天我做的同一道菜，聊聊做的比我好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13620784645817677,
     "images": [
@@ -40724,7 +40724,7 @@
     "id": 3018,
     "date": "2023-12-15T07:36:37",
     "text": "感冒好难受，还是断断续续补完了六个小时课，希望现在睡 9h 明天能好一点... 希望不会影响明天下午两点的考试",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "reply": {
       "id": 3014,
@@ -40747,7 +40747,7 @@
     "id": 3019,
     "date": "2023-12-15T07:57:54",
     "text": "因为想要更早发现问题，把 PCB 寄到加拿大之前先让 Asuna 帮忙做了测试 qwq\n\n前两天板子出厂了，今天刚找到时间一起测试。感觉结果意外的好，除了 U0 的 TX RX 接反了导致串口不工作以外其他的都工作 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（然后测试的时候发现居然不用 U0 直接用 USB CDC 也可以刷固件输出串口数据，所以下一个版本直接把串口去掉就好啦\n\n总之应该是我打过的错误最少的板子了，感谢群友帮忙检查也感谢 Asuna 帮忙测试 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "media_group_id": 13621016593398765,
     "images": [
@@ -40781,7 +40781,7 @@
     "id": 3021,
     "date": "2023-12-15T16:47:44",
     "text": "起床了 感觉不是一个可以考三个小时期末的状态，但是也只能试试了",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "reply": {
       "id": 3018,
@@ -40792,7 +40792,7 @@
     "id": 3022,
     "date": "2023-12-15T17:08:10",
     "text": "呜呜",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
@@ -40811,7 +40811,7 @@
     "id": 3023,
     "date": "2023-12-15T19:38:58",
     "text": "决定把考试 defer 到二月了...",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 3021,
@@ -40822,7 +40822,7 @@
     "id": 3024,
     "date": "2023-12-15T21:23:25",
     "text": "结果没去考试但是去 walk in clinic 坐着等医生等了两个小时，前台说还要再等一个小时，早知道开假条这么麻烦就去考试了... 坐在椅子上也没有得到休息",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "reply": {
       "id": 3023,
@@ -40833,7 +40833,7 @@
     "id": 3025,
     "date": "2023-12-15T22:17:15",
     "text": "坐着干等了三个小时还花了 $30 终于开到假条了... 然后别人也考完了\n\n真的好后悔没去考试",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -40852,7 +40852,7 @@
     "id": 3026,
     "date": "2023-12-17T03:48:28",
     "text": "今天 copilot 又给我补全了什么东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "reply": {
       "id": 2811,
@@ -40875,7 +40875,7 @@
     "id": 3027,
     "date": "2023-12-17T06:19:45",
     "text": "家里的 VPS 服务器框架终于搭好了！宿主机用了 ArchLinux + VirtualBox，今天写了一个管理 VPS 的 bot，可以用来管理端口映射、自动更新 CloudFlare DDNS、进行一些蠢蠢的 PPPoE IP 转发、还有基础操作比如重启什么的\n\n现在一共有三个人预订了，目前正在稳定性测试阶段，打算圣诞节开始正式出租 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "media_group_id": 13622351883298733,
     "images": [
@@ -40915,7 +40915,7 @@
     "id": 3030,
     "date": "2023-12-17T17:03:00",
     "text": "<a href=\"##TIL\">#TIL</a> 今天学到了原来 TTL、Serial、UART、RS232、RS485 都是不同的东西\n\nTTL 是一种用 0~Vcc 正电压表示 bit 的方式，UART 指的是有 Rx 和 Tx 线对接的硬件传输协议，Serial 是软件协议，RS232 是一种用 -Vcc 到 Vcc 的正负电压的硬件传输协议，RS485 是一种用正负差分线的硬件传输协议\n\n<a href=\"##TIL\">#TIL</a> #2 原来 ESP32 即使支持 Serial 支持 CAN bus，收发 RS232、RS485、CAN 也都是需要单独的 transceiver ic 的",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
@@ -40934,7 +40934,7 @@
     "id": 3031,
     "date": "2023-12-18T01:07:43",
     "text": "之前一直在用 EasyEDA，听大家说都在用 KiCad 就去试了一下，感觉 schematic 和 PCB 的手动走线功能确实比 EasyEDA 好了很多，而且因为不是网页端也流畅了很多，但是这个自动走线真的完全没法用...\n\n感觉每次画板子能省下时间最多的就是自动走线了，用 EasyEDA 摆好 PCB 让它自动走五分钟大概能走好 98% 的线，然后再手动把剩下的 2% 调好就好了。然而换到 KiCad 装上 freerouting 发现这个自动走线真的完全没法用，是 Java 写就算了居然还是单线程 (╯’ – ‘)╯︵ ┻━┻\n\n而且看着动画感觉它像是在 BFS 一样，大部分线都没尝试去走就回退，感觉它比起找到一个「大部分线都走好了的失败」更想花∞时间找到完美答案，结果就是等了半小时到第 200 次 iteration 了它还只成功走了一条线...\n\n想导入到 EasyEDA 自动走线但是 EasyEDA 不能导入 KiCad 7 项目... 所以大概这个板子会是我第一次也是最后一次手动走线，今后还是回去继续用 EasyEDA 吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442928637365985920.tgs\">😮‍💨</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13622893304292797,
     "images": [
@@ -40974,7 +40974,7 @@
     "id": 3034,
     "date": "2023-12-18T07:11:16",
     "text": "今天一直停不下来地咳嗽... 然后喝了一点以前买的右美沙芬，发现这个味道真的好防 OD，或者说好防喝 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 我刚舔一口就不想再碰它了，好苦又好重的薄荷味完全没办法下口\n\n哭哭 明天去超市找一个不是这么防 OD 的好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 1,
     "images": [
       {
@@ -40993,7 +40993,7 @@
     "id": 3035,
     "date": "2023-12-18T13:49:37",
     "text": "醒了 聊聊说我昨天一边不停咳嗽一边睡着了，睡觉的时候也在一直咳嗽 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n第一次知道原来特别困的时候咳嗽可以不影响睡觉（？）",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "reply": {
       "id": 3034,
@@ -41004,7 +41004,7 @@
     "id": 3036,
     "date": "2023-12-18T15:06:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的超级美式早餐！好好吃\n\n感觉相比之下我做的菜就好🀄️，<span class=\"spoiler\"><span>昨天还想买培根做红烧培根的</span></span>",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -41023,14 +41023,14 @@
     "id": 3037,
     "date": "2023-12-18T22:23:51",
     "text": "美好的一天从下午五点起床开始 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n<del>天已经黑了！</del>",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 3038,
     "date": "2023-12-18T22:41:00",
     "text": "今早九点起来的时候查了一下在哪里可以买到右美沙芬胶囊/药片，发现原来泰诺🌞片也含 15mg 右美沙芬，但是🌚片没有\n\n呜呜呜所以昨晚睡觉前不应该吃🌚片的，今早吃完早饭吃🌞片睡觉就好了很多 qwq",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "reply": {
       "id": 3034,
@@ -41041,7 +41041,7 @@
     "id": 3040,
     "date": "2023-12-19T01:01:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做了炒肉和饭，但是因为感冒不太想吃米饭就做了荞麦面蘸面 qwq\n\n果然蘸面汁还是多放一些糖比较好吃。以及今天放的汤底稀释比例明明比以前浓但是因为感冒仍然觉得淡，好可惜\n\n再睡一会再去复习，明天最后一门语言学考试之后学期就结束了！（然而因为是 cr/ncr 这个考试我只需要考 40% 就可以了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13623581547289453,
     "images": [
@@ -41071,7 +41071,7 @@
     "id": 3041,
     "date": "2023-12-19T04:05:28",
     "text": "刚把推迟考试的请求表交上去了。真的为什么在 UofT 推迟考试这么麻烦... 甚至表单直接说了即使是 Covid Rapid Test 阳性的照片都不能作为生病的证据，必须要 registered 医生开的假条 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "reply": {
       "id": 3024,
@@ -41094,7 +41094,7 @@
     "id": 3042,
     "date": "2023-12-19T05:18:07",
     "text": "<a href=\"##ADHD\">#ADHD</a> 明早要继续之前没做完的 ADHD 诊断，然后今天才想起来上次诊断医生说要做 ECG 检查才能开药来着，然而现在已经没有做检查的地方开门了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 2895,
@@ -41105,7 +41105,7 @@
     "id": 3044,
     "date": "2023-12-19T22:41:14",
     "text": "看到学校 cs lab 的电脑升级了... 这个配置好扭曲？？\n\nCPU 上了服务器级别的 Xeon W 但是只有四核，显卡上了超级贵的企业级 A2000 卡，然而显存只有 6GB 而且性能还没有 3060 好... 内存 64GB，日常占用 1.4GB 🌚\n\n而且桌面是古董一样的 LXDE... 真的感觉可能 Xfce 都比这个好用一点。不开心，cs dept 这样做真的会给很多没用过 Linux 人带来一种“原来 Linux 桌面这么难用”的印象，明明有更现代更好用的桌面... 找时间发邮件 complain 一下好了",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "media_group_id": 13624205391149293,
     "images": [
@@ -41135,14 +41135,14 @@
     "id": 3045,
     "date": "2023-12-20T02:16:17",
     "text": "语言学考完了！把所有不确定的算错也至少有 68 分，肯定 CR 了！好耶，放假啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
     "id": 3046,
     "date": "2023-12-20T02:40:44",
     "text": "说起来这个考试最后一道题4分，让你写下两条规则定义英语词哪里可以插 \"f#cking\" 哪里不行 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（比如说为什么 \"fan-f#cking-tastic\" 可以但是 \"fantas-f#cking-tic\" 不行\n\n这居然是有规则的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "reply": {
       "id": 3045,
@@ -41153,14 +41153,14 @@
     "id": 3047,
     "date": "2023-12-20T06:27:01",
     "text": "Celestium 住进来会不会是我和聊聊恢复作息的契机呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 72,
+    "views": 73,
     "forwards": 1
   },
   {
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 64,
+    "views": 65,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 3048,
