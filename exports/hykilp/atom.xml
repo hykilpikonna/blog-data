@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-23T06:08:03.083063+00:00</updated>
+  <updated>2023-12-23T08:08:33.608223+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3059</id>
+    <title>小桂桂的回忆录 📒 #3059</title>
+    <updated>2023-12-23T07:15:55+00:00</updated>
+    <content>&lt;p&gt;这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;搭好中二 sun plus 更新私服 ✅&lt;/li&gt;
+&lt;li&gt;把 HTPC 的黑苹果修好&lt;/li&gt;
+&lt;li&gt;启动起来 drummania&lt;/li&gt;
+&lt;li&gt;把 wacca touch 固件写了然后让 Asuna 帮忙测试&lt;/li&gt;
+&lt;li&gt;再订一套 wactroller 框的零件寄过来&lt;/li&gt;
+&lt;li&gt;修 VPS 的 PPPoE IP 问题&lt;/li&gt;
+&lt;li&gt;ADHD ECG 检查&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://aza.moe/life?post=3059" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>3058</id>
+    <title>小桂桂的回忆录 📒 #3058</title>
+    <updated>2023-12-23T06:35:07+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+《Show me how》—Men I Trust&lt;/p&gt;
+&lt;p&gt;"Show me how you're proud,
+Tell me how you reach the moon"&lt;/p&gt;
+&lt;p&gt;好想要张开双手抓住月亮&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=OZRYzH0Q0pU"&gt;YouTube (MV)&lt;/a&gt; | &lt;a href="https://music.163.com/song?id=1305366120"&gt;网易云&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3058" rel="alternate"/>
+  </entry>
   <entry>
     <id>3054</id>
     <title>小桂桂的回忆录 📒 #3054</title>
@@ -58,27 +86,28 @@
     <updated>2023-12-20T08:37:33+00:00</updated>
     <content>&lt;p&gt;呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满&lt;/p&gt;
 &lt;p&gt;目前用 iperf3 测试的结果如下：&lt;/p&gt;
-&lt;pre&gt;*                     | 上传到这里 | 从这里下载
-* 🇨🇦 UofT CS Wolf     |  122 Mbps |  825 Mbps
-* 🇨🇦 UofT CS dbsrv1   |  247 Mbps |  742 Mbps
-* 🇨🇦 OVH (100M)       |   77 Mbps |  100 Mbps
-* 🇨🇦 Bell (Jun)       |  857 Mbps |  
-* 🇨🇦 Bell M5V         |  939 Mbps |
-* 🇨🇦 TekSavvy L6C     |   44 Mbps |  927 Mbps
-* 🇨🇦 多伦多 鱼塔网络  |           |  485 Mbps
-* 🇱🇺 Luxemburg Gcore  |  122 Mbps |  109 Mbps
-* 🇺🇸 Washington Vultr |  385 Mbps |  330 Mbps
-* 🇺🇸 西雅图 鱼塔网络  |           |  278 Mbps
-* 🇺🇸 Texas Comcast    |   11 Mbps |
-* 🇮🇳 Mumbai Gcore     |   46 Mbps |   27 Mbps
-* 🇨🇳 杭州 阿里云 (6M) |    6 Mbps |  115 Mbps
-* 🇨🇳 湖南 连通        |   32 Mbps | 
-* 🇨🇳 江苏 移动        |   31 Mbps |
-* 🇭🇰 香港 CNServers   |  122 Mbps |
+&lt;pre&gt;*                     | 上传 | 下载
+* 🇨🇦 UofT CS Wolf     |  122 |  825
+* 🇨🇦 UofT CS dbsrv1   |  247 |  742
+* 🇨🇦 OVH (100M)       |   77 |  100
+* 🇨🇦 Bell (Jun)       |  857 |  
+* 🇨🇦 Bell M5V         |  939 |
+* 🇨🇦 TekSavvy L6C     |   44 |  927
+* 🇨🇦 Toronto Yuuta    |      |  485
+* 🇨🇦 Vancouver Yuuta  |  433 |  378
+* 🇱🇺 Luxemburg Gcore  |  122 |  109
+* 🇺🇸 Washington Vultr |  385 |  330
+* 🇺🇸 Seattle Yuuta    |      |  278
+* 🇺🇸 Texas Comcast    |   11 |
+* 🇮🇳 Mumbai Gcore     |   46 |   27
+* 🇨🇳 Aliyun Hangzhou  |    6 |  115
+* 🇨🇳 Hunan Unicom     |   32 |
+* 🇨🇳 Jiangsu Mobile   |   31 |
+* 🇭🇰 HK CNServers     |  122 |
 
 (下面两个不太算数)
-* 🇨🇦 Bell Aster PPPoE | 2830 Mbps | 2790 Mbps
-* 🇨🇦 Speedtest.net    | 3201 Mbps | 3153 Mbps&lt;/pre&gt;
+* 🇨🇦 Bell Aster PPPoE | 2830 | 2790
+* 🇨🇦 Speedtest.net    | 3201 | 3153&lt;/pre&gt;
 
 &lt;p&gt;总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 &lt;i class="custom-emoji" emoji-src="emoji/6323380753904174863.webp"&gt;😭&lt;/i&gt; 这几天找一个各地互联都比较快的节点做外网代理好了&lt;/p&gt;
 &lt;p&gt;欢迎大家有电脑也来测一下 qwq 跑 &lt;code&gt;iperf3 -R -c daisy-ddns.hydev.org&lt;/code&gt; 就可以&lt;/p&gt;</content>
