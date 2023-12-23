@@ -40316,7 +40316,7 @@
     "id": 2991,
     "date": "2023-12-08T21:01:29",
     "text": "今天为什么没有睡觉：想要下单好再睡，结果下单和下单之后的一段时间里发现了无数个问题导致需要直接把订单取消了\n\n首先是 SMT 贴 ESP32-S3-WROOM-1 非常非常贵（+￥155）因为它不能用经济型 SMT，结果总计下来打样两张板子一共要 ￥450。而且其实这个 IO 板完全不需要 S3 这么好的 MCU，想改成 RP2040 或者 C3。\n\n然后发现我选的插件振荡器没货，改 PCB 改成了标准 SMT 振荡器。然后发现焊接背面的 USB A 口要再多加 ￥100（明明是三个有手都能焊的 USB A 口...）总之亏死了但是还是下单了。\n\n然后发现我 PCB 上读卡器板接口的其中一个 pinout 反了，赶紧取消订单，然后发现已经凌晨十点了（？）",
-    "views": 73,
+    "views": 74,
     "forwards": 1,
     "media_group_id": 13616554316131261,
     "images": [
@@ -41041,7 +41041,7 @@
     "id": 3040,
     "date": "2023-12-19T01:01:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做了炒肉和饭，但是因为感冒不太想吃米饭就做了荞麦面蘸面 qwq\n\n果然蘸面汁还是多放一些糖比较好吃。以及今天放的汤底稀释比例明明比以前浓但是因为感冒仍然觉得淡，好可惜\n\n再睡一会再去复习，明天最后一门语言学考试之后学期就结束了！（然而因为是 cr/ncr 这个考试我只需要考 40% 就可以了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13623581547289453,
     "images": [
@@ -41071,7 +41071,7 @@
     "id": 3041,
     "date": "2023-12-19T04:05:28",
     "text": "刚把推迟考试的请求表交上去了。真的为什么在 UofT 推迟考试这么麻烦... 甚至表单直接说了即使是 Covid Rapid Test 阳性的照片都不能作为生病的证据，必须要 registered 医生开的假条 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 69,
+    "views": 71,
     "forwards": 0,
     "reply": {
       "id": 3024,
@@ -41094,7 +41094,7 @@
     "id": 3042,
     "date": "2023-12-19T05:18:07",
     "text": "<a href=\"##ADHD\">#ADHD</a> 明早要继续之前没做完的 ADHD 诊断，然后今天才想起来上次诊断医生说要做 ECG 检查才能开药来着，然而现在已经没有做检查的地方开门了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 65,
+    "views": 69,
     "forwards": 0,
     "reply": {
       "id": 2895,
@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传到这里 | 从这里下载\n* 🇨🇦 UofT CS Wolf     |  122 Mbps |  825 Mbps\n* 🇨🇦 UofT CS dbsrv1   |  247 Mbps |  742 Mbps\n* 🇨🇦 OVH (100M)       |   77 Mbps |  100 Mbps\n* 🇨🇦 Bell (Jun)       |  857 Mbps |  \n* 🇨🇦 Bell M5V         |  939 Mbps |\n* 🇨🇦 TekSavvy L6C     |   44 Mbps |  927 Mbps\n* 🇨🇦 多伦多 鱼塔网络  |           |  485 Mbps\n* 🇱🇺 Luxemburg Gcore  |  122 Mbps |  109 Mbps\n* 🇺🇸 Washington Vultr |  385 Mbps |  330 Mbps\n* 🇺🇸 西雅图 鱼塔网络  |           |  278 Mbps\n* 🇺🇸 Texas Comcast    |   11 Mbps |\n* 🇮🇳 Mumbai Gcore     |   46 Mbps |   27 Mbps\n* 🇨🇳 杭州 阿里云 (6M) |    6 Mbps |  115 Mbps\n* 🇨🇳 湖南 连通        |   32 Mbps | \n* 🇨🇳 江苏 移动        |   31 Mbps |\n* 🇭🇰 香港 CNServers   |  122 Mbps |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 Mbps | 2790 Mbps\n* 🇨🇦 Speedtest.net    | 3201 Mbps | 3153 Mbps</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 62,
+    "views": 63,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41194,7 +41194,7 @@
     "id": 3050,
     "date": "2023-12-20T18:53:08",
     "text": "聊聊买了一个这个鼓，没有压感感觉接上 garageband 的音源也救不了它...",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -41213,7 +41213,7 @@
     "id": 3051,
     "date": "2023-12-21T02:57:01",
     "text": "？🫠",
-    "views": 59,
+    "views": 60,
     "forwards": 1,
     "images": [
       {
@@ -41232,21 +41232,21 @@
     "id": 3052,
     "date": "2023-12-22T08:18:05",
     "text": "之前投完 Bilibili 视频从私信认识了几位同样在多伦多喜欢玩街机音游的朋友，今天 CauBaC 来这里玩，见到了新朋友好开心 qwq\n\n感觉好神奇，即使没有互相发过照片依然一眼认出了是网友（以及 CauBaC 好可爱！）而且发现我真的不社恐了诶，<del>想起来两三年前这样见网友还会觉得认错人会好尴尬，然后就会在约定地点旁边打字问∞个问题之后发现网友就在眼前</del>（？）\n\n玩得很开心！她好厉害！> < 刚过来她还说没怎么玩过中二，然后我很耐心地讲了各种流程结果她上来就打 13+ 打了一个 995 (╯’ – ‘)╯︵ ┻━┻ <del>被音游人的例常卖菜骗到了</del>\n\n好想快点把 Wacca 和 maimai 也搭起来...",
-    "views": 51,
+    "views": 53,
     "forwards": 0
   },
   {
     "id": 3053,
     "date": "2023-12-22T09:11:04",
     "text": "又发生了睡觉 deadlock，我在等聊聊睡觉的时候聊聊在等我睡觉，结果就到凌晨四点了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 47,
+    "views": 49,
     "forwards": 2
   },
   {
     "id": 3054,
     "date": "2023-12-22T23:19:55",
     "text": "更新完了！<a href=\"https://github.com/hykilpikonna/AquaDX\">AquaDX</a> 和 <a href=\"lux.hydev.org\">lux.hydev.org</a> 都支持中二 SUN Plus 了！所有数据也都同步了哦",
-    "views": 12,
+    "views": 24,
     "forwards": 1,
     "media_group_id": 13626297563827117,
     "images": [
