@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2023-12-27T10:09:30.643332+00:00</updated>
+  <updated>2023-12-27T12:09:16.609252+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3081</id>
+    <title>小桂桂的回忆录 📒 #3081</title>
+    <updated>2023-12-27T11:37:15+00:00</updated>
+    <content>&lt;p&gt;今年的 boxing day 花了六个小时给聊聊挑新的笔记本&lt;/p&gt;
+&lt;p&gt;写了三个爬虫，分别爬 CanadaComputers 笔记本价格数据、让 GPT3.5 从商品名里面解析清理型号、爬 NotebookCheck CPU 信息和 GPU 跑分、爬 Passmark CPU 跑分，爬下来处理完最终生成出了&lt;a href="https://hw.hydev.org/PCData/"&gt;这个网页&lt;/a&gt;！（源码在&lt;a href="https://github.com/hykilpikonna/OpenHardware/tree/main/PCData"&gt;这里&lt;/a&gt;！&lt;/p&gt;
+&lt;p&gt;它可以按各种需求计算出 100% 性价比最高的笔记本，比如如果需要游戏本就看 gpu 比例高的列表，需要轻薄本就看 cpu 比例高的列表。&lt;/p&gt;
+&lt;p&gt;和聊聊聊聊之后打算买 IdeaPad 3 啦，因为聊聊需要轻薄也不需要用笔记本打游戏。轻 1.6kg 15"，Ryzen 5825U，SSD 内存都能换，看拆机视频可维修性超高，感觉还不错 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3081" rel="alternate"/>
+  </entry>
   <entry>
     <id>3079</id>
     <title>小桂桂的回忆录 📒 #3079</title>

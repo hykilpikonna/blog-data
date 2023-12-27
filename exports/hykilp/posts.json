@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6932,
+    "views": 6933,
     "forwards": 177,
     "media_group_id": 13340239729731381,
     "images": [
@@ -36049,7 +36049,7 @@
     "id": 2696,
     "date": "2023-09-24T12:35:33",
     "text": "谷歌为了赚钱在 Chrome 上把 Adblock for Youtube 标为病毒强制禁用了... 看来是时候全面卸载 Chrome 换 Firefox 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 1016,
+    "views": 1017,
     "forwards": 15,
     "images": [
       {
@@ -41488,7 +41488,7 @@
     "id": 3073,
     "date": "2023-12-26T20:08:45",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n圣诞的黄桃抹茶慕斯！",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "media_group_id": 13628970602555357,
     "images": [
@@ -41548,7 +41548,7 @@
     "id": 3078,
     "date": "2023-12-27T00:54:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒冷面！",
-    "views": 43,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -41567,7 +41567,7 @@
     "id": 3079,
     "date": "2023-12-27T04:52:39",
     "text": "Lexar NM710 这个盘好便宜！Gen4 TLC 的盘 1TB 居然只要 $50？！\n\n室友猪猪买了两张组 raid0 读写 4.1GB/s <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我买了四张同样想 raid0 但是 PCIe 分路卡还在飞机上",
-    "views": 35,
+    "views": 41,
     "forwards": 1,
     "media_group_id": 13629222073810197,
     "images": [
@@ -41590,6 +41590,46 @@
         "url": "media/3080.jpg",
         "size": 302126,
         "thumb": "media/3080.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3081,
+    "date": "2023-12-27T11:37:15",
+    "text": "今年的 boxing day 花了六个小时给聊聊挑新的笔记本\n\n写了三个爬虫，分别爬 CanadaComputers 笔记本价格数据、让 GPT3.5 从商品名里面解析清理型号、爬 NotebookCheck CPU 信息和 GPU 跑分、爬 Passmark CPU 跑分，爬下来处理完最终生成出了<a href=\"https://hw.hydev.org/PCData/\">这个网页</a>！（源码在<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/PCData\">这里</a>！\n\n它可以按各种需求计算出 100% 性价比最高的笔记本，比如如果需要游戏本就看 gpu 比例高的列表，需要轻薄本就看 cpu 比例高的列表。\n\n和聊聊聊聊之后打算买 IdeaPad 3 啦，因为聊聊需要轻薄也不需要用笔记本打游戏。轻 1.6kg 15\"，Ryzen 5825U，SSD 内存都能换，看拆机视频可维修性超高，感觉还不错 qwq",
+    "views": 11,
+    "forwards": 0,
+    "media_group_id": 13629416286353677,
+    "images": [
+      {
+        "width": 1280,
+        "height": 338,
+        "date": "2023-12-27T11:37:12",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-27_11-37-12.jpg",
+        "url": "media/3081.jpg",
+        "size": 129087,
+        "thumb": "media/3081.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 859,
+        "date": "2023-12-27T11:37:13",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-27_11-37-13.jpg",
+        "url": "media/3082.jpg",
+        "size": 86305,
+        "thumb": "media/3082.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 1104,
+        "date": "2023-12-27T11:37:15",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-27_11-37-15.jpg",
+        "url": "media/3083.jpg",
+        "size": 89136,
+        "thumb": "media/3083.jpg_thumb.jpg"
       }
     ]
   }
