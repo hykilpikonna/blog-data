@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 92,
+    "views": 93,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41400,7 +41400,7 @@
     "id": 3067,
     "date": "2023-12-25T11:01:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n补一下昨天和 Celestium 做的烤鸡和炒菜 qwq\n\n是平安夜烤鸡！",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13628016598669917,
     "images": [
@@ -41430,14 +41430,14 @@
     "id": 3068,
     "date": "2023-12-25T11:08:00",
     "text": "圣诞节快乐！<span class=\"spoiler\"><span>子兰生日快乐！</span></span>\n\n说起来虽然已经和前前任子兰分手快三年了，电脑的解锁密码却仍然是子兰的生日... 懒得改，感觉要改的话还要覆盖掉一个刻在肌肉记忆里的动作好麻烦 quq",
-    "views": 59,
+    "views": 61,
     "forwards": 0
   },
   {
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -41477,7 +41477,7 @@
     "id": 3072,
     "date": "2023-12-25T22:56:44",
     "text": "去看了吉卜力的新作《The Boy and the Heron》，三个人集体没看懂 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 60,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 3062,
@@ -41488,7 +41488,7 @@
     "id": 3073,
     "date": "2023-12-26T20:08:45",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n圣诞的黄桃抹茶慕斯！",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "media_group_id": 13628970602555357,
     "images": [
@@ -41548,7 +41548,7 @@
     "id": 3078,
     "date": "2023-12-27T00:54:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒冷面！",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "images": [
       {
@@ -41597,7 +41597,7 @@
     "id": 3081,
     "date": "2023-12-27T11:37:15",
     "text": "今年的 boxing day 花了六个小时给聊聊挑新的笔记本\n\n写了三个爬虫，分别爬 CanadaComputers 笔记本价格数据、让 GPT3.5 从商品名里面解析清理型号、爬 NotebookCheck CPU 信息和 GPU 跑分、爬 Passmark CPU 跑分，爬下来处理完最终生成出了<a href=\"https://hw.hydev.org/PCData/\">这个网页</a>！（源码在<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/PCData\">这里</a>！\n\n它可以按各种需求计算出 100% 性价比最高的笔记本，比如如果需要游戏本就看 gpu 比例高的列表，需要轻薄本就看 cpu 比例高的列表。\n\n和聊聊聊聊之后打算买 IdeaPad 3 啦，因为聊聊需要轻薄也不需要用笔记本打游戏。轻 1.6kg 15\"，Ryzen 5825U，SSD 内存都能换，看拆机视频可维修性超高，感觉还不错 qwq",
-    "views": 55,
+    "views": 56,
     "forwards": 2,
     "media_group_id": 13629416286353677,
     "images": [
@@ -41637,7 +41637,7 @@
     "id": 3084,
     "date": "2023-12-27T15:44:02",
     "text": "拿到了！是展示机（这也算 open box 的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i>",
-    "views": 57,
+    "views": 59,
     "forwards": 0,
     "reply": {
       "id": 3081,
@@ -41649,7 +41649,7 @@
     "id": 3085,
     "date": "2023-12-27T17:56:31",
     "text": "买回来立即升级了 SSD 和内存，不过第一次见 15 寸这么大的笔记本里面居然这么空，<del>说不定能塞一些魔改进去，感觉空间这么大可以放一个 rf 写卡器了</del>",
-    "views": 57,
+    "views": 59,
     "forwards": 1,
     "reply": {
       "id": 3084,
@@ -41672,7 +41672,7 @@
     "id": 3086,
     "date": "2023-12-28T04:55:50",
     "text": "+ maimai DX！\n\n它真的好大好重！送到的时候是一个大卡车开过来司机专门打电话联系我了，送上楼还被公寓物业骂了说需要申请货物电梯，然后三个人一起才把它搬上来拼好（感谢 Celestium 帮忙 qwq\n\n用了一段时间把软件调好啦，感谢蓝夏的魔改！现在还缺读卡器和自起脚本，私服似乎也已经兼容了 1.40 的样子（虽然没有做修改，可能是这两个版本之间 API 本身就没有改动吧）\n\n总之明天再继续折腾了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 2,
     "media_group_id": 13629914800119629,
     "images": [
@@ -41722,7 +41722,7 @@
     "id": 3092,
     "date": "2023-12-28T21:45:57",
     "text": "第一次见到 boxing day 打折还没结束就卖缺货了，可能这个盘真的太香",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "media_group_id": 13630399662928013,
     "images": [
@@ -41757,7 +41757,7 @@
     "id": 3094,
     "date": "2023-12-29T03:06:42",
     "text": "哭哭 感觉有点亏... 花了 $50 升 SSD，花了 $70 升 40GB 内存，然后发现这个屏幕是 TN 屏看着好难受想再花 $50 从国内买替换屏幕... 但是那样加起来就 $690 了，感觉还不如退掉从国内买机械革命无界 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 48,
+    "views": 49,
     "forwards": 1,
     "reply": {
       "id": 3085,
@@ -41768,7 +41768,7 @@
     "id": 3095,
     "date": "2023-12-29T03:32:41",
     "text": "决定试试退掉，如果能退掉就<del>上船</del>",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 3094,
@@ -41779,7 +41779,7 @@
     "id": 3096,
     "date": "2023-12-29T04:00:11",
     "text": "读卡器和开机自起都做好啦！用 Windows Task Scheduler 加了两个服务，一个是登录自动启动读卡器和 maimai，另一个是断电的时候自动关机，然后用 sysinternals 设了开机自动登录\n\n从开机到能玩只要两分半！",
-    "views": 44,
+    "views": 46,
     "forwards": 0,
     "reply": {
       "id": 3086,
@@ -41806,7 +41806,7 @@
     "id": 3097,
     "date": "2023-12-29T04:51:40",
     "text": "聊聊在拼天坛\n我：这个亭子怎么这么和风🇯🇵\n聊聊（沉默）\n\n...但是它看起来确实很🇯🇵！<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 43,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -41825,11 +41825,30 @@
     "id": 3098,
     "date": "2023-12-29T08:47:34",
     "text": "<del>年度总结：今年睡了 8761h</del>",
-    "views": 30,
+    "views": 39,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
       "url": "https://t.me/hykilpikonna"
     }
+  },
+  {
+    "id": 3099,
+    "date": "2023-12-29T19:29:17",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>牛角三明培根鸡蛋治包！</del>",
+    "views": 14,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1874,
+        "height": 1530,
+        "date": "2023-12-29T19:29:17",
+        "media_type": "photo",
+        "original_name": "photo_2023-12-29_19-29-17.jpg",
+        "url": "media/3099.jpg",
+        "size": 267246,
+        "thumb": "media/3099.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
