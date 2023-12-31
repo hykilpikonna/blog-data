@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6936,
+    "views": 6937,
     "forwards": 177,
     "media_group_id": 13340239729731381,
     "images": [
@@ -34475,7 +34475,7 @@
     "id": 2584,
     "date": "2023-09-01T07:12:37",
     "text": "从中国买二手的鬼故事...\n\n十二前从京东爱回收严选买了一台小米 11 Ultra 为了在这段旅行中拍照片，然后两天前突然长焦镜头连接不上了，尝试启动长焦会让相机卡死。问客服，客服说四十天免费换货期限已经过了，因为时间是按转运仓收货的日期开始算，然而从转运仓寄到北美花了十天。<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n那就自己 debug 一下吧。首先确定了不是软件问题，换 GCam 和开源相机也无果。然后怀疑是镜头软线接触不好，想拆开看看，所以今天回到旅店之后抽出时间拆开。好不容易绕开爱回收的「撕毁无效」条把后盖打开了，然后发现它居然是被修过的... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 里面螺丝上的贴纸被戳破了，还在另一个螺丝上贴了维修公司贴的「撕毁无效」条。\n\n因为这两个撕毁无效贴纸我只试了一下拔了重新插软线，并没有用。现在感觉最大的可能是 CPU 维修过然后维修员技术不够好 bga 因为过热脱焊或者短路了。现在这台只能送回去修... 然后旅程剩下的几天就没有长焦用了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n不过现在也没有其他的手机划算，所以又买了一台类似的二手 11 Ultra，等新的收到把这台送回去修然后半价卖掉好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 113,
+    "views": 114,
     "forwards": 2,
     "media_group_id": 13548418860968549,
     "images": [
@@ -41400,7 +41400,7 @@
     "id": 3067,
     "date": "2023-12-25T11:01:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n补一下昨天和 Celestium 做的烤鸡和炒菜 qwq\n\n是平安夜烤鸡！",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13628016598669917,
     "images": [
@@ -41934,7 +41934,7 @@
     "id": 3106,
     "date": "2023-12-30T11:48:44",
     "text": "补一下昨天去 downtown 看到的比较有意思的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAGO 对面看到了一根在打转的灯条，下面是一家机器人零件店，里面除了零件还摆了宝可梦，好想进去看看（可惜他们在放假不开\n\n在一栋看上去普普通通的居民楼的地下入口角落里看到了一家专卖哈利波特周边的魔法店，这个店真的有很神秘的气氛诶，弄得我都有点想补了（结果买了一张贴纸）\n\n在唐人街拥挤的店铺中间看到了一栋好漂亮的楼，是一家 rbc，感觉画风好东亚",
-    "views": 40,
+    "views": 42,
     "forwards": 0,
     "media_group_id": 13631495395659333,
     "images": [
@@ -41974,7 +41974,7 @@
     "id": 3109,
     "date": "2023-12-31T00:06:35",
     "text": "今天去 Linux 社区问问题又被骂了... 明明用 Windows Server 的时候用 RDP 远程桌面登录 Admin 帐号管理服务器是非常常见的操作，换到 Linux 我用 Gnome RDP 远程桌面登录 root 管理服务器怎么就被骂成这样（）\n\n我喜欢用 UI 管理因为 UI 很方便，管理复杂的东西比如 VirtualBox 不需要学或者背一些很复杂的指令，也不需要查我想要的功能用它的配置文件格式怎么表达。可是这样设好之后在 Linux 社区问问题就会因为不是 Linux 的普遍用法被骂。可是明明 Linux 是一个万能的工具，我喜欢 Linux 是因为我想怎么用就能怎么用，不需要被微软苹果产品经理对用户的想象所限制，可是 Linux 社区却形成了一套新的规训，如果自己的用法不符合就会被骂。\n\n真的好讨厌 Linux 社区！今天第一次真正感受到 GPT4 比人类优秀，因为 GPT4 会理解我的需求回答我的问题，而不是打一堆问号阴阳怪气",
-    "views": 43,
+    "views": 47,
     "forwards": 1,
     "media_group_id": 13631849566116997,
     "images": [
@@ -42074,7 +42074,7 @@
     "id": 3118,
     "date": "2023-12-31T02:06:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nCelestium 做的炒饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好好吃",
-    "views": 19,
+    "views": 27,
     "forwards": 0,
     "media_group_id": 13631907076047805,
     "images": [
