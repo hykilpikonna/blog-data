@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Jan 2024 08:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 10:10:07 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3129</title>
+      <link>https://aza.moe/life?post=3129</link>
+      <description>&lt;p&gt;把家里的 VPS 网络修好了！infra 全面重构 &lt;i class="custom-emoji" emoji-src="emoji/6111506770197219135.webm"&gt;😮&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq&lt;/p&gt;
+&lt;p&gt;新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）&lt;/p&gt;</description>
+      <guid isPermaLink="false">3129</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3127</title>
       <link>https://aza.moe/life?post=3127</link>
