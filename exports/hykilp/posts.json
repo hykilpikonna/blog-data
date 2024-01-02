@@ -39627,7 +39627,7 @@
     "id": 2946,
     "date": "2023-11-27T12:28:12",
     "text": "算了不补课了，这个点尝试理解 Hidden Markov filtering 真的完全看不懂... 还有 5h 考试那就睡 4h 好了。\n\n今天还要给 Jun 带电钻去搬她的电视，晚上 11:59 之前要交 OS 的小作业，明天要去医院至少要 3h，然而后天中午之前要两个人写完一个能用的 Duolingo++ 移动端网页（现在只写完了登录和选择语言），周五语言学大作业，下周一共三个专业课大作业还有一个演讲...\n\n好累好累好累",
-    "views": 109,
+    "views": 111,
     "forwards": 1,
     "reply": {
       "id": 2945,
@@ -39649,7 +39649,7 @@
   {
     "id": 2947,
     "date": "2023-11-27T12:53:00",
-    "views": 105,
+    "views": 107,
     "forwards": 0,
     "files": [
       {
@@ -39697,7 +39697,7 @@
     "id": 2949,
     "date": "2023-11-28T02:56:36",
     "text": "好消息是数据都备份出去了，而且 scrub 一遍发现数据只有 28 个 4kb 块出无法恢复的错。坏消息是剩下的问题我也不知道怎么修，现在 Reallocated Sector 还在不断增加，而且 scrub 之后 btrfs check 还有无数个报错...\n\n目前在进行一些超级慢的坏道扫描，从 SMART error log 看来坏道似乎是比较连续的，地址也很接近，希望可以屏蔽一些坏道解决。\n\n从国内买了一块新的二手 14TB 盘，暂时打算等新盘到之前继续用，希望不会在新盘到之前坏掉（x）\n\n<span class=\"spoiler\"><span>为什么别人通电两年没问题的盘到我手里不到一年就坏成这样了呢？突然在想会不会和使用习惯有关... <del>我我服务器离桌子很近而且我 ADHD 经常抖腿，会不会是抖腿震到硬盘了</del> </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</span></span></i>",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "reply": {
       "id": 2944,
@@ -39720,7 +39720,7 @@
     "id": 2950,
     "date": "2023-11-28T08:19:38",
     "text": "写了一个扫坏道脚本，会用 1gb 区块估算速度和剩余时间、可以随时停下从断点继续、停止扫描的时候会等这个区块扫完以防遗留、会把所有坏道和扫描历史记录成 Json、自动做地址换算转成要屏蔽的 LBA",
-    "views": 122,
+    "views": 125,
     "forwards": 4,
     "media_group_id": 13609276631025917,
     "images": [
@@ -39754,14 +39754,14 @@
     "id": 2952,
     "date": "2023-11-29T06:16:05",
     "text": "哭哭 对虾过敏，但是今天聊聊叫炸虾没忍住就吃了，结果现在胃痛到想要去 ER <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n明明之前吃虾只会拉肚子就觉得也许没事的... 结果这次是持续的剧烈胃痛，已经从十一点疼到现在两个小时了",
-    "views": 108,
+    "views": 111,
     "forwards": 2
   },
   {
     "id": 2953,
     "date": "2023-11-29T06:32:32",
     "text": "因为痛所以吃了止痛药布洛芬，然后刚才问猫猫球才知道布洛芬反而会刺激胃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 94,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 2952,
@@ -39772,14 +39772,14 @@
     "id": 2954,
     "date": "2023-11-29T11:08:01",
     "text": "我：想吃披萨🍕，明天我们烤披萨吧\n聊聊：但是我们没有披萨怎么烤\n我：自己和面自己做！\n聊聊：那我们也没有披萨的食材呀\n我：我们有菠萝罐头和淀粉香肠 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n聊聊：💢💢（大声哀嚎）",
-    "views": 88,
+    "views": 90,
     "forwards": 0
   },
   {
     "id": 2955,
     "date": "2023-11-30T05:12:53",
     "text": "不久前朋友拿到了最新最热 maimai 1.40 BUDDiES 的数据，花了一段时间拆包脱壳终于能启动了，接下来只需要给 AquaDX 做兼容...\n\n不过我的那台 ADX3 手台还有 17 天才会到，所以时间还很够，<del>等考完期末 1.40 烂大街了肯定就有别人写好服务器了吧</del> qwq\n\n逆向的 writeup 在这里： <a href=\"https://aza.moe/blog?post=2023-11-30-Maimai-Reversing\">https://aza.moe/blog?post=2023-11-30-Maimai-Reversing</a>",
-    "views": 121,
+    "views": 124,
     "forwards": 4,
     "images": [
       {
@@ -39798,14 +39798,14 @@
     "id": 2956,
     "date": "2023-11-30T09:27:52",
     "text": "想开坑做一些街机 mod 让手游的谱也能在街机上玩、还原街机手感\n\n比如把 pjsk 和 bang 移植到 chuni、把 deemo 和 pianista 移植到 nos、把 lanota 和 rotaeno 移植到 wacca、把 chrono circle 和<del>舞立方</del>移植到 mai、<del>把 arcaea... 算了这个有点难</del>\n\n感觉应该可行，<del>但是会不会同时 piss off 至少九个公司</del>",
-    "views": 107,
+    "views": 112,
     "forwards": 1
   },
   {
     "id": 2957,
     "date": "2023-11-30T22:51:10",
     "text": "那天听猫猫球的建议吃了 DPH 之后胃好了很多，果然是过敏，不过到现在快两天了还在隐隐约约地胀痛... 不知道什么时候会完全好\n\n...以及吃了 DPH 好容易困困，白天睡到下午四点起来写点作业然后现在还想睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6323184405179270958.webp\">😪</i>",
-    "views": 86,
+    "views": 91,
     "forwards": 0,
     "reply": {
       "id": 2952,
@@ -39816,7 +39816,7 @@
     "id": 2958,
     "date": "2023-12-01T07:30:27",
     "text": "说起来现在 <a href=\"aza.moe\">aza.moe</a> 这个主页还是部署在 github pages 来着，之前还害怕会不会总共大小超过 1GB 就要重构了，因为 github 规则上写允许的最大部署就是 1GB\n\n结果原来只是警告一下“超过了可能会部署失败”但是实际上完全没问题 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 98,
+    "views": 103,
     "forwards": 0,
     "reply": {
       "id": 2955,
@@ -39965,7 +39965,7 @@
     "id": 2967,
     "date": "2023-12-05T01:15:26",
     "text": "今日份的 UofT: 最后一周的期末演讲 meeting 让我们填问券的时候才发现原来 CSC301 软工这门课有 lecture 🌚",
-    "views": 87,
+    "views": 89,
     "forwards": 1,
     "images": [
       {
@@ -41722,7 +41722,7 @@
     "id": 3092,
     "date": "2023-12-28T21:45:57",
     "text": "第一次见到 boxing day 打折还没结束就卖缺货了，可能这个盘真的太香",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13630399662928013,
     "images": [
@@ -41757,7 +41757,7 @@
     "id": 3094,
     "date": "2023-12-29T03:06:42",
     "text": "哭哭 感觉有点亏... 花了 $50 升 SSD，花了 $70 升 40GB 内存，然后发现这个屏幕是 TN 屏看着好难受想再花 $50 从国内买替换屏幕... 但是那样加起来就 $690 了，感觉还不如退掉从国内买机械革命无界 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 63,
+    "views": 66,
     "forwards": 1,
     "reply": {
       "id": 3085,
@@ -41768,7 +41768,7 @@
     "id": 3095,
     "date": "2023-12-29T03:32:41",
     "text": "决定试试退掉，如果能退掉就<del>上船</del>",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 3094,
@@ -41779,7 +41779,7 @@
     "id": 3096,
     "date": "2023-12-29T04:00:11",
     "text": "读卡器和开机自起都做好啦！用 Windows Task Scheduler 加了两个服务，一个是登录自动启动读卡器和 maimai，另一个是断电的时候自动关机，然后用 sysinternals 设了开机自动登录\n\n从开机到能玩只要两分半！",
-    "views": 61,
+    "views": 63,
     "forwards": 0,
     "reply": {
       "id": 3086,
@@ -41806,7 +41806,7 @@
     "id": 3097,
     "date": "2023-12-29T04:51:40",
     "text": "聊聊在拼天坛\n我：这个亭子怎么这么和风🇯🇵\n聊聊（沉默）\n\n...但是它看起来确实很🇯🇵！<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -41825,7 +41825,7 @@
     "id": 3098,
     "date": "2023-12-29T08:47:34",
     "text": "<del>年度总结：今年睡了 8761h</del>",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -41836,7 +41836,7 @@
     "id": 3099,
     "date": "2023-12-29T19:29:17",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>牛角三明培根鸡蛋治包！</del>",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "images": [
       {
@@ -41855,7 +41855,7 @@
     "id": 3100,
     "date": "2023-12-29T21:00:06",
     "text": "后续：退掉了！",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 3095,
@@ -41866,14 +41866,14 @@
     "id": 3101,
     "date": "2023-12-29T21:02:39",
     "text": "我：要不要打车？\n聊聊：没必要吧\n我：\"maybe 要吧\" 是要还是不要",
-    "views": 59,
+    "views": 61,
     "forwards": 0
   },
   {
     "id": 3102,
     "date": "2023-12-29T22:01:41",
     "text": "哭哭 比较倒霉\n\n原本想顺便看看怎么把之前坏掉的手机寄回国送修，去顺丰顺丰没开，然后去 UPS 和 Canada Post 都说有电池不能寄... 为什么中国能寄过来但是加拿大不能寄回去，怪哦\n\n不知道怎么办了",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "images": [
       {
@@ -41974,7 +41974,7 @@
     "id": 3109,
     "date": "2023-12-31T00:06:35",
     "text": "今天去 Linux 社区问问题又被骂了... 明明用 Windows Server 的时候用 RDP 远程桌面登录 Admin 帐号管理服务器是非常常见的操作，换到 Linux 我用 Gnome RDP 远程桌面登录 root 管理服务器怎么就被骂成这样（）\n\n我喜欢用 UI 管理因为 UI 很方便，管理复杂的东西比如 VirtualBox 不需要学或者背一些很复杂的指令，也不需要查我想要的功能用它的配置文件格式怎么表达。可是这样设好之后在 Linux 社区问问题就会因为不是 Linux 的普遍用法被骂。可是明明 Linux 是一个万能的工具，我喜欢 Linux 是因为我想怎么用就能怎么用，不需要被微软苹果产品经理对用户的想象所限制，可是 Linux 社区却形成了一套新的规训，如果自己的用法不符合就会被骂。\n\n真的好讨厌 Linux 社区！今天第一次真正感受到 GPT4 比人类优秀，因为 GPT4 会理解我的需求回答我的问题，而不是打一堆问号阴阳怪气",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "media_group_id": 13631849566116997,
     "images": [
@@ -42074,7 +42074,7 @@
     "id": 3118,
     "date": "2023-12-31T02:06:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nCelestium 做的炒饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好好吃",
-    "views": 55,
+    "views": 57,
     "forwards": 0,
     "media_group_id": 13631907076047805,
     "images": [
@@ -42104,7 +42104,7 @@
     "id": 3120,
     "date": "2023-12-31T07:04:55",
     "text": "啊啊 怎么又过期了 好烦",
-    "views": 60,
+    "views": 61,
     "forwards": 1,
     "images": [
       {
@@ -42123,14 +42123,14 @@
     "id": 3121,
     "date": "2023-12-31T17:13:14",
     "text": "一觉起来发现身边 UTC-5、UTC-8 的朋友们都跨上了 UTC+8 年 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 149,
+    "views": 150,
     "forwards": 4
   },
   {
     "id": 3122,
     "date": "2023-12-31T20:09:44",
     "text": "写了一个 maimai ADX3 启动教程，在<a href=\"https://www.notion.so/hydev/maimai-ADX3-2cb847712fac47c4b06ee44c01075b88\">这里</a>",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "reply": {
       "id": 3096,
@@ -42141,7 +42141,7 @@
     "id": 3123,
     "date": "2023-12-31T23:12:13",
     "text": "创建 GitHub 帐号已经七年了！更新一下今年写的项目 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n🟥: 咕了 🕊\n🟦: 写完但是没发布/没什么用的\n🟨: 还没写完但是会继续\n🟩: 满意的项目w\n\n原本觉得翻 GitHub 活动记录就能大概回想起某段时间在做什么，但是发现今年做的好多硬件项目都没有存到 GitHub 上，即使存了的也没有写很详细的 commit 记录...\n\n因为无论是 onshape CAD 还是 EasyEDA 都是云端存储，如果要推到 GitHub 上必须专门导出文件好麻烦。好想写一个可以把云端修改记录同步到 GitHub 上的插件",
-    "views": 54,
+    "views": 56,
     "forwards": 0,
     "reply": {
       "id": 1679,
@@ -42165,7 +42165,7 @@
     "id": 3124,
     "date": "2024-01-01T00:46:40",
     "text": "理这团线感觉自己在拆炸弹 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 55,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 48,
+    "views": 52,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -42195,7 +42195,7 @@
     "id": 3126,
     "date": "2024-01-01T16:46:52",
     "text": "新年的第一天从 1cc 接到一个病毒开始 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n感觉街机社区大部分的街机数据、注入和魔改工具都不开源还非常稀有，而且干净的注入工具也会报毒所以只是扫描一下也区分不出... 总之不知不觉就变成了能下到什么 exe dll 都直接跑，然后就导致了今天的 drama\n\n但是感觉这也没办法... 毕竟本质上跑街机和破解软件是一样的性质，只能相信提供 dump 和破解的人没有恶意了。不过还是推荐有条件就用一个专门为了街机新装的系统跑这些吧，至少能降低中毒的损失 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 32,
+    "views": 45,
     "forwards": 0,
     "images": [
       {
@@ -42209,5 +42209,16 @@
         "thumb": "media/3126.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 3127,
+    "date": "2024-01-01T22:16:35",
+    "text": "早上做了面用了一个新的汤底，然后发现它里面含虾赶快吃了一些 dph，然后睡到了现在 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n感觉 dph 比起抗过敏更适合做安眠药",
+    "views": 27,
+    "forwards": 0,
+    "reply": {
+      "id": 2957,
+      "text": "那天听猫猫球的建议吃了 DPH 之后胃好了很多，果然是过敏，不过到现在快两天了还在隐隐约约地胀痛... 不知道什么时候会完全好\n\n...以及吃了 DPH 好容易困困，白天睡到下午四点起来写点作业然后现在还想睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6323184405179270958.webp\">😪</i>"
+    }
   }
 ]
