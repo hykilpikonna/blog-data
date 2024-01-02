@@ -41892,7 +41892,7 @@
     "id": 3103,
     "date": "2023-12-30T06:39:41",
     "text": "今天发生的灵车惨案",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "images": [
       {
@@ -41911,7 +41911,7 @@
     "id": 3104,
     "date": "2023-12-30T09:33:00",
     "text": "犹豫了超级久要买小新还是无界之后还是下单了小新 Pro 14\n\n32GB 的话两个本子价格参数都差不多，小新的机身质量、音响输出、BIOS 都好一些，不过扩展性差一点（内存是焊上的，以及只有一个 NVMe 槽，不过 32GB 内存对笔记本也够用啦）\n\n不过最主要的可能还是想要一种上船没办法获得的安心，毕竟想起几年前给子兰买的船用两年充电电路就坏了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 我在加拿大的话也很难送修",
-    "views": 60,
+    "views": 61,
     "forwards": 1,
     "reply": {
       "id": 3100,
@@ -42123,14 +42123,14 @@
     "id": 3121,
     "date": "2023-12-31T17:13:14",
     "text": "一觉起来发现身边 UTC-5、UTC-8 的朋友们都跨上了 UTC+8 年 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 4
   },
   {
     "id": 3122,
     "date": "2023-12-31T20:09:44",
     "text": "写了一个 maimai ADX3 启动教程，在<a href=\"https://www.notion.so/hydev/maimai-ADX3-2cb847712fac47c4b06ee44c01075b88\">这里</a>",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "reply": {
       "id": 3096,
@@ -42141,7 +42141,7 @@
     "id": 3123,
     "date": "2023-12-31T23:12:13",
     "text": "创建 GitHub 帐号已经七年了！更新一下今年写的项目 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n🟥: 咕了 🕊\n🟦: 写完但是没发布/没什么用的\n🟨: 还没写完但是会继续\n🟩: 满意的项目w\n\n原本觉得翻 GitHub 活动记录就能大概回想起某段时间在做什么，但是发现今年做的好多硬件项目都没有存到 GitHub 上，即使存了的也没有写很详细的 commit 记录...\n\n因为无论是 onshape CAD 还是 EasyEDA 都是云端存储，如果要推到 GitHub 上必须专门导出文件好麻烦。好想写一个可以把云端修改记录同步到 GitHub 上的插件",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "reply": {
       "id": 1679,
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -42195,7 +42195,7 @@
     "id": 3126,
     "date": "2024-01-01T16:46:52",
     "text": "新年的第一天从 1cc 接到一个病毒开始 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n感觉街机社区大部分的街机数据、注入和魔改工具都不开源还非常稀有，而且干净的注入工具也会报毒所以只是扫描一下也区分不出... 总之不知不觉就变成了能下到什么 exe dll 都直接跑，然后就导致了今天的 drama\n\n但是感觉这也没办法... 毕竟本质上跑街机和破解软件是一样的性质，只能相信提供 dump 和破解的人没有恶意了。不过还是推荐有条件就用一个专门为了街机新装的系统跑这些吧，至少能降低中毒的损失 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 61,
+    "views": 63,
     "forwards": 0,
     "images": [
       {
@@ -42214,7 +42214,7 @@
     "id": 3127,
     "date": "2024-01-01T22:16:35",
     "text": "早上做了面用了一个新的汤底，然后发现它里面含虾赶快吃了一些 dph，然后睡到了现在 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n感觉 dph 比起抗过敏更适合做安眠药",
-    "views": 57,
+    "views": 59,
     "forwards": 0,
     "reply": {
       "id": 2957,
@@ -42225,7 +42225,7 @@
     "id": 3129,
     "date": "2024-01-02T08:57:38",
     "text": "把家里的 VPS 网络修好了！infra 全面重构 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq\n\n新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）",
-    "views": 48,
+    "views": 53,
     "forwards": 1,
     "images": [
       {
@@ -42244,11 +42244,35 @@
     "id": 3130,
     "date": "2024-01-02T19:00:08",
     "text": "还有七天开学，todo 只剩 3/7 了说不定可以做完 qwq",
-    "views": 19,
+    "views": 30,
     "forwards": 0,
     "reply": {
       "id": 3059,
       "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查"
     }
+  },
+  {
+    "id": 3131,
+    "date": "2024-01-02T20:49:41",
+    "text": "私服硬件软件全面升级！\n\n服务器地址迁移到了 aquadx.hydev.org，请在用这个私服的大家对应地改一下 segatools dns <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>\n\n服务器系统从之前的 1C 0.5G VPS 升级到了 2C 8G 的 HyDEV 自家云，数据库从之前的 SQLite 升级到了 Mariadb，总之全都迁移好啦 qwq",
+    "views": 23,
+    "forwards": 1,
+    "reply": {
+      "id": 2761,
+      "text": "<a href=\"##omnicade\">#omnicade</a>\n折腾了一天把私服搭好啦，然后把更新补丁都打好了，虚拟卡可以扫了，用户数据也都可以存了。（私服地址 <a href=\"lux.hydev.org\">lux.hydev.org</a>\n\n不过还差一个读卡器。在想，是私服又可以虚拟卡号为什么要做真正的 Felica 读卡器呢？<del>既然在多伦多是不是应该本地化一下写一个读 Presto 公交卡的驱动</del>",
+      "thumb": "media/2761.jpg_thumb.jpg"
+    },
+    "images": [
+      {
+        "width": 683,
+        "height": 711,
+        "date": "2024-01-02T20:49:41",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-02_20-49-41.jpg",
+        "url": "media/3131.jpg",
+        "size": 71809,
+        "thumb": "media/3131.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
