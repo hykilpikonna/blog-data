@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-01-02T22:12:02.196333+00:00</updated>
+  <updated>2024-01-03T00:11:24.662604+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3132</id>
+    <title>小桂桂的回忆录 📒 #3132</title>
+    <updated>2024-01-02T23:55:23+00:00</updated>
+    <content>&lt;p&gt;说起来把数据从 SQLite 迁移到 MariaDB 真的好麻烦...&lt;/p&gt;
+&lt;p&gt;试了导出 SQL 直接执行因为方言不兼容全都是报错，试了用 Navicat 导出再导入也不行，试了 DBConvert 破解版没跑起来，试了用 IntelliJ/DataGrip 的迁移功能在转换日期时间戳的时候报错。&lt;/p&gt;
+&lt;p&gt;最后试了 RebaseData，大部分都转换好了只不过跑起来的时候因为数据出界报错，然后发现它的类型推导居然会选能装下数据的最小类型，比如如果数据里只有 1, 2, 3 的话它就会写一个 tinyint(4)，如果只有 "hello" 的话它就会写 varchar(5) 🤯&lt;/p&gt;
+&lt;p&gt;结果还是重新建数据库写一个脚本迁移了，为什么就没有好用的迁移工具...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3132" rel="alternate"/>
+  </entry>
   <entry>
     <id>3131</id>
     <title>小桂桂的回忆录 📒 #3131</title>

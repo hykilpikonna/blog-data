@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Jan 2024 22:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 00:11:24 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3132</title>
+      <link>https://aza.moe/life?post=3132</link>
+      <description>&lt;p&gt;说起来把数据从 SQLite 迁移到 MariaDB 真的好麻烦...&lt;/p&gt;
+&lt;p&gt;试了导出 SQL 直接执行因为方言不兼容全都是报错，试了用 Navicat 导出再导入也不行，试了 DBConvert 破解版没跑起来，试了用 IntelliJ/DataGrip 的迁移功能在转换日期时间戳的时候报错。&lt;/p&gt;
+&lt;p&gt;最后试了 RebaseData，大部分都转换好了只不过跑起来的时候因为数据出界报错，然后发现它的类型推导居然会选能装下数据的最小类型，比如如果数据里只有 1, 2, 3 的话它就会写一个 tinyint(4)，如果只有 "hello" 的话它就会写 varchar(5) 🤯&lt;/p&gt;
+&lt;p&gt;结果还是重新建数据库写一个脚本迁移了，为什么就没有好用的迁移工具...&lt;/p&gt;</description>
+      <guid isPermaLink="false">3132</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3131</title>
       <link>https://aza.moe/life?post=3131</link>
