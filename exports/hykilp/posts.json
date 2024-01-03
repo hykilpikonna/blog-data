@@ -37451,7 +37451,7 @@
     "id": 2793,
     "date": "2023-10-26T04:33:07",
     "text": "我和聊聊和猪猪三个人玩马里奥 Wonder 的时候 be like",
-    "views": 107,
+    "views": 108,
     "forwards": 1,
     "images": [
       {
@@ -37683,7 +37683,7 @@
     "id": 2809,
     "date": "2023-10-29T04:22:49",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n猪猪做的牛丼！",
-    "views": 93,
+    "views": 94,
     "forwards": 1,
     "images": [
       {
@@ -41567,7 +41567,7 @@
     "id": 3079,
     "date": "2023-12-27T04:52:39",
     "text": "Lexar NM710 这个盘好便宜！Gen4 TLC 的盘 1TB 居然只要 $50？！\n\n室友猪猪买了两张组 raid0 读写 4.1GB/s <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我买了四张同样想 raid0 但是 PCIe 分路卡还在飞机上",
-    "views": 90,
+    "views": 91,
     "forwards": 1,
     "media_group_id": 13629222073810197,
     "images": [
@@ -41911,7 +41911,7 @@
     "id": 3104,
     "date": "2023-12-30T09:33:00",
     "text": "犹豫了超级久要买小新还是无界之后还是下单了小新 Pro 14\n\n32GB 的话两个本子价格参数都差不多，小新的机身质量、音响输出、BIOS 都好一些，不过扩展性差一点（内存是焊上的，以及只有一个 NVMe 槽，不过 32GB 内存对笔记本也够用啦）\n\n不过最主要的可能还是想要一种上船没办法获得的安心，毕竟想起几年前给子兰买的船用两年充电电路就坏了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 我在加拿大的话也很难送修",
-    "views": 62,
+    "views": 63,
     "forwards": 1,
     "reply": {
       "id": 3100,
@@ -42074,7 +42074,7 @@
     "id": 3118,
     "date": "2023-12-31T02:06:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nCelestium 做的炒饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好好吃",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13631907076047805,
     "images": [
@@ -42244,7 +42244,7 @@
     "id": 3130,
     "date": "2024-01-02T19:00:08",
     "text": "还有七天开学，todo 只剩 3/7 了说不定可以做完 qwq",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "reply": {
       "id": 3059,
@@ -42255,7 +42255,7 @@
     "id": 3131,
     "date": "2024-01-02T20:49:41",
     "text": "私服硬件软件全面升级！\n\n服务器地址迁移到了 aquadx.hydev.org，请在用这个私服的大家对应地改一下 segatools dns <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>\n\n服务器系统从之前的 1C 0.5G VPS 升级到了 2C 8G 的 HyDEV 自家云，数据库从之前的 SQLite 升级到了 Mariadb，总之全都迁移好啦 qwq",
-    "views": 45,
+    "views": 46,
     "forwards": 1,
     "reply": {
       "id": 2761,
@@ -42279,7 +42279,7 @@
     "id": 3132,
     "date": "2024-01-02T23:55:23",
     "text": "说起来把数据从 SQLite 迁移到 MariaDB 真的好麻烦...\n\n试了导出 SQL 直接执行因为方言不兼容全都是报错，试了用 Navicat 导出再导入也不行，试了 DBConvert 破解版没跑起来，试了用 IntelliJ/DataGrip 的迁移功能在转换日期时间戳的时候报错。\n\n最后试了 RebaseData，大部分都转换好了只不过跑起来的时候因为数据出界报错，然后发现它的类型推导居然会选能装下数据的最小类型，比如如果数据里只有 1, 2, 3 的话它就会写一个 tinyint(4)，如果只有 \"hello\" 的话它就会写 varchar(5) 🤯\n\n结果还是重新建数据库写一个脚本迁移了，为什么就没有好用的迁移工具...",
-    "views": 42,
+    "views": 44,
     "forwards": 1,
     "reply": {
       "id": 3131,
