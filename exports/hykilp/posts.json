@@ -21606,7 +21606,7 @@
     "id": 1645,
     "date": "2022-12-24T03:17:43",
     "text": "tg-blog 写完啦，是一个用来显示电报频道数据的网页前端 qwq\n\n一个部署到了我的 blog <a href=\"https://aza.moe/life\">aza.moe</a> 上面，用来同步显示这个频道的内容。另一个部署到了 <a href=\"one-among.us\">one-among.us</a> 上面，用来备份逝者的频道。毕竟不能期待电报会永远保存频道数据，之前回收非活跃频道用户名的时候也没有提前通知...\n\n给几乎所有的消息格式都写了支持，包括矢量动画表情、视频、投票、地图位置共享、图片预览、音乐播放... <del>完全可以用来做一个第三方 Telegram 客户端了</del> （不\n\n源码链接：\n<a href=\"https://github.com/one-among-us/tg-blog\">tg-blog</a> - 网页前端\n<a href=\"https://github.com/one-among-us/TelegramBackup\">TelegramBackup</a> - 电报爬虫\n<a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> - 推特爬虫",
-    "views": 172,
+    "views": 173,
     "forwards": 7,
     "media_group_id": 13374814908025325,
     "files": [
@@ -42279,7 +42279,7 @@
     "id": 3132,
     "date": "2024-01-02T23:55:23",
     "text": "说起来把数据从 SQLite 迁移到 MariaDB 真的好麻烦...\n\n试了导出 SQL 直接执行因为方言不兼容全都是报错，试了用 Navicat 导出再导入也不行，试了 DBConvert 破解版没跑起来，试了用 IntelliJ/DataGrip 的迁移功能在转换日期时间戳的时候报错。\n\n最后试了 RebaseData，大部分都转换好了只不过跑起来的时候因为数据出界报错，然后发现它的类型推导居然会选能装下数据的最小类型，比如如果数据里只有 1, 2, 3 的话它就会写一个 tinyint(4)，如果只有 \"hello\" 的话它就会写 varchar(5) 🤯\n\n结果还是重新建数据库写一个脚本迁移了，为什么就没有好用的迁移工具...",
-    "views": 67,
+    "views": 68,
     "forwards": 1,
     "reply": {
       "id": 3131,
@@ -42302,7 +42302,7 @@
     "id": 3133,
     "date": "2024-01-03T10:39:57",
     "text": "玩博德之门不知不觉就天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 51,
+    "views": 52,
     "forwards": 0
   },
   {
@@ -42328,7 +42328,7 @@
     "id": 3135,
     "date": "2024-01-03T17:48:10",
     "text": "发现了大统华挂面便宜的秘密：同样都是 15 捆的友白髮素面但是每捆的面少了 24g (32%)，而且面也更粗",
-    "views": 33,
+    "views": 36,
     "forwards": 0,
     "media_group_id": 13634432721819725,
     "images": [
