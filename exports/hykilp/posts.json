@@ -31916,7 +31916,7 @@
     "id": 2376,
     "date": "2023-07-08T03:02:35",
     "text": "...查一下 King County 的名字来源，原来名字来源这种东西是可以改的么（？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 1,
     "images": [
       {
@@ -42195,7 +42195,7 @@
     "id": 3126,
     "date": "2024-01-01T16:46:52",
     "text": "新年的第一天从 1cc 接到一个病毒开始 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n感觉街机社区大部分的街机数据、注入和魔改工具都不开源还非常稀有，而且干净的注入工具也会报毒所以只是扫描一下也区分不出... 总之不知不觉就变成了能下到什么 exe dll 都直接跑，然后就导致了今天的 drama\n\n但是感觉这也没办法... 毕竟本质上跑街机和破解软件是一样的性质，只能相信提供 dump 和破解的人没有恶意了。不过还是推荐有条件就用一个专门为了街机新装的系统跑这些吧，至少能降低中毒的损失 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 71,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -42214,7 +42214,7 @@
     "id": 3127,
     "date": "2024-01-01T22:16:35",
     "text": "早上做了面用了一个新的汤底，然后发现它里面含虾赶快吃了一些 dph，然后睡到了现在 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n感觉 dph 比起抗过敏更适合做安眠药",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "reply": {
       "id": 2957,
@@ -42225,7 +42225,7 @@
     "id": 3129,
     "date": "2024-01-02T08:57:38",
     "text": "把家里的 VPS 网络修好了！infra 全面重构 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq\n\n新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）",
-    "views": 71,
+    "views": 72,
     "forwards": 2,
     "images": [
       {
@@ -42244,7 +42244,7 @@
     "id": 3130,
     "date": "2024-01-02T19:00:08",
     "text": "还有七天开学，todo 只剩 3/7 了说不定可以做完 qwq",
-    "views": 60,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 3059,
@@ -42255,7 +42255,7 @@
     "id": 3131,
     "date": "2024-01-02T20:49:41",
     "text": "私服硬件软件全面升级！\n\n服务器地址迁移到了 aquadx.hydev.org，请在用这个私服的大家对应地改一下 segatools dns <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>\n\n服务器系统从之前的 1C 0.5G VPS 升级到了 2C 8G 的 HyDEV 自家云，数据库从之前的 SQLite 升级到了 Mariadb，总之全都迁移好啦 qwq",
-    "views": 60,
+    "views": 61,
     "forwards": 1,
     "reply": {
       "id": 2761,
@@ -42379,7 +42379,7 @@
     "id": 3139,
     "date": "2024-01-04T07:19:28",
     "text": "呜呜 发现一个大问题。现在 MS365 要过期了，但是我和导师的沟通一直是在 Teams 上，可是如果迁移到 G Suite 的话就不能继续用 Teams 了，而且聊天记录没办法一起迁移... 怎么办呢？",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -42390,13 +42390,13 @@
     "id": 3140,
     "date": "2024-01-04T21:20:42",
     "text": "咦 发现今年好像还没出过门",
-    "views": 33,
+    "views": 38,
     "forwards": 0
   },
   {
     "id": 3141,
     "date": "2024-01-04T21:22:25",
-    "views": 32,
+    "views": 38,
     "forwards": 0,
     "files": [
       {
@@ -42421,7 +42421,7 @@
     "id": 3142,
     "date": "2024-01-05T02:04:45",
     "text": "和聊聊开坑 Minecraft qwq",
-    "views": 17,
+    "views": 29,
     "forwards": 0,
     "images": [
       {
