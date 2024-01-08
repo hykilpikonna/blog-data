@@ -41873,7 +41873,7 @@
     "id": 3102,
     "date": "2023-12-29T22:01:41",
     "text": "哭哭 比较倒霉\n\n原本想顺便看看怎么把之前坏掉的手机寄回国送修，去顺丰顺丰没开，然后去 UPS 和 Canada Post 都说有电池不能寄... 为什么中国能寄过来但是加拿大不能寄回去，怪哦\n\n不知道怎么办了",
-    "views": 114,
+    "views": 115,
     "forwards": 1,
     "images": [
       {
@@ -42225,7 +42225,7 @@
     "id": 3129,
     "date": "2024-01-02T08:57:38",
     "text": "把家里的 VPS 网络修好了！infra 全面重构 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq\n\n新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）",
-    "views": 80,
+    "views": 82,
     "forwards": 3,
     "images": [
       {
@@ -42421,7 +42421,7 @@
     "id": 3142,
     "date": "2024-01-05T02:04:45",
     "text": "和聊聊开坑 Minecraft qwq",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "images": [
       {
@@ -42612,5 +42612,12 @@
         "thumb": "media/3153.mp4_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 3154,
+    "date": "2024-01-08T20:02:02",
+    "text": "哭 开学第一天就把课全都睡过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
+    "views": 9,
+    "forwards": 0
   }
 ]
