@@ -42123,7 +42123,7 @@
     "id": 3121,
     "date": "2023-12-31T17:13:14",
     "text": "一觉起来发现身边 UTC-5、UTC-8 的朋友们都跨上了 UTC+8 年 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 4
   },
   {
@@ -42165,7 +42165,7 @@
     "id": 3124,
     "date": "2024-01-01T00:46:40",
     "text": "理这团线感觉自己在拆炸弹 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "images": [
       {
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -42195,7 +42195,7 @@
     "id": 3126,
     "date": "2024-01-01T16:46:52",
     "text": "新年的第一天从 1cc 接到一个病毒开始 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n感觉街机社区大部分的街机数据、注入和魔改工具都不开源还非常稀有，而且干净的注入工具也会报毒所以只是扫描一下也区分不出... 总之不知不觉就变成了能下到什么 exe dll 都直接跑，然后就导致了今天的 drama\n\n但是感觉这也没办法... 毕竟本质上跑街机和破解软件是一样的性质，只能相信提供 dump 和破解的人没有恶意了。不过还是推荐有条件就用一个专门为了街机新装的系统跑这些吧，至少能降低中毒的损失 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "images": [
       {
@@ -42225,7 +42225,7 @@
     "id": 3129,
     "date": "2024-01-02T08:57:38",
     "text": "把家里的 VPS 网络修好了！infra 全面重构 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq\n\n新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）",
-    "views": 82,
+    "views": 84,
     "forwards": 3,
     "images": [
       {
@@ -42379,7 +42379,7 @@
     "id": 3139,
     "date": "2024-01-04T07:19:28",
     "text": "呜呜 发现一个大问题。现在 MS365 要过期了，但是我和导师的沟通一直是在 Teams 上，可是如果迁移到 G Suite 的话就不能继续用 Teams 了，而且聊天记录没办法一起迁移... 怎么办呢？",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -42390,13 +42390,13 @@
     "id": 3140,
     "date": "2024-01-04T21:20:42",
     "text": "咦 发现今年好像还没出过门",
-    "views": 71,
+    "views": 72,
     "forwards": 0
   },
   {
     "id": 3141,
     "date": "2024-01-04T21:22:25",
-    "views": 68,
+    "views": 72,
     "forwards": 0,
     "files": [
       {
@@ -42421,7 +42421,7 @@
     "id": 3142,
     "date": "2024-01-05T02:04:45",
     "text": "和聊聊开坑 Minecraft qwq",
-    "views": 67,
+    "views": 71,
     "forwards": 1,
     "images": [
       {
@@ -42440,7 +42440,7 @@
     "id": 3143,
     "date": "2024-01-05T12:30:57",
     "text": "好喜欢博德之门的自由度和细节... 不想吃饭就喝酒喝饱，用来吃的 salami 也可以用来打人，还可以和小动物和死人说话。还有某次我进了一段剧情发现打不过，读档重来之后让聊聊重新选一遍对话居然没打架就过去了，好厉害\n\n有一段剧情是一只狗狗在死掉的主人身边转圈，不开法术的话汪汪两声就过去了，但是如果开了和动物和死人说话的法术就可以听到发生了什么然后安慰狗狗让狗狗闻着我的脚步走到营地 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n如果在现实中也能和动物说话就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 75,
+    "views": 78,
     "forwards": 1,
     "media_group_id": 13635662861008765,
     "images": [
@@ -42558,7 +42558,7 @@
     "id": 3150,
     "date": "2024-01-06T19:16:25",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "images": [
       {
@@ -42577,14 +42577,14 @@
     "id": 3151,
     "date": "2024-01-07T04:07:54",
     "text": "呜 把在冰箱里冷冻了一两年的彩椒炒了然后肚肚疼 <i class=\"custom-emoji\" emoji-src=\"emoji/5445336353082449973.tgs\">😢</i>",
-    "views": 56,
+    "views": 58,
     "forwards": 0
   },
   {
     "id": 3152,
     "date": "2024-01-07T17:43:37",
     "text": "今天的博德之门：在第二章我通过拼酒让一个 boss 喝死了，聊聊通过嘴炮让一个 boss 被下属打死了，总之是跳了很多战斗！（结果真的需要战斗的时候聊聊因为身体太轻被推下去摔死读档了无数次 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n还捡到了一个醉酒棒棒，喝醉的时候用它敲人加很多伤害，还能有雷电属性的群伤？？这是怎么做到的 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不过割草真的很好用",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42596,7 +42596,7 @@
     "id": 3153,
     "date": "2024-01-08T00:40:26",
     "text": "不懂，明明 Vulkan 应该在各方面都比 DX11/OpenGL 好的，可是每次用 Vulkan 玩游戏都好失望...\n\n这几天玩博德之门的时候用 Vulkan 启动的话帧率更高但是会有黑方块闪来闪去，昨天玩 Minecraft 的时候尝试用 Vulkan 启动直接让显卡驱动崩溃了。查查 reddit 却发现社区里大部分人都没有遇到同样的问题，可是遇到同样问题的机器里既有 Nvidia 也有 AMD 卡，既有高清高刷 HDR 也有普通显示器，完全找不到共同点...\n\n呜 不理解",
-    "views": 39,
+    "views": 45,
     "forwards": 0,
     "files": [
       {
@@ -42617,7 +42617,7 @@
     "id": 3154,
     "date": "2024-01-08T20:02:02",
     "text": "哭 开学第一天就把课全都睡过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 9,
-    "forwards": 0
+    "views": 42,
+    "forwards": 1
   }
 ]
