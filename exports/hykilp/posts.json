@@ -41567,7 +41567,7 @@
     "id": 3079,
     "date": "2023-12-27T04:52:39",
     "text": "Lexar NM710 这个盘好便宜！Gen4 TLC 的盘 1TB 居然只要 $50？！\n\n室友猪猪买了两张组 raid0 读写 4.1GB/s <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我买了四张同样想 raid0 但是 PCIe 分路卡还在飞机上",
-    "views": 95,
+    "views": 96,
     "forwards": 1,
     "media_group_id": 13629222073810197,
     "images": [
@@ -42195,7 +42195,7 @@
     "id": 3126,
     "date": "2024-01-01T16:46:52",
     "text": "新年的第一天从 1cc 接到一个病毒开始 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n感觉街机社区大部分的街机数据、注入和魔改工具都不开源还非常稀有，而且干净的注入工具也会报毒所以只是扫描一下也区分不出... 总之不知不觉就变成了能下到什么 exe dll 都直接跑，然后就导致了今天的 drama\n\n但是感觉这也没办法... 毕竟本质上跑街机和破解软件是一样的性质，只能相信提供 dump 和破解的人没有恶意了。不过还是推荐有条件就用一个专门为了街机新装的系统跑这些吧，至少能降低中毒的损失 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "images": [
       {
@@ -42214,7 +42214,7 @@
     "id": 3127,
     "date": "2024-01-01T22:16:35",
     "text": "早上做了面用了一个新的汤底，然后发现它里面含虾赶快吃了一些 dph，然后睡到了现在 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n感觉 dph 比起抗过敏更适合做安眠药",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 2957,
@@ -42225,7 +42225,7 @@
     "id": 3129,
     "date": "2024-01-02T08:57:38",
     "text": "把家里的 VPS 网络修好了！infra 全面重构 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq\n\n新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）",
-    "views": 85,
+    "views": 86,
     "forwards": 3,
     "images": [
       {
@@ -42244,7 +42244,7 @@
     "id": 3130,
     "date": "2024-01-02T19:00:08",
     "text": "还有七天开学，todo 只剩 3/7 了说不定可以做完 qwq",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "reply": {
       "id": 3059,
@@ -42255,7 +42255,7 @@
     "id": 3131,
     "date": "2024-01-02T20:49:41",
     "text": "私服硬件软件全面升级！\n\n服务器地址迁移到了 aquadx.hydev.org，请在用这个私服的大家对应地改一下 segatools dns <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>\n\n服务器系统从之前的 1C 0.5G VPS 升级到了 2C 8G 的 HyDEV 自家云，数据库从之前的 SQLite 升级到了 Mariadb，总之全都迁移好啦 qwq",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "reply": {
       "id": 2761,
@@ -42279,7 +42279,7 @@
     "id": 3132,
     "date": "2024-01-02T23:55:23",
     "text": "说起来把数据从 SQLite 迁移到 MariaDB 真的好麻烦...\n\n试了导出 SQL 直接执行因为方言不兼容全都是报错，试了用 Navicat 导出再导入也不行，试了 DBConvert 破解版没跑起来，试了用 IntelliJ/DataGrip 的迁移功能在转换日期时间戳的时候报错。\n\n最后试了 RebaseData，大部分都转换好了只不过跑起来的时候因为数据出界报错，然后发现它的类型推导居然会选能装下数据的最小类型，比如如果数据里只有 1, 2, 3 的话它就会写一个 tinyint(4)，如果只有 \"hello\" 的话它就会写 varchar(5) 🤯\n\n结果还是重新建数据库写一个脚本迁移了，为什么就没有好用的迁移工具...",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "reply": {
       "id": 3131,
@@ -42302,14 +42302,14 @@
     "id": 3133,
     "date": "2024-01-03T10:39:57",
     "text": "玩博德之门不知不觉就天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 0
   },
   {
     "id": 3134,
     "date": "2024-01-03T10:43:34",
     "text": "寄快递选保险感觉好坑，<del>在想能不能自己开一个保险账号代替商家的保险，比如需要买 ￥100 的保险的话就向里面投 ￥100 什么的，真的遇到问题再拿出来</del>",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -42328,7 +42328,7 @@
     "id": 3135,
     "date": "2024-01-03T17:48:10",
     "text": "发现了大统华挂面便宜的秘密：同样都是 15 捆的友白髮素面但是每捆的面少了 24g (32%)，而且面也更粗",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "media_group_id": 13634432721819725,
     "images": [
@@ -42368,7 +42368,7 @@
     "id": 3138,
     "date": "2024-01-04T06:28:10",
     "text": "呜呜 这个游戏带入感好强，不知不觉又连续玩了 11h 脑袋晕晕，感觉自己要被传送到博德之门的世界了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 74,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 3133,
@@ -42379,7 +42379,7 @@
     "id": 3139,
     "date": "2024-01-04T07:19:28",
     "text": "呜呜 发现一个大问题。现在 MS365 要过期了，但是我和导师的沟通一直是在 Teams 上，可是如果迁移到 G Suite 的话就不能继续用 Teams 了，而且聊天记录没办法一起迁移... 怎么办呢？",
-    "views": 83,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -42390,13 +42390,13 @@
     "id": 3140,
     "date": "2024-01-04T21:20:42",
     "text": "咦 发现今年好像还没出过门",
-    "views": 75,
+    "views": 77,
     "forwards": 0
   },
   {
     "id": 3141,
     "date": "2024-01-04T21:22:25",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "files": [
       {
@@ -42421,7 +42421,7 @@
     "id": 3142,
     "date": "2024-01-05T02:04:45",
     "text": "和聊聊开坑 Minecraft qwq",
-    "views": 76,
+    "views": 77,
     "forwards": 1,
     "images": [
       {
@@ -42440,7 +42440,7 @@
     "id": 3143,
     "date": "2024-01-05T12:30:57",
     "text": "好喜欢博德之门的自由度和细节... 不想吃饭就喝酒喝饱，用来吃的 salami 也可以用来打人，还可以和小动物和死人说话。还有某次我进了一段剧情发现打不过，读档重来之后让聊聊重新选一遍对话居然没打架就过去了，好厉害\n\n有一段剧情是一只狗狗在死掉的主人身边转圈，不开法术的话汪汪两声就过去了，但是如果开了和动物和死人说话的法术就可以听到发生了什么然后安慰狗狗让狗狗闻着我的脚步走到营地 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n如果在现实中也能和动物说话就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "media_group_id": 13635662861008765,
     "images": [
@@ -42480,7 +42480,7 @@
     "id": 3146,
     "date": "2024-01-05T21:05:03",
     "text": "不喜欢命令行编辑器另一个原因是因为，无论是 vim 还是 nano 都没办法在保存的时候尝试 sudo 保存... 每次都是忘了 sudo 然后在保存的时候才发现没权限写不进去，然后就只能退出重新 sudo 启动编辑一遍再保存了 💢\n\n而 GUI 编辑器无论是 vscode 还是 gnome 自带的都会自动请求权限",
-    "views": 79,
+    "views": 81,
     "forwards": 1,
     "images": [
       {
@@ -42499,7 +42499,7 @@
     "id": 3147,
     "date": "2024-01-06T06:36:23",
     "text": "高中同学来玩，给我带了芒果蛋糕，好吃！开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13636183865706885,
     "files": [
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42558,7 +42558,7 @@
     "id": 3150,
     "date": "2024-01-06T19:16:25",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "images": [
       {
@@ -42577,14 +42577,14 @@
     "id": 3151,
     "date": "2024-01-07T04:07:54",
     "text": "呜 把在冰箱里冷冻了一两年的彩椒炒了然后肚肚疼 <i class=\"custom-emoji\" emoji-src=\"emoji/5445336353082449973.tgs\">😢</i>",
-    "views": 62,
+    "views": 63,
     "forwards": 0
   },
   {
     "id": 3152,
     "date": "2024-01-07T17:43:37",
     "text": "今天的博德之门：在第二章我通过拼酒让一个 boss 喝死了，聊聊通过嘴炮让一个 boss 被下属打死了，总之是跳了很多战斗！（结果真的需要战斗的时候聊聊因为身体太轻被推下去摔死读档了无数次 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n还捡到了一个醉酒棒棒，喝醉的时候用它敲人加很多伤害，还能有雷电属性的群伤？？这是怎么做到的 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不过割草真的很好用",
-    "views": 58,
+    "views": 60,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42596,7 +42596,7 @@
     "id": 3153,
     "date": "2024-01-08T00:40:26",
     "text": "不懂，明明 Vulkan 应该在各方面都比 DX11/OpenGL 好的，可是每次用 Vulkan 玩游戏都好失望...\n\n这几天玩博德之门的时候用 Vulkan 启动的话帧率更高但是会有黑方块闪来闪去，昨天玩 Minecraft 的时候尝试用 Vulkan 启动直接让显卡驱动崩溃了。查查 reddit 却发现社区里大部分人都没有遇到同样的问题，可是遇到同样问题的机器里既有 Nvidia 也有 AMD 卡，既有高清高刷 HDR 也有普通显示器，完全找不到共同点...\n\n呜 不理解",
-    "views": 56,
+    "views": 60,
     "forwards": 0,
     "files": [
       {
@@ -42624,7 +42624,7 @@
     "id": 3155,
     "date": "2024-01-09T06:04:56",
     "text": "哭 发现今年的六门课里只有两门有 recording，看来不能像上学期一样不去学校了...",
-    "views": 48,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -42643,7 +42643,7 @@
     "id": 3156,
     "date": "2024-01-09T10:37:50",
     "text": "之前打博德之门 3 的时候在第三章从一个地洞出来真的梦回英雄无敌 3，然后今天在和聊聊重温英雄无敌 3 打教程关\n\n我：呜呜，这个游戏比我老了，99 年的\n聊聊：呜呜呜呜呜，这个游戏比我小啊",
-    "views": 34,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
@@ -42655,6 +42655,25 @@
         "url": "media/3156.jpg",
         "size": 236076,
         "thumb": "media/3156.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3157,
+    "date": "2024-01-09T18:28:14",
+    "text": "今年上 Web 课，我我来招人写私服 UI 了hhhh",
+    "views": 32,
+    "forwards": 1,
+    "images": [
+      {
+        "width": 1038,
+        "height": 287,
+        "date": "2024-01-09T18:27:48",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-09_18-27-48.jpg",
+        "url": "media/3157.jpg",
+        "size": 48510,
+        "thumb": "media/3157.jpg_thumb.jpg"
       }
     ]
   }
