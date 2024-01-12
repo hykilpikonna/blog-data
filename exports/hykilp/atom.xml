@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-01-12T00:10:15.517449+00:00</updated>
+  <updated>2024-01-12T02:20:16.598857+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3170</id>
+    <title>小桂桂的回忆录 📒 #3170</title>
+    <updated>2024-01-12T01:52:29+00:00</updated>
+    <content>&lt;p&gt;今天玩博得之门丢了几次档... 解决的时候被迷惑到了&lt;/p&gt;
+&lt;p&gt;第一次打开游戏发现档没了，开了一个新档然后用 Windows 全局搜索发现它放在 Steam 的同步文件夹里了而不是用户文件夹（明明之前也是用 Steam 启动的）重启不开 Steam 直接启动 bg3_dx11.exe 就好了。&lt;/p&gt;
+&lt;p&gt;第二次打开游戏发现档没了，又开了一个新档然后用 Windows 全局搜索发现它居然在同一个目录的 Debug_Profile_3 下面。之后发现这个游戏判断存档位置的逻辑是，如果后台有 bg3 进程在跑就读 Debug_Profile_{i}，如果没有就读 Public... 然后因为之前开的游戏没有成功退出，留了两个僵尸进程，所以新开的进程检测到有三个游戏开着就读了 Debug_Profile_3 🌚&lt;/p&gt;
+&lt;p&gt;至少花了一个小时解决这个问题... 后悔没有用主机玩这个游戏了 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3170" rel="alternate"/>
+  </entry>
   <entry>
     <id>3169</id>
     <title>小桂桂的回忆录 📒 #3169</title>
