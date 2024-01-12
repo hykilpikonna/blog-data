@@ -12,7 +12,31 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Jan 2024 18:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 20:08:44 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3177</title>
+      <link>https://aza.moe/life?post=3177</link>
+      <description>&lt;p&gt;因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq&lt;/p&gt;
+&lt;pre language="ahk"&gt;; Block standalone CapsLock toggle
+CapsLock::return
+
+; Use CAPS + TAB to toggle CAPS LOCK
+CapsLock &amp; Tab::
+    SetCapsLockState, % (GetKeyState("CapsLock", "T") ? "Off" : "On")
+    return
+
+; Block CAPS LOCK state change when CAPS is combined with any other key
+CapsLock &amp; w::Up
+CapsLock &amp; a::Left
+CapsLock &amp; s::Down
+CapsLock &amp; d::Right
+
+CapsLock &amp; i::Up
+CapsLock &amp; j::Left
+CapsLock &amp; k::Down
+CapsLock &amp; l::Right&lt;/pre&gt;</description>
+      <guid isPermaLink="false">3177</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3171</title>
       <link>https://aza.moe/life?post=3171</link>
