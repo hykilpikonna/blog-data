@@ -9975,7 +9975,7 @@
     "id": 840,
     "date": "2022-05-30T05:38:48",
     "text": "终于把家具完全规划完啦w\n\n然后看看价格… $1507 还要加 13% 税 🥲",
-    "views": 50,
+    "views": 51,
     "forwards": 2,
     "images": [
       {
@@ -23510,7 +23510,7 @@
     "id": 1780,
     "date": "2023-01-21T23:31:01",
     "text": "东岸的年夜饭 @ CAMH！\n\n做了红烧肉、炒菜花、还有虾饺，厨房第一次灶台四个炉子同时烧着 qwq\n\n还专门把餐具带过去摆盘了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "media_group_id": 13394750888961733,
     "images": [
@@ -34162,7 +34162,7 @@
     "id": 2556,
     "date": "2023-08-26T17:19:22",
     "text": "<del>松鼠驯服人类的珍贵影像</del>\n\n（感谢蓝夏把这个瞬间拍下来了",
-    "views": 164,
+    "views": 165,
     "forwards": 5,
     "images": [
       {
@@ -34743,7 +34743,7 @@
     "id": 2603,
     "date": "2023-09-04T20:52:19",
     "text": "爱的本质是拟合 <i class=\"custom-emoji\" emoji-src=\"emoji/5442919184142966963.tgs\">🧹</i>",
-    "views": 150,
+    "views": 151,
     "forwards": 3,
     "images": [
       {
@@ -42624,7 +42624,7 @@
     "id": 3155,
     "date": "2024-01-09T06:04:56",
     "text": "哭 发现今年的六门课里只有两门有 recording，看来不能像上学期一样不去学校了...",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "images": [
       {
@@ -42643,7 +42643,7 @@
     "id": 3156,
     "date": "2024-01-09T10:37:50",
     "text": "之前打博德之门 3 的时候在第三章从一个地洞出来真的梦回英雄无敌 3，然后今天在和聊聊重温英雄无敌 3 打教程关\n\n我：呜呜，这个游戏比我老了，99 年的\n聊聊：呜呜呜呜呜，这个游戏比我小啊",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 36,
+    "views": 39,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 29,
+    "views": 32,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 26,
+    "views": 28,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 23,
+    "views": 25,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
