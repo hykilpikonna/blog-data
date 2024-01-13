@@ -28507,21 +28507,21 @@
     "id": 2121,
     "date": "2023-05-06T20:13:52",
     "text": "穿女仆 lo 出门然后碰到了另一位穿女仆 lo 的路人 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 挥挥手打了招呼，感觉确实没有以前那么社恐了",
-    "views": 93,
+    "views": 94,
     "forwards": 0
   },
   {
     "id": 2122,
     "date": "2023-05-07T15:51:25",
     "text": "<a href=\"##梦\">#梦</a> 梦见在和高中同学下国际象棋，但是这个规则里可以用一步来把一个棋子替换成点数相等或者更小的棋子，比如把♞换成♝什么的。感觉可能是很有趣的变体玩法，虽然梦里迷迷糊糊下得乱七八糟（x",
-    "views": 87,
+    "views": 88,
     "forwards": 1
   },
   {
     "id": 2123,
     "date": "2023-05-08T08:25:03",
     "text": "鱼塔用 gpg 加密给我发了照片，发现没办法用 yubikey 解密... 似乎是上次 keytocard 时候只把签名私钥传过去了，尝试传解密私钥出错，然而传完一份私钥就会在本地删除的样子，也没办法把传进去的钥匙取出来。\n\n以及 gpg 的工具链真的好难用... 为什么要有 admin pin 和 user pin 两个密码，而且 user pin 只能是六位数字、admin pin 只能是八位数字、改密码尝试少设两位数字会提示 \"Conditions of use not satisfied,\" 完全不知道哪里不满意、密码错误的时候提示 “Bad secret key” 而不是 \"bad pin\"... (╯’ – ‘)╯︵ ┻━┻\n\n哭哭，折腾了好久还是重新生成了一个 key 丢进去了，新的公钥在 <a href=\"hydev.org/gpg.pub\">hydev.org/gpg.pub</a> 欢迎给我发加密消息 qwq",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -42368,7 +42368,7 @@
     "id": 3138,
     "date": "2024-01-04T06:28:10",
     "text": "呜呜 这个游戏带入感好强，不知不觉又连续玩了 11h 脑袋晕晕，感觉自己要被传送到博德之门的世界了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 3133,
@@ -42379,7 +42379,7 @@
     "id": 3139,
     "date": "2024-01-04T07:19:28",
     "text": "呜呜 发现一个大问题。现在 MS365 要过期了，但是我和导师的沟通一直是在 Teams 上，可是如果迁移到 G Suite 的话就不能继续用 Teams 了，而且聊天记录没办法一起迁移... 怎么办呢？",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -42390,7 +42390,7 @@
     "id": 3140,
     "date": "2024-01-04T21:20:42",
     "text": "咦 发现今年好像还没出过门",
-    "views": 81,
+    "views": 82,
     "forwards": 0
   },
   {
@@ -42596,7 +42596,7 @@
     "id": 3153,
     "date": "2024-01-08T00:40:26",
     "text": "不懂，明明 Vulkan 应该在各方面都比 DX11/OpenGL 好的，可是每次用 Vulkan 玩游戏都好失望...\n\n这几天玩博德之门的时候用 Vulkan 启动的话帧率更高但是会有黑方块闪来闪去，昨天玩 Minecraft 的时候尝试用 Vulkan 启动直接让显卡驱动崩溃了。查查 reddit 却发现社区里大部分人都没有遇到同样的问题，可是遇到同样问题的机器里既有 Nvidia 也有 AMD 卡，既有高清高刷 HDR 也有普通显示器，完全找不到共同点...\n\n呜 不理解",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "files": [
       {
@@ -42617,7 +42617,7 @@
     "id": 3154,
     "date": "2024-01-08T20:02:02",
     "text": "哭 开学第一天就把课全都睡过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 2
   },
   {
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 48,
+    "views": 49,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 43,
+    "views": 45,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 41,
+    "views": 42,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 29,
+    "views": 46,
     "forwards": 1,
     "images": [
       {
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 18,
+    "views": 30,
     "forwards": 1,
     "files": [
       {
