@@ -611,7 +611,7 @@
     "id": 52,
     "date": "2021-09-16T00:09:38",
     "text": "钉满订书钉的路牌w（每个钉都是某个人很早很早之前钉下的公告",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "reply": {
       "id": 38
@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6953,
+    "views": 6954,
     "forwards": 178,
     "media_group_id": 13340239729731381,
     "images": [
@@ -41873,7 +41873,7 @@
     "id": 3102,
     "date": "2023-12-29T22:01:41",
     "text": "哭哭 比较倒霉\n\n原本想顺便看看怎么把之前坏掉的手机寄回国送修，去顺丰顺丰没开，然后去 UPS 和 Canada Post 都说有电池不能寄... 为什么中国能寄过来但是加拿大不能寄回去，怪哦\n\n不知道怎么办了",
-    "views": 122,
+    "views": 124,
     "forwards": 1,
     "images": [
       {
@@ -42718,7 +42718,7 @@
     "id": 3161,
     "date": "2024-01-10T12:44:24",
     "text": "呜 想定制一套笔记本贴纸但是似乎并没有想象的那么容易\n\n问了十多家卖家没有人可以印键盘面图案不印字，而且看效果图上印的字还都切歪了... 那就重新裁剪做一个不印按键也好看的设计吧。接下来发现这些卖家印底面居然不会留螺丝孔，所以大概是每次拆机都要撕下来重新贴... 那就还是不印底面了吧\n\n明明定制就是为了不做妥协，可是现在的定制卖家却连不怎么难做的小众需求都不愿意做，好失望 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 66,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13639125315791173,
     "images": [
@@ -42748,7 +42748,7 @@
     "id": 3163,
     "date": "2024-01-10T14:52:56",
     "text": "出了门\n\n在多伦多真的不用担心早上起来太困，因为出门被冷风刮一秒就醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "reply": {
       "id": 3160,
@@ -42759,7 +42759,7 @@
     "id": 3164,
     "date": "2024-01-10T18:47:37",
     "text": "设计完了！分别是背面和键盘面。\n\n用了 maimai 的活动地图素材，然后用 real-esrgan upscayl 转高清，然后再用正版 Photoshop 的 AI Fill 功能把调完纵横比需要补的地方用 AI 生成补上就好了！",
-    "views": 60,
+    "views": 61,
     "forwards": 1,
     "media_group_id": 13639299659797525,
     "images": [
@@ -42794,7 +42794,7 @@
     "id": 3166,
     "date": "2024-01-10T19:47:19",
     "text": "编辑超高清图片 32 GB 内存真的不够用了... 这个 psd 存下来一共 502 MB，只是打开它就占了 16 GB 🤯",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13639328311937349,
     "images": [
@@ -42824,7 +42824,7 @@
     "id": 3168,
     "date": "2024-01-11T05:47:55",
     "text": "（聊聊看了一个土味情话梗来问我）\n聊聊：神奇宝贝不神奇了叫什么？\n我：嗯... 动物！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n聊聊一脸黑线",
-    "views": 60,
+    "views": 61,
     "forwards": 1
   },
   {
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 1,
     "images": [
       {
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 49,
+    "views": 50,
     "forwards": 1,
     "files": [
       {
@@ -43030,7 +43030,7 @@
     "id": 3184,
     "date": "2024-01-13T15:42:20",
     "text": "通宵把博德之门3打通了！故事很棒，每个角色都有很独立很有趣的剧情和小结局，没想到还把之前没有机会救的 Karlach 用奇怪的方式救活了\n\n不过如果说有不足就是世界设定实在太大，无论做多么小的选择都可能会有长远的蝴蝶效应... 比如在第 1.5 章一个村子里打了一头奇怪的牛，牛把站在旁边的商人 Dammon 撞死了，当时以为是一个普通的 NPC 就没有管，结果打到最后第三章去查攻略才发现他是唯一一个能救 Karlach 的人... <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 之后就不太敢随便做选择了（x）\n\n大结局的话不知道怎么评价... 你们觉得如果世界上存在一个无限智慧的巨大脑子，它真的会狭隘到想要为了 absolute power 统治世界吗？<i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 而且这个巨形脑子只能一个词一个词地说话真的好出戏... 明明设定上应该是比人聪明太多的。\n\n不过以后再仔细评价了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "images": [
       {
@@ -43049,11 +43049,37 @@
     "id": 3185,
     "date": "2024-01-14T06:00:24",
     "text": "（spoiler: 剧透）\n<span class=\"spoiler\"><span>在最终章因为 Karlach 的心脏随时可能会爆炸，而且因为 Dammon 死了没办法修复她的心脏，我选择了让 Karlach 进化成一个 Illithid 活下去。\n\n剧情结束的后日谈里面听 Karlach 的故事，说她作为 Illithid 可以通过吸收掉脑子把一个人的所有记忆融入自己、说她在和医院合作，给救不活的人一个让记忆融入进她的身体继续活下去的选项、说她像是活过了无数条命一样，对这个进化完全不后悔。感觉像是做到了一种不完全的人类补完，真希望现实中人的记忆也可以用这种方式作为一个集体延续 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</span></span></i><span class=\"spoiler\"><span>\n\n设定上的话，一个 Illithid 的最终进化形态就是这个大剧情中的最终 boss 大脑子 Elder Brain，那我真的很不能接受编剧把它设定成一个邪恶的个体，明明吸收了无数好心人的记忆。我感觉如果它真的存在的话，也许会是像 LLM 那样吧，有过无数次生命的经历却没有属于自己个体的身份认同的一种集体...</span></span>\n\n<del>TLDR：我也好想进化成 Illithid</del>",
-    "views": 40,
+    "views": 44,
     "forwards": 0,
     "reply": {
       "id": 3184,
       "text": "通宵把博德之门3打通了！故事很棒，每个角色都有很独立很有趣的剧情和小结局，没想到还把之前没有机会救的 Karlach 用奇怪的方式救活了\n\n不过如果说有不足就是世界设定实在太大，无论做多么小的选择都可能会有长远的蝴蝶效应... 比如在第 1.5 章一个村子里打了一头奇怪的牛，牛把站在旁边的商人 Dammon 撞死了，当时以为是一个普通的 NPC 就没有管，结果打到最后第三章去查攻略才发现他是唯一一个能救 Karlach 的人... <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 之后就不太敢随便做选择了（x）\n\n大结局的话不知道怎么评价... 你们觉得如果世界上存在一个无限智慧的巨大脑子，它真的会狭隘到想要为了 absolute power 统治世界吗？<i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 而且这个巨形脑子只能一个词一个词地说话真的好出戏... 明明设定上应该是比人聪明太多的。\n\n不过以后再仔细评价了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>"
     }
+  },
+  {
+    "id": 3186,
+    "date": "2024-01-14T16:31:29",
+    "text": "<a href=\"##梦\">#梦</a> 梦见在西雅图和 Wan 去超市买完菜想要回家，我习惯向南走但是 Wan 很惊讶地说他习惯向北走，然后我就跟着他一直向北走了，路上全都是不认识的街道和建筑但是走着走着还是走到家了 🤔 世界成了一个莫比乌斯环",
+    "views": 27,
+    "forwards": 0
+  },
+  {
+    "id": 3187,
+    "date": "2024-01-14T16:56:48",
+    "text": "大风把运货车刮走了💨",
+    "views": 24,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 1129,
+        "date": "2024-01-14T16:56:47",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-14_16-56-47.jpg",
+        "url": "media/3187.jpg",
+        "size": 106365,
+        "thumb": "media/3187.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
