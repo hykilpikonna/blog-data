@@ -36049,7 +36049,7 @@
     "id": 2696,
     "date": "2023-09-24T12:35:33",
     "text": "谷歌为了赚钱在 Chrome 上把 Adblock for Youtube 标为病毒强制禁用了... 看来是时候全面卸载 Chrome 换 Firefox 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 1023,
+    "views": 1024,
     "forwards": 15,
     "images": [
       {
@@ -42794,7 +42794,7 @@
     "id": 3166,
     "date": "2024-01-10T19:47:19",
     "text": "编辑超高清图片 32 GB 内存真的不够用了... 这个 psd 存下来一共 502 MB，只是打开它就占了 16 GB 🤯",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13639328311937349,
     "images": [
@@ -42824,7 +42824,7 @@
     "id": 3168,
     "date": "2024-01-11T05:47:55",
     "text": "（聊聊看了一个土味情话梗来问我）\n聊聊：神奇宝贝不神奇了叫什么？\n我：嗯... 动物！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n聊聊一脸黑线",
-    "views": 61,
+    "views": 62,
     "forwards": 1
   },
   {
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 50,
+    "views": 51,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 48,
+    "views": 49,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 1,
     "images": [
       {
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 50,
+    "views": 51,
     "forwards": 1,
     "files": [
       {
@@ -43060,14 +43060,14 @@
     "id": 3186,
     "date": "2024-01-14T16:31:29",
     "text": "<a href=\"##梦\">#梦</a> 梦见在西雅图和 Wan 去超市买完菜想要回家，我习惯向南走但是 Wan 很惊讶地说他习惯向北走，然后我就跟着他一直向北走了，路上全都是不认识的街道和建筑但是走着走着还是走到家了 🤔 世界成了一个莫比乌斯环",
-    "views": 27,
+    "views": 31,
     "forwards": 0
   },
   {
     "id": 3187,
     "date": "2024-01-14T16:56:48",
     "text": "大风把运货车刮走了💨",
-    "views": 24,
+    "views": 28,
     "forwards": 0,
     "images": [
       {
