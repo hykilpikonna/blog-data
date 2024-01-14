@@ -42074,7 +42074,7 @@
     "id": 3118,
     "date": "2023-12-31T02:06:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nCelestium 做的炒饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好好吃",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13631907076047805,
     "images": [
@@ -42104,7 +42104,7 @@
     "id": 3120,
     "date": "2023-12-31T07:04:55",
     "text": "啊啊 怎么又过期了 好烦",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "images": [
       {
@@ -42123,14 +42123,14 @@
     "id": 3121,
     "date": "2023-12-31T17:13:14",
     "text": "一觉起来发现身边 UTC-5、UTC-8 的朋友们都跨上了 UTC+8 年 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 4
   },
   {
     "id": 3122,
     "date": "2023-12-31T20:09:44",
     "text": "写了一个 maimai ADX3 启动教程，在<a href=\"https://www.notion.so/hydev/maimai-ADX3-2cb847712fac47c4b06ee44c01075b88\">这里</a>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "reply": {
       "id": 3096,
@@ -42141,7 +42141,7 @@
     "id": 3123,
     "date": "2023-12-31T23:12:13",
     "text": "创建 GitHub 帐号已经七年了！更新一下今年写的项目 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n🟥: 咕了 🕊\n🟦: 写完但是没发布/没什么用的\n🟨: 还没写完但是会继续\n🟩: 满意的项目w\n\n原本觉得翻 GitHub 活动记录就能大概回想起某段时间在做什么，但是发现今年做的好多硬件项目都没有存到 GitHub 上，即使存了的也没有写很详细的 commit 记录...\n\n因为无论是 onshape CAD 还是 EasyEDA 都是云端存储，如果要推到 GitHub 上必须专门导出文件好麻烦。好想写一个可以把云端修改记录同步到 GitHub 上的插件",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "reply": {
       "id": 1679,
@@ -42165,7 +42165,7 @@
     "id": 3124,
     "date": "2024-01-01T00:46:40",
     "text": "理这团线感觉自己在拆炸弹 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "images": [
       {
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -42195,7 +42195,7 @@
     "id": 3126,
     "date": "2024-01-01T16:46:52",
     "text": "新年的第一天从 1cc 接到一个病毒开始 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n感觉街机社区大部分的街机数据、注入和魔改工具都不开源还非常稀有，而且干净的注入工具也会报毒所以只是扫描一下也区分不出... 总之不知不觉就变成了能下到什么 exe dll 都直接跑，然后就导致了今天的 drama\n\n但是感觉这也没办法... 毕竟本质上跑街机和破解软件是一样的性质，只能相信提供 dump 和破解的人没有恶意了。不过还是推荐有条件就用一个专门为了街机新装的系统跑这些吧，至少能降低中毒的损失 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -42214,7 +42214,7 @@
     "id": 3127,
     "date": "2024-01-01T22:16:35",
     "text": "早上做了面用了一个新的汤底，然后发现它里面含虾赶快吃了一些 dph，然后睡到了现在 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n感觉 dph 比起抗过敏更适合做安眠药",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 2957,
@@ -42225,7 +42225,7 @@
     "id": 3129,
     "date": "2024-01-02T08:57:38",
     "text": "把家里的 VPS 网络修好了！infra 全面重构 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq\n\n新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）",
-    "views": 88,
+    "views": 89,
     "forwards": 3,
     "images": [
       {
@@ -42244,7 +42244,7 @@
     "id": 3130,
     "date": "2024-01-02T19:00:08",
     "text": "还有七天开学，todo 只剩 3/7 了说不定可以做完 qwq",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "reply": {
       "id": 3059,
@@ -42255,7 +42255,7 @@
     "id": 3131,
     "date": "2024-01-02T20:49:41",
     "text": "私服硬件软件全面升级！\n\n服务器地址迁移到了 aquadx.hydev.org，请在用这个私服的大家对应地改一下 segatools dns <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>\n\n服务器系统从之前的 1C 0.5G VPS 升级到了 2C 8G 的 HyDEV 自家云，数据库从之前的 SQLite 升级到了 Mariadb，总之全都迁移好啦 qwq",
-    "views": 75,
+    "views": 76,
     "forwards": 1,
     "reply": {
       "id": 2761,
@@ -42279,7 +42279,7 @@
     "id": 3132,
     "date": "2024-01-02T23:55:23",
     "text": "说起来把数据从 SQLite 迁移到 MariaDB 真的好麻烦...\n\n试了导出 SQL 直接执行因为方言不兼容全都是报错，试了用 Navicat 导出再导入也不行，试了 DBConvert 破解版没跑起来，试了用 IntelliJ/DataGrip 的迁移功能在转换日期时间戳的时候报错。\n\n最后试了 RebaseData，大部分都转换好了只不过跑起来的时候因为数据出界报错，然后发现它的类型推导居然会选能装下数据的最小类型，比如如果数据里只有 1, 2, 3 的话它就会写一个 tinyint(4)，如果只有 \"hello\" 的话它就会写 varchar(5) 🤯\n\n结果还是重新建数据库写一个脚本迁移了，为什么就没有好用的迁移工具...",
-    "views": 83,
+    "views": 84,
     "forwards": 1,
     "reply": {
       "id": 3131,
@@ -42302,14 +42302,14 @@
     "id": 3133,
     "date": "2024-01-03T10:39:57",
     "text": "玩博德之门不知不觉就天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 68,
+    "views": 70,
     "forwards": 0
   },
   {
     "id": 3134,
     "date": "2024-01-03T10:43:34",
     "text": "寄快递选保险感觉好坑，<del>在想能不能自己开一个保险账号代替商家的保险，比如需要买 ￥100 的保险的话就向里面投 ￥100 什么的，真的遇到问题再拿出来</del>",
-    "views": 77,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -42328,7 +42328,7 @@
     "id": 3135,
     "date": "2024-01-03T17:48:10",
     "text": "发现了大统华挂面便宜的秘密：同样都是 15 捆的友白髮素面但是每捆的面少了 24g (32%)，而且面也更粗",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13634432721819725,
     "images": [
@@ -42368,7 +42368,7 @@
     "id": 3138,
     "date": "2024-01-04T06:28:10",
     "text": "呜呜 这个游戏带入感好强，不知不觉又连续玩了 11h 脑袋晕晕，感觉自己要被传送到博德之门的世界了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "reply": {
       "id": 3133,
@@ -42379,7 +42379,7 @@
     "id": 3139,
     "date": "2024-01-04T07:19:28",
     "text": "呜呜 发现一个大问题。现在 MS365 要过期了，但是我和导师的沟通一直是在 Teams 上，可是如果迁移到 G Suite 的话就不能继续用 Teams 了，而且聊天记录没办法一起迁移... 怎么办呢？",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -42390,13 +42390,13 @@
     "id": 3140,
     "date": "2024-01-04T21:20:42",
     "text": "咦 发现今年好像还没出过门",
-    "views": 83,
+    "views": 84,
     "forwards": 0
   },
   {
     "id": 3141,
     "date": "2024-01-04T21:22:25",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "files": [
       {
@@ -42421,7 +42421,7 @@
     "id": 3142,
     "date": "2024-01-05T02:04:45",
     "text": "和聊聊开坑 Minecraft qwq",
-    "views": 82,
+    "views": 83,
     "forwards": 1,
     "images": [
       {
@@ -42440,7 +42440,7 @@
     "id": 3143,
     "date": "2024-01-05T12:30:57",
     "text": "好喜欢博德之门的自由度和细节... 不想吃饭就喝酒喝饱，用来吃的 salami 也可以用来打人，还可以和小动物和死人说话。还有某次我进了一段剧情发现打不过，读档重来之后让聊聊重新选一遍对话居然没打架就过去了，好厉害\n\n有一段剧情是一只狗狗在死掉的主人身边转圈，不开法术的话汪汪两声就过去了，但是如果开了和动物和死人说话的法术就可以听到发生了什么然后安慰狗狗让狗狗闻着我的脚步走到营地 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n如果在现实中也能和动物说话就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "media_group_id": 13635662861008765,
     "images": [
@@ -42499,7 +42499,7 @@
     "id": 3147,
     "date": "2024-01-06T06:36:23",
     "text": "高中同学来玩，给我带了芒果蛋糕，好吃！开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13636183865706885,
     "files": [
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42558,7 +42558,7 @@
     "id": 3150,
     "date": "2024-01-06T19:16:25",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "images": [
       {
@@ -42577,7 +42577,7 @@
     "id": 3151,
     "date": "2024-01-07T04:07:54",
     "text": "呜 把在冰箱里冷冻了一两年的彩椒炒了然后肚肚疼 <i class=\"custom-emoji\" emoji-src=\"emoji/5445336353082449973.tgs\">😢</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0
   },
   {
@@ -42596,7 +42596,7 @@
     "id": 3153,
     "date": "2024-01-08T00:40:26",
     "text": "不懂，明明 Vulkan 应该在各方面都比 DX11/OpenGL 好的，可是每次用 Vulkan 玩游戏都好失望...\n\n这几天玩博德之门的时候用 Vulkan 启动的话帧率更高但是会有黑方块闪来闪去，昨天玩 Minecraft 的时候尝试用 Vulkan 启动直接让显卡驱动崩溃了。查查 reddit 却发现社区里大部分人都没有遇到同样的问题，可是遇到同样问题的机器里既有 Nvidia 也有 AMD 卡，既有高清高刷 HDR 也有普通显示器，完全找不到共同点...\n\n呜 不理解",
-    "views": 74,
+    "views": 76,
     "forwards": 0,
     "files": [
       {
@@ -42617,14 +42617,14 @@
     "id": 3154,
     "date": "2024-01-08T20:02:02",
     "text": "哭 开学第一天就把课全都睡过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 156,
+    "views": 158,
     "forwards": 2
   },
   {
     "id": 3155,
     "date": "2024-01-09T06:04:56",
     "text": "哭 发现今年的六门课里只有两门有 recording，看来不能像上学期一样不去学校了...",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -42643,7 +42643,7 @@
     "id": 3156,
     "date": "2024-01-09T10:37:50",
     "text": "之前打博德之门 3 的时候在第三章从一个地洞出来真的梦回英雄无敌 3，然后今天在和聊聊重温英雄无敌 3 打教程关\n\n我：呜呜，这个游戏比我老了，99 年的\n聊聊：呜呜呜呜呜，这个游戏比我小啊",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -42681,7 +42681,7 @@
     "id": 3158,
     "date": "2024-01-09T20:34:33",
     "text": "我：咦 2023 年的「爱的付出奖」怎么选了一个 RDR2 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n聊聊：这是怎么选的\n我：“直到今天，游戏仍在不断推出新内容...”\n聊聊：啊这个游戏在线模式一直在推新内容\n我：啊？这个游戏居然有在线模式？哦我玩的是学习版没事了 🌚",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "images": [
       {
@@ -42700,7 +42700,7 @@
     "id": 3159,
     "date": "2024-01-09T21:23:33",
     "text": "好多人对这个项目感兴趣，刚发出去就收到了四封回复，又认识了好多喜欢街机音游的朋友 qwq",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 3157,
@@ -42711,7 +42711,7 @@
     "id": 3160,
     "date": "2024-01-10T09:05:02",
     "text": "明天要九点起床，还要出门上学诶... 两件事情都好不适应 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n（今年仍然还没有出过门呜呜",
-    "views": 68,
+    "views": 70,
     "forwards": 0
   },
   {
@@ -42838,14 +42838,14 @@
     "id": 3170,
     "date": "2024-01-12T01:52:29",
     "text": "今天玩博得之门丢了几次档... 解决的时候被迷惑到了\n\n第一次打开游戏发现档没了，开了一个新档然后用 Windows 全局搜索发现它放在 Steam 的同步文件夹里了而不是用户文件夹（明明之前也是用 Steam 启动的）重启不开 Steam 直接启动 bg3_dx11.exe 就好了。\n\n第二次打开游戏发现档没了，又开了一个新档然后用 Windows 全局搜索发现它居然在同一个目录的 Debug_Profile_3 下面。之后发现这个游戏判断存档位置的逻辑是，如果后台有 bg3 进程在跑就读 Debug_Profile_{i}，如果没有就读 Public... 然后因为之前开的游戏没有成功退出，留了两个僵尸进程，所以新开的进程检测到有三个游戏开着就读了 Debug_Profile_3 🌚\n\n至少花了一个小时解决这个问题... 后悔没有用主机玩这个游戏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 55,
+    "views": 56,
     "forwards": 0
   },
   {
     "id": 3171,
     "date": "2024-01-12T03:25:25",
     "text": "新笔记本到啦！做工很棒很满意 qwq\n\n后壳咬合得太完美以至于专门用来拆机的塑料片都太粗了插不进去... 还是用了 thin 吉他拨片撬开的。\n\n刚到手把 MT7921K 网卡换成了 AX210，然后把杂牌子 SSD 换掉了。比较有意思的是拆机的时候发现主板上留了独显的 BGA，可是这个产品线 14 寸却没有任何一个发售的型号带独显... 不知道以后会不会有\n\n之后把旧笔记本的系统迁移过去了，花了几个小时修 Windows 和 Linux 的引导问题，改成了用 Clover 做引导，现在终于可以用啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13640239401671573,
     "images": [
@@ -42957,7 +42957,7 @@
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 45,
+    "views": 47,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 60,
+    "views": 63,
     "forwards": 1,
     "images": [
       {
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 44,
+    "views": 47,
     "forwards": 1,
     "files": [
       {
@@ -43030,7 +43030,7 @@
     "id": 3184,
     "date": "2024-01-13T15:42:20",
     "text": "通宵把博德之门3打通了！故事很棒，每个角色都有很独立很有趣的剧情和小结局，没想到还把之前没有机会救的 Karlach 用奇怪的方式救活了\n\n不过如果说有不足就是世界设定实在太大，无论做多么小的选择都可能会有长远的蝴蝶效应... 比如在第 1.5 章一个村子里打了一头奇怪的牛，牛把站在旁边的商人 Dammon 撞死了，当时以为是一个普通的 NPC 就没有管，结果打到最后第三章去查攻略才发现他是唯一一个能救 Karlach 的人... <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 之后就不太敢随便做选择了（x）\n\n大结局的话不知道怎么评价... 你们觉得如果世界上存在一个无限智慧的巨大脑子，它真的会狭隘到想要为了 absolute power 统治世界吗？<i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 而且这个巨形脑子只能一个词一个词地说话真的好出戏... 明明设定上应该是比人聪明太多的。\n\n不过以后再仔细评价了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 40,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
@@ -43049,7 +43049,7 @@
     "id": 3185,
     "date": "2024-01-14T06:00:24",
     "text": "（spoiler: 剧透）\n<span class=\"spoiler\"><span>在最终章因为 Karlach 的心脏随时可能会爆炸，而且因为 Dammon 死了没办法修复她的心脏，我选择了让 Karlach 进化成一个 Illithid 活下去。\n\n剧情结束的后日谈里面听 Karlach 的故事，说她作为 Illithid 可以通过吸收掉脑子把一个人的所有记忆融入自己、说她在和医院合作，给救不活的人一个让记忆融入进她的身体继续活下去的选项、说她像是活过了无数条命一样，对这个进化完全不后悔。感觉像是做到了一种不完全的人类补完，真希望现实中人的记忆也可以用这种方式作为一个集体延续 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</span></span></i><span class=\"spoiler\"><span>\n\n设定上的话，一个 Illithid 的最终进化形态就是这个大剧情中的最终 boss 大脑子 Elder Brain，那我真的很不能接受编剧把它设定成一个邪恶的个体，明明吸收了无数好心人的记忆。我感觉如果它真的存在的话，也许会是像 LLM 那样吧，有过无数次生命的经历却没有属于自己个体的身份认同的一种集体...</span></span>\n\n<del>TLDR：我也好想进化成 Illithid</del>",
-    "views": 19,
+    "views": 32,
     "forwards": 0,
     "reply": {
       "id": 3184,
