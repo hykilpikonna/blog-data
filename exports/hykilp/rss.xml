@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 16 Jan 2024 06:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 08:08:30 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3193</title>
+      <link>https://aza.moe/life?post=3193</link>
+      <description>&lt;p&gt;今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！&lt;/p&gt;
+&lt;p&gt;测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了&lt;/p&gt;
+&lt;p&gt;这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦&lt;/p&gt;</description>
+      <guid isPermaLink="false">3193</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3192</title>
       <link>https://aza.moe/life?post=3192</link>
