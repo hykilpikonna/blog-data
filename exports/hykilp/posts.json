@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6957,
+    "views": 6958,
     "forwards": 178,
     "media_group_id": 13340239729731381,
     "images": [
@@ -42225,7 +42225,7 @@
     "id": 3129,
     "date": "2024-01-02T08:57:38",
     "text": "把家里的 VPS 网络修好了！infra 全面重构 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq\n\n新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）",
-    "views": 89,
+    "views": 90,
     "forwards": 3,
     "images": [
       {
@@ -42244,7 +42244,7 @@
     "id": 3130,
     "date": "2024-01-02T19:00:08",
     "text": "还有七天开学，todo 只剩 3/7 了说不定可以做完 qwq",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "reply": {
       "id": 3059,
