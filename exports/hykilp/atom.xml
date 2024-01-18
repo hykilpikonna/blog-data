@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-01-18T00:11:50.715338+00:00</updated>
+  <updated>2024-01-18T02:22:36.997695+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3201</id>
+    <title>小桂桂的回忆录 📒 #3201</title>
+    <updated>2024-01-18T01:47:35+00:00</updated>
+    <content>&lt;p&gt;这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 &lt;a href="tex.hydev.org"&gt;tex.hydev.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 &lt;code&gt;overleaf-mongo&lt;/code&gt; 然后加一行 &lt;code&gt;hostname: mongo&lt;/code&gt; 保证内网网络名是一样的&lt;/li&gt;
+&lt;li&gt;搭好会发现编译 latex 的时候缺引用包，需要用 &lt;code&gt;docker exec overleaf tlmgr install scheme-full&lt;/code&gt; 安装完整 texlive 包&lt;/li&gt;
+&lt;li&gt;因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 &lt;code&gt;docker cp overleaf:/usr/local/texlive/ ./data/texlive&lt;/code&gt; 再映射一个挂载 &lt;code&gt;./data/texlive:/usr/local/texlive/&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;</content>
+    <link href="https://aza.moe/life?post=3201" rel="alternate"/>
+  </entry>
   <entry>
     <id>3200</id>
     <title>小桂桂的回忆录 📒 #3200</title>
