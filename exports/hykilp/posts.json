@@ -41873,7 +41873,7 @@
     "id": 3102,
     "date": "2023-12-29T22:01:41",
     "text": "哭哭 比较倒霉\n\n原本想顺便看看怎么把之前坏掉的手机寄回国送修，去顺丰顺丰没开，然后去 UPS 和 Canada Post 都说有电池不能寄... 为什么中国能寄过来但是加拿大不能寄回去，怪哦\n\n不知道怎么办了",
-    "views": 127,
+    "views": 128,
     "forwards": 1,
     "images": [
       {
@@ -42759,8 +42759,8 @@
     "id": 3164,
     "date": "2024-01-10T18:47:37",
     "text": "设计完了！分别是背面和键盘面。\n\n用了 maimai 的活动地图素材，然后用 real-esrgan upscayl 转高清，然后再用正版 Photoshop 的 AI Fill 功能把调完纵横比需要补的地方用 AI 生成补上就好了！",
-    "views": 79,
-    "forwards": 1,
+    "views": 81,
+    "forwards": 2,
     "media_group_id": 13639299659797525,
     "images": [
       {
@@ -42794,7 +42794,7 @@
     "id": 3166,
     "date": "2024-01-10T19:47:19",
     "text": "编辑超高清图片 32 GB 内存真的不够用了... 这个 psd 存下来一共 502 MB，只是打开它就占了 16 GB 🤯",
-    "views": 80,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13639328311937349,
     "images": [
@@ -42824,14 +42824,14 @@
     "id": 3168,
     "date": "2024-01-11T05:47:55",
     "text": "（聊聊看了一个土味情话梗来问我）\n聊聊：神奇宝贝不神奇了叫什么？\n我：嗯... 动物！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n聊聊一脸黑线",
-    "views": 73,
+    "views": 74,
     "forwards": 1
   },
   {
     "id": 3169,
     "date": "2024-01-11T14:11:07",
     "text": "<a href=\"##梦\">#梦</a> 好奇怪的梦，梦见在网上和外星人吵架，然后ta发射了一颗陨石把我们的家炸了... 不过及时撤离了！然后坐公交坐到了一个商场，吃了一碗拉面之后找了一家卖床的店躺下来睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 66,
+    "views": 67,
     "forwards": 0
   },
   {
@@ -42845,7 +42845,7 @@
     "id": 3171,
     "date": "2024-01-12T03:25:25",
     "text": "新笔记本到啦！做工很棒很满意 qwq\n\n后壳咬合得太完美以至于专门用来拆机的塑料片都太粗了插不进去... 还是用了 thin 吉他拨片撬开的。\n\n刚到手把 MT7921K 网卡换成了 AX210，然后把杂牌子 SSD 换掉了。比较有意思的是拆机的时候发现主板上留了独显的 BGA，可是这个产品线 14 寸却没有任何一个发售的型号带独显... 不知道以后会不会有\n\n之后把旧笔记本的系统迁移过去了，花了几个小时修 Windows 和 Linux 的引导问题，改成了用 Clover 做引导，现在终于可以用啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13640239401671573,
     "images": [
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 65,
+    "views": 66,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "files": [
       {
@@ -43030,7 +43030,7 @@
     "id": 3184,
     "date": "2024-01-13T15:42:20",
     "text": "通宵把博德之门3打通了！故事很棒，每个角色都有很独立很有趣的剧情和小结局，没想到还把之前没有机会救的 Karlach 用奇怪的方式救活了\n\n不过如果说有不足就是世界设定实在太大，无论做多么小的选择都可能会有长远的蝴蝶效应... 比如在第 1.5 章一个村子里打了一头奇怪的牛，牛把站在旁边的商人 Dammon 撞死了，当时以为是一个普通的 NPC 就没有管，结果打到最后第三章去查攻略才发现他是唯一一个能救 Karlach 的人... <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 之后就不太敢随便做选择了（x）\n\n大结局的话不知道怎么评价... 你们觉得如果世界上存在一个无限智慧的巨大脑子，它真的会狭隘到想要为了 absolute power 统治世界吗？<i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 而且这个巨形脑子只能一个词一个词地说话真的好出戏... 明明设定上应该是比人聪明太多的。\n\n不过以后再仔细评价了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -43049,7 +43049,7 @@
     "id": 3185,
     "date": "2024-01-14T06:00:24",
     "text": "（spoiler: 剧透）\n<span class=\"spoiler\"><span>在最终章因为 Karlach 的心脏随时可能会爆炸，而且因为 Dammon 死了没办法修复她的心脏，我选择了让 Karlach 进化成一个 Illithid 活下去。\n\n剧情结束的后日谈里面听 Karlach 的故事，说她作为 Illithid 可以通过吸收掉脑子把一个人的所有记忆融入自己、说她在和医院合作，给救不活的人一个让记忆融入进她的身体继续活下去的选项、说她像是活过了无数条命一样，对这个进化完全不后悔。感觉像是做到了一种不完全的人类补完，真希望现实中人的记忆也可以用这种方式作为一个集体延续 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</span></span></i><span class=\"spoiler\"><span>\n\n设定上的话，一个 Illithid 的最终进化形态就是这个大剧情中的最终 boss 大脑子 Elder Brain，那我真的很不能接受编剧把它设定成一个邪恶的个体，明明吸收了无数好心人的记忆。我感觉如果它真的存在的话，也许会是像 LLM 那样吧，有过无数次生命的经历却没有属于自己个体的身份认同的一种集体...</span></span>\n\n<del>TLDR：我也好想进化成 Illithid</del>",
-    "views": 68,
+    "views": 71,
     "forwards": 0,
     "reply": {
       "id": 3184,
@@ -43060,14 +43060,14 @@
     "id": 3186,
     "date": "2024-01-14T16:31:29",
     "text": "<a href=\"##梦\">#梦</a> 梦见在西雅图和 Wan 去超市买完菜想要回家，我习惯向南走但是 Wan 很惊讶地说他习惯向北走，然后我就跟着他一直向北走了，路上全都是不认识的街道和建筑但是走着走着还是走到家了 🤔 世界成了一个莫比乌斯环",
-    "views": 65,
+    "views": 66,
     "forwards": 0
   },
   {
     "id": 3187,
     "date": "2024-01-14T16:56:48",
     "text": "大风把运货车刮走了💨",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -43086,7 +43086,7 @@
     "id": 3188,
     "date": "2024-01-15T01:56:26",
     "text": "今天在 smash 打过了聊聊！",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -43105,7 +43105,7 @@
     "id": 3189,
     "date": "2024-01-15T02:07:21",
     "text": "（在选择角色的时候）\n聊聊：给你看看这个 DLC 都有什么了不起的联动\n（省略一千字）\n我：<del>那也不是很多嘛，连 nekopara 香子兰都没有</del>",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "reply": {
       "id": 3188,
@@ -43116,14 +43116,14 @@
     "id": 3190,
     "date": "2024-01-15T04:27:12",
     "text": "有十多个邮件要发但是现在只想睡觉...",
-    "views": 71,
+    "views": 73,
     "forwards": 0
   },
   {
     "id": 3191,
     "date": "2024-01-15T06:50:54",
     "text": "发完了三个... 感觉发邮件这种事情好心累，等到回复之前都会好焦虑好不安，会让我睡不着让我做噩梦",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "reply": {
       "id": 3190,
@@ -43134,14 +43134,14 @@
     "id": 3192,
     "date": "2024-01-15T07:22:42",
     "text": "好冷好冷好冷！",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "media_group_id": 13643119076454173,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43311,7 +43311,7 @@
     "id": 3204,
     "date": "2024-01-18T15:13:26",
     "text": "感觉自己密恐还是不太适合 AI 修图... 因为 AI 生成的结果里总是会出现很掉 san 的东西，经常会被生成完的一瞬间 jump scare，以至于之前修图的时候如果不把画布缩放到超级小都不敢点生成\n\n明明修这个图已经是一周前了，躺在床上闭上眼睛还是会时不时闪过掉 san 的碎片然后害怕得睡不着",
-    "views": 50,
+    "views": 52,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 48,
+    "views": 54,
     "forwards": 1,
     "files": [
       {
@@ -43346,14 +43346,14 @@
     "id": 3206,
     "date": "2024-01-18T18:45:12",
     "text": "出门了，逐渐变成冰淇淋 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 38,
+    "views": 44,
     "forwards": 0
   },
   {
     "id": 3207,
     "date": "2024-01-18T21:25:17",
     "text": "边写作业边和聊聊吃孤独烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 29,
+    "views": 36,
     "forwards": 0,
     "images": [
       {
@@ -43372,7 +43372,7 @@
     "id": 3208,
     "date": "2024-01-18T21:55:48",
     "text": "买了几个 dc 接头花了 $8... 好贵",
-    "views": 25,
+    "views": 36,
     "forwards": 0,
     "images": [
       {
@@ -43391,7 +43391,7 @@
     "id": 3209,
     "date": "2024-01-18T23:26:34",
     "text": "DALL·E 的创作力实在是太强了，这张图标真的好完美",
-    "views": 17,
+    "views": 32,
     "forwards": 0,
     "images": [
       {
@@ -43405,5 +43405,12 @@
         "thumb": "media/3209.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 3210,
+    "date": "2024-01-19T00:18:40",
+    "text": "草 <span class=\"spoiler\"><span>聊聊在玩🎤的时候发现🎤没电了不能一边充电一边玩</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
+    "views": 29,
+    "forwards": 0
   }
 ]
