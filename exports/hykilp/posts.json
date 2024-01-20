@@ -42718,7 +42718,7 @@
     "id": 3161,
     "date": "2024-01-10T12:44:24",
     "text": "呜 想定制一套笔记本贴纸但是似乎并没有想象的那么容易\n\n问了十多家卖家没有人可以印键盘面图案不印字，而且看效果图上印的字还都切歪了... 那就重新裁剪做一个不印按键也好看的设计吧。接下来发现这些卖家印底面居然不会留螺丝孔，所以大概是每次拆机都要撕下来重新贴... 那就还是不印底面了吧\n\n明明定制就是为了不做妥协，可是现在的定制卖家却连不怎么难做的小众需求都不愿意做，好失望 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13639125315791173,
     "images": [
@@ -42748,7 +42748,7 @@
     "id": 3163,
     "date": "2024-01-10T14:52:56",
     "text": "出了门\n\n在多伦多真的不用担心早上起来太困，因为出门被冷风刮一秒就醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 3160,
@@ -42759,7 +42759,7 @@
     "id": 3164,
     "date": "2024-01-10T18:47:37",
     "text": "设计完了！分别是背面和键盘面。\n\n用了 maimai 的活动地图素材，然后用 real-esrgan upscayl 转高清，然后再用正版 Photoshop 的 AI Fill 功能把调完纵横比需要补的地方用 AI 生成补上就好了！",
-    "views": 85,
+    "views": 86,
     "forwards": 2,
     "media_group_id": 13639299659797525,
     "images": [
@@ -42794,7 +42794,7 @@
     "id": 3166,
     "date": "2024-01-10T19:47:19",
     "text": "编辑超高清图片 32 GB 内存真的不够用了... 这个 psd 存下来一共 502 MB，只是打开它就占了 16 GB 🤯",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13639328311937349,
     "images": [
@@ -42824,28 +42824,28 @@
     "id": 3168,
     "date": "2024-01-11T05:47:55",
     "text": "（聊聊看了一个土味情话梗来问我）\n聊聊：神奇宝贝不神奇了叫什么？\n我：嗯... 动物！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n聊聊一脸黑线",
-    "views": 80,
+    "views": 81,
     "forwards": 1
   },
   {
     "id": 3169,
     "date": "2024-01-11T14:11:07",
     "text": "<a href=\"##梦\">#梦</a> 好奇怪的梦，梦见在网上和外星人吵架，然后ta发射了一颗陨石把我们的家炸了... 不过及时撤离了！然后坐公交坐到了一个商场，吃了一碗拉面之后找了一家卖床的店躺下来睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 0
   },
   {
     "id": 3170,
     "date": "2024-01-12T01:52:29",
     "text": "今天玩博得之门丢了几次档... 解决的时候被迷惑到了\n\n第一次打开游戏发现档没了，开了一个新档然后用 Windows 全局搜索发现它放在 Steam 的同步文件夹里了而不是用户文件夹（明明之前也是用 Steam 启动的）重启不开 Steam 直接启动 bg3_dx11.exe 就好了。\n\n第二次打开游戏发现档没了，又开了一个新档然后用 Windows 全局搜索发现它居然在同一个目录的 Debug_Profile_3 下面。之后发现这个游戏判断存档位置的逻辑是，如果后台有 bg3 进程在跑就读 Debug_Profile_{i}，如果没有就读 Public... 然后因为之前开的游戏没有成功退出，留了两个僵尸进程，所以新开的进程检测到有三个游戏开着就读了 Debug_Profile_3 🌚\n\n至少花了一个小时解决这个问题... 后悔没有用主机玩这个游戏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0
   },
   {
     "id": 3171,
     "date": "2024-01-12T03:25:25",
     "text": "新笔记本到啦！做工很棒很满意 qwq\n\n后壳咬合得太完美以至于专门用来拆机的塑料片都太粗了插不进去... 还是用了 thin 吉他拨片撬开的。\n\n刚到手把 MT7921K 网卡换成了 AX210，然后把杂牌子 SSD 换掉了。比较有意思的是拆机的时候发现主板上留了独显的 BGA，可是这个产品线 14 寸却没有任何一个发售的型号带独显... 不知道以后会不会有\n\n之后把旧笔记本的系统迁移过去了，花了几个小时修 Windows 和 Linux 的引导问题，改成了用 Clover 做引导，现在终于可以用啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "media_group_id": 13640239401671573,
     "images": [
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "images": [
       {
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 71,
+    "views": 72,
     "forwards": 1,
     "files": [
       {
@@ -43030,7 +43030,7 @@
     "id": 3184,
     "date": "2024-01-13T15:42:20",
     "text": "通宵把博德之门3打通了！故事很棒，每个角色都有很独立很有趣的剧情和小结局，没想到还把之前没有机会救的 Karlach 用奇怪的方式救活了\n\n不过如果说有不足就是世界设定实在太大，无论做多么小的选择都可能会有长远的蝴蝶效应... 比如在第 1.5 章一个村子里打了一头奇怪的牛，牛把站在旁边的商人 Dammon 撞死了，当时以为是一个普通的 NPC 就没有管，结果打到最后第三章去查攻略才发现他是唯一一个能救 Karlach 的人... <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 之后就不太敢随便做选择了（x）\n\n大结局的话不知道怎么评价... 你们觉得如果世界上存在一个无限智慧的巨大脑子，它真的会狭隘到想要为了 absolute power 统治世界吗？<i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 而且这个巨形脑子只能一个词一个词地说话真的好出戏... 明明设定上应该是比人聪明太多的。\n\n不过以后再仔细评价了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "images": [
       {
@@ -43141,7 +43141,7 @@
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13643119076454173,
     "images": [
@@ -43372,7 +43372,7 @@
     "id": 3208,
     "date": "2024-01-18T21:55:48",
     "text": "买了几个 dc 接头花了 $8... 好贵",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -43391,7 +43391,7 @@
     "id": 3209,
     "date": "2024-01-18T23:26:34",
     "text": "DALL·E 的创作力实在是太强了，这张图标真的好完美",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -43410,14 +43410,14 @@
     "id": 3210,
     "date": "2024-01-19T00:18:40",
     "text": "草 <span class=\"spoiler\"><span>聊聊在玩🎤的时候发现🎤没电了不能一边充电一边玩</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
-    "views": 60,
+    "views": 61,
     "forwards": 0
   },
   {
     "id": 3211,
     "date": "2024-01-19T03:14:55",
     "text": "非常认真地写了作业",
-    "views": 60,
+    "views": 61,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -43461,7 +43461,7 @@
     "id": 3214,
     "date": "2024-01-19T03:20:29",
     "text": "呜呜 虽然认识了很多朋友但是 Web 课教授最终没有同意让我们自己选项目，他说因为他觉得开这个前例太危险了，有可能会让更多人申请自己选项目然后 TA 忙不过来... 所以就算啦，没办法免费招人写 DX Net 了。\n\n今年的指定课题是一个像 when2meet 那样的会议时间 app，好无聊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "reply": {
       "id": 3157,
@@ -43472,7 +43472,7 @@
     "id": 3215,
     "date": "2024-01-19T03:53:44",
     "text": "今生最后一片 12.5mg 色谱龙，决定从明天开始就不吃了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "images": [
       {
@@ -43491,14 +43491,14 @@
     "id": 3216,
     "date": "2024-01-19T05:59:51",
     "text": "睡不着睡不着睡不着\n\n可是不能吃褪黑素",
-    "views": 60,
+    "views": 62,
     "forwards": 0
   },
   {
     "id": 3217,
     "date": "2024-01-19T06:15:12",
     "text": "我：快睡着快睡着\n脑子：🎵Don’t stop me now I’m having such a good time🎵\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 59,
+    "views": 62,
     "forwards": 0,
     "files": [
       {
@@ -43520,7 +43520,7 @@
     "id": 3218,
     "date": "2024-01-19T15:10:19",
     "text": "草 洗这个拖鞋会让拖鞋缩小",
-    "views": 58,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -43539,7 +43539,7 @@
     "id": 3219,
     "date": "2024-01-19T22:29:05",
     "text": "醒了！真的就是睡了一觉就好了，最痛苦的部分是全麻的针... 我晕针然后告诉我要把一根超级长针插在手背上插三四个小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 56,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -43557,7 +43557,7 @@
   {
     "id": 3220,
     "date": "2024-01-19T22:33:59",
-    "views": 58,
+    "views": 60,
     "forwards": 0,
     "files": [
       {
@@ -43582,21 +43582,21 @@
     "id": 3221,
     "date": "2024-01-19T23:45:09",
     "text": "感觉在梦游",
-    "views": 54,
+    "views": 57,
     "forwards": 0
   },
   {
     "id": 3222,
     "date": "2024-01-20T02:20:49",
     "text": "今天手术前后聊聊照顾了我好多，感觉好辛苦聊聊 quq",
-    "views": 51,
+    "views": 55,
     "forwards": 0
   },
   {
     "id": 3223,
     "date": "2024-01-20T07:01:27",
     "text": "前几天去 A&C 看到有一件衣服上印了超人的大 S，突然想定这样一件衣服",
-    "views": 33,
+    "views": 38,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43614,5 +43614,12 @@
         "thumb": "media/3223.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 3224,
+    "date": "2024-01-20T15:46:05",
+    "text": "哭哭 好像昨天睡觉姿势不太对，今天醒来腰酸背痛脖子落枕 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n嗓子也好疼（因为昨天全麻的时候插了呼吸管）",
+    "views": 12,
+    "forwards": 0
   }
 ]
