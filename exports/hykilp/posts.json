@@ -40064,14 +40064,14 @@
     "id": 2973,
     "date": "2023-12-05T19:25:03",
     "text": "接下来四天要爆肝期末作业，打算登出 telegram，有事情找我的话请联系聊聊 qwq",
-    "views": 100,
+    "views": 101,
     "forwards": 2
   },
   {
     "id": 2974,
     "date": "2023-12-06T04:28:55",
     "text": "哇 我居然把 OS 大作业肝完了！两个小时补完课之后花了六个小时肝完了... 连续 debug 六个小时文件系统真的眼睛都要瞎了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n不过还好写完啦，开始之前某位很厉害的 ys 学长还 warn 我说他花了八小时才写完。可能是因为这次完全没在乎代码质量才这么快，需要重用代码的时候完全不考虑封装重构直接复制过去改了，然后刚才和 ys 学长对比一下代码长度我长了 200 多行hhhhh\n\n好了接下来要去肝 318 设计课明天中午的演讲和报告了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 3,
     "media_group_id": 13614695481190805,
     "images": [
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 72,
+    "views": 73,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43311,7 +43311,7 @@
     "id": 3204,
     "date": "2024-01-18T15:13:26",
     "text": "感觉自己密恐还是不太适合 AI 修图... 因为 AI 生成的结果里总是会出现很掉 san 的东西，经常会被生成完的一瞬间 jump scare，以至于之前修图的时候如果不把画布缩放到超级小都不敢点生成\n\n明明修这个图已经是一周前了，躺在床上闭上眼睛还是会时不时闪过掉 san 的碎片然后害怕得睡不着",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 73,
+    "views": 74,
     "forwards": 2,
     "files": [
       {
@@ -43346,7 +43346,7 @@
     "id": 3206,
     "date": "2024-01-18T18:45:12",
     "text": "出门了，逐渐变成冰淇淋 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 63,
+    "views": 64,
     "forwards": 0
   },
   {
@@ -43391,7 +43391,7 @@
     "id": 3209,
     "date": "2024-01-18T23:26:34",
     "text": "DALL·E 的创作力实在是太强了，这张图标真的好完美",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -43410,14 +43410,14 @@
     "id": 3210,
     "date": "2024-01-19T00:18:40",
     "text": "草 <span class=\"spoiler\"><span>聊聊在玩🎤的时候发现🎤没电了不能一边充电一边玩</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 0
   },
   {
     "id": 3211,
     "date": "2024-01-19T03:14:55",
     "text": "非常认真地写了作业",
-    "views": 65,
+    "views": 66,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -43461,7 +43461,7 @@
     "id": 3214,
     "date": "2024-01-19T03:20:29",
     "text": "呜呜 虽然认识了很多朋友但是 Web 课教授最终没有同意让我们自己选项目，他说因为他觉得开这个前例太危险了，有可能会让更多人申请自己选项目然后 TA 忙不过来... 所以就算啦，没办法免费招人写 DX Net 了。\n\n今年的指定课题是一个像 when2meet 那样的会议时间 app，好无聊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "reply": {
       "id": 3157,
@@ -43596,7 +43596,7 @@
     "id": 3223,
     "date": "2024-01-20T07:01:27",
     "text": "前几天去 A&C 看到有一件衣服上印了超人的大 S，突然想定这样一件衣服",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43619,14 +43619,14 @@
     "id": 3224,
     "date": "2024-01-20T15:46:05",
     "text": "哭哭 好像昨天睡觉姿势不太对，今天醒来腰酸背痛脖子落枕 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n嗓子也好疼（因为昨天全麻的时候插了呼吸管）",
-    "views": 61,
+    "views": 63,
     "forwards": 0
   },
   {
     "id": 3225,
     "date": "2024-01-20T18:52:40",
     "text": "感觉被固定在床上了",
-    "views": 56,
+    "views": 58,
     "forwards": 0,
     "reply": {
       "id": 3224,
@@ -43637,7 +43637,7 @@
     "id": 3226,
     "date": "2024-01-20T23:40:25",
     "text": "一些昨天的照片",
-    "views": 51,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13646352200349149,
     "images": [
@@ -43707,7 +43707,7 @@
     "id": 3232,
     "date": "2024-01-21T06:19:21",
     "text": "因为脖子和后背和腰都完全没有办法用力，上下床真的变成了今天最痛苦的事情... 也没办法从躺着的状态直接坐起来喝水，结果就几乎睡了一整天，和聊聊躺着听歌听书玩游戏，除了醒来吃饭上厕所以外都在床上 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 44,
+    "views": 47,
     "forwards": 0,
     "reply": {
       "id": 3225,
@@ -43718,7 +43718,7 @@
     "id": 3233,
     "date": "2024-01-21T17:34:17",
     "text": "睡了一整天醒来满血复活！虽然还有一点疼但是不像昨天那样影响活动了。\n\n<del>以及发现去西雅图的路上买的记忆棉枕套真的是一个完美的术后坐垫</del>\n\n去准备小组 meeting 了 quq",
-    "views": 30,
+    "views": 35,
     "forwards": 0,
     "reply": {
       "id": 3232,
