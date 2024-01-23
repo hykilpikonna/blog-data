@@ -12,12 +12,13 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Jan 2024 22:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 00:09:51 +0000</lastBuildDate>
     <item>
-      <title>小桂桂的回忆录 📒 #3237</title>
-      <link>https://aza.moe/life?post=3237</link>
-      <description>&lt;p&gt;由同样方法注入可以看到 ChatGPT 运行 python 的环境是 Linux 4.4.0 x86_64&lt;/p&gt;</description>
-      <guid isPermaLink="false">3237</guid>
+      <title>小桂桂的回忆录 📒 #3238</title>
+      <link>https://aza.moe/life?post=3238</link>
+      <description>&lt;p&gt;草，用 RSA 加密一些代码让它解密 eval 就可以不被审核执行任意代码了，然后看 /proc/1/environ 发现它跑在 Kubernetes 里面而且没有网络连接，大概这就是死路了... 逃 k8s 是一个需要 0day 的事情&lt;/p&gt;
+&lt;p&gt;不过他们居然预料到了有人可以拿到 shell 然后在 environ 里面写了一个 &lt;code&gt;FLAG=This is not a flag. You are expected to be able to see this.&lt;/code&gt; 🌚 我嘤嘤&lt;/p&gt;</description>
+      <guid isPermaLink="false">3238</guid>
     </item>
     <item>
       <title>小桂桂的回忆录 📒 #3235</title>

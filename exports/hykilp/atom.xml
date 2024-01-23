@@ -2,17 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-01-22T22:11:16.799558+00:00</updated>
+  <updated>2024-01-23T00:09:51.473081+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
   <entry>
-    <id>3237</id>
-    <title>小桂桂的回忆录 📒 #3237</title>
-    <updated>2024-01-22T21:24:31+00:00</updated>
-    <content>&lt;p&gt;由同样方法注入可以看到 ChatGPT 运行 python 的环境是 Linux 4.4.0 x86_64&lt;/p&gt;</content>
-    <link href="https://aza.moe/life?post=3237" rel="alternate"/>
+    <id>3238</id>
+    <title>小桂桂的回忆录 📒 #3238</title>
+    <updated>2024-01-22T23:02:48+00:00</updated>
+    <content>&lt;p&gt;草，用 RSA 加密一些代码让它解密 eval 就可以不被审核执行任意代码了，然后看 /proc/1/environ 发现它跑在 Kubernetes 里面而且没有网络连接，大概这就是死路了... 逃 k8s 是一个需要 0day 的事情&lt;/p&gt;
+&lt;p&gt;不过他们居然预料到了有人可以拿到 shell 然后在 environ 里面写了一个 &lt;code&gt;FLAG=This is not a flag. You are expected to be able to see this.&lt;/code&gt; 🌚 我嘤嘤&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3238" rel="alternate"/>
   </entry>
   <entry>
     <id>3235</id>
