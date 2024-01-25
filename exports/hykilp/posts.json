@@ -41071,7 +41071,7 @@
     "id": 3041,
     "date": "2023-12-19T04:05:28",
     "text": "刚把推迟考试的请求表交上去了。真的为什么在 UofT 推迟考试这么麻烦... 甚至表单直接说了即使是 Covid Rapid Test 阳性的照片都不能作为生病的证据，必须要 registered 医生开的假条 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "reply": {
       "id": 3024,
@@ -41094,7 +41094,7 @@
     "id": 3042,
     "date": "2023-12-19T05:18:07",
     "text": "<a href=\"##ADHD\">#ADHD</a> 明早要继续之前没做完的 ADHD 诊断，然后今天才想起来上次诊断医生说要做 ECG 检查才能开药来着，然而现在已经没有做检查的地方开门了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 2895,
@@ -41105,7 +41105,7 @@
     "id": 3044,
     "date": "2023-12-19T22:41:14",
     "text": "看到学校 cs lab 的电脑升级了... 这个配置好扭曲？？\n\nCPU 上了服务器级别的 Xeon W 但是只有四核，显卡上了超级贵的企业级 A2000 卡，然而显存只有 6GB 而且性能还没有 3060 好... 内存 64GB，日常占用 1.4GB 🌚\n\n而且桌面是古董一样的 LXDE... 真的感觉可能 Xfce 都比这个好用一点。不开心，cs dept 这样做真的会给很多没用过 Linux 人带来一种“原来 Linux 桌面这么难用”的印象，明明有更现代更好用的桌面... 找时间发邮件 complain 一下好了",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "media_group_id": 13624205391149293,
     "images": [
@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41232,21 +41232,21 @@
     "id": 3052,
     "date": "2023-12-22T08:18:05",
     "text": "之前投完 Bilibili 视频从私信认识了几位同样在多伦多喜欢玩街机音游的朋友，今天 CauBaC 来这里玩，见到了新朋友好开心 qwq\n\n感觉好神奇，即使没有互相发过照片依然一眼认出了是网友（以及 CauBaC 好可爱！）而且发现我真的不社恐了诶，<del>想起来两三年前这样见网友还会觉得认错人会好尴尬，然后就会在约定地点旁边打字问∞个问题之后发现网友就在眼前</del>（？）\n\n玩得很开心！她好厉害！> < 刚过来她还说没怎么玩过中二，然后我很耐心地讲了各种流程结果她上来就打 13+ 打了一个 995 (╯’ – ‘)╯︵ ┻━┻ <del>被音游人的例常卖菜骗到了</del>\n\n好想快点把 Wacca 和 maimai 也搭起来...",
-    "views": 84,
+    "views": 85,
     "forwards": 0
   },
   {
     "id": 3053,
     "date": "2023-12-22T09:11:04",
     "text": "又发生了睡觉 deadlock，我在等聊聊睡觉的时候聊聊在等我睡觉，结果就到凌晨四点了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 79,
+    "views": 80,
     "forwards": 2
   },
   {
     "id": 3054,
     "date": "2023-12-22T23:19:55",
     "text": "更新完了！<a href=\"https://github.com/hykilpikonna/AquaDX\">AquaDX</a> 和 <a href=\"lux.hydev.org\">lux.hydev.org</a> 都支持中二 SUN Plus 了！所有数据也都同步了哦",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "media_group_id": 13626297563827117,
     "images": [
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 93,
+    "views": 94,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 82,
+    "views": 83,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41377,7 +41377,7 @@
     "id": 3065,
     "date": "2023-12-25T06:49:59",
     "text": "既然要从国内订 Wacca 架子的铝型材空运过来那就顺便多买点铝型材做一个桌子吧（反正不会增加包裹的总共体积",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "reply": {
       "id": 3059,
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 80,
+    "views": 81,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43311,7 +43311,7 @@
     "id": 3204,
     "date": "2024-01-18T15:13:26",
     "text": "感觉自己密恐还是不太适合 AI 修图... 因为 AI 生成的结果里总是会出现很掉 san 的东西，经常会被生成完的一瞬间 jump scare，以至于之前修图的时候如果不把画布缩放到超级小都不敢点生成\n\n明明修这个图已经是一周前了，躺在床上闭上眼睛还是会时不时闪过掉 san 的碎片然后害怕得睡不着",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 81,
+    "views": 82,
     "forwards": 2,
     "files": [
       {
@@ -43346,14 +43346,14 @@
     "id": 3206,
     "date": "2024-01-18T18:45:12",
     "text": "出门了，逐渐变成冰淇淋 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 70,
+    "views": 72,
     "forwards": 0
   },
   {
     "id": 3207,
     "date": "2024-01-18T21:25:17",
     "text": "边写作业边和聊聊吃孤独烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -43372,7 +43372,7 @@
     "id": 3208,
     "date": "2024-01-18T21:55:48",
     "text": "买了几个 dc 接头花了 $8... 好贵",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -43391,7 +43391,7 @@
     "id": 3209,
     "date": "2024-01-18T23:26:34",
     "text": "DALL·E 的创作力实在是太强了，这张图标真的好完美",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "images": [
       {
@@ -43410,14 +43410,14 @@
     "id": 3210,
     "date": "2024-01-19T00:18:40",
     "text": "草 <span class=\"spoiler\"><span>聊聊在玩🎤的时候发现🎤没电了不能一边充电一边玩</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
-    "views": 72,
+    "views": 73,
     "forwards": 0
   },
   {
     "id": 3211,
     "date": "2024-01-19T03:14:55",
     "text": "非常认真地写了作业",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -43461,7 +43461,7 @@
     "id": 3214,
     "date": "2024-01-19T03:20:29",
     "text": "呜呜 虽然认识了很多朋友但是 Web 课教授最终没有同意让我们自己选项目，他说因为他觉得开这个前例太危险了，有可能会让更多人申请自己选项目然后 TA 忙不过来... 所以就算啦，没办法免费招人写 DX Net 了。\n\n今年的指定课题是一个像 when2meet 那样的会议时间 app，好无聊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 78,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 3157,
@@ -43472,7 +43472,7 @@
     "id": 3215,
     "date": "2024-01-19T03:53:44",
     "text": "今生最后一片 12.5mg 色谱龙，决定从明天开始就不吃了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 75,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -43491,14 +43491,14 @@
     "id": 3216,
     "date": "2024-01-19T05:59:51",
     "text": "睡不着睡不着睡不着\n\n可是不能吃褪黑素",
-    "views": 75,
+    "views": 76,
     "forwards": 0
   },
   {
     "id": 3217,
     "date": "2024-01-19T06:15:12",
     "text": "我：快睡着快睡着\n脑子：🎵Don’t stop me now I’m having such a good time🎵\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "files": [
       {
@@ -43520,7 +43520,7 @@
     "id": 3218,
     "date": "2024-01-19T15:10:19",
     "text": "草 洗这个拖鞋会让拖鞋缩小",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -43539,7 +43539,7 @@
     "id": 3219,
     "date": "2024-01-19T22:29:05",
     "text": "醒了！真的就是睡了一觉就好了，最痛苦的部分是全麻的针... 我晕针然后告诉我要把一根超级长针插在手背上插三四个小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 77,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -43557,7 +43557,7 @@
   {
     "id": 3220,
     "date": "2024-01-19T22:33:59",
-    "views": 78,
+    "views": 80,
     "forwards": 1,
     "files": [
       {
@@ -43582,21 +43582,21 @@
     "id": 3221,
     "date": "2024-01-19T23:45:09",
     "text": "感觉在梦游",
-    "views": 78,
+    "views": 80,
     "forwards": 0
   },
   {
     "id": 3222,
     "date": "2024-01-20T02:20:49",
     "text": "今天手术前后聊聊照顾了我好多，感觉好辛苦聊聊 quq",
-    "views": 77,
+    "views": 78,
     "forwards": 0
   },
   {
     "id": 3223,
     "date": "2024-01-20T07:01:27",
     "text": "前几天去 A&C 看到有一件衣服上印了超人的大 S，突然想定这样一件衣服",
-    "views": 77,
+    "views": 79,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43619,14 +43619,14 @@
     "id": 3224,
     "date": "2024-01-20T15:46:05",
     "text": "哭哭 好像昨天睡觉姿势不太对，今天醒来腰酸背痛脖子落枕 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n嗓子也好疼（因为昨天全麻的时候插了呼吸管）",
-    "views": 77,
+    "views": 79,
     "forwards": 0
   },
   {
     "id": 3225,
     "date": "2024-01-20T18:52:40",
     "text": "感觉被固定在床上了",
-    "views": 75,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 3224,
@@ -43637,7 +43637,7 @@
     "id": 3226,
     "date": "2024-01-20T23:40:25",
     "text": "一些昨天的照片",
-    "views": 70,
+    "views": 73,
     "forwards": 0,
     "media_group_id": 13646352200349149,
     "images": [
@@ -43707,7 +43707,7 @@
     "id": 3232,
     "date": "2024-01-21T06:19:21",
     "text": "因为脖子和后背和腰都完全没有办法用力，上下床真的变成了今天最痛苦的事情... 也没办法从躺着的状态直接坐起来喝水，结果就几乎睡了一整天，和聊聊躺着听歌听书玩游戏，除了醒来吃饭上厕所以外都在床上 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 70,
+    "views": 73,
     "forwards": 0,
     "reply": {
       "id": 3225,
@@ -43718,7 +43718,7 @@
     "id": 3233,
     "date": "2024-01-21T17:34:17",
     "text": "睡了一整天醒来满血复活！虽然还有一点疼但是不像昨天那样影响活动了。\n\n<del>以及发现去西雅图的路上买的记忆棉枕套真的是一个完美的术后坐垫</del>\n\n去准备小组 meeting 了 quq",
-    "views": 65,
+    "views": 67,
     "forwards": 0,
     "reply": {
       "id": 3232,
@@ -43741,7 +43741,7 @@
     "id": 3234,
     "date": "2024-01-22T20:12:36",
     "text": "前几天方便面快吃完了想要写到购物单上，但是不会写中文”方便面“就写了一个 \"Ramen\"，然后才意识到我居然也被 whitewash 到会把方便面称做 Ramen 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n然后就想到之前在纽约蔴薯和我的一段对话：我说我喜欢在家里做拉面，然后蔴薯问我指的是 \"Ramen\" 还是「ラーメン」还是「拉面」 🌚\n\n<del>确实这三个都是非常不一样的东西</del>",
-    "views": 59,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -43760,7 +43760,7 @@
     "id": 3235,
     "date": "2024-01-22T21:13:16",
     "text": "好耶 发现 chatgpt 的 python 版本是 3.10.12",
-    "views": 56,
+    "views": 59,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43794,7 +43794,7 @@
     "id": 3238,
     "date": "2024-01-22T23:02:48",
     "text": "草，用 RSA 加密一些代码让它解密 eval 就可以不被审核执行任意代码了，然后看 /proc/1/environ 发现它跑在 Kubernetes 里面而且没有网络连接，大概这就是死路了... 逃 k8s 是一个需要 0day 的事情\n\n不过他们居然预料到了有人可以拿到 shell 然后在 environ 里面写了一个 <code>FLAG=This is not a flag. You are expected to be able to see this.</code> 🌚 我嘤嘤",
-    "views": 57,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -43813,7 +43813,7 @@
     "id": 3239,
     "date": "2024-01-23T00:19:04",
     "text": "发现了新的睡眠游戏：《Melatonin》<i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 62,
+    "views": 65,
     "forwards": 1,
     "files": [
       {
@@ -43835,14 +43835,14 @@
     "id": 3240,
     "date": "2024-01-23T16:40:55",
     "text": "哭哭 一月已经过了快 80% 了可是一月需要做的事情还有好多没有做",
-    "views": 55,
+    "views": 58,
     "forwards": 0
   },
   {
     "id": 3241,
     "date": "2024-01-23T18:53:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊又做了超级北美早餐",
-    "views": 55,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -43861,7 +43861,7 @@
     "id": 3242,
     "date": "2024-01-25T03:10:49",
     "text": "翻一翻 <a href=\"https://www.rarlab.com/themes.htm\">WinRAR 主题列表</a>看到了 1995 到 2024 年 UI 审美的变化，有些真的是时代的眼泪了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 42,
+    "views": 47,
     "forwards": 0,
     "media_group_id": 13649217998969237,
     "images": [
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 165,
+    "views": 186,
     "forwards": 9,
     "images": [
       {
@@ -43920,8 +43920,8 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 160,
-    "forwards": 9,
+    "views": 183,
+    "forwards": 10,
     "files": [
       {
         "file_name": "Pusheen.theme.rar",
@@ -43932,5 +43932,16 @@
         "size": 2386819
       }
     ]
+  },
+  {
+    "id": 3249,
+    "date": "2024-01-25T11:30:52",
+    "text": "<a href=\"##ADHD\">#ADHD</a> 今天原本只是想打开一个中文压缩包用来改 maimai 私服，然后发现 7zip 打开 GBK 压缩包会乱码所以下载了 WinRAR，然后翻菜单找编码选项的时候发现原来 WinRAR 有主题功能，就去查了现有的主题。然后给朋友发消息用了一个 pusheen 表情，突然想到是不是可以用 pusheen 做一个主题，然后就去做了！\n\n结果四个小时过去了私服一笔没动 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
+    "views": 19,
+    "forwards": 0,
+    "reply": {
+      "id": 3247,
+      "text": "做了一个 Pusheen theme!"
+    }
   }
 ]
