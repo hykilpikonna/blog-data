@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-01-27T16:08:00.296481+00:00</updated>
+  <updated>2024-01-27T18:07:02.921943+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3256</id>
+    <title>小桂桂的回忆录 📒 #3256</title>
+    <updated>2024-01-27T17:46:48+00:00</updated>
+    <content>&lt;p&gt;新的笔记本还是遇到了一些灵车问题... 今天发现 Windows 睡眠唤醒之后有概率让 CPU 锁在 0.9 GHz 的频率，要重启才能好&lt;/p&gt;
+&lt;p&gt;然后排查这个问题的时候又发现，只要插着第三方 PD100W TypeC Hub 的电源，给 CPU 的供电就会下降到 15W 或者 25W（满载大概是 65W）但是拔掉电源用电池都能跑到 37W 就很说不过去了&lt;/p&gt;
+&lt;p&gt;感觉是联想这样的大厂专有的问题，明明都是 20V 5A 的 100W PD 电源，只是 emark 没有官方的标识就不认吗...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3256" rel="alternate"/>
+  </entry>
   <entry>
     <id>3255</id>
     <title>小桂桂的回忆录 📒 #3255</title>

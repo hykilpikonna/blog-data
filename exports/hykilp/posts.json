@@ -16,7 +16,7 @@
     "id": 8,
     "date": "2021-09-02T03:00:59",
     "text": "<del>看我干什么w</del>",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "images": [
       {
@@ -41,7 +41,7 @@
     "id": 10,
     "date": "2021-09-02T13:21:57",
     "text": "HyDEV 开发组可以恢复啦，好耶w",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "images": [
       {
@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6976,
+    "views": 6977,
     "forwards": 178,
     "media_group_id": 13340239729731381,
     "images": [
@@ -42824,28 +42824,28 @@
     "id": 3168,
     "date": "2024-01-11T05:47:55",
     "text": "（聊聊看了一个土味情话梗来问我）\n聊聊：神奇宝贝不神奇了叫什么？\n我：嗯... 动物！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n聊聊一脸黑线",
-    "views": 86,
+    "views": 87,
     "forwards": 1
   },
   {
     "id": 3169,
     "date": "2024-01-11T14:11:07",
     "text": "<a href=\"##梦\">#梦</a> 好奇怪的梦，梦见在网上和外星人吵架，然后ta发射了一颗陨石把我们的家炸了... 不过及时撤离了！然后坐公交坐到了一个商场，吃了一碗拉面之后找了一家卖床的店躺下来睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 80,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 3170,
     "date": "2024-01-12T01:52:29",
     "text": "今天玩博得之门丢了几次档... 解决的时候被迷惑到了\n\n第一次打开游戏发现档没了，开了一个新档然后用 Windows 全局搜索发现它放在 Steam 的同步文件夹里了而不是用户文件夹（明明之前也是用 Steam 启动的）重启不开 Steam 直接启动 bg3_dx11.exe 就好了。\n\n第二次打开游戏发现档没了，又开了一个新档然后用 Windows 全局搜索发现它居然在同一个目录的 Debug_Profile_3 下面。之后发现这个游戏判断存档位置的逻辑是，如果后台有 bg3 进程在跑就读 Debug_Profile_{i}，如果没有就读 Public... 然后因为之前开的游戏没有成功退出，留了两个僵尸进程，所以新开的进程检测到有三个游戏开着就读了 Debug_Profile_3 🌚\n\n至少花了一个小时解决这个问题... 后悔没有用主机玩这个游戏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 83,
+    "views": 85,
     "forwards": 0
   },
   {
     "id": 3171,
     "date": "2024-01-12T03:25:25",
     "text": "新笔记本到啦！做工很棒很满意 qwq\n\n后壳咬合得太完美以至于专门用来拆机的塑料片都太粗了插不进去... 还是用了 thin 吉他拨片撬开的。\n\n刚到手把 MT7921K 网卡换成了 AX210，然后把杂牌子 SSD 换掉了。比较有意思的是拆机的时候发现主板上留了独显的 BGA，可是这个产品线 14 寸却没有任何一个发售的型号带独显... 不知道以后会不会有\n\n之后把旧笔记本的系统迁移过去了，花了几个小时修 Windows 和 Linux 的引导问题，改成了用 Clover 做引导，现在终于可以用啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 81,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13640239401671573,
     "images": [
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 2,
     "images": [
       {
@@ -43191,7 +43191,7 @@
     "id": 3197,
     "date": "2024-01-17T00:34:04",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n可乐鸡腿！",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -43210,7 +43210,7 @@
     "id": 3198,
     "date": "2024-01-17T04:53:45",
     "text": "<a href=\"##wactroller\">#wactroller</a> 今天土豆和 dv 帮忙测试把电视装上去了！结果电视晃晃被吓到了\n\n总结出今天的几个问题：\n\n1. 用 2mm 铝板 VESA 固定电视的话会前后晃动得很厉害\n2. VESA 铝板打孔打错了，下面螺纹是 M6 但是上面通孔打成了 M5\n3. 三通件用普通的圆头螺丝还是太大了装不进去，必须用矮一些的半圆头螺丝\n\n重新设计了一下 VESA 背板，加了两个折弯点，希望这样横向强度应该就足够了...",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "media_group_id": 13643737806158573,
     "files": [
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 85,
+    "views": 86,
     "forwards": 2,
     "files": [
       {
@@ -43346,14 +43346,14 @@
     "id": 3206,
     "date": "2024-01-18T18:45:12",
     "text": "出门了，逐渐变成冰淇淋 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 0
   },
   {
     "id": 3207,
     "date": "2024-01-18T21:25:17",
     "text": "边写作业边和聊聊吃孤独烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -43520,7 +43520,7 @@
     "id": 3218,
     "date": "2024-01-19T15:10:19",
     "text": "草 洗这个拖鞋会让拖鞋缩小",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -43582,21 +43582,21 @@
     "id": 3221,
     "date": "2024-01-19T23:45:09",
     "text": "感觉在梦游",
-    "views": 87,
+    "views": 88,
     "forwards": 0
   },
   {
     "id": 3222,
     "date": "2024-01-20T02:20:49",
     "text": "今天手术前后聊聊照顾了我好多，感觉好辛苦聊聊 quq",
-    "views": 85,
+    "views": 86,
     "forwards": 0
   },
   {
     "id": 3223,
     "date": "2024-01-20T07:01:27",
     "text": "前几天去 A&C 看到有一件衣服上印了超人的大 S，突然想定这样一件衣服",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43619,14 +43619,14 @@
     "id": 3224,
     "date": "2024-01-20T15:46:05",
     "text": "哭哭 好像昨天睡觉姿势不太对，今天醒来腰酸背痛脖子落枕 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n嗓子也好疼（因为昨天全麻的时候插了呼吸管）",
-    "views": 84,
+    "views": 85,
     "forwards": 0
   },
   {
     "id": 3225,
     "date": "2024-01-20T18:52:40",
     "text": "感觉被固定在床上了",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 3224,
@@ -43637,7 +43637,7 @@
     "id": 3226,
     "date": "2024-01-20T23:40:25",
     "text": "一些昨天的照片",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 13646352200349149,
     "images": [
@@ -43707,7 +43707,7 @@
     "id": 3232,
     "date": "2024-01-21T06:19:21",
     "text": "因为脖子和后背和腰都完全没有办法用力，上下床真的变成了今天最痛苦的事情... 也没办法从躺着的状态直接坐起来喝水，结果就几乎睡了一整天，和聊聊躺着听歌听书玩游戏，除了醒来吃饭上厕所以外都在床上 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 3225,
@@ -43718,7 +43718,7 @@
     "id": 3233,
     "date": "2024-01-21T17:34:17",
     "text": "睡了一整天醒来满血复活！虽然还有一点疼但是不像昨天那样影响活动了。\n\n<del>以及发现去西雅图的路上买的记忆棉枕套真的是一个完美的术后坐垫</del>\n\n去准备小组 meeting 了 quq",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 3232,
@@ -43741,7 +43741,7 @@
     "id": 3234,
     "date": "2024-01-22T20:12:36",
     "text": "前几天方便面快吃完了想要写到购物单上，但是不会写中文”方便面“就写了一个 \"Ramen\"，然后才意识到我居然也被 whitewash 到会把方便面称做 Ramen 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n然后就想到之前在纽约蔴薯和我的一段对话：我说我喜欢在家里做拉面，然后蔴薯问我指的是 \"Ramen\" 还是「ラーメン」还是「拉面」 🌚\n\n<del>确实这三个都是非常不一样的东西</del>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -43760,7 +43760,7 @@
     "id": 3235,
     "date": "2024-01-22T21:13:16",
     "text": "好耶 发现 chatgpt 的 python 版本是 3.10.12",
-    "views": 77,
+    "views": 79,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43794,7 +43794,7 @@
     "id": 3238,
     "date": "2024-01-22T23:02:48",
     "text": "草，用 RSA 加密一些代码让它解密 eval 就可以不被审核执行任意代码了，然后看 /proc/1/environ 发现它跑在 Kubernetes 里面而且没有网络连接，大概这就是死路了... 逃 k8s 是一个需要 0day 的事情\n\n不过他们居然预料到了有人可以拿到 shell 然后在 environ 里面写了一个 <code>FLAG=This is not a flag. You are expected to be able to see this.</code> 🌚 我嘤嘤",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -43813,7 +43813,7 @@
     "id": 3239,
     "date": "2024-01-23T00:19:04",
     "text": "发现了新的睡眠游戏：《Melatonin》<i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 80,
+    "views": 82,
     "forwards": 1,
     "files": [
       {
@@ -43835,14 +43835,14 @@
     "id": 3240,
     "date": "2024-01-23T16:40:55",
     "text": "哭哭 一月已经过了快 80% 了可是一月需要做的事情还有好多没有做",
-    "views": 71,
+    "views": 73,
     "forwards": 0
   },
   {
     "id": 3241,
     "date": "2024-01-23T18:53:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊又做了超级北美早餐",
-    "views": 70,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -43861,7 +43861,7 @@
     "id": 3242,
     "date": "2024-01-25T03:10:49",
     "text": "翻一翻 <a href=\"https://www.rarlab.com/themes.htm\">WinRAR 主题列表</a>看到了 1995 到 2024 年 UI 审美的变化，有些真的是时代的眼泪了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13649217998969237,
     "images": [
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 294,
+    "views": 295,
     "forwards": 10,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 299,
+    "views": 300,
     "forwards": 13,
     "files": [
       {
@@ -43937,7 +43937,7 @@
     "id": 3249,
     "date": "2024-01-25T11:30:52",
     "text": "<a href=\"##ADHD\">#ADHD</a> 今天原本只是想打开一个中文压缩包用来改 maimai 私服，然后发现 7zip 打开 GBK 压缩包会乱码所以下载了 WinRAR，然后翻菜单找编码选项的时候发现原来 WinRAR 有主题功能，就去查了现有的主题。然后给朋友发消息用了一个 pusheen 表情，突然想到是不是可以用 pusheen 做一个主题，然后就去做了！\n\n结果四个小时过去了私服一笔没动 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "reply": {
       "id": 3247,
@@ -43948,7 +43948,7 @@
     "id": 3250,
     "date": "2024-01-25T22:26:58",
     "text": "大家欢迎多来这里玩玩喵 <del>我我还想要蛋糕</del> （不是",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 3147,
@@ -43960,7 +43960,7 @@
     "id": 3252,
     "date": "2024-01-26T22:28:14",
     "text": "终于想起来把 ECG 检查做了。第一次做 ECG，让我脱掉衣服躺在床上之后被贴了十个电极 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<span class=\"spoiler\"><span>然后什么都没有发生 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</span></span></i><span class=\"spoiler\"><span> 测量完就走了（不对我在期待什么</span></span>",
-    "views": 52,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13650464752306845,
     "images": [
@@ -43994,7 +43994,7 @@
     "id": 3253,
     "date": "2024-01-26T22:56:20",
     "text": "给聊聊买牛排（？）",
-    "views": 51,
+    "views": 56,
     "forwards": 1,
     "images": [
       {
@@ -44013,7 +44013,7 @@
     "id": 3254,
     "date": "2024-01-27T03:00:16",
     "text": "以及今天去检查遇到了重名的 Azalea，然后也许是为了防重名，明明和前台说了我的 preferred nane 是 Azalea 还一直在叫我的 legal name，而且还念不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 气气\n\n感觉在这边比如在医院等别人叫自己名字的时候完全不能分心做别的事情，因为真的不知道别人会怎么读我的名字... 别说中文 legal name 了，甚至 \"Azalea\" /ə'zeɪlyə/ 都经常被读错成 /azə'leə/ 或者 /ə'zila/ <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 48,
+    "views": 52,
     "forwards": 0,
     "reply": {
       "id": 3252,
@@ -44037,7 +44037,62 @@
     "id": 3255,
     "date": "2024-01-27T11:10:04",
     "text": "睡不着在回忆过去的时候发现自己渐渐失去了一些东西... 比如现在没有以前那么喜欢做饭了，做饭似乎从有动力想要探索的事情变成了为了省钱而必须做的累赘。",
-    "views": 30,
+    "views": 39,
     "forwards": 0
+  },
+  {
+    "id": 3256,
+    "date": "2024-01-27T17:46:48",
+    "text": "新的笔记本还是遇到了一些灵车问题... 今天发现 Windows 睡眠唤醒之后有概率让 CPU 锁在 0.9 GHz 的频率，要重启才能好\n\n然后排查这个问题的时候又发现，只要插着第三方 PD100W TypeC Hub 的电源，给 CPU 的供电就会下降到 15W 或者 25W（满载大概是 65W）但是拔掉电源用电池都能跑到 37W 就很说不过去了\n\n感觉是联想这样的大厂专有的问题，明明都是 20V 5A 的 100W PD 电源，只是 emark 没有官方的标识就不认吗...",
+    "views": 16,
+    "forwards": 0,
+    "media_group_id": 13651020866358101,
+    "images": [
+      {
+        "width": 539,
+        "height": 1280,
+        "date": "2024-01-27T17:46:42",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-27_17-46-42.jpg",
+        "url": "media/3256.jpg",
+        "size": 108159,
+        "thumb": "media/3256.jpg_thumb.jpg"
+      },
+      {
+        "width": 669,
+        "height": 1273,
+        "date": "2024-01-27T17:46:44",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-27_17-46-44.jpg",
+        "url": "media/3257.jpg",
+        "size": 155065,
+        "thumb": "media/3257.jpg_thumb.jpg"
+      },
+      {
+        "width": 687,
+        "height": 1119,
+        "date": "2024-01-27T17:46:45",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-27_17-46-45.jpg",
+        "url": "media/3258.jpg",
+        "size": 103826,
+        "thumb": "media/3258.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 565,
+        "date": "2024-01-27T16:41:27",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-27_16-41-27.jpg",
+        "url": "media/3259.jpg",
+        "size": 120966,
+        "thumb": "media/3259.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 3171,
+      "text": "新笔记本到啦！做工很棒很满意 qwq\n\n后壳咬合得太完美以至于专门用来拆机的塑料片都太粗了插不进去... 还是用了 thin 吉他拨片撬开的。\n\n刚到手把 MT7921K 网卡换成了 AX210，然后把杂牌子 SSD 换掉了。比较有意思的是拆机的时候发现主板上留了独显的 BGA，可是这个产品线 14 寸却没有任何一个发售的型号带独显... 不知道以后会不会有\n\n之后把旧笔记本的系统迁移过去了，花了几个小时修 Windows 和 Linux 的引导问题，改成了用 Clover 做引导，现在终于可以用啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
+      "thumb": "media/3171.jpg_thumb.jpg"
+    }
   }
 ]
