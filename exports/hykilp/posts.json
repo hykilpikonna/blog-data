@@ -8274,7 +8274,7 @@
     "id": 722,
     "date": "2022-05-04T21:18:08",
     "text": "搭了一个 overleaf 私服！ \n<a href=\"https://tex.hydev.org/\">tex.hydev.org\n\n</a>用 sub_filter 注入 CSS 之后疯狂魔改网页主题hhh\n\n私服没有官方的免费版最多两人合作限制哦，大家想用的话欢迎私聊我开帐号w",
-    "views": 41,
+    "views": 42,
     "forwards": 0,
     "media_group_id": 13213592711051733,
     "images": [
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 186,
+    "views": 189,
     "forwards": 2,
     "images": [
       {
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 82,
+    "views": 83,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43311,7 +43311,7 @@
     "id": 3204,
     "date": "2024-01-18T15:13:26",
     "text": "感觉自己密恐还是不太适合 AI 修图... 因为 AI 生成的结果里总是会出现很掉 san 的东西，经常会被生成完的一瞬间 jump scare，以至于之前修图的时候如果不把画布缩放到超级小都不敢点生成\n\n明明修这个图已经是一周前了，躺在床上闭上眼睛还是会时不时闪过掉 san 的碎片然后害怕得睡不着",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 291,
+    "views": 294,
     "forwards": 10,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 296,
+    "views": 299,
     "forwards": 13,
     "files": [
       {
@@ -43948,7 +43948,7 @@
     "id": 3250,
     "date": "2024-01-25T22:26:58",
     "text": "大家欢迎多来这里玩玩喵 <del>我我还想要蛋糕</del> （不是",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "reply": {
       "id": 3147,
@@ -43960,7 +43960,7 @@
     "id": 3252,
     "date": "2024-01-26T22:28:14",
     "text": "终于想起来把 ECG 检查做了。第一次做 ECG，让我脱掉衣服躺在床上之后被贴了十个电极 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<span class=\"spoiler\"><span>然后什么都没有发生 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</span></span></i><span class=\"spoiler\"><span> 测量完就走了（不对我在期待什么</span></span>",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "media_group_id": 13650464752306845,
     "images": [
@@ -43994,7 +43994,7 @@
     "id": 3253,
     "date": "2024-01-26T22:56:20",
     "text": "给聊聊买牛排（？）",
-    "views": 50,
+    "views": 51,
     "forwards": 1,
     "images": [
       {
@@ -44013,7 +44013,7 @@
     "id": 3254,
     "date": "2024-01-27T03:00:16",
     "text": "以及今天去检查遇到了重名的 Azalea，然后也许是为了防重名，明明和前台说了我的 preferred nane 是 Azalea 还一直在叫我的 legal name，而且还念不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 气气\n\n感觉在这边比如在医院等别人叫自己名字的时候完全不能分心做别的事情，因为真的不知道别人会怎么读我的名字... 别说中文 legal name 了，甚至 \"Azalea\" /ə'zeɪlyə/ 都经常被读错成 /azə'leə/ 或者 /ə'zila/ <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 46,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 3252,
@@ -44037,7 +44037,7 @@
     "id": 3255,
     "date": "2024-01-27T11:10:04",
     "text": "睡不着在回忆过去的时候发现自己渐渐失去了一些东西... 比如现在没有以前那么喜欢做饭了，做饭似乎从有动力想要探索的事情变成了为了省钱而必须做的累赘。",
-    "views": 24,
+    "views": 30,
     "forwards": 0
   }
 ]
