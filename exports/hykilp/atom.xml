@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-01-31T04:06:11.925771+00:00</updated>
+  <updated>2024-01-31T06:08:27.146449+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3278</id>
+    <title>小桂桂的回忆录 📒 #3278</title>
+    <updated>2024-01-31T05:09:30+00:00</updated>
+    <content>&lt;p&gt;以及测试的时候需要找一个音频文件，翻翻硬盘找到了很喜欢的 FLCL 的这首《LAST DINOSAUR》传上去，居然被识别成初音未来了... 好过分！&lt;i class="custom-emoji" emoji-src="emoji/6323237375010932266.webp"&gt;😡&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3278" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>3277</id>
+    <title>小桂桂的回忆录 📒 #3277</title>
+    <updated>2024-01-31T05:05:06+00:00</updated>
+    <content>&lt;p&gt;因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 &lt;a href="whisper.hydev.org"&gt;whisper.hydev.org&lt;/a&gt; 如果有需要欢迎使用&lt;/p&gt;
+&lt;p&gt;模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，&lt;span class="spoiler"&gt;&lt;span&gt;感觉写太多这种结构的轻应用了有被无聊到&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3277" rel="alternate"/>
+  </entry>
   <entry>
     <id>3276</id>
     <title>小桂桂的回忆录 📒 #3276</title>
