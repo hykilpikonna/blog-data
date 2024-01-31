@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 2,
     "images": [
       {
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 370,
+    "views": 372,
     "forwards": 10,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 379,
+    "views": 381,
     "forwards": 13,
     "files": [
       {
@@ -44276,7 +44276,7 @@
     "id": 3272,
     "date": "2024-01-30T14:57:58",
     "text": "今天的早餐是一个🍎，在路上吃完了原地埋进土里了，会不会长出苹果树苗呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -44295,7 +44295,7 @@
     "id": 3273,
     "date": "2024-01-30T18:53:04",
     "text": "今天去抽血的地方真的是多伦多最好的一家 LifeLabs（在 208 Bloor St W！\n\n那个叔叔找位置的时候可能我身体太紧张在抖动，他让我放松，我尝试深呼吸放松，但是其实深呼吸让胳膊上下浮动动作反而更大了。然后他就很耐心地和我讲说抽血需要的是手稳，所以深呼吸不太行，需要我让胳膊尽量不要动。然后我照做闭眼放松了，他反复确认了位置之后扎进去的时候真的就完全不疼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好厉害\n\n感觉是第一次无伤抽完血，这家评价 4.5/5 的 LifeLabs 果然没让我失望 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>（其他家都只有 2-3/5）",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -44314,7 +44314,7 @@
     "id": 3274,
     "date": "2024-01-31T00:34:23",
     "text": "今天安装 flash-attn 踩到的坑...\n\nninja 编译的时候默认会用所有 cpu 核，但是每个线程大概要占至少 4.5GB 的内存，所以如果直接 <code>pip install flash-attn</code> 安装的话我 36 核的机器就需要 162GB 内存才够，但是我只有 128GB。然后它把我内存 swap 都占满之后整个系统卡死了 🌚\n\n以及因为我一直以为 128GB 怎样都用不完就把内存信息从 btop 上隐藏了，没想到这次真的莫名其妙被内存瓶颈 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n解决方式是手动设 <code>MAX_JOBS</code> 环境变量（感谢 Etaoin 找到问题",
-    "views": 52,
+    "views": 54,
     "forwards": 0,
     "media_group_id": 13653290106705221,
     "images": [
@@ -44344,7 +44344,7 @@
     "id": 3276,
     "date": "2024-01-31T01:37:30",
     "text": "E5-2696v3 用 16 线程编译它居然花了 46 分钟... 好失望",
-    "views": 50,
+    "views": 52,
     "forwards": 0,
     "reply": {
       "id": 3274,
@@ -44356,7 +44356,7 @@
     "id": 3277,
     "date": "2024-01-31T05:05:06",
     "text": "因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 如果有需要欢迎使用\n\n模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，<span class=\"spoiler\"><span>感觉写太多这种结构的轻应用了有被无聊到</span></span>",
-    "views": 45,
+    "views": 48,
     "forwards": 1,
     "images": [
       {
@@ -44375,7 +44375,7 @@
     "id": 3278,
     "date": "2024-01-31T05:09:30",
     "text": "以及测试的时候需要找一个音频文件，翻翻硬盘找到了很喜欢的 FLCL 的这首《LAST DINOSAUR》传上去，居然被识别成初音未来了... 好过分！<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 40,
+    "views": 43,
     "forwards": 0,
     "files": [
       {
@@ -44390,6 +44390,25 @@
         "url": "media/3278.mp3",
         "size": 3703558,
         "thumb": "media/3278.mp3_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3279,
+    "date": "2024-01-31T18:08:01",
+    "text": "TTC 调度好厉害\n\n因为女王火花站向北的车出了点问题被 hold 了，我坐的这辆向南的车放完人原地调头转向北 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n有了变道轨道每一站都可以是终点站hhh",
+    "views": 24,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1918,
+        "height": 1309,
+        "date": "2024-01-31T18:08:01",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-31_18-08-01.jpg",
+        "url": "media/3279.jpg",
+        "size": 265661,
+        "thumb": "media/3279.jpg_thumb.jpg"
       }
     ]
   }
