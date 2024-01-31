@@ -12,7 +12,22 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 31 Jan 2024 00:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 02:15:13 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3276</title>
+      <link>https://aza.moe/life?post=3276</link>
+      <description>&lt;p&gt;E5-2696v3 用 16 线程编译它居然花了 46 分钟... 好失望&lt;/p&gt;</description>
+      <guid isPermaLink="false">3276</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #3274</title>
+      <link>https://aza.moe/life?post=3274</link>
+      <description>&lt;p&gt;今天安装 flash-attn 踩到的坑...&lt;/p&gt;
+&lt;p&gt;ninja 编译的时候默认会用所有 cpu 核，但是每个线程大概要占至少 4.5GB 的内存，所以如果直接 &lt;code&gt;pip install flash-attn&lt;/code&gt; 安装的话我 36 核的机器就需要 162GB 内存才够，但是我只有 128GB。然后它把我内存 swap 都占满之后整个系统卡死了 🌚&lt;/p&gt;
+&lt;p&gt;以及因为我一直以为 128GB 怎样都用不完就把内存信息从 btop 上隐藏了，没想到这次真的莫名其妙被内存瓶颈 &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;解决方式是手动设 &lt;code&gt;MAX_JOBS&lt;/code&gt; 环境变量（感谢 Etaoin 找到问题&lt;/p&gt;</description>
+      <guid isPermaLink="false">3274</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3273</title>
       <link>https://aza.moe/life?post=3273</link>
