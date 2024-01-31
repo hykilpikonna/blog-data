@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 6980,
+    "views": 6981,
     "forwards": 178,
     "media_group_id": 13340239729731381,
     "images": [
@@ -36049,7 +36049,7 @@
     "id": 2696,
     "date": "2023-09-24T12:35:33",
     "text": "谷歌为了赚钱在 Chrome 上把 Adblock for Youtube 标为病毒强制禁用了... 看来是时候全面卸载 Chrome 换 Firefox 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 1032,
+    "views": 1033,
     "forwards": 15,
     "images": [
       {
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 368,
+    "views": 370,
     "forwards": 10,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 373,
+    "views": 379,
     "forwards": 13,
     "files": [
       {
@@ -44295,7 +44295,7 @@
     "id": 3273,
     "date": "2024-01-30T18:53:04",
     "text": "今天去抽血的地方真的是多伦多最好的一家 LifeLabs（在 208 Bloor St W！\n\n那个叔叔找位置的时候可能我身体太紧张在抖动，他让我放松，我尝试深呼吸放松，但是其实深呼吸让胳膊上下浮动动作反而更大了。然后他就很耐心地和我讲说抽血需要的是手稳，所以深呼吸不太行，需要我让胳膊尽量不要动。然后我照做闭眼放松了，他反复确认了位置之后扎进去的时候真的就完全不疼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好厉害\n\n感觉是第一次无伤抽完血，这家评价 4.5/5 的 LifeLabs 果然没让我失望 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>（其他家都只有 2-3/5）",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -44314,7 +44314,7 @@
     "id": 3274,
     "date": "2024-01-31T00:34:23",
     "text": "今天安装 flash-attn 踩到的坑...\n\nninja 编译的时候默认会用所有 cpu 核，但是每个线程大概要占至少 4.5GB 的内存，所以如果直接 <code>pip install flash-attn</code> 安装的话我 36 核的机器就需要 162GB 内存才够，但是我只有 128GB。然后它把我内存 swap 都占满之后整个系统卡死了 🌚\n\n以及因为我一直以为 128GB 怎样都用不完就把内存信息从 btop 上隐藏了，没想到这次真的莫名其妙被内存瓶颈 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n解决方式是手动设 <code>MAX_JOBS</code> 环境变量（感谢 Etaoin 找到问题",
-    "views": 48,
+    "views": 50,
     "forwards": 0,
     "media_group_id": 13653290106705221,
     "images": [
@@ -44344,7 +44344,7 @@
     "id": 3276,
     "date": "2024-01-31T01:37:30",
     "text": "E5-2696v3 用 16 线程编译它居然花了 46 分钟... 好失望",
-    "views": 46,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 3274,
@@ -44356,7 +44356,7 @@
     "id": 3277,
     "date": "2024-01-31T05:05:06",
     "text": "因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 如果有需要欢迎使用\n\n模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，<span class=\"spoiler\"><span>感觉写太多这种结构的轻应用了有被无聊到</span></span>",
-    "views": 41,
+    "views": 43,
     "forwards": 1,
     "images": [
       {
@@ -44375,7 +44375,7 @@
     "id": 3278,
     "date": "2024-01-31T05:09:30",
     "text": "以及测试的时候需要找一个音频文件，翻翻硬盘找到了很喜欢的 FLCL 的这首《LAST DINOSAUR》传上去，居然被识别成初音未来了... 好过分！<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 36,
+    "views": 38,
     "forwards": 0,
     "files": [
       {
