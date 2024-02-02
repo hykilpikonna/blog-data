@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-02-02T06:10:23.157193+00:00</updated>
+  <updated>2024-02-02T08:08:33.123184+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3284</id>
+    <title>小桂桂的回忆录 📒 #3284</title>
+    <updated>2024-02-02T06:18:53+00:00</updated>
+    <content>&lt;p&gt;数据已经拷完了，从 12TB btrfs 盘迁移到了新的 14TB bcachefs 盘。&lt;/p&gt;
+&lt;p&gt;但是因为不想像上次那样被床和抖腿震坏所以还需要物理迁移到一个不会被震的地方，然后要在那边重新 setup NAS&lt;/p&gt;
+&lt;p&gt;接下来还要看看旧硬盘上有哪些文件损坏了没有拷出来需要用 ddrescue 恢复...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3284" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>3283</id>
+    <title>小桂桂的回忆录 📒 #3283</title>
+    <updated>2024-02-02T06:13:33+00:00</updated>
+    <content>&lt;p&gt;哭哭 数据迁移好麻烦，先睡觉觉明天再继续折腾（eta +1d）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3283" rel="alternate"/>
+  </entry>
   <entry>
     <id>3282</id>
     <title>小桂桂的回忆录 📒 #3282</title>
