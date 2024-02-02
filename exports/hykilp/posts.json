@@ -42074,7 +42074,7 @@
     "id": 3118,
     "date": "2023-12-31T02:06:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nCelestium 做的炒饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好好吃",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13631907076047805,
     "images": [
@@ -42104,7 +42104,7 @@
     "id": 3120,
     "date": "2023-12-31T07:04:55",
     "text": "啊啊 怎么又过期了 好烦",
-    "views": 112,
+    "views": 113,
     "forwards": 1,
     "images": [
       {
@@ -42123,14 +42123,14 @@
     "id": 3121,
     "date": "2023-12-31T17:13:14",
     "text": "一觉起来发现身边 UTC-5、UTC-8 的朋友们都跨上了 UTC+8 年 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 266,
+    "views": 267,
     "forwards": 4
   },
   {
     "id": 3122,
     "date": "2023-12-31T20:09:44",
     "text": "写了一个 maimai ADX3 启动教程，在<a href=\"https://www.notion.so/hydev/maimai-ADX3-2cb847712fac47c4b06ee44c01075b88\">这里</a>",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "reply": {
       "id": 3096,
@@ -42141,7 +42141,7 @@
     "id": 3123,
     "date": "2023-12-31T23:12:13",
     "text": "创建 GitHub 帐号已经七年了！更新一下今年写的项目 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n🟥: 咕了 🕊\n🟦: 写完但是没发布/没什么用的\n🟨: 还没写完但是会继续\n🟩: 满意的项目w\n\n原本觉得翻 GitHub 活动记录就能大概回想起某段时间在做什么，但是发现今年做的好多硬件项目都没有存到 GitHub 上，即使存了的也没有写很详细的 commit 记录...\n\n因为无论是 onshape CAD 还是 EasyEDA 都是云端存储，如果要推到 GitHub 上必须专门导出文件好麻烦。好想写一个可以把云端修改记录同步到 GitHub 上的插件",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 1679,
@@ -42165,7 +42165,7 @@
     "id": 3124,
     "date": "2024-01-01T00:46:40",
     "text": "理这团线感觉自己在拆炸弹 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -42255,7 +42255,7 @@
     "id": 3131,
     "date": "2024-01-02T20:49:41",
     "text": "私服硬件软件全面升级！\n\n服务器地址迁移到了 aquadx.hydev.org，请在用这个私服的大家对应地改一下 segatools dns <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>\n\n服务器系统从之前的 1C 0.5G VPS 升级到了 2C 8G 的 HyDEV 自家云，数据库从之前的 SQLite 升级到了 Mariadb，总之全都迁移好啦 qwq",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "reply": {
       "id": 2761,
@@ -42279,7 +42279,7 @@
     "id": 3132,
     "date": "2024-01-02T23:55:23",
     "text": "说起来把数据从 SQLite 迁移到 MariaDB 真的好麻烦...\n\n试了导出 SQL 直接执行因为方言不兼容全都是报错，试了用 Navicat 导出再导入也不行，试了 DBConvert 破解版没跑起来，试了用 IntelliJ/DataGrip 的迁移功能在转换日期时间戳的时候报错。\n\n最后试了 RebaseData，大部分都转换好了只不过跑起来的时候因为数据出界报错，然后发现它的类型推导居然会选能装下数据的最小类型，比如如果数据里只有 1, 2, 3 的话它就会写一个 tinyint(4)，如果只有 \"hello\" 的话它就会写 varchar(5) 🤯\n\n结果还是重新建数据库写一个脚本迁移了，为什么就没有好用的迁移工具...",
-    "views": 92,
+    "views": 93,
     "forwards": 1,
     "reply": {
       "id": 3131,
@@ -43760,7 +43760,7 @@
     "id": 3235,
     "date": "2024-01-22T21:13:16",
     "text": "好耶 发现 chatgpt 的 python 版本是 3.10.12",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 390,
+    "views": 391,
     "forwards": 10,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 393,
+    "views": 394,
     "forwards": 13,
     "files": [
       {
@@ -43960,7 +43960,7 @@
     "id": 3252,
     "date": "2024-01-26T22:28:14",
     "text": "终于想起来把 ECG 检查做了。第一次做 ECG，让我脱掉衣服躺在床上之后被贴了十个电极 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<span class=\"spoiler\"><span>然后什么都没有发生 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</span></span></i><span class=\"spoiler\"><span> 测量完就走了（不对我在期待什么</span></span>",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13650464752306845,
     "images": [
@@ -43994,7 +43994,7 @@
     "id": 3253,
     "date": "2024-01-26T22:56:20",
     "text": "给聊聊买牛排（？）",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "images": [
       {
@@ -44013,7 +44013,7 @@
     "id": 3254,
     "date": "2024-01-27T03:00:16",
     "text": "以及今天去检查遇到了重名的 Azalea，然后也许是为了防重名，明明和前台说了我的 preferred nane 是 Azalea 还一直在叫我的 legal name，而且还念不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 气气\n\n感觉在这边比如在医院等别人叫自己名字的时候完全不能分心做别的事情，因为真的不知道别人会怎么读我的名字... 别说中文 legal name 了，甚至 \"Azalea\" /ə'zeɪlyə/ 都经常被读错成 /azə'leə/ 或者 /ə'zila/ <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "reply": {
       "id": 3252,
@@ -44037,14 +44037,14 @@
     "id": 3255,
     "date": "2024-01-27T11:10:04",
     "text": "睡不着在回忆过去的时候发现自己渐渐失去了一些东西... 比如现在没有以前那么喜欢做饭了，做饭似乎从有动力想要探索的事情变成了为了省钱而必须做的累赘。",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 3256,
     "date": "2024-01-27T17:46:48",
     "text": "新的笔记本还是遇到了一些灵车问题... 今天发现 Windows 睡眠唤醒之后有概率让 CPU 锁在 0.9 GHz 的频率，要重启才能好\n\n然后排查这个问题的时候又发现，只要插着第三方 PD100W TypeC Hub 的电源，给 CPU 的供电就会下降到 15W 或者 25W（满载大概是 65W）但是拔掉电源用电池都能跑到 37W 就很说不过去了\n\n感觉是联想这样的大厂专有的问题，明明都是 20V 5A 的 100W PD 电源，只是 emark 没有官方的标识就不认吗...",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13651020866358101,
     "images": [
@@ -44099,14 +44099,14 @@
     "id": 3260,
     "date": "2024-01-27T19:44:02",
     "text": "今天和新认识的朋友 Wisky 聊天才知道原来在中餐馆给的小费也会被餐馆抽成，服务员居然只能拿到小费的 10% 左右... 好可怕",
-    "views": 66,
+    "views": 67,
     "forwards": 0
   },
   {
     "id": 3261,
     "date": "2024-01-28T00:58:28",
     "text": "呜呜 好难办\n\nICASSP conference 说今年除了国家规定不能出国的人以外都必须线下演讲，明明一两三四年前都可以在线的。然后这个演讲时间还和期末考试时间完全撞上了，期末考试可以拖到下个学期，但是大四的课已经不是能考试前肝一天就能拿 A 的难度了，所以 drop 到了只剩四门课然后打算下学期 gap 一个学期把今年的课重新学一遍再考，不然十门考试叠在一起压力实在太大...\n\n而且这个 conference 在韩国汉城，一张机票要至少 $1100，支出还要加上比如一周的旅店和食物。可是 MS 不给报销，UofT 只能报销 $600，我又向 ICASSP SPS 申请了 $1000，但是这还不够报销往返机票的价格...\n\n感觉这个 conference 把一切规划都打乱了...",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 3013,
@@ -44129,7 +44129,7 @@
     "id": 3262,
     "date": "2024-01-28T01:33:41",
     "text": "哭了，还要交 US$800 的 registration fee... 为什么去演讲还要交钱的啊 (╯’ – ‘)╯︵ ┻━┻",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 3261,
@@ -44152,7 +44152,7 @@
     "id": 3263,
     "date": "2024-01-28T19:27:08",
     "text": "睡过了原本计划的小组 meeting... 然后剩下三位好像也没有 meet，好自责 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 60,
+    "views": 61,
     "forwards": 0
   },
   {
@@ -44235,7 +44235,7 @@
     "id": 3269,
     "date": "2024-01-29T22:31:27",
     "text": "呜呜 申了 $1000 却只给我了 $500，连报销 registration fee 都不够了（",
-    "views": 60,
+    "views": 63,
     "forwards": 0,
     "reply": {
       "id": 3261,
@@ -44295,7 +44295,7 @@
     "id": 3273,
     "date": "2024-01-30T18:53:04",
     "text": "今天去抽血的地方真的是多伦多最好的一家 LifeLabs（在 208 Bloor St W！\n\n那个叔叔找位置的时候可能我身体太紧张在抖动，他让我放松，我尝试深呼吸放松，但是其实深呼吸让胳膊上下浮动动作反而更大了。然后他就很耐心地和我讲说抽血需要的是手稳，所以深呼吸不太行，需要我让胳膊尽量不要动。然后我照做闭眼放松了，他反复确认了位置之后扎进去的时候真的就完全不疼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好厉害\n\n感觉是第一次无伤抽完血，这家评价 4.5/5 的 LifeLabs 果然没让我失望 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>（其他家都只有 2-3/5）",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "images": [
       {
@@ -44356,7 +44356,7 @@
     "id": 3277,
     "date": "2024-01-31T05:05:06",
     "text": "因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 如果有需要欢迎使用\n\n模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，<span class=\"spoiler\"><span>感觉写太多这种结构的轻应用了有被无聊到</span></span>",
-    "views": 52,
+    "views": 53,
     "forwards": 1,
     "images": [
       {
@@ -44375,7 +44375,7 @@
     "id": 3278,
     "date": "2024-01-31T05:09:30",
     "text": "以及测试的时候需要找一个音频文件，翻翻硬盘找到了很喜欢的 FLCL 的这首《LAST DINOSAUR》传上去，居然被识别成初音未来了... 好过分！<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "files": [
       {
@@ -44397,7 +44397,7 @@
     "id": 3279,
     "date": "2024-01-31T18:08:01",
     "text": "TTC 调度好厉害\n\n因为女王火花站向北的车出了点问题被 hold 了，我坐的这辆向南的车放完人原地调头转向北 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n有了变道轨道每一站都可以是终点站hhh",
-    "views": 45,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -44416,7 +44416,7 @@
     "id": 3280,
     "date": "2024-02-01T04:32:39",
     "text": "从 SPF DNS 记录里能看到 me@hydev.org 邮箱的迁移记录... 从最开始的腾讯免费企业邮箱迁移到白嫖的 MS365 Developer Trial 现在再迁移到正版 Google Workspace\n\n想要一个好用又便宜的域名邮箱怎么就这么麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 43,
+    "views": 45,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -44439,7 +44439,7 @@
     "id": 3281,
     "date": "2024-02-01T06:25:01",
     "text": "新硬盘到了，HyDEV Data 暂时下线维护迁移（~1d）",
-    "views": 38,
+    "views": 41,
     "forwards": 0,
     "images": [
       {
@@ -44458,7 +44458,7 @@
     "id": 3282,
     "date": "2024-02-01T22:39:58",
     "text": "今天签文件用到了 iPad 之后突然发现自从入坑街机之后好久没有玩过移动端音游了，我的 iPad 也因此吃灰了好久（感觉只有玩音游和画画的时候会打开它\n\n打开了之前退坑的 Arcaea，发现用小屏幕玩动的只有胳膊和手指、没办法用整个身体跟节奏好不习惯，手指触摸也好缺打击感... 音游真的是由奢入俭难唉\n\n在想要不要出掉... <span class=\"spoiler\"><span>但是这也是我最后一个白苹果设备了出掉会不会不太好</span></span>",
-    "views": 22,
+    "views": 29,
     "forwards": 0,
     "images": [
       {
