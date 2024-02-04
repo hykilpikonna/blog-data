@@ -44211,7 +44211,7 @@
     "id": 3268,
     "date": "2024-01-29T22:02:23",
     "text": "我寄过来的那一份预计二月 76 号就要到了，好期待（？）",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "reply": {
       "id": 3265,
@@ -44314,7 +44314,7 @@
     "id": 3274,
     "date": "2024-01-31T00:34:23",
     "text": "今天安装 flash-attn 踩到的坑...\n\nninja 编译的时候默认会用所有 cpu 核，但是每个线程大概要占至少 4.5GB 的内存，所以如果直接 <code>pip install flash-attn</code> 安装的话我 36 核的机器就需要 162GB 内存才够，但是我只有 128GB。然后它把我内存 swap 都占满之后整个系统卡死了 🌚\n\n以及因为我一直以为 128GB 怎样都用不完就把内存信息从 btop 上隐藏了，没想到这次真的莫名其妙被内存瓶颈 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n解决方式是手动设 <code>MAX_JOBS</code> 环境变量（感谢 Etaoin 找到问题",
-    "views": 63,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13653290106705221,
     "images": [
@@ -44356,7 +44356,7 @@
     "id": 3277,
     "date": "2024-01-31T05:05:06",
     "text": "因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 如果有需要欢迎使用\n\n模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，<span class=\"spoiler\"><span>感觉写太多这种结构的轻应用了有被无聊到</span></span>",
-    "views": 62,
+    "views": 63,
     "forwards": 2,
     "images": [
       {
@@ -44375,7 +44375,7 @@
     "id": 3278,
     "date": "2024-01-31T05:09:30",
     "text": "以及测试的时候需要找一个音频文件，翻翻硬盘找到了很喜欢的 FLCL 的这首《LAST DINOSAUR》传上去，居然被识别成初音未来了... 好过分！<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "files": [
       {
@@ -44397,7 +44397,7 @@
     "id": 3279,
     "date": "2024-01-31T18:08:01",
     "text": "TTC 调度好厉害\n\n因为女王火花站向北的车出了点问题被 hold 了，我坐的这辆向南的车放完人原地调头转向北 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n有了变道轨道每一站都可以是终点站hhh",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -44416,7 +44416,7 @@
     "id": 3280,
     "date": "2024-02-01T04:32:39",
     "text": "从 SPF DNS 记录里能看到 me@hydev.org 邮箱的迁移记录... 从最开始的腾讯免费企业邮箱迁移到白嫖的 MS365 Developer Trial 现在再迁移到正版 Google Workspace\n\n想要一个好用又便宜的域名邮箱怎么就这么麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 59,
+    "views": 61,
     "forwards": 1,
     "reply": {
       "id": 3120,
@@ -44439,7 +44439,7 @@
     "id": 3281,
     "date": "2024-02-01T06:25:01",
     "text": "新硬盘到了，HyDEV Data 暂时下线维护迁移（~1d）",
-    "views": 59,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -44458,7 +44458,7 @@
     "id": 3282,
     "date": "2024-02-01T22:39:58",
     "text": "今天签文件用到了 iPad 之后突然发现自从入坑街机之后好久没有玩过移动端音游了，我的 iPad 也因此吃灰了好久（感觉只有玩音游和画画的时候会打开它\n\n打开了之前退坑的 Arcaea，发现用小屏幕玩动的只有胳膊和手指、没办法用整个身体跟节奏好不习惯，手指触摸也好缺打击感... 音游真的是由奢入俭难唉\n\n在想要不要出掉... <span class=\"spoiler\"><span>但是这也是我最后一个白苹果设备了出掉会不会不太好</span></span>",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "images": [
       {
@@ -44477,7 +44477,7 @@
     "id": 3283,
     "date": "2024-02-02T06:13:33",
     "text": "哭哭 数据迁移好麻烦，先睡觉觉明天再继续折腾（eta +1d）",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "reply": {
       "id": 3281,
@@ -44617,7 +44617,7 @@
     "id": 3294,
     "date": "2024-02-04T04:13:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉饭！\n\n看 yuri 做了卤肉馋馋我也做了 quq 不过因为家里没有五花肉就用了叉烧肉，有点瘦不过也挺好吃的",
-    "views": 44,
+    "views": 46,
     "forwards": 0,
     "media_group_id": 13656160244402573,
     "images": [
@@ -44657,7 +44657,37 @@
     "id": 3297,
     "date": "2024-02-04T10:37:26",
     "text": "哭 今天玩博德之门死了两次档，两次都是在长休触发剧情的时候游戏闪退，重启也会在同一个地方闪退，可能因为开发者没有想到一个特定的展开过程吧...\n\n第一次闪退花了一个小时 debug 之后通过触发一个特定的地图区域解决了，第二次闪退还没有找到解决方式... 这种程度的 bug 真的好劝退 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 36,
+    "views": 40,
     "forwards": 0
+  },
+  {
+    "id": 3298,
+    "date": "2024-02-04T21:19:17",
+    "text": "第一次摸到真的 aime 和 Card Maker 卡耶，感谢从日本回来的半喵\n\n呜 说起来我还没有在官服上玩过任何一款街机，所以写私服也有很多理解偏差... 比如上次问了 Asuna 才知道原来官服有些曲子是要解锁才能玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n好想去日本玩玩官服 quq",
+    "views": 15,
+    "forwards": 0,
+    "media_group_id": 13656652455766149,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2024-02-04T21:19:15",
+        "media_type": "photo",
+        "original_name": "photo_2024-02-04_21-19-15.jpg",
+        "url": "media/3298.jpg",
+        "size": 351364,
+        "thumb": "media/3298.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2024-02-04T21:19:16",
+        "media_type": "photo",
+        "original_name": "photo_2024-02-04_21-19-16.jpg",
+        "url": "media/3299.jpg",
+        "size": 348430,
+        "thumb": "media/3299.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
