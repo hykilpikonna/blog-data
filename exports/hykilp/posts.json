@@ -41873,7 +41873,7 @@
     "id": 3102,
     "date": "2023-12-29T22:01:41",
     "text": "哭哭 比较倒霉\n\n原本想顺便看看怎么把之前坏掉的手机寄回国送修，去顺丰顺丰没开，然后去 UPS 和 Canada Post 都说有电池不能寄... 为什么中国能寄过来但是加拿大不能寄回去，怪哦\n\n不知道怎么办了",
-    "views": 134,
+    "views": 135,
     "forwards": 1,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 420,
+    "views": 421,
     "forwards": 13,
     "files": [
       {
@@ -44356,7 +44356,7 @@
     "id": 3277,
     "date": "2024-01-31T05:05:06",
     "text": "因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 如果有需要欢迎使用\n\n模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，<span class=\"spoiler\"><span>感觉写太多这种结构的轻应用了有被无聊到</span></span>",
-    "views": 60,
+    "views": 61,
     "forwards": 2,
     "images": [
       {
@@ -44375,7 +44375,7 @@
     "id": 3278,
     "date": "2024-01-31T05:09:30",
     "text": "以及测试的时候需要找一个音频文件，翻翻硬盘找到了很喜欢的 FLCL 的这首《LAST DINOSAUR》传上去，居然被识别成初音未来了... 好过分！<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 58,
+    "views": 60,
     "forwards": 0,
     "files": [
       {
@@ -44499,14 +44499,14 @@
     "id": 3285,
     "date": "2024-02-02T19:41:51",
     "text": "<a href=\"##梦\">#梦</a> 梦见在学校课上认识了一个新的朋友，她带我坐学校的超级电梯去月球上参观她的研究所，说她在研究还原地球的生态，在控制的小环境里的效果还不错，好厉害\n\n想留一个入口回到这里，就假装去厕所去开了两张传送卡片。似乎是一种不是很多人知道、可以一次性传送到记录的地点的卡片。不过在开的时候被一个穿得很正式的研究员看到了，靠近了我才看清是猫猫球，原本紧张的气氛突然放松了下来。聊了一聊发现原来猫猫球也是来开传送的，从另一边的超级电梯混进来，还给我看了她的 DIY 传送卡片，好厉害",
-    "views": 52,
+    "views": 53,
     "forwards": 1
   },
   {
     "id": 3286,
     "date": "2024-02-02T22:18:55",
     "text": "我要疯了",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -44530,7 +44530,7 @@
     "id": 3287,
     "date": "2024-02-02T23:18:58",
     "text": "贴完了！花了整整一个小时，ADHD 做这种又重复又需要集中的事情真是地狱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及原来 Windows 有防猫功能",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13655327505851861,
     "images": [
@@ -44584,7 +44584,7 @@
     "id": 3291,
     "date": "2024-02-03T03:10:10",
     "text": "哇 自动泡面售货机",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -44603,14 +44603,14 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 50,
+    "views": 52,
     "forwards": 0
   },
   {
     "id": 3293,
     "date": "2024-02-03T23:09:48",
     "text": "Q: 下午六点才起床的话吃的是早饭还是晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 29,
+    "views": 34,
     "forwards": 0
   }
 ]
