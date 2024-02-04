@@ -44211,7 +44211,7 @@
     "id": 3268,
     "date": "2024-01-29T22:02:23",
     "text": "我寄过来的那一份预计二月 76 号就要到了，好期待（？）",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "reply": {
       "id": 3265,
@@ -44235,7 +44235,7 @@
     "id": 3269,
     "date": "2024-01-29T22:31:27",
     "text": "呜呜 申了 $1000 却只给我了 $500，连报销 registration fee 都不够了（",
-    "views": 74,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 3261,
@@ -44258,7 +44258,7 @@
     "id": 3270,
     "date": "2024-01-30T05:16:33",
     "text": "啊 然后今天导师和我说每篇纸只要有一个人注册 Full Conference 就可以了，然后他已经注册了所以我就可以按非 author 的 $300 学生价注册了...\n\n可是问题是我知道这件事情的时候我也已经注册了 $800 的 Full Conference 了，还不能退款\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 68,
+    "views": 70,
     "forwards": 0,
     "reply": {
       "id": 3262,
@@ -44269,14 +44269,14 @@
     "id": 3271,
     "date": "2024-01-30T14:54:54",
     "text": "好久没有穿 bra 出门了，今天久违地穿上觉得好紧。<span class=\"spoiler\"><span>感觉有了能 pass 的自信之后就没有那么喜欢用方便换好看或者花时间打扮了</span></span>",
-    "views": 63,
+    "views": 65,
     "forwards": 0
   },
   {
     "id": 3272,
     "date": "2024-01-30T14:57:58",
     "text": "今天的早餐是一个🍎，在路上吃完了原地埋进土里了，会不会长出苹果树苗呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 59,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -44295,7 +44295,7 @@
     "id": 3273,
     "date": "2024-01-30T18:53:04",
     "text": "今天去抽血的地方真的是多伦多最好的一家 LifeLabs（在 208 Bloor St W！\n\n那个叔叔找位置的时候可能我身体太紧张在抖动，他让我放松，我尝试深呼吸放松，但是其实深呼吸让胳膊上下浮动动作反而更大了。然后他就很耐心地和我讲说抽血需要的是手稳，所以深呼吸不太行，需要我让胳膊尽量不要动。然后我照做闭眼放松了，他反复确认了位置之后扎进去的时候真的就完全不疼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好厉害\n\n感觉是第一次无伤抽完血，这家评价 4.5/5 的 LifeLabs 果然没让我失望 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>（其他家都只有 2-3/5）",
-    "views": 64,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -44314,7 +44314,7 @@
     "id": 3274,
     "date": "2024-01-31T00:34:23",
     "text": "今天安装 flash-attn 踩到的坑...\n\nninja 编译的时候默认会用所有 cpu 核，但是每个线程大概要占至少 4.5GB 的内存，所以如果直接 <code>pip install flash-attn</code> 安装的话我 36 核的机器就需要 162GB 内存才够，但是我只有 128GB。然后它把我内存 swap 都占满之后整个系统卡死了 🌚\n\n以及因为我一直以为 128GB 怎样都用不完就把内存信息从 btop 上隐藏了，没想到这次真的莫名其妙被内存瓶颈 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n解决方式是手动设 <code>MAX_JOBS</code> 环境变量（感谢 Etaoin 找到问题",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13653290106705221,
     "images": [
@@ -44344,7 +44344,7 @@
     "id": 3276,
     "date": "2024-01-31T01:37:30",
     "text": "E5-2696v3 用 16 线程编译它居然花了 46 分钟... 好失望",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "reply": {
       "id": 3274,
@@ -44356,7 +44356,7 @@
     "id": 3277,
     "date": "2024-01-31T05:05:06",
     "text": "因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 如果有需要欢迎使用\n\n模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，<span class=\"spoiler\"><span>感觉写太多这种结构的轻应用了有被无聊到</span></span>",
-    "views": 61,
+    "views": 62,
     "forwards": 2,
     "images": [
       {
@@ -44375,7 +44375,7 @@
     "id": 3278,
     "date": "2024-01-31T05:09:30",
     "text": "以及测试的时候需要找一个音频文件，翻翻硬盘找到了很喜欢的 FLCL 的这首《LAST DINOSAUR》传上去，居然被识别成初音未来了... 好过分！<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "files": [
       {
@@ -44397,7 +44397,7 @@
     "id": 3279,
     "date": "2024-01-31T18:08:01",
     "text": "TTC 调度好厉害\n\n因为女王火花站向北的车出了点问题被 hold 了，我坐的这辆向南的车放完人原地调头转向北 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n有了变道轨道每一站都可以是终点站hhh",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -44416,7 +44416,7 @@
     "id": 3280,
     "date": "2024-02-01T04:32:39",
     "text": "从 SPF DNS 记录里能看到 me@hydev.org 邮箱的迁移记录... 从最开始的腾讯免费企业邮箱迁移到白嫖的 MS365 Developer Trial 现在再迁移到正版 Google Workspace\n\n想要一个好用又便宜的域名邮箱怎么就这么麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 56,
+    "views": 58,
     "forwards": 1,
     "reply": {
       "id": 3120,
@@ -44439,7 +44439,7 @@
     "id": 3281,
     "date": "2024-02-01T06:25:01",
     "text": "新硬盘到了，HyDEV Data 暂时下线维护迁移（~1d）",
-    "views": 56,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -44458,7 +44458,7 @@
     "id": 3282,
     "date": "2024-02-01T22:39:58",
     "text": "今天签文件用到了 iPad 之后突然发现自从入坑街机之后好久没有玩过移动端音游了，我的 iPad 也因此吃灰了好久（感觉只有玩音游和画画的时候会打开它\n\n打开了之前退坑的 Arcaea，发现用小屏幕玩动的只有胳膊和手指、没办法用整个身体跟节奏好不习惯，手指触摸也好缺打击感... 音游真的是由奢入俭难唉\n\n在想要不要出掉... <span class=\"spoiler\"><span>但是这也是我最后一个白苹果设备了出掉会不会不太好</span></span>",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -44477,7 +44477,7 @@
     "id": 3283,
     "date": "2024-02-02T06:13:33",
     "text": "哭哭 数据迁移好麻烦，先睡觉觉明天再继续折腾（eta +1d）",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "reply": {
       "id": 3281,
@@ -44488,7 +44488,7 @@
     "id": 3284,
     "date": "2024-02-02T06:18:53",
     "text": "数据已经拷完了，从 12TB btrfs 盘迁移到了新的 14TB bcachefs 盘。\n\n但是因为不想像上次那样被床和抖腿震坏所以还需要物理迁移到一个不会被震的地方，然后要在那边重新 setup NAS\n\n接下来还要看看旧硬盘上有哪些文件损坏了没有拷出来需要用 ddrescue 恢复...",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "reply": {
       "id": 3283,
@@ -44499,14 +44499,14 @@
     "id": 3285,
     "date": "2024-02-02T19:41:51",
     "text": "<a href=\"##梦\">#梦</a> 梦见在学校课上认识了一个新的朋友，她带我坐学校的超级电梯去月球上参观她的研究所，说她在研究还原地球的生态，在控制的小环境里的效果还不错，好厉害\n\n想留一个入口回到这里，就假装去厕所去开了两张传送卡片。似乎是一种不是很多人知道、可以一次性传送到记录的地点的卡片。不过在开的时候被一个穿得很正式的研究员看到了，靠近了我才看清是猫猫球，原本紧张的气氛突然放松了下来。聊了一聊发现原来猫猫球也是来开传送的，从另一边的超级电梯混进来，还给我看了她的 DIY 传送卡片，好厉害",
-    "views": 53,
+    "views": 55,
     "forwards": 1
   },
   {
     "id": 3286,
     "date": "2024-02-02T22:18:55",
     "text": "我要疯了",
-    "views": 54,
+    "views": 56,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -44530,7 +44530,7 @@
     "id": 3287,
     "date": "2024-02-02T23:18:58",
     "text": "贴完了！花了整整一个小时，ADHD 做这种又重复又需要集中的事情真是地狱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及原来 Windows 有防猫功能",
-    "views": 54,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13655327505851861,
     "images": [
@@ -44584,7 +44584,7 @@
     "id": 3291,
     "date": "2024-02-03T03:10:10",
     "text": "哇 自动泡面售货机",
-    "views": 54,
+    "views": 57,
     "forwards": 0,
     "images": [
       {
@@ -44603,21 +44603,21 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 53,
+    "views": 56,
     "forwards": 0
   },
   {
     "id": 3293,
     "date": "2024-02-03T23:09:48",
     "text": "Q: 下午六点才起床的话吃的是早饭还是晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 41,
+    "views": 50,
     "forwards": 0
   },
   {
     "id": 3294,
     "date": "2024-02-04T04:13:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉饭！\n\n看 yuri 做了卤肉馋馋我也做了 quq 不过因为家里没有五花肉就用了叉烧肉，有点瘦不过也挺好吃的",
-    "views": 24,
+    "views": 38,
     "forwards": 0,
     "media_group_id": 13656160244402573,
     "images": [
@@ -44652,5 +44652,12 @@
         "thumb": "media/3296.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 3297,
+    "date": "2024-02-04T10:37:26",
+    "text": "哭 今天玩博德之门死了两次档，两次都是在长休触发剧情的时候游戏闪退，重启也会在同一个地方闪退，可能因为开发者没有想到一个特定的展开过程吧...\n\n第一次闪退花了一个小时 debug 之后通过触发一个特定的地图区域解决了，第二次闪退还没有找到解决方式... 这种程度的 bug 真的好劝退 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
+    "views": 27,
+    "forwards": 0
   }
 ]
