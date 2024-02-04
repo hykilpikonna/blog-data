@@ -41672,7 +41672,7 @@
     "id": 3086,
     "date": "2023-12-28T04:55:50",
     "text": "+ maimai DX！\n\n它真的好大好重！送到的时候是一个大卡车开过来司机专门打电话联系我了，送上楼还被公寓物业骂了说需要申请货物电梯，然后三个人一起才把它搬上来拼好（感谢 Celestium 帮忙 qwq\n\n用了一段时间把软件调好啦，感谢蓝夏的魔改！现在还缺读卡器和自起脚本，私服似乎也已经兼容了 1.40 的样子（虽然没有做修改，可能是这两个版本之间 API 本身就没有改动吧）\n\n总之明天再继续折腾了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 2,
     "media_group_id": 13629914800119629,
     "images": [
@@ -43191,7 +43191,7 @@
     "id": 3197,
     "date": "2024-01-17T00:34:04",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n可乐鸡腿！",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -43210,7 +43210,7 @@
     "id": 3198,
     "date": "2024-01-17T04:53:45",
     "text": "<a href=\"##wactroller\">#wactroller</a> 今天土豆和 dv 帮忙测试把电视装上去了！结果电视晃晃被吓到了\n\n总结出今天的几个问题：\n\n1. 用 2mm 铝板 VESA 固定电视的话会前后晃动得很厉害\n2. VESA 铝板打孔打错了，下面螺纹是 M6 但是上面通孔打成了 M5\n3. 三通件用普通的圆头螺丝还是太大了装不进去，必须用矮一些的半圆头螺丝\n\n重新设计了一下 VESA 背板，加了两个折弯点，希望这样横向强度应该就足够了...",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "media_group_id": 13643737806158573,
     "files": [
@@ -43251,7 +43251,7 @@
     "id": 3200,
     "date": "2024-01-17T15:58:19",
     "text": "感觉多伦多冬天的 -15℃ 大冰柜冻住了所有出门的想法... 好想出门玩出门上学，但是想想外面那么冷还是会钻回被窝 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n2024 至今的 17 天里只出过一次门...",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 86,
+    "views": 87,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43311,7 +43311,7 @@
     "id": 3204,
     "date": "2024-01-18T15:13:26",
     "text": "感觉自己密恐还是不太适合 AI 修图... 因为 AI 生成的结果里总是会出现很掉 san 的东西，经常会被生成完的一瞬间 jump scare，以至于之前修图的时候如果不把画布缩放到超级小都不敢点生成\n\n明明修这个图已经是一周前了，躺在床上闭上眼睛还是会时不时闪过掉 san 的碎片然后害怕得睡不着",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 88,
+    "views": 89,
     "forwards": 2,
     "files": [
       {
@@ -43346,14 +43346,14 @@
     "id": 3206,
     "date": "2024-01-18T18:45:12",
     "text": "出门了，逐渐变成冰淇淋 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 0
   },
   {
     "id": 3207,
     "date": "2024-01-18T21:25:17",
     "text": "边写作业边和聊聊吃孤独烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
@@ -43372,7 +43372,7 @@
     "id": 3208,
     "date": "2024-01-18T21:55:48",
     "text": "买了几个 dc 接头花了 $8... 好贵",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -43391,7 +43391,7 @@
     "id": 3209,
     "date": "2024-01-18T23:26:34",
     "text": "DALL·E 的创作力实在是太强了，这张图标真的好完美",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -43410,14 +43410,14 @@
     "id": 3210,
     "date": "2024-01-19T00:18:40",
     "text": "草 <span class=\"spoiler\"><span>聊聊在玩🎤的时候发现🎤没电了不能一边充电一边玩</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0
   },
   {
     "id": 3211,
     "date": "2024-01-19T03:14:55",
     "text": "非常认真地写了作业",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -43461,7 +43461,7 @@
     "id": 3214,
     "date": "2024-01-19T03:20:29",
     "text": "呜呜 虽然认识了很多朋友但是 Web 课教授最终没有同意让我们自己选项目，他说因为他觉得开这个前例太危险了，有可能会让更多人申请自己选项目然后 TA 忙不过来... 所以就算啦，没办法免费招人写 DX Net 了。\n\n今年的指定课题是一个像 when2meet 那样的会议时间 app，好无聊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "reply": {
       "id": 3157,
@@ -43472,7 +43472,7 @@
     "id": 3215,
     "date": "2024-01-19T03:53:44",
     "text": "今生最后一片 12.5mg 色谱龙，决定从明天开始就不吃了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "images": [
       {
@@ -43491,14 +43491,14 @@
     "id": 3216,
     "date": "2024-01-19T05:59:51",
     "text": "睡不着睡不着睡不着\n\n可是不能吃褪黑素",
-    "views": 85,
+    "views": 86,
     "forwards": 0
   },
   {
     "id": 3217,
     "date": "2024-01-19T06:15:12",
     "text": "我：快睡着快睡着\n脑子：🎵Don’t stop me now I’m having such a good time🎵\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "files": [
       {
@@ -43520,7 +43520,7 @@
     "id": 3218,
     "date": "2024-01-19T15:10:19",
     "text": "草 洗这个拖鞋会让拖鞋缩小",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -43539,7 +43539,7 @@
     "id": 3219,
     "date": "2024-01-19T22:29:05",
     "text": "醒了！真的就是睡了一觉就好了，最痛苦的部分是全麻的针... 我晕针然后告诉我要把一根超级长针插在手背上插三四个小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "images": [
       {
@@ -43557,7 +43557,7 @@
   {
     "id": 3220,
     "date": "2024-01-19T22:33:59",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "files": [
       {
@@ -43582,21 +43582,21 @@
     "id": 3221,
     "date": "2024-01-19T23:45:09",
     "text": "感觉在梦游",
-    "views": 90,
+    "views": 91,
     "forwards": 0
   },
   {
     "id": 3222,
     "date": "2024-01-20T02:20:49",
     "text": "今天手术前后聊聊照顾了我好多，感觉好辛苦聊聊 quq",
-    "views": 88,
+    "views": 89,
     "forwards": 0
   },
   {
     "id": 3223,
     "date": "2024-01-20T07:01:27",
     "text": "前几天去 A&C 看到有一件衣服上印了超人的大 S，突然想定这样一件衣服",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43619,14 +43619,14 @@
     "id": 3224,
     "date": "2024-01-20T15:46:05",
     "text": "哭哭 好像昨天睡觉姿势不太对，今天醒来腰酸背痛脖子落枕 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n嗓子也好疼（因为昨天全麻的时候插了呼吸管）",
-    "views": 88,
+    "views": 89,
     "forwards": 0
   },
   {
     "id": 3225,
     "date": "2024-01-20T18:52:40",
     "text": "感觉被固定在床上了",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 3224,
@@ -43637,7 +43637,7 @@
     "id": 3226,
     "date": "2024-01-20T23:40:25",
     "text": "一些昨天的照片",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13646352200349149,
     "images": [
@@ -43707,7 +43707,7 @@
     "id": 3232,
     "date": "2024-01-21T06:19:21",
     "text": "因为脖子和后背和腰都完全没有办法用力，上下床真的变成了今天最痛苦的事情... 也没办法从躺着的状态直接坐起来喝水，结果就几乎睡了一整天，和聊聊躺着听歌听书玩游戏，除了醒来吃饭上厕所以外都在床上 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 3225,
@@ -43718,7 +43718,7 @@
     "id": 3233,
     "date": "2024-01-21T17:34:17",
     "text": "睡了一整天醒来满血复活！虽然还有一点疼但是不像昨天那样影响活动了。\n\n<del>以及发现去西雅图的路上买的记忆棉枕套真的是一个完美的术后坐垫</del>\n\n去准备小组 meeting 了 quq",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "reply": {
       "id": 3232,
@@ -43741,7 +43741,7 @@
     "id": 3234,
     "date": "2024-01-22T20:12:36",
     "text": "前几天方便面快吃完了想要写到购物单上，但是不会写中文”方便面“就写了一个 \"Ramen\"，然后才意识到我居然也被 whitewash 到会把方便面称做 Ramen 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n然后就想到之前在纽约蔴薯和我的一段对话：我说我喜欢在家里做拉面，然后蔴薯问我指的是 \"Ramen\" 还是「ラーメン」还是「拉面」 🌚\n\n<del>确实这三个都是非常不一样的东西</del>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -43760,7 +43760,7 @@
     "id": 3235,
     "date": "2024-01-22T21:13:16",
     "text": "好耶 发现 chatgpt 的 python 版本是 3.10.12",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -43794,7 +43794,7 @@
     "id": 3238,
     "date": "2024-01-22T23:02:48",
     "text": "草，用 RSA 加密一些代码让它解密 eval 就可以不被审核执行任意代码了，然后看 /proc/1/environ 发现它跑在 Kubernetes 里面而且没有网络连接，大概这就是死路了... 逃 k8s 是一个需要 0day 的事情\n\n不过他们居然预料到了有人可以拿到 shell 然后在 environ 里面写了一个 <code>FLAG=This is not a flag. You are expected to be able to see this.</code> 🌚 我嘤嘤",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "images": [
       {
@@ -43813,7 +43813,7 @@
     "id": 3239,
     "date": "2024-01-23T00:19:04",
     "text": "发现了新的睡眠游戏：《Melatonin》<i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "files": [
       {
@@ -43835,14 +43835,14 @@
     "id": 3240,
     "date": "2024-01-23T16:40:55",
     "text": "哭哭 一月已经过了快 80% 了可是一月需要做的事情还有好多没有做",
-    "views": 86,
+    "views": 87,
     "forwards": 0
   },
   {
     "id": 3241,
     "date": "2024-01-23T18:53:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊又做了超级北美早餐",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "images": [
       {
@@ -43861,7 +43861,7 @@
     "id": 3242,
     "date": "2024-01-25T03:10:49",
     "text": "翻一翻 <a href=\"https://www.rarlab.com/themes.htm\">WinRAR 主题列表</a>看到了 1995 到 2024 年 UI 审美的变化，有些真的是时代的眼泪了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13649217998969237,
     "images": [
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 417,
+    "views": 418,
     "forwards": 10,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 417,
+    "views": 420,
     "forwards": 13,
     "files": [
       {
@@ -43937,7 +43937,7 @@
     "id": 3249,
     "date": "2024-01-25T11:30:52",
     "text": "<a href=\"##ADHD\">#ADHD</a> 今天原本只是想打开一个中文压缩包用来改 maimai 私服，然后发现 7zip 打开 GBK 压缩包会乱码所以下载了 WinRAR，然后翻菜单找编码选项的时候发现原来 WinRAR 有主题功能，就去查了现有的主题。然后给朋友发消息用了一个 pusheen 表情，突然想到是不是可以用 pusheen 做一个主题，然后就去做了！\n\n结果四个小时过去了私服一笔没动 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 3247,
@@ -43948,7 +43948,7 @@
     "id": 3250,
     "date": "2024-01-25T22:26:58",
     "text": "大家欢迎多来这里玩玩喵 <del>我我还想要蛋糕</del> （不是",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 3147,
@@ -43960,7 +43960,7 @@
     "id": 3252,
     "date": "2024-01-26T22:28:14",
     "text": "终于想起来把 ECG 检查做了。第一次做 ECG，让我脱掉衣服躺在床上之后被贴了十个电极 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<span class=\"spoiler\"><span>然后什么都没有发生 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</span></span></i><span class=\"spoiler\"><span> 测量完就走了（不对我在期待什么</span></span>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13650464752306845,
     "images": [
@@ -43994,7 +43994,7 @@
     "id": 3253,
     "date": "2024-01-26T22:56:20",
     "text": "给聊聊买牛排（？）",
-    "views": 77,
+    "views": 78,
     "forwards": 1,
     "images": [
       {
@@ -44013,7 +44013,7 @@
     "id": 3254,
     "date": "2024-01-27T03:00:16",
     "text": "以及今天去检查遇到了重名的 Azalea，然后也许是为了防重名，明明和前台说了我的 preferred nane 是 Azalea 还一直在叫我的 legal name，而且还念不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 气气\n\n感觉在这边比如在医院等别人叫自己名字的时候完全不能分心做别的事情，因为真的不知道别人会怎么读我的名字... 别说中文 legal name 了，甚至 \"Azalea\" /ə'zeɪlyə/ 都经常被读错成 /azə'leə/ 或者 /ə'zila/ <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "reply": {
       "id": 3252,
@@ -44037,14 +44037,14 @@
     "id": 3255,
     "date": "2024-01-27T11:10:04",
     "text": "睡不着在回忆过去的时候发现自己渐渐失去了一些东西... 比如现在没有以前那么喜欢做饭了，做饭似乎从有动力想要探索的事情变成了为了省钱而必须做的累赘。",
-    "views": 73,
+    "views": 74,
     "forwards": 0
   },
   {
     "id": 3256,
     "date": "2024-01-27T17:46:48",
     "text": "新的笔记本还是遇到了一些灵车问题... 今天发现 Windows 睡眠唤醒之后有概率让 CPU 锁在 0.9 GHz 的频率，要重启才能好\n\n然后排查这个问题的时候又发现，只要插着第三方 PD100W TypeC Hub 的电源，给 CPU 的供电就会下降到 15W 或者 25W（满载大概是 65W）但是拔掉电源用电池都能跑到 37W 就很说不过去了\n\n感觉是联想这样的大厂专有的问题，明明都是 20V 5A 的 100W PD 电源，只是 emark 没有官方的标识就不认吗...",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13651020866358101,
     "images": [
@@ -44099,14 +44099,14 @@
     "id": 3260,
     "date": "2024-01-27T19:44:02",
     "text": "今天和新认识的朋友 Wisky 聊天才知道原来在中餐馆给的小费也会被餐馆抽成，服务员居然只能拿到小费的 10% 左右... 好可怕",
-    "views": 72,
+    "views": 73,
     "forwards": 0
   },
   {
     "id": 3261,
     "date": "2024-01-28T00:58:28",
     "text": "呜呜 好难办\n\nICASSP conference 说今年除了国家规定不能出国的人以外都必须线下演讲，明明一两三四年前都可以在线的。然后这个演讲时间还和期末考试时间完全撞上了，期末考试可以拖到下个学期，但是大四的课已经不是能考试前肝一天就能拿 A 的难度了，所以 drop 到了只剩四门课然后打算下学期 gap 一个学期把今年的课重新学一遍再考，不然十门考试叠在一起压力实在太大...\n\n而且这个 conference 在韩国汉城，一张机票要至少 $1100，支出还要加上比如一周的旅店和食物。可是 MS 不给报销，UofT 只能报销 $600，我又向 ICASSP SPS 申请了 $1000，但是这还不够报销往返机票的价格...\n\n感觉这个 conference 把一切规划都打乱了...",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "reply": {
       "id": 3013,
@@ -44129,7 +44129,7 @@
     "id": 3262,
     "date": "2024-01-28T01:33:41",
     "text": "哭了，还要交 US$800 的 registration fee... 为什么去演讲还要交钱的啊 (╯’ – ‘)╯︵ ┻━┻",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 3261,
@@ -44152,21 +44152,21 @@
     "id": 3263,
     "date": "2024-01-28T19:27:08",
     "text": "睡过了原本计划的小组 meeting... 然后剩下三位好像也没有 meet，好自责 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 0
   },
   {
     "id": 3264,
     "date": "2024-01-29T15:09:10",
     "text": "<a href=\"##梦\">#梦</a> 梦见在麻省乡下漫无目的地开车，开到了一个小河旁边感觉风景好好看突然想去玩玩水。穿好泳衣和游泳圈下车去玩，感觉在水上飘着好放松好放松就睡着了。\n\n结果醒过来发现自己漂到了一个完全不认识的地方，上岸敲门打听一下发现自己在纽约的那个岛上，然后赶快借手机定了一个回家的机票。在走去机场的路上饿饿，路过了火锅和烤肉餐馆但是每一家都说不接受一位客人占一桌就把我赶走了。有些不甘心地去绕路找了家麦当劳，然后发现我没有带任何的支付方式（？？）出来之后想按照过来的路原路返回结果迷路了，还在头疼怎样找到去机场的路... 然后醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 63,
+    "views": 64,
     "forwards": 0
   },
   {
     "id": 3265,
     "date": "2024-01-29T21:56:34",
     "text": "<a href=\"##wactroller\">#wactroller</a> 今天土豆和 dv 又帮忙把重新设计的 VESA 固定版装上啦，固定电视的强度比之前好多了！\n\n测试没出什么差错这还是第一次，接下来就只剩下把整个机器斜向固定在桌子上的框架还没测试了。\n\n（安装的时候土豆家的猫和不认识的猫都在好好奇地盯着它，好可爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 63,
+    "views": 64,
     "forwards": 1,
     "media_group_id": 13652523157030269,
     "images": [
@@ -44211,7 +44211,7 @@
     "id": 3268,
     "date": "2024-01-29T22:02:23",
     "text": "我寄过来的那一份预计二月 76 号就要到了，好期待（？）",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "reply": {
       "id": 3265,
@@ -44269,14 +44269,14 @@
     "id": 3271,
     "date": "2024-01-30T14:54:54",
     "text": "好久没有穿 bra 出门了，今天久违地穿上觉得好紧。<span class=\"spoiler\"><span>感觉有了能 pass 的自信之后就没有那么喜欢用方便换好看或者花时间打扮了</span></span>",
-    "views": 61,
+    "views": 63,
     "forwards": 0
   },
   {
     "id": 3272,
     "date": "2024-01-30T14:57:58",
     "text": "今天的早餐是一个🍎，在路上吃完了原地埋进土里了，会不会长出苹果树苗呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 57,
+    "views": 59,
     "forwards": 0,
     "images": [
       {
@@ -44314,7 +44314,7 @@
     "id": 3274,
     "date": "2024-01-31T00:34:23",
     "text": "今天安装 flash-attn 踩到的坑...\n\nninja 编译的时候默认会用所有 cpu 核，但是每个线程大概要占至少 4.5GB 的内存，所以如果直接 <code>pip install flash-attn</code> 安装的话我 36 核的机器就需要 162GB 内存才够，但是我只有 128GB。然后它把我内存 swap 都占满之后整个系统卡死了 🌚\n\n以及因为我一直以为 128GB 怎样都用不完就把内存信息从 btop 上隐藏了，没想到这次真的莫名其妙被内存瓶颈 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n解决方式是手动设 <code>MAX_JOBS</code> 环境变量（感谢 Etaoin 找到问题",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13653290106705221,
     "images": [
@@ -44344,7 +44344,7 @@
     "id": 3276,
     "date": "2024-01-31T01:37:30",
     "text": "E5-2696v3 用 16 线程编译它居然花了 46 分钟... 好失望",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "reply": {
       "id": 3274,
@@ -44356,7 +44356,7 @@
     "id": 3277,
     "date": "2024-01-31T05:05:06",
     "text": "因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 如果有需要欢迎使用\n\n模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，<span class=\"spoiler\"><span>感觉写太多这种结构的轻应用了有被无聊到</span></span>",
-    "views": 58,
+    "views": 60,
     "forwards": 2,
     "images": [
       {
@@ -44375,7 +44375,7 @@
     "id": 3278,
     "date": "2024-01-31T05:09:30",
     "text": "以及测试的时候需要找一个音频文件，翻翻硬盘找到了很喜欢的 FLCL 的这首《LAST DINOSAUR》传上去，居然被识别成初音未来了... 好过分！<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 56,
+    "views": 58,
     "forwards": 0,
     "files": [
       {
@@ -44397,7 +44397,7 @@
     "id": 3279,
     "date": "2024-01-31T18:08:01",
     "text": "TTC 调度好厉害\n\n因为女王火花站向北的车出了点问题被 hold 了，我坐的这辆向南的车放完人原地调头转向北 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n有了变道轨道每一站都可以是终点站hhh",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "images": [
       {
@@ -44439,7 +44439,7 @@
     "id": 3281,
     "date": "2024-02-01T06:25:01",
     "text": "新硬盘到了，HyDEV Data 暂时下线维护迁移（~1d）",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "images": [
       {
@@ -44488,7 +44488,7 @@
     "id": 3284,
     "date": "2024-02-02T06:18:53",
     "text": "数据已经拷完了，从 12TB btrfs 盘迁移到了新的 14TB bcachefs 盘。\n\n但是因为不想像上次那样被床和抖腿震坏所以还需要物理迁移到一个不会被震的地方，然后要在那边重新 setup NAS\n\n接下来还要看看旧硬盘上有哪些文件损坏了没有拷出来需要用 ddrescue 恢复...",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "reply": {
       "id": 3283,
@@ -44499,14 +44499,14 @@
     "id": 3285,
     "date": "2024-02-02T19:41:51",
     "text": "<a href=\"##梦\">#梦</a> 梦见在学校课上认识了一个新的朋友，她带我坐学校的超级电梯去月球上参观她的研究所，说她在研究还原地球的生态，在控制的小环境里的效果还不错，好厉害\n\n想留一个入口回到这里，就假装去厕所去开了两张传送卡片。似乎是一种不是很多人知道、可以一次性传送到记录的地点的卡片。不过在开的时候被一个穿得很正式的研究员看到了，靠近了我才看清是猫猫球，原本紧张的气氛突然放松了下来。聊了一聊发现原来猫猫球也是来开传送的，从另一边的超级电梯混进来，还给我看了她的 DIY 传送卡片，好厉害",
-    "views": 49,
+    "views": 52,
     "forwards": 1
   },
   {
     "id": 3286,
     "date": "2024-02-02T22:18:55",
     "text": "我要疯了",
-    "views": 51,
+    "views": 53,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -44530,7 +44530,7 @@
     "id": 3287,
     "date": "2024-02-02T23:18:58",
     "text": "贴完了！花了整整一个小时，ADHD 做这种又重复又需要集中的事情真是地狱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及原来 Windows 有防猫功能",
-    "views": 50,
+    "views": 52,
     "forwards": 0,
     "media_group_id": 13655327505851861,
     "images": [
@@ -44584,7 +44584,7 @@
     "id": 3291,
     "date": "2024-02-03T03:10:10",
     "text": "哇 自动泡面售货机",
-    "views": 49,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -44603,14 +44603,14 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 46,
+    "views": 50,
     "forwards": 0
   },
   {
     "id": 3293,
     "date": "2024-02-03T23:09:48",
     "text": "Q: 下午六点才起床的话吃的是早饭还是晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 15,
+    "views": 29,
     "forwards": 0
   }
 ]
