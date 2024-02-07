@@ -44488,7 +44488,7 @@
     "id": 3284,
     "date": "2024-02-02T06:18:53",
     "text": "数据已经拷完了，从 12TB btrfs 盘迁移到了新的 14TB bcachefs 盘。\n\n但是因为不想像上次那样被床和抖腿震坏所以还需要物理迁移到一个不会被震的地方，然后要在那边重新 setup NAS\n\n接下来还要看看旧硬盘上有哪些文件损坏了没有拷出来需要用 ddrescue 恢复...",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "reply": {
       "id": 3283,
@@ -44499,7 +44499,7 @@
     "id": 3285,
     "date": "2024-02-02T19:41:51",
     "text": "<a href=\"##梦\">#梦</a> 梦见在学校课上认识了一个新的朋友，她带我坐学校的超级电梯去月球上参观她的研究所，说她在研究还原地球的生态，在控制的小环境里的效果还不错，好厉害\n\n想留一个入口回到这里，就假装去厕所去开了两张传送卡片。似乎是一种不是很多人知道、可以一次性传送到记录的地点的卡片。不过在开的时候被一个穿得很正式的研究员看到了，靠近了我才看清是猫猫球，原本紧张的气氛突然放松了下来。聊了一聊发现原来猫猫球也是来开传送的，从另一边的超级电梯混进来，还给我看了她的 DIY 传送卡片，好厉害",
-    "views": 63,
+    "views": 64,
     "forwards": 1
   },
   {
@@ -44584,7 +44584,7 @@
     "id": 3291,
     "date": "2024-02-03T03:10:10",
     "text": "哇 自动泡面售货机",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -44603,14 +44603,14 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 3293,
     "date": "2024-02-03T23:09:48",
     "text": "Q: 下午六点才起床的话吃的是早饭还是晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 0
   },
   {
@@ -44778,7 +44778,7 @@
     "id": 3305,
     "date": "2024-02-07T10:54:25",
     "text": "记录一下昨天做的事情：\n\n1. 写了一个 stylebot patch 让不同的谷歌邮箱工作区能看背景上花花的颜色区分了！\n\n2. 写完了 309 网页设计的大作业的前端部分（感觉在这个作业上花太多时间了... 不过我也喜欢写好看的前端就是了\n\n3. 逆向了 maimai 的倍速票逻辑，写了一个提取数据的脚本把 1.40 的活动数据更新进 AquaDX 里面了（现在正式支持 1.40 了！",
-    "views": 31,
+    "views": 33,
     "forwards": 0,
     "media_group_id": 13658426124521117,
     "images": [
@@ -44818,7 +44818,7 @@
     "id": 3308,
     "date": "2024-02-07T11:01:15",
     "text": "今天开坑了 <a href=\"https://github.com/hykilpikonna/AquaDX/tree/master/AquaMai\">AquaMai</a>！是一个给 maimai DX 的魔改 Mod\n\n和蓝夏一起写了下面五个功能\n\n1. 解锁所有倍速票\n2. 跳过开机自检之后的版权警告界面\n3. 单机模式（蓝夏写的！\n4. 从刷卡直接跳到选歌（也是蓝夏写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n5. 修了官方选角色选到某个角色会闪退的 bug\n\n第一次写游戏魔改感觉好好玩 qwq",
-    "views": 32,
+    "views": 34,
     "forwards": 1,
     "media_group_id": 13658429403943621,
     "images": [
