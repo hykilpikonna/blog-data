@@ -44584,7 +44584,7 @@
     "id": 3291,
     "date": "2024-02-03T03:10:10",
     "text": "哇 自动泡面售货机",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -44603,7 +44603,7 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 73,
+    "views": 74,
     "forwards": 0
   },
   {
@@ -44694,7 +44694,7 @@
     "id": 3300,
     "date": "2024-02-05T00:14:27",
     "text": "以及感谢半喵买的芒果慕斯！<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "media_group_id": 13656736536843773,
     "images": [
@@ -44729,7 +44729,7 @@
     "id": 3302,
     "date": "2024-02-05T04:57:42",
     "text": "看到地图上标的点写了 \"Cache\" 还在想这里为什么有缓存，查了一下才知道 cache 的本意是 \"a secure place of storage\" <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "media_group_id": 13656872502284565,
     "images": [
@@ -44759,7 +44759,7 @@
     "id": 3304,
     "date": "2024-02-05T06:41:24",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6172422080902989732.webm\">👊</i>",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -44778,7 +44778,7 @@
     "id": 3305,
     "date": "2024-02-07T10:54:25",
     "text": "记录一下昨天做的事情：\n\n1. 写了一个 stylebot patch 让不同的谷歌邮箱工作区能看背景上花花的颜色区分了！\n\n2. 写完了 309 网页设计的大作业的前端部分（感觉在这个作业上花太多时间了... 不过我也喜欢写好看的前端就是了\n\n3. 逆向了 maimai 的倍速票逻辑，写了一个提取数据的脚本把 1.40 的活动数据更新进 AquaDX 里面了（现在正式支持 1.40 了！",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "media_group_id": 13658426124521117,
     "images": [
@@ -44818,7 +44818,7 @@
     "id": 3308,
     "date": "2024-02-07T11:01:15",
     "text": "今天开坑了 <a href=\"https://github.com/hykilpikonna/AquaDX/tree/master/AquaMai\">AquaMai</a>！是一个给 maimai DX 的魔改 Mod\n\n和蓝夏一起写了下面五个功能\n\n1. 解锁所有倍速票\n2. 跳过开机自检之后的版权警告界面\n3. 单机模式（蓝夏写的！\n4. 从刷卡直接跳到选歌（也是蓝夏写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n5. 修了官方选角色选到某个角色会闪退的 bug\n\n第一次写游戏魔改感觉好好玩 qwq",
-    "views": 46,
+    "views": 47,
     "forwards": 1,
     "media_group_id": 13658429403943621,
     "images": [
@@ -44858,7 +44858,7 @@
     "id": 3311,
     "date": "2024-02-08T01:02:33",
     "text": "怎么感觉 2024 年的最新前端设计语言就是各种模糊大色块赛博光污染",
-    "views": 119,
+    "views": 123,
     "forwards": 5,
     "media_group_id": 13658833224611869,
     "images": [
@@ -44908,7 +44908,7 @@
     "id": 3315,
     "date": "2024-02-08T06:25:16",
     "text": "今天被 SEGA 灵车撞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170283569441670873.webm\">😡</i>\n\n真的每次写街机的东西都会在这种地方浪费一个小时就感觉 💢💢",
-    "views": 41,
+    "views": 42,
     "forwards": 0,
     "media_group_id": 13658988133923525,
     "images": [
@@ -44948,7 +44948,7 @@
     "id": 3318,
     "date": "2024-02-08T07:22:23",
     "text": "哭了... 新的笔记本刚用一个月今天发现充电的那个 USB-C 口坏了，猜测是过热把自己焊下去了\n\n现在那个口充电充不上，加上之前发现的用 hub 充电会降低 CPU 频率的问题现在完全没办法用 hub 了... 还好这个笔记本接口很全可以凑合用到找时间修，还不知道能不能在这边保修。现在每天回家也要多插两根线 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n呜呜 当时怕机械革命灵车选了联想，结果联想也这么灵车吗",
-    "views": 38,
+    "views": 40,
     "forwards": 0,
     "media_group_id": 13659015548007677,
     "files": [
@@ -44988,7 +44988,7 @@
     "id": 3320,
     "date": "2024-02-08T08:35:16",
     "text": "开坑 AquaNet！是私服的网页前端，想做成 osu ppy 那样分析向的 qwq\n\n刚写完了 ranking 页面\n\n<del>呜呜不行了再不去复习我要死了</del>",
-    "views": 28,
+    "views": 29,
     "forwards": 1,
     "reply": {
       "id": 3315,
