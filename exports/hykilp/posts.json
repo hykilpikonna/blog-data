@@ -37603,7 +37603,7 @@
     "id": 2802,
     "date": "2023-10-29T03:23:22",
     "text": "去逛逛 Freeplay Toronto，有好多 CRT 显示器的旧机台好厉害，还有最新最热 Jubeat Ave！（虽然我不太会，照片上是聊聊打的\n\n还认识了一个喜欢街机音游的高中生，开心 qwq\n\n这里收费好便宜，$5 门票随便玩然后卖食物什么的，<del>是不是我在家里开街机的话也可以这样收费</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 1,
     "media_group_id": 13588398421418045,
     "images": [
@@ -40974,7 +40974,7 @@
     "id": 3034,
     "date": "2023-12-18T07:11:16",
     "text": "今天一直停不下来地咳嗽... 然后喝了一点以前买的右美沙芬，发现这个味道真的好防 OD，或者说好防喝 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 我刚舔一口就不想再碰它了，好苦又好重的薄荷味完全没办法下口\n\n哭哭 明天去超市找一个不是这么防 OD 的好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "images": [
       {
@@ -41105,7 +41105,7 @@
     "id": 3044,
     "date": "2023-12-19T22:41:14",
     "text": "看到学校 cs lab 的电脑升级了... 这个配置好扭曲？？\n\nCPU 上了服务器级别的 Xeon W 但是只有四核，显卡上了超级贵的企业级 A2000 卡，然而显存只有 6GB 而且性能还没有 3060 好... 内存 64GB，日常占用 1.4GB 🌚\n\n而且桌面是古董一样的 LXDE... 真的感觉可能 Xfce 都比这个好用一点。不开心，cs dept 这样做真的会给很多没用过 Linux 人带来一种“原来 Linux 桌面这么难用”的印象，明明有更现代更好用的桌面... 找时间发邮件 complain 一下好了",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "media_group_id": 13624205391149293,
     "images": [
@@ -41135,14 +41135,14 @@
     "id": 3045,
     "date": "2023-12-20T02:16:17",
     "text": "语言学考完了！把所有不确定的算错也至少有 68 分，肯定 CR 了！好耶，放假啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0
   },
   {
     "id": 3046,
     "date": "2023-12-20T02:40:44",
     "text": "说起来这个考试最后一道题4分，让你写下两条规则定义英语词哪里可以插 \"f#cking\" 哪里不行 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（比如说为什么 \"fan-f#cking-tastic\" 可以但是 \"fantas-f#cking-tic\" 不行\n\n这居然是有规则的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 3045,
@@ -41153,14 +41153,14 @@
     "id": 3047,
     "date": "2023-12-20T06:27:01",
     "text": "Celestium 住进来会不会是我和聊聊恢复作息的契机呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 89,
+    "views": 90,
     "forwards": 1
   },
   {
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 100,
+    "views": 101,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -44988,7 +44988,7 @@
     "id": 3320,
     "date": "2024-02-08T08:35:16",
     "text": "开坑 AquaNet！是私服的网页前端，想做成 osu ppy 那样分析向的 qwq\n\n刚写完了 ranking 页面\n\n<del>呜呜不行了再不去复习我要死了</del>",
-    "views": 49,
+    "views": 50,
     "forwards": 1,
     "reply": {
       "id": 3315,
@@ -45012,7 +45012,7 @@
     "id": 3321,
     "date": "2024-02-09T00:11:44",
     "text": "猫倒啦 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 2,
     "images": [
       {
@@ -45031,7 +45031,7 @@
     "id": 3322,
     "date": "2024-02-09T10:10:27",
     "text": "收到了黎黎的信和小狐狸，开心！\n\n<del>（然后让小狐狸加入了书架上兔兔们的 party</del>",
-    "views": 43,
+    "views": 45,
     "forwards": 0,
     "media_group_id": 13659787420409725,
     "images": [
@@ -45081,7 +45081,7 @@
     "id": 3327,
     "date": "2024-02-09T19:14:31",
     "text": "算法 midterm 考得有点💥... 大概能有 66%，因为分治和贪心算法的题都 100% 对了，最后动态编程没时间做 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n50 分钟的考试要解出三个算法题真的太恐怖了，再加上我 ADHD 看错了两次题做着做着才发现... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 29,
+    "views": 34,
     "forwards": 0,
     "images": [
       {
@@ -45099,7 +45099,7 @@
   {
     "id": 3328,
     "date": "2024-02-09T20:50:16",
-    "views": 45,
+    "views": 55,
     "forwards": 3,
     "files": [
       {
