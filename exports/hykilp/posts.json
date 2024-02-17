@@ -478,7 +478,7 @@
     "id": 44,
     "date": "2021-09-13T02:12:43",
     "text": "有自己的银行卡了！今天才想起来要签名，正式场合就不只签猫猫了ww",
-    "views": 46,
+    "views": 47,
     "forwards": 0,
     "images": [
       {
@@ -6469,7 +6469,7 @@
     "id": 603,
     "date": "2022-03-19T07:17:49",
     "text": "第一台服务器拼好啦w\n她的名字叫 HyDEV Aster！\n\n2696v3 性能果然没让我失望，默认超频已经能超过 i7-12700f 了哇（虽然这个主板也不太可能手动超频了）不过不算显卡的话只花了 ￥2355 还是好赚\n\n系统还没配好... <del>就不做了！睡大觉ww</del>",
-    "views": 49,
+    "views": 50,
     "forwards": 3,
     "media_group_id": 13181394153883445,
     "images": [
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 88,
+    "views": 89,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43417,7 +43417,7 @@
     "id": 3211,
     "date": "2024-01-19T03:14:55",
     "text": "非常认真地写了作业",
-    "views": 82,
+    "views": 83,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -45099,7 +45099,7 @@
   {
     "id": 3328,
     "date": "2024-02-09T20:50:16",
-    "views": 122,
+    "views": 123,
     "forwards": 4,
     "files": [
       {
@@ -45123,7 +45123,7 @@
     "id": 3329,
     "date": "2024-02-10T04:17:53",
     "text": "新年看一些旧年春晚",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -45271,7 +45271,7 @@
     "id": 3338,
     "date": "2024-02-11T17:44:35",
     "text": "并不是早睡就能早起... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 70,
+    "views": 72,
     "forwards": 1,
     "images": [
       {
@@ -45290,7 +45290,7 @@
     "id": 3339,
     "date": "2024-02-11T23:15:38",
     "text": "在想要不要买一个专门用来做 ML 项目的高配显卡，在考虑要买 RX 6900XT 还是 3080Ti 的时候试了在我的 RX Vega 64 上跑一些 Pytorch inference 然后发现完全跑不起来，驱动 page fault...\n\n果然还是 Nvidia 好一些吗",
-    "views": 70,
+    "views": 72,
     "forwards": 0,
     "images": [
       {
@@ -45309,7 +45309,7 @@
     "id": 3340,
     "date": "2024-02-12T08:02:53",
     "text": "花了两个小时调 Style 之后这个页面的样子 qwq\n\n<a href=\"https://aquanet.hydev.org/u/61702139/\">https://aquanet.hydev.org/u/61702139/</a>",
-    "views": 69,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 3334,
@@ -45332,7 +45332,7 @@
     "id": 3341,
     "date": "2024-02-12T10:30:25",
     "text": "五十倍速记录下来这两个小时的全过程 qwq\n\n在想能不能把我的鼠标键盘 input 也录下来，然后训练一个模型，输入是视频，label 是鼠标和键盘的动作，<del>然后就可以喂给它一个屏幕预测我会做什么让它帮我写东西了</del>",
-    "views": 87,
+    "views": 89,
     "forwards": 1,
     "reply": {
       "id": 3340,
@@ -45359,7 +45359,7 @@
     "id": 3342,
     "date": "2024-02-13T03:46:36",
     "text": "由于太沉迷写街机的东西导致我课一节都没上，然后刚刚才发现明天后天要考试了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n卸载 Telegram 两天专注补课，如果效率高也许还能睡觉...",
-    "views": 71,
+    "views": 75,
     "forwards": 1,
     "media_group_id": 13662367969554517,
     "images": [
@@ -45389,7 +45389,7 @@
     "id": 3345,
     "date": "2024-02-13T17:45:33",
     "text": "语言学 102 期中考完了！昨晚花五个小时补完了五周的课，今天感觉考得很好，两小时的考试一小时就做完了 qwq\n\n感觉这几周学的内容比起语言学更像是算法... 做课上练习随便打开了一个不用的笔记本，画完语句树向上翻一页看到去年数据结构课的 AVL 树平衡练习有笑出声 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n现在在地铁上休息一下，回家再肝一门 OS 的考试期中就结束了！",
-    "views": 65,
+    "views": 69,
     "forwards": 1,
     "media_group_id": 13662770666301837,
     "images": [
@@ -45439,7 +45439,7 @@
     "id": 3349,
     "date": "2024-02-14T17:31:28",
     "text": "469 OS 期中也考完了！\n\n因为可以打印一张双面 cheat sheet，所以花时间做了一个脚本把 markdown 笔记转换成了完美信息密度的文字块，还用颜色高亮了树结构标题，<del>妈妈再也不用担心我记不住东西辣</del>\n\n以及发现这次在做计划的时候时间估算得意外的准，居然真的在预计的八小时里把一个月 12 小时的录像补完了！",
-    "views": 60,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13663455105663077,
     "images": [
@@ -45469,14 +45469,14 @@
     "id": 3351,
     "date": "2024-02-16T07:13:20",
     "text": "我：感觉自己不可爱\n聊聊：你可爱\n我：你看我头发都快掉光了\n聊聊：秃头桂桂也可爱\n（？？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6172422080902989732.webm\">👊</i>",
-    "views": 54,
+    "views": 60,
     "forwards": 0
   },
   {
     "id": 3352,
     "date": "2024-02-16T15:51:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n荞麦面つゆ拌面！つゆ真是好文明 qwq\n\n聊聊：这是葱油拌面吗？\n我：🤔 <del>音译过来也可以是葱油拌面</del>",
-    "views": 46,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -45495,7 +45495,7 @@
     "id": 3353,
     "date": "2024-02-16T20:43:05",
     "text": "草 写了这么久 AquaDX 刚发现这个项目里有一个 9.8 级别的 CVE... 可怕\n\n如果 gradle 也能有 depandabot 就好了",
-    "views": 32,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
@@ -45507,6 +45507,73 @@
         "url": "media/3353.jpg",
         "size": 47208,
         "thumb": "media/3353.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3354,
+    "date": "2024-02-17T03:19:06",
+    "views": 25,
+    "forwards": 0,
+    "files": [
+      {
+        "id": "6233229248627212424",
+        "question": "在用 Kotlin Spring 写服务器，但是感觉 Spring 自带的语法太繁琐了。但是 Kotlin 是一个可以随便扩展语法的语言，大家觉得怎样设计 HTTP 响应语法比较好呢？",
+        "options": [
+          {
+            "text": "throw ResponseStatusException(HttpStatus.NOT_FOUND, \"User not found\")",
+            "voter_count": 0,
+            "data": "MA=="
+          },
+          {
+            "text": "return ResponseEntity.status(404).body(\"User not found\")",
+            "voter_count": 0,
+            "data": "MQ=="
+          },
+          {
+            "text": "404.resp(\"User not found\")",
+            "voter_count": 0,
+            "data": "Mg=="
+          },
+          {
+            "text": "\"User not found\".http(404)",
+            "voter_count": 0,
+            "data": "Mw=="
+          },
+          {
+            "text": "404 > \"User not found\"",
+            "voter_count": 0,
+            "data": "NA=="
+          }
+        ],
+        "total_voter_count": 7,
+        "is_closed": false,
+        "is_anonymous": true,
+        "type": "REGULAR",
+        "allows_multiple_answers": true,
+        "media_type": "poll"
+      }
+    ]
+  },
+  {
+    "id": 3355,
+    "date": "2024-02-17T03:26:14",
+    "text": "看着好舒服 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
+    "views": 19,
+    "forwards": 0,
+    "reply": {
+      "id": 3354
+    },
+    "images": [
+      {
+        "width": 888,
+        "height": 520,
+        "date": "2024-02-17T03:26:13",
+        "media_type": "photo",
+        "original_name": "photo_2024-02-17_03-26-13.jpg",
+        "url": "media/3355.jpg",
+        "size": 44321,
+        "thumb": "media/3355.jpg_thumb.jpg"
       }
     ]
   }
