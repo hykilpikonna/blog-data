@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-02-19T12:08:36.325839+00:00</updated>
+  <updated>2024-02-19T14:07:52.487322+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3373</id>
+    <title>小桂桂的回忆录 📒 #3373</title>
+    <updated>2024-02-19T12:32:08+00:00</updated>
+    <content>&lt;p&gt;今天把 AquaDX 的注册登录的流程写得差不多了&lt;/p&gt;
+&lt;p&gt;加上了 CF Turnstile 用来防机器人，加上了 GeoLite 本地数据库自动判断用户的国家，写了登录之后的 JWT token 验证，注册域名配好邮箱之后写了一个「验证邮箱」的邮件模板。好累 &lt;i class="custom-emoji" emoji-src="emoji/5445059765778521446.tgs"&gt;📦&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;...结果注册一个帐号测试的时候验证邮件还被谷歌标记 spam 了，不知道怎样绕过。&lt;/p&gt;
+&lt;p&gt;感觉写自己在意的项目和糊作业需要的精力完全不一样... 作业要写注册的话随便把用户丢进数据库里就结束了，但是做这个项目的时候每个 design decision 都犹豫了好久，比如需不需要用户名、注册的时候要让用户填用户名后设显示名还是填显示名后设用户名 url、用户名字符要不要限制成 url-safe、邮件验证要发验证码还是验证链接、要不要强制邮件验证等等等等...&lt;/p&gt;
+&lt;p&gt;总之好累，又写码写到天亮了 &lt;i class="custom-emoji" emoji-src="emoji/6323364467388188938.webp"&gt;😴&lt;/i&gt; 如果自己不是这么完美主义就好了...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3373" rel="alternate"/>
+  </entry>
   <entry>
     <id>3372</id>
     <title>小桂桂的回忆录 📒 #3372</title>
