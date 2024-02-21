@@ -45470,7 +45470,7 @@
     "id": 3351,
     "date": "2024-02-16T07:13:20",
     "text": "我：感觉自己不可爱\n聊聊：你可爱\n我：你看我头发都快掉光了\n聊聊：秃头桂桂也可爱\n（？？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6172422080902989732.webm\">👊</i>",
-    "views": 71,
+    "views": 72,
     "forwards": 0
   },
   {
@@ -45739,7 +45739,7 @@
     "id": 3368,
     "date": "2024-02-19T01:40:14",
     "text": "<del>看神仙打架.webm</del>",
-    "views": 55,
+    "views": 56,
     "forwards": 1,
     "reply": {
       "id": 3365,
@@ -45767,7 +45767,7 @@
     "id": 3369,
     "date": "2024-02-19T02:47:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n每次在 maimai 选曲界面听到这首「随机选曲 BGM」都好希望它是一首真的能玩的谱子 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n可惜不能\n\n<del>等我学会做自制谱就把它做出来</del>",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "files": [
       {
@@ -45846,7 +45846,7 @@
     "id": 3373,
     "date": "2024-02-19T12:32:08",
     "text": "今天把 AquaDX 的注册登录的流程写得差不多了\n\n加上了 CF Turnstile 用来防机器人，加上了 GeoLite 本地数据库自动判断用户的国家，写了登录之后的 JWT token 验证，注册域名配好邮箱之后写了一个「验证邮箱」的邮件模板。好累 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n...结果注册一个帐号测试的时候验证邮件还被谷歌标记 spam 了，不知道怎样绕过。\n\n感觉写自己在意的项目和糊作业需要的精力完全不一样... 作业要写注册的话随便把用户丢进数据库里就结束了，但是做这个项目的时候每个 design decision 都犹豫了好久，比如需不需要用户名、注册的时候要让用户填用户名后设显示名还是填显示名后设用户名 url、用户名字符要不要限制成 url-safe、邮件验证要发验证码还是验证链接、要不要强制邮件验证等等等等...\n\n总之好累，又写码写到天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i> 如果自己不是这么完美主义就好了...",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "media_group_id": 13666767423210717,
     "images": [
@@ -45895,7 +45895,7 @@
     "id": 3376,
     "date": "2024-02-20T15:08:32",
     "text": "草 发现女王火花地铁站有两块装饰板被挪走了",
-    "views": 45,
+    "views": 48,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -45932,6 +45932,25 @@
         "url": "media/3378.jpg",
         "size": 735601,
         "thumb": "media/3378.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3379,
+    "date": "2024-02-21T05:39:39",
+    "text": "me: 把所有琐碎的事情加上一个随意的 deadline 就不会永远放在 todo list 里面忘记做了吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\nalso me: （看到 due 今天的事情）算了反正不做也没事明天再做吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
+    "views": 15,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 800,
+        "height": 438,
+        "date": "2024-02-21T05:39:38",
+        "media_type": "photo",
+        "original_name": "photo_2024-02-21_05-39-38.jpg",
+        "url": "media/3379.jpg",
+        "size": 29308,
+        "thumb": "media/3379.jpg_thumb.jpg"
       }
     ]
   }
