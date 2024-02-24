@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41246,7 +41246,7 @@
     "id": 3054,
     "date": "2023-12-22T23:19:55",
     "text": "更新完了！<a href=\"https://github.com/hykilpikonna/AquaDX\">AquaDX</a> 和 <a href=\"lux.hydev.org\">lux.hydev.org</a> 都支持中二 SUN Plus 了！所有数据也都同步了哦",
-    "views": 83,
+    "views": 84,
     "forwards": 1,
     "media_group_id": 13626297563827117,
     "images": [
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 100,
+    "views": 101,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 89,
+    "views": 90,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -41567,7 +41567,7 @@
     "id": 3079,
     "date": "2023-12-27T04:52:39",
     "text": "Lexar NM710 这个盘好便宜！Gen4 TLC 的盘 1TB 居然只要 $50？！\n\n室友猪猪买了两张组 raid0 读写 4.1GB/s <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我买了四张同样想 raid0 但是 PCIe 分路卡还在飞机上",
-    "views": 118,
+    "views": 119,
     "forwards": 1,
     "media_group_id": 13629222073810197,
     "images": [
@@ -42165,7 +42165,7 @@
     "id": 3124,
     "date": "2024-01-01T00:46:40",
     "text": "理这团线感觉自己在拆炸弹 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -45998,7 +45998,7 @@
     "id": 3383,
     "date": "2024-02-22T02:47:15",
     "text": "今天和聊聊去 Toronto D&D 的活动让一位有经验的 DM 带我们开了一段很短的故事，真的有角色道具和场景的模型能看到我们在哪里在做什么的时候沉浸感真的好不一样。\n\n感觉这个 DM 准备得也好齐全，因为没有花太多的时间读设定，整个流程快了很多，三个小时就把他准备的故事打完了。\n\n而且听他说这些模型都是 3D 打印然后手动上色的诶，好厉害（不过他说这个精细的打印机居然花了 $2000，好贵！\n\n在想能不能用软件做 3D 地图... 现在现有的 D&D 在线地图软件似乎都是 2D 的，<del>在想能不能做一个 mod 把 Minecraft 变成一个 D&D 地图的渲染引擎</del>（不行我开太多坑了不能再开坑了呜呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 56,
+    "views": 57,
     "forwards": 1,
     "media_group_id": 13668560279975101,
     "images": [
@@ -46058,14 +46058,14 @@
     "id": 3388,
     "date": "2024-02-22T18:10:43",
     "text": "感觉日语片假名真的是谜语\n\n刚才看了半天「コナステ」没想明白这是什么，然后查一查才发现是 \"Konami Amusement Game Station\" 的缩写（？？？）四个字母分别是 Konami 的 コ Ko, ナ na 和 Station 的 ス S, テ te.........\n\n什么密码学 (╯’ – ‘)╯︵ ┻━┻",
-    "views": 59,
+    "views": 60,
     "forwards": 1
   },
   {
     "id": 3389,
     "date": "2024-02-22T19:06:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n胸柿炒鸡蛋！",
-    "views": 47,
+    "views": 48,
     "forwards": 1,
     "media_group_id": 13669030388740173,
     "images": [
@@ -46178,7 +46178,7 @@
     "id": 3396,
     "date": "2024-02-23T23:19:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n又是一首 maimai 里面的曲子，听这首真的感觉像是机器人在说话，即使没有歌词也像是能听到贝斯在唱 「Round round, spinning around」 quq",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "files": [
       {
@@ -46200,14 +46200,14 @@
     "id": 3397,
     "date": "2024-02-23T23:49:29",
     "text": "<del>为什么听东方的曲子会让我想玩 maimai 而不是想玩东方</del>",
-    "views": 50,
+    "views": 51,
     "forwards": 0
   },
   {
     "id": 3398,
     "date": "2024-02-24T02:24:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nMe: mom can we have 双层麦香鱼?\nMom: we have 双层麦香鱼 at home!\n双层麦香鱼 at home:",
-    "views": 48,
+    "views": 49,
     "forwards": 0,
     "images": [
       {
@@ -46226,7 +46226,7 @@
     "id": 3399,
     "date": "2024-02-24T04:47:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♫ 楽しい歌歌いましょ\n♫ 楽しい歌歌いましょ\n♫ 嫌なことは忘れて\n\n欢乐 qwq",
-    "views": 38,
+    "views": 40,
     "forwards": 0,
     "files": [
       {
@@ -46248,7 +46248,14 @@
     "id": 3400,
     "date": "2024-02-24T06:33:18",
     "text": "聊聊的记忆真的好厉害？！\n\n刚才在聊宝可梦地平线，聊到它在加拿大官方居然只上线了拨号码的那种电视，甚至在网络平台上看不到... 然后回想到我上次看拨号码的电视还是在小学四五年级，聊聊问我看什么我说是一个大机器人动画片，然后聊聊想了几秒再问了两个问题居然就猜出来了它是《果宝特工》<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 查了一下似乎还真的是\n\n呜呜 感觉我和聊聊在记忆上真的是 polar opposite",
-    "views": 31,
+    "views": 36,
+    "forwards": 0
+  },
+  {
+    "id": 3401,
+    "date": "2024-02-24T10:04:32",
+    "text": "因为想要让身边的人有重要的事情可以立即找到我，有一个手机没有开勿扰，平时也不经常受到骚扰电话，上次收到电话已经是一个月前了...\n\n...但是收到骚扰电话就会像现在这样凌晨五点被吵醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
+    "views": 10,
     "forwards": 0
   }
 ]
