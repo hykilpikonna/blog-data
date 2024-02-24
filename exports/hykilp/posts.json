@@ -6469,7 +6469,7 @@
     "id": 603,
     "date": "2022-03-19T07:17:49",
     "text": "第一台服务器拼好啦w\n她的名字叫 HyDEV Aster！\n\n2696v3 性能果然没让我失望，默认超频已经能超过 i7-12700f 了哇（虽然这个主板也不太可能手动超频了）不过不算显卡的话只花了 ￥2355 还是好赚\n\n系统还没配好... <del>就不做了！睡大觉ww</del>",
-    "views": 50,
+    "views": 51,
     "forwards": 3,
     "media_group_id": 13181394153883445,
     "images": [
@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 99,
+    "views": 100,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 88,
+    "views": 89,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -45514,7 +45514,7 @@
   {
     "id": 3354,
     "date": "2024-02-17T03:19:06",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "files": [
       {
@@ -45560,7 +45560,7 @@
     "id": 3355,
     "date": "2024-02-17T03:26:14",
     "text": "看着好舒服 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 1,
     "reply": {
       "id": 3354
@@ -45582,7 +45582,7 @@
     "id": 3356,
     "date": "2024-02-17T07:58:50",
     "text": "今天给 AquaDX 注册域名的时候试了一下最新最热的 Spaceship，发现了也许是最便宜的 hosted 邮箱服务，一年只要 $5.88 耶！\n\n（相比之下 GSuite 一年要 $93，MS365 一年要 $97\n\n不过我 <a href=\"hydev.org\">hydev.org</a> 的域名邮箱刚迁移完暂时不想再迁移了，试试用 Spaceship 的邮箱服务做 AquaDX 的业务邮箱给用户发邮件好了 qwq",
-    "views": 66,
+    "views": 68,
     "forwards": 0,
     "reply": {
       "id": 3280,
@@ -45605,7 +45605,7 @@
     "id": 3359,
     "date": "2024-02-18T08:39:19",
     "text": "昨天去了 UofT CSSU 组织的情人节聚会！吃到了巧克力和甜甜圈，还玩了些马车，很开心！（虽然马车输得很惨 quq 之后他们切到 smash 我就没有继续玩了\n\n不过和组织者 Jamie 聊聊发现似乎组织的过程不是很顺利... 希望以后可以帮一些忙\n\n以及回家的地铁上看到了路人在「口罩提示」上面画了笑脸，好可爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "media_group_id": 13665964471897581,
     "images": [
@@ -45645,7 +45645,7 @@
     "id": 3362,
     "date": "2024-02-18T09:00:00",
     "text": "今天继续了上周的 D&D 冒险！在跑那个「Tales of Phandalin」的故事，企鹅也加进来了所以是三个人\n\n今天三个人去 Redbrand 盗贼的藏身处抓人，然后聊聊跟着我们探索进度画了这个超大地下城地图 quq 好辛苦\n\n可惜聊聊还没有准备角色和 NPC 的模型所以用漫威模型代替了，感觉 D&D 准备起来要做的事情真的好多，像是在 DIY 桌游一样... 如果有纯电子的 D&D 地图布局软件就好了",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "reply": {
       "id": 3335,
@@ -45669,7 +45669,7 @@
     "id": 3364,
     "date": "2024-02-18T09:20:44",
     "text": "然后凌晨和聊聊聊到设计一款好音游需要什么的时候，想起来之前一直想玩的节奏的牢还没有开坑，然后就打开游戏一起开了一个 2p 档 <i class=\"custom-emoji\" emoji-src=\"emoji/5445363982607065319.tgs\">🍞</i>\n\n感觉最喜欢节奏地牢的地方就是它节奏得牢（？）因为所有节奏都在非常牢固的 1/4 大拍，所以非常容易就能和歌曲的 flow 同步上。不过数学苦手总是算错敌人的攻击路径也没办法啦，呜呜呜\n\n<del>相比之下感觉 maimai 12-13 某些谱星星已经完全不在曲子的节奏上了</del>",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13665984354315757,
     "images": [
@@ -45699,7 +45699,7 @@
     "id": 3365,
     "date": "2024-02-19T01:36:46",
     "text": "今天 Henry 和他的朋友还有 Jun 和 Jamie 过来玩，好喜欢家里热闹的气氛，以及吃到了 Henry 他们带过来的芒果蛋糕好开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\nHenry 和他的朋友都好厉害，他们是从 Arcaea 过来的，中二上手好快，感觉马上就要被他们超车了 quq\n\n以及今天 maimai 收了第一个 Lv13！<del>果然有人围观的时候会玩得更好</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "media_group_id": 13666452852406205,
     "images": [
@@ -45739,7 +45739,7 @@
     "id": 3368,
     "date": "2024-02-19T01:40:14",
     "text": "<del>看神仙打架.webm</del>",
-    "views": 65,
+    "views": 66,
     "forwards": 1,
     "reply": {
       "id": 3365,
@@ -45767,7 +45767,7 @@
     "id": 3369,
     "date": "2024-02-19T02:47:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n每次在 maimai 选曲界面听到这首「随机选曲 BGM」都好希望它是一首真的能玩的谱子 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n可惜不能\n\n<del>等我学会做自制谱就把它做出来</del>",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "files": [
       {
@@ -45789,7 +45789,7 @@
     "id": 3370,
     "date": "2024-02-19T05:06:28",
     "text": "上蓝框 13000 了！！开心\n\n变色.jpg",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13666553508448453,
     "images": [
@@ -45823,7 +45823,7 @@
     "id": 3372,
     "date": "2024-02-19T05:31:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n最新最热 1.40-C 的这首 KHYMΞXΛ 打起来节奏感好强 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>\n\n（然后查了一下发现歌词是希腊语诶，我说怎么完全听不懂",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "files": [
       {
@@ -45846,7 +45846,7 @@
     "id": 3373,
     "date": "2024-02-19T12:32:08",
     "text": "今天把 AquaDX 的注册登录的流程写得差不多了\n\n加上了 CF Turnstile 用来防机器人，加上了 GeoLite 本地数据库自动判断用户的国家，写了登录之后的 JWT token 验证，注册域名配好邮箱之后写了一个「验证邮箱」的邮件模板。好累 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n...结果注册一个帐号测试的时候验证邮件还被谷歌标记 spam 了，不知道怎样绕过。\n\n感觉写自己在意的项目和糊作业需要的精力完全不一样... 作业要写注册的话随便把用户丢进数据库里就结束了，但是做这个项目的时候每个 design decision 都犹豫了好久，比如需不需要用户名、注册的时候要让用户填用户名后设显示名还是填显示名后设用户名 url、用户名字符要不要限制成 url-safe、邮件验证要发验证码还是验证链接、要不要强制邮件验证等等等等...\n\n总之好累，又写码写到天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i> 如果自己不是这么完美主义就好了...",
-    "views": 63,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13666767423210717,
     "images": [
@@ -45876,7 +45876,7 @@
     "id": 3375,
     "date": "2024-02-19T19:34:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤大鸡腿！\n\n第一次做这么大鸡腿，一块就够吃一顿饭了哇 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 1,
     "images": [
       {
@@ -45895,7 +45895,7 @@
     "id": 3376,
     "date": "2024-02-20T15:08:32",
     "text": "草 发现女王火花地铁站有两块装饰板被挪走了",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -46129,7 +46129,7 @@
     "id": 3393,
     "date": "2024-02-23T04:47:28",
     "text": "AquaNet 绑卡做好了！感觉写了两天终于写出了一个完美的解决方案 qwq\n\n1. 绑卡的时候会把存档迁移到账号上\n2. 如果账号上已经有存档了可以选择保留哪份存档\n3. 一个人可以绑多张卡\n4. 绑卡之后每张卡都能访问到同一份存档\n\n这些都是官方服务器做不到的哦！官方服务器即使一个账号绑了两张卡，两张卡的存档也都是分开的",
-    "views": 67,
+    "views": 70,
     "forwards": 1,
     "media_group_id": 13669309190349189,
     "images": [
@@ -46159,7 +46159,7 @@
     "id": 3395,
     "date": "2024-02-23T07:18:46",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的炸鸡翅！感谢聊聊 quq\n\n空气炸锅真是好文明，炸出来干干的，没有油腻的口感了",
-    "views": 42,
+    "views": 47,
     "forwards": 0,
     "images": [
       {
@@ -46178,7 +46178,7 @@
     "id": 3396,
     "date": "2024-02-23T23:19:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n又是一首 maimai 里面的曲子，听这首真的感觉像是机器人在说话，即使没有歌词也像是能听到贝斯在唱 「Round round, spinning around」 quq",
-    "views": 22,
+    "views": 35,
     "forwards": 0,
     "files": [
       {
@@ -46200,7 +46200,26 @@
     "id": 3397,
     "date": "2024-02-23T23:49:29",
     "text": "<del>为什么听东方的曲子会让我想玩 maimai 而不是想玩东方</del>",
-    "views": 20,
+    "views": 36,
     "forwards": 0
+  },
+  {
+    "id": 3398,
+    "date": "2024-02-24T02:24:22",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nMe: mom can we have 双层麦香鱼?\nMom: we have 双层麦香鱼 at home!\n双层麦香鱼 at home:",
+    "views": 27,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2024-02-24T02:24:22",
+        "media_type": "photo",
+        "original_name": "photo_2024-02-24_02-24-22.jpg",
+        "url": "media/3398.jpg",
+        "size": 288170,
+        "thumb": "media/3398.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
