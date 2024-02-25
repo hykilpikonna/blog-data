@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-02-25T06:09:54.272118+00:00</updated>
+  <updated>2024-02-25T08:08:55.108552+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3402</id>
+    <title>小桂桂的回忆录 📒 #3402</title>
+    <updated>2024-02-25T07:25:21+00:00</updated>
+    <content>&lt;p&gt;哈哈哈哈哈我真是天才&lt;/p&gt;
+&lt;p&gt;算法课作业里有一道附加题是魔改版的背包问题，给你了一个 W=3500000 但是总价值 V 特别低的数据集让你算最优解。而且交作业只需要交运行结果不需要交代码（因为每个人的数据集都是用不同种子随机生成的所以每个人的运行结果都不一样&lt;/p&gt;
+&lt;p&gt;课上教了 O(nW) 的动态规划算法实现，这道题是想让我们魔改让它变成 O(nV)，因为教授觉得 W 这么大这个算法一定永远都跑不完吧...&lt;/p&gt;
+&lt;p&gt;好，我直接让 GPT4 给我把这个算法原封不动用 rust 重写了一遍，用 -r 加上编译时优化，把数据传进去 0.68 秒就解出来了 🌚 甚至比编译的时间还要短&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;RIIR 能提高这么多为什么需要优化算法，感觉在现在这个算力过剩的时代理论向算法很快就会过时了&lt;/del&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3402" rel="alternate"/>
+  </entry>
   <entry>
     <id>3401</id>
     <title>小桂桂的回忆录 📒 #3401</title>
