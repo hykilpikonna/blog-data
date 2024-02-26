@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7007,
+    "views": 7008,
     "forwards": 178,
     "media_group_id": 13340239729731381,
     "images": [
@@ -46262,7 +46262,7 @@
     "id": 3402,
     "date": "2024-02-25T07:25:21",
     "text": "哈哈哈哈哈我真是天才\n\n算法课作业里有一道附加题是魔改版的背包问题，给你了一个 W=3500000 但是总价值 V 特别低的数据集让你算最优解。而且交作业只需要交运行结果不需要交代码（因为每个人的数据集都是用不同种子随机生成的所以每个人的运行结果都不一样\n\n课上教了 O(nW) 的动态规划算法实现，这道题是想让我们魔改让它变成 O(nV)，因为教授觉得 W 这么大这个算法一定永远都跑不完吧...\n\n好，我直接让 GPT4 给我把这个算法原封不动用 rust 重写了一遍，用 -r 加上编译时优化，把数据传进去 0.68 秒就解出来了 🌚 甚至比编译的时间还要短",
-    "views": 52,
+    "views": 53,
     "forwards": 1,
     "media_group_id": 13670767375530629,
     "images": [
@@ -46292,7 +46292,7 @@
     "id": 3404,
     "date": "2024-02-25T09:33:02",
     "text": "在网上和群友争来争去真的好费时间... 明明不好好写作业就是为了省下一个小时的时间，却不知不觉就因为吵架浪费掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 也没有得到什么\n\n明明以前不是那么喜欢和别人吵的，明明自己的观点和别人对自己的理解并没有时间重要，明明 todo list 里还有有生之年做不完的事情想做... 看来以后还是要多注意一下呢",
-    "views": 39,
+    "views": 40,
     "forwards": 0,
     "reply": {
       "id": 3402,
@@ -46316,7 +46316,7 @@
     "id": 3405,
     "date": "2024-02-25T09:39:52",
     "text": "和聊聊聊聊，聊聊觉得这种程度不算吵架算「激烈讨论」或者辩经 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n那这样说好像我确实没吵过架，不过无论怎样都不想和群友对立，也不想在这上面花时间...",
-    "views": 37,
+    "views": 38,
     "forwards": 0,
     "reply": {
       "id": 3404,
