@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7008,
+    "views": 7009,
     "forwards": 178,
     "media_group_id": 13340239729731381,
     "images": [
@@ -46316,7 +46316,7 @@
     "id": 3405,
     "date": "2024-02-25T09:39:52",
     "text": "和聊聊聊聊，聊聊觉得这种程度不算吵架算「激烈讨论」或者辩经 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n那这样说好像我确实没吵过架，不过无论怎样都不想和群友对立，也不想在这上面花时间...",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "reply": {
       "id": 3404,
@@ -46327,7 +46327,7 @@
     "id": 3406,
     "date": "2024-02-26T06:08:45",
     "text": "今天把 <a href=\"##AquaNet\">#AquaNet</a> 后端的请求验证写好啦！\n\n因为官方的游戏客户端给用户提交数据的时候并没有做登录验证也没有做机器验证，所以在这之前只要暴露了你的卡号别人就可以随便发请求改你的数据。\n\n今天做的请求验证实现方式是，机器 PowerOn 的时候验证 Keychip ID，给每个人的游戏返回一个独特的随机 URL 比如 `/gs/{token}/mai2/endpoint`，这样就可以不用担心熊孩子发的恶意请求追踪不到了！\n\n（不过还需要想办法解决 MITM 的问题... 毕竟街机用的是没加密的 HTTP 80 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 46,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -46346,7 +46346,37 @@
     "id": 3407,
     "date": "2024-02-26T08:55:01",
     "text": "<del>好想喝鲸鱼奶（？）</del>",
-    "views": 39,
+    "views": 42,
     "forwards": 0
+  },
+  {
+    "id": 3408,
+    "date": "2024-02-27T02:12:32",
+    "text": "<a href=\"##AquaNet\">#AquaNet</a> 中二节奏的玩家主页也写好了！等之前定制的图标到了做一下主页切换 qwq\n\n现在只剩 ongeki 和 wacca 还不支持了，可是我没有玩过 ongeki 怎么办呢？\n\n以及 DALL-E 画的这个「没有头像的头像」好好看",
+    "views": 8,
+    "forwards": 0,
+    "media_group_id": 13671999615844877,
+    "images": [
+      {
+        "width": 931,
+        "height": 1280,
+        "date": "2024-02-27T02:12:30",
+        "media_type": "photo",
+        "original_name": "photo_2024-02-27_02-12-30.jpg",
+        "url": "media/3408.jpg",
+        "size": 71039,
+        "thumb": "media/3408.jpg_thumb.jpg"
+      },
+      {
+        "width": 993,
+        "height": 945,
+        "date": "2024-02-27T02:12:31",
+        "media_type": "photo",
+        "original_name": "photo_2024-02-27_02-12-31.jpg",
+        "url": "media/3409.jpg",
+        "size": 75916,
+        "thumb": "media/3409.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
