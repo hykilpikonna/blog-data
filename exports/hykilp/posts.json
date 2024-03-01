@@ -46262,7 +46262,7 @@
     "id": 3402,
     "date": "2024-02-25T07:25:21",
     "text": "哈哈哈哈哈我真是天才\n\n算法课作业里有一道附加题是魔改版的背包问题，给你了一个 W=3500000 但是总价值 V 特别低的数据集让你算最优解。而且交作业只需要交运行结果不需要交代码（因为每个人的数据集都是用不同种子随机生成的所以每个人的运行结果都不一样\n\n课上教了 O(nW) 的动态规划算法实现，这道题是想让我们魔改让它变成 O(nV)，因为教授觉得 W 这么大这个算法一定永远都跑不完吧...\n\n好，我直接让 GPT4 给我把这个算法原封不动用 rust 重写了一遍，用 -r 加上编译时优化，把数据传进去 0.68 秒就解出来了 🌚 甚至比编译的时间还要短",
-    "views": 70,
+    "views": 72,
     "forwards": 2,
     "media_group_id": 13670767375530629,
     "images": [
@@ -46327,7 +46327,7 @@
     "id": 3406,
     "date": "2024-02-26T06:08:45",
     "text": "今天把 <a href=\"##AquaNet\">#AquaNet</a> 后端的请求验证写好啦！\n\n因为官方的游戏客户端给用户提交数据的时候并没有做登录验证也没有做机器验证，所以在这之前只要暴露了你的卡号别人就可以随便发请求改你的数据。\n\n今天做的请求验证实现方式是，机器 PowerOn 的时候验证 Keychip ID，给每个人的游戏返回一个独特的随机 URL 比如 `/gs/{token}/mai2/endpoint`，这样就可以不用担心熊孩子发的恶意请求追踪不到了！\n\n（不过还需要想办法解决 MITM 的问题... 毕竟街机用的是没加密的 HTTP 80 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 70,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -46346,7 +46346,7 @@
     "id": 3407,
     "date": "2024-02-26T08:55:01",
     "text": "<del>好想喝鲸鱼奶（？）</del>",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
@@ -46475,7 +46475,7 @@
     "id": 3414,
     "date": "2024-02-27T22:06:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炖排骨做多了，用剩下的排骨和汤做了汤面",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 3412,
@@ -46498,7 +46498,7 @@
     "id": 3415,
     "date": "2024-02-28T06:18:47",
     "text": "干杯 ( ゜- ゜)つロ",
-    "views": 59,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -46517,14 +46517,14 @@
     "id": 3416,
     "date": "2024-02-29T02:20:38",
     "text": "聊聊：你可以打我\n（踢了聊聊一脚）\n聊聊：这不是打\n我：这是提脚旁的打，䟓 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 56,
+    "views": 60,
     "forwards": 1
   },
   {
     "id": 3417,
     "date": "2024-02-29T17:26:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n猪猪做的照烧鸡饭！感谢猪猪",
-    "views": 51,
+    "views": 57,
     "forwards": 0,
     "images": [
       {
@@ -46543,7 +46543,7 @@
     "id": 3418,
     "date": "2024-03-01T00:01:32",
     "text": "吃到了豆腐做的饺子 quq 好吃的",
-    "views": 42,
+    "views": 51,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -46566,7 +46566,31 @@
     "id": 3419,
     "date": "2024-03-01T05:22:34",
     "text": "什么时候会有防水的电脑... 想一边泡澡一边用电脑 quq",
-    "views": 27,
+    "views": 40,
     "forwards": 0
+  },
+  {
+    "id": 3421,
+    "date": "2024-03-01T08:02:30",
+    "views": 12,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2024-03-01T08:02:08",
+        "width": 512,
+        "height": 415,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "🛟",
+        "set_name": "azalea_anim",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/3421.webm",
+        "size": 39257,
+        "thumb": "media/3421.webm_thumb.jpg"
+      }
+    ]
   }
 ]
