@@ -46327,7 +46327,7 @@
     "id": 3406,
     "date": "2024-02-26T06:08:45",
     "text": "今天把 <a href=\"##AquaNet\">#AquaNet</a> 后端的请求验证写好啦！\n\n因为官方的游戏客户端给用户提交数据的时候并没有做登录验证也没有做机器验证，所以在这之前只要暴露了你的卡号别人就可以随便发请求改你的数据。\n\n今天做的请求验证实现方式是，机器 PowerOn 的时候验证 Keychip ID，给每个人的游戏返回一个独特的随机 URL 比如 `/gs/{token}/mai2/endpoint`，这样就可以不用担心熊孩子发的恶意请求追踪不到了！\n\n（不过还需要想办法解决 MITM 的问题... 毕竟街机用的是没加密的 HTTP 80 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -46543,7 +46543,7 @@
     "id": 3418,
     "date": "2024-03-01T00:01:32",
     "text": "吃到了豆腐做的饺子 quq 好吃的",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -46566,13 +46566,13 @@
     "id": 3419,
     "date": "2024-03-01T05:22:34",
     "text": "什么时候会有防水的电脑... 想一边泡澡一边用电脑 quq",
-    "views": 47,
+    "views": 50,
     "forwards": 0
   },
   {
     "id": 3422,
     "date": "2024-03-01T08:10:37",
-    "views": 37,
+    "views": 41,
     "forwards": 1,
     "files": [
       {
@@ -46597,7 +46597,7 @@
     "id": 3423,
     "date": "2024-03-01T09:34:24",
     "text": "想到这首歌\n\n<span class=\"spoiler\"><span>\"Do make sure your own mask is correctly fitted, before helping anyone else\"</span></span>",
-    "views": 30,
+    "views": 35,
     "forwards": 0,
     "files": [
       {
@@ -46619,7 +46619,7 @@
     "id": 3424,
     "date": "2024-03-01T09:38:00",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##戴上氧气面罩\"><span class=\"spoiler\"><span>#戴上氧气面罩</a></span></span>\n八年之后还是会听哭",
-    "views": 26,
+    "views": 31,
     "forwards": 0,
     "reply": {
       "id": 3423,
