@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-03-06T06:08:27.089328+00:00</updated>
+  <updated>2024-03-06T08:09:04.505356+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3451</id>
+    <title>小桂桂的回忆录 📒 #3451</title>
+    <updated>2024-03-06T07:57:34+00:00</updated>
+    <content>&lt;p&gt;聊聊：所以你为什么对猫有这样的 obsession
+我：I think, therefore I am a cat &lt;i class="custom-emoji" emoji-src="emoji/5445106967469105416.tgs"&gt;☺️&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3451" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>3449</id>
+    <title>小桂桂的回忆录 📒 #3449</title>
+    <updated>2024-03-06T06:44:24+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##AquaDX"&gt;#AquaDX&lt;/a&gt; 现在可以设主页头像和签名了！以及做了一些初步的中文 i18n&lt;/p&gt;
+&lt;p&gt;明明上传头像应该是很简单的事情但是怎样都感觉不安全，结果犹豫了三个小时到处查怎么做最安全... 如果处理图片重新编码的话解码器有可能被攻击（比如 Java ImageIO 现在依然有 JFIF Pixel Flood 漏洞）但是不处理就显示给别人可能会让用户浏览器被攻击，总之怎样做都好麻烦。最后还是验证一下文件头就直接存了，&lt;del&gt;希望用户都有更新浏览器的好习惯&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/6114040285505783709.webm"&gt;🙏&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;接下来还有好多事情要做 quq...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3449" rel="alternate"/>
+  </entry>
   <entry>
     <id>3448</id>
     <title>小桂桂的回忆录 📒 #3448</title>
