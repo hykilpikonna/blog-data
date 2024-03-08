@@ -46982,7 +46982,7 @@
     "id": 3449,
     "date": "2024-03-06T06:44:24",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 现在可以设主页头像和签名了！以及做了一些初步的中文 i18n\n\n明明上传头像应该是很简单的事情但是怎样都感觉不安全，结果犹豫了三个小时到处查怎么做最安全... 如果处理图片重新编码的话解码器有可能被攻击（比如 Java ImageIO 现在依然有 JFIF Pixel Flood 漏洞）但是不处理就显示给别人可能会让用户浏览器被攻击，总之怎样做都好麻烦。最后还是验证一下文件头就直接存了，<del>希望用户都有更新浏览器的好习惯</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n接下来还有好多事情要做 quq...",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "media_group_id": 13677659718330221,
     "images": [
@@ -47017,14 +47017,14 @@
     "id": 3451,
     "date": "2024-03-06T07:57:34",
     "text": "聊聊：所以你为什么对猫有这样的 obsession\n我：I think, therefore I am a cat <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>",
-    "views": 46,
+    "views": 47,
     "forwards": 1
   },
   {
     "id": 3452,
     "date": "2024-03-07T16:14:16",
     "text": "结果开了药之后到现在只吃了三次，因为第一天吃了之后发现晚上确实会睡不着，所以决定只在早起的时候吃了... 然而早起本身就是一件很难的事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 32,
+    "views": 33,
     "forwards": 0,
     "reply": {
       "id": 3429,
