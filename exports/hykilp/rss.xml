@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 08 Mar 2024 06:09:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 08:08:44 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3455</title>
+      <link>https://aza.moe/life?post=3455</link>
+      <description>&lt;p&gt;今日迷惑：NAS 服务器上 firefox 内存泄漏导致笔记本 Windows 整个桌面卡死 &lt;i class="custom-emoji" emoji-src="emoji/6323397499981661640.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;补课看录像看着看着笔记本 Windows 桌面突然卡死了，重启了 explorer 发现是因为 NAS 服务器的 SMB 断了。ssh 连上服务器发现是我的 128GB 内存满了（？？）看看谁在用内存发现 Firefox 占了好多先杀了吧，然后一杀直接清出来了 65GB 内存（？？？ ）&lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;之后去 Grafana 上看看发现 Firefox 从三天前开始占用内存就一直在缓慢增加... &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;  所以 2024 年有没有能用的浏览器啊，是不是需要加一个定时自动杀 firefox 的 crontab...&lt;/p&gt;</description>
+      <guid isPermaLink="false">3455</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3453</title>
       <link>https://aza.moe/life?post=3453</link>
