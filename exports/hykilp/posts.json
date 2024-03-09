@@ -46474,7 +46474,7 @@
     "id": 3414,
     "date": "2024-02-27T22:06:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炖排骨做多了，用剩下的排骨和汤做了汤面",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "reply": {
       "id": 3412,
@@ -46764,7 +46764,7 @@
     "id": 3435,
     "date": "2024-03-04T04:45:58",
     "text": "太幸运了，今天期末考试时间公布，发现 Apr 10-30 随机时间的考试居然只有一门课和 ICASSP 冲突，那这样的话只要 defer 这一门课就好啦 qwq\n\n...不过这样就不能顺路去日本旅游了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i> 嘛下次有机会再去吧",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "reply": {
       "id": 3261,
@@ -46787,7 +46787,7 @@
     "id": 3436,
     "date": "2024-03-04T08:00:03",
     "text": "进行一些现充活动（？）<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 3,
     "images": [
       {
@@ -46910,7 +46910,7 @@
     "id": 3445,
     "date": "2024-03-04T23:17:45",
     "text": "夕阳下的鸭鸭",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 13676754124119365,
     "images": [
@@ -46959,7 +46959,7 @@
     "id": 3448,
     "date": "2024-03-05T09:57:48",
     "text": "给我的 D&D character 认真想了一个背景故事",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -46982,7 +46982,7 @@
     "id": 3449,
     "date": "2024-03-06T06:44:24",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 现在可以设主页头像和签名了！以及做了一些初步的中文 i18n\n\n明明上传头像应该是很简单的事情但是怎样都感觉不安全，结果犹豫了三个小时到处查怎么做最安全... 如果处理图片重新编码的话解码器有可能被攻击（比如 Java ImageIO 现在依然有 JFIF Pixel Flood 漏洞）但是不处理就显示给别人可能会让用户浏览器被攻击，总之怎样做都好麻烦。最后还是验证一下文件头就直接存了，<del>希望用户都有更新浏览器的好习惯</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n接下来还有好多事情要做 quq...",
-    "views": 63,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13677659718330221,
     "images": [
@@ -47017,14 +47017,14 @@
     "id": 3451,
     "date": "2024-03-06T07:57:34",
     "text": "聊聊：所以你为什么对猫有这样的 obsession\n我：I think, therefore I am a cat <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 1
   },
   {
     "id": 3452,
     "date": "2024-03-07T16:14:16",
     "text": "结果开了药之后到现在只吃了三次，因为第一天吃了之后发现晚上确实会睡不着，所以决定只在早起的时候吃了... 然而早起本身就是一件很难的事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 57,
+    "views": 59,
     "forwards": 0,
     "reply": {
       "id": 3429,
@@ -47070,7 +47070,7 @@
     "id": 3455,
     "date": "2024-03-08T06:27:33",
     "text": "今日迷惑：NAS 服务器上 firefox 内存泄漏导致笔记本 Windows 整个桌面卡死 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n补课看录像看着看着笔记本 Windows 桌面突然卡死了，重启了 explorer 发现是因为 NAS 服务器的 SMB 断了。ssh 连上服务器发现是我的 128GB 内存满了（？？）看看谁在用内存发现 Firefox 占了好多先杀了吧，然后一杀直接清出来了 65GB 内存（？？？ ）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n之后去 Grafana 上看看发现 Firefox 从三天前开始占用内存就一直在缓慢增加... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>  所以 2024 年有没有能用的浏览器啊，是不是需要加一个定时自动杀 firefox 的 crontab...",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "media_group_id": 13679034031427581,
     "images": [
@@ -47110,7 +47110,7 @@
     "id": 3458,
     "date": "2024-03-08T11:10:38",
     "text": "呜 又因为各种原因分心了导致看到日出还没复习完\n\n还有 6h 考试，还有五节课要补... 不能睡觉了",
-    "views": 52,
+    "views": 54,
     "forwards": 1,
     "media_group_id": 13679169906442117,
     "images": [
@@ -47140,7 +47140,7 @@
     "id": 3460,
     "date": "2024-03-08T15:47:43",
     "text": "Vyvanse 好过分... 昨天早上十点起床吃了 20mg 到现在已经连续醒着快 25h 了还完全不困，刚刚复习完躺在床上想睡 1h 结果完全睡不着",
-    "views": 45,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 3452,
@@ -47151,7 +47151,7 @@
     "id": 3461,
     "date": "2024-03-08T19:37:56",
     "text": "考完了！考试让带一张纸的手写笔记所以我就把所有的用例写进去了，然后居然真的考了两道原题 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n这次一共就四道题应该有三道都做对了，最后一道题是让我手解 LP simplex... 算完第一步矩阵里就全都是 11/2 15/4 的这种两位分数了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 我的心算速度合并一个分数要半分钟，计算器也没有计算分数的功能... 比较崩溃划掉答案写了不知道（写不知道能拿 20%）\n\n...然后考完和同学聊，同学说只需要算一步，第二步就没有更高的 max 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 所以我其实算出来了正确答案但是自己把它划掉了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i> 呜呜呜呜呜",
-    "views": 44,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -47170,7 +47170,7 @@
     "id": 3462,
     "date": "2024-03-09T03:02:57",
     "text": "好耶 演讲时间出来了",
-    "views": 37,
+    "views": 43,
     "forwards": 0,
     "reply": {
       "id": 3435,
@@ -47193,7 +47193,7 @@
     "id": 3463,
     "date": "2024-03-09T05:06:33",
     "text": "呜呜呜 结果今天仔细看这封邮件才发现要在二月 17 号之前交一个 Response Form 这个 Travel Grant 才有效... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n因为不仔细读邮件丢了 $500\n\n然后我之前交费注册的收据 confirmation email 找不到了... 要申请签证的话需要一个邀请单，但是在线打印邀请单需要收据里面的密码，怎么办呜呜呜呜",
-    "views": 30,
+    "views": 40,
     "forwards": 0,
     "reply": {
       "id": 3269,
@@ -47204,7 +47204,7 @@
     "id": 3464,
     "date": "2024-03-09T05:35:58",
     "text": "草... 到处找了半天 confirmation email 然后在下载文件夹找到了收据网页... 还好当时留了一个心眼把收据网页存下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n然后我终于知道为什么在所有邮箱里都找不到这封邮件了，是因为根本没收到... 我注册的时候填了 azalea@hydev.org 这个邮箱，然后二月一号发现它被微软封掉了，所以可能当时一月 27 号的时候就已经收不到邮件了吧 呜呜呜",
-    "views": 21,
+    "views": 35,
     "forwards": 0,
     "media_group_id": 13679700463778629,
     "images": [
@@ -47238,12 +47238,19 @@
     "id": 3466,
     "date": "2024-03-09T05:39:17",
     "text": "然后发现收据网页只有收据 ID，没有密码，密码是随机生成发到邮箱里的...... 而且没有重置或者找回密码的功能，啊啊啊这个系统怎么回事啊",
-    "views": 20,
+    "views": 35,
     "forwards": 0,
     "reply": {
       "id": 3464,
       "text": "草... 到处找了半天 confirmation email 然后在下载文件夹找到了收据网页... 还好当时留了一个心眼把收据网页存下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n然后我终于知道为什么在所有邮箱里都找不到这封邮件了，是因为根本没收到... 我注册的时候填了 azalea@hydev.org 这个邮箱，然后二月一号发现它被微软封掉了，所以可能当时一月 27 号的时候就已经收不到邮件了吧 呜呜呜",
       "thumb": "media/3464.jpg_thumb.jpg"
     }
+  },
+  {
+    "id": 3467,
+    "date": "2024-03-09T07:21:26",
+    "text": "草 让谷歌助手 turn off my bedroom lights 被听成了 call my parents <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n还好谷歌不知道我父母电话号",
+    "views": 19,
+    "forwards": 0
   }
 ]
