@@ -37603,7 +37603,7 @@
     "id": 2802,
     "date": "2023-10-29T03:23:22",
     "text": "去逛逛 Freeplay Toronto，有好多 CRT 显示器的旧机台好厉害，还有最新最热 Jubeat Ave！（虽然我不太会，照片上是聊聊打的\n\n还认识了一个喜欢街机音游的高中生，开心 qwq\n\n这里收费好便宜，$5 门票随便玩然后卖食物什么的，<del>是不是我在家里开街机的话也可以这样收费</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 1,
     "media_group_id": 13588398421418045,
     "images": [
@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 105,
+    "views": 106,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -46128,7 +46128,7 @@
     "id": 3393,
     "date": "2024-02-23T04:47:28",
     "text": "<a href=\"##AquaNet\">#AquaNet</a> 绑卡做好了！感觉写了两天终于写出了一个完美的解决方案 qwq\n\n1. 绑卡的时候会把存档迁移到账号上\n2. 如果账号上已经有存档了可以选择保留哪份存档\n3. 一个人可以绑多张卡\n4. 绑卡之后每张卡都能访问到同一份存档\n\n这些都是官方服务器做不到的哦！官方服务器即使一个账号绑了两张卡，两张卡的存档也都是分开的",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "media_group_id": 13669309190349189,
     "images": [
@@ -46678,7 +46678,7 @@
     "id": 3428,
     "date": "2024-03-02T08:54:25",
     "text": "哇 是 Omori 的音乐会！！我好爱\n\n<a href=\"https://youtu.be/OG6HJRpqs_8?si=yY0OGRgoP0mNspkn&t=2122\">https://youtu.be/OG6HJRpqs_8?si=yY0OGRgoP0mNspkn&t=2122</a>\n\n<span class=\"spoiler\"><span>好想把之前弃坑的马林巴琴重新捡起来</span></span>",
-    "views": 86,
+    "views": 87,
     "forwards": 2
   },
   {
@@ -47110,7 +47110,7 @@
     "id": 3458,
     "date": "2024-03-08T11:10:38",
     "text": "呜 又因为各种原因分心了导致看到日出还没复习完\n\n还有 6h 考试，还有五节课要补... 不能睡觉了",
-    "views": 59,
+    "views": 60,
     "forwards": 1,
     "media_group_id": 13679169906442117,
     "images": [
@@ -47250,14 +47250,14 @@
     "id": 3467,
     "date": "2024-03-09T07:21:26",
     "text": "草 让谷歌助手 turn off my bedroom lights 被听成了 call my parents <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n还好谷歌不知道我父母电话号",
-    "views": 54,
+    "views": 55,
     "forwards": 0
   },
   {
     "id": 3468,
     "date": "2024-03-09T16:07:22",
     "text": "变香喷雾！",
-    "views": 47,
+    "views": 49,
     "forwards": 0,
     "images": [
       {
@@ -47276,7 +47276,7 @@
     "id": 3469,
     "date": "2024-03-09T17:05:49",
     "text": "两年半前养的这盆绿萝现在已经比卷尺长了哇，长得好快 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n在想要不要剪下一段叶子再种一盆绿萝",
-    "views": 44,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 54,
@@ -47300,7 +47300,7 @@
     "id": 3470,
     "date": "2024-03-10T11:15:04",
     "text": "呜呜 OS 课作业要写多线程 malloc... 一个 segfault 从晚上十一点 debug 到凌晨七点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n这虫好难抓，只有在高速运行的时候会发生，加一些 debug printf 就不会发生了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 35,
+    "views": 39,
     "forwards": 0,
     "images": [
       {
