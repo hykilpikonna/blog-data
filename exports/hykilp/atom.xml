@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-03-13T14:08:52.444858+00:00</updated>
+  <updated>2024-03-13T16:07:59.122324+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3475</id>
+    <title>小桂桂的回忆录 📒 #3475</title>
+    <updated>2024-03-13T15:55:25+00:00</updated>
+    <content>&lt;p&gt;和聊聊玩 wonders，聊聊想在商店抽卡收集到所有立牌。一共有 144 种立牌，每 10 紫币可以抽一个，抽到重复的并没有用，那平均要多少紫币才能拿到所有立牌呢？&lt;/p&gt;
+&lt;p&gt;第一次抽必定会中所以一次就能抽到，而最后一张只有 1/144 的几率中所以 144 次才能抽到，由此得出抽到第 i 张需要的平均次数是 n/(n - i)。&lt;/p&gt;
+&lt;p&gt;求和发现平均需要 7993 个紫币才能收集到所有立牌，然而整个游戏全收集才只有 1020 个紫币... &lt;i class="custom-emoji" emoji-src="emoji/6169953432485496291.webm"&gt;😶&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3475" rel="alternate"/>
+  </entry>
   <entry>
     <id>3474</id>
     <title>小桂桂的回忆录 📒 #3474</title>
