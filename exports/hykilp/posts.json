@@ -18760,7 +18760,7 @@
     "id": 1459,
     "date": "2022-11-05T04:35:31",
     "text": "放假了！\n\n...又好像没有放假。虽然放假一周，计组课留了七个小时的录像要看，Java 课期末项目要写完，计组期末项目虽然晚一点 due 但是也要开始写，统计也有开学 due 的大作业，然后还有好多阅读要补 🥲",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "images": [
       {
@@ -18779,7 +18779,7 @@
     "id": 1460,
     "date": "2022-11-05T22:05:59",
     "text": "CSSU 的算法挑战把我对算法的所有信心都击碎了...\n\n我只试了各种聚类算法选一个分数最高的，把有随机性的部分执行很多次 argmax 一下，再对每个点重找一遍就交上去了，也没有比最开始试的 k-means 高多少分\n\n旁边的人在讨论的线性/动态规划、模拟退火我都没听说过，现学也学不懂...\n\n果然对于学算法来说我还是太笨了 🥲",
-    "views": 158,
+    "views": 159,
     "forwards": 1,
     "images": [
       {
@@ -18798,7 +18798,7 @@
     "id": 1464,
     "date": "2022-11-06T05:04:50",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> Boys Will Be Bugs - Cavetown\n\n\"And if you wanna cry\n Make sure that they never see it\n Or even better yet\n Block it out and never feel it\"\n\n\"Don't message me cause I won't reply\n I wanna make you cry\n Ain't that how it's supposed to be\n Though it isn't me\"\n\n也许每个人心里都有一个四十岁的小男孩...\n\n长大的过程里总是需要把自己真实的感情藏得越来越深... 有时候想要抱抱，想要在别人的怀里大哭一场，但是表达出来的完全不是这样。明明每个人都有脆弱的一面，表现出来又有什么不好呢？\n\n<a href=\"https://y.music.163.com/m/song?id=1353121056\">网易云\n</a><a href=\"https://www.youtube.com/watch?v=uREGk0fT0GQ\">YouTube</a>",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "files": [
       {
@@ -18820,7 +18820,7 @@
     "id": 1465,
     "date": "2022-11-06T11:18:31",
     "text": "成功了！用两层有限状态机加上一个 datapath 控制 RGB Video 输出渲染了一个彩虹旗！🌈\n\n是计组这门课最后一项电路作业了，让我们从零自己设计，不过什么提示/限制都没给反而自由了好多哇，状态机里面几乎一个逻辑门都没用hhh\n\n（状态寄存器和切到下一个状态的电路直接用一个计数器代替，然后输出逻辑直接用加法器除法器和比较器代替了\n\n之后的作业就是汇编啦，好期待 qwq （riscv 指令集已经打出来挂在墙上供起来了",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "files": [
       {
@@ -18842,14 +18842,14 @@
     "id": 1466,
     "date": "2022-11-06T17:32:44",
     "text": "烤鸡汉堡差点把锅烤熟了（x\n\n因为厨房很小，在厨房里做饭缺空间的时候总是习惯把不用的锅放在灶台下面的烤箱里。然后今天想要烤鸡汉堡的时候把这件事情忘记了，425°F 快预热完听到烟雾报警器叫才想起来还有锅在烤箱里 🌚",
-    "views": 130,
+    "views": 131,
     "forwards": 0
   },
   {
     "id": 1467,
     "date": "2022-11-06T18:07:58",
     "text": "<a href=\"##桂桂聊聊书书今天吃什么\">#桂桂聊聊书书今天吃什么</a>\n鸡汉堡！",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "images": [
       {
@@ -46327,7 +46327,7 @@
     "id": 3406,
     "date": "2024-02-26T06:08:45",
     "text": "今天把 <a href=\"##AquaNet\">#AquaNet</a> 后端的请求验证写好啦！\n\n因为官方的游戏客户端给用户提交数据的时候并没有做登录验证也没有做机器验证，所以在这之前只要暴露了你的卡号别人就可以随便发请求改你的数据。\n\n今天做的请求验证实现方式是，机器 PowerOn 的时候验证 Keychip ID，给每个人的游戏返回一个独特的随机 URL 比如 `/gs/{token}/mai2/endpoint`，这样就可以不用担心熊孩子发的恶意请求追踪不到了！\n\n（不过还需要想办法解决 MITM 的问题... 毕竟街机用的是没加密的 HTTP 80 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "images": [
       {
@@ -46346,7 +46346,7 @@
     "id": 3407,
     "date": "2024-02-26T08:55:01",
     "text": "<del>好想喝鲸鱼奶（？）</del>",
-    "views": 79,
+    "views": 80,
     "forwards": 0
   },
   {
@@ -47111,7 +47111,7 @@
     "id": 3458,
     "date": "2024-03-08T11:10:38",
     "text": "呜 又因为各种原因分心了导致看到日出还没复习完\n\n还有 6h 考试，还有五节课要补... 不能睡觉了",
-    "views": 81,
+    "views": 82,
     "forwards": 1,
     "media_group_id": 13679169906442117,
     "images": [
@@ -47205,7 +47205,7 @@
     "id": 3464,
     "date": "2024-03-09T05:35:58",
     "text": "草... 到处找了半天 confirmation email 然后在下载文件夹找到了收据网页... 还好当时留了一个心眼把收据网页存下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n然后我终于知道为什么在所有邮箱里都找不到这封邮件了，是因为根本没收到... 我注册的时候填了 azalea@hydev.org 这个邮箱，然后二月一号发现它被微软封掉了，所以可能当时一月 27 号的时候就已经收不到邮件了吧 呜呜呜",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13679700463778629,
     "images": [
@@ -47239,7 +47239,7 @@
     "id": 3466,
     "date": "2024-03-09T05:39:17",
     "text": "然后发现收据网页只有收据 ID，没有密码，密码是随机生成发到邮箱里的...... 而且没有重置或者找回密码的功能，啊啊啊这个系统怎么回事啊",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 3464,
@@ -47251,14 +47251,14 @@
     "id": 3467,
     "date": "2024-03-09T07:21:26",
     "text": "草 让谷歌助手 turn off my bedroom lights 被听成了 call my parents <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n还好谷歌不知道我父母电话号",
-    "views": 75,
+    "views": 76,
     "forwards": 0
   },
   {
     "id": 3468,
     "date": "2024-03-09T16:07:22",
     "text": "变香喷雾！",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -47277,7 +47277,7 @@
     "id": 3469,
     "date": "2024-03-09T17:05:49",
     "text": "两年半前养的这盆绿萝现在已经比卷尺长了哇，长得好快 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n在想要不要剪下一段叶子再种一盆绿萝",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "reply": {
       "id": 54,
@@ -47301,7 +47301,7 @@
     "id": 3470,
     "date": "2024-03-10T11:15:04",
     "text": "呜呜 OS 课作业要写多线程 malloc... 一个 segfault 从晚上十一点 debug 到凌晨七点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n这虫好难抓，只有在高速运行的时候会发生，加一些 debug printf 就不会发生了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -47331,7 +47331,7 @@
     "id": 3472,
     "date": "2024-03-12T07:01:18",
     "text": "给自己剪一个姬 cut",
-    "views": 65,
+    "views": 66,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -47395,7 +47395,7 @@
     "id": 3476,
     "date": "2024-03-14T16:22:44",
     "text": "发邮件找 icassp 重新要了一个邀请函，重新去了一趟领事馆，韩国签证总算办完啦（居然不需要收护照贴签，自己打印签证就可以",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13683466916053277,
     "images": [
@@ -47439,7 +47439,7 @@
     "id": 3479,
     "date": "2024-03-14T16:37:38",
     "text": "感觉 TTC 地铁这个要转下来才能抓到的扶手设计好蠢... 这样的话摸不到栏杆的身高同样也摸不到扶手，完全不 accessible",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -47458,7 +47458,7 @@
     "id": 3480,
     "date": "2024-03-14T22:16:58",
     "text": "三岁小聊 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -47477,7 +47477,7 @@
     "id": 3481,
     "date": "2024-03-15T08:04:20",
     "text": "剪掉了几根枝试试水培起根，希望能长出来 quq",
-    "views": 46,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13683918880370149,
     "images": [
@@ -47511,7 +47511,7 @@
     "id": 3483,
     "date": "2024-03-15T08:21:45",
     "text": "聊聊：水培真的没问题嘛？\n我：似乎没有植物激素就推荐水培\n聊聊：激素？它吃雌二醇还是睾酮 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n猪：它吃骨粉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 39,
+    "views": 42,
     "forwards": 0,
     "reply": {
       "id": 3481,
@@ -47523,7 +47523,7 @@
     "id": 3484,
     "date": "2024-03-15T23:20:32",
     "text": "用长焦坏掉的手机拍一些延时摄影",
-    "views": 16,
+    "views": 26,
     "forwards": 0,
     "images": [
       {
