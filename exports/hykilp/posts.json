@@ -47205,7 +47205,7 @@
     "id": 3464,
     "date": "2024-03-09T05:35:58",
     "text": "草... 到处找了半天 confirmation email 然后在下载文件夹找到了收据网页... 还好当时留了一个心眼把收据网页存下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n然后我终于知道为什么在所有邮箱里都找不到这封邮件了，是因为根本没收到... 我注册的时候填了 azalea@hydev.org 这个邮箱，然后二月一号发现它被微软封掉了，所以可能当时一月 27 号的时候就已经收不到邮件了吧 呜呜呜",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13679700463778629,
     "images": [
@@ -47239,7 +47239,7 @@
     "id": 3466,
     "date": "2024-03-09T05:39:17",
     "text": "然后发现收据网页只有收据 ID，没有密码，密码是随机生成发到邮箱里的...... 而且没有重置或者找回密码的功能，啊啊啊这个系统怎么回事啊",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 3464,
@@ -47561,7 +47561,7 @@
     "id": 3486,
     "date": "2024-03-17T19:18:00",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒面！\n\n因为自己不能吃虾但是又想做虾所以单独炒了虾 quq",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "media_group_id": 13685624647215693,
     "images": [
@@ -47601,14 +47601,14 @@
     "id": 3489,
     "date": "2024-03-18T03:06:13",
     "text": "感冒了... 几乎睡了一天什么都没做感觉累累",
-    "views": 43,
+    "views": 45,
     "forwards": 0
   },
   {
     "id": 3490,
     "date": "2024-03-18T13:22:59",
     "text": "踩了一个很 🤯 的 Kotlin 反射坑...\n\n刚刚尝试反射找一个 <code>@Annotation</code> 的时候发现怎样找都找不到，debug 好久之后查查才发现，原来这一个 var 编译成字节码之后即是 property 又是 field 又是 getter 又是 setter 又是 constructor parameter，这五个地方都有可能加 <code>@Annotation</code>，所以它默认加到 param 上了 🤯",
-    "views": 34,
+    "views": 36,
     "forwards": 0,
     "media_group_id": 13686145436962309,
     "images": [
