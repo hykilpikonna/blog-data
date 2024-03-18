@@ -18712,7 +18712,7 @@
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
     "views": 7029,
-    "forwards": 178,
+    "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
       {
@@ -47331,7 +47331,7 @@
     "id": 3472,
     "date": "2024-03-12T07:01:18",
     "text": "给自己剪一个姬 cut",
-    "views": 85,
+    "views": 86,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -47354,7 +47354,7 @@
     "id": 3473,
     "date": "2024-03-12T16:02:09",
     "text": "办韩国签证，因为发 paper 用的名字 \"Azalea\" 不是 legal name 被拒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 3462,
@@ -47511,7 +47511,7 @@
     "id": 3483,
     "date": "2024-03-15T08:21:45",
     "text": "聊聊：水培真的没问题嘛？\n我：似乎没有植物激素就推荐水培\n聊聊：激素？它吃雌二醇还是睾酮 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n猪：它吃骨粉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "reply": {
       "id": 3481,
@@ -47542,7 +47542,7 @@
     "id": 3485,
     "date": "2024-03-16T16:15:57",
     "text": "之前看大统华火锅清汤底半价就买了一些，今天用火锅汤底做了汤面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -47561,7 +47561,7 @@
     "id": 3486,
     "date": "2024-03-17T19:18:00",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒面！\n\n因为自己不能吃虾但是又想做虾所以单独炒了虾 quq",
-    "views": 43,
+    "views": 45,
     "forwards": 0,
     "media_group_id": 13685624647215693,
     "images": [
@@ -47601,7 +47601,37 @@
     "id": 3489,
     "date": "2024-03-18T03:06:13",
     "text": "感冒了... 几乎睡了一天什么都没做感觉累累",
-    "views": 32,
+    "views": 39,
     "forwards": 0
+  },
+  {
+    "id": 3490,
+    "date": "2024-03-18T13:22:59",
+    "text": "踩了一个很 🤯 的 Kotlin 反射坑...\n\n刚刚尝试反射找一个 <code>@Annotation</code> 的时候发现怎样找都找不到，debug 好久之后查查才发现，原来这一个 var 编译成字节码之后即是 property 又是 field 又是 getter 又是 setter 又是 constructor parameter，这五个地方都有可能加 <code>@Annotation</code>，所以它默认加到 param 上了 🤯",
+    "views": 21,
+    "forwards": 0,
+    "media_group_id": 13686145436962309,
+    "images": [
+      {
+        "width": 1280,
+        "height": 512,
+        "date": "2024-03-18T13:22:57",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-18_13-22-57.jpg",
+        "url": "media/3490.jpg",
+        "size": 79180,
+        "thumb": "media/3490.jpg_thumb.jpg"
+      },
+      {
+        "width": 1174,
+        "height": 348,
+        "date": "2024-03-18T13:22:58",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-18_13-22-58.jpg",
+        "url": "media/3491.jpg",
+        "size": 62963,
+        "thumb": "media/3491.jpg_thumb.jpg"
+      }
+    ]
   }
 ]

@@ -12,7 +12,14 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 18 Mar 2024 12:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 14:08:49 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3490</title>
+      <link>https://aza.moe/life?post=3490</link>
+      <description>&lt;p&gt;踩了一个很 🤯 的 Kotlin 反射坑...&lt;/p&gt;
+&lt;p&gt;刚刚尝试反射找一个 &lt;code&gt;@Annotation&lt;/code&gt; 的时候发现怎样找都找不到，debug 好久之后查查才发现，原来这一个 var 编译成字节码之后即是 property 又是 field 又是 getter 又是 setter 又是 constructor parameter，这五个地方都有可能加 &lt;code&gt;@Annotation&lt;/code&gt;，所以它默认加到 param 上了 🤯&lt;/p&gt;</description>
+      <guid isPermaLink="false">3490</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3489</title>
       <link>https://aza.moe/life?post=3489</link>
