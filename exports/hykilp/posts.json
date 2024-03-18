@@ -31732,7 +31732,7 @@
     "id": 2361,
     "date": "2023-07-04T03:05:16",
     "text": "<a href=\"https://youtu.be/ca0RpxknHCI\">https://youtu.be/ca0RpxknHCI</a>\n\nTom Scott 说明年一号就不会继续周更视频了。居然已经十年了，好羡慕可以把一件事坚持做十年 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n是我好喜欢每次更新我都会看的频道，可惜美好的事物都有始有终呢...",
-    "views": 676,
+    "views": 677,
     "forwards": 8
   },
   {
@@ -47439,7 +47439,7 @@
     "id": 3479,
     "date": "2024-03-14T16:37:38",
     "text": "感觉 TTC 地铁这个要转下来才能抓到的扶手设计好蠢... 这样的话摸不到栏杆的身高同样也摸不到扶手，完全不 accessible",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -47608,7 +47608,7 @@
     "id": 3490,
     "date": "2024-03-18T13:22:59",
     "text": "踩了一个很 🤯 的 Kotlin 反射坑...\n\n刚刚尝试反射找一个 <code>@Annotation</code> 的时候发现怎样找都找不到，debug 好久之后查查才发现，原来这一个 var 编译成字节码之后即是 property 又是 field 又是 getter 又是 setter 又是 constructor parameter，这五个地方都有可能加 <code>@Annotation</code>，所以它默认加到 param 上了 🤯",
-    "views": 29,
+    "views": 32,
     "forwards": 0,
     "media_group_id": 13686145436962309,
     "images": [
