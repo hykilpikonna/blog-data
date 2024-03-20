@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-03-20T04:08:40.377217+00:00</updated>
+  <updated>2024-03-20T06:08:34.456558+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3496</id>
+    <title>小桂桂的回忆录 📒 #3496</title>
+    <updated>2024-03-20T04:42:35+00:00</updated>
+    <content>&lt;p&gt;今天给 Kotlin 开了一个 &lt;a href="https://github.com/JetBrains/kotlin/pull/5278"&gt;PR&lt;/a&gt;！第一次给这么大的项目开 PR，好开心&lt;/p&gt;
+&lt;p&gt;起因是，在给我的私服写导入数据的功能的时候测速发现 &lt;code&gt;str.lines()&lt;/code&gt; 好慢，然后发现它的实现方法是 &lt;code&gt;str.split("\r\n", "\n", "\r")&lt;/code&gt;，但是 split 多个子字符串是一个复杂的运算&lt;/p&gt;
+&lt;p&gt;试试改成先把所有换行符替换成 &lt;code&gt;\n&lt;/code&gt; 再 &lt;code&gt;split('\n')&lt;/code&gt; 之后速度直接提升了 7 倍，好耶 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3496" rel="alternate"/>
+  </entry>
   <entry>
     <id>3495</id>
     <title>小桂桂的回忆录 📒 #3495</title>

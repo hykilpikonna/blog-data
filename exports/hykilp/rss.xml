@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 20 Mar 2024 04:08:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 06:08:34 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3496</title>
+      <link>https://aza.moe/life?post=3496</link>
+      <description>&lt;p&gt;今天给 Kotlin 开了一个 &lt;a href="https://github.com/JetBrains/kotlin/pull/5278"&gt;PR&lt;/a&gt;！第一次给这么大的项目开 PR，好开心&lt;/p&gt;
+&lt;p&gt;起因是，在给我的私服写导入数据的功能的时候测速发现 &lt;code&gt;str.lines()&lt;/code&gt; 好慢，然后发现它的实现方法是 &lt;code&gt;str.split("\r\n", "\n", "\r")&lt;/code&gt;，但是 split 多个子字符串是一个复杂的运算&lt;/p&gt;
+&lt;p&gt;试试改成先把所有换行符替换成 &lt;code&gt;\n&lt;/code&gt; 再 &lt;code&gt;split('\n')&lt;/code&gt; 之后速度直接提升了 7 倍，好耶 qwq&lt;/p&gt;</description>
+      <guid isPermaLink="false">3496</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3495</title>
       <link>https://aza.moe/life?post=3495</link>
