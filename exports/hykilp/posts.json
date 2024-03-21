@@ -29590,7 +29590,7 @@
     "id": 2202,
     "date": "2023-05-23T01:21:58",
     "text": "读了这么多篇纸第一次遇到学术造假 <i class=\"custom-emoji\" emoji-src=\"emoji/6170283569441670873.webm\">😡</i>\n\n标题和 Abstract 看起来可能能用在我的研究里就读一读吧，读着读着发现怎么全都是在说废话，说用 CNN 模型完全不描述架构，其他的模型也完全没提参数细节，源码数据也都没有公布。看它提到了一些相似研究，想先看看别人的吧，然后发现这篇论文下面的 17 篇引用没有一篇能查到  (╯’ – ‘)╯︵ ┻━┻\n\n为什么要这样造假，为什么音频研究投进仿生学和生物力学的期刊能被采纳，还是在 ChatGPT 公开访问之前投稿的... 不理解",
-    "views": 156,
+    "views": 157,
     "forwards": 1,
     "images": [
       {
@@ -43067,7 +43067,7 @@
     "id": 3187,
     "date": "2024-01-14T16:56:48",
     "text": "大风把运货车刮走了💨",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "images": [
       {
@@ -43086,7 +43086,7 @@
     "id": 3188,
     "date": "2024-01-15T01:56:26",
     "text": "今天在 smash 打过了聊聊！",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -43251,7 +43251,7 @@
     "id": 3200,
     "date": "2024-01-17T15:58:19",
     "text": "感觉多伦多冬天的 -15℃ 大冰柜冻住了所有出门的想法... 好想出门玩出门上学，但是想想外面那么冷还是会钻回被窝 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n2024 至今的 17 天里只出过一次门...",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 91,
+    "views": 92,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43417,7 +43417,7 @@
     "id": 3211,
     "date": "2024-01-19T03:14:55",
     "text": "非常认真地写了作业",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
