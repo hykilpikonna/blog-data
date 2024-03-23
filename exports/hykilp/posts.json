@@ -39470,7 +39470,7 @@
     "id": 2936,
     "date": "2023-11-25T05:07:19",
     "text": "好耶！今天豆腐来玩，和豆腐一起给这个读卡器写了固件和驱动，现在可以刷 presto 登游戏了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n*支持任何 nfc 卡哦，不是 felica 的话会被转换成 felica 格式 qwq",
-    "views": 126,
+    "views": 127,
     "forwards": 1,
     "files": [
       {
@@ -41672,7 +41672,7 @@
     "id": 3086,
     "date": "2023-12-28T04:55:50",
     "text": "+ maimai DX！\n\n它真的好大好重！送到的时候是一个大卡车开过来司机专门打电话联系我了，送上楼还被公寓物业骂了说需要申请货物电梯，然后三个人一起才把它搬上来拼好（感谢 Celestium 帮忙 qwq\n\n用了一段时间把软件调好啦，感谢蓝夏的魔改！现在还缺读卡器和自起脚本，私服似乎也已经兼容了 1.40 的样子（虽然没有做修改，可能是这两个版本之间 API 本身就没有改动吧）\n\n总之明天再继续折腾了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 2,
     "media_group_id": 13629914800119629,
     "images": [
@@ -47439,7 +47439,7 @@
     "id": 3479,
     "date": "2024-03-14T16:37:38",
     "text": "感觉 TTC 地铁这个要转下来才能抓到的扶手设计好蠢... 这样的话摸不到栏杆的身高同样也摸不到扶手，完全不 accessible",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -47561,7 +47561,7 @@
     "id": 3486,
     "date": "2024-03-17T19:18:00",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒面！\n\n因为自己不能吃虾但是又想做虾所以单独炒了虾 quq",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13685624647215693,
     "images": [
@@ -47601,14 +47601,14 @@
     "id": 3489,
     "date": "2024-03-18T03:06:13",
     "text": "感冒了... 几乎睡了一天什么都没做感觉累累",
-    "views": 66,
+    "views": 67,
     "forwards": 0
   },
   {
     "id": 3490,
     "date": "2024-03-18T13:22:59",
     "text": "踩了一个很 🤯 的 Kotlin 反射坑...\n\n刚刚尝试反射找一个 <code>@Annotation</code> 的时候发现怎样找都找不到，debug 好久之后查查才发现，原来这一个 var 编译成字节码之后即是 property 又是 field 又是 getter 又是 setter 又是 constructor parameter，这五个地方都有可能加 <code>@Annotation</code>，所以它默认加到 param 上了 🤯",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13686145436962309,
     "images": [
@@ -47638,7 +47638,7 @@
     "id": 3492,
     "date": "2024-03-19T01:51:11",
     "text": "重新定义 vegetable",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -47657,7 +47657,7 @@
     "id": 3493,
     "date": "2024-03-19T16:56:42",
     "text": "？？？ 下雪了！",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -47714,7 +47714,7 @@
     "id": 3496,
     "date": "2024-03-20T04:42:35",
     "text": "今天给 Kotlin 开了一个 <a href=\"https://github.com/JetBrains/kotlin/pull/5278\">PR</a>！第一次给这么大的项目开 PR，好开心\n\n起因是，在给我的私服写导入数据的功能的时候测速发现 <code>str.lines()</code> 好慢，然后发现它的实现方法是 <code>str.split(\"\\r\\n\", \"\\n\", \"\\r\")</code>，但是 split 多个子字符串是一个复杂的运算\n\n试试改成先把所有换行符替换成 <code>\\n</code> 再 <code>split('\\n')</code> 之后速度直接提升了 7 倍，好耶 qwq",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13687278046831213,
     "images": [
@@ -47831,7 +47831,7 @@
     "id": 3506,
     "date": "2024-03-22T01:17:31",
     "text": "呜呜 划手手了",
-    "views": 43,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
@@ -47850,14 +47850,14 @@
     "id": 3507,
     "date": "2024-03-22T04:13:23",
     "text": "我：胳膊的膝盖疼\n聊聊：那叫胳膊肘\n我：反正你也听懂了那就这样叫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 43,
+    "views": 44,
     "forwards": 0
   },
   {
     "id": 3508,
     "date": "2024-03-22T20:15:24",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 支持中二 Luminous 了",
-    "views": 39,
+    "views": 43,
     "forwards": 0,
     "images": [
       {
@@ -47876,7 +47876,7 @@
     "id": 3509,
     "date": "2024-03-23T00:27:17",
     "text": "腾讯也开始用用户训练模型了",
-    "views": 45,
+    "views": 59,
     "forwards": 1,
     "images": [
       {
