@@ -44013,7 +44013,7 @@
     "id": 3254,
     "date": "2024-01-27T03:00:16",
     "text": "以及今天去检查遇到了重名的 Azalea，然后也许是为了防重名，明明和前台说了我的 preferred nane 是 Azalea 还一直在叫我的 legal name，而且还念不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 气气\n\n感觉在这边比如在医院等别人叫自己名字的时候完全不能分心做别的事情，因为真的不知道别人会怎么读我的名字... 别说中文 legal name 了，甚至 \"Azalea\" /ə'zeɪlyə/ 都经常被读错成 /azə'leə/ 或者 /ə'zila/ <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "reply": {
       "id": 3252,
@@ -44037,7 +44037,7 @@
     "id": 3255,
     "date": "2024-01-27T11:10:04",
     "text": "睡不着在回忆过去的时候发现自己渐渐失去了一些东西... 比如现在没有以前那么喜欢做饭了，做饭似乎从有动力想要探索的事情变成了为了省钱而必须做的累赘。",
-    "views": 88,
+    "views": 89,
     "forwards": 0
   },
   {
@@ -44159,14 +44159,14 @@
     "id": 3264,
     "date": "2024-01-29T15:09:10",
     "text": "<a href=\"##梦\">#梦</a> 梦见在麻省乡下漫无目的地开车，开到了一个小河旁边感觉风景好好看突然想去玩玩水。穿好泳衣和游泳圈下车去玩，感觉在水上飘着好放松好放松就睡着了。\n\n结果醒过来发现自己漂到了一个完全不认识的地方，上岸敲门打听一下发现自己在纽约的那个岛上，然后赶快借手机定了一个回家的机票。在走去机场的路上饿饿，路过了火锅和烤肉餐馆但是每一家都说不接受一位客人占一桌就把我赶走了。有些不甘心地去绕路找了家麦当劳，然后发现我没有带任何的支付方式（？？）出来之后想按照过来的路原路返回结果迷路了，还在头疼怎样找到去机场的路... 然后醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 3265,
     "date": "2024-01-29T21:56:34",
     "text": "<a href=\"##wactroller\">#wactroller</a> 今天土豆和 dv 又帮忙把重新设计的 VESA 固定版装上啦，固定电视的强度比之前好多了！\n\n测试没出什么差错这还是第一次，接下来就只剩下把整个机器斜向固定在桌子上的框架还没测试了。\n\n（安装的时候土豆家的猫和不认识的猫都在好好奇地盯着它，好可爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 87,
+    "views": 88,
     "forwards": 1,
     "media_group_id": 13652523157030269,
     "images": [
@@ -44314,7 +44314,7 @@
     "id": 3274,
     "date": "2024-01-31T00:34:23",
     "text": "今天安装 flash-attn 踩到的坑...\n\nninja 编译的时候默认会用所有 cpu 核，但是每个线程大概要占至少 4.5GB 的内存，所以如果直接 <code>pip install flash-attn</code> 安装的话我 36 核的机器就需要 162GB 内存才够，但是我只有 128GB。然后它把我内存 swap 都占满之后整个系统卡死了 🌚\n\n以及因为我一直以为 128GB 怎样都用不完就把内存信息从 btop 上隐藏了，没想到这次真的莫名其妙被内存瓶颈 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n解决方式是手动设 <code>MAX_JOBS</code> 环境变量（感谢 Etaoin 找到问题",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13653290106705221,
     "images": [
@@ -44344,7 +44344,7 @@
     "id": 3276,
     "date": "2024-01-31T01:37:30",
     "text": "E5-2696v3 用 16 线程编译它居然花了 46 分钟... 好失望",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 3274,
@@ -44356,7 +44356,7 @@
     "id": 3277,
     "date": "2024-01-31T05:05:06",
     "text": "因为 One Among Us 工作群里有人需要，写了一个在线音频转文字网页轮子，现在部署在 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 如果有需要欢迎使用\n\n模型用了 whisper large v3，前端栈 svelte，后端 python fastapi，<span class=\"spoiler\"><span>感觉写太多这种结构的轻应用了有被无聊到</span></span>",
-    "views": 91,
+    "views": 92,
     "forwards": 2,
     "images": [
       {
@@ -45081,7 +45081,7 @@
     "id": 3327,
     "date": "2024-02-09T19:14:31",
     "text": "算法 midterm 考得有点💥... 大概能有 66%，因为分治和贪心算法的题都 100% 对了，最后动态编程没时间做 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n50 分钟的考试要解出三个算法题真的太恐怖了，再加上我 ADHD 看错了两次题做着做着才发现... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "images": [
       {
@@ -45099,7 +45099,7 @@
   {
     "id": 3328,
     "date": "2024-02-09T20:50:16",
-    "views": 135,
+    "views": 136,
     "forwards": 4,
     "files": [
       {
@@ -47511,7 +47511,7 @@
     "id": 3483,
     "date": "2024-03-15T08:21:45",
     "text": "聊聊：水培真的没问题嘛？\n我：似乎没有植物激素就推荐水培\n聊聊：激素？它吃雌二醇还是睾酮 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n猪：它吃骨粉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "reply": {
       "id": 3481,
@@ -47523,7 +47523,7 @@
     "id": 3484,
     "date": "2024-03-15T23:20:32",
     "text": "用长焦坏掉的手机拍一些延时摄影",
-    "views": 76,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -47542,7 +47542,7 @@
     "id": 3485,
     "date": "2024-03-16T16:15:57",
     "text": "之前看大统华火锅清汤底半价就买了一些，今天用火锅汤底做了汤面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -47676,7 +47676,7 @@
     "id": 3494,
     "date": "2024-03-19T19:35:30",
     "text": "雪好看",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -47695,7 +47695,7 @@
     "id": 3495,
     "date": "2024-03-19T21:05:13",
     "text": "购物车长出了天线",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -47714,7 +47714,7 @@
     "id": 3496,
     "date": "2024-03-20T04:42:35",
     "text": "今天给 Kotlin 开了一个 <a href=\"https://github.com/JetBrains/kotlin/pull/5278\">PR</a>！第一次给这么大的项目开 PR，好开心\n\n起因是，在给我的私服写导入数据的功能的时候测速发现 <code>str.lines()</code> 好慢，然后发现它的实现方法是 <code>str.split(\"\\r\\n\", \"\\n\", \"\\r\")</code>，但是 split 多个子字符串是一个复杂的运算\n\n试试改成先把所有换行符替换成 <code>\\n</code> 再 <code>split('\\n')</code> 之后速度直接提升了 7 倍，好耶 qwq",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "media_group_id": 13687278046831213,
     "images": [
@@ -47744,14 +47744,14 @@
     "id": 3498,
     "date": "2024-03-21T08:48:30",
     "text": "今天从早上起来到现在准备去睡觉都在写私服的码... 好累好累\n\n<span class=\"spoiler\"><span>前几天前任 Jun 还和我抱怨说她觉得学 CS 的人太多了，说这个世界不需要那么多 CS 人，说觉得早晚要被 AI 取代后悔学 CS 了什么的... 我现在真希望有人能和我一起写私服，人也好 AI 也好，想做的事情太多了时间完全不够</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n<span class=\"spoiler\"><span>也许等到 AI 能够替代我的时候我想做的事情才能有时间全都做完</span></span>",
-    "views": 49,
+    "views": 50,
     "forwards": 0
   },
   {
     "id": 3499,
     "date": "2024-03-22T00:09:22",
     "text": "从国内定的 wacca 框的零件终于到了！开始拼 quq\n\n原本预计 35 天到结果现在 76 天了才到，呜呜",
-    "views": 43,
+    "views": 44,
     "forwards": 0,
     "media_group_id": 13688529298119525,
     "images": [
@@ -47831,7 +47831,7 @@
     "id": 3506,
     "date": "2024-03-22T01:17:31",
     "text": "呜呜 划手手了",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "images": [
       {
@@ -47850,14 +47850,14 @@
     "id": 3507,
     "date": "2024-03-22T04:13:23",
     "text": "我：胳膊的膝盖疼\n聊聊：那叫胳膊肘\n我：反正你也听懂了那就这样叫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 44,
+    "views": 45,
     "forwards": 0
   },
   {
     "id": 3508,
     "date": "2024-03-22T20:15:24",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 支持中二 Luminous 了",
-    "views": 43,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
@@ -47876,7 +47876,7 @@
     "id": 3509,
     "date": "2024-03-23T00:27:17",
     "text": "腾讯也开始用用户训练模型了",
-    "views": 63,
+    "views": 66,
     "forwards": 1,
     "images": [
       {
@@ -47888,6 +47888,56 @@
         "url": "media/3509.jpg",
         "size": 56377,
         "thumb": "media/3509.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3510,
+    "date": "2024-03-23T09:18:29",
+    "text": "<a href=\"##wactroller\">#wactroller</a> 搭好了！",
+    "views": 20,
+    "forwards": 1,
+    "media_group_id": 13689484078512421,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2024-03-23T09:13:25",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-23_09-13-25.jpg",
+        "url": "media/3510.jpg",
+        "size": 642143,
+        "thumb": "media/3510.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2024-03-23T09:13:26",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-23_09-13-26.jpg",
+        "url": "media/3511.jpg",
+        "size": 643622,
+        "thumb": "media/3511.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-03-23T09:18:28",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-23_09-18-28.jpg",
+        "url": "media/3512.jpg",
+        "size": 893899,
+        "thumb": "media/3512.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-03-23T02:05:46",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-23_02-05-46.jpg",
+        "url": "media/3513.jpg",
+        "size": 420679,
+        "thumb": "media/3513.jpg_thumb.jpg"
       }
     ]
   }
