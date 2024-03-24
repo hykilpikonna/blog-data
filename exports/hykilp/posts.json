@@ -44166,7 +44166,7 @@
     "id": 3265,
     "date": "2024-01-29T21:56:34",
     "text": "<a href=\"##wactroller\">#wactroller</a> 今天土豆和 dv 又帮忙把重新设计的 VESA 固定版装上啦，固定电视的强度比之前好多了！\n\n测试没出什么差错这还是第一次，接下来就只剩下把整个机器斜向固定在桌子上的框架还没测试了。\n\n（安装的时候土豆家的猫和不认识的猫都在好好奇地盯着它，好可爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "media_group_id": 13652523157030269,
     "images": [
@@ -47511,7 +47511,7 @@
     "id": 3483,
     "date": "2024-03-15T08:21:45",
     "text": "聊聊：水培真的没问题嘛？\n我：似乎没有植物激素就推荐水培\n聊聊：激素？它吃雌二醇还是睾酮 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n猪：它吃骨粉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 3481,
@@ -47638,7 +47638,7 @@
     "id": 3492,
     "date": "2024-03-19T01:51:11",
     "text": "重新定义 vegetable",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "images": [
       {
@@ -47676,7 +47676,7 @@
     "id": 3494,
     "date": "2024-03-19T19:35:30",
     "text": "雪好看",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -47695,7 +47695,7 @@
     "id": 3495,
     "date": "2024-03-19T21:05:13",
     "text": "购物车长出了天线",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -47714,7 +47714,7 @@
     "id": 3496,
     "date": "2024-03-20T04:42:35",
     "text": "今天给 Kotlin 开了一个 <a href=\"https://github.com/JetBrains/kotlin/pull/5278\">PR</a>！第一次给这么大的项目开 PR，好开心\n\n起因是，在给我的私服写导入数据的功能的时候测速发现 <code>str.lines()</code> 好慢，然后发现它的实现方法是 <code>str.split(\"\\r\\n\", \"\\n\", \"\\r\")</code>，但是 split 多个子字符串是一个复杂的运算\n\n试试改成先把所有换行符替换成 <code>\\n</code> 再 <code>split('\\n')</code> 之后速度直接提升了 7 倍，好耶 qwq",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "media_group_id": 13687278046831213,
     "images": [
@@ -47744,14 +47744,14 @@
     "id": 3498,
     "date": "2024-03-21T08:48:30",
     "text": "今天从早上起来到现在准备去睡觉都在写私服的码... 好累好累\n\n<span class=\"spoiler\"><span>前几天前任 Jun 还和我抱怨说她觉得学 CS 的人太多了，说这个世界不需要那么多 CS 人，说觉得早晚要被 AI 取代后悔学 CS 了什么的... 我现在真希望有人能和我一起写私服，人也好 AI 也好，想做的事情太多了时间完全不够</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n<span class=\"spoiler\"><span>也许等到 AI 能够替代我的时候我想做的事情才能有时间全都做完</span></span>",
-    "views": 53,
+    "views": 54,
     "forwards": 0
   },
   {
     "id": 3499,
     "date": "2024-03-22T00:09:22",
     "text": "从国内定的 wacca 框的零件终于到了！开始拼 quq\n\n原本预计 35 天到结果现在 76 天了才到，呜呜",
-    "views": 48,
+    "views": 49,
     "forwards": 0,
     "media_group_id": 13688529298119525,
     "images": [
@@ -47831,7 +47831,7 @@
     "id": 3506,
     "date": "2024-03-22T01:17:31",
     "text": "呜呜 划手手了",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -47850,14 +47850,14 @@
     "id": 3507,
     "date": "2024-03-22T04:13:23",
     "text": "我：胳膊的膝盖疼\n聊聊：那叫胳膊肘\n我：反正你也听懂了那就这样叫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 47,
+    "views": 48,
     "forwards": 0
   },
   {
     "id": 3508,
     "date": "2024-03-22T20:15:24",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 支持中二 Luminous 了",
-    "views": 46,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -47876,7 +47876,7 @@
     "id": 3509,
     "date": "2024-03-23T00:27:17",
     "text": "腾讯也开始用用户训练模型了",
-    "views": 68,
+    "views": 71,
     "forwards": 1,
     "images": [
       {
@@ -47895,7 +47895,7 @@
     "id": 3510,
     "date": "2024-03-23T09:18:29",
     "text": "<a href=\"##wactroller\">#wactroller</a> 搭好了！",
-    "views": 49,
+    "views": 52,
     "forwards": 1,
     "media_group_id": 13689484078512421,
     "images": [
@@ -47945,7 +47945,7 @@
     "id": 3515,
     "date": "2024-03-24T04:59:53",
     "text": "做了电源\n\n焊了一个超级草率的焊点，焊完还有线在飞用热熔胶简单裹一圈，线的颜色还全用错了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n...但是它居然工作！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好耶，现在这个机器有一个独立的电源按钮可以开关它了",
-    "views": 19,
+    "views": 26,
     "forwards": 1,
     "media_group_id": 13690051151145037,
     "images": [
