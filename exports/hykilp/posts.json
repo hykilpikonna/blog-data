@@ -26244,14 +26244,14 @@
     "id": 1966,
     "date": "2023-03-22T19:54:11",
     "text": "还有两天就能玩到莱莎 3 了！好期待！",
-    "views": 86,
+    "views": 88,
     "forwards": 0
   },
   {
     "id": 1967,
     "date": "2023-03-23T11:21:51",
     "text": "WS2812 灯真是一个超天才的设计\n\n众所周知一个全彩灯需要三个引脚，分别控制 RGB。假如我想要连 20 个 LED 灯，直接连需要 60 个输出口。可是我的开发板一共只有 48 个输出口，怎么办呢？\n\nWS2812 的解决方案是把时序电路做在每个灯上，顺序读取代表着 RGB 颜色的 24 位之后存起来，再把接下来的数据全部传给下一个灯，一个一个传下去，直到收到「重置」信号再从头开始更新自己的颜色。\n\n这样只用一个输出口就可以单独控制∞个灯的颜色了哇，好厉害！（虽然接太多的话更新速度会慢hhh\n\n<a href=\"##琴\">#琴</a>",
-    "views": 84,
+    "views": 87,
     "forwards": 1,
     "images": [
       {
@@ -26540,7 +26540,7 @@
     "id": 1987,
     "date": "2023-03-30T22:48:50",
     "text": "回家路上看到狗狗在赶鹅，好可爱 qwq\n\n<del>被狗狗抢先了好可惜</del>（大雾",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "media_group_id": 13441732243727973,
     "images": [
@@ -39543,7 +39543,7 @@
     "id": 2941,
     "date": "2023-11-26T03:29:29",
     "text": "学过语言学里面的各种发音 process 之后发现，剪辑演讲的时候剪掉卡顿之后让语言听起来更连贯也变得容易了！",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "files": [
       {
@@ -39566,7 +39566,7 @@
     "id": 2942,
     "date": "2023-11-26T08:54:34",
     "text": "一些胡思乱想 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13607910995433989,
     "images": [
@@ -39596,7 +39596,7 @@
     "id": 2944,
     "date": "2023-11-26T21:31:46",
     "text": "悲 二月份买的盘现在已经有 12056 个 reallocated sector 了... 正在排错",
-    "views": 108,
+    "views": 109,
     "forwards": 1,
     "reply": {
       "id": 1810,
@@ -47331,7 +47331,7 @@
     "id": 3472,
     "date": "2024-03-12T07:01:18",
     "text": "给自己剪一个姬 cut",
-    "views": 100,
+    "views": 101,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -47354,7 +47354,7 @@
     "id": 3473,
     "date": "2024-03-12T16:02:09",
     "text": "办韩国签证，因为发 paper 用的名字 \"Azalea\" 不是 legal name 被拒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "reply": {
       "id": 3462,
@@ -47365,7 +47365,7 @@
     "id": 3474,
     "date": "2024-03-13T05:21:37",
     "text": "完 发现短头发扎不上不会洗脸了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "reply": {
       "id": 3472,
@@ -47601,14 +47601,14 @@
     "id": 3489,
     "date": "2024-03-18T03:06:13",
     "text": "感冒了... 几乎睡了一天什么都没做感觉累累",
-    "views": 71,
+    "views": 72,
     "forwards": 0
   },
   {
     "id": 3490,
     "date": "2024-03-18T13:22:59",
     "text": "踩了一个很 🤯 的 Kotlin 反射坑...\n\n刚刚尝试反射找一个 <code>@Annotation</code> 的时候发现怎样找都找不到，debug 好久之后查查才发现，原来这一个 var 编译成字节码之后即是 property 又是 field 又是 getter 又是 setter 又是 constructor parameter，这五个地方都有可能加 <code>@Annotation</code>，所以它默认加到 param 上了 🤯",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "media_group_id": 13686145436962309,
     "images": [
@@ -47638,7 +47638,7 @@
     "id": 3492,
     "date": "2024-03-19T01:51:11",
     "text": "重新定义 vegetable",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "images": [
       {
@@ -47657,7 +47657,7 @@
     "id": 3493,
     "date": "2024-03-19T16:56:42",
     "text": "？？？ 下雪了！",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -47831,7 +47831,7 @@
     "id": 3506,
     "date": "2024-03-22T01:17:31",
     "text": "呜呜 划手手了",
-    "views": 61,
+    "views": 64,
     "forwards": 0,
     "images": [
       {
@@ -47850,14 +47850,14 @@
     "id": 3507,
     "date": "2024-03-22T04:13:23",
     "text": "我：胳膊的膝盖疼\n聊聊：那叫胳膊肘\n我：反正你也听懂了那就这样叫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 3508,
     "date": "2024-03-22T20:15:24",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 支持中二 Luminous 了",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -47945,7 +47945,7 @@
     "id": 3515,
     "date": "2024-03-24T04:59:53",
     "text": "做了电源\n\n焊了一个超级草率的焊点，焊完还有线在飞用热熔胶简单裹一圈，线的颜色还全用错了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n...但是它居然工作！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好耶，现在这个机器有一个独立的电源按钮可以开关它了",
-    "views": 44,
+    "views": 45,
     "forwards": 1,
     "media_group_id": 13690051151145037,
     "images": [
@@ -47995,7 +47995,7 @@
     "id": 3519,
     "date": "2024-03-26T02:45:31",
     "text": "<a href=\"##wactroller\">#wactroller</a> 全都搭好之后打的第一个币",
-    "views": 61,
+    "views": 64,
     "forwards": 3,
     "files": [
       {
@@ -48018,7 +48018,7 @@
     "id": 3520,
     "date": "2024-03-26T08:57:03",
     "text": "呜呜 聊聊又划手手了（？）\n\n（好吧其实是帮我拼 wacca 架子的时候被铝划了一下，好心疼 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 装好这个机器我和聊聊身上总共多出了四个伤口... \n\n看来铝型材也不是那么容易拼，如果要量产的话是不是还需要另外想办法...",
-    "views": 41,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -48037,7 +48037,7 @@
     "id": 3521,
     "date": "2024-03-26T16:34:46",
     "text": "补一些这个桌子的制作过程 qwq",
-    "views": 32,
+    "views": 38,
     "forwards": 0,
     "media_group_id": 13691767093505581,
     "images": [
@@ -48112,5 +48112,49 @@
         "thumb": "media/3527.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 3529,
+    "date": "2024-03-27T09:08:50",
+    "text": "我我要撤回一年前的话\n\n一年前刚看到 WS2812 灯的时候觉得这个设计好天才，一根数据线就可以控制无数个灯... 现在拼了 Wacca 框才发现问题所在。Wacca 这才刚发布五年的游戏，现在到处都能看到坏掉的 LED，或者说我玩过的 Wacca 框没有一个是 LED 没坏的。\n\n为什么呢？因为 WS2812 只有一条数据线，没有冗余，就像 RAID0 一样。如果一个灯坏了，后面的所有灯都收不到数据。也就是说像 Wacca 这样把 480 个灯连在一起的话，损坏概率就会比一个单独的灯要高 480 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 我的这台就已经有五个坏了，然而坏了一个就必须马上换\n\n刚刚去嘉立创花 ￥1334 订了两百片 Wacca 的 LED 替换板。替换版用了 WS2813，比 2812 多了两条用来冗余的线，即使一个灯坏了剩下的也可以正常工作。\n\n（不过这种 LED 真的好难处理... 今天才知道焊 LED 之前必须 75°C 烘烤两天 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 不然焊的时候真空膜里面湿度蒸发膨胀会让真空膜破损提高损坏率... 所以原来我之前一直都焊错了 ;-;",
+    "views": 22,
+    "forwards": 0,
+    "media_group_id": 13692244244815709,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-03-27T09:08:48",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-27_09-08-48.jpg",
+        "url": "media/3529.jpg",
+        "size": 174961,
+        "thumb": "media/3529.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-03-27T09:08:49",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-27_09-08-49.jpg",
+        "url": "media/3530.jpg",
+        "size": 119107,
+        "thumb": "media/3530.jpg_thumb.jpg"
+      },
+      {
+        "width": 931,
+        "height": 269,
+        "date": "2024-03-27T09:15:53",
+        "media_type": "photo",
+        "original_name": "photo_2024-03-27_09-15-53.jpg",
+        "url": "media/3531.jpg",
+        "size": 39688,
+        "thumb": "media/3531.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 1967,
+      "text": "WS2812 灯真是一个超天才的设计\n\n众所周知一个全彩灯需要三个引脚，分别控制 RGB。假如我想要连 20 个 LED 灯，直接连需要 60 个输出口。可是我的开发板一共只有 48 个输出口，怎么办呢？\n\nWS2812 的解决方案是把时序电路做在每个灯上，顺序读取代表着 RGB 颜色的 24 位之后存起来，再把接下来的数据全部传给下一个灯，一个一个传下去，直到收到「重置」信号再从头开始更新自己的颜色。\n\n这样只用一个输出口就可以单独控制∞个灯的颜色了哇，好厉害！（虽然接太多的话更新速度会慢hhh\n\n<a href=\"##琴\">#琴</a>"
+    }
   }
 ]
