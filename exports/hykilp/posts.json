@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7034,
+    "views": 7035,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -25325,7 +25325,7 @@
     "id": 1904,
     "date": "2023-03-05T19:50:53",
     "text": "rich logger 真的好好看！而且可以显示日志的行数和报错的本地变量也好方便。以后拿到 python 代码第一件事绝对是条件导入一个 rich <i class=\"custom-emoji\" emoji-src=\"emoji/5470045497504833358.webp\">👍</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 3,
     "images": [
       {
@@ -25344,7 +25344,7 @@
     "id": 1905,
     "date": "2023-03-06T03:39:03",
     "text": "昨天搜那个 Piano 3D App 的时候偶然发现它已经下架了，没有找到任何下载的途径，今天花了三个小时找办法下载下来了！备份 ipa 文件放在 <a href=\"https://cdn.hydev.org/backup/Apps/\">HyDEV CDN</a> 上面啦，虽然需要签名才能用。没越狱可以用 <a href=\"https://altstore.io/\">AltStore</a> 生成七天的临时签名，越狱可以用 <a href=\"https://github.com/hykilpikonna/fakesigner-ios\">fakesigner</a> + <a href=\"https://cydia.akemi.ai/?page/ai.akemi.appsyncunified\">AppSync</a> 安装。内购破解并不能用，还需要研究一下... 等期中作文和考试结束再写一个详细的技术 writeup 吧。\n\n好讨厌「互联网的记忆」——某种意义上互联网的记忆没有边界，我的一举一动，从一个广告点击到账户注册时填的名字，都会被永远记录在世界各地的数据库和日志里，等着被利用；可是它又无比脆弱，有无数美好的事物被无穷尽的信息流盖过、堆在 404 和 NXDomain 的废墟里被遗忘。互联网就是这样的地方吧，想要消失的都留下、想要留下的都消失了。所以想要把整个互联网备份到硬盘里...",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "reply": {
       "id": 1902,
@@ -25367,7 +25367,7 @@
     "id": 1906,
     "date": "2023-03-06T06:07:20",
     "text": "呜 还是要接受自己只是一个平庸的人，并没有精力做好所有事情——即使有最好的时间管理也并不能同时做好学校的事情三年毕业、把所有奇思妙想实现出来、入坑硬件设计、做料理、学板绘、扒谱练琴、看番读书...\n\n<span class=\"spoiler\"><span>我每天都有 ∞ 件事想做、明明做了 c 件事，却会因为没有做 ∞ - c 件事而自卑，好无理</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n和聊聊谈了决定把期中作文已经 overdue 的那门课 Drop 掉了。明明是最简单的性别研究科，好丢人，这下大概不能三年毕业了呢，这学期只剩下四门课了。技能池也都点乱了呢... <span class=\"spoiler\"><span>好想 reset</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 1,
     "reply": {
       "id": 1903,
@@ -25378,7 +25378,7 @@
     "id": 1907,
     "date": "2023-03-06T21:33:00",
     "text": "<a href=\"##今天聊聊不在家\">#今天聊聊不在家</a>\n看冰箱里葱要坏掉了就做了葱油扮面！放了四勺生抽和两勺糖，是高钠高油高糖的不健康食物呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13425107040140629,
     "images": [
@@ -48037,7 +48037,7 @@
     "id": 3521,
     "date": "2024-03-26T16:34:46",
     "text": "补一些这个桌子的制作过程 qwq",
-    "views": 38,
+    "views": 40,
     "forwards": 0,
     "media_group_id": 13691767093505581,
     "images": [
@@ -48117,7 +48117,7 @@
     "id": 3529,
     "date": "2024-03-27T09:08:50",
     "text": "我我要撤回一年前的话\n\n一年前刚看到 WS2812 灯的时候觉得这个设计好天才，一根数据线就可以控制无数个灯... 现在拼了 Wacca 框才发现问题所在。Wacca 这才刚发布五年的游戏，现在到处都能看到坏掉的 LED，或者说我玩过的 Wacca 框没有一个是 LED 没坏的。\n\n为什么呢？因为 WS2812 只有一条数据线，没有冗余，就像 RAID0 一样。如果一个灯坏了，后面的所有灯都收不到数据。也就是说像 Wacca 这样把 480 个灯连在一起的话，损坏概率就会比一个单独的灯要高 480 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 我的这台就已经有五个坏了，然而坏了一个就必须马上换\n\n刚刚去嘉立创花 ￥1334 订了两百片 Wacca 的 LED 替换板。替换版用了 WS2813，比 2812 多了两条用来冗余的线，即使一个灯坏了剩下的也可以正常工作。\n\n（不过这种 LED 真的好难处理... 今天才知道焊 LED 之前必须 75°C 烘烤两天 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 不然焊的时候真空膜里面湿度蒸发膨胀会让真空膜破损提高损坏率... 所以原来我之前一直都焊错了 ;-;",
-    "views": 22,
+    "views": 27,
     "forwards": 0,
     "media_group_id": 13692244244815709,
     "images": [
