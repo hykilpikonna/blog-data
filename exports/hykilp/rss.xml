@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 Mar 2024 08:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 10:09:25 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3533</title>
+      <link>https://aza.moe/life?post=3533</link>
+      <description>&lt;p&gt;呜 之前发现在 5600XT 上跑 Wacca 会让谱面时间错位，音乐放完十秒之后谱面才结束。&lt;/p&gt;
+&lt;p&gt;研究了一下发现这个游戏居然是靠逐帧时间来同步谱面速度的... 也就是说显卡慢了的话谱面速度也会慢 🤯 为什么才五年前的游戏还在用这么原始的时间同步方式我也想知道（&lt;/p&gt;
+&lt;p&gt;所以解决这个问题的方法是在显卡驱动里设置固定帧率模式（AMD FRTC）然后谱面才能和音频同步... 但是固定帧率的问题是，在显卡跟不上的时候不会降低帧率而是会直接跳过渲染下一帧，然后画面就突然降到 30fps &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;呜呜 Wacca 真的是我跑过最吃性能的游戏了... 然而吃性能的原因纯粹是因为优化差。我的 6700XT 能带动 1080p60 的博德之门3却带不动 Wacca &lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt; 呜呜呜&lt;/p&gt;</description>
+      <guid isPermaLink="false">3533</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3532</title>
       <link>https://aza.moe/life?post=3532</link>
