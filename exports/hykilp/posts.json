@@ -47895,7 +47895,7 @@
     "id": 3510,
     "date": "2024-03-23T09:18:29",
     "text": "<a href=\"##wactroller\">#wactroller</a> 搭好了！",
-    "views": 71,
+    "views": 72,
     "forwards": 1,
     "media_group_id": 13689484078512421,
     "images": [
@@ -47995,7 +47995,7 @@
     "id": 3519,
     "date": "2024-03-26T02:45:31",
     "text": "<a href=\"##wactroller\">#wactroller</a> 全都搭好之后打的第一个币",
-    "views": 78,
+    "views": 79,
     "forwards": 3,
     "files": [
       {
@@ -48161,7 +48161,7 @@
     "id": 3532,
     "date": "2024-03-27T16:33:00",
     "text": "我又用 Vyvanse 通宵撑过了一场考试，现在中午十二点了还完全不困哇，感觉也许用这个药真的能让一天多出几个小时\n\n...还有不到 20 天就要去演讲了，期末感觉事情好多忙不过来，要不要先把街机的事情放一放呢？<span class=\"spoiler\"><span>但是总感觉我让私服的 momentum 停下来就会很对不起社区的期待... 想认真做一个完整的项目，想把它和我以前写到一半就放下的项目区分开，感觉即使是暂时放下就会和以前一样被时间诅咒</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 49,
+    "views": 51,
     "forwards": 1,
     "images": [
       {
@@ -48180,7 +48180,7 @@
     "id": 3533,
     "date": "2024-03-29T09:25:35",
     "text": "呜 之前发现在 5600XT 上跑 Wacca 会让谱面时间错位，音乐放完十秒之后谱面才结束。\n\n研究了一下发现这个游戏居然是靠逐帧时间来同步谱面速度的... 也就是说显卡慢了的话谱面速度也会慢 🤯 为什么才五年前的游戏还在用这么原始的时间同步方式我也想知道（\n\n所以解决这个问题的方法是在显卡驱动里设置固定帧率模式（AMD FRTC）然后谱面才能和音频同步... 但是固定帧率的问题是，在显卡跟不上的时候不会降低帧率而是会直接跳过渲染下一帧，然后画面就突然降到 30fps <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n呜呜 Wacca 真的是我跑过最吃性能的游戏了... 然而吃性能的原因纯粹是因为优化差。我的 6700XT 能带动 1080p60 的博德之门3却带不动 Wacca <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 呜呜呜",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "reply": {
       "id": 3519,
@@ -48203,7 +48203,7 @@
     "id": 3534,
     "date": "2024-03-29T23:34:07",
     "text": "拿到签证了！不过即使提交了刚刚拍的照片，领事馆还是用了我护照上的照片... <del>打开还愣了一下以为发错了，过一会才反应过来好像确实是我</del>\n\n以及查询签证文件的网站上输入英文名字居然是按亚洲习惯用 \"姓 名\" 的格式收录的，我习惯性地打了 \"名 姓\" 结果没查到... 好久没有这样写过名字了，感觉自己被 whitewash 好严重 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 46,
+    "views": 47,
     "forwards": 0,
     "reply": {
       "id": 3476,
@@ -48215,7 +48215,7 @@
     "id": 3535,
     "date": "2024-03-30T01:52:27",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 给私服写了 Wacca 支持！总共花了两天\n\n（虽然还有一些 bug 但是大部分功能已经能用了 qwq",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "reply": {
       "id": 3519,
@@ -48238,18 +48238,42 @@
     "id": 3536,
     "date": "2024-03-30T03:59:17",
     "text": "聊聊：一会你去报税吧\n我：好，我去暴睡了，明早叫我 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 46,
+    "views": 48,
     "forwards": 0
   },
   {
     "id": 3537,
     "date": "2024-03-30T19:07:47",
     "text": "呜 结果从凌晨两点睡到了下午三点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 爆肝代码没有睡的觉还是要补的...",
-    "views": 29,
+    "views": 36,
     "forwards": 0,
     "reply": {
       "id": 3536,
       "text": "聊聊：一会你去报税吧\n我：好，我去暴睡了，明早叫我 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>"
     }
+  },
+  {
+    "id": 3538,
+    "date": "2024-03-31T03:20:41",
+    "views": 20,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2022-07-02T09:27:58",
+        "width": 512,
+        "height": 484,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "🏳️‍⚧️",
+        "set_name": "InvisiblePride",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/3538.webp",
+        "size": 25240,
+        "thumb": "media/3538.webp_thumb.jpg"
+      }
+    ]
   }
 ]
