@@ -48180,7 +48180,7 @@
     "id": 3533,
     "date": "2024-03-29T09:25:35",
     "text": "呜 之前发现在 5600XT 上跑 Wacca 会让谱面时间错位，音乐放完十秒之后谱面才结束。\n\n研究了一下发现这个游戏居然是靠逐帧时间来同步谱面速度的... 也就是说显卡慢了的话谱面速度也会慢 🤯 为什么才五年前的游戏还在用这么原始的时间同步方式我也想知道（\n\n所以解决这个问题的方法是在显卡驱动里设置固定帧率模式（AMD FRTC）然后谱面才能和音频同步... 但是固定帧率的问题是，在显卡跟不上的时候不会降低帧率而是会直接跳过渲染下一帧，然后画面就突然降到 30fps <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n呜呜 Wacca 真的是我跑过最吃性能的游戏了... 然而吃性能的原因纯粹是因为优化差。我的 6700XT 能带动 1080p60 的博德之门3却带不动 Wacca <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 呜呜呜",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "reply": {
       "id": 3519,
@@ -48255,7 +48255,7 @@
   {
     "id": 3538,
     "date": "2024-03-31T03:20:41",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "files": [
       {
@@ -48280,7 +48280,7 @@
     "id": 3539,
     "date": "2024-03-31T09:49:09",
     "text": "呜 花了六个小时报美国的税。人生第一次报税，好麻烦好麻烦好麻烦\n\n刚开始用了 SprinTax 结果提交的时候没有报成功，也没有重试的选项，说要手动邮寄... 但是现在从加拿大寄过去太晚了，结果又用 OLT 全部重新填了一遍。\n\n但是其实我能退到的税大部分都在 FICA (Social Security 和 Medicare) 上，而这两项的退税表 843 和 8316 必须邮寄，而且还必须在提交税表之前先问雇主能不能退... 然后就发了一封邮件，不知道还来不来得及",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -48299,14 +48299,14 @@
     "id": 3540,
     "date": "2024-03-31T10:14:52",
     "text": "刚才我外放听了 Ryu☆ 的 I'm so happy 然后聊聊听到突然在我后背上打起了它的 jubeat 谱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<a href=\"##一键查询精神状态\">#一键查询精神状态</a>",
-    "views": 46,
+    "views": 48,
     "forwards": 0
   },
   {
     "id": 3541,
     "date": "2024-03-31T15:41:30",
     "text": "刚刚读了一篇关于 xz-util 攻击者接手流程的文章... 感觉如果是我也完全会中招 <a href=\"https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/\">https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/</a>\n\n开源软件的社区有时候真的很有害。明明我写软件最初只是为了实现自己的需求，开源只是为了帮到正好有同样需求的人而已，但是某些人的话术总会让我觉得如果我不同时实现别人的需求就会很对不起我维护的社区... 在这个环境呆久了自己也会下意识地去 PUA 自己——即使只是有人提了一嘴想要某个功能我也想把它赶快做出来，结果就是无论什么时候我都在要被累坏的边缘。\n\n还有 14 天就要飞走了，还需要准备期末和演讲，感觉现在大概是时候暂停一下满足别人的心情专心准备自己的事情了。",
-    "views": 42,
+    "views": 46,
     "forwards": 0,
     "reply": {
       "id": 3532,
@@ -48317,7 +48317,7 @@
     "id": 3542,
     "date": "2024-04-01T03:32:07",
     "text": "又去当猫猫了 qwq",
-    "views": 30,
+    "views": 37,
     "forwards": 1,
     "media_group_id": 13695538616576757,
     "images": [
@@ -48350,6 +48350,25 @@
         "url": "media/3544.jpg",
         "size": 669344,
         "thumb": "media/3544.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3545,
+    "date": "2024-04-01T08:37:21",
+    "text": "奶子在和我说愚人节快乐 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
+    "views": 24,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1440,
+        "height": 1713,
+        "date": "2024-04-01T08:37:21",
+        "media_type": "photo",
+        "original_name": "photo_2024-04-01_08-37-21.jpg",
+        "url": "media/3545.jpg",
+        "size": 186647,
+        "thumb": "media/3545.jpg_thumb.jpg"
       }
     ]
   }
