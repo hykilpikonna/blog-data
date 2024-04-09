@@ -47714,7 +47714,7 @@
     "id": 3496,
     "date": "2024-03-20T04:42:35",
     "text": "今天给 Kotlin 开了一个 <a href=\"https://github.com/JetBrains/kotlin/pull/5278\">PR</a>！第一次给这么大的项目开 PR，好开心\n\n起因是，在给我的私服写导入数据的功能的时候测速发现 <code>str.lines()</code> 好慢，然后发现它的实现方法是 <code>str.split(\"\\r\\n\", \"\\n\", \"\\r\")</code>，但是 split 多个子字符串是一个复杂的运算\n\n试试改成先把所有换行符替换成 <code>\\n</code> 再 <code>split('\\n')</code> 之后速度直接提升了 7 倍，好耶 qwq",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13687278046831213,
     "images": [
@@ -48383,7 +48383,7 @@
     "id": 3547,
     "date": "2024-04-02T06:39:41",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 服务器端全曲目/角色/收集品/跑图券解锁！",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -48402,7 +48402,7 @@
     "id": 3548,
     "date": "2024-04-02T07:32:05",
     "text": "<del>这也能蓝粉白？</del>",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
