@@ -1273,7 +1273,7 @@
     "id": 124,
     "date": "2021-10-16T16:57:39",
     "text": "做了牛肉粉丝汤！\n第一次炖肉w",
-    "views": 93,
+    "views": 94,
     "forwards": 2,
     "media_group_id": 13075227673535645,
     "images": [
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 491,
+    "views": 495,
     "forwards": 11,
     "images": [
       {
@@ -48439,7 +48439,7 @@
     "id": 3551,
     "date": "2024-04-03T16:04:23",
     "text": "xz 的事情之后想了想去给很自己喜欢的工具的作者点了一些 sponsor... 虽然似乎每人每月 $5 也没办法改变什么。可惜自己没有收入没办法捐助更多了",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "reply": {
       "id": 3541,
@@ -48540,7 +48540,7 @@
     "id": 3557,
     "date": "2024-04-06T11:39:09",
     "text": "试试让 DALL-E 把蓝粉星夜的这个想法画出来结果真的画得好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 7,
     "reply": {
       "id": 2671,
@@ -48564,7 +48564,7 @@
     "id": 3558,
     "date": "2024-04-06T19:29:40",
     "text": "整理下房间把这两台放在一起，感觉有一种异曲同工的妙（？）",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -48648,7 +48648,7 @@
     "id": 3563,
     "date": "2024-04-07T07:57:55",
     "text": "土豆草莓（？）",
-    "views": 81,
+    "views": 85,
     "forwards": 1,
     "images": [
       {
@@ -48667,14 +48667,14 @@
     "id": 3564,
     "date": "2024-04-07T22:17:54",
     "text": "哭了 感觉可能是填报税用的某个网站被黑了。\n\n报完税这两天突然有好多诈骗电话打进来用我的 legal name 诈骗，今天有一个假装是 Telus 运营商的人中文跟我说我发太多短信了要给我停机（？？）而且因为我和聊聊是一起报的税，同一个诈骗号码给我和聊聊都打了电话。\n\n我填过信息的报税网站有 TurboTax (US/CA), WealthSimple, OLT, Sprintax, 不知道是哪个被黑了（应该是加拿大这边的所以我猜是 TurboTax",
-    "views": 62,
+    "views": 63,
     "forwards": 0
   },
   {
     "id": 3565,
     "date": "2024-04-08T07:08:48",
     "text": "哭哭 今天 OS 课作业要写一个分布式内存 KV 数据库，写完发现本地跑测试会超时... 我以为是我写的代码优化太差了花一个小时用 VTune 测速，发现除了内存没有别的地方瓶颈，CPU 使用率只有 0.1%\n\n连上学校机器上跑一下同样的代码果然比在我本地的机器快了五倍... 唉 DDR3 在 2024 年真的不行了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 63,
+    "views": 64,
     "forwards": 2,
     "images": [
       {
@@ -48693,14 +48693,14 @@
     "id": 3566,
     "date": "2024-04-08T14:34:26",
     "text": "出发去看日食了 qwq",
-    "views": 59,
+    "views": 60,
     "forwards": 0
   },
   {
     "id": 3567,
     "date": "2024-04-08T19:12:21",
     "text": "是一个用手机对着太阳拍的傻瓜",
-    "views": 54,
+    "views": 56,
     "forwards": 0,
     "files": [
       {
@@ -48722,7 +48722,7 @@
     "id": 3568,
     "date": "2024-04-08T19:33:19",
     "text": "好看！",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "media_group_id": 13700838399361029,
     "images": [
@@ -48752,7 +48752,7 @@
     "id": 3570,
     "date": "2024-04-08T19:56:45",
     "text": "和前任和现任和前任的现任一起去了！好热闹好开心",
-    "views": 57,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13700849643192773,
     "images": [
@@ -48801,7 +48801,7 @@
   {
     "id": 3574,
     "date": "2024-04-10T20:58:11",
-    "views": 31,
+    "views": 35,
     "forwards": 0,
     "files": [
       {
@@ -48819,6 +48819,46 @@
         "url": "media/3574.webm",
         "size": 95698,
         "thumb": "media/3574.webm_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3575,
+    "date": "2024-04-12T13:46:41",
+    "text": "刚刚起床看到了 Fabrice Bellard 新发布的 <a href=\"https://bellard.org/tsac\">TSAC</a> 音频编码，是一个用二进制语言重写、为了实际应用优化过的 <a href=\"https://arxiv.org/abs/2306.06546\">DAC</a> neural codec，真的没想到去年六月刚 preprint 的论文今年就能见到实际应用了！\n\n我去年的研究里还用到了 DAC 来着，当时这个东西几乎是所有向量模型里最重的一个，即是双通道、每帧尺寸和帧频率也都很大... 导致这一个模型存下来的矢量 npy 几乎和所有其他模型加起来一样大了（还存了一张加载矢量的时候非常壮观的 btop）\n\n不过看上去 TSAC 解决了很多它的问题，转 8bit 把模型权重减轻了不少，也不需要依赖复杂的 python 环境运行了。好期待哪天 Bellard 能把它整合进 ffmpeg qwq",
+    "views": 15,
+    "forwards": 0,
+    "media_group_id": 13703436811200701,
+    "images": [
+      {
+        "width": 1280,
+        "height": 378,
+        "date": "2024-04-12T13:46:39",
+        "media_type": "photo",
+        "original_name": "photo_2024-04-12_13-46-39.jpg",
+        "url": "media/3575.jpg",
+        "size": 57177,
+        "thumb": "media/3575.jpg_thumb.jpg"
+      },
+      {
+        "width": 800,
+        "height": 358,
+        "date": "2024-04-12T13:46:40",
+        "media_type": "photo",
+        "original_name": "photo_2024-04-12_13-46-40.jpg",
+        "url": "media/3576.jpg",
+        "size": 38346,
+        "thumb": "media/3576.jpg_thumb.jpg"
+      },
+      {
+        "width": 1252,
+        "height": 536,
+        "date": "2024-04-12T13:46:40",
+        "media_type": "photo",
+        "original_name": "photo_2024-04-12_13-46-40.jpg",
+        "url": "media/3577.jpg",
+        "size": 197216,
+        "thumb": "media/3577.jpg_thumb.jpg"
       }
     ]
   }
