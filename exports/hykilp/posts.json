@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7053,
+    "views": 7054,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -45115,7 +45115,8 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480
+        "size": 39480,
+        "thumb": "media/3328.webm_thumb.jpg"
       }
     ]
   },
@@ -48539,7 +48540,7 @@
     "id": 3557,
     "date": "2024-04-06T11:39:09",
     "text": "试试让 DALL-E 把蓝粉星夜的这个想法画出来结果真的画得好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 233,
+    "views": 234,
     "forwards": 7,
     "reply": {
       "id": 2671,
@@ -48563,7 +48564,7 @@
     "id": 3558,
     "date": "2024-04-06T19:29:40",
     "text": "整理下房间把这两台放在一起，感觉有一种异曲同工的妙（？）",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -48692,7 +48693,7 @@
     "id": 3566,
     "date": "2024-04-08T14:34:26",
     "text": "出发去看日食了 qwq",
-    "views": 83,
+    "views": 84,
     "forwards": 0
   },
   {
@@ -48751,7 +48752,7 @@
     "id": 3570,
     "date": "2024-04-08T19:56:45",
     "text": "和前任和现任和前任的现任一起去了！好热闹好开心",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13700849643192773,
     "images": [
@@ -48800,7 +48801,7 @@
   {
     "id": 3574,
     "date": "2024-04-10T20:58:11",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "files": [
       {
@@ -48825,7 +48826,7 @@
     "id": 3575,
     "date": "2024-04-12T13:46:41",
     "text": "刚刚起床看到了 Fabrice Bellard 新发布的 <a href=\"https://bellard.org/tsac\">TSAC</a> 音频编码，是一个用二进制语言重写、为了实际应用优化过的 <a href=\"https://arxiv.org/abs/2306.06546\">DAC</a> neural codec，真的没想到去年六月刚 preprint 的论文今年就能见到实际应用了！\n\n我去年的研究里还用到了 DAC 来着，当时这个东西几乎是所有向量模型里最重的一个，即是双通道、每帧尺寸和帧频率也都很大... 导致这一个模型存下来的矢量 npy 几乎和所有其他模型加起来一样大了（还存了一张加载矢量的时候非常壮观的 btop）\n\n不过看上去 TSAC 解决了很多它的问题，转 8bit 把模型权重减轻了不少，也不需要依赖复杂的 python 环境运行了。好期待哪天 Bellard 能把它整合进 ffmpeg qwq",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13703436811200701,
     "images": [
@@ -48907,7 +48908,7 @@
     "id": 3581,
     "date": "2024-04-15T22:29:26",
     "text": "电源插座\n\nUS / Canada: ☹️\nEU: 😶\nDenmark: 🙂",
-    "views": 73,
+    "views": 74,
     "forwards": 1
   },
   {
@@ -49084,7 +49085,7 @@
     "id": 3595,
     "date": "2024-04-21T07:07:56",
     "text": "到家了！\n\n路上遇到了好多不幸的事情，想和 Robin 约饭结果不在同一个航站楼、安检的时候因为我买机票在护照名字后面加上了 preferred name 被拦下来了、然后到温哥华转机因为飞机上一个厕所坏了没人知道怎么修，剩下的厕所数量又达不到起飞需要的法律标准所以延误了 4.25 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n这是大数定律在起作用吗，前几天运气太好了（x",
-    "views": 31,
+    "views": 33,
     "forwards": 0,
     "media_group_id": 13709466209245173,
     "images": [
