@@ -18633,7 +18633,7 @@
     "id": 1451,
     "date": "2022-11-03T05:55:14",
     "text": "写了一个让 Yubikey 插上电脑能无密码解锁的 python 脚本！\n\n工作原理是监听 USB 设备，插上/移除 USB 设备的时候调用 ykman 的输出，检测序列号来判断是不是我的 yubikey。如果是就 passwd -d 把密码删掉，如果检测不到就 chpasswd 把密码设回去，很简单粗暴 qwq\n\n（用这个脚本的话记得先 visudo 给你的用户加上 NOPASSWD:ALL，不然的话没密码是不能 sudo 的哦",
-    "views": 586,
+    "views": 587,
     "forwards": 5,
     "images": [
       {
