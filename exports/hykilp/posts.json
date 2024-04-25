@@ -49221,7 +49221,7 @@
     "id": 3605,
     "date": "2024-04-25T14:26:36",
     "text": "呜呜 不小心把自己的 bot token 公开了，感觉好丢人\n\n昨天晚上聊聊 Telegram 上突然收到了好多莫名其妙的消息，来自我们的 TG Bot... 这个 Bot 原本是用来发通知的，比如说写需要挂机的脚本的时候通常会在结尾加一个 tg 消息通知什么的，但是这些消息明显不是我们发的，怎么回事呢？\n\n查了查 GitHub 发现是我一两年前把它推到私有库里了，然后过了很久整理仓库的时候忘记这里有 token 就把仓库公开了，然后用 GitGuardian 扫了一遍发现还有几个其他的仓库也有同样的情况... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以后公开仓库之前一定要记得扫描一遍 token ;-;",
-    "views": 43,
+    "views": 44,
     "forwards": 0,
     "media_group_id": 13712441574874101,
     "images": [
@@ -49251,14 +49251,14 @@
     "id": 3607,
     "date": "2024-04-25T16:40:28",
     "text": "<a href=\"https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/\">The Story of AI Graphics at JetBrains</a>\nAlso: <a href=\"https://cai.jetbrains.com/\">Computational Arts Initiative</a>\n\n看完这篇 Blog 我真的好爱 JetBrains。每一年 IDEA 的启动画面都是精心调制的广义 AI 图形，从以前的随机粒子生成，到 2020 的 CPPN 网络，再到 2023 年的 Stable Diffusion LoRA... 明明只是一个启动画面的一张图，这种没有功能性、甚至很少人会注意到的细节却花了这么多精力探索 qwq\n\n感觉能让大家在这种细节或者说好奇心上花时间的公司好棒，真希望这样的公司能多一些呀...",
-    "views": 28,
-    "forwards": 1
+    "views": 31,
+    "forwards": 2
   },
   {
     "id": 3608,
     "date": "2024-04-25T17:27:31",
     "text": "好玩 qwq\n\n（<a href=\"https://code2art.jetbrains.com/#509ffabc\">https://code2art.jetbrains.com/#509ffabc</a>",
-    "views": 18,
+    "views": 23,
     "forwards": 1,
     "reply": {
       "id": 3607,
