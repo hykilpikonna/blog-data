@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Apr 2024 14:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 16:10:06 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #3605</title>
+      <link>https://aza.moe/life?post=3605</link>
+      <description>&lt;p&gt;呜呜 不小心把自己的 bot token 公开了，感觉好丢人&lt;/p&gt;
+&lt;p&gt;昨天晚上聊聊 Telegram 上突然收到了好多莫名其妙的消息，来自我们的 TG Bot... 这个 Bot 原本是用来发通知的，比如说写需要挂机的脚本的时候通常会在结尾加一个 tg 消息通知什么的，但是这些消息明显不是我们发的，怎么回事呢？&lt;/p&gt;
+&lt;p&gt;查了查 GitHub 发现是我一两年前把它推到私有库里了，然后过了很久整理仓库的时候忘记这里有 token 就把仓库公开了，然后用 GitGuardian 扫了一遍发现还有几个其他的仓库也有同样的情况... &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;以后公开仓库之前一定要记得扫描一遍 token ;-;&lt;/p&gt;</description>
+      <guid isPermaLink="false">3605</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #3604</title>
       <link>https://aza.moe/life?post=3604</link>

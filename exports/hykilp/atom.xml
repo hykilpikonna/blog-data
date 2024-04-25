@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-04-25T14:09:20.646792+00:00</updated>
+  <updated>2024-04-25T16:10:06.046107+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3605</id>
+    <title>小桂桂的回忆录 📒 #3605</title>
+    <updated>2024-04-25T14:26:36+00:00</updated>
+    <content>&lt;p&gt;呜呜 不小心把自己的 bot token 公开了，感觉好丢人&lt;/p&gt;
+&lt;p&gt;昨天晚上聊聊 Telegram 上突然收到了好多莫名其妙的消息，来自我们的 TG Bot... 这个 Bot 原本是用来发通知的，比如说写需要挂机的脚本的时候通常会在结尾加一个 tg 消息通知什么的，但是这些消息明显不是我们发的，怎么回事呢？&lt;/p&gt;
+&lt;p&gt;查了查 GitHub 发现是我一两年前把它推到私有库里了，然后过了很久整理仓库的时候忘记这里有 token 就把仓库公开了，然后用 GitGuardian 扫了一遍发现还有几个其他的仓库也有同样的情况... &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;以后公开仓库之前一定要记得扫描一遍 token ;-;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3605" rel="alternate"/>
+  </entry>
   <entry>
     <id>3604</id>
     <title>小桂桂的回忆录 📒 #3604</title>
