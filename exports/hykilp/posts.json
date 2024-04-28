@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 108,
+    "views": 109,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 112,
+    "views": 113,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 99,
+    "views": 100,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -48280,7 +48280,7 @@
     "id": 3539,
     "date": "2024-03-31T09:49:09",
     "text": "呜 花了六个小时报美国的税。人生第一次报税，好麻烦好麻烦好麻烦\n\n刚开始用了 SprinTax 结果提交的时候没有报成功，也没有重试的选项，说要手动邮寄... 但是现在从加拿大寄过去太晚了，结果又用 OLT 全部重新填了一遍。\n\n但是其实我能退到的税大部分都在 FICA (Social Security 和 Medicare) 上，而这两项的退税表 843 和 8316 必须邮寄，而且还必须在提交税表之前先问雇主能不能退... 然后就发了一封邮件，不知道还来不来得及",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -48299,7 +48299,7 @@
     "id": 3540,
     "date": "2024-03-31T10:14:52",
     "text": "刚才我外放听了 Ryu☆ 的 I'm so happy 然后聊聊听到突然在我后背上打起了它的 jubeat 谱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<a href=\"##一键查询精神状态\">#一键查询精神状态</a>",
-    "views": 88,
+    "views": 89,
     "forwards": 0
   },
   {
@@ -48866,7 +48866,7 @@
     "id": 3578,
     "date": "2024-04-13T04:28:59",
     "text": "然后刚刚补 OS 课的时候看到有 1997 年论文里提到的概念 2023 年才有人实现出来给 Linux 开 PR...\n\n不同领域研究和应用的距离好不一样",
-    "views": 96,
+    "views": 97,
     "forwards": 1,
     "reply": {
       "id": 3575,
@@ -48890,14 +48890,14 @@
     "id": 3579,
     "date": "2024-04-13T16:21:33",
     "text": "考完了 OS，明天就要飞走了还有好多要准备...",
-    "views": 90,
+    "views": 91,
     "forwards": 1
   },
   {
     "id": 3580,
     "date": "2024-04-14T08:43:41",
     "text": "出发六个小时前我在床上和聊聊聊天 be like\n：呜呜呜再过几个小时就见不到聊聊了\n：你要每天给我打电话哦\n：不行，每小时！\n：不行不行，每分钟！每秒！每毫秒！\n：<del>每毫秒给我打一个电话，如果超时五次就会被分布式进程管理器鉴定为卡住了杀掉重开哦</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "reply": {
       "id": 3579,
@@ -49085,7 +49085,7 @@
     "id": 3595,
     "date": "2024-04-21T07:07:56",
     "text": "到家了！\n\n路上遇到了好多不幸的事情，想和 Robin 约饭结果不在同一个航站楼、安检的时候因为我买机票在护照名字后面加上了 preferred name 被拦下来了、然后到温哥华转机因为飞机上一个厕所坏了没人知道怎么修，剩下的厕所数量又达不到起飞需要的法律标准所以延误了 4.25 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n这是大数定律在起作用吗，前几天运气太好了（x",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13709466209245173,
     "images": [
@@ -49135,14 +49135,14 @@
     "id": 3599,
     "date": "2024-04-23T02:40:35",
     "text": "icassp 刚结束就要赶回来考试好累，不过刚通宵一天复习考完了 373 算法感觉考得不错。还剩最后一个考试就结束了，是去年落下的 369 intro OS qwq",
-    "views": 67,
+    "views": 69,
     "forwards": 0
   },
   {
     "id": 3600,
     "date": "2024-04-23T07:12:58",
     "text": "想下载课件但是这门课没有开导出功能怎么办？\n\n花十分钟手动下载 ❌\n花半个小时写一个爬虫 ✅",
-    "views": 69,
+    "views": 70,
     "forwards": 1,
     "images": [
       {
@@ -49251,7 +49251,7 @@
     "id": 3607,
     "date": "2024-04-25T16:40:28",
     "text": "<a href=\"https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/\">The Story of AI Graphics at JetBrains</a>\nAlso: <a href=\"https://cai.jetbrains.com/\">Computational Arts Initiative</a>\n\n看完这篇 Blog 我真的好爱 JetBrains。每一年 IDEA 的启动画面都是精心调制的广义 AI 图形，从以前的随机粒子生成，到 2020 的 CPPN 网络，再到 2023 年的 Stable Diffusion LoRA... 明明只是一个启动画面的一张图，这种没有功能性、甚至很少人会注意到的细节却花了这么多精力探索 qwq\n\n感觉能让大家在这种细节或者说好奇心上花时间的公司好棒，真希望这样的公司能多一些呀...",
-    "views": 52,
+    "views": 54,
     "forwards": 2
   },
   {
@@ -49281,7 +49281,7 @@
     "id": 3609,
     "date": "2024-04-27T01:47:40",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n朋友来玩所以做了卤肉（和）饭！",
-    "views": 45,
+    "views": 47,
     "forwards": 0,
     "media_group_id": 13713459686104165,
     "images": [
@@ -49311,7 +49311,7 @@
     "id": 3611,
     "date": "2024-04-28T01:01:56",
     "text": "第一次想要在 Twitter 上 publicize 一件事情，感觉自己在学着别人用 Twitter 语气说话，但是似乎学得不是很好呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n看了猪猪和书的建议改了改才感觉更像是会在 Twitter 上看到的风格了。唉这真的好不像我，但是希望这样可以让更多人知道这件事情...\n\n<a href=\"https://twitter.com/Hykilpikonna/status/1784382363855679844\">Link</a>",
-    "views": 32,
+    "views": 44,
     "forwards": 2,
     "images": [
       {
