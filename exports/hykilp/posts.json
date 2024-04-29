@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7060,
+    "views": 7061,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -41239,14 +41239,14 @@
     "id": 3053,
     "date": "2023-12-22T09:11:04",
     "text": "又发生了睡觉 deadlock，我在等聊聊睡觉的时候聊聊在等我睡觉，结果就到凌晨四点了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 2
   },
   {
     "id": 3054,
     "date": "2023-12-22T23:19:55",
     "text": "更新完了！<a href=\"https://github.com/hykilpikonna/AquaDX\">AquaDX</a> 和 <a href=\"lux.hydev.org\">lux.hydev.org</a> 都支持中二 SUN Plus 了！所有数据也都同步了哦",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "media_group_id": 13626297563827117,
     "images": [
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,14 +41322,14 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 113,
+    "views": 114,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 100,
+    "views": 101,
     "forwards": 0
   },
   {
@@ -48540,7 +48540,7 @@
     "id": 3557,
     "date": "2024-04-06T11:39:09",
     "text": "试试让 DALL-E 把蓝粉星夜的这个想法画出来结果真的画得好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 7,
     "reply": {
       "id": 2671,
@@ -48801,7 +48801,7 @@
   {
     "id": 3574,
     "date": "2024-04-10T20:58:11",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "files": [
       {
@@ -48826,7 +48826,7 @@
     "id": 3575,
     "date": "2024-04-12T13:46:41",
     "text": "刚刚起床看到了 Fabrice Bellard 新发布的 <a href=\"https://bellard.org/tsac\">TSAC</a> 音频编码，是一个用二进制语言重写、为了实际应用优化过的 <a href=\"https://arxiv.org/abs/2306.06546\">DAC</a> neural codec，真的没想到去年六月刚 preprint 的论文今年就能见到实际应用了！\n\n我去年的研究里还用到了 DAC 来着，当时这个东西几乎是所有向量模型里最重的一个，即是双通道、每帧尺寸和帧频率也都很大... 导致这一个模型存下来的矢量 npy 几乎和所有其他模型加起来一样大了（还存了一张加载矢量的时候非常壮观的 btop）\n\n不过看上去 TSAC 解决了很多它的问题，转 8bit 把模型权重减轻了不少，也不需要依赖复杂的 python 环境运行了。好期待哪天 Bellard 能把它整合进 ffmpeg qwq",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13703436811200701,
     "images": [
@@ -49135,14 +49135,14 @@
     "id": 3599,
     "date": "2024-04-23T02:40:35",
     "text": "icassp 刚结束就要赶回来考试好累，不过刚通宵一天复习考完了 373 算法感觉考得不错。还剩最后一个考试就结束了，是去年落下的 369 intro OS qwq",
-    "views": 81,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 3600,
     "date": "2024-04-23T07:12:58",
     "text": "想下载课件但是这门课没有开导出功能怎么办？\n\n花十分钟手动下载 ❌\n花半个小时写一个爬虫 ✅",
-    "views": 82,
+    "views": 83,
     "forwards": 1,
     "images": [
       {
@@ -49161,7 +49161,7 @@
     "id": 3601,
     "date": "2024-04-23T22:02:57",
     "text": "考完了... 感觉可能考不到 50%\n\n去年期末考试的那天发烧所以 defer 掉了，原本以为补考会很容易... 没想到要到这个学期末才能补考，和今年的同学考一样的卷子。但是今年换了教授而且他把所有课程内容重新规划了一遍，和去年的内容有好多不一样，有好多没见过的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n还有些题是按今年作业出的，说 “recall in A1...” 什么的，但是我没做过今年的 A1 呀 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>",
-    "views": 74,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 3599,
@@ -49184,14 +49184,14 @@
     "id": 3602,
     "date": "2024-04-24T06:52:36",
     "text": "<a href=\"##TIL\">#TIL</a> 今天刚知道原来上海是直辖市\n\n之前一直以为上海是省，苏州和上海市在上海省 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 139,
+    "views": 146,
     "forwards": 8
   },
   {
     "id": 3603,
     "date": "2024-04-24T20:33:25",
     "text": "在走廊里听到很大的风声来自这个小东西，还在想是给什么东西的散热器，然后发现是专门用来放风声白噪音的小喇叭 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 69,
+    "views": 78,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -49214,14 +49214,14 @@
     "id": 3604,
     "date": "2024-04-25T02:45:35",
     "text": "EMS 国际快递只能填英文地址太坏了，刚才收到了快递员的电话似乎看不懂用英文写的国内地址呢... <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 64,
+    "views": 67,
     "forwards": 0
   },
   {
     "id": 3605,
     "date": "2024-04-25T14:26:36",
     "text": "呜呜 不小心把自己的 bot token 公开了，感觉好丢人\n\n昨天晚上聊聊 Telegram 上突然收到了好多莫名其妙的消息，来自我们的 TG Bot... 这个 Bot 原本是用来发通知的，比如说写需要挂机的脚本的时候通常会在结尾加一个 tg 消息通知什么的，但是这些消息明显不是我们发的，怎么回事呢？\n\n查了查 GitHub 发现是我一两年前把它推到私有库里了，然后过了很久整理仓库的时候忘记这里有 token 就把仓库公开了，然后用 GitGuardian 扫了一遍发现还有几个其他的仓库也有同样的情况... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以后公开仓库之前一定要记得扫描一遍 token ;-;",
-    "views": 59,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13712441574874101,
     "images": [
@@ -49251,14 +49251,14 @@
     "id": 3607,
     "date": "2024-04-25T16:40:28",
     "text": "<a href=\"https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/\">The Story of AI Graphics at JetBrains</a>\nAlso: <a href=\"https://cai.jetbrains.com/\">Computational Arts Initiative</a>\n\n看完这篇 Blog 我真的好爱 JetBrains。每一年 IDEA 的启动画面都是精心调制的广义 AI 图形，从以前的随机粒子生成，到 2020 的 CPPN 网络，再到 2023 年的 Stable Diffusion LoRA... 明明只是一个启动画面的一张图，这种没有功能性、甚至很少人会注意到的细节却花了这么多精力探索 qwq\n\n感觉能让大家在这种细节或者说好奇心上花时间的公司好棒，真希望这样的公司能多一些呀...",
-    "views": 64,
+    "views": 66,
     "forwards": 2
   },
   {
     "id": 3608,
     "date": "2024-04-25T17:27:31",
     "text": "好玩 qwq\n\n（<a href=\"https://code2art.jetbrains.com/#509ffabc\">https://code2art.jetbrains.com/#509ffabc</a>",
-    "views": 63,
+    "views": 67,
     "forwards": 1,
     "reply": {
       "id": 3607,
@@ -49281,7 +49281,7 @@
     "id": 3609,
     "date": "2024-04-27T01:47:40",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n朋友来玩所以做了卤肉（和）饭！",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13713459686104165,
     "images": [
@@ -49311,7 +49311,7 @@
     "id": 3611,
     "date": "2024-04-28T01:01:56",
     "text": "第一次想要在 Twitter 上 publicize 一件事情，感觉自己在学着别人用 Twitter 语气说话，但是似乎学得不是很好呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n看了猪猪和书的建议改了改才感觉更像是会在 Twitter 上看到的风格了。唉这真的好不像我，但是希望这样可以让更多人知道这件事情...\n\n<a href=\"https://twitter.com/Hykilpikonna/status/1784382363855679844\">Link</a>",
-    "views": 80,
+    "views": 84,
     "forwards": 2,
     "images": [
       {
@@ -49330,7 +49330,7 @@
     "id": 3612,
     "date": "2024-04-28T12:31:17",
     "text": "今天某位 MoeDev 过来玩，又吃到了蛋糕，开心开心 qwq\n\n以及她拍键用力觉得太吵我们现场给 adx3 改装了垫片，音量比之前好很多了！",
-    "views": 45,
+    "views": 50,
     "forwards": 0,
     "media_group_id": 13714459822322549,
     "images": [
@@ -49370,14 +49370,14 @@
     "id": 3615,
     "date": "2024-04-29T16:02:31",
     "text": "和多伦多的家说了再见 qwq",
-    "views": 15,
+    "views": 36,
     "forwards": 0
   },
   {
     "id": 3616,
     "date": "2024-04-29T16:04:22",
     "text": "猜猜我要去哪",
-    "views": 12,
+    "views": 33,
     "forwards": 0,
     "media_group_id": 13715253299988973,
     "images": [
@@ -49400,6 +49400,25 @@
         "url": "media/3617.jpg",
         "size": 352184,
         "thumb": "media/3617.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3618,
+    "date": "2024-04-29T17:09:39",
+    "text": "分离焦虑.jpg",
+    "views": 21,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1860,
+        "height": 1500,
+        "date": "2024-04-29T17:09:39",
+        "media_type": "photo",
+        "original_name": "photo_2024-04-29_17-09-39.jpg",
+        "url": "media/3618.jpg",
+        "size": 500325,
+        "thumb": "media/3618.jpg_thumb.jpg"
       }
     ]
   }
