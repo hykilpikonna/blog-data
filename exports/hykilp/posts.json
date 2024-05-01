@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 115,
+    "views": 116,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 102,
+    "views": 103,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41377,7 +41377,7 @@
     "id": 3065,
     "date": "2023-12-25T06:49:59",
     "text": "既然要从国内订 Wacca 架子的铝型材空运过来那就顺便多买点铝型材做一个桌子吧（反正不会增加包裹的总共体积",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 3059,
@@ -41400,7 +41400,7 @@
     "id": 3067,
     "date": "2023-12-25T11:01:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n补一下昨天和 Celestium 做的烤鸡和炒菜 qwq\n\n是平安夜烤鸡！",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13628016598669917,
     "images": [
@@ -41430,14 +41430,14 @@
     "id": 3068,
     "date": "2023-12-25T11:08:00",
     "text": "圣诞节快乐！<span class=\"spoiler\"><span>子兰生日快乐！</span></span>\n\n说起来虽然已经和前前任子兰分手快三年了，电脑的解锁密码却仍然是子兰的生日... 懒得改，感觉要改的话还要覆盖掉一个刻在肌肉记忆里的动作好麻烦 quq",
-    "views": 79,
+    "views": 80,
     "forwards": 0
   },
   {
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -41477,7 +41477,7 @@
     "id": 3072,
     "date": "2023-12-25T22:56:44",
     "text": "去看了吉卜力的新作《The Boy and the Heron》，三个人集体没看懂 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "reply": {
       "id": 3062,
@@ -41488,7 +41488,7 @@
     "id": 3073,
     "date": "2023-12-26T20:08:45",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n圣诞的黄桃抹茶慕斯！",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13628970602555357,
     "images": [
@@ -48506,7 +48506,7 @@
     "id": 3555,
     "date": "2024-04-04T06:21:15",
     "text": "回レ回レ回レ回レ回レ回レ回レ回レ回レ！",
-    "views": 100,
+    "views": 101,
     "forwards": 2,
     "files": [
       {
@@ -49085,7 +49085,7 @@
     "id": 3595,
     "date": "2024-04-21T07:07:56",
     "text": "到家了！\n\n路上遇到了好多不幸的事情，想和 Robin 约饭结果不在同一个航站楼、安检的时候因为我买机票在护照名字后面加上了 preferred name 被拦下来了、然后到温哥华转机因为飞机上一个厕所坏了没人知道怎么修，剩下的厕所数量又达不到起飞需要的法律标准所以延误了 4.25 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n这是大数定律在起作用吗，前几天运气太好了（x",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13709466209245173,
     "images": [
@@ -49142,7 +49142,7 @@
     "id": 3600,
     "date": "2024-04-23T07:12:58",
     "text": "想下载课件但是这门课没有开导出功能怎么办？\n\n花十分钟手动下载 ❌\n花半个小时写一个爬虫 ✅",
-    "views": 87,
+    "views": 88,
     "forwards": 1,
     "images": [
       {
@@ -49161,7 +49161,7 @@
     "id": 3601,
     "date": "2024-04-23T22:02:57",
     "text": "考完了... 感觉可能考不到 50%\n\n去年期末考试的那天发烧所以 defer 掉了，原本以为补考会很容易... 没想到要到这个学期末才能补考，和今年的同学考一样的卷子。但是今年换了教授而且他把所有课程内容重新规划了一遍，和去年的内容有好多不一样，有好多没见过的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n还有些题是按今年作业出的，说 “recall in A1...” 什么的，但是我没做过今年的 A1 呀 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "reply": {
       "id": 3599,
@@ -49184,14 +49184,14 @@
     "id": 3602,
     "date": "2024-04-24T06:52:36",
     "text": "<a href=\"##TIL\">#TIL</a> 今天刚知道原来上海是直辖市\n\n之前一直以为上海是省，苏州和上海市在上海省 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 8
   },
   {
     "id": 3603,
     "date": "2024-04-24T20:33:25",
     "text": "在走廊里听到很大的风声来自这个小东西，还在想是给什么东西的散热器，然后发现是专门用来放风声白噪音的小喇叭 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -49214,14 +49214,14 @@
     "id": 3604,
     "date": "2024-04-25T02:45:35",
     "text": "EMS 国际快递只能填英文地址太坏了，刚才收到了快递员的电话似乎看不懂用英文写的国内地址呢... <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 72,
+    "views": 73,
     "forwards": 0
   },
   {
     "id": 3605,
     "date": "2024-04-25T14:26:36",
     "text": "呜呜 不小心把自己的 bot token 公开了，感觉好丢人\n\n昨天晚上聊聊 Telegram 上突然收到了好多莫名其妙的消息，来自我们的 TG Bot... 这个 Bot 原本是用来发通知的，比如说写需要挂机的脚本的时候通常会在结尾加一个 tg 消息通知什么的，但是这些消息明显不是我们发的，怎么回事呢？\n\n查了查 GitHub 发现是我一两年前把它推到私有库里了，然后过了很久整理仓库的时候忘记这里有 token 就把仓库公开了，然后用 GitGuardian 扫了一遍发现还有几个其他的仓库也有同样的情况... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以后公开仓库之前一定要记得扫描一遍 token ;-;",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "media_group_id": 13712441574874101,
     "images": [
@@ -49251,14 +49251,14 @@
     "id": 3607,
     "date": "2024-04-25T16:40:28",
     "text": "<a href=\"https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/\">The Story of AI Graphics at JetBrains</a>\nAlso: <a href=\"https://cai.jetbrains.com/\">Computational Arts Initiative</a>\n\n看完这篇 Blog 我真的好爱 JetBrains。每一年 IDEA 的启动画面都是精心调制的广义 AI 图形，从以前的随机粒子生成，到 2020 的 CPPN 网络，再到 2023 年的 Stable Diffusion LoRA... 明明只是一个启动画面的一张图，这种没有功能性、甚至很少人会注意到的细节却花了这么多精力探索 qwq\n\n感觉能让大家在这种细节或者说好奇心上花时间的公司好棒，真希望这样的公司能多一些呀...",
-    "views": 76,
+    "views": 77,
     "forwards": 2
   },
   {
     "id": 3608,
     "date": "2024-04-25T17:27:31",
     "text": "好玩 qwq\n\n（<a href=\"https://code2art.jetbrains.com/#509ffabc\">https://code2art.jetbrains.com/#509ffabc</a>",
-    "views": 74,
+    "views": 75,
     "forwards": 1,
     "reply": {
       "id": 3607,
@@ -49311,7 +49311,7 @@
     "id": 3611,
     "date": "2024-04-28T01:01:56",
     "text": "第一次想要在 Twitter 上 publicize 一件事情，感觉自己在学着别人用 Twitter 语气说话，但是似乎学得不是很好呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n看了猪猪和书的建议改了改才感觉更像是会在 Twitter 上看到的风格了。唉这真的好不像我，但是希望这样可以让更多人知道这件事情...\n\n<a href=\"https://twitter.com/Hykilpikonna/status/1784382363855679844\">Link</a>",
-    "views": 96,
+    "views": 99,
     "forwards": 2,
     "images": [
       {
@@ -49426,7 +49426,7 @@
     "id": 3619,
     "date": "2024-04-29T20:12:06",
     "text": "堵飞机",
-    "views": 58,
+    "views": 59,
     "forwards": 1,
     "media_group_id": 13715372215239485,
     "images": [
@@ -49456,7 +49456,7 @@
     "id": 3621,
     "date": "2024-04-30T12:44:31",
     "text": "试着在飞机上写一些 Wactroller v2 控制板的代码，看看我写的这些支离破碎的初始化代码 🌚 没有网络没有 AI 帮忙，不能查用例和文档，只有 IDE 和依赖源码可以参考... 上次这样写代码应该还是在小学打算法比赛的时候。\n\n没有需要网的效率工具我真的好废，不过同时也觉得读依赖源码让我对 TWAI (CAN) 理解得更多了，这种理解也许不是看着样例照猫画虎把项目写出来能学到的 qwq",
-    "views": 45,
+    "views": 47,
     "forwards": 0,
     "images": [
       {
@@ -49475,7 +49475,7 @@
     "id": 3622,
     "date": "2024-04-30T16:00:52",
     "text": "在香港和 qrty 玩得很开心 qwq\n\n坐了天星小轮，船票居然只要 ￥5 哇，比地铁便宜风景还好好，如果当时在西雅图能用这么便宜的价格坐船过河的话我一定会天天坐船上班的（然而当时开车过桥每过一次要收 US$4.5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n办了一张八达通加入了我的地铁卡收藏 qwq 感觉在这边八达通就像 Suica 一样在哪里都能用诶（而且同样都是 Felica！）如果多伦多的 Presto 也是这样就好了。\n\n坐了 MTR 地铁，感觉除了机场快线很舒服以外其他的地铁站和车厢都和北京的差不多，比例超级误导的地铁地图也是一模一样（？）",
-    "views": 41,
+    "views": 43,
     "forwards": 0,
     "media_group_id": 13715942816462349,
     "images": [
@@ -49555,7 +49555,7 @@
     "id": 3629,
     "date": "2024-04-30T16:23:28",
     "text": "还去了港大！环境好棒，有不是那么追求安静的图书馆，听到了从公用钢琴传来的琴声和歌声\n\n建筑也好奇妙，感觉这个校园重新定义了地面，走在路上会给我一种在地面的错觉，但是实际上楼的一层下面也有其他的楼，从地铁出来进校区的那一刻就已经在天上了 quq",
-    "views": 39,
+    "views": 41,
     "forwards": 0,
     "media_group_id": 13715953665026693,
     "images": [
@@ -49628,6 +49628,28 @@
         "url": "media/3635.jpg",
         "size": 919324,
         "thumb": "media/3635.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3636,
+    "date": "2024-05-01T02:30:48",
+    "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nTake care of you for me ❤️",
+    "views": 22,
+    "forwards": 0,
+    "files": [
+      {
+        "duration": 205,
+        "performer": "Cavetown",
+        "title": "Empty Bed",
+        "file_name": "Cavetown - Empty Bed.flac",
+        "mime_type": "audio/flac",
+        "date": "2024-04-27T18:06:34",
+        "media_type": "audio_file",
+        "original_name": "Cavetown - Empty Bed.flac",
+        "url": "media/3636.flac",
+        "size": 19586086,
+        "thumb": "media/3636.flac_thumb.jpg"
       }
     ]
   }
