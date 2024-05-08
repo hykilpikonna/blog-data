@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 112,
+    "views": 113,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41232,21 +41232,21 @@
     "id": 3052,
     "date": "2023-12-22T08:18:05",
     "text": "之前投完 Bilibili 视频从私信认识了几位同样在多伦多喜欢玩街机音游的朋友，今天 CauBaC 来这里玩，见到了新朋友好开心 qwq\n\n感觉好神奇，即使没有互相发过照片依然一眼认出了是网友（以及 CauBaC 好可爱！）而且发现我真的不社恐了诶，<del>想起来两三年前这样见网友还会觉得认错人会好尴尬，然后就会在约定地点旁边打字问∞个问题之后发现网友就在眼前</del>（？）\n\n玩得很开心！她好厉害！> < 刚过来她还说没怎么玩过中二，然后我很耐心地讲了各种流程结果她上来就打 13+ 打了一个 995 (╯’ – ‘)╯︵ ┻━┻ <del>被音游人的例常卖菜骗到了</del>\n\n好想快点把 Wacca 和 maimai 也搭起来...",
-    "views": 93,
+    "views": 94,
     "forwards": 0
   },
   {
     "id": 3053,
     "date": "2023-12-22T09:11:04",
     "text": "又发生了睡觉 deadlock，我在等聊聊睡觉的时候聊聊在等我睡觉，结果就到凌晨四点了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 2
   },
   {
     "id": 3054,
     "date": "2023-12-22T23:19:55",
     "text": "更新完了！<a href=\"https://github.com/hykilpikonna/AquaDX\">AquaDX</a> 和 <a href=\"lux.hydev.org\">lux.hydev.org</a> 都支持中二 SUN Plus 了！所有数据也都同步了哦",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "media_group_id": 13626297563827117,
     "images": [
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 120,
+    "views": 121,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 107,
+    "views": 108,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41400,7 +41400,7 @@
     "id": 3067,
     "date": "2023-12-25T11:01:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n补一下昨天和 Celestium 做的烤鸡和炒菜 qwq\n\n是平安夜烤鸡！",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "media_group_id": 13628016598669917,
     "images": [
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -42165,7 +42165,7 @@
     "id": 3124,
     "date": "2024-01-01T00:46:40",
     "text": "理这团线感觉自己在拆炸弹 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -44603,21 +44603,21 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 102,
+    "views": 103,
     "forwards": 0
   },
   {
     "id": 3293,
     "date": "2024-02-03T23:09:48",
     "text": "Q: 下午六点才起床的话吃的是早饭还是晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 0
   },
   {
     "id": 3294,
     "date": "2024-02-04T04:13:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉饭！\n\n看 yuri 做了卤肉馋馋我也做了 quq 不过因为家里没有五花肉就用了叉烧肉，有点瘦不过也挺好吃的",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "media_group_id": 13656160244402573,
     "images": [
@@ -44657,15 +44657,15 @@
     "id": 3297,
     "date": "2024-02-04T10:37:26",
     "text": "哭 今天玩博德之门死了两次档，两次都是在长休触发剧情的时候游戏闪退，重启也会在同一个地方闪退，可能因为开发者没有想到一个特定的展开过程吧...\n\n第一次闪退花了一个小时 debug 之后通过触发一个特定的地图区域解决了，第二次闪退还没有找到解决方式... 这种程度的 bug 真的好劝退 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 92,
+    "views": 93,
     "forwards": 0
   },
   {
     "id": 3298,
     "date": "2024-02-04T21:19:17",
     "text": "第一次摸到真的 aime 和 Card Maker 卡耶，感谢从日本回来的半喵\n\n呜 说起来我还没有在官服上玩过任何一款街机，所以写私服也有很多理解偏差... 比如上次问了 Asuna 才知道原来官服有些曲子是要解锁才能玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n好想去日本玩玩官服 quq",
-    "views": 94,
-    "forwards": 1,
+    "views": 96,
+    "forwards": 2,
     "media_group_id": 13656652455766149,
     "images": [
       {
@@ -44694,7 +44694,7 @@
     "id": 3300,
     "date": "2024-02-05T00:14:27",
     "text": "以及感谢半喵买的芒果慕斯！<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13656736536843773,
     "images": [
@@ -44729,7 +44729,7 @@
     "id": 3302,
     "date": "2024-02-05T04:57:42",
     "text": "看到地图上标的点写了 \"Cache\" 还在想这里为什么有缓存，查了一下才知道 cache 的本意是 \"a secure place of storage\" <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "media_group_id": 13656872502284565,
     "images": [
@@ -44759,7 +44759,7 @@
     "id": 3304,
     "date": "2024-02-05T06:41:24",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6172422080902989732.webm\">👊</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -44778,7 +44778,7 @@
     "id": 3305,
     "date": "2024-02-07T10:54:25",
     "text": "记录一下昨天做的事情：\n\n1. 写了一个 stylebot patch 让不同的谷歌邮箱工作区能看背景上花花的颜色区分了！\n\n2. 写完了 309 网页设计的大作业的前端部分（感觉在这个作业上花太多时间了... 不过我也喜欢写好看的前端就是了\n\n3. 逆向了 maimai 的倍速票逻辑，写了一个提取数据的脚本把 1.40 的活动数据更新进 AquaDX 里面了（现在正式支持 1.40 了！",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13658426124521117,
     "images": [
@@ -44818,7 +44818,7 @@
     "id": 3308,
     "date": "2024-02-07T11:01:15",
     "text": "今天开坑了 <a href=\"https://github.com/hykilpikonna/AquaDX/tree/master/AquaMai\">AquaMai</a>！是一个给 maimai DX 的魔改 Mod\n\n和蓝夏一起写了下面五个功能\n\n1. 解锁所有倍速票\n2. 跳过开机自检之后的版权警告界面\n3. 单机模式（蓝夏写的！\n4. 从刷卡直接跳到选歌（也是蓝夏写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n5. 修了官方选角色选到某个角色会闪退的 bug\n\n第一次写游戏魔改感觉好好玩 qwq",
-    "views": 71,
+    "views": 72,
     "forwards": 1,
     "media_group_id": 13658429403943621,
     "images": [
@@ -44858,7 +44858,7 @@
     "id": 3311,
     "date": "2024-02-08T01:02:33",
     "text": "怎么感觉 2024 年的最新前端设计语言就是各种模糊大色块赛博光污染",
-    "views": 168,
+    "views": 169,
     "forwards": 5,
     "media_group_id": 13658833224611869,
     "images": [
@@ -45669,7 +45669,7 @@
     "id": 3364,
     "date": "2024-02-18T09:20:44",
     "text": "然后凌晨和聊聊聊到设计一款好音游需要什么的时候，想起来之前一直想玩的节奏的牢还没有开坑，然后就打开游戏一起开了一个 2p 档 <i class=\"custom-emoji\" emoji-src=\"emoji/5445363982607065319.tgs\">🍞</i>\n\n感觉最喜欢节奏地牢的地方就是它节奏得牢（？）因为所有节奏都在非常牢固的 1/4 大拍，所以非常容易就能和歌曲的 flow 同步上。不过数学苦手总是算错敌人的攻击路径也没办法啦，呜呜呜\n\n<del>相比之下感觉 maimai 12-13 某些谱星星已经完全不在曲子的节奏上了</del>",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13665984354315757,
     "images": [
@@ -45699,7 +45699,7 @@
     "id": 3365,
     "date": "2024-02-19T01:36:46",
     "text": "今天 Henry 和他的朋友还有 Jun 和 Jamie 过来玩，好喜欢家里热闹的气氛，以及吃到了 Henry 他们带过来的芒果蛋糕好开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\nHenry 和他的朋友都好厉害，他们是从 Arcaea 过来的，中二上手好快，感觉马上就要被他们超车了 quq\n\n以及今天 maimai 收了第一个 Lv13！<del>果然有人围观的时候会玩得更好</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13666452852406205,
     "images": [
@@ -45789,7 +45789,7 @@
     "id": 3370,
     "date": "2024-02-19T05:06:28",
     "text": "上蓝框 13000 了！！开心\n\n变色.jpg",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13666553508448453,
     "images": [
@@ -48540,7 +48540,7 @@
     "id": 3557,
     "date": "2024-04-06T11:39:09",
     "text": "试试让 DALL-E 把蓝粉星夜的这个想法画出来结果真的画得好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 250,
+    "views": 251,
     "forwards": 8,
     "reply": {
       "id": 2671,
