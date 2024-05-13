@@ -49221,7 +49221,7 @@
     "id": 3605,
     "date": "2024-04-25T14:26:36",
     "text": "呜呜 不小心把自己的 bot token 公开了，感觉好丢人\n\n昨天晚上聊聊 Telegram 上突然收到了好多莫名其妙的消息，来自我们的 TG Bot... 这个 Bot 原本是用来发通知的，比如说写需要挂机的脚本的时候通常会在结尾加一个 tg 消息通知什么的，但是这些消息明显不是我们发的，怎么回事呢？\n\n查了查 GitHub 发现是我一两年前把它推到私有库里了，然后过了很久整理仓库的时候忘记这里有 token 就把仓库公开了，然后用 GitGuardian 扫了一遍发现还有几个其他的仓库也有同样的情况... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以后公开仓库之前一定要记得扫描一遍 token ;-;",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13712441574874101,
     "images": [
@@ -49251,7 +49251,7 @@
     "id": 3607,
     "date": "2024-04-25T16:40:28",
     "text": "<a href=\"https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/\">The Story of AI Graphics at JetBrains</a>\nAlso: <a href=\"https://cai.jetbrains.com/\">Computational Arts Initiative</a>\n\n看完这篇 Blog 我真的好爱 JetBrains。每一年 IDEA 的启动画面都是精心调制的广义 AI 图形，从以前的随机粒子生成，到 2020 的 CPPN 网络，再到 2023 年的 Stable Diffusion LoRA... 明明只是一个启动画面的一张图，这种没有功能性、甚至很少人会注意到的细节却花了这么多精力探索 qwq\n\n感觉能让大家在这种细节或者说好奇心上花时间的公司好棒，真希望这样的公司能多一些呀...",
-    "views": 95,
+    "views": 96,
     "forwards": 3
   },
   {
@@ -49330,7 +49330,7 @@
     "id": 3612,
     "date": "2024-04-28T12:31:17",
     "text": "今天某位 MoeDev 过来玩，又吃到了蛋糕，开心开心 qwq\n\n以及她拍键用力觉得太吵我们现场给 adx3 改装了垫片，音量比之前好很多了！",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "media_group_id": 13714459822322549,
     "images": [
@@ -49370,14 +49370,14 @@
     "id": 3615,
     "date": "2024-04-29T16:02:31",
     "text": "和多伦多的家说了再见 qwq",
-    "views": 74,
+    "views": 75,
     "forwards": 0
   },
   {
     "id": 3616,
     "date": "2024-04-29T16:04:22",
     "text": "猜猜我要去哪",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13715253299988973,
     "images": [
@@ -49407,7 +49407,7 @@
     "id": 3618,
     "date": "2024-04-29T17:09:39",
     "text": "分离焦虑.jpg",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -49426,7 +49426,7 @@
     "id": 3619,
     "date": "2024-04-29T20:12:06",
     "text": "堵飞机",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "media_group_id": 13715372215239485,
     "images": [
@@ -49456,7 +49456,7 @@
     "id": 3621,
     "date": "2024-04-30T12:44:31",
     "text": "试着在飞机上写一些 Wactroller v2 控制板的代码，看看我写的这些支离破碎的初始化代码 🌚 没有网络没有 AI 帮忙，不能查用例和文档，只有 IDE 和依赖源码可以参考... 上次这样写代码应该还是在小学打算法比赛的时候。\n\n没有需要网的效率工具我真的好废，不过同时也觉得读依赖源码让我对 TWAI (CAN) 理解得更多了，这种理解也许不是看着样例照猫画虎把项目写出来能学到的 qwq",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "images": [
       {
@@ -50108,7 +50108,7 @@
     "id": 3671,
     "date": "2024-05-03T23:37:43",
     "text": "习惯了北美超市里特别甜的甜点之后回国吃什么甜点都觉得不够甜了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -50661,7 +50661,7 @@
     "id": 3716,
     "date": "2024-05-07T05:12:52",
     "text": "menci 窝新增一根竹子",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -50684,7 +50684,7 @@
     "id": 3717,
     "date": "2024-05-07T10:11:08",
     "text": "今天上午原本打算去修一下小新的 type-c 口，找到了楼下的一家维修店。店里的师傅很好心，看我还在保修让我去找联想（他说联想即使只是 type-c 口坏了也会直接换主板，有点想在主板上做些记号看看会不会真的换）然后给他看了那个坏掉的稳定器他说不会修 quq\n\n下午 Wactroller 项目的板子元件工具都差不多到齐了，但是发现这么小的 LED 自己很不会焊... 下楼去找了之前的那个师傅问他会不会让他教我居然真的同意了，而且居然只收了 ￥20... 真是好人欸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13720613345723885,
     "files": [
@@ -50768,7 +50768,7 @@
     "id": 3722,
     "date": "2024-05-08T15:30:56",
     "text": "而且发现在国内做饭不是很能省钱欸... 这一顿两人份的饭食材就花了 ￥22，但是在外面吃 ￥11 也够了。在加拿大那边的话在外面吃至少要 $15 = ￥75 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 83,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 3720,
@@ -50820,14 +50820,14 @@
     "id": 3726,
     "date": "2024-05-09T14:29:08",
     "text": "哭哭 今天好狼狈\n\n九点钟吃完饭决定出门去远一点的超市买东西，十点关门原本觉得挺有时间的。骑车到那边九点半，拿了些想要的东西然后快到十点的时候跑去结账，到结账的地方正好十点，结果已经没有人结账了，自助结账也不开...\n\n在周围问了问工作人员好像都没有权限结账的样子，站在那里等了一会被别人喊了一些听不懂的方言还是走了... 向出口走的时候感觉每个人都在对我们喊，听不懂但是能听出是很生气的样子。到门口发现门已经锁了，要不是那里站着工作人员我们就被锁在里面了呜呜\n\n然后手机还只剩 3% 电了，还没带充电宝... 地铁卡在手机上到站的时候肯定没办法出站，扫自行车也肯定没办法还车，走路又要一个小时而且没有手机上的地图肯定找不到路 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i> 还好 menci 在旁边帮忙叫了车不然我今天肯定回不了家\n\n中国的超市好坏哦，居然刚到关门时间就关门，记得上次在美国和豆腐猫猫球自驾游有一天去沃尔玛稍微过了关门时间才结账也没有问题...",
-    "views": 73,
+    "views": 74,
     "forwards": 0
   },
   {
     "id": 3728,
     "date": "2024-05-10T02:11:17",
     "text": "把美团和闲鱼放在同一个文件夹的坏处就是，每次想打开美团的时候都会打开闲鱼，每次想打开闲鱼的时候都会打开美团 🌚",
-    "views": 75,
+    "views": 80,
     "forwards": 1,
     "images": [
       {
@@ -50846,7 +50846,7 @@
     "id": 3729,
     "date": "2024-05-10T03:29:44",
     "text": "买了三件加拿大 M 吃不到的东西",
-    "views": 67,
+    "views": 69,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -50869,7 +50869,7 @@
     "id": 3730,
     "date": "2024-05-10T12:58:34",
     "text": "呜呜呜呜 在地铁上想要在到站的时候跑出去丢一下垃圾饮料杯，感觉 15 秒时间够的，结果地铁站的地可能是刚拖过特别特别滑... 我跑过去的时候没有一步是踩稳的，每一步都滑得超级离谱，然后因为怕回不去跑很快滑了一跤把膝盖磕青了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不过回到地铁上了！垃圾也丢进桶里了！还是做到了 qwq",
-    "views": 62,
+    "views": 67,
     "forwards": 1,
     "images": [
       {
@@ -50888,7 +50888,7 @@
     "id": 3731,
     "date": "2024-05-11T14:31:06",
     "text": "在超市看到了小鸡🐣和小鱼 quq 都好可爱！\n\n可惜知道自己肯定养不活...",
-    "views": 55,
+    "views": 58,
     "forwards": 0,
     "media_group_id": 13723502935603677,
     "files": [
@@ -50923,7 +50923,7 @@
     "id": 3733,
     "date": "2024-05-11T15:16:45",
     "text": "前天和 menci 出门遇到了猫，但是似乎猫不是很想理我们 <i class=\"custom-emoji\" emoji-src=\"emoji/5442667026613020096.tgs\">😒</i>\n\n所以今天买了一些猫条随身带着，以后再遇到猫就不会被无视了（？）希望 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 56,
+    "views": 59,
     "forwards": 0,
     "media_group_id": 13723524841850109,
     "images": [
@@ -50953,7 +50953,7 @@
     "id": 3735,
     "date": "2024-05-12T12:12:58",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n牛丼！炒饭！\n\n懒人厨房冰箱 be like: 买来就剥好皮的洋葱、剥好的大蒜、分好骨肉的鸡腿、去了皮的三文鱼、切好的西瓜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 45,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13724127828954189,
     "images": [
@@ -51013,7 +51013,7 @@
     "id": 3740,
     "date": "2024-05-13T13:01:47",
     "text": "...？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 30,
+    "views": 43,
     "forwards": 0,
     "media_group_id": 13724842461206197,
     "images": [
@@ -51036,6 +51036,98 @@
         "url": "media/3741.jpg",
         "size": 118294,
         "thumb": "media/3741.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3742,
+    "date": "2024-05-13T16:19:12",
+    "text": "笑点解析\n中辛：微辣\n辛口：中辣",
+    "views": 36,
+    "forwards": 0,
+    "reply": {
+      "id": 3740,
+      "text": "...？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
+      "thumb": "media/3740.jpg_thumb.jpg"
+    }
+  },
+  {
+    "id": 3743,
+    "date": "2024-05-13T16:36:01",
+    "text": "去观前街打街机，感觉这里才是真正意义上的美食街，地方很大很热闹，路摊也都是正常路摊的价格... 前几天在武汉去的户部巷美食街那边路摊的价格感觉就是骗游客钱的\n\n发一些 out of context 照片\n1. 观前街入口\n2. 红黑榜会自平衡吗\n3. 小猫盯——\n4. 旧框上不会再来的 coming soon™\n5. maimai 对面已经关机的 wacca\n6. 走的时候看到了莲子和似乎是芋头（？）在排队板上留下的卡片\n7. 小猫呼呼（这个时候隔壁机听还很吵... 好心疼小猫。原本还想在多伦多开猫咖机厅的，现在感觉这样会对猫很孬 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
+    "views": 30,
+    "forwards": 0,
+    "media_group_id": 13724945288823205,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-05-13T16:34:35",
+        "media_type": "photo",
+        "original_name": "photo_2024-05-13_16-34-35.jpg",
+        "url": "media/3743.jpg",
+        "size": 856229,
+        "thumb": "media/3743.jpg_thumb.jpg"
+      },
+      {
+        "width": 1873,
+        "height": 2558,
+        "date": "2024-05-13T16:35:01",
+        "media_type": "photo",
+        "original_name": "photo_2024-05-13_16-35-01.jpg",
+        "url": "media/3744.jpg",
+        "size": 647415,
+        "thumb": "media/3744.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-05-13T16:35:17",
+        "media_type": "photo",
+        "original_name": "photo_2024-05-13_16-35-17.jpg",
+        "url": "media/3745.jpg",
+        "size": 440348,
+        "thumb": "media/3745.jpg_thumb.jpg"
+      },
+      {
+        "width": 1022,
+        "height": 1530,
+        "date": "2024-05-13T16:35:18",
+        "media_type": "photo",
+        "original_name": "photo_2024-05-13_16-35-18.jpg",
+        "url": "media/3746.jpg",
+        "size": 281437,
+        "thumb": "media/3746.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-05-13T16:35:44",
+        "media_type": "photo",
+        "original_name": "photo_2024-05-13_16-35-44.jpg",
+        "url": "media/3747.jpg",
+        "size": 636511,
+        "thumb": "media/3747.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-05-13T16:16:53",
+        "media_type": "photo",
+        "original_name": "photo_2024-05-13_16-16-53.jpg",
+        "url": "media/3748.jpg",
+        "size": 530786,
+        "thumb": "media/3748.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-05-13T16:36:00",
+        "media_type": "photo",
+        "original_name": "photo_2024-05-13_16-36-00.jpg",
+        "url": "media/3749.jpg",
+        "size": 346064,
+        "thumb": "media/3749.jpg_thumb.jpg"
       }
     ]
   }
