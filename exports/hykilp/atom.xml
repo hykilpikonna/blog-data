@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-05-27T08:09:24.849479+00:00</updated>
+  <updated>2024-05-27T10:09:22.044004+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>3854</id>
+    <title>小桂桂的回忆录 📒 #3854</title>
+    <updated>2024-05-27T09:16:36+00:00</updated>
+    <content>&lt;p&gt;给 mai/wacca 装了一台二手 itx，总共花了 ~￥1500&lt;/p&gt;
+&lt;p&gt;主板用的是「To Be Filled By O.E.M.」牌子的 AB350-ITX，CPU 白嫖了凌莞的 Ryzen 3600（感谢！），显卡 1060-3G，机箱鱼巢 T60，供电鱼巢 500W&lt;/p&gt;
+&lt;p&gt;已经是第三次装这个布局的 itx 了，速通一个小时就装好了... 然后发现点不亮 &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;开机之后过几秒就会自动关机... 试了用不同的内存条、只插一条都不行。上网查查看到遇到同样症状的人有人是 BIOS 太旧还不支持新的 CPU，但是我问了淘宝卖家他们说更新过。没办法了去楼下维修店让师傅看看，结果师傅擦擦内存金手指就亮了 🌚 原来金手指氧化真的会影响接触吗&lt;/p&gt;
+&lt;p&gt;亮了之后发现 BIOS 设置没办法保存，每次进 BIOS 时间都会重置到 1/1/2017... 然后发现网卡识别不到，装了驱动也识别不到，甚至进 Linux lspci 完全没设备，dmesg 里也完全没有 wlan 相关的 log，下楼又去了一趟维修店借了一张已知好用的网卡换上去还是不识别 &lt;i class="custom-emoji" emoji-src="emoji/6323396679642907960.webp"&gt;😭&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;卖家说挡板拆封了就不能退了只能修，唉算了等笔记本修好送回去修吧，临时买了一个 USB 网卡凑合用了。感觉这次装机是大失败&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=3854" rel="alternate"/>
+  </entry>
   <entry>
     <id>3852</id>
     <title>小桂桂的回忆录 📒 #3852</title>
