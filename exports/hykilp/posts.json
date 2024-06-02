@@ -52480,7 +52480,7 @@
     "id": 3854,
     "date": "2024-05-27T09:16:36",
     "text": "给 mai/wacca 装了一台二手 itx，总共花了 ~￥1500\n\n主板用的是「To Be Filled By O.E.M.」牌子的 AB350-ITX，CPU 白嫖了凌莞的 Ryzen 3600（感谢！），显卡 1060-3G，机箱鱼巢 T60，供电鱼巢 500W\n\n已经是第三次装这个布局的 itx 了，速通一个小时就装好了... 然后发现点不亮 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n开机之后过几秒就会自动关机... 试了用不同的内存条、只插一条都不行。上网查查看到遇到同样症状的人有人是 BIOS 太旧还不支持新的 CPU，但是我问了淘宝卖家他们说更新过。没办法了去楼下维修店让师傅看看，结果师傅擦擦内存金手指就亮了 🌚 原来金手指氧化真的会影响接触吗\n\n亮了之后发现 BIOS 设置没办法保存，每次进 BIOS 时间都会重置到 1/1/2017... 然后发现网卡识别不到，装了驱动也识别不到，甚至进 Linux lspci 完全没设备，dmesg 里也完全没有 wlan 相关的 log，下楼又去了一趟维修店借了一张已知好用的网卡换上去还是不识别 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>\n\n卖家说挡板拆封了就不能退了只能修，唉算了等笔记本修好送回去修吧，临时买了一个 USB 网卡凑合用了。感觉这次装机是大失败",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13734411171814173,
     "images": [
@@ -52729,14 +52729,14 @@
     "id": 3874,
     "date": "2024-05-30T02:02:32",
     "text": "menci: Hey Siri, find my iPhone\nsiri: Before I can do that, I need to know who's speaking. Open your iPhone and... <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 61,
+    "views": 63,
     "forwards": 0
   },
   {
     "id": 3876,
     "date": "2024-05-30T07:48:24",
     "text": "草... 插上移动电源发现充不上电，咦不对为什么没有充电的时候充电宝上的 PD 指示灯还亮着呢？难不成电脑在给充电宝充电？？然后进 BIOS 发现还真的是，把电池模式反充的选项关掉就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 61,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13736442434362349,
     "images": [
@@ -52766,7 +52766,7 @@
     "id": 3877,
     "date": "2024-05-30T12:23:26",
     "text": "坐了杭港地铁\n\n我：怎么感觉什么地方的港地铁都比香港的港地铁更好看更现代 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 64,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13736574447735949,
     "images": [
@@ -52796,14 +52796,14 @@
     "id": 3879,
     "date": "2024-05-30T17:21:44",
     "text": "状态好差... 需要睡睡\n\n不知道为什么吃完布洛芬半小时之后喉咙一直在烧痛，不应该是止痛吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 59,
+    "views": 60,
     "forwards": 0
   },
   {
     "id": 3882,
     "date": "2024-05-31T08:31:08",
     "text": "这个打卡点是... 叉车木托盘？？居然叉车托盘也可以摆得好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 55,
+    "views": 58,
     "forwards": 1,
     "media_group_id": 13737154142793269,
     "images": [
@@ -52843,7 +52843,7 @@
     "id": 3883,
     "date": "2024-05-31T09:13:55",
     "text": " 去市民中心，居然一个人都没有\n\n<del>市民中心没有了市民叫什么</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 48,
+    "views": 52,
     "forwards": 0,
     "media_group_id": 13737174684730725,
     "images": [
@@ -52873,7 +52873,7 @@
     "id": 3885,
     "date": "2024-05-31T09:26:29",
     "text": "蜗牛和杏树中心",
-    "views": 45,
+    "views": 47,
     "forwards": 0,
     "media_group_id": 13737180714912109,
     "images": [
@@ -52908,7 +52908,7 @@
     "id": 3887,
     "date": "2024-05-31T12:57:52",
     "text": "一些今天的照片 quq",
-    "views": 48,
+    "views": 52,
     "forwards": 0,
     "media_group_id": 13737282177918581,
     "images": [
@@ -52978,7 +52978,7 @@
     "id": 3893,
     "date": "2024-06-01T08:10:28",
     "text": "<a href=\"##TIL\">#TIL</a> 原来“电木板”是塑料",
-    "views": 48,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13737835428067565,
     "images": [
@@ -53008,7 +53008,7 @@
     "id": 3895,
     "date": "2024-06-02T11:03:01",
     "text": "今を楽しもう♪",
-    "views": 30,
+    "views": 42,
     "forwards": 0,
     "images": [
       {
@@ -53020,6 +53020,25 @@
         "url": "media/3895.jpg",
         "size": 247168,
         "thumb": "media/3895.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3896,
+    "date": "2024-06-02T15:15:34",
+    "text": "去了几天杭州，刚刚回到苏州了！\n\n由于昨天没有赶上火车、今天也没有候补到火车票，结果约拼车回苏州了。第一次坐这么久的出租车，原本想在车上打开电脑做点事情就吃了晕车药茶苯海明，结果吃完迷迷糊糊睡了一路 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 要是有能让人不犯困的晕车药就好了\n\n路上开网易云同步听了 menci 选的歌单，感觉 menci 听的音乐都很轻，好喜欢 qwq 网易云这个功能也好棒，再也不用担心蓝牙耳机没办法分线了（？）",
+    "views": 32,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 962,
+        "height": 1280,
+        "date": "2024-06-02T15:15:34",
+        "media_type": "photo",
+        "original_name": "photo_2024-06-02_15-15-34.jpg",
+        "url": "media/3896.jpg",
+        "size": 92916,
+        "thumb": "media/3896.jpg_thumb.jpg"
       }
     ]
   }
