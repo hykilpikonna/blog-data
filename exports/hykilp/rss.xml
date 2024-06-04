@@ -12,11 +12,11 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Jun 2024 02:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 04:09:34 +0000</lastBuildDate>
     <item>
       <title>小桂桂的回忆录 📒 #3904</title>
       <link>https://aza.moe/life?post=3904</link>
-      <description>&lt;p&gt;前几天 menci 拿到了一块 maimai 官机触屏，决定给它搭一个框架做一个 maimai 手台 qwq&lt;/p&gt;
+      <description>&lt;p&gt;前几天 menci 拿到了一块 「半径 25 厘米的窗户」 &lt;span class="spoiler"&gt;&lt;span&gt;maimai 官机触屏&lt;/span&gt;&lt;/span&gt;，决定给它搭一个框架做一个 maimai 手台 qwq&lt;/p&gt;
 &lt;p&gt;研究了几天把固定方案定下来了，外框和按键是和之前做的 wacca 台一样是铝型材+铝板的方案，固定玻璃打算用密度板、防滑海绵、和 3D 打印的塑料片压住，再用 VESA 从后面固定显示器&lt;/p&gt;
 &lt;p&gt;触摸感应的话，官方的触屏输出看起来有 RX TX 应该是串口，用示波器搞清协议接到电脑上就行了。按键买了兔键，自己画了灯光板和控制板，有开源的 mai_pico 固件应该也不是问题，就是不知道延迟会不会很糟糕，装上之后和官方 io4 对比一下好了。电视原本想用 43" 4k 144 的 M430QVN，但是发现它的输出信号是一个非标八通道 eDP 51-pin 没办法直接引出（标准的 eDP / DP 最高只有四通道）被劝退买了 AOC 43F12 1080p 60&lt;/p&gt;
 &lt;p&gt;把需要的材料都下单了，希望拼的时候不会遇到预料外的事情 quq&lt;/p&gt;</description>
