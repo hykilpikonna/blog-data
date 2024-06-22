@@ -12,6 +12,16 @@ Syncronized telegram channel data for my blog, created using my [TelegramBackup]
 
 (The GitHub actions script will update the JSON once every two hours)
 
+### Timezone
+
+If you need to change the time zone of the generated time, you can add the following information to the tgc yml file. You can click on [this link](https://github.com/jecanac474/blog-data/blob/main/.github/workflows/tgc.yml) to see an example of using Asia/Shanghai time zone.
+
+```
+env:
+  TZ: Asia/Shanghai
+  LC_TIME: POSIX
+```
+
 ## Example
 
 https://profile-api.hydev.org/posts.json
