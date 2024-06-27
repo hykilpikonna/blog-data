@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-06-27T12:10:13.130378+00:00</updated>
+  <updated>2024-06-27T14:09:48.624797+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4060</id>
+    <title>小桂桂的回忆录 📒 #4060</title>
+    <updated>2024-06-27T12:42:17+00:00</updated>
+    <content>&lt;p&gt;收到了 DV 给我的礼物，是她做的电压表时钟的原型机，好好看 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 复古科技感十足&lt;/p&gt;
+&lt;p&gt;是用 STM32 控制的软件时钟，三个仪表盘分别显示着时分秒。USB 5V 供电，用板载的拨杆和旋钮切换模式、调时间，还有一个纽扣电池在断电的时候维持时间&lt;/p&gt;
+&lt;p&gt;DV 好厉害 quq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4060" rel="alternate"/>
+  </entry>
   <entry>
     <id>4059</id>
     <title>小桂桂的回忆录 📒 #4059</title>
