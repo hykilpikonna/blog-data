@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 10 Jul 2024 08:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 10:10:28 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4115</title>
+      <link>https://aza.moe/life?post=4115</link>
+      <description>&lt;p&gt;训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;开放了一个测试网页大家可以来玩玩 &lt;a href="https://sekai-test.aquadx.net/"&gt;https://sekai-test.aquadx.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;架构用的是 2021 年的 &lt;a href="https://arxiv.org/abs/2106.06103"&gt;VITS&lt;/a&gt;，训练用了 &lt;a href="https://github.com/Plachtaa/VITS-fast-fine-tuning"&gt;Plachtaa 的微调仓库&lt;/a&gt;，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久&lt;/p&gt;
+&lt;p&gt;以及感谢 menci 借给我 4090 机器 qwq&lt;/p&gt;</description>
+      <guid isPermaLink="false">4115</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4113</title>
       <link>https://aza.moe/life?post=4113</link>
