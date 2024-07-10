@@ -644,7 +644,7 @@
     "id": 54,
     "date": "2021-09-17T21:01:11",
     "text": "房间里总算有点绿色啦ww",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "media_group_id": 13055299770104269,
     "images": [
@@ -799,7 +799,7 @@
     "id": 71,
     "date": "2021-09-24T15:30:28",
     "text": "因为当时子兰是高三，能用手机电脑和我联系的时间极少。这张照片是那时定闹钟凌晨三点起来喝咖啡和ta连麦拍的w",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -818,7 +818,7 @@
     "id": 72,
     "date": "2021-09-24T16:20:40",
     "text": "翻到了可爱的鸭鸭看书的照片w",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -837,7 +837,7 @@
     "id": 73,
     "date": "2021-09-30T00:02:34",
     "text": "今天宿舍食堂的拉面和免费蛋糕w",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13063681238768613,
     "images": [
@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7134,
+    "views": 7135,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -48825,7 +48825,7 @@
     "id": 3575,
     "date": "2024-04-12T13:46:41",
     "text": "刚刚起床看到了 Fabrice Bellard 新发布的 <a href=\"https://bellard.org/tsac\">TSAC</a> 音频编码，是一个用二进制语言重写、为了实际应用优化过的 <a href=\"https://arxiv.org/abs/2306.06546\">DAC</a> neural codec，真的没想到去年六月刚 preprint 的论文今年就能见到实际应用了！\n\n我去年的研究里还用到了 DAC 来着，当时这个东西几乎是所有向量模型里最重的一个，即是双通道、每帧尺寸和帧频率也都很大... 导致这一个模型存下来的矢量 npy 几乎和所有其他模型加起来一样大了（还存了一张加载矢量的时候非常壮观的 btop）\n\n不过看上去 TSAC 解决了很多它的问题，转 8bit 把模型权重减轻了不少，也不需要依赖复杂的 python 环境运行了。好期待哪天 Bellard 能把它整合进 ffmpeg qwq",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 13703436811200701,
     "images": [
@@ -48865,7 +48865,7 @@
     "id": 3578,
     "date": "2024-04-13T04:28:59",
     "text": "然后刚刚补 OS 课的时候看到有 1997 年论文里提到的概念 2023 年才有人实现出来给 Linux 开 PR...\n\n不同领域研究和应用的距离好不一样",
-    "views": 110,
+    "views": 111,
     "forwards": 1,
     "reply": {
       "id": 3575,
@@ -48889,14 +48889,14 @@
     "id": 3579,
     "date": "2024-04-13T16:21:33",
     "text": "考完了 OS，明天就要飞走了还有好多要准备...",
-    "views": 102,
+    "views": 103,
     "forwards": 1
   },
   {
     "id": 3580,
     "date": "2024-04-14T08:43:41",
     "text": "出发六个小时前我在床上和聊聊聊天 be like\n：呜呜呜再过几个小时就见不到聊聊了\n：你要每天给我打电话哦\n：不行，每小时！\n：不行不行，每分钟！每秒！每毫秒！\n：<del>每毫秒给我打一个电话，如果超时五次就会被分布式进程管理器鉴定为卡住了杀掉重开哦</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "reply": {
       "id": 3579,
@@ -48907,13 +48907,13 @@
     "id": 3581,
     "date": "2024-04-15T22:29:26",
     "text": "电源插座\n\nUS / Canada: ☹️\nEU: 😶\nDenmark: 🙂",
-    "views": 107,
+    "views": 108,
     "forwards": 1
   },
   {
     "id": 3582,
     "date": "2024-04-15T23:49:43",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -48932,7 +48932,7 @@
     "id": 3583,
     "date": "2024-04-16T13:18:00",
     "text": "演讲完了！很顺利！\n\n（感谢妈妈拍照",
-    "views": 112,
+    "views": 113,
     "forwards": 3,
     "media_group_id": 13706187841309237,
     "images": [
@@ -48962,7 +48962,7 @@
     "id": 3585,
     "date": "2024-04-16T15:16:55",
     "text": "今天上午去领了名牌看开场会。开场会好无聊，说了很多没有用的话，不过看到了提交数据，加拿大甚至没上榜。之后爬了一下网页数据发现这次多伦多大学只有 16 篇，而且除了我以外只有一篇是关于音频的，滑铁卢 8 篇，McGill 一篇... 相比数据里上海交大有 183 篇。唉，加拿大在音频领域真的不行呀，研要申去哪里呢？\n\n中午下午看了一些别人的讲座和海报，记一下有意思的：看到了有人在讲座里提到 Vocaloid 声音合成有多么多么真实，但是明明 Vocaloid 反而是变得真实之后就没有人用了，大家喜欢的就是很重合成感的声音；看到了从脑电波识别出一个人想要说的话转成语音的模型，虽然看那个巨大的巨多线的头盔应该没有能够实际应用场合...；看到了检测发音口音音素的模型，感觉每个语言学习 app 都应该有这个东西，听完在想能不能用类似的方式做更精细的练声建议；看到了我们团队里 Ivan 在做的 HoloLens 非侵入式脑电波交互演示；看到了一个非常厉害的实时变声模型，基本上没有延迟哇，加上大功率音响真的感觉我说出口就是另一个人的声音，在想能不能用同样的思路做实时语音翻译。\n\n中午吃了很好吃的烤肉和汤（然后被汤辣到嗓子哑了 呜呜\n\n演讲完之后晚上去 LGBTQ+ Meetup 吃到了超级丰盛晚餐还认识了新的朋友 Robin！是一个在 UC Berkeley 音频 AI 领域的跨女研究生，人超级好看！而且和我一样是通过研究练声助手踏入了这个领域哇，世界好小 qwq 加了联系方式，希望以后可以一起研究练声助手（我也试试申一申 Berkeley 好了",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "media_group_id": 13706244920724965,
     "images": [
@@ -49042,7 +49042,7 @@
     "id": 3592,
     "date": "2024-04-19T09:53:34",
     "text": "哇 这是何等的运气 qwq",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -49061,7 +49061,7 @@
     "id": 3593,
     "date": "2024-04-19T14:39:10",
     "text": "我真的好不会告别。四天的时间转瞬即逝，闭幕之后又和新的朋友们和导师聊了很多很多，好想停下时间一直留在这里... 可惜时间不会不舍，会展大厅的显示器已经换掉了 ICASSP 的招牌，留下一条寂静的街道\n\n也许会议的意义就在这里吧，比起展示已经过时六个月的论文更重要的是创造了一个把不同道路上的朋友们每年聚集在一起的契机...",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 2512,
@@ -49084,7 +49084,7 @@
     "id": 3595,
     "date": "2024-04-21T07:07:56",
     "text": "到家了！\n\n路上遇到了好多不幸的事情，想和 Robin 约饭结果不在同一个航站楼、安检的时候因为我买机票在护照名字后面加上了 preferred name 被拦下来了、然后到温哥华转机因为飞机上一个厕所坏了没人知道怎么修，剩下的厕所数量又达不到起飞需要的法律标准所以延误了 4.25 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n这是大数定律在起作用吗，前几天运气太好了（x",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "media_group_id": 13709466209245173,
     "images": [
@@ -49250,14 +49250,14 @@
     "id": 3607,
     "date": "2024-04-25T16:40:28",
     "text": "<a href=\"https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/\">The Story of AI Graphics at JetBrains</a>\nAlso: <a href=\"https://cai.jetbrains.com/\">Computational Arts Initiative</a>\n\n看完这篇 Blog 我真的好爱 JetBrains。每一年 IDEA 的启动画面都是精心调制的广义 AI 图形，从以前的随机粒子生成，到 2020 的 CPPN 网络，再到 2023 年的 Stable Diffusion LoRA... 明明只是一个启动画面的一张图，这种没有功能性、甚至很少人会注意到的细节却花了这么多精力探索 qwq\n\n感觉能让大家在这种细节或者说好奇心上花时间的公司好棒，真希望这样的公司能多一些呀...",
-    "views": 108,
+    "views": 109,
     "forwards": 3
   },
   {
     "id": 3608,
     "date": "2024-04-25T17:27:31",
     "text": "好玩 qwq\n\n（<a href=\"https://code2art.jetbrains.com/#509ffabc\">https://code2art.jetbrains.com/#509ffabc</a>",
-    "views": 107,
+    "views": 108,
     "forwards": 2,
     "reply": {
       "id": 3607,
@@ -55671,7 +55671,7 @@
   {
     "id": 4082,
     "date": "2024-07-01T09:15:42",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "files": [
       {
@@ -55695,7 +55695,7 @@
   {
     "id": 4084,
     "date": "2024-07-01T09:18:19",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "files": [
       {
@@ -55806,7 +55806,7 @@
     "id": 4091,
     "date": "2024-07-02T19:32:08",
     "text": "刚才在想日语的事情，然后想要喝水，边起身边想着: みず（mizu，水）... mizuki? みずき... 水木？mizuki 确实也可以写作水木诶，不过这个名字怎么这么眼熟？从哪里来的来着？查查好了\n\n然后发现是小时候父亲电脑上经常打开的水木清华 bbs <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n脑回路乱弹",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "forwarded_from": {
       "name": "废纸篓"
@@ -55828,7 +55828,7 @@
     "id": 4092,
     "date": "2024-07-03T11:22:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nJust be friends <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "files": [
       {
@@ -55850,7 +55850,7 @@
     "id": 4093,
     "date": "2024-07-04T09:37:13",
     "text": "因为市场上买不到正品 PL2303 串口板就自己画了一个买元件自己焊了\n\n第一次焊 0805 贴片大小的元件，不过焊几个就熟练了，感谢群友 yangff 超耐心教教 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13760686667457349,
     "images": [
@@ -55910,14 +55910,14 @@
     "id": 4098,
     "date": "2024-07-04T21:36:28",
     "text": "在加拿大自杀报警会被带到医院急诊，等待心理医生过来进行诊断，判断是不是需要在精神科医院住院或者其他的治疗，不需要就可以回去了\n\n在中国自杀报警会被带到派出所，等熟人来，签文件盖指纹录一个视频，接下来出什么事就都是这个人的责任了",
-    "views": 99,
+    "views": 100,
     "forwards": 1
   },
   {
     "id": 4099,
     "date": "2024-07-05T15:48:35",
     "text": "拍到了睡着的蝴蝶 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 13761556124439541,
     "images": [
@@ -55957,7 +55957,7 @@
     "id": 4102,
     "date": "2024-07-05T17:24:36",
     "text": "折千纸鹤",
-    "views": 83,
+    "views": 85,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -55980,7 +55980,7 @@
     "id": 4103,
     "date": "2024-07-06T19:20:37",
     "text": "发一些最近可能有趣的照片",
-    "views": 76,
+    "views": 78,
     "forwards": 1,
     "media_group_id": 13762349096239221,
     "images": [
@@ -56040,21 +56040,21 @@
     "id": 4108,
     "date": "2024-07-07T20:17:04",
     "text": "下楼散散心，遇到了猫猫但是没带猫粮\n\n上楼拿了猫粮放在同一个位置等，结果猫猫没喂到反而喂饱了很多蚊子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170293817233638918.webm\">😐</i>",
-    "views": 69,
+    "views": 70,
     "forwards": 0
   },
   {
     "id": 4109,
     "date": "2024-07-07T20:59:17",
     "text": "世界通用语言：emoji 🤗",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
     "id": 4110,
     "date": "2024-07-08T07:33:46",
     "text": "日出日落作息：日出睡觉，日落起床 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 68,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -56073,7 +56073,7 @@
     "id": 4111,
     "date": "2024-07-08T14:24:46",
     "text": "syama 精神状态 be like...",
-    "views": 66,
+    "views": 68,
     "forwards": 0,
     "images": [
       {
@@ -56093,7 +56093,7 @@
     "id": 4112,
     "date": "2024-07-08T23:07:46",
     "text": "人生第一次训练大语言模型 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 63,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -56112,7 +56112,7 @@
     "id": 4113,
     "date": "2024-07-09T09:47:13",
     "text": "训练了一天 Qwen2-7B pretrain lora 之后似乎可以和 pjsk 的大家说话了！\n\n（虽然还有很多要优化，但是可行性通过了 quq",
-    "views": 51,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13764147471161677,
     "images": [
@@ -56142,7 +56142,7 @@
     "id": 4115,
     "date": "2024-07-10T10:05:26",
     "text": "训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n开放了一个测试网页大家可以来玩玩 <a href=\"https://sekai-test.aquadx.net/\">https://sekai-test.aquadx.net/</a> （并不是永久链接\n\n架构用的是 2021 年的 <a href=\"https://arxiv.org/abs/2106.06103\">VITS</a>，训练用了 <a href=\"https://github.com/Plachtaa/VITS-fast-fine-tuning\">Plachtaa 的微调仓库</a>，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久\n\n以及感谢 menci 借给我 4090 机器 qwq",
-    "views": 60,
+    "views": 64,
     "forwards": 1,
     "images": [
       {
@@ -56161,7 +56161,47 @@
     "id": 4116,
     "date": "2024-07-10T16:03:25",
     "text": "在中国只是日常写程序就能学到很多寄网知识 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n刚才开 gradio 不知道为什么提交生成的时候没有反应，甚至服务器端没有收到请求，然后发现是 gradio 自己需要访问 localhost，然而开了 all_proxy 环境变量之后 localhost 也被代跑了",
-    "views": 16,
+    "views": 41,
     "forwards": 1
+  },
+  {
+    "id": 4117,
+    "date": "2024-07-10T16:40:29",
+    "text": "最近 AquaDX 和其他服务器经常宕机的原因\n\n相信聊聊已经尽力了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
+    "views": 26,
+    "forwards": 1,
+    "media_group_id": 13765037034951597,
+    "images": [
+      {
+        "width": 917,
+        "height": 1075,
+        "date": "2024-07-10T16:40:19",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-10_16-40-19.jpg",
+        "url": "media/4117.jpg",
+        "size": 147576,
+        "thumb": "media/4117.jpg_thumb.jpg"
+      },
+      {
+        "width": 914,
+        "height": 1185,
+        "date": "2024-07-10T16:40:28",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-10_16-40-28.jpg",
+        "url": "media/4118.jpg",
+        "size": 138316,
+        "thumb": "media/4118.jpg_thumb.jpg"
+      },
+      {
+        "width": 921,
+        "height": 1004,
+        "date": "2024-07-10T16:40:28",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-10_16-40-28.jpg",
+        "url": "media/4119.jpg",
+        "size": 101409,
+        "thumb": "media/4119.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
