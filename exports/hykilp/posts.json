@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7135,
+    "views": 7136,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,14 +41322,14 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 136,
+    "views": 137,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 121,
+    "views": 122,
     "forwards": 0
   },
   {
@@ -55165,7 +55165,7 @@
     "id": 4049,
     "date": "2024-06-23T15:14:21",
     "text": "这个袜子是蓝粉白诶",
-    "views": 98,
+    "views": 99,
     "forwards": 2,
     "images": [
       {
@@ -55958,7 +55958,7 @@
     "id": 4102,
     "date": "2024-07-05T17:24:36",
     "text": "折千纸鹤",
-    "views": 88,
+    "views": 90,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -56041,14 +56041,14 @@
     "id": 4108,
     "date": "2024-07-07T20:17:04",
     "text": "下楼散散心，遇到了猫猫但是没带猫粮\n\n上楼拿了猫粮放在同一个位置等，结果猫猫没喂到反而喂饱了很多蚊子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170293817233638918.webm\">😐</i>",
-    "views": 73,
+    "views": 74,
     "forwards": 0
   },
   {
     "id": 4109,
     "date": "2024-07-07T20:59:17",
     "text": "世界通用语言：emoji 🤗",
-    "views": 72,
+    "views": 74,
     "forwards": 0
   },
   {
@@ -56143,7 +56143,7 @@
     "id": 4115,
     "date": "2024-07-10T10:05:26",
     "text": "训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n开放了一个测试网页大家可以来玩玩 <a href=\"https://sekai-test.aquadx.net/\">https://sekai-test.aquadx.net/</a> （并不是永久链接\n\n架构用的是 2021 年的 <a href=\"https://arxiv.org/abs/2106.06103\">VITS</a>，训练用了 <a href=\"https://github.com/Plachtaa/VITS-fast-fine-tuning\">Plachtaa 的微调仓库</a>，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久\n\n以及感谢 menci 借给我 4090 机器 qwq",
-    "views": 74,
+    "views": 78,
     "forwards": 1,
     "images": [
       {
@@ -56162,14 +56162,14 @@
     "id": 4116,
     "date": "2024-07-10T16:03:25",
     "text": "在中国只是日常写程序就能学到很多寄网知识 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n刚才开 gradio 不知道为什么提交生成的时候没有反应，甚至服务器端没有收到请求，然后发现是 gradio 自己需要访问 localhost，然而开了 all_proxy 环境变量之后 localhost 也被代跑了",
-    "views": 55,
+    "views": 58,
     "forwards": 1
   },
   {
     "id": 4117,
     "date": "2024-07-10T16:40:29",
     "text": "最近 AquaDX 和其他服务器经常宕机的原因\n\n相信聊聊已经尽力了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 48,
+    "views": 52,
     "forwards": 1,
     "media_group_id": 13765037034951597,
     "images": [
@@ -56209,7 +56209,7 @@
     "id": 4120,
     "date": "2024-07-11T05:31:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nAdo 的声线好疯！转粉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 25,
+    "views": 33,
     "forwards": 0,
     "files": [
       {
@@ -56224,6 +56224,76 @@
         "url": "media/4120.flac",
         "size": 44540893,
         "thumb": "media/4120.flac_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4121,
+    "date": "2024-07-11T07:14:30",
+    "text": "给 maimai 手台买了一个漫步者 C2X 音响，它自带的功放 EQ 真的有大问题...\n\n拆开功放发现是 TDA7303 EQ + TDA7379 的廉价方案，感觉救不了，重新配了一个 DIY 功放\n\n这次用了两片 TPA3116D2 的方案，一片 50W * 2 给左右双声道，另一片 100W 单声道给低音炮，配了一个 24V 8A 电源，效果真的立竿见影\n\n今天给它画了一个壳子 3D 打印出来了，看起来也还不错呢 qwq",
+    "views": 21,
+    "forwards": 0,
+    "media_group_id": 13765456567346213,
+    "images": [
+      {
+        "width": 1975,
+        "height": 1596,
+        "date": "2024-07-11T07:14:29",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-11_07-14-29.jpg",
+        "url": "media/4121.jpg",
+        "size": 190537,
+        "thumb": "media/4121.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-07-11T07:09:31",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-11_07-09-31.jpg",
+        "url": "media/4122.jpg",
+        "size": 338886,
+        "thumb": "media/4122.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-07-11T07:09:32",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-11_07-09-32.jpg",
+        "url": "media/4123.jpg",
+        "size": 324735,
+        "thumb": "media/4123.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-07-11T07:14:30",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-11_07-14-30.jpg",
+        "url": "media/4124.jpg",
+        "size": 403739,
+        "thumb": "media/4124.jpg_thumb.jpg"
+      },
+      {
+        "width": 1554,
+        "height": 815,
+        "date": "2024-07-11T03:19:51",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-11_03-19-51.jpg",
+        "url": "media/4125.jpg",
+        "size": 95662,
+        "thumb": "media/4125.jpg_thumb.jpg"
+      },
+      {
+        "width": 637,
+        "height": 608,
+        "date": "2024-07-11T03:25:14",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-11_03-25-14.jpg",
+        "url": "media/4126.jpg",
+        "size": 20537,
+        "thumb": "media/4126.jpg_thumb.jpg"
       }
     ]
   }

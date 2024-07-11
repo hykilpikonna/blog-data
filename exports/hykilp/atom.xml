@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-07-11T06:16:17.597222+00:00</updated>
+  <updated>2024-07-11T08:09:52.150427+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4121</id>
+    <title>小桂桂的回忆录 📒 #4121</title>
+    <updated>2024-07-11T07:14:30+00:00</updated>
+    <content>&lt;p&gt;给 maimai 手台买了一个漫步者 C2X 音响，它自带的功放 EQ 真的有大问题...&lt;/p&gt;
+&lt;p&gt;拆开功放发现是 TDA7303 EQ + TDA7379 的廉价方案，感觉救不了，重新配了一个 DIY 功放&lt;/p&gt;
+&lt;p&gt;这次用了两片 TPA3116D2 的方案，一片 50W * 2 给左右双声道，另一片 100W 单声道给低音炮，配了一个 24V 8A 电源，效果真的立竿见影&lt;/p&gt;
+&lt;p&gt;今天给它画了一个壳子 3D 打印出来了，看起来也还不错呢 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4121" rel="alternate"/>
+  </entry>
   <entry>
     <id>4120</id>
     <title>小桂桂的回忆录 📒 #4120</title>
