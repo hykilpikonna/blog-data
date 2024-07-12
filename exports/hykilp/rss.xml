@@ -12,7 +12,21 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Jul 2024 12:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 14:08:33 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4144</title>
+      <link>https://aza.moe/life?post=4144</link>
+      <description>&lt;p&gt;第一代模型和第二代模型的对比 qwq&lt;/p&gt;
+&lt;p&gt;都是 VITS 架构，v1 是从每个角色 200 条 10s 音频的 900 MB 小数据集训练 500 轮出来的，v2 是由全游戏总共 173k 条音频的 30GB 大数据集训练现在刚 50 轮就已经比 v1 好太多了哇&lt;/p&gt;
+&lt;p&gt;不过大数据集训练好慢... 即使为了防止显存炸掉限制了 10s（因为要把整个音频读进显存里才能训练，最长长度不一致的话很容易 OOM）即使把 batch size 调到 48 用 4090 训练，每轮也要半小时这么久...&lt;/p&gt;
+&lt;p&gt;新的模型也开放了一个测试网页，欢迎来玩哦 &lt;a href="http://sekai-test2.aquadx.net/"&gt;http://sekai-test2.aquadx.net/&lt;/a&gt; （之后下线的时候会把这条编辑掉）&lt;/p&gt;</description>
+      <guid isPermaLink="false">4144</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #4142</title>
+      <link>https://aza.moe/life?post=4142</link>
+      <guid isPermaLink="false">4142</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4141</title>
       <link>https://aza.moe/life?post=4141</link>
