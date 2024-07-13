@@ -56454,7 +56454,7 @@
     "id": 4140,
     "date": "2024-07-12T07:47:26",
     "text": "？",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -56473,13 +56473,13 @@
     "id": 4141,
     "date": "2024-07-12T11:18:33",
     "text": "在想 为什么有酿十年的酒但是没有炖十年的肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 46,
+    "views": 48,
     "forwards": 0
   },
   {
     "id": 4142,
     "date": "2024-07-12T12:14:00",
-    "views": 43,
+    "views": 45,
     "forwards": 0,
     "media_group_id": 13766291520648917,
     "files": [
@@ -56513,7 +56513,7 @@
     "id": 4144,
     "date": "2024-07-12T12:14:12",
     "text": "第一代模型和第二代模型的对比 qwq\n\n都是 VITS 架构，v1 是从每个角色 200 条 10s 音频的 900 MB 小数据集训练 500 轮出来的，v2 是由全游戏总共 173k 条音频的 30GB 大数据集训练现在刚 50 轮就已经比 v1 好太多了哇\n\n不过大数据集训练好慢... 即使为了防止显存炸掉限制了 10s（因为要把整个音频读进显存里才能训练，最长长度不一致的话很容易 OOM）即使把 batch size 调到 48 用 4090 训练，每轮也要半小时这么久...\n\n新的模型也开放了一个测试网页，欢迎来玩哦 <a href=\"http://sekai-test2.aquadx.net/\">http://sekai-test2.aquadx.net/</a> （之后下线的时候会把这条编辑掉）",
-    "views": 43,
+    "views": 45,
     "forwards": 0,
     "reply": {
       "id": 4142
@@ -56523,7 +56523,7 @@
     "id": 4145,
     "date": "2024-07-12T19:47:31",
     "text": "接上桂桂TTS了.说话有声音了",
-    "views": 25,
+    "views": 33,
     "forwards": 0,
     "forwarded_from": {
       "name": "ねこ",
@@ -56550,7 +56550,7 @@
     "id": 4146,
     "date": "2024-07-12T19:48:04",
     "text": "Syama 那边在做 Unity 前端，好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我给开了一个 API 之后她好快就写好了\n\n居然还有嘴型哇",
-    "views": 26,
+    "views": 34,
     "forwards": 0,
     "reply": {
       "id": 4145,
@@ -56561,7 +56561,7 @@
     "id": 4147,
     "date": "2024-07-12T23:04:21",
     "text": "欢乐",
-    "views": 15,
+    "views": 25,
     "forwards": 0,
     "media_group_id": 13766603691716701,
     "images": [
