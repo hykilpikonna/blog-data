@@ -55277,7 +55277,7 @@
     "id": 4056,
     "date": "2024-06-26T17:26:00",
     "text": "刚才和 menci 聊到黑苹果，发现 menci 居然没有听说过 Lilu... 我印象中这是从我入坑开始就一直是必要的 kext\n\n然后翻翻照片发现确实，从我 2018 年末刚入坑黑苹果就有 Lilu 了，然而那个时候 menci 已经退坑黑苹果了 🌚",
-    "views": 95,
+    "views": 96,
     "forwards": 1,
     "media_group_id": 13755382086855445,
     "images": [
@@ -55543,7 +55543,7 @@
     "id": 4073,
     "date": "2024-06-29T08:15:22",
     "text": "入坑 pjsk 之后打的第一个活动打到了 1893 名！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n活动刚开始的时候首先需要订一个合理的目标，去爬了 Sekai Viewer 里面上个活动的排行榜数据，然后看到... 第一名分数是第 1000 名的 42 倍 🤯 有些恐怖，过滤一下 200 以下重新画了图，把目标定在分数需求恐怖上升之前的 1500 名。\n\n接下来要预测一下拿到这个名次需要多少分，但是每个活动的热度都不一样，怎么办呢？把前 10 个活动 1500 名的时间分数数据爬下来画一个图，用眼睛比划了一下看起来和活动 128 的曲线很相似，似乎订一个 7.2M 结束分的目标就非常稳了\n\n接下来再算一下打到这个分数需要多长时间吧，把体力倍率和我的队伍打每一首歌给奖励基础值算进去的话，最高十倍体力只需要打 188 首歌，按每首歌五分钟算就是 15.6 个小时，感觉肝一肝还是比较可及的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n虽然十倍体力需要花费 13k 水晶补充体力有点浪费，但是因为我只是想体验一下打排名的感觉，并不想持续玩下去，所以这次活动需要考虑的只有物理体力，可以让自己用掉无限的游戏内资源 qwq\n\n就这样按计划打歌打着打着就到了 6.5M 分，最后还是有点累就不打了，不过拿到了 2000 名的牌子也很满足啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i> 看 iOS 屏幕时间统计我花了 18h 48m 的样子，累累",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "media_group_id": 13757191381549285,
     "images": [
@@ -55603,7 +55603,7 @@
     "id": 4078,
     "date": "2024-06-29T11:52:39",
     "text": "?",
-    "views": 137,
+    "views": 138,
     "forwards": 4,
     "images": [
       {
@@ -55621,7 +55621,7 @@
   {
     "id": 4079,
     "date": "2024-06-29T13:31:37",
-    "views": 223,
+    "views": 225,
     "forwards": 11,
     "files": [
       {
@@ -56074,7 +56074,7 @@
     "id": 4111,
     "date": "2024-07-08T14:24:46",
     "text": "syama 精神状态 be like...",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -56094,7 +56094,7 @@
     "id": 4112,
     "date": "2024-07-08T23:07:46",
     "text": "人生第一次训练大语言模型 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "images": [
       {
@@ -56113,7 +56113,7 @@
     "id": 4113,
     "date": "2024-07-09T09:47:13",
     "text": "训练了一天 Qwen2-7B pretrain lora 之后似乎可以和 pjsk 的大家说话了！\n\n（虽然还有很多要优化，但是可行性通过了 quq",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13764147471161677,
     "images": [
@@ -56143,7 +56143,7 @@
     "id": 4115,
     "date": "2024-07-10T10:05:26",
     "text": "训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>开放了一个测试网页大家可以来玩玩 </del><a href=\"https://sekai-test.aquadx.net/\"><del>https://sekai-test.aquadx.net/</a></del> （edit: 测试结束下线了，感谢关注）\n\n架构用的是 2021 年的 <a href=\"https://arxiv.org/abs/2106.06103\">VITS</a>，训练用了 <a href=\"https://github.com/Plachtaa/VITS-fast-fine-tuning\">Plachtaa 的微调仓库</a>，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久\n\n以及感谢 menci 借给我 4090 机器 qwq",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "images": [
       {
@@ -56162,14 +56162,14 @@
     "id": 4116,
     "date": "2024-07-10T16:03:25",
     "text": "在中国只是日常写程序就能学到很多寄网知识 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n刚才开 gradio 不知道为什么提交生成的时候没有反应，甚至服务器端没有收到请求，然后发现是 gradio 自己需要访问 localhost，然而开了 all_proxy 环境变量之后 localhost 也被代跑了",
-    "views": 68,
+    "views": 69,
     "forwards": 1
   },
   {
     "id": 4117,
     "date": "2024-07-10T16:40:29",
     "text": "最近 AquaDX 和其他服务器经常宕机的原因\n\n相信聊聊已经尽力了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 67,
+    "views": 68,
     "forwards": 1,
     "media_group_id": 13765037034951597,
     "images": [
@@ -56209,7 +56209,7 @@
     "id": 4120,
     "date": "2024-07-11T05:31:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nAdo 的声线好疯！转粉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "files": [
       {
@@ -56231,7 +56231,7 @@
     "id": 4121,
     "date": "2024-07-11T07:14:30",
     "text": "给 maimai 手台买了一个漫步者 C2X 音响，它自带的功放 EQ 真的有大问题...\n\n拆开功放发现是 TDA7303 EQ + TDA7379 的廉价方案，感觉救不了，重新配了一个 DIY 功放\n\n这次用了两片 TPA3116D2 的方案，一片 50W * 2 给左右双声道，另一片 100W 单声道给低音炮，配了一个 24V 8A 电源，效果真的立竿见影\n\n今天给它画了一个壳子 3D 打印出来了，看起来也还不错呢 qwq",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "media_group_id": 13765456567346213,
     "images": [
@@ -56523,7 +56523,7 @@
     "id": 4145,
     "date": "2024-07-12T19:47:31",
     "text": "接上桂桂TTS了.说话有声音了",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "forwarded_from": {
       "name": "ねこ",
@@ -56561,7 +56561,7 @@
     "id": 4147,
     "date": "2024-07-12T23:04:21",
     "text": "欢乐",
-    "views": 47,
+    "views": 49,
     "forwards": 0,
     "media_group_id": 13766603691716701,
     "images": [
@@ -56601,7 +56601,7 @@
     "id": 4150,
     "date": "2024-07-13T20:40:40",
     "text": "呜呜 好想吃瑞希做的咖喱意面 quq",
-    "views": 28,
+    "views": 33,
     "forwards": 0,
     "images": [
       {
