@@ -24527,7 +24527,7 @@
     "id": 1845,
     "date": "2023-02-14T15:32:24",
     "text": "和聊聊一起做的抹茶酸奶慕斯！\n\n情人节快乐ww <i class=\"custom-emoji\" emoji-src=\"emoji/6113827929437767315.webm\">❤</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 2,
     "media_group_id": 13411109953852685,
     "images": [
@@ -55721,7 +55721,7 @@
     "id": 4085,
     "date": "2024-07-01T16:33:25",
     "text": "湿度 100% <i class=\"custom-emoji\" emoji-src=\"emoji/6323168646944261206.webp\">🐈</i>\n\n<span class=\"spoiler\"><span>我在空气中游泳</span></span>\n\n在外面走着走着衣服湿了，不是因为热出汗，纯粹只是飘游的的水气贴在衣服上凝缩回水了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13758812847491621,
     "images": [
@@ -56404,7 +56404,7 @@
     "id": 4136,
     "date": "2024-07-12T03:38:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<a href=\"https://t.me/Azuelle\">@Azuelle</a> 从日本带回来的博多纯情らーめん <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 好吃诶",
-    "views": 52,
+    "views": 54,
     "forwards": 1,
     "media_group_id": 13766044269129149,
     "images": [
@@ -56454,7 +56454,7 @@
     "id": 4140,
     "date": "2024-07-12T07:47:26",
     "text": "？",
-    "views": 52,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -56473,13 +56473,13 @@
     "id": 4141,
     "date": "2024-07-12T11:18:33",
     "text": "在想 为什么有酿十年的酒但是没有炖十年的肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 53,
+    "views": 55,
     "forwards": 0
   },
   {
     "id": 4142,
     "date": "2024-07-12T12:14:00",
-    "views": 51,
+    "views": 54,
     "forwards": 0,
     "media_group_id": 13766291520648917,
     "files": [
@@ -56513,7 +56513,7 @@
     "id": 4144,
     "date": "2024-07-12T12:14:12",
     "text": "第一代模型和第二代模型的对比 qwq\n\n都是 VITS 架构，v1 是从每个角色 200 条 10s 音频的 900 MB 小数据集训练 500 轮出来的，v2 是由全游戏总共 173k 条音频的 30GB 大数据集训练现在刚 50 轮就已经比 v1 好太多了哇\n\n不过大数据集训练好慢... 即使为了防止显存炸掉限制了 10s（因为要把整个音频读进显存里才能训练，最长长度不一致的话很容易 OOM）即使把 batch size 调到 48 用 4090 训练，每轮也要半小时这么久...\n\n新的模型也开放了一个测试网页，欢迎来玩哦 <a href=\"http://sekai-test2.aquadx.net/\">http://sekai-test2.aquadx.net/</a> （之后下线的时候会把这条编辑掉）",
-    "views": 54,
+    "views": 60,
     "forwards": 0,
     "reply": {
       "id": 4142
@@ -56523,7 +56523,7 @@
     "id": 4145,
     "date": "2024-07-12T19:47:31",
     "text": "接上桂桂TTS了.说话有声音了",
-    "views": 53,
+    "views": 59,
     "forwards": 0,
     "forwarded_from": {
       "name": "ねこ",
@@ -56550,7 +56550,7 @@
     "id": 4146,
     "date": "2024-07-12T19:48:04",
     "text": "Syama 那边在做 Unity 前端，好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我给开了一个 API 之后她好快就写好了\n\n居然还有嘴型哇",
-    "views": 52,
+    "views": 60,
     "forwards": 0,
     "reply": {
       "id": 4145,
@@ -56561,7 +56561,7 @@
     "id": 4147,
     "date": "2024-07-12T23:04:21",
     "text": "欢乐",
-    "views": 51,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13766603691716701,
     "images": [
@@ -56601,7 +56601,7 @@
     "id": 4150,
     "date": "2024-07-13T20:40:40",
     "text": "呜呜 好想吃瑞希做的咖喱意面 quq",
-    "views": 40,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -56615,5 +56615,12 @@
         "thumb": "media/4150.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 4151,
+    "date": "2024-07-16T04:38:34",
+    "text": "好无力",
+    "views": 29,
+    "forwards": 0
   }
 ]
