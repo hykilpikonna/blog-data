@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-07-18T10:08:29.662890+00:00</updated>
+  <updated>2024-07-18T12:10:08.546773+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4169</id>
+    <title>小桂桂的回忆录 📒 #4169</title>
+    <updated>2024-07-18T11:23:14+00:00</updated>
+    <content>&lt;p&gt;？？？？ CloudFlare 真的好智能？&lt;/p&gt;
+&lt;p&gt;今天起来发现服务炸了，请求直接域名不见... 驱虫了半天，原本觉得 CF 应该是最不容易出问题的但是也看一眼吧，然后发现真的就是 CF 的锅&lt;/p&gt;
+&lt;p&gt;我的 CF 隧道上有很多条 &lt;a href="sekai.aquadx.net"&gt;sekai.aquadx.net&lt;/a&gt; 的不同子路径代理到不同端口上，昨天晚上加了一个测试路径然后把它删掉了，然后现在发现 CF 删那个子路径的时候直接把我整个 &lt;a href="sekai.aquadx.net"&gt;sekai.aquadx.net&lt;/a&gt; 的 DNS 映射删掉了......&lt;/p&gt;
+&lt;p&gt;怎么这么基础的逻辑还能出错啊 CF &lt;i class="custom-emoji" emoji-src="emoji/6323343426343404864.webp"&gt;❓&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4169" rel="alternate"/>
+  </entry>
   <entry>
     <id>4168</id>
     <title>小桂桂的回忆录 📒 #4168</title>
