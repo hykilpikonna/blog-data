@@ -1224,7 +1224,7 @@
     "id": 117,
     "date": "2021-10-14T15:04:06",
     "text": "抽血w",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -1243,7 +1243,7 @@
     "id": 119,
     "date": "2021-10-14T17:53:43",
     "text": "抽完血下一个 appointment 又要排到两周后了... 这样每办一件事都要等两周不知道什么时候才能拿到处方w",
-    "views": 51,
+    "views": 52,
     "forwards": 1,
     "media_group_id": 13073872186487669,
     "images": [
@@ -56142,7 +56142,7 @@
     "id": 4115,
     "date": "2024-07-10T10:05:26",
     "text": "训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>开放了一个测试网页大家可以来玩玩 </del><a href=\"https://sekai-test.aquadx.net/\"><del>https://sekai-test.aquadx.net/</a></del> （edit: 测试结束下线了，感谢关注）\n\n架构用的是 2021 年的 <a href=\"https://arxiv.org/abs/2106.06103\">VITS</a>，训练用了 <a href=\"https://github.com/Plachtaa/VITS-fast-fine-tuning\">Plachtaa 的微调仓库</a>，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久\n\n以及感谢 menci 借给我 4090 机器 qwq",
-    "views": 97,
+    "views": 98,
     "forwards": 1,
     "images": [
       {
@@ -56161,7 +56161,7 @@
     "id": 4116,
     "date": "2024-07-10T16:03:25",
     "text": "在中国只是日常写程序就能学到很多寄网知识 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n刚才开 gradio 不知道为什么提交生成的时候没有反应，甚至服务器端没有收到请求，然后发现是 gradio 自己需要访问 localhost，然而开了 all_proxy 环境变量之后 localhost 也被代跑了",
-    "views": 80,
+    "views": 81,
     "forwards": 1
   },
   {
@@ -56801,7 +56801,7 @@
     "id": 4166,
     "date": "2024-07-17T17:16:04",
     "text": "syama 家有一组两个灯有三个按钮开关，开关 A 打开会让 a 亮，B 会让 b 亮，C 会让 a = !a, b = ! b，也就是说如果 A 和 C 同时开着，只有 b 亮\n\n<span class=\"spoiler\"><span>突然好想把家里的智能开关改造成一个布尔可满足性谜题，每个开关控制三个灯的布尔条件，每组特定的亮灭组合都可以用一种特定的开关组合达成</span></span>",
-    "views": 61,
+    "views": 62,
     "forwards": 0
   },
   {
@@ -56837,7 +56837,7 @@
     "id": 4169,
     "date": "2024-07-18T11:23:14",
     "text": "？？？？ CloudFlare 真的好智能？\n\n今天起来发现服务炸了，请求直接域名不见... 驱虫了半天，原本觉得 CF 应该是最不容易出问题的但是也看一眼吧，然后发现真的就是 CF 的锅\n\n我的 CF 隧道上有很多条 <a href=\"sekai.aquadx.net\">sekai.aquadx.net</a> 的不同子路径代理到不同端口上，昨天晚上加了一个测试路径然后把它删掉了，然后现在发现 CF 删那个子路径的时候直接把我整个 <a href=\"sekai.aquadx.net\">sekai.aquadx.net</a> 的 DNS 映射删掉了......\n\n怎么这么基础的逻辑还能出错啊 CF <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 61,
+    "views": 62,
     "forwards": 1,
     "media_group_id": 13770414354579493,
     "images": [
@@ -56867,14 +56867,14 @@
     "id": 4171,
     "date": "2024-07-18T20:36:36",
     "text": "我火星 刚看到 niconico 数据丢失的那件事，完全 🤯\n\n发现现在日语创作社区已经移居 YouTube 了，弹幕文化就这样死掉了吗... 感觉好可惜",
-    "views": 51,
+    "views": 55,
     "forwards": 0
   },
   {
     "id": 4172,
     "date": "2024-07-19T10:57:17",
     "text": "跟我学单词：\nCrowd，人群\nStrike，罢工\nCrowdStrike，集体罢工\n\n例句：\nJuly 19th, we CrowdStrike. 7月19日，我们集体罢工了",
-    "views": 28,
+    "views": 39,
     "forwards": 1,
     "forwarded_from": {
       "name": "IloveMATH.Get('Daily').Except('Ingress').EmitToChannel()"
@@ -56884,11 +56884,99 @@
     "id": 4173,
     "date": "2024-07-19T10:58:45",
     "text": "感觉会有很多一般路过吃瓜群众觉得这次的蓝屏事故是微软的锅...",
-    "views": 34,
+    "views": 46,
     "forwards": 0,
     "reply": {
       "id": 4172,
       "text": "跟我学单词：\nCrowd，人群\nStrike，罢工\nCrowdStrike，集体罢工\n\n例句：\nJuly 19th, we CrowdStrike. 7月19日，我们集体罢工了"
     }
+  },
+  {
+    "id": 4174,
+    "date": "2024-07-19T14:30:25",
+    "text": "今天在研究中日文翻译，去🤗上找了一圈发现并没有人训练中文翻日文的模型，即使语言很全的比如 Helsinki-NLP opus 系列也大部分都是转英语的模型。\n\n然后就在想，要做一个语言覆盖全面的翻译模型需要的资源好多啊，模型数量和语言数量是 n² 关系，如果要支持 33 种语言互相翻译就需要训练 1089 个模型... 那现有的翻译工具是怎么做的呢？\n\n然后发现谷歌翻译其实是用英语做了中间语言，先把所有语言翻译到英语再翻译到目标语言... 这样就只需要 2n 个模型了，但是会有很大问题，英语有歧义的东西就会翻错，比如「字符串」 > \"String\" > 「弦」\n\n那 DeepL 是怎么做的呢？简单测试一下发现是没有英语歧义问题的，字符串不会翻译成弦，弦也不会翻译成字符串... 但是仔细测试一下发现 DeepL 其实也是用英语中转的，因为中英翻译爆炸的时候中日会把英语的爆炸结果翻出来。那它是怎么做到消歧义的呢？好奇妙",
+    "views": 37,
+    "forwards": 0,
+    "media_group_id": 13771195402520333,
+    "images": [
+      {
+        "width": 575,
+        "height": 720,
+        "date": "2024-07-19T14:30:14",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-19_14-30-14.jpg",
+        "url": "media/4174.jpg",
+        "size": 30516,
+        "thumb": "media/4174.jpg_thumb.jpg"
+      },
+      {
+        "width": 575,
+        "height": 978,
+        "date": "2024-07-19T14:30:24",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-19_14-30-24.jpg",
+        "url": "media/4175.jpg",
+        "size": 37228,
+        "thumb": "media/4175.jpg_thumb.jpg"
+      },
+      {
+        "width": 575,
+        "height": 931,
+        "date": "2024-07-19T14:30:24",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-19_14-30-24.jpg",
+        "url": "media/4176.jpg",
+        "size": 28741,
+        "thumb": "media/4176.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4177,
+    "date": "2024-07-19T14:42:19",
+    "text": "没事了，DeepL 英语歧义也会翻错",
+    "views": 30,
+    "forwards": 0,
+    "reply": {
+      "id": 4174,
+      "text": "今天在研究中日文翻译，去🤗上找了一圈发现并没有人训练中文翻日文的模型，即使语言很全的比如 Helsinki-NLP opus 系列也大部分都是转英语的模型。\n\n然后就在想，要做一个语言覆盖全面的翻译模型需要的资源好多啊，模型数量和语言数量是 n² 关系，如果要支持 33 种语言互相翻译就需要训练 1089 个模型... 那现有的翻译工具是怎么做的呢？\n\n然后发现谷歌翻译其实是用英语做了中间语言，先把所有语言翻译到英语再翻译到目标语言... 这样就只需要 2n 个模型了，但是会有很大问题，英语有歧义的东西就会翻错，比如「字符串」 > \"String\" > 「弦」\n\n那 DeepL 是怎么做的呢？简单测试一下发现是没有英语歧义问题的，字符串不会翻译成弦，弦也不会翻译成字符串... 但是仔细测试一下发现 DeepL 其实也是用英语中转的，因为中英翻译爆炸的时候中日会把英语的爆炸结果翻出来。那它是怎么做到消歧义的呢？好奇妙",
+      "thumb": "media/4174.jpg_thumb.jpg"
+    },
+    "images": [
+      {
+        "width": 1137,
+        "height": 329,
+        "date": "2024-07-19T14:43:37",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-19_14-43-37.jpg",
+        "url": "media/4177.jpg",
+        "size": 22133,
+        "thumb": "media/4177.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4178,
+    "date": "2024-07-19T15:36:21",
+    "text": "测试了半天百度翻译，百度翻译确实没有英语歧义的问题\n\n...因为百度的中转语言是中文，当然没有英语歧义的问题，只有中文歧义的问题 🌚\n\n\"Beat a car\" > 「打车」 > 「タクシーを拾う」 (\"Take a taxi\")\n\n不过感觉中文确实比英文更难出现歧义，而且因为亚洲语言离中文更近，感觉百度翻译翻亚洲语言的准确率肯定比英语中转的 Google / DeepL 高",
+    "views": 20,
+    "forwards": 0,
+    "reply": {
+      "id": 4174,
+      "text": "今天在研究中日文翻译，去🤗上找了一圈发现并没有人训练中文翻日文的模型，即使语言很全的比如 Helsinki-NLP opus 系列也大部分都是转英语的模型。\n\n然后就在想，要做一个语言覆盖全面的翻译模型需要的资源好多啊，模型数量和语言数量是 n² 关系，如果要支持 33 种语言互相翻译就需要训练 1089 个模型... 那现有的翻译工具是怎么做的呢？\n\n然后发现谷歌翻译其实是用英语做了中间语言，先把所有语言翻译到英语再翻译到目标语言... 这样就只需要 2n 个模型了，但是会有很大问题，英语有歧义的东西就会翻错，比如「字符串」 > \"String\" > 「弦」\n\n那 DeepL 是怎么做的呢？简单测试一下发现是没有英语歧义问题的，字符串不会翻译成弦，弦也不会翻译成字符串... 但是仔细测试一下发现 DeepL 其实也是用英语中转的，因为中英翻译爆炸的时候中日会把英语的爆炸结果翻出来。那它是怎么做到消歧义的呢？好奇妙",
+      "thumb": "media/4174.jpg_thumb.jpg"
+    },
+    "images": [
+      {
+        "width": 1259,
+        "height": 406,
+        "date": "2024-07-19T15:36:20",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-19_15-36-20.jpg",
+        "url": "media/4178.jpg",
+        "size": 48852,
+        "thumb": "media/4178.jpg_thumb.jpg"
+      }
+    ]
   }
 ]

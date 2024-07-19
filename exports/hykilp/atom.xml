@@ -2,11 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-07-19T14:09:05.921681+00:00</updated>
+  <updated>2024-07-19T16:09:32.871823+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4178</id>
+    <title>小桂桂的回忆录 📒 #4178</title>
+    <updated>2024-07-19T15:36:21+00:00</updated>
+    <content>&lt;p&gt;测试了半天百度翻译，百度翻译确实没有英语歧义的问题&lt;/p&gt;
+&lt;p&gt;...因为百度的中转语言是中文，当然没有英语歧义的问题，只有中文歧义的问题 🌚&lt;/p&gt;
+&lt;p&gt;"Beat a car" &amp;gt; 「打车」 &amp;gt; 「タクシーを拾う」 ("Take a taxi")&lt;/p&gt;
+&lt;p&gt;不过感觉中文确实比英文更难出现歧义，而且因为亚洲语言离中文更近，感觉百度翻译翻亚洲语言的准确率肯定比英语中转的 Google / DeepL 高&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4178" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4177</id>
+    <title>小桂桂的回忆录 📒 #4177</title>
+    <updated>2024-07-19T14:42:19+00:00</updated>
+    <content>&lt;p&gt;没事了，DeepL 英语歧义也会翻错&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4177" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4174</id>
+    <title>小桂桂的回忆录 📒 #4174</title>
+    <updated>2024-07-19T14:30:25+00:00</updated>
+    <content>&lt;p&gt;今天在研究中日文翻译，去🤗上找了一圈发现并没有人训练中文翻日文的模型，即使语言很全的比如 Helsinki-NLP opus 系列也大部分都是转英语的模型。&lt;/p&gt;
+&lt;p&gt;然后就在想，要做一个语言覆盖全面的翻译模型需要的资源好多啊，模型数量和语言数量是 n² 关系，如果要支持 33 种语言互相翻译就需要训练 1089 个模型... 那现有的翻译工具是怎么做的呢？&lt;/p&gt;
+&lt;p&gt;然后发现谷歌翻译其实是用英语做了中间语言，先把所有语言翻译到英语再翻译到目标语言... 这样就只需要 2n 个模型了，但是会有很大问题，英语有歧义的东西就会翻错，比如「字符串」 &amp;gt; "String" &amp;gt; 「弦」&lt;/p&gt;
+&lt;p&gt;那 DeepL 是怎么做的呢？简单测试一下发现是没有英语歧义问题的，字符串不会翻译成弦，弦也不会翻译成字符串... 但是仔细测试一下发现 DeepL 其实也是用英语中转的，因为中英翻译爆炸的时候中日会把英语的爆炸结果翻出来。那它是怎么做到消歧义的呢？好奇妙&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4174" rel="alternate"/>
+  </entry>
   <entry>
     <id>4173</id>
     <title>小桂桂的回忆录 📒 #4173</title>
