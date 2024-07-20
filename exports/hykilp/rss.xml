@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Jul 2024 22:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 00:12:14 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4179</title>
+      <link>https://aza.moe/life?post=4179</link>
+      <description>&lt;p&gt;这几天每天都要重启电脑，只要电脑开机超过 24h 内存就绝对会被占满，然后 CPU 也会被内存管理占到 30% 左右...&lt;/p&gt;
+&lt;p&gt;但是我用户的程序只占了 4.4GB，那剩下的 28GB 去哪了呢？&lt;/p&gt;
+&lt;p&gt;今天实在受不了了，打开 sysinternals RamMap 仔细研究了一下，发现页表居然占了 7GB。看看进程发现我进程表 90% 都是 Docker 的僵尸进程，虽然每个只占 32K 的页表但是多了就把内存占满了 &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;没想到会是 Docker 这么常用的东西的问题... 立即卸载（&lt;/p&gt;</description>
+      <guid isPermaLink="false">4179</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4178</title>
       <link>https://aza.moe/life?post=4178</link>

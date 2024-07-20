@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-07-19T22:10:37.300959+00:00</updated>
+  <updated>2024-07-20T00:12:14.746491+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4179</id>
+    <title>小桂桂的回忆录 📒 #4179</title>
+    <updated>2024-07-19T22:19:44+00:00</updated>
+    <content>&lt;p&gt;这几天每天都要重启电脑，只要电脑开机超过 24h 内存就绝对会被占满，然后 CPU 也会被内存管理占到 30% 左右...&lt;/p&gt;
+&lt;p&gt;但是我用户的程序只占了 4.4GB，那剩下的 28GB 去哪了呢？&lt;/p&gt;
+&lt;p&gt;今天实在受不了了，打开 sysinternals RamMap 仔细研究了一下，发现页表居然占了 7GB。看看进程发现我进程表 90% 都是 Docker 的僵尸进程，虽然每个只占 32K 的页表但是多了就把内存占满了 &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;没想到会是 Docker 这么常用的东西的问题... 立即卸载（&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4179" rel="alternate"/>
+  </entry>
   <entry>
     <id>4178</id>
     <title>小桂桂的回忆录 📒 #4178</title>
