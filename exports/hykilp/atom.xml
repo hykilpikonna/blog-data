@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-07-20T08:11:57.961897+00:00</updated>
+  <updated>2024-07-20T10:11:02.338409+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4183</id>
+    <title>小桂桂的回忆录 📒 #4183</title>
+    <updated>2024-07-20T09:44:20+00:00</updated>
+    <content>&lt;p&gt;草 &lt;/p&gt;
+&lt;p&gt;我: 在 /gen 请求参数面加了一个变量，你加一下
+syama: 我找找，是这个类吗 GenerateResponse... 好像是返回类。找不到欸 &lt;i class="custom-emoji" emoji-src="emoji/6323412532367198064.webp"&gt;🍔&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4183" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4182</id>
+    <title>小桂桂的回忆录 📒 #4182</title>
+    <updated>2024-07-20T09:18:30+00:00</updated>
+    <content>&lt;p&gt;好吧又仔细查了一下，Github 上有人开了 issue，他们的结论是这是 AMD Zen4 显卡驱动 Adrenaline 24 的 bug，会让所有结束了的进程变成僵尸进程释放不出去... 大家给 docker 丢锅只是正好 docker 结束进程比较频繁而已&lt;/p&gt;
+&lt;p&gt;试了从 24.4 更新到 24.7.1，不知道会不会好&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4182" rel="alternate"/>
+  </entry>
   <entry>
     <id>4179</id>
     <title>小桂桂的回忆录 📒 #4179</title>
