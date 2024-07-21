@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 120,
+    "views": 121,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41239,14 +41239,14 @@
     "id": 3053,
     "date": "2023-12-22T09:11:04",
     "text": "又发生了睡觉 deadlock，我在等聊聊睡觉的时候聊聊在等我睡觉，结果就到凌晨四点了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 2
   },
   {
     "id": 3054,
     "date": "2023-12-22T23:19:55",
     "text": "更新完了！<a href=\"https://github.com/hykilpikonna/AquaDX\">AquaDX</a> 和 <a href=\"lux.hydev.org\">lux.hydev.org</a> 都支持中二 SUN Plus 了！所有数据也都同步了哦",
-    "views": 99,
+    "views": 100,
     "forwards": 1,
     "media_group_id": 13626297563827117,
     "images": [
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 138,
+    "views": 139,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 123,
+    "views": 124,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -42165,7 +42165,7 @@
     "id": 3124,
     "date": "2024-01-01T00:46:40",
     "text": "理这团线感觉自己在拆炸弹 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "images": [
       {
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -49310,7 +49310,7 @@
     "id": 3611,
     "date": "2024-04-28T01:01:56",
     "text": "第一次想要在 Twitter 上 publicize 一件事情，感觉自己在学着别人用 Twitter 语气说话，但是似乎学得不是很好呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n看了猪猪和书的建议改了改才感觉更像是会在 Twitter 上看到的风格了。唉这真的好不像我，但是希望这样可以让更多人知道这件事情...\n\n<a href=\"https://twitter.com/Hykilpikonna/status/1784382363855679844\">Link</a>",
-    "views": 213,
+    "views": 214,
     "forwards": 2,
     "images": [
       {
@@ -56300,7 +56300,7 @@
     "id": 4127,
     "date": "2024-07-11T17:01:07",
     "text": "<a href=\"##出售\">#出售</a> <a href=\"##电子产品\">#电子产品</a> <a href=\"##iPad\">#iPad</a> <a href=\"##苹果\">#苹果</a> <a href=\"##A12X\">#A12X</a> <a href=\"##aarch64\">#aarch64</a> \n联系 Azalea  价格 2333\n便宜出缺陷机 iPad Pro 11\" 256G A12X A2013\n美版 Cellular 4G 插卡支持 eSIM，电池 87%，系统 17.4.1\n\n两周前 ￥2650 从咸鱼上入的，面交被卖家坑了，当面验货的时候觉得很好但是之后发现了好多暗病，因此换了新 M1 iPad Pro。带钢化膜，带定制的 🏳️‍⚧️ PJSK 「25 时」 磁吸壳，买了纸模还没贴需要的话可以一起发过去。\n\n❌ FaceID 不能用\n❌ 左上角非常偶尔会误触（玩游戏如果返回/暂停键在左上角的话可能需要旋转 180°）\n❌ 有美国 JetBlue 的 MDM 锁（可以解，刷机/重置/继承/恢复备份之后需要连电脑解，解锁之后不刷机就和正常机器一样完全分辨不出来... 当时面交应该当面重置的 😭）\n\n总之就是这样，全都是当面验货没找出来藏得很深的小毛病，被闲鱼坑了不想去坑下一家就便宜挂在这里好了。🉑小刀。帮你们查了 GSX 记录，更多详情见评论区",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "forwarded_from": {
       "name": "二手🐴"
@@ -56403,7 +56403,7 @@
     "id": 4136,
     "date": "2024-07-12T03:38:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<a href=\"https://t.me/Azuelle\">@Azuelle</a> 从日本带回来的博多纯情らーめん <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 好吃诶",
-    "views": 72,
+    "views": 73,
     "forwards": 2,
     "media_group_id": 13766044269129149,
     "images": [
@@ -56453,7 +56453,7 @@
     "id": 4140,
     "date": "2024-07-12T07:47:26",
     "text": "？",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "images": [
       {
@@ -56801,7 +56801,7 @@
     "id": 4166,
     "date": "2024-07-17T17:16:04",
     "text": "syama 家有一组两个灯有三个按钮开关，开关 A 打开会让 a 亮，B 会让 b 亮，C 会让 a = !a, b = ! b，也就是说如果 A 和 C 同时开着，只有 b 亮\n\n<span class=\"spoiler\"><span>突然好想把家里的智能开关改造成一个布尔可满足性谜题，每个开关控制三个灯的布尔条件，每组特定的亮灭组合都可以用一种特定的开关组合达成</span></span>",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
@@ -56874,7 +56874,7 @@
     "id": 4172,
     "date": "2024-07-19T10:57:17",
     "text": "跟我学单词：\nCrowd，人群\nStrike，罢工\nCrowdStrike，集体罢工\n\n例句：\nJuly 19th, we CrowdStrike. 7月19日，我们集体罢工了",
-    "views": 54,
+    "views": 55,
     "forwards": 1,
     "forwarded_from": {
       "name": "IloveMATH.Get('Daily').Except('Ingress').EmitToChannel()"
@@ -56884,7 +56884,7 @@
     "id": 4173,
     "date": "2024-07-19T10:58:45",
     "text": "感觉会有很多一般路过吃瓜群众觉得这次的蓝屏事故是微软的锅...",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "reply": {
       "id": 4172,
@@ -56935,7 +56935,7 @@
     "id": 4177,
     "date": "2024-07-19T14:42:19",
     "text": "没事了，DeepL 英语歧义也会翻错",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 4174,
@@ -57025,7 +57025,7 @@
     "id": 4183,
     "date": "2024-07-20T09:44:20",
     "text": "草 \n\n我: 在 /gen 请求参数面加了一个变量，你加一下\nsyama: 我找找，是这个类吗 GenerateResponse... 好像是返回类。找不到欸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "images": [
       {
@@ -57044,7 +57044,7 @@
     "id": 4184,
     "date": "2024-07-20T11:05:17",
     "text": "感觉是怎样设计模型都绕不开的问题",
-    "views": 60,
+    "views": 62,
     "forwards": 0,
     "images": [
       {
@@ -57063,7 +57063,7 @@
     "id": 4185,
     "date": "2024-07-20T16:16:20",
     "text": "入一些灵车",
-    "views": 65,
+    "views": 70,
     "forwards": 1,
     "images": [
       {
@@ -57082,14 +57082,14 @@
     "id": 4186,
     "date": "2024-07-20T16:34:51",
     "text": "0721 是什么日子？",
-    "views": 53,
+    "views": 57,
     "forwards": 0
   },
   {
     "id": 4187,
     "date": "2024-07-20T17:38:44",
     "text": "是人类的一大步",
-    "views": 49,
+    "views": 54,
     "forwards": 0,
     "forwarded_from": {
       "name": "Tarocca Leohearts ad Astra, 芋头",
@@ -57112,7 +57112,7 @@
     "id": 4188,
     "date": "2024-07-20T19:43:02",
     "text": "是同一个游戏",
-    "views": 43,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -57126,5 +57126,52 @@
         "thumb": "media/4188.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 4189,
+    "date": "2024-07-21T10:35:56",
+    "text": "兔兔苹果！",
+    "views": 36,
+    "forwards": 0,
+    "media_group_id": 13772465252381349,
+    "images": [
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2024-07-21T10:35:55",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-21_10-35-55.jpg",
+        "url": "media/4189.jpg",
+        "size": 90220,
+        "thumb": "media/4189.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-07-21T10:35:56",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-21_10-35-56.jpg",
+        "url": "media/4190.jpg",
+        "size": 93141,
+        "thumb": "media/4190.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-07-21T10:35:56",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-21_10-35-56.jpg",
+        "url": "media/4191.jpg",
+        "size": 92543,
+        "thumb": "media/4191.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4192,
+    "date": "2024-07-21T10:55:30",
+    "text": "syama: 下雨的时候鸟为什么不飞到云上面避雨呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
+    "views": 29,
+    "forwards": 0
   }
 ]
