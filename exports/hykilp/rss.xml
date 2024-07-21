@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Jul 2024 16:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 18:09:36 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4202</title>
+      <link>https://aza.moe/life?post=4202</link>
+      <description>&lt;p&gt;刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步&lt;/p&gt;
+&lt;p&gt;...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。&lt;/p&gt;
+&lt;p&gt;查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 &lt;i class="custom-emoji" emoji-src="emoji/6323343426343404864.webp"&gt;❓&lt;/i&gt; 怎么回事呢？&lt;/p&gt;
+&lt;p&gt;之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt; 真的感觉第一次在现实中见到 xkcd 级别的 💩&lt;/p&gt;</description>
+      <guid isPermaLink="false">4202</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4200</title>
       <link>https://aza.moe/life?post=4200</link>
