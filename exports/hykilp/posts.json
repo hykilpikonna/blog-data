@@ -51236,7 +51236,7 @@
     "id": 3759,
     "date": "2024-05-15T14:40:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉ラーメン！🍜\n\n之前说过「拉面」和「ラーメン」和 \"Ramen\" 都是很不一样的东西，这次回国从淘宝买了些日式食材比如鱼板和干木耳条和海苔和面和浓缩汤底终于能做比较正宗的ラーメン了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13726272119231821,
     "images": [
@@ -51370,7 +51370,7 @@
     "id": 3770,
     "date": "2024-05-16T04:51:07",
     "text": "自己读 64 条 Reddit 回复 ❌\n花一个小时写脚本交给 gpt-4o 读 ✅",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -51393,7 +51393,7 @@
     "id": 3771,
     "date": "2024-05-16T06:31:14",
     "text": "订了一个茶杯",
-    "views": 149,
+    "views": 150,
     "forwards": 1,
     "images": [
       {
@@ -51412,8 +51412,8 @@
     "id": 3772,
     "date": "2024-05-17T02:14:16",
     "text": "TIL: 不要随便相信从 <a href=\"ieee.org\">ieee.org</a> 邮箱发过来的邮件，任何人只要交 $100/yr 就可以注册 <a href=\"ieee.org\">ieee.org</a> 的邮箱，还可以填任何名字，甚至没有任何审核过程... 我差点被诈骗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及我也注册了一个 azalea@ieee.org，欢迎给我发邮件 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 99,
-    "forwards": 0,
+    "views": 101,
+    "forwards": 1,
     "images": [
       {
         "width": 885,
@@ -51431,7 +51431,7 @@
     "id": 3773,
     "date": "2024-05-17T19:24:12",
     "text": "menci 桌桌架起来了！大部分都完工啦，接下来只剩下贴一层木纹皮、给桌面封边、把抽屉用胶粘起来、还有把抽屉钉在轨道上 qwq\n\n还是踩了不少坑的，不过那些以后再写吧，今天累累要睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 13727790816665077,
     "images": [
@@ -51572,7 +51572,7 @@
   {
     "id": 3785,
     "date": "2024-05-18T20:07:49",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "files": [
       {
@@ -51597,7 +51597,7 @@
     "id": 3786,
     "date": "2024-05-19T07:16:22",
     "text": "<em>Ceci n'est pas un verre</em>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -57282,7 +57282,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 40,
+    "views": 41,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57322,7 +57322,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 36,
+    "views": 37,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57345,7 +57345,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 31,
+    "views": 32,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
