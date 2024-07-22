@@ -55517,7 +55517,7 @@
   {
     "id": 4072,
     "date": "2024-06-29T06:40:59",
-    "views": 294,
+    "views": 295,
     "forwards": 4,
     "files": [
       {
@@ -55620,7 +55620,7 @@
   {
     "id": 4079,
     "date": "2024-06-29T13:31:37",
-    "views": 236,
+    "views": 237,
     "forwards": 11,
     "files": [
       {
@@ -57131,7 +57131,7 @@
     "id": 4189,
     "date": "2024-07-21T10:35:56",
     "text": "兔兔苹果！",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "media_group_id": 13772465252381349,
     "images": [
@@ -57171,14 +57171,14 @@
     "id": 4192,
     "date": "2024-07-21T10:55:30",
     "text": "syama: 下雨的时候鸟为什么不飞到云上面避雨呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 51,
+    "views": 52,
     "forwards": 0
   },
   {
     "id": 4193,
     "date": "2024-07-21T14:01:31",
     "text": "楼下新开了一家米线店，原来直接用廉价建材装修成「很老旧装修的气氛」也能很好看 quq",
-    "views": 38,
+    "views": 41,
     "forwards": 0,
     "media_group_id": 13772563932384525,
     "images": [
@@ -57258,7 +57258,7 @@
     "id": 4200,
     "date": "2024-07-21T14:13:54",
     "text": "把这张打出来定了一个相框 qwq",
-    "views": 38,
+    "views": 41,
     "forwards": 0,
     "media_group_id": 13772569879446949,
     "images": [
@@ -57282,7 +57282,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 35,
+    "views": 40,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57322,7 +57322,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 29,
+    "views": 36,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57345,7 +57345,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 23,
+    "views": 31,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
