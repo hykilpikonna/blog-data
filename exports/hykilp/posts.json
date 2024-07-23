@@ -520,7 +520,7 @@
     "id": 46,
     "date": "2021-09-14T03:12:02",
     "text": "说起来，我好喜欢一边听音乐一边读写文字，比如刚才读豪猪吉列姆词条的时候让我哭出来也有正在播放的 Nier Fluquor 的功劳——这首歌是 Deemo 里面梦境终结，告别时的背景音乐，如果共时事件有更深层的意义的话，或许这个时候出现在这里是在告诉我是时候走出这个梦了吧...",
-    "views": 49,
+    "views": 50,
     "forwards": 0,
     "reply": {
       "id": 45
@@ -55517,7 +55517,7 @@
   {
     "id": 4072,
     "date": "2024-06-29T06:40:59",
-    "views": 297,
+    "views": 298,
     "forwards": 4,
     "files": [
       {
@@ -56867,7 +56867,7 @@
     "id": 4171,
     "date": "2024-07-18T20:36:36",
     "text": "我火星 刚看到 niconico 数据丢失的那件事，完全 🤯\n\n发现现在日语创作社区已经移居 YouTube 了，弹幕文化就这样死掉了吗... 感觉好可惜",
-    "views": 69,
+    "views": 70,
     "forwards": 0
   },
   {
@@ -57131,7 +57131,7 @@
     "id": 4189,
     "date": "2024-07-21T10:35:56",
     "text": "兔兔苹果！",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13772465252381349,
     "images": [
@@ -57171,14 +57171,14 @@
     "id": 4192,
     "date": "2024-07-21T10:55:30",
     "text": "syama: 下雨的时候鸟为什么不飞到云上面避雨呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 61,
+    "views": 62,
     "forwards": 0
   },
   {
     "id": 4193,
     "date": "2024-07-21T14:01:31",
     "text": "楼下新开了一家米线店，原来直接用廉价建材装修成「很老旧装修的气氛」也能很好看 quq",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "media_group_id": 13772563932384525,
     "images": [
@@ -57258,7 +57258,7 @@
     "id": 4200,
     "date": "2024-07-21T14:13:54",
     "text": "把这张打出来定了一个相框 qwq",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "media_group_id": 13772569879446949,
     "images": [
@@ -57282,7 +57282,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 52,
+    "views": 54,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57322,7 +57322,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 53,
+    "views": 55,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57345,7 +57345,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 55,
+    "views": 57,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57368,7 +57368,7 @@
     "id": 4207,
     "date": "2024-07-22T05:17:14",
     "text": "syama: 你看那个水杯旁边的镜头像不像一个水杯\n\n...它就是个水杯 🌚",
-    "views": 54,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -57387,7 +57387,7 @@
     "id": 4208,
     "date": "2024-07-22T12:13:18",
     "text": "没见过女的吗",
-    "views": 51,
+    "views": 53,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -57410,7 +57410,7 @@
     "id": 4209,
     "date": "2024-07-22T20:00:52",
     "text": "好用的",
-    "views": 46,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -57429,7 +57429,7 @@
     "id": 4210,
     "date": "2024-07-22T20:10:58",
     "text": "帮 syama 搬家搬到了苏州 qwq\n\nsyama 搬家好奇妙，当天来苏州刚看了一栋房就觉得还不错当场决定好签合同住进来了，然后马上打车回杭州打包东西叫货拉拉搬过来... <i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i> 好快！\n\n...然后发现这个房子有好多小问题，比如厕所很小没有地方可以放纸不被淋湿，厕所几乎没有抽风，窗户外面也是不太能通风的封闭小空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n果然租房不应该很快决定呢...",
-    "views": 49,
+    "views": 51,
     "forwards": 1,
     "media_group_id": 13773432467958797,
     "images": [
@@ -57509,14 +57509,14 @@
     "id": 4217,
     "date": "2024-07-22T20:32:45",
     "text": "syama: 明天早点叫我起床，我怕起床他们下班了\n我：所以我们现在“早点起床”是“下午五点之前“吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 49,
+    "views": 51,
     "forwards": 0
   },
   {
     "id": 4218,
     "date": "2024-07-23T08:45:19",
     "text": "去实体店试了试华为的 Pura 60 Pro，感觉长焦好烂，AI 补得也好烂，真不愧是 ����VAFIVE AI CAVCDA",
-    "views": 33,
+    "views": 40,
     "forwards": 0,
     "images": [
       {
@@ -57535,7 +57535,7 @@
     "id": 4219,
     "date": "2024-07-23T13:58:33",
     "text": "第一次装 PVE",
-    "views": 14,
+    "views": 27,
     "forwards": 0,
     "images": [
       {
@@ -57547,6 +57547,25 @@
         "url": "media/4219.jpg",
         "size": 300383,
         "thumb": "media/4219.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4220,
+    "date": "2024-07-23T15:58:31",
+    "text": "好耶！22GB 的 2080Ti",
+    "views": 13,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 748,
+        "height": 471,
+        "date": "2024-07-23T15:58:30",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-23_15-58-30.jpg",
+        "url": "media/4220.jpg",
+        "size": 46117,
+        "thumb": "media/4220.jpg_thumb.jpg"
       }
     ]
   }
