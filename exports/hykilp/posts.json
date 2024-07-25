@@ -36369,7 +36369,7 @@
     "id": 2718,
     "date": "2023-10-02T17:23:33",
     "text": "考完了！Intro AI 课好简单\n\n昨天晚上原本想熬夜把翘的三周课的录像补上，但是发现这门居然只有 1/3 的课有录像... 然后聊聊给我推荐了 UC Berkeley 的 CS188 录像发现和这门课讲的完全一致 🌚 几小时二倍速补完了 <a href=\"https://www.youtube.com/@CS-bd2lz\">https://www.youtube.com/@CS-bd2lz</a>",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 2717,
@@ -43707,7 +43707,7 @@
     "id": 3232,
     "date": "2024-01-21T06:19:21",
     "text": "因为脖子和后背和腰都完全没有办法用力，上下床真的变成了今天最痛苦的事情... 也没办法从躺着的状态直接坐起来喝水，结果就几乎睡了一整天，和聊聊躺着听歌听书玩游戏，除了醒来吃饭上厕所以外都在床上 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "reply": {
       "id": 3225,
@@ -43718,7 +43718,7 @@
     "id": 3233,
     "date": "2024-01-21T17:34:17",
     "text": "睡了一整天醒来满血复活！虽然还有一点疼但是不像昨天那样影响活动了。\n\n<del>以及发现去西雅图的路上买的记忆棉枕套真的是一个完美的术后坐垫</del>\n\n去准备小组 meeting 了 quq",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "reply": {
       "id": 3232,
@@ -43741,7 +43741,7 @@
     "id": 3234,
     "date": "2024-01-22T20:12:36",
     "text": "前几天方便面快吃完了想要写到购物单上，但是不会写中文”方便面“就写了一个 \"Ramen\"，然后才意识到我居然也被 whitewash 到会把方便面称做 Ramen 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n然后就想到之前在纽约蔴薯和我的一段对话：我说我喜欢在家里做拉面，然后蔴薯问我指的是 \"Ramen\" 还是「ラーメン」还是「拉面」 🌚\n\n<del>确实这三个都是非常不一样的东西</del>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "images": [
       {
@@ -45115,7 +45115,8 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480
+        "size": 39480,
+        "thumb": "media/3328.webm_thumb.jpg"
       }
     ]
   },
@@ -56403,7 +56404,7 @@
     "id": 4136,
     "date": "2024-07-12T03:38:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<a href=\"https://t.me/Azuelle\">@Azuelle</a> 从日本带回来的博多纯情らーめん <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 好吃诶",
-    "views": 75,
+    "views": 76,
     "forwards": 2,
     "media_group_id": 13766044269129149,
     "images": [
@@ -57178,7 +57179,7 @@
     "id": 4193,
     "date": "2024-07-21T14:01:31",
     "text": "楼下新开了一家米线店，原来直接用廉价建材装修成「很老旧装修的气氛」也能很好看 quq",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13772563932384525,
     "images": [
@@ -57258,7 +57259,7 @@
     "id": 4200,
     "date": "2024-07-21T14:13:54",
     "text": "把这张打出来定了一个相框 qwq",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "media_group_id": 13772569879446949,
     "images": [
@@ -57282,7 +57283,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57322,7 +57323,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 57,
+    "views": 59,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57345,7 +57346,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 60,
+    "views": 62,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57368,7 +57369,7 @@
     "id": 4207,
     "date": "2024-07-22T05:17:14",
     "text": "syama: 你看那个水杯旁边的镜头像不像一个水杯\n\n...它就是个水杯 🌚",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -57387,7 +57388,7 @@
     "id": 4208,
     "date": "2024-07-22T12:13:18",
     "text": "没见过女的吗",
-    "views": 57,
+    "views": 58,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -57410,7 +57411,7 @@
     "id": 4209,
     "date": "2024-07-22T20:00:52",
     "text": "好用的",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -57429,7 +57430,7 @@
     "id": 4210,
     "date": "2024-07-22T20:10:58",
     "text": "帮 syama 搬家搬到了苏州 qwq\n\nsyama 搬家好奇妙，当天来苏州刚看了一栋房就觉得还不错当场决定好签合同住进来了，然后马上打车回杭州打包东西叫货拉拉搬过来... <i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i> 好快！\n\n...然后发现这个房子有好多小问题，比如厕所很小没有地方可以放纸不被淋湿，厕所几乎没有抽风，窗户外面也是不太能通风的封闭小空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n果然租房不应该很快决定呢...",
-    "views": 57,
+    "views": 58,
     "forwards": 1,
     "media_group_id": 13773432467958797,
     "images": [
@@ -57509,14 +57510,14 @@
     "id": 4217,
     "date": "2024-07-22T20:32:45",
     "text": "syama: 明天早点叫我起床，我怕起床他们下班了\n我：所以我们现在“早点起床”是“下午五点之前“吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 57,
+    "views": 58,
     "forwards": 0
   },
   {
     "id": 4218,
     "date": "2024-07-23T08:45:19",
     "text": "去实体店试了试华为的 Pura 60 Pro，感觉长焦好烂，AI 补得也好烂，真不愧是 ����VAFIVE AI CAVCDA",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "images": [
       {
@@ -57535,7 +57536,7 @@
     "id": 4219,
     "date": "2024-07-23T13:58:33",
     "text": "第一次装 PVE",
-    "views": 53,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -57554,7 +57555,7 @@
     "id": 4220,
     "date": "2024-07-23T15:58:31",
     "text": "好耶！22GB 的 2080Ti",
-    "views": 50,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -57573,7 +57574,7 @@
     "id": 4222,
     "date": "2024-07-24T21:00:51",
     "text": "蚯蚓软软糖",
-    "views": 38,
+    "views": 45,
     "forwards": 1,
     "media_group_id": 13774838814594845,
     "images": [
@@ -57603,7 +57604,7 @@
     "id": 4223,
     "date": "2024-07-25T07:36:57",
     "text": "用键鼠玩 pjsk 是魔鬼吗",
-    "views": 18,
+    "views": 27,
     "forwards": 0,
     "images": [
       {
