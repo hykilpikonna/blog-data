@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 139,
+    "views": 140,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 124,
+    "views": 125,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -57083,14 +57083,14 @@
     "id": 4186,
     "date": "2024-07-20T16:34:51",
     "text": "0721 是什么日子？",
-    "views": 71,
+    "views": 72,
     "forwards": 0
   },
   {
     "id": 4187,
     "date": "2024-07-20T17:38:44",
     "text": "是人类的一大步",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "forwarded_from": {
       "name": "Tarocca Leohearts ad Astra, 芋头",
@@ -57323,7 +57323,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57346,7 +57346,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57369,7 +57369,7 @@
     "id": 4207,
     "date": "2024-07-22T05:17:14",
     "text": "syama: 你看那个水杯旁边的镜头像不像一个水杯\n\n...它就是个水杯 🌚",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -57574,7 +57574,7 @@
     "id": 4222,
     "date": "2024-07-24T21:00:51",
     "text": "蚯蚓软软糖",
-    "views": 65,
+    "views": 66,
     "forwards": 1,
     "media_group_id": 13774838814594845,
     "images": [
@@ -57623,7 +57623,7 @@
     "id": 4224,
     "date": "2024-07-25T10:30:44",
     "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13775227556405245,
     "images": [
@@ -57682,8 +57682,8 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 57,
-    "forwards": 0,
+    "views": 67,
+    "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
       {
@@ -57717,7 +57717,7 @@
     "id": 4230,
     "date": "2024-07-26T17:31:57",
     "text": "<a href=\"##产品开箱\">#产品开箱</a> <del>一只萌次猫</del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</del></i>\n\n<span class=\"spoiler\"><span>（好吧其实是 maimai 灯罩的箱子</span></span>",
-    "views": 61,
+    "views": 62,
     "forwards": 1,
     "media_group_id": 13776120940763933,
     "images": [
@@ -57747,7 +57747,7 @@
     "id": 4232,
     "date": "2024-07-26T23:49:24",
     "text": "要被蓝屏气疯了... 现在这个系统 uptime 不会超过 24h\n\n不过也是很老的系统了，之前从 Intel 1065G7 迁移到 AMD 7840HS，中间还有段时间在 AMD 3600 + GTX 1060 的机器上用过，所以三家的驱动全都装过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 4227,
@@ -57758,14 +57758,14 @@
     "id": 4233,
     "date": "2024-07-27T02:39:41",
     "text": "原本以为 SSD 恢复数据会和以前 HDD 一样简单，通电扫一下文件系统文件树就可以了嘛... 然而今天才发现 SSD TRIM 之后只要通着电很快就会被写满 0 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 55,
+    "views": 57,
     "forwards": 1
   },
   {
     "id": 4234,
     "date": "2024-07-27T12:49:34",
     "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
-    "views": 36,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 27,
+    "views": 40,
     "forwards": 1,
     "media_group_id": 13776691202656413,
     "images": [
@@ -57824,5 +57824,28 @@
       "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
       "thumb": "media/4224.jpg_thumb.jpg"
     }
+  },
+  {
+    "id": 4238,
+    "date": "2024-07-27T14:37:09",
+    "text": "草 我的 shutdown 打进 llm 里面了",
+    "views": 30,
+    "forwards": 0,
+    "forwarded_from": {
+      "name": "Azalea",
+      "url": "https://t.me/hykilpikonna"
+    },
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-07-27T14:37:04",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-27_14-37-04.jpg",
+        "url": "media/4238.jpg",
+        "size": 253917,
+        "thumb": "media/4238.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
