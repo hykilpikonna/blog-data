@@ -23510,7 +23510,7 @@
     "id": 1780,
     "date": "2023-01-21T23:31:01",
     "text": "东岸的年夜饭 @ CAMH！\n\n做了红烧肉、炒菜花、还有虾饺，厨房第一次灶台四个炉子同时烧着 qwq\n\n还专门把餐具带过去摆盘了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 174,
+    "views": 175,
     "forwards": 1,
     "media_group_id": 13394750888961733,
     "images": [
@@ -55621,7 +55621,7 @@
   {
     "id": 4079,
     "date": "2024-06-29T13:31:37",
-    "views": 242,
+    "views": 243,
     "forwards": 11,
     "files": [
       {
@@ -56885,7 +56885,7 @@
     "id": 4173,
     "date": "2024-07-19T10:58:45",
     "text": "感觉会有很多一般路过吃瓜群众觉得这次的蓝屏事故是微软的锅...",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "reply": {
       "id": 4172,
@@ -56896,7 +56896,7 @@
     "id": 4174,
     "date": "2024-07-19T14:30:25",
     "text": "今天在研究中日文翻译，去🤗上找了一圈发现并没有人训练中文翻日文的模型，即使语言很全的比如 Helsinki-NLP opus 系列也大部分都是转英语的模型。\n\n然后就在想，要做一个语言覆盖全面的翻译模型需要的资源好多啊，模型数量和语言数量是 n² 关系，如果要支持 33 种语言互相翻译就需要训练 1089 个模型... 那现有的翻译工具是怎么做的呢？\n\n然后发现谷歌翻译其实是用英语做了中间语言，先把所有语言翻译到英语再翻译到目标语言... 这样就只需要 2n 个模型了，但是会有很大问题，英语有歧义的东西就会翻错，比如「字符串」 > \"String\" > 「弦」\n\n那 DeepL 是怎么做的呢？简单测试一下发现是没有英语歧义问题的，字符串不会翻译成弦，弦也不会翻译成字符串... 但是仔细测试一下发现 DeepL 其实也是用英语中转的，因为中英翻译爆炸的时候中日会把英语的爆炸结果翻出来。那它是怎么做到消歧义的呢？好奇妙",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13771195402520333,
     "images": [
@@ -56984,7 +56984,7 @@
     "id": 4179,
     "date": "2024-07-19T22:19:44",
     "text": "这几天每天都要重启电脑，只要电脑开机超过 24h 内存就绝对会被占满，然后 CPU 也会被内存管理占到 30% 左右...\n\n但是我用户的程序只占了 4.4GB，那剩下的 28GB 去哪了呢？\n\n今天实在受不了了，打开 sysinternals RamMap 仔细研究了一下，发现页表居然占了 7GB。看看进程发现我进程表 90% 都是 Docker 的僵尸进程，虽然每个只占 32K 的页表但是多了就把内存占满了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n没想到会是 Docker 这么常用的东西的问题... 立即卸载（",
-    "views": 73,
+    "views": 74,
     "forwards": 1,
     "media_group_id": 13771420678920221,
     "images": [
@@ -57411,7 +57411,7 @@
     "id": 4209,
     "date": "2024-07-22T20:00:52",
     "text": "好用的",
-    "views": 63,
+    "views": 65,
     "forwards": 0,
     "images": [
       {
@@ -57510,14 +57510,14 @@
     "id": 4217,
     "date": "2024-07-22T20:32:45",
     "text": "syama: 明天早点叫我起床，我怕起床他们下班了\n我：所以我们现在“早点起床”是“下午五点之前“吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 76,
+    "views": 79,
     "forwards": 0
   },
   {
     "id": 4218,
     "date": "2024-07-23T08:45:19",
     "text": "去实体店试了试华为的 Pura 60 Pro，感觉长焦好烂，AI 补得也好烂，真不愧是 ����VAFIVE AI CAVCDA",
-    "views": 69,
+    "views": 72,
     "forwards": 0,
     "images": [
       {
@@ -57536,7 +57536,7 @@
     "id": 4219,
     "date": "2024-07-23T13:58:33",
     "text": "第一次装 PVE",
-    "views": 76,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -57555,7 +57555,7 @@
     "id": 4220,
     "date": "2024-07-23T15:58:31",
     "text": "好耶！22GB 的 2080Ti",
-    "views": 76,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -57623,7 +57623,7 @@
     "id": 4224,
     "date": "2024-07-25T10:30:44",
     "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 59,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13775227556405245,
     "images": [
@@ -57663,7 +57663,7 @@
     "id": 4227,
     "date": "2024-07-26T09:03:30",
     "text": "要骂人了... 画板子画到一半突然",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 54,
+    "views": 57,
     "forwards": 0,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57717,7 +57717,7 @@
     "id": 4230,
     "date": "2024-07-26T17:31:57",
     "text": "<a href=\"##产品开箱\">#产品开箱</a> <del>一只萌次猫</del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</del></i>\n\n<span class=\"spoiler\"><span>（好吧其实是 maimai 灯罩的箱子</span></span>",
-    "views": 55,
+    "views": 61,
     "forwards": 1,
     "media_group_id": 13776120940763933,
     "images": [
@@ -57747,7 +57747,7 @@
     "id": 4232,
     "date": "2024-07-26T23:49:24",
     "text": "要被蓝屏气疯了... 现在这个系统 uptime 不会超过 24h\n\n不过也是很老的系统了，之前从 Intel 1065G7 迁移到 AMD 7840HS，中间还有段时间在 AMD 3600 + GTX 1060 的机器上用过，所以三家的驱动全都装过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 52,
+    "views": 61,
     "forwards": 0,
     "reply": {
       "id": 4227,
@@ -57758,7 +57758,71 @@
     "id": 4233,
     "date": "2024-07-27T02:39:41",
     "text": "原本以为 SSD 恢复数据会和以前 HDD 一样简单，通电扫一下文件系统文件树就可以了嘛... 然而今天才发现 SSD TRIM 之后只要通着电很快就会被写满 0 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 46,
+    "views": 55,
     "forwards": 1
+  },
+  {
+    "id": 4234,
+    "date": "2024-07-27T12:49:34",
+    "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
+    "views": 36,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-07-27T12:49:34",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-27_12-49-34.jpg",
+        "url": "media/4234.jpg",
+        "size": 83863,
+        "thumb": "media/4234.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4235,
+    "date": "2024-07-27T13:20:00",
+    "text": "今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
+    "views": 27,
+    "forwards": 1,
+    "media_group_id": 13776691202656413,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-07-27T13:19:58",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-27_13-19-58.jpg",
+        "url": "media/4235.jpg",
+        "size": 206781,
+        "thumb": "media/4235.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-07-27T11:19:11",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-27_11-19-11.jpg",
+        "url": "media/4236.jpg",
+        "size": 198329,
+        "thumb": "media/4236.jpg_thumb.jpg"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2024-07-27T13:19:59",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-27_13-19-59.jpg",
+        "url": "media/4237.jpg",
+        "size": 222241,
+        "thumb": "media/4237.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 4224,
+      "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
+      "thumb": "media/4224.jpg_thumb.jpg"
+    }
   }
 ]
