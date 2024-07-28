@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-07-28T08:09:35.635703+00:00</updated>
+  <updated>2024-07-28T10:10:06.800689+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4239</id>
+    <title>小桂桂的回忆录 📒 #4239</title>
+    <updated>2024-07-28T08:26:04+00:00</updated>
+    <content>&lt;p&gt;教 syama 写网页，今天第一次用 navigator.share 分享接口&lt;/p&gt;
+&lt;p&gt;...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 &lt;i class="custom-emoji" emoji-src="emoji/6323237375010932266.webp"&gt;😡&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 &lt;i class="custom-emoji" emoji-src="emoji/6323343426343404864.webp"&gt;❓&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;实现都写了为什么不默认启用啊 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4239" rel="alternate"/>
+  </entry>
   <entry>
     <id>4238</id>
     <title>小桂桂的回忆录 📒 #4238</title>
