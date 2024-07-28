@@ -56868,14 +56868,14 @@
     "id": 4171,
     "date": "2024-07-18T20:36:36",
     "text": "我火星 刚看到 niconico 数据丢失的那件事，完全 🤯\n\n发现现在日语创作社区已经移居 YouTube 了，弹幕文化就这样死掉了吗... 感觉好可惜",
-    "views": 73,
+    "views": 74,
     "forwards": 0
   },
   {
     "id": 4172,
     "date": "2024-07-19T10:57:17",
     "text": "跟我学单词：\nCrowd，人群\nStrike，罢工\nCrowdStrike，集体罢工\n\n例句：\nJuly 19th, we CrowdStrike. 7月19日，我们集体罢工了",
-    "views": 60,
+    "views": 61,
     "forwards": 1,
     "forwarded_from": {
       "name": "IloveMATH.Get('Daily').Except('Ingress').EmitToChannel()"
@@ -57014,7 +57014,7 @@
     "id": 4182,
     "date": "2024-07-20T09:18:30",
     "text": "好吧又仔细查了一下，Github 上有人开了 issue，他们的结论是这是 AMD Zen4 显卡驱动 Adrenaline 24 的 bug，会让所有结束了的进程变成僵尸进程释放不出去... 大家给 docker 丢锅只是正好 docker 结束进程比较频繁而已\n\n试了从 24.4 更新到 24.7.1，不知道会不会好",
-    "views": 76,
+    "views": 77,
     "forwards": 1,
     "reply": {
       "id": 4179,
@@ -57026,7 +57026,7 @@
     "id": 4183,
     "date": "2024-07-20T09:44:20",
     "text": "草 \n\n我: 在 /gen 请求参数面加了一个变量，你加一下\nsyama: 我找找，是这个类吗 GenerateResponse... 好像是返回类。找不到欸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -57045,7 +57045,7 @@
     "id": 4184,
     "date": "2024-07-20T11:05:17",
     "text": "感觉是怎样设计模型都绕不开的问题",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -57064,7 +57064,7 @@
     "id": 4185,
     "date": "2024-07-20T16:16:20",
     "text": "入一些灵车",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "images": [
       {
@@ -57083,14 +57083,14 @@
     "id": 4186,
     "date": "2024-07-20T16:34:51",
     "text": "0721 是什么日子？",
-    "views": 73,
+    "views": 74,
     "forwards": 0
   },
   {
     "id": 4187,
     "date": "2024-07-20T17:38:44",
     "text": "是人类的一大步",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "forwarded_from": {
       "name": "Tarocca Leohearts ad Astra, 芋头",
@@ -57113,7 +57113,7 @@
     "id": 4188,
     "date": "2024-07-20T19:43:02",
     "text": "是同一个游戏",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -57132,7 +57132,7 @@
     "id": 4189,
     "date": "2024-07-21T10:35:56",
     "text": "兔兔苹果！",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13772465252381349,
     "images": [
@@ -57172,14 +57172,14 @@
     "id": 4192,
     "date": "2024-07-21T10:55:30",
     "text": "syama: 下雨的时候鸟为什么不飞到云上面避雨呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
     "id": 4193,
     "date": "2024-07-21T14:01:31",
     "text": "楼下新开了一家米线店，原来直接用廉价建材装修成「很老旧装修的气氛」也能很好看 quq",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13772563932384525,
     "images": [
@@ -57259,7 +57259,7 @@
     "id": 4200,
     "date": "2024-07-21T14:13:54",
     "text": "把这张打出来定了一个相框 qwq",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13772569879446949,
     "images": [
@@ -57283,7 +57283,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57323,7 +57323,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57346,7 +57346,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57369,7 +57369,7 @@
     "id": 4207,
     "date": "2024-07-22T05:17:14",
     "text": "syama: 你看那个水杯旁边的镜头像不像一个水杯\n\n...它就是个水杯 🌚",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "images": [
       {
@@ -57388,7 +57388,7 @@
     "id": 4208,
     "date": "2024-07-22T12:13:18",
     "text": "没见过女的吗",
-    "views": 73,
+    "views": 74,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -57411,7 +57411,7 @@
     "id": 4209,
     "date": "2024-07-22T20:00:52",
     "text": "好用的",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "images": [
       {
@@ -57430,7 +57430,7 @@
     "id": 4210,
     "date": "2024-07-22T20:10:58",
     "text": "帮 syama 搬家搬到了苏州 qwq\n\nsyama 搬家好奇妙，当天来苏州刚看了一栋房就觉得还不错当场决定好签合同住进来了，然后马上打车回杭州打包东西叫货拉拉搬过来... <i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i> 好快！\n\n...然后发现这个房子有好多小问题，比如厕所很小没有地方可以放纸不被淋湿，厕所几乎没有抽风，窗户外面也是不太能通风的封闭小空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n果然租房不应该很快决定呢...",
-    "views": 67,
+    "views": 68,
     "forwards": 1,
     "media_group_id": 13773432467958797,
     "images": [
@@ -57510,14 +57510,14 @@
     "id": 4217,
     "date": "2024-07-22T20:32:45",
     "text": "syama: 明天早点叫我起床，我怕起床他们下班了\n我：所以我们现在“早点起床”是“下午五点之前“吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0
   },
   {
     "id": 4218,
     "date": "2024-07-23T08:45:19",
     "text": "去实体店试了试华为的 Pura 60 Pro，感觉长焦好烂，AI 补得也好烂，真不愧是 ����VAFIVE AI CAVCDA",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -57555,7 +57555,7 @@
     "id": 4220,
     "date": "2024-07-23T15:58:31",
     "text": "好耶！22GB 的 2080Ti",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 72,
+    "views": 74,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 38,
+    "views": 40,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
