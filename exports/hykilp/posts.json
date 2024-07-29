@@ -57574,7 +57574,7 @@
     "id": 4222,
     "date": "2024-07-24T21:00:51",
     "text": "蚯蚓软软糖",
-    "views": 70,
+    "views": 71,
     "forwards": 1,
     "media_group_id": 13774838814594845,
     "images": [
@@ -57604,7 +57604,7 @@
     "id": 4223,
     "date": "2024-07-25T07:36:57",
     "text": "用键鼠玩 pjsk 是魔鬼吗",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 56,
+    "views": 57,
     "forwards": 2,
     "media_group_id": 13776691202656413,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -57881,7 +57881,7 @@
   {
     "id": 4241,
     "date": "2024-07-28T20:10:15",
-    "views": 28,
+    "views": 39,
     "forwards": 0,
     "forwarded_from": {
       "name": ".",
@@ -57903,7 +57903,7 @@
   {
     "id": 4242,
     "date": "2024-07-28T20:10:29",
-    "views": 29,
+    "views": 40,
     "forwards": 0,
     "files": [
       {
@@ -57928,7 +57928,7 @@
     "id": 4244,
     "date": "2024-07-28T21:09:43",
     "text": "吃完海底捞出来听见了猫叫，找过去之后看到了猫，然后看到了第二只猫，第三只猫，还有第四只猫…\n桂桂随身带了猫条，拿出来打开了之后猫猫们不为所动，放在这里等了好一会猫猫左顾右盼之后才敢来吃 qwq",
-    "views": 22,
+    "views": 32,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -57961,7 +57961,7 @@
     "id": 4245,
     "date": "2024-07-28T23:07:33",
     "text": "一些深夜猫片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>",
-    "views": 20,
+    "views": 36,
     "forwards": 0,
     "media_group_id": 13777664431653325,
     "images": [
