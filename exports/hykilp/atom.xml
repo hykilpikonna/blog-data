@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-07-29T18:11:17.298082+00:00</updated>
+  <updated>2024-07-29T20:12:26.074384+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4251</id>
+    <title>小桂桂的回忆录 📒 #4251</title>
+    <updated>2024-07-29T20:10:12+00:00</updated>
+    <content>&lt;p&gt;今天和 menci 一起 debug 了一天还没搞明白为什么 mai pico 接上触屏的串口就开不了机&lt;/p&gt;
+&lt;p&gt;然后准备睡觉了在床上再想了一眼突然想明白了，触屏是 rs232，pico 是 TTL... 我们在用 232 接 TTL 🌚&lt;/p&gt;
+&lt;p&gt;还好 pico 没有被 232 的 5V 烧掉&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4251" rel="alternate"/>
+  </entry>
   <entry>
     <id>4250</id>
     <title>小桂桂的回忆录 📒 #4250</title>
