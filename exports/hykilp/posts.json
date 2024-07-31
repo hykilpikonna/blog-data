@@ -36049,7 +36049,7 @@
     "id": 2696,
     "date": "2023-09-24T12:35:33",
     "text": "谷歌为了赚钱在 Chrome 上把 Adblock for Youtube 标为病毒强制禁用了... 看来是时候全面卸载 Chrome 换 Firefox 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 1060,
+    "views": 1061,
     "forwards": 15,
     "images": [
       {
@@ -57555,7 +57555,7 @@
     "id": 4220,
     "date": "2024-07-23T15:58:31",
     "text": "好耶！22GB 的 2080Ti",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -57574,7 +57574,7 @@
     "id": 4222,
     "date": "2024-07-24T21:00:51",
     "text": "蚯蚓软软糖",
-    "views": 77,
+    "views": 78,
     "forwards": 1,
     "media_group_id": 13774838814594845,
     "images": [
@@ -57604,7 +57604,7 @@
     "id": 4223,
     "date": "2024-07-25T07:36:57",
     "text": "用键鼠玩 pjsk 是魔鬼吗",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -57623,7 +57623,7 @@
     "id": 4224,
     "date": "2024-07-25T10:30:44",
     "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13775227556405245,
     "images": [
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57717,7 +57717,7 @@
     "id": 4230,
     "date": "2024-07-26T17:31:57",
     "text": "<a href=\"##产品开箱\">#产品开箱</a> <del>一只萌次猫</del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</del></i>\n\n<span class=\"spoiler\"><span>（好吧其实是 maimai 灯罩的箱子</span></span>",
-    "views": 78,
+    "views": 79,
     "forwards": 2,
     "media_group_id": 13776120940763933,
     "images": [
@@ -57747,7 +57747,7 @@
     "id": 4232,
     "date": "2024-07-26T23:49:24",
     "text": "要被蓝屏气疯了... 现在这个系统 uptime 不会超过 24h\n\n不过也是很老的系统了，之前从 Intel 1065G7 迁移到 AMD 7840HS，中间还有段时间在 AMD 3600 + GTX 1060 的机器上用过，所以三家的驱动全都装过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 4227,
@@ -57758,14 +57758,14 @@
     "id": 4233,
     "date": "2024-07-27T02:39:41",
     "text": "原本以为 SSD 恢复数据会和以前 HDD 一样简单，通电扫一下文件系统文件树就可以了嘛... 然而今天才发现 SSD TRIM 之后只要通着电很快就会被写满 0 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 73,
+    "views": 74,
     "forwards": 1
   },
   {
     "id": 4234,
     "date": "2024-07-27T12:49:34",
     "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 65,
+    "views": 67,
     "forwards": 2,
     "media_group_id": 13776691202656413,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 71,
+    "views": 73,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -58073,7 +58073,7 @@
     "id": 4254,
     "date": "2024-07-30T06:40:24",
     "text": "储存条件：冷冻",
-    "views": 55,
+    "views": 57,
     "forwards": 0,
     "media_group_id": 13778572998537549,
     "images": [
@@ -58113,7 +58113,7 @@
     "id": 4257,
     "date": "2024-07-30T12:29:04",
     "text": "第一次用示波器",
-    "views": 48,
+    "views": 52,
     "forwards": 0,
     "files": [
       {
@@ -58135,7 +58135,7 @@
     "id": 4258,
     "date": "2024-07-31T11:56:19",
     "text": "🀄",
-    "views": 34,
+    "views": 42,
     "forwards": 0,
     "media_group_id": 13779415838615309,
     "images": [
@@ -58160,5 +58160,70 @@
         "thumb": "media/4259.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 4260,
+    "date": "2024-07-31T15:56:09",
+    "text": "V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq",
+    "views": 19,
+    "forwards": 0,
+    "media_group_id": 13779530958546629,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-07-31T15:56:02",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-31_15-56-02.jpg",
+        "url": "media/4260.jpg",
+        "size": 497192,
+        "thumb": "media/4260.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2024-07-31T15:56:03",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-31_15-56-03.jpg",
+        "url": "media/4261.jpg",
+        "size": 376120,
+        "thumb": "media/4261.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2024-07-31T15:56:08",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-31_15-56-08.jpg",
+        "url": "media/4262.jpg",
+        "size": 260237,
+        "thumb": "media/4262.jpg_thumb.jpg"
+      },
+      {
+        "width": 726,
+        "height": 660,
+        "date": "2024-07-31T15:56:08",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-31_15-56-08.jpg",
+        "url": "media/4263.jpg",
+        "size": 36859,
+        "thumb": "media/4263.jpg_thumb.jpg"
+      },
+      {
+        "width": 800,
+        "height": 681,
+        "date": "2024-07-31T14:05:34",
+        "media_type": "photo",
+        "original_name": "photo_2024-07-31_14-05-34.jpg",
+        "url": "media/4264.jpg",
+        "size": 47407,
+        "thumb": "media/4264.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 4235,
+      "text": "今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
+      "thumb": "media/4235.jpg_thumb.jpg"
+    }
   }
 ]
