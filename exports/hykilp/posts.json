@@ -22323,7 +22323,7 @@
     "id": 1690,
     "date": "2023-01-03T00:53:27",
     "text": "好羡慕 ChatGPT 的阅历... 刚出生下来就读完了世界上大部分的书还能记住好多重要的引用是多么值得羡慕的事情\n\n...except that they <em>aren't</em> quotes 🌚\n\n它回复的这五句引用我搜了整本书都并没有找到，然后我想会不会是句式相似的转述，就重新读了第四章，结果一句主题相似的句子都没找到 🥲\n\n...你不要对不知道的东西这么自信啊\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13381657658948789,
     "images": [
@@ -22502,14 +22502,14 @@
     "id": 1705,
     "date": "2023-01-06T04:28:30",
     "text": "今天给 <a href=\"https://one-among.us/profile/donotexist_A\">One Among Us</a> 加了链接媒体预览！\n\n因为用 Vue SSG 生成静态网页需要改的代码太多，就直接加了一个脚本在构建之后用构建好的 html 注入元数据，居然真的工作了hhh\n\n除了主页的图片以外其他页面的缩略图都是用 puppeteer 动态渲染的哦，是不是很好看 qwq\n\n毕竟<del>众所周知 html 是世界上最好看的图片渲染框架</del>。puppeteer 就是用一个虚拟浏览器把 html 元素渲染成高清图片来着，然后你就会看到我在 Github Action 里面装 X11, wayland, chrome，启动一个 xvfb... 🌚",
-    "views": 78,
+    "views": 79,
     "forwards": 1
   },
   {
     "id": 1706,
     "date": "2023-01-06T06:01:28",
     "text": "每日健身 1/1 ✅\n\n呜呜结果今天没有早睡 看来如果想十一点上床大概要把提醒设到十点——",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13383879104964605,
     "images": [
@@ -22539,7 +22539,7 @@
     "id": 1708,
     "date": "2023-01-06T09:38:43",
     "text": "从一点躺到现在没睡着... 似乎感冒了，不过也不意外，毕竟这整个假期都没有休息好，只希望不是新冠 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n想念聊聊，想念一起玩游戏、做饭、凌晨在床上一起说梦话的时光... 好寂寞\n\n前几天和新认识的朋友聊到，对我来说写代码像是一种紧急出口，能让我忘记时间、忘记孤独的感觉、忘记身边的离别、忘记现实的一切困扰和烦恼，也能让我感到没有那么的无用。可惜人的身体不是用来超频的，总归需要慢下来，躺在床上让这一切思绪涌入。\n\n今天玩 Beat Saber 的时候和这首「I Wanna Be A Machine」的歌词产生了好奇怪的共鸣... 虽然也许不是作者的本意，但是这真的是第一首让我哭出来的 rap edm",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "images": [
       {
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 76,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -58021,7 +58021,7 @@
     "id": 4250,
     "date": "2024-07-29T17:14:16",
     "text": "[object Object] is awesome",
-    "views": 62,
+    "views": 63,
     "forwards": 1,
     "images": [
       {
@@ -58040,7 +58040,7 @@
     "id": 4251,
     "date": "2024-07-29T20:10:12",
     "text": "今天和 menci 一起 debug 了一天还没搞明白为什么 mai pico 接上触屏的串口就开不了机\n\n然后准备睡觉了在床上再想了一眼突然想明白了，触屏是 rs232，pico 是 TTL... 我们在用 232 接 TTL 🌚\n\n还好 pico 没有被 232 的 5V 烧掉",
-    "views": 62,
+    "views": 63,
     "forwards": 1
   },
   {
@@ -58073,7 +58073,7 @@
     "id": 4254,
     "date": "2024-07-30T06:40:24",
     "text": "储存条件：冷冻",
-    "views": 58,
+    "views": 60,
     "forwards": 0,
     "media_group_id": 13778572998537549,
     "images": [
@@ -58113,7 +58113,7 @@
     "id": 4257,
     "date": "2024-07-30T12:29:04",
     "text": "第一次用示波器",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "files": [
       {
@@ -58135,7 +58135,7 @@
     "id": 4258,
     "date": "2024-07-31T11:56:19",
     "text": "🀄",
-    "views": 52,
+    "views": 54,
     "forwards": 0,
     "media_group_id": 13779415838615309,
     "images": [
@@ -58165,7 +58165,7 @@
     "id": 4260,
     "date": "2024-07-31T15:56:09",
     "text": "V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq",
-    "views": 45,
+    "views": 49,
     "forwards": 0,
     "media_group_id": 13779530958546629,
     "images": [
@@ -58230,7 +58230,7 @@
     "id": 4265,
     "date": "2024-08-01T03:54:23",
     "text": "今天去 syama 家帮忙破解了移动光光猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i>\n\n型号是 SK-D747，想要关掉 ipv6 防火墙但是用户配置界面并没有这个设置，想要找到 CMCCAdmin 超管密码。通常来说超管密码直接找宽带师傅要或者找移动内鬼查就能查到，但是这台是公寓提供的集客宽带所以没办法联系师傅，内鬼也查不到密码。去网络论坛上看了其他人的破解方法，也试了很多 hidden_version_switch.html 之类的漏洞，但是这些都被堵住了。看来软件是没办法了，拆机看看\n\n拆开后盖马上发现有八个测试孔，四个焊了排针，四个没焊。电表测一下发现孔 0 4 7 都是接地。又测了一下电压，孔 1 是 5V，孔 5 是 3V，6 是 0.074V。群友猜 5 6 分别是 UART 的 TX 和 RX，但是插上 UART 串口工具发现并没有输出，反过来也没有。\n\n然后突然想到，既然买了示波器就看看这些孔的波形好了，把夹子接地，针点到每个引脚，发现脚 2 是稳定 3V，脚 3 有零到 3V 的 TTL 高低电平切换，由此推断 2 3 才是 TX 和 RX。这次接上 UART 终于进终端了！\n\n接上之后就交给 menci 了，重启路由器，终端打了很多日志，等开机结束之后导出搜索 \"pwd\" 找到了 root 密码 🌚 真安全。登录进 root 之后去读文件 /userconfig/cfg/db_user_cfg.xml 就拿到了超管密码，然后我累累睡睡，menci 念了几串魔法配好了桥接和公网 v6 直通，好厉害\n\n总之学会了用示波器很开心！ <del>会用之后就看到什么都忍不住想用示波器点点了</del>",
-    "views": 36,
+    "views": 42,
     "forwards": 1,
     "media_group_id": 13779875706431301,
     "images": [
@@ -58289,5 +58289,27 @@
       "id": 4257,
       "text": "第一次用示波器"
     }
+  },
+  {
+    "id": 4270,
+    "date": "2024-08-01T16:56:34",
+    "text": "收拾家里的各种东西\n\n桂桂：这个是 mai 机的主板盒子…这个里是 GPU 服务器的东西…然后这个盒子放各种电源线…\n我：啊我有标签打印机，我来打标签贴上去\n桂桂：啊早知道就不用写上了\n……\n桂桂：这个标签…有一种我被 RIIR 了的感觉（",
+    "views": 18,
+    "forwards": 0,
+    "forwarded_from": {
+      "name": "Memory Archive ✨"
+    },
+    "images": [
+      {
+        "width": 1280,
+        "height": 957,
+        "date": "2024-08-01T15:51:05",
+        "media_type": "photo",
+        "original_name": "photo_2024-08-01_15-51-05.jpg",
+        "url": "media/4270.jpg",
+        "size": 123516,
+        "thumb": "media/4270.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
