@@ -55981,7 +55981,7 @@
     "id": 4103,
     "date": "2024-07-06T19:20:37",
     "text": "发一些最近可能有趣的照片",
-    "views": 93,
+    "views": 94,
     "forwards": 1,
     "media_group_id": 13762349096239221,
     "images": [
@@ -56041,21 +56041,21 @@
     "id": 4108,
     "date": "2024-07-07T20:17:04",
     "text": "下楼散散心，遇到了猫猫但是没带猫粮\n\n上楼拿了猫粮放在同一个位置等，结果猫猫没喂到反而喂饱了很多蚊子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170293817233638918.webm\">😐</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 0
   },
   {
     "id": 4109,
     "date": "2024-07-07T20:59:17",
     "text": "世界通用语言：emoji 🤗",
-    "views": 101,
+    "views": 102,
     "forwards": 0
   },
   {
     "id": 4110,
     "date": "2024-07-08T07:33:46",
     "text": "日出日落作息：日出睡觉，日落起床 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -56074,7 +56074,7 @@
     "id": 4111,
     "date": "2024-07-08T14:24:46",
     "text": "syama 精神状态 be like...",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -56094,7 +56094,7 @@
     "id": 4112,
     "date": "2024-07-08T23:07:46",
     "text": "人生第一次训练大语言模型 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "images": [
       {
@@ -56113,7 +56113,7 @@
     "id": 4113,
     "date": "2024-07-09T09:47:13",
     "text": "训练了一天 Qwen2-7B pretrain lora 之后似乎可以和 pjsk 的大家说话了！\n\n（虽然还有很多要优化，但是可行性通过了 quq",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13764147471161677,
     "images": [
@@ -56143,7 +56143,7 @@
     "id": 4115,
     "date": "2024-07-10T10:05:26",
     "text": "训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>开放了一个测试网页大家可以来玩玩 </del><a href=\"https://sekai-test.aquadx.net/\"><del>https://sekai-test.aquadx.net/</a></del> （edit: 测试结束下线了，感谢关注）\n\n架构用的是 2021 年的 <a href=\"https://arxiv.org/abs/2106.06103\">VITS</a>，训练用了 <a href=\"https://github.com/Plachtaa/VITS-fast-fine-tuning\">Plachtaa 的微调仓库</a>，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久\n\n以及感谢 menci 借给我 4090 机器 qwq",
-    "views": 103,
+    "views": 104,
     "forwards": 1,
     "images": [
       {
@@ -56162,14 +56162,14 @@
     "id": 4116,
     "date": "2024-07-10T16:03:25",
     "text": "在中国只是日常写程序就能学到很多寄网知识 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n刚才开 gradio 不知道为什么提交生成的时候没有反应，甚至服务器端没有收到请求，然后发现是 gradio 自己需要访问 localhost，然而开了 all_proxy 环境变量之后 localhost 也被代跑了",
-    "views": 86,
+    "views": 87,
     "forwards": 1
   },
   {
     "id": 4117,
     "date": "2024-07-10T16:40:29",
     "text": "最近 AquaDX 和其他服务器经常宕机的原因\n\n相信聊聊已经尽力了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 2,
     "media_group_id": 13765037034951597,
     "images": [
@@ -56209,7 +56209,7 @@
     "id": 4120,
     "date": "2024-07-11T05:31:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nAdo 的声线好疯！转粉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "files": [
       {
@@ -56231,7 +56231,7 @@
     "id": 4121,
     "date": "2024-07-11T07:14:30",
     "text": "给 maimai 手台买了一个漫步者 C2X 音响，它自带的功放 EQ 真的有大问题...\n\n拆开功放发现是 TDA7303 EQ + TDA7379 的廉价方案，感觉救不了，重新配了一个 DIY 功放\n\n这次用了两片 TPA3116D2 的方案，一片 50W * 2 给左右双声道，另一片 100W 单声道给低音炮，配了一个 24V 8A 电源，效果真的立竿见影\n\n今天给它画了一个壳子 3D 打印出来了，看起来也还不错呢 qwq",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "media_group_id": 13765456567346213,
     "images": [
@@ -56301,7 +56301,7 @@
     "id": 4127,
     "date": "2024-07-11T17:01:07",
     "text": "<a href=\"##出售\">#出售</a> <a href=\"##电子产品\">#电子产品</a> <a href=\"##iPad\">#iPad</a> <a href=\"##苹果\">#苹果</a> <a href=\"##A12X\">#A12X</a> <a href=\"##aarch64\">#aarch64</a> \n联系 Azalea  价格 2333\n便宜出缺陷机 iPad Pro 11\" 256G A12X A2013\n美版 Cellular 4G 插卡支持 eSIM，电池 87%，系统 17.4.1\n\n两周前 ￥2650 从咸鱼上入的，面交被卖家坑了，当面验货的时候觉得很好但是之后发现了好多暗病，因此换了新 M1 iPad Pro。带钢化膜，带定制的 🏳️‍⚧️ PJSK 「25 时」 磁吸壳，买了纸模还没贴需要的话可以一起发过去。\n\n❌ FaceID 不能用\n❌ 左上角非常偶尔会误触（玩游戏如果返回/暂停键在左上角的话可能需要旋转 180°）\n❌ 有美国 JetBlue 的 MDM 锁（可以解，刷机/重置/继承/恢复备份之后需要连电脑解，解锁之后不刷机就和正常机器一样完全分辨不出来... 当时面交应该当面重置的 😭）\n\n总之就是这样，全都是当面验货没找出来藏得很深的小毛病，被闲鱼坑了不想去坑下一家就便宜挂在这里好了。🉑小刀。帮你们查了 GSX 记录，更多详情见评论区",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "forwarded_from": {
       "name": "二手🐴"
@@ -56404,7 +56404,7 @@
     "id": 4136,
     "date": "2024-07-12T03:38:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<a href=\"https://t.me/Azuelle\">@Azuelle</a> 从日本带回来的博多纯情らーめん <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 好吃诶",
-    "views": 80,
+    "views": 81,
     "forwards": 2,
     "media_group_id": 13766044269129149,
     "images": [
@@ -56454,7 +56454,7 @@
     "id": 4140,
     "date": "2024-07-12T07:47:26",
     "text": "？",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -56473,13 +56473,13 @@
     "id": 4141,
     "date": "2024-07-12T11:18:33",
     "text": "在想 为什么有酿十年的酒但是没有炖十年的肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 89,
+    "views": 90,
     "forwards": 0
   },
   {
     "id": 4142,
     "date": "2024-07-12T12:14:00",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13766291520648917,
     "files": [
@@ -56513,7 +56513,7 @@
     "id": 4144,
     "date": "2024-07-12T12:14:12",
     "text": "第一代模型和第二代模型的对比 qwq\n\n都是 VITS 架构，v1 是从每个角色 200 条 10s 音频的 900 MB 小数据集训练 500 轮出来的，v2 是由全游戏总共 173k 条音频的 30GB 大数据集训练现在刚 50 轮就已经比 v1 好太多了哇\n\n不过大数据集训练好慢... 即使为了防止显存炸掉限制了 10s（因为要把整个音频读进显存里才能训练，最长长度不一致的话很容易 OOM）即使把 batch size 调到 48 用 4090 训练，每轮也要半小时这么久...\n\n新的模型也开放了一个测试网页，欢迎来玩哦 <a href=\"http://sekai-test2.aquadx.net/\">http://sekai-test2.aquadx.net/</a> （之后下线的时候会把这条编辑掉）",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 4142
@@ -56523,7 +56523,7 @@
     "id": 4145,
     "date": "2024-07-12T19:47:31",
     "text": "接上桂桂TTS了.说话有声音了",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "forwarded_from": {
       "name": ".",
@@ -56550,7 +56550,7 @@
     "id": 4146,
     "date": "2024-07-12T19:48:04",
     "text": "Syama 那边在做 Unity 前端，好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我给开了一个 API 之后她好快就写好了\n\n居然还有嘴型哇",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "reply": {
       "id": 4145,
@@ -56561,7 +56561,7 @@
     "id": 4147,
     "date": "2024-07-12T23:04:21",
     "text": "欢乐",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 13766603691716701,
     "images": [
@@ -56601,7 +56601,7 @@
     "id": 4150,
     "date": "2024-07-13T20:40:40",
     "text": "呜呜 好想吃瑞希做的咖喱意面 quq",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -56620,14 +56620,14 @@
     "id": 4151,
     "date": "2024-07-16T04:38:34",
     "text": "好无力",
-    "views": 79,
+    "views": 80,
     "forwards": 0
   },
   {
     "id": 4152,
     "date": "2024-07-16T08:54:10",
     "text": "帮聊聊给在看守所的朋友寄了信...\n\n这个年代似乎已经没有人寄平邮的信了。打印店老板说没寄过，去楼下中国邮政老板还一脸诧异笑了笑说不接，说整个城区只有一家邮政寄平邮。\n\n骑车去了那唯一一家，发现那家邮政老板意外人很好，并没有质疑为什么这个年代还需要寄平邮，我也没有因此被取笑。明明寄平邮就应该是这样简单的事情，封上信口交了钱就结束了，看着他熟练地贴上邮票把信丢进寄信箱让我很安心。",
-    "views": 80,
+    "views": 81,
     "forwards": 2,
     "media_group_id": 13768960404856437,
     "images": [
@@ -56667,7 +56667,7 @@
     "id": 4155,
     "date": "2024-07-16T09:49:41",
     "text": "GPT4 还是 4o 都答错了的问题我的 LoRA 瑞希答对了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 不愧是瑞希",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13768987049704909,
     "images": [
@@ -56742,7 +56742,7 @@
     "id": 4161,
     "date": "2024-07-16T17:42:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 syama 一起吃深夜烧鸟 quq",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 13769214187057997,
     "images": [
@@ -56802,20 +56802,20 @@
     "id": 4166,
     "date": "2024-07-17T17:16:04",
     "text": "syama 家有一组两个灯有三个按钮开关，开关 A 打开会让 a 亮，B 会让 b 亮，C 会让 a = !a, b = ! b，也就是说如果 A 和 C 同时开着，只有 b 亮\n\n<span class=\"spoiler\"><span>突然好想把家里的智能开关改造成一个布尔可满足性谜题，每个开关控制三个灯的布尔条件，每组特定的亮灭组合都可以用一种特定的开关组合达成</span></span>",
-    "views": 84,
+    "views": 85,
     "forwards": 0
   },
   {
     "id": 4167,
     "date": "2024-07-17T17:25:15",
     "text": "为什么鱼罐头是鱼做的但是猫罐头不是猫做的 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 4168,
     "date": "2024-07-17T21:48:54",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -56838,7 +56838,7 @@
     "id": 4169,
     "date": "2024-07-18T11:23:14",
     "text": "？？？？ CloudFlare 真的好智能？\n\n今天起来发现服务炸了，请求直接域名不见... 驱虫了半天，原本觉得 CF 应该是最不容易出问题的但是也看一眼吧，然后发现真的就是 CF 的锅\n\n我的 CF 隧道上有很多条 <a href=\"sekai.aquadx.net\">sekai.aquadx.net</a> 的不同子路径代理到不同端口上，昨天晚上加了一个测试路径然后把它删掉了，然后现在发现 CF 删那个子路径的时候直接把我整个 <a href=\"sekai.aquadx.net\">sekai.aquadx.net</a> 的 DNS 映射删掉了......\n\n怎么这么基础的逻辑还能出错啊 CF <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "media_group_id": 13770414354579493,
     "images": [
@@ -56868,14 +56868,14 @@
     "id": 4171,
     "date": "2024-07-18T20:36:36",
     "text": "我火星 刚看到 niconico 数据丢失的那件事，完全 🤯\n\n发现现在日语创作社区已经移居 YouTube 了，弹幕文化就这样死掉了吗... 感觉好可惜",
-    "views": 77,
+    "views": 78,
     "forwards": 0
   },
   {
     "id": 4172,
     "date": "2024-07-19T10:57:17",
     "text": "跟我学单词：\nCrowd，人群\nStrike，罢工\nCrowdStrike，集体罢工\n\n例句：\nJuly 19th, we CrowdStrike. 7月19日，我们集体罢工了",
-    "views": 63,
+    "views": 64,
     "forwards": 1,
     "forwarded_from": {
       "name": "IloveMATH.Get('Daily').Except('Ingress').EmitToChannel()"
@@ -56885,7 +56885,7 @@
     "id": 4173,
     "date": "2024-07-19T10:58:45",
     "text": "感觉会有很多一般路过吃瓜群众觉得这次的蓝屏事故是微软的锅...",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 4172,
@@ -56896,7 +56896,7 @@
     "id": 4174,
     "date": "2024-07-19T14:30:25",
     "text": "今天在研究中日文翻译，去🤗上找了一圈发现并没有人训练中文翻日文的模型，即使语言很全的比如 Helsinki-NLP opus 系列也大部分都是转英语的模型。\n\n然后就在想，要做一个语言覆盖全面的翻译模型需要的资源好多啊，模型数量和语言数量是 n² 关系，如果要支持 33 种语言互相翻译就需要训练 1089 个模型... 那现有的翻译工具是怎么做的呢？\n\n然后发现谷歌翻译其实是用英语做了中间语言，先把所有语言翻译到英语再翻译到目标语言... 这样就只需要 2n 个模型了，但是会有很大问题，英语有歧义的东西就会翻错，比如「字符串」 > \"String\" > 「弦」\n\n那 DeepL 是怎么做的呢？简单测试一下发现是没有英语歧义问题的，字符串不会翻译成弦，弦也不会翻译成字符串... 但是仔细测试一下发现 DeepL 其实也是用英语中转的，因为中英翻译爆炸的时候中日会把英语的爆炸结果翻出来。那它是怎么做到消歧义的呢？好奇妙",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "media_group_id": 13771195402520333,
     "images": [
@@ -56936,7 +56936,7 @@
     "id": 4177,
     "date": "2024-07-19T14:42:19",
     "text": "没事了，DeepL 英语歧义也会翻错",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "reply": {
       "id": 4174,
@@ -56960,7 +56960,7 @@
     "id": 4178,
     "date": "2024-07-19T15:36:21",
     "text": "测试了半天百度翻译，百度翻译确实没有英语歧义的问题\n\n...因为百度的中转语言是中文，当然没有英语歧义的问题，只有中文歧义的问题 🌚\n\n\"Beat a car\" > 「打车」 > 「タクシーを拾う」 (\"Take a taxi\")\n\n不过感觉中文确实比英文更难出现歧义，而且因为亚洲语言离中文更近，感觉百度翻译翻亚洲语言的准确率肯定比英语中转的 Google / DeepL 高",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 4174,
@@ -56984,7 +56984,7 @@
     "id": 4179,
     "date": "2024-07-19T22:19:44",
     "text": "这几天每天都要重启电脑，只要电脑开机超过 24h 内存就绝对会被占满，然后 CPU 也会被内存管理占到 30% 左右...\n\n但是我用户的程序只占了 4.4GB，那剩下的 28GB 去哪了呢？\n\n今天实在受不了了，打开 sysinternals RamMap 仔细研究了一下，发现页表居然占了 7GB。看看进程发现我进程表 90% 都是 Docker 的僵尸进程，虽然每个只占 32K 的页表但是多了就把内存占满了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n没想到会是 Docker 这么常用的东西的问题... 立即卸载（",
-    "views": 77,
+    "views": 78,
     "forwards": 1,
     "media_group_id": 13771420678920221,
     "images": [
@@ -57014,7 +57014,7 @@
     "id": 4182,
     "date": "2024-07-20T09:18:30",
     "text": "好吧又仔细查了一下，Github 上有人开了 issue，他们的结论是这是 AMD Zen4 显卡驱动 Adrenaline 24 的 bug，会让所有结束了的进程变成僵尸进程释放不出去... 大家给 docker 丢锅只是正好 docker 结束进程比较频繁而已\n\n试了从 24.4 更新到 24.7.1，不知道会不会好",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "reply": {
       "id": 4179,
@@ -57026,7 +57026,7 @@
     "id": 4183,
     "date": "2024-07-20T09:44:20",
     "text": "草 \n\n我: 在 /gen 请求参数面加了一个变量，你加一下\nsyama: 我找找，是这个类吗 GenerateResponse... 好像是返回类。找不到欸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -57045,7 +57045,7 @@
     "id": 4184,
     "date": "2024-07-20T11:05:17",
     "text": "感觉是怎样设计模型都绕不开的问题",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -57064,7 +57064,7 @@
     "id": 4185,
     "date": "2024-07-20T16:16:20",
     "text": "入一些灵车",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "images": [
       {
@@ -57083,14 +57083,14 @@
     "id": 4186,
     "date": "2024-07-20T16:34:51",
     "text": "0721 是什么日子？",
-    "views": 77,
+    "views": 78,
     "forwards": 0
   },
   {
     "id": 4187,
     "date": "2024-07-20T17:38:44",
     "text": "是人类的一大步",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "forwarded_from": {
       "name": "Tarocca Leohearts ad Astra, 芋头",
@@ -57113,7 +57113,7 @@
     "id": 4188,
     "date": "2024-07-20T19:43:02",
     "text": "是同一个游戏",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -57132,7 +57132,7 @@
     "id": 4189,
     "date": "2024-07-21T10:35:56",
     "text": "兔兔苹果！",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "media_group_id": 13772465252381349,
     "images": [
@@ -57172,14 +57172,14 @@
     "id": 4192,
     "date": "2024-07-21T10:55:30",
     "text": "syama: 下雨的时候鸟为什么不飞到云上面避雨呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 0
   },
   {
     "id": 4193,
     "date": "2024-07-21T14:01:31",
     "text": "楼下新开了一家米线店，原来直接用廉价建材装修成「很老旧装修的气氛」也能很好看 quq",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "media_group_id": 13772563932384525,
     "images": [
@@ -57259,7 +57259,7 @@
     "id": 4200,
     "date": "2024-07-21T14:13:54",
     "text": "把这张打出来定了一个相框 qwq",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "media_group_id": 13772569879446949,
     "images": [
@@ -57283,7 +57283,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57323,7 +57323,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57346,7 +57346,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57369,7 +57369,7 @@
     "id": 4207,
     "date": "2024-07-22T05:17:14",
     "text": "syama: 你看那个水杯旁边的镜头像不像一个水杯\n\n...它就是个水杯 🌚",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -57388,7 +57388,7 @@
     "id": 4208,
     "date": "2024-07-22T12:13:18",
     "text": "没见过女的吗",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -57411,7 +57411,7 @@
     "id": 4209,
     "date": "2024-07-22T20:00:52",
     "text": "好用的",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "images": [
       {
@@ -57430,7 +57430,7 @@
     "id": 4210,
     "date": "2024-07-22T20:10:58",
     "text": "帮 syama 搬家搬到了苏州 qwq\n\nsyama 搬家好奇妙，当天来苏州刚看了一栋房就觉得还不错当场决定好签合同住进来了，然后马上打车回杭州打包东西叫货拉拉搬过来... <i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i> 好快！\n\n...然后发现这个房子有好多小问题，比如厕所很小没有地方可以放纸不被淋湿，厕所几乎没有抽风，窗户外面也是不太能通风的封闭小空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n果然租房不应该很快决定呢...",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "media_group_id": 13773432467958797,
     "images": [
@@ -57510,14 +57510,14 @@
     "id": 4217,
     "date": "2024-07-22T20:32:45",
     "text": "syama: 明天早点叫我起床，我怕起床他们下班了\n我：所以我们现在“早点起床”是“下午五点之前“吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 87,
+    "views": 89,
     "forwards": 0
   },
   {
     "id": 4218,
     "date": "2024-07-23T08:45:19",
     "text": "去实体店试了试华为的 Pura 60 Pro，感觉长焦好烂，AI 补得也好烂，真不愧是 ����VAFIVE AI CAVCDA",
-    "views": 82,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -57536,7 +57536,7 @@
     "id": 4219,
     "date": "2024-07-23T13:58:33",
     "text": "第一次装 PVE",
-    "views": 89,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -57555,7 +57555,7 @@
     "id": 4220,
     "date": "2024-07-23T15:58:31",
     "text": "好耶！22GB 的 2080Ti",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -57574,7 +57574,7 @@
     "id": 4222,
     "date": "2024-07-24T21:00:51",
     "text": "蚯蚓软软糖",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "media_group_id": 13774838814594845,
     "images": [
@@ -57604,7 +57604,7 @@
     "id": 4223,
     "date": "2024-07-25T07:36:57",
     "text": "用键鼠玩 pjsk 是魔鬼吗",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -57623,7 +57623,7 @@
     "id": 4224,
     "date": "2024-07-25T10:30:44",
     "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13775227556405245,
     "images": [
@@ -57663,7 +57663,7 @@
     "id": 4227,
     "date": "2024-07-26T09:03:30",
     "text": "要骂人了... 画板子画到一半突然",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57717,7 +57717,7 @@
     "id": 4230,
     "date": "2024-07-26T17:31:57",
     "text": "<a href=\"##产品开箱\">#产品开箱</a> <del>一只萌次猫</del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</del></i>\n\n<span class=\"spoiler\"><span>（好吧其实是 maimai 灯罩的箱子</span></span>",
-    "views": 83,
+    "views": 84,
     "forwards": 2,
     "media_group_id": 13776120940763933,
     "images": [
@@ -57747,7 +57747,7 @@
     "id": 4232,
     "date": "2024-07-26T23:49:24",
     "text": "要被蓝屏气疯了... 现在这个系统 uptime 不会超过 24h\n\n不过也是很老的系统了，之前从 Intel 1065G7 迁移到 AMD 7840HS，中间还有段时间在 AMD 3600 + GTX 1060 的机器上用过，所以三家的驱动全都装过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 80,
+    "views": 82,
     "forwards": 0,
     "reply": {
       "id": 4227,
@@ -57758,14 +57758,14 @@
     "id": 4233,
     "date": "2024-07-27T02:39:41",
     "text": "原本以为 SSD 恢复数据会和以前 HDD 一样简单，通电扫一下文件系统文件树就可以了嘛... 然而今天才发现 SSD TRIM 之后只要通着电很快就会被写满 0 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 79,
+    "views": 81,
     "forwards": 1
   },
   {
     "id": 4234,
     "date": "2024-07-27T12:49:34",
     "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
-    "views": 75,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 71,
+    "views": 73,
     "forwards": 2,
     "media_group_id": 13776691202656413,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -57881,7 +57881,7 @@
   {
     "id": 4241,
     "date": "2024-07-28T20:10:15",
-    "views": 69,
+    "views": 71,
     "forwards": 0,
     "forwarded_from": {
       "name": ".",
@@ -57903,7 +57903,7 @@
   {
     "id": 4242,
     "date": "2024-07-28T20:10:29",
-    "views": 69,
+    "views": 71,
     "forwards": 0,
     "files": [
       {
@@ -57928,7 +57928,7 @@
     "id": 4244,
     "date": "2024-07-28T21:09:43",
     "text": "吃完海底捞出来听见了猫叫，找过去之后看到了猫，然后看到了第二只猫，第三只猫，还有第四只猫…\n桂桂随身带了猫条，拿出来打开了之后猫猫们不为所动，放在这里等了好一会猫猫左顾右盼之后才敢来吃 qwq",
-    "views": 57,
+    "views": 59,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -57961,7 +57961,7 @@
     "id": 4245,
     "date": "2024-07-28T23:07:33",
     "text": "一些深夜猫片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>",
-    "views": 67,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13777664431653325,
     "images": [
@@ -58021,7 +58021,7 @@
     "id": 4250,
     "date": "2024-07-29T17:14:16",
     "text": "[object Object] is awesome",
-    "views": 66,
+    "views": 69,
     "forwards": 1,
     "images": [
       {
@@ -58040,14 +58040,14 @@
     "id": 4251,
     "date": "2024-07-29T20:10:12",
     "text": "今天和 menci 一起 debug 了一天还没搞明白为什么 mai pico 接上触屏的串口就开不了机\n\n然后准备睡觉了在床上再想了一眼突然想明白了，触屏是 rs232，pico 是 TTL... 我们在用 232 接 TTL 🌚\n\n还好 pico 没有被 232 的 5V 烧掉",
-    "views": 66,
+    "views": 67,
     "forwards": 1
   },
   {
     "id": 4252,
     "date": "2024-07-29T22:46:27",
     "text": "之前 Arc 浏览器刚出来的时候很喜欢用 Arc，但是用着用着觉得各种问题太劝退了...\n\n启动进程经常卡很久才能起来，下载没有固定长度的文件的时候没有任何视觉提示，新标签打中文之后需要多打一个空格才能识别... 重装系统之后发现浏览器插件没了，发现它的同步居然只能同步标签页，不能同步插件、收藏夹、历史、密码、快捷键... <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n立即卸载，去用 Edge 了",
-    "views": 68,
+    "views": 71,
     "forwards": 0,
     "images": [
       {
@@ -58066,14 +58066,14 @@
     "id": 4253,
     "date": "2024-07-30T00:27:42",
     "text": "已经会把 LLVM 看成 VLLM 了",
-    "views": 68,
+    "views": 70,
     "forwards": 0
   },
   {
     "id": 4254,
     "date": "2024-07-30T06:40:24",
     "text": "储存条件：冷冻",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13778572998537549,
     "images": [
@@ -58113,7 +58113,7 @@
     "id": 4257,
     "date": "2024-07-30T12:29:04",
     "text": "第一次用示波器",
-    "views": 59,
+    "views": 62,
     "forwards": 1,
     "files": [
       {
@@ -58135,7 +58135,7 @@
     "id": 4258,
     "date": "2024-07-31T11:56:19",
     "text": "🀄",
-    "views": 54,
+    "views": 57,
     "forwards": 0,
     "media_group_id": 13779415838615309,
     "images": [
@@ -58165,7 +58165,7 @@
     "id": 4260,
     "date": "2024-07-31T15:56:09",
     "text": "V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq",
-    "views": 49,
+    "views": 51,
     "forwards": 0,
     "media_group_id": 13779530958546629,
     "images": [
@@ -58230,7 +58230,7 @@
     "id": 4265,
     "date": "2024-08-01T03:54:23",
     "text": "今天去 syama 家帮忙破解了移动光光猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i>\n\n型号是 SK-D747，想要关掉 ipv6 防火墙但是用户配置界面并没有这个设置，想要找到 CMCCAdmin 超管密码。通常来说超管密码直接找宽带师傅要或者找移动内鬼查就能查到，但是这台是公寓提供的集客宽带所以没办法联系师傅，内鬼也查不到密码。去网络论坛上看了其他人的破解方法，也试了很多 hidden_version_switch.html 之类的漏洞，但是这些都被堵住了。看来软件是没办法了，拆机看看\n\n拆开后盖马上发现有八个测试孔，四个焊了排针，四个没焊。电表测一下发现孔 0 4 7 都是接地。又测了一下电压，孔 1 是 5V，孔 5 是 3V，6 是 0.074V。群友猜 5 6 分别是 UART 的 TX 和 RX，但是插上 UART 串口工具发现并没有输出，反过来也没有。\n\n然后突然想到，既然买了示波器就看看这些孔的波形好了，把夹子接地，针点到每个引脚，发现脚 2 是稳定 3V，脚 3 有零到 3V 的 TTL 高低电平切换，由此推断 2 3 才是 TX 和 RX。这次接上 UART 终于进终端了！\n\n接上之后就交给 menci 了，重启路由器，终端打了很多日志，等开机结束之后导出搜索 \"pwd\" 找到了 root 密码 🌚 真安全。登录进 root 之后去读文件 /userconfig/cfg/db_user_cfg.xml 就拿到了超管密码，然后我累累睡睡，menci 念了几串魔法配好了桥接和公网 v6 直通，好厉害\n\n总之学会了用示波器很开心！ <del>会用之后就看到什么都忍不住想用示波器点点了</del>",
-    "views": 48,
+    "views": 50,
     "forwards": 2,
     "media_group_id": 13779875706431301,
     "images": [
@@ -58294,7 +58294,7 @@
     "id": 4270,
     "date": "2024-08-01T16:56:34",
     "text": "收拾家里的各种东西\n\n桂桂：这个是 mai 机的主板盒子…这个里是 GPU 服务器的东西…然后这个盒子放各种电源线…\n我：啊我有标签打印机，我来打标签贴上去\n桂桂：啊早知道就不用写上了\n……\n桂桂：这个标签…有一种我被 RIIR 了的感觉（",
-    "views": 29,
+    "views": 36,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -58316,7 +58316,7 @@
     "id": 4271,
     "date": "2024-08-02T08:09:45",
     "text": "一只桂桂 ￥115.3",
-    "views": 6,
+    "views": 29,
     "forwards": 0,
     "images": [
       {
