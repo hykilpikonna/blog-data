@@ -57663,7 +57663,7 @@
     "id": 4227,
     "date": "2024-07-26T09:03:30",
     "text": "要骂人了... 画板子画到一半突然",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 97,
+    "views": 98,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57717,7 +57717,7 @@
     "id": 4230,
     "date": "2024-07-26T17:31:57",
     "text": "<a href=\"##产品开箱\">#产品开箱</a> <del>一只萌次猫</del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</del></i>\n\n<span class=\"spoiler\"><span>（好吧其实是 maimai 灯罩的箱子</span></span>",
-    "views": 84,
+    "views": 85,
     "forwards": 2,
     "media_group_id": 13776120940763933,
     "images": [
@@ -57747,7 +57747,7 @@
     "id": 4232,
     "date": "2024-07-26T23:49:24",
     "text": "要被蓝屏气疯了... 现在这个系统 uptime 不会超过 24h\n\n不过也是很老的系统了，之前从 Intel 1065G7 迁移到 AMD 7840HS，中间还有段时间在 AMD 3600 + GTX 1060 的机器上用过，所以三家的驱动全都装过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 4227,
@@ -57758,14 +57758,14 @@
     "id": 4233,
     "date": "2024-07-27T02:39:41",
     "text": "原本以为 SSD 恢复数据会和以前 HDD 一样简单，通电扫一下文件系统文件树就可以了嘛... 然而今天才发现 SSD TRIM 之后只要通着电很快就会被写满 0 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 1
   },
   {
     "id": 4234,
     "date": "2024-07-27T12:49:34",
     "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 2,
     "media_group_id": 13776691202656413,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -57881,7 +57881,7 @@
   {
     "id": 4241,
     "date": "2024-07-28T20:10:15",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "forwarded_from": {
       "name": ".",
@@ -57903,7 +57903,7 @@
   {
     "id": 4242,
     "date": "2024-07-28T20:10:29",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "files": [
       {
@@ -57928,7 +57928,7 @@
     "id": 4244,
     "date": "2024-07-28T21:09:43",
     "text": "吃完海底捞出来听见了猫叫，找过去之后看到了猫，然后看到了第二只猫，第三只猫，还有第四只猫…\n桂桂随身带了猫条，拿出来打开了之后猫猫们不为所动，放在这里等了好一会猫猫左顾右盼之后才敢来吃 qwq",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -57961,7 +57961,7 @@
     "id": 4245,
     "date": "2024-07-28T23:07:33",
     "text": "一些深夜猫片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13777664431653325,
     "images": [
@@ -58021,7 +58021,7 @@
     "id": 4250,
     "date": "2024-07-29T17:14:16",
     "text": "[object Object] is awesome",
-    "views": 73,
+    "views": 74,
     "forwards": 1,
     "images": [
       {
@@ -58040,14 +58040,14 @@
     "id": 4251,
     "date": "2024-07-29T20:10:12",
     "text": "今天和 menci 一起 debug 了一天还没搞明白为什么 mai pico 接上触屏的串口就开不了机\n\n然后准备睡觉了在床上再想了一眼突然想明白了，触屏是 rs232，pico 是 TTL... 我们在用 232 接 TTL 🌚\n\n还好 pico 没有被 232 的 5V 烧掉",
-    "views": 70,
+    "views": 71,
     "forwards": 1
   },
   {
     "id": 4252,
     "date": "2024-07-29T22:46:27",
     "text": "之前 Arc 浏览器刚出来的时候很喜欢用 Arc，但是用着用着觉得各种问题太劝退了...\n\n启动进程经常卡很久才能起来，下载没有固定长度的文件的时候没有任何视觉提示，新标签打中文之后需要多打一个空格才能识别... 重装系统之后发现浏览器插件没了，发现它的同步居然只能同步标签页，不能同步插件、收藏夹、历史、密码、快捷键... <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n立即卸载，去用 Edge 了",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -58066,14 +58066,14 @@
     "id": 4253,
     "date": "2024-07-30T00:27:42",
     "text": "已经会把 LLVM 看成 VLLM 了",
-    "views": 72,
+    "views": 73,
     "forwards": 0
   },
   {
     "id": 4254,
     "date": "2024-07-30T06:40:24",
     "text": "储存条件：冷冻",
-    "views": 66,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13778572998537549,
     "images": [
@@ -58113,7 +58113,7 @@
     "id": 4257,
     "date": "2024-07-30T12:29:04",
     "text": "第一次用示波器",
-    "views": 65,
+    "views": 67,
     "forwards": 1,
     "files": [
       {
@@ -58230,7 +58230,7 @@
     "id": 4265,
     "date": "2024-08-01T03:54:23",
     "text": "今天去 syama 家帮忙破解了移动光光猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i>\n\n型号是 SK-D747，想要关掉 ipv6 防火墙但是用户配置界面并没有这个设置，想要找到 CMCCAdmin 超管密码。通常来说超管密码直接找宽带师傅要或者找移动内鬼查就能查到，但是这台是公寓提供的集客宽带所以没办法联系师傅，内鬼也查不到密码。去网络论坛上看了其他人的破解方法，也试了很多 hidden_version_switch.html 之类的漏洞，但是这些都被堵住了。看来软件是没办法了，拆机看看\n\n拆开后盖马上发现有八个测试孔，四个焊了排针，四个没焊。电表测一下发现孔 0 4 7 都是接地。又测了一下电压，孔 1 是 5V，孔 5 是 3V，6 是 0.074V。群友猜 5 6 分别是 UART 的 TX 和 RX，但是插上 UART 串口工具发现并没有输出，反过来也没有。\n\n然后突然想到，既然买了示波器就看看这些孔的波形好了，把夹子接地，针点到每个引脚，发现脚 2 是稳定 3V，脚 3 有零到 3V 的 TTL 高低电平切换，由此推断 2 3 才是 TX 和 RX。这次接上 UART 终于进终端了！\n\n接上之后就交给 menci 了，重启路由器，终端打了很多日志，等开机结束之后导出搜索 \"pwd\" 找到了 root 密码 🌚 真安全。登录进 root 之后去读文件 /userconfig/cfg/db_user_cfg.xml 就拿到了超管密码，然后我累累睡睡，menci 念了几串魔法配好了桥接和公网 v6 直通，好厉害\n\n总之学会了用示波器很开心！ <del>会用之后就看到什么都忍不住想用示波器点点了</del>",
-    "views": 54,
+    "views": 55,
     "forwards": 2,
     "media_group_id": 13779875706431301,
     "images": [
@@ -58335,7 +58335,7 @@
     "id": 4272,
     "date": "2024-08-02T16:01:41",
     "text": "时间过得好快，一转眼就已经在这里三个月了，到了要告别的时间... 和 Menci 收拾了一下房间和行李，拉上 syama 一起吃了一顿午饭就匆匆忙忙地出发了。\n\n好不舍... 下次来这里会是什么时候呢？这里会变成什么样子呢？",
-    "views": 42,
+    "views": 44,
     "forwards": 0,
     "media_group_id": 13780916009305461,
     "images": [
