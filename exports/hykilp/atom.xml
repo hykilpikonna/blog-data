@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-08-09T02:26:25.720502+00:00</updated>
+  <updated>2024-08-09T04:09:27.991623+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4295</id>
+    <title>小桂桂的回忆录 📒 #4295</title>
+    <updated>2024-08-09T03:18:49+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##ML"&gt;#ML&lt;/a&gt; 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！&lt;/p&gt;
+&lt;p&gt;为了最大化部署效率试了很多不同的框架，首先看到了别人的&lt;a href="https://bentoml.com/blog/benchmarking-llm-inference-backends"&gt;测试结果&lt;/a&gt;，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...&lt;/p&gt;
+&lt;p&gt;首先试了 vLLM 因为它是星星&lt;i class="custom-emoji" emoji-src="emoji/6107338590335799902.webp"&gt;⭐️&lt;/i&gt;最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 &lt;i class="custom-emoji" emoji-src="emoji/6323343426343404864.webp"&gt;❓&lt;/i&gt; 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt; 但是已经有人加了支持，开了一个 &lt;a href="https://github.com/InternLM/lmdeploy/pull/2090"&gt;+12120 -4990 的巨大 PR&lt;/a&gt; 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧&lt;/p&gt;
+&lt;p&gt;最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4295" rel="alternate"/>
+  </entry>
   <entry>
     <id>4293</id>
     <title>小桂桂的回忆录 📒 #4293</title>
@@ -129,7 +140,7 @@
     <id>4260</id>
     <title>小桂桂的回忆录 📒 #4260</title>
     <updated>2024-07-31T15:56:09+00:00</updated>
-    <content>&lt;p&gt;V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq&lt;/p&gt;</content>
+    <content>&lt;p&gt;&lt;a href="##ML"&gt;#ML&lt;/a&gt; V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=4260" rel="alternate"/>
   </entry>
   <entry>
@@ -235,7 +246,7 @@
     <id>4235</id>
     <title>小桂桂的回忆录 📒 #4235</title>
     <updated>2024-07-27T13:20:00+00:00</updated>
-    <content>&lt;p&gt;今天把 V100 插上了！踩了很多坑&lt;/p&gt;
+    <content>&lt;p&gt;&lt;a href="##ML"&gt;#ML&lt;/a&gt; 今天把 V100 插上了！踩了很多坑&lt;/p&gt;
 &lt;p&gt;这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢&lt;/p&gt;
 &lt;p&gt;第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作&lt;/p&gt;
 &lt;p&gt;解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插&lt;/p&gt;
