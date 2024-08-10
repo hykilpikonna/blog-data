@@ -30,7 +30,7 @@ jobs:
       run: |
         set -xe
         python -VV
-        python -m pip install tgc>=1.1.1
+        python -m pip install tgc
         yarn global add puppeteer-lottie-cli
 
     - name: Checkout gh-pages
