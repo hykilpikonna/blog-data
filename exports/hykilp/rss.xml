@@ -12,7 +12,24 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Aug 2024 06:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 10:10:52 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4303</title>
+      <link>https://aza.moe/life?post=4303</link>
+      <description>&lt;p&gt;发现自己做研究的时候，找到一个比较好的方案就不是很有动力再去从零开始尝试其他的方案了，只会去想办法优化这个方案，因为做新的尝试会消耗很多时间精力和计算资源，也不一定会更好... 可是如果不尝试，即使有更好的方案也没办法知道 &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;也许人类这个集体就是某种分布式的梯度下降算法，每个人都只会从其他人知识库的顶端继续向下走，直到慢慢在某个局部最低点聚合。真的从零开始走少经之路的人没办法获得资源，靠自己也做不到什么吧...&lt;/p&gt;
+&lt;p&gt;暴论一下，如果我们的现实是某种模拟的话，我大概理解为什么会有人想要模拟一切事物从零发展了。解决梯度下降卡住一个很常用的办法就是模拟很多次，从不同的随机起点重新跑... 也许我们的现实就是随机起点之一吧&lt;/span&gt;&lt;/span&gt; &lt;i class="custom-emoji" emoji-src="emoji/5445083289314401705.tgs"&gt;🪟&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4303</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #4302</title>
+      <link>https://aza.moe/life?post=4302</link>
+      <description>&lt;p&gt;&lt;a href="##ML"&gt;#ML&lt;/a&gt; 之前模型还部署在 menci 学校机器上的时候，发现它有一个很大的问题就是说话人非常不准，比如你找瑞希说话的时候突然初音出来说话了...&lt;/p&gt;
+&lt;p&gt;前几天决定测一下这个问题，写脚本给每个队伍生成了 200 组测试数据，每条是一个随机的人问另一个人最近过得怎么样（比如”絵名：瑞希你最近怎么样？“）让模型生成下一句，看看回复的人对不对。测试出来发现最高居然只有 70% 正确率，明明是这么基础的对话逻辑...&lt;/p&gt;
+&lt;p&gt;然而昨天把推理库换从 LMD 换成 MLC 之后，测速的时候偶然发现似乎每一条都是正确的，即使运气好也不应该这样。测一下好了，然后发现 MLC 的回复人准确率到了 98% &lt;i class="custom-emoji" emoji-src="emoji/6323275213672810256.webp"&gt;😀&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;第一次知道原来推理库不止影响模型速度，对回复质量影响也这么大&lt;/p&gt;</description>
+      <guid isPermaLink="false">4302</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4301</title>
       <link>https://aza.moe/life?post=4301</link>
