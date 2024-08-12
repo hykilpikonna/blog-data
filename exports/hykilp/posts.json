@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7149,
+    "views": 7150,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -56404,7 +56404,7 @@
     "id": 4136,
     "date": "2024-07-12T03:38:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<a href=\"https://t.me/Azuelle\">@Azuelle</a> 从日本带回来的博多纯情らーめん <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 好吃诶",
-    "views": 84,
+    "views": 85,
     "forwards": 2,
     "media_group_id": 13766044269129149,
     "images": [
@@ -57283,7 +57283,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57323,7 +57323,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57346,7 +57346,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57369,7 +57369,7 @@
     "id": 4207,
     "date": "2024-07-22T05:17:14",
     "text": "syama: 你看那个水杯旁边的镜头像不像一个水杯\n\n...它就是个水杯 🌚",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "images": [
       {
@@ -57388,7 +57388,7 @@
     "id": 4208,
     "date": "2024-07-22T12:13:18",
     "text": "没见过女的吗",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -57411,7 +57411,7 @@
     "id": 4209,
     "date": "2024-07-22T20:00:52",
     "text": "好用的",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -57430,7 +57430,7 @@
     "id": 4210,
     "date": "2024-07-22T20:10:58",
     "text": "帮 syama 搬家搬到了苏州 qwq\n\nsyama 搬家好奇妙，当天来苏州刚看了一栋房就觉得还不错当场决定好签合同住进来了，然后马上打车回杭州打包东西叫货拉拉搬过来... <i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i> 好快！\n\n...然后发现这个房子有好多小问题，比如厕所很小没有地方可以放纸不被淋湿，厕所几乎没有抽风，窗户外面也是不太能通风的封闭小空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n果然租房不应该很快决定呢...",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "media_group_id": 13773432467958797,
     "images": [
@@ -57510,14 +57510,14 @@
     "id": 4217,
     "date": "2024-07-22T20:32:45",
     "text": "syama: 明天早点叫我起床，我怕起床他们下班了\n我：所以我们现在“早点起床”是“下午五点之前“吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 0
   },
   {
     "id": 4218,
     "date": "2024-07-23T08:45:19",
     "text": "去实体店试了试华为的 Pura 60 Pro，感觉长焦好烂，AI 补得也好烂，真不愧是 ����VAFIVE AI CAVCDA",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -57536,7 +57536,7 @@
     "id": 4219,
     "date": "2024-07-23T13:58:33",
     "text": "第一次装 PVE",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "images": [
       {
@@ -57555,7 +57555,7 @@
     "id": 4220,
     "date": "2024-07-23T15:58:31",
     "text": "好耶！22GB 的 2080Ti",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "images": [
       {
@@ -57574,7 +57574,7 @@
     "id": 4222,
     "date": "2024-07-24T21:00:51",
     "text": "蚯蚓软软糖",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "media_group_id": 13774838814594845,
     "images": [
@@ -57604,7 +57604,7 @@
     "id": 4223,
     "date": "2024-07-25T07:36:57",
     "text": "用键鼠玩 pjsk 是魔鬼吗",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -57623,7 +57623,7 @@
     "id": 4224,
     "date": "2024-07-25T10:30:44",
     "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13775227556405245,
     "images": [
@@ -57663,7 +57663,7 @@
     "id": 4227,
     "date": "2024-07-26T09:03:30",
     "text": "要骂人了... 画板子画到一半突然",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "images": [
       {
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 104,
+    "views": 105,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57717,7 +57717,7 @@
     "id": 4230,
     "date": "2024-07-26T17:31:57",
     "text": "<a href=\"##产品开箱\">#产品开箱</a> <del>一只萌次猫</del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</del></i>\n\n<span class=\"spoiler\"><span>（好吧其实是 maimai 灯罩的箱子</span></span>",
-    "views": 92,
+    "views": 93,
     "forwards": 2,
     "media_group_id": 13776120940763933,
     "images": [
@@ -57747,7 +57747,7 @@
     "id": 4232,
     "date": "2024-07-26T23:49:24",
     "text": "要被蓝屏气疯了... 现在这个系统 uptime 不会超过 24h\n\n不过也是很老的系统了，之前从 Intel 1065G7 迁移到 AMD 7840HS，中间还有段时间在 AMD 3600 + GTX 1060 的机器上用过，所以三家的驱动全都装过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 4227,
@@ -57758,14 +57758,14 @@
     "id": 4233,
     "date": "2024-07-27T02:39:41",
     "text": "原本以为 SSD 恢复数据会和以前 HDD 一样简单，通电扫一下文件系统文件树就可以了嘛... 然而今天才发现 SSD TRIM 之后只要通着电很快就会被写满 0 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 92,
+    "views": 93,
     "forwards": 1
   },
   {
     "id": 4234,
     "date": "2024-07-27T12:49:34",
     "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "<a href=\"##ML\">#ML</a> 今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 89,
+    "views": 90,
     "forwards": 2,
     "media_group_id": 13776691202656413,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -57881,7 +57881,7 @@
   {
     "id": 4241,
     "date": "2024-07-28T20:10:15",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "forwarded_from": {
       "name": ".",
@@ -57903,7 +57903,7 @@
   {
     "id": 4242,
     "date": "2024-07-28T20:10:29",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "files": [
       {
@@ -58073,7 +58073,7 @@
     "id": 4254,
     "date": "2024-07-30T06:40:24",
     "text": "储存条件：冷冻",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13778572998537549,
     "images": [
@@ -58113,7 +58113,7 @@
     "id": 4257,
     "date": "2024-07-30T12:29:04",
     "text": "第一次用示波器",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "files": [
       {
@@ -58135,7 +58135,7 @@
     "id": 4258,
     "date": "2024-07-31T11:56:19",
     "text": "🀄",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13779415838615309,
     "images": [
@@ -58165,7 +58165,7 @@
     "id": 4260,
     "date": "2024-07-31T15:56:09",
     "text": "<a href=\"##ML\">#ML</a> V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "media_group_id": 13779530958546629,
     "images": [
@@ -58230,7 +58230,7 @@
     "id": 4265,
     "date": "2024-08-01T03:54:23",
     "text": "今天去 syama 家帮忙破解了移动光光猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i>\n\n型号是 SK-D747，想要关掉 ipv6 防火墙但是用户配置界面并没有这个设置，想要找到 CMCCAdmin 超管密码。通常来说超管密码直接找宽带师傅要或者找移动内鬼查就能查到，但是这台是公寓提供的集客宽带所以没办法联系师傅，内鬼也查不到密码。去网络论坛上看了其他人的破解方法，也试了很多 hidden_version_switch.html 之类的漏洞，但是这些都被堵住了。看来软件是没办法了，拆机看看\n\n拆开后盖马上发现有八个测试孔，四个焊了排针，四个没焊。电表测一下发现孔 0 4 7 都是接地。又测了一下电压，孔 1 是 5V，孔 5 是 3V，6 是 0.074V。群友猜 5 6 分别是 UART 的 TX 和 RX，但是插上 UART 串口工具发现并没有输出，反过来也没有。\n\n然后突然想到，既然买了示波器就看看这些孔的波形好了，把夹子接地，针点到每个引脚，发现脚 2 是稳定 3V，脚 3 有零到 3V 的 TTL 高低电平切换，由此推断 2 3 才是 TX 和 RX。这次接上 UART 终于进终端了！\n\n接上之后就交给 menci 了，重启路由器，终端打了很多日志，等开机结束之后导出搜索 \"pwd\" 找到了 root 密码 🌚 真安全。登录进 root 之后去读文件 /userconfig/cfg/db_user_cfg.xml 就拿到了超管密码，然后我累累睡睡，menci 念了几串魔法配好了桥接和公网 v6 直通，好厉害\n\n总之学会了用示波器很开心！ <del>会用之后就看到什么都忍不住想用示波器点点了</del>",
-    "views": 75,
+    "views": 76,
     "forwards": 2,
     "media_group_id": 13779875706431301,
     "images": [
@@ -58294,7 +58294,7 @@
     "id": 4270,
     "date": "2024-08-01T16:56:34",
     "text": "收拾家里的各种东西\n\n桂桂：这个是 mai 机的主板盒子…这个里是 GPU 服务器的东西…然后这个盒子放各种电源线…\n我：啊我有标签打印机，我来打标签贴上去\n桂桂：啊早知道就不用写上了\n……\n桂桂：这个标签…有一种我被 RIIR 了的感觉（",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -58316,7 +58316,7 @@
     "id": 4271,
     "date": "2024-08-02T08:09:45",
     "text": "一只桂桂 ￥115.3",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
@@ -58335,7 +58335,7 @@
     "id": 4272,
     "date": "2024-08-02T16:01:41",
     "text": "时间过得好快，一转眼就已经在这里三个月了，到了要告别的时间... 和 Menci 收拾了一下房间和行李，拉上 syama 一起吃了一顿午饭就匆匆忙忙地出发了。\n\n好不舍... 下次来这里会是什么时候呢？这里会变成什么样子呢？",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "media_group_id": 13780916009305461,
     "images": [
@@ -58385,7 +58385,7 @@
     "id": 4276,
     "date": "2024-08-03T05:26:20",
     "text": "这是何等的巧合\n\n没有任何提前计划，在机场登机的时候遇到了三位群友坐同一班飞机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 112,
+    "views": 113,
     "forwards": 2,
     "images": [
       {
@@ -58404,7 +58404,7 @@
     "id": 4277,
     "date": "2024-08-04T01:14:03",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在飞机上又看了一遍《秒速五厘米》，也许是因为看到了 Cryolitia 的头像，又或许是和 syama 的事情有些共鸣，不过更可能只是因为正好在飞机系统里面翻到了。\n\n想起来小学的时候第一次听天门的《樱花抄》的时候还没有看过秒五，同样只是偶然在当时的酷狗音乐上翻到了，觉得很好听就添加到了 iPod nano 的存储里。那时候在合唱团例常排练，和一位同样在高声部的同学是很好的朋友。第一次和别人共享耳机听歌也是在这里，在排练休息的间隙，觉得她会喜欢所以选了天门的歌单。那个时候还对感情的复杂完全不熟，只觉得是一个很好的朋友，现在回想起来大概是喜欢的人吧。\n\n升到初中先是转到了朝阳区，之后又转去了北美，很快就失去了联系... 不过现在的我的性格中也有她的一部分，也许喜欢和想要成为就是分不清的吧",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "files": [
       {
@@ -58425,7 +58425,7 @@
     "id": 4279,
     "date": "2024-08-04T20:17:22",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听听民谣团 ハンバート ハンバート 的佐野遊穂唱 rap，好可爱好可爱！！！<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "files": [
       {
@@ -58447,7 +58447,7 @@
     "id": 4280,
     "date": "2024-08-04T20:25:34",
     "text": "回到加拿大的家发现家变成了盒盒... 整理起来还好麻烦 ;-;\n\n<span class=\"spoiler\"><span>一想到明年三月还要搬走就不想把所有东西都摆出来了...</span></span>",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -58651,7 +58651,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -58987,7 +58987,7 @@
     "id": 4318,
     "date": "2024-08-11T23:43:24",
     "text": "写了一个 iOS shortcut 在打开音游的时候自动进入音游模式 qwq",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "media_group_id": 13787358434236013,
     "images": [
@@ -59017,7 +59017,7 @@
     "id": 4320,
     "date": "2024-08-11T23:59:23",
     "text": "切肉肉差点切到手了，还好有指甲 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 48,
+    "views": 49,
     "forwards": 0,
     "images": [
       {
