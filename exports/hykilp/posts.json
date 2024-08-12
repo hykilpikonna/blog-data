@@ -58651,7 +58651,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -58942,7 +58942,7 @@
     "id": 4315,
     "date": "2024-08-11T08:40:04",
     "text": "<a href=\"##ADHD\">#ADHD</a> 发现自己忘了要干什么的时候就会在命令行里反复打 ll <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -58961,14 +58961,14 @@
     "id": 4316,
     "date": "2024-08-11T20:12:30",
     "text": "日语输入法的 romaji 键盘和かな键盘的关系是不是就像中文输入法的拼音键盘和双拼一样 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 42,
+    "views": 48,
     "forwards": 0
   },
   {
     "id": 4317,
     "date": "2024-08-11T21:56:19",
     "text": "哈哈哈哈这是在画啥",
-    "views": 41,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -58987,7 +58987,7 @@
     "id": 4318,
     "date": "2024-08-11T23:43:24",
     "text": "写了一个 iOS shortcut 在打开音游的时候自动进入音游模式 qwq",
-    "views": 35,
+    "views": 41,
     "forwards": 0,
     "media_group_id": 13787358434236013,
     "images": [
@@ -59017,7 +59017,7 @@
     "id": 4320,
     "date": "2024-08-11T23:59:23",
     "text": "切肉肉差点切到手了，还好有指甲 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 33,
+    "views": 38,
     "forwards": 0,
     "images": [
       {
