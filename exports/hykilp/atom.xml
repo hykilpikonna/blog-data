@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-08-13T00:11:51.104206+00:00</updated>
+  <updated>2024-08-13T02:25:47.841833+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4321</id>
+    <title>小桂桂的回忆录 📒 #4321</title>
+    <updated>2024-08-13T00:56:50+00:00</updated>
+    <content>&lt;p&gt;有点想做一个白嫖互联万物获得无限容量无限冗余的存储方案——网络上很多和存储无关的服务也会存一些元数据，从最简单的比如用户名和简介到推文到游戏存档，即使每个位置都只有很短的长度限制，加起来也是无穷大的。在想能不能做一个框架把自己的数据分成碎片塞进世界的所有角落&lt;/p&gt;
+&lt;p&gt;而且说不定可以用爬虫自动爬整个互联网的链接树，让 LLM 帮忙找到所有可以塞数据的角落&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4321" rel="alternate"/>
+  </entry>
   <entry>
     <id>4320</id>
     <title>小桂桂的回忆录 📒 #4320</title>
