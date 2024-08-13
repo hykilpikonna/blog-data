@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 248,
+    "views": 249,
     "forwards": 2,
     "images": [
       {
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 517,
+    "views": 519,
     "forwards": 11,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 506,
+    "views": 510,
     "forwards": 13,
     "files": [
       {
@@ -53541,7 +53541,7 @@
     "id": 3931,
     "date": "2024-06-06T03:16:11",
     "text": "原来 telegram 发音频可以选择去掉声音\n\n<i class=\"custom-emoji\" emoji-src=\"emoji/4981402056012071828.webp\">🤔</i> 啊咧？",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "images": [
       {
@@ -58621,7 +58621,7 @@
     "id": 4293,
     "date": "2024-08-08T04:59:22",
     "text": "让 DALLE 画了一些服务器的图标，终于不怕找不到标签页了",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 13784745301187333,
     "images": [
@@ -58651,7 +58651,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -58681,7 +58681,7 @@
     "id": 4297,
     "date": "2024-08-09T05:03:32",
     "text": "今天七七在 AquaDX 群里说 AquaDX 的群头像看起来总感觉像是没加载出来的模糊图的样子，怎么办呢？正好昨天是国际猫猫日，让 DALLE 在里面填一些猫吧",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -58700,7 +58700,7 @@
     "id": 4298,
     "date": "2024-08-09T07:26:45",
     "text": "看数一在玩 <a href=\"https://www.puzzle-loop.com/\">Slither Link</a> 我也去试了试，好难 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 每日谜题花了 1:42 小时才做出来\n\n（放一个 100 倍速的视频",
-    "views": 75,
+    "views": 76,
     "forwards": 2,
     "files": [
       {
@@ -58722,7 +58722,7 @@
     "id": 4299,
     "date": "2024-08-09T08:48:10",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n神のまにまに！\n\n今天打プロセカ发现的这首歌，好久没有听到这么欢乐治愈的ボカロ曲了 qwq\n\n<a href=\"https://www.youtube.com/watch?v=b2GJcYBoVyg\">原曲MV</a> | <a href=\"https://www.youtube.com/watch?v=cb1s5_U0wd0\">プロセカ 3DMV</a>",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "files": [
       {
@@ -58744,14 +58744,14 @@
     "id": 4300,
     "date": "2024-08-09T21:36:19",
     "text": "奇妙，我在 VSCode 上连接 SSH 终端，在 SSH 那边打了一个 git push，它弹了一个窗口在本地打开浏览器选择账号登录，然后跳转连接跳转回了 VSCode 过一会 push 成功了... 现在 VSCode 的集成已经这么厉害了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
     "id": 4301,
     "date": "2024-08-09T23:44:01",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 2,
     "images": [
       {
@@ -59017,7 +59017,7 @@
     "id": 4320,
     "date": "2024-08-11T23:59:23",
     "text": "切肉肉差点切到手了，还好有指甲 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "images": [
       {
@@ -59036,7 +59036,7 @@
     "id": 4321,
     "date": "2024-08-13T00:56:50",
     "text": "有点想做一个白嫖互联万物获得无限容量无限冗余的存储方案——网络上很多和存储无关的服务也会存一些元数据，从最简单的比如用户名和简介到推文到游戏存档，即使每个位置都只有很短的长度限制，加起来也是无穷大的。在想能不能做一个框架把自己的数据分成碎片塞进世界的所有角落\n\n而且说不定可以用爬虫自动爬整个互联网的链接树，让 LLM 帮忙找到所有可以塞数据的角落",
-    "views": 40,
+    "views": 55,
     "forwards": 1
   }
 ]
