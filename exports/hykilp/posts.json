@@ -47439,7 +47439,7 @@
     "id": 3479,
     "date": "2024-03-14T16:37:38",
     "text": "感觉 TTC 地铁这个要转下来才能抓到的扶手设计好蠢... 这样的话摸不到栏杆的身高同样也摸不到扶手，完全不 accessible",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "images": [
       {
@@ -47458,7 +47458,7 @@
     "id": 3480,
     "date": "2024-03-14T22:16:58",
     "text": "三岁小聊 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -47477,7 +47477,7 @@
     "id": 3481,
     "date": "2024-03-15T08:04:20",
     "text": "剪掉了几根枝试试水培起根，希望能长出来 quq",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 13683918880370149,
     "images": [
@@ -47511,7 +47511,7 @@
     "id": 3483,
     "date": "2024-03-15T08:21:45",
     "text": "聊聊：水培真的没问题嘛？\n我：似乎没有植物激素就推荐水培\n聊聊：激素？它吃雌二醇还是睾酮 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n猪：它吃骨粉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "reply": {
       "id": 3481,
@@ -47523,7 +47523,7 @@
     "id": 3484,
     "date": "2024-03-15T23:20:32",
     "text": "用长焦坏掉的手机拍一些延时摄影",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -47542,7 +47542,7 @@
     "id": 3485,
     "date": "2024-03-16T16:15:57",
     "text": "之前看大统华火锅清汤底半价就买了一些，今天用火锅汤底做了汤面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -47561,7 +47561,7 @@
     "id": 3486,
     "date": "2024-03-17T19:18:00",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒面！\n\n因为自己不能吃虾但是又想做虾所以单独炒了虾 quq",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13685624647215693,
     "images": [
@@ -47601,14 +47601,14 @@
     "id": 3489,
     "date": "2024-03-18T03:06:13",
     "text": "感冒了... 几乎睡了一天什么都没做感觉累累",
-    "views": 87,
+    "views": 88,
     "forwards": 0
   },
   {
     "id": 3490,
     "date": "2024-03-18T13:22:59",
     "text": "踩了一个很 🤯 的 Kotlin 反射坑...\n\n刚刚尝试反射找一个 <code>@Annotation</code> 的时候发现怎样找都找不到，debug 好久之后查查才发现，原来这一个 var 编译成字节码之后即是 property 又是 field 又是 getter 又是 setter 又是 constructor parameter，这五个地方都有可能加 <code>@Annotation</code>，所以它默认加到 param 上了 🤯",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13686145436962309,
     "images": [
@@ -47638,7 +47638,7 @@
     "id": 3492,
     "date": "2024-03-19T01:51:11",
     "text": "重新定义 vegetable",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "images": [
       {
@@ -47657,7 +47657,7 @@
     "id": 3493,
     "date": "2024-03-19T16:56:42",
     "text": "？？？ 下雪了！",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -47676,7 +47676,7 @@
     "id": 3494,
     "date": "2024-03-19T19:35:30",
     "text": "雪好看",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -47695,7 +47695,7 @@
     "id": 3495,
     "date": "2024-03-19T21:05:13",
     "text": "购物车长出了天线",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
@@ -47714,7 +47714,7 @@
     "id": 3496,
     "date": "2024-03-20T04:42:35",
     "text": "今天给 Kotlin 开了一个 <a href=\"https://github.com/JetBrains/kotlin/pull/5278\">PR</a>！第一次给这么大的项目开 PR，好开心\n\n起因是，在给我的私服写导入数据的功能的时候测速发现 <code>str.lines()</code> 好慢，然后发现它的实现方法是 <code>str.split(\"\\r\\n\", \"\\n\", \"\\r\")</code>，但是 split 多个子字符串是一个复杂的运算\n\n试试改成先把所有换行符替换成 <code>\\n</code> 再 <code>split('\\n')</code> 之后速度直接提升了 7 倍，好耶 qwq",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13687278046831213,
     "images": [
@@ -58651,7 +58651,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -58681,7 +58681,7 @@
     "id": 4297,
     "date": "2024-08-09T05:03:32",
     "text": "今天七七在 AquaDX 群里说 AquaDX 的群头像看起来总感觉像是没加载出来的模糊图的样子，怎么办呢？正好昨天是国际猫猫日，让 DALLE 在里面填一些猫吧",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -58700,7 +58700,7 @@
     "id": 4298,
     "date": "2024-08-09T07:26:45",
     "text": "看数一在玩 <a href=\"https://www.puzzle-loop.com/\">Slither Link</a> 我也去试了试，好难 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 每日谜题花了 1:42 小时才做出来\n\n（放一个 100 倍速的视频",
-    "views": 80,
+    "views": 81,
     "forwards": 2,
     "files": [
       {
@@ -58722,7 +58722,7 @@
     "id": 4299,
     "date": "2024-08-09T08:48:10",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n神のまにまに！\n\n今天打プロセカ发现的这首歌，好久没有听到这么欢乐治愈的ボカロ曲了 qwq\n\n<a href=\"https://www.youtube.com/watch?v=b2GJcYBoVyg\">原曲MV</a> | <a href=\"https://www.youtube.com/watch?v=cb1s5_U0wd0\">プロセカ 3DMV</a>",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "files": [
       {
@@ -58744,14 +58744,14 @@
     "id": 4300,
     "date": "2024-08-09T21:36:19",
     "text": "奇妙，我在 VSCode 上连接 SSH 终端，在 SSH 那边打了一个 git push，它弹了一个窗口在本地打开浏览器选择账号登录，然后跳转连接跳转回了 VSCode 过一会 push 成功了... 现在 VSCode 的集成已经这么厉害了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 73,
+    "views": 74,
     "forwards": 0
   },
   {
     "id": 4301,
     "date": "2024-08-09T23:44:01",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 2,
     "images": [
       {
@@ -58770,7 +58770,7 @@
     "id": 4302,
     "date": "2024-08-10T06:43:02",
     "text": "<a href=\"##ML\">#ML</a> 之前模型还部署在 menci 学校机器上的时候，发现它有一个很大的问题就是说话人非常不准，比如你找瑞希说话的时候突然初音出来说话了...\n\n前几天决定测一下这个问题，写脚本给每个队伍生成了 200 组测试数据，每条是一个随机的人问另一个人最近过得怎么样（比如”絵名：瑞希你最近怎么样？“）让模型生成下一句，看看回复的人对不对。测试出来发现最高居然只有 70% 正确率，明明是这么基础的对话逻辑...\n\n然而昨天把推理库换从 LMD 换成 MLC 之后，测速的时候偶然发现似乎每一条都是正确的，即使运气好也不应该这样。测一下好了，然后发现 MLC 的回复人准确率到了 98% <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n第一次知道原来推理库不止影响模型速度，对回复质量影响也这么大",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "reply": {
       "id": 4295,
@@ -58794,7 +58794,7 @@
     "id": 4303,
     "date": "2024-08-10T07:22:00",
     "text": "发现自己做研究的时候，找到一个比较好的方案就不是很有动力再去从零开始尝试其他的方案了，只会去想办法优化这个方案，因为做新的尝试会消耗很多时间精力和计算资源，也不一定会更好... 可是如果不尝试，即使有更好的方案也没办法知道 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<span class=\"spoiler\"><span>也许人类这个集体就是某种分布式的梯度下降算法，每个人都只会从其他人知识库的顶端继续向下走，直到慢慢在某个局部最低点聚合。真的从零开始走少经之路的人没办法获得资源，靠自己也做不到什么吧...\n\n暴论一下，如果我们的现实是某种模拟的话，我大概理解为什么会有人想要模拟一切事物从零发展了。解决梯度下降卡住一个很常用的办法就是模拟很多次，从不同的随机起点重新跑... 也许我们的现实就是随机起点之一吧</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "reply": {
       "id": 4302,
