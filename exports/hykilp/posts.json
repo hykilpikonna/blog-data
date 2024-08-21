@@ -58504,14 +58504,14 @@
     "id": 4283,
     "date": "2024-08-06T08:53:55",
     "text": "升级计算服务器之前硬件是瓶颈，升级之后发现自己变成了瓶颈... 想睡觉之前挂一个计算任务跑着，发现写这个任务需要的时间比计算需要的时间长，可是我又不想让计算闲时浪费，结果就是自己要被累死了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 1
   },
   {
     "id": 4284,
     "date": "2024-08-07T22:28:04",
     "text": "和聊聊去附近新开的模玩店买了一个镜音凛的粘土人 qwq 它的包装打开是不透明的铝反光小袋子，看起来是为了抽盲盒设计的，还好没有作为盲盒卖\n\n运气太差了不喜欢盲盒，记得几天前和 menci 和 syama 去观前喵咕屋买了プロセカ和孤独摇滚的盲盒胸针，结果孤独摇滚开出了没什么存在感的きくり，プロセカ开出了不那么能认出来的初音未来和 KAITO...\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13784557476954909,
     "images": [
@@ -58591,7 +58591,7 @@
     "id": 4291,
     "date": "2024-08-07T23:38:26",
     "text": "第一次在加拿大见到路边摊",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13784591251588581,
     "images": [
@@ -58621,7 +58621,7 @@
     "id": 4293,
     "date": "2024-08-08T04:59:22",
     "text": "让 DALLE 画了一些服务器的图标，终于不怕找不到标签页了",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "media_group_id": 13784745301187333,
     "images": [
@@ -58651,7 +58651,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -59330,7 +59330,7 @@
     "id": 4343,
     "date": "2024-08-19T02:03:17",
     "text": "好耶 破解完机器装上 Moonlight-Switch 之后就可以在 switch 上玩 ff14 了 qwq",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -59349,7 +59349,7 @@
     "id": 4344,
     "date": "2024-08-19T06:17:34",
     "text": "你也知道啊啊啊啊啊编剧 💢💢",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -59372,7 +59372,7 @@
     "id": 4345,
     "date": "2024-08-19T22:12:14",
     "text": "又设计了一个 25 时 icon 的挂件，专门找了可以做半透明的厂家印，可惜效果没有想象的好呢。\n\n如果可以真的用单面玻璃镜子和 LED 做这个效果就好了，可惜那样的话尺寸就不能做成挂件了",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13792844274282805,
     "images": [
@@ -59402,7 +59402,7 @@
     "id": 4347,
     "date": "2024-08-20T16:20:44",
     "text": "(cw: ff14 3.0 spoiler)\n太 meta 了。你说我是一个被各种势力利用的棋子、别人叫我做什么就做什么... 游戏也没给我选择啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n<span class=\"spoiler\"><span>什么时候会有 npc 真的能感受到 what I want、可以依靠自己的意愿无限制选择的 RPG 游戏</span></span>",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13793366755080325,
     "images": [
@@ -59434,7 +59434,7 @@
     "id": 4349,
     "date": "2024-08-20T17:50:45",
     "text": "直喷的工艺效果不太行呢，之后又做了一个热转印的版本，似乎颜色饱和度要好很多（但是热转印因为物理限制就没办法做半透明渐变了\n\n在想会不会是 blend mode 的问题...",
-    "views": 54,
+    "views": 56,
     "forwards": 1,
     "media_group_id": 13793409966556557,
     "images": [
@@ -59489,7 +59489,7 @@
     "id": 4353,
     "date": "2024-08-21T04:46:58",
     "text": "拿到了独角兽，开心！",
-    "views": 35,
+    "views": 38,
     "forwards": 0,
     "media_group_id": 13793724951478829,
     "images": [
