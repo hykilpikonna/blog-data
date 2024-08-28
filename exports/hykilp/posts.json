@@ -34743,7 +34743,7 @@
     "id": 2603,
     "date": "2023-09-04T20:52:19",
     "text": "爱的本质是拟合 <i class=\"custom-emoji\" emoji-src=\"emoji/5442919184142966963.tgs\">🧹</i>",
-    "views": 160,
+    "views": 161,
     "forwards": 3,
     "images": [
       {
@@ -56143,7 +56143,7 @@
     "id": 4115,
     "date": "2024-07-10T10:05:26",
     "text": "训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>开放了一个测试网页大家可以来玩玩 </del><a href=\"https://sekai-test.aquadx.net/\"><del>https://sekai-test.aquadx.net/</a></del> （edit: 测试结束下线了，感谢关注）\n\n架构用的是 2021 年的 <a href=\"https://arxiv.org/abs/2106.06103\">VITS</a>，训练用了 <a href=\"https://github.com/Plachtaa/VITS-fast-fine-tuning\">Plachtaa 的微调仓库</a>，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久\n\n以及感谢 menci 借给我 4090 机器 qwq",
-    "views": 108,
+    "views": 109,
     "forwards": 1,
     "images": [
       {
@@ -56513,7 +56513,7 @@
     "id": 4144,
     "date": "2024-07-12T12:14:12",
     "text": "第一代模型和第二代模型的对比 qwq\n\n都是 VITS 架构，v1 是从每个角色 200 条 10s 音频的 900 MB 小数据集训练 500 轮出来的，v2 是由全游戏总共 173k 条音频的 30GB 大数据集训练现在刚 50 轮就已经比 v1 好太多了哇\n\n不过大数据集训练好慢... 即使为了防止显存炸掉限制了 10s（因为要把整个音频读进显存里才能训练，最长长度不一致的话很容易 OOM）即使把 batch size 调到 48 用 4090 训练，每轮也要半小时这么久...\n\n新的模型也开放了一个测试网页，欢迎来玩哦 <a href=\"http://sekai-test2.aquadx.net/\">http://sekai-test2.aquadx.net/</a> （之后下线的时候会把这条编辑掉）",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "reply": {
       "id": 4142
@@ -56838,7 +56838,7 @@
     "id": 4169,
     "date": "2024-07-18T11:23:14",
     "text": "？？？？ CloudFlare 真的好智能？\n\n今天起来发现服务炸了，请求直接域名不见... 驱虫了半天，原本觉得 CF 应该是最不容易出问题的但是也看一眼吧，然后发现真的就是 CF 的锅\n\n我的 CF 隧道上有很多条 <a href=\"sekai.aquadx.net\">sekai.aquadx.net</a> 的不同子路径代理到不同端口上，昨天晚上加了一个测试路径然后把它删掉了，然后现在发现 CF 删那个子路径的时候直接把我整个 <a href=\"sekai.aquadx.net\">sekai.aquadx.net</a> 的 DNS 映射删掉了......\n\n怎么这么基础的逻辑还能出错啊 CF <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "media_group_id": 13770414354579493,
     "images": [
@@ -58651,7 +58651,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -58700,7 +58700,7 @@
     "id": 4298,
     "date": "2024-08-09T07:26:45",
     "text": "看数一在玩 <a href=\"https://www.puzzle-loop.com/\">Slither Link</a> 我也去试了试，好难 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 每日谜题花了 1:42 小时才做出来\n\n（放一个 100 倍速的视频",
-    "views": 101,
+    "views": 102,
     "forwards": 2,
     "files": [
       {
@@ -58722,7 +58722,7 @@
     "id": 4299,
     "date": "2024-08-09T08:48:10",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n神のまにまに！\n\n今天打プロセカ发现的这首歌，好久没有听到这么欢乐治愈的ボカロ曲了 qwq\n\n<a href=\"https://www.youtube.com/watch?v=b2GJcYBoVyg\">原曲MV</a> | <a href=\"https://www.youtube.com/watch?v=cb1s5_U0wd0\">プロセカ 3DMV</a>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "files": [
       {
@@ -59592,7 +59592,7 @@
     "id": 4359,
     "date": "2024-08-23T15:09:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n把鸡腿去骨之后剩下的骨头扔掉感觉有点浪费，就试着用来炖了汤做鸡汤面... 吃一口后悔没有用鸡肉炖 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
@@ -59611,14 +59611,14 @@
     "id": 4360,
     "date": "2024-08-25T02:05:16",
     "text": "为什么最近每次见别人约饭都会聊起多伦多跨圈的 drama... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 2
   },
   {
     "id": 4361,
     "date": "2024-08-25T03:59:58",
     "text": "useless cat <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "images": [
       {
