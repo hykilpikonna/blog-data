@@ -36068,7 +36068,7 @@
     "id": 2697,
     "date": "2023-09-25T03:14:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鮭お茶漬け！\n\n（还有聊聊做的烤鸡忘记拍了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "images": [
       {
@@ -47036,7 +47036,7 @@
     "id": 3453,
     "date": "2024-03-08T00:28:40",
     "text": "女生节快乐！今天去了 Toronto D&D 组织的一个纯女生 D&D 六人团，刚好用上了前几天想出来的猫猫角色，很开心！把这个故事记录下来了 qwq\n\n对比一下我参加的 Toronto D&D 这两次活动感觉这次女生团确实更注重故事的展开和情节，而且 DM 真的用我的猫猫角色背景改变了剧情诶\n\n上次活动有很逼真的角色敌人场景模型，但是时间都放在战斗上了，故事反而很直白。接了寻宝任务去搜沉船，打跑海盗打死骷髅，被宝箱里的元素碎片控制着阴差阳错地走进深洞，打死门口的守卫恶魔，遇到了红巫师用碎片合成元素怪... 然后把它们也打死了 🌚 从始至终没有见到一个能交流的活人，都是见面就打\n\n我还是更喜欢剧情向的团。虽然战略 min max 也很有意思，但是战斗系统还是电脑游戏做得更好，感觉灵活的剧情才是 D&D 作为桌游不可替代的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/5443161132535653267.tgs\">🧙‍♂</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 13678861765503957,
     "images": [
@@ -47071,7 +47071,7 @@
     "id": 3455,
     "date": "2024-03-08T06:27:33",
     "text": "今日迷惑：NAS 服务器上 firefox 内存泄漏导致笔记本 Windows 整个桌面卡死 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n补课看录像看着看着笔记本 Windows 桌面突然卡死了，重启了 explorer 发现是因为 NAS 服务器的 SMB 断了。ssh 连上服务器发现是我的 128GB 内存满了（？？）看看谁在用内存发现 Firefox 占了好多先杀了吧，然后一杀直接清出来了 65GB 内存（？？？ ）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n之后去 Grafana 上看看发现 Firefox 从三天前开始占用内存就一直在缓慢增加... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>  所以 2024 年有没有能用的浏览器啊，是不是需要加一个定时自动杀 firefox 的 crontab...",
-    "views": 77,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13679034031427581,
     "images": [
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 102,
+    "views": 105,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -59872,7 +59872,7 @@
     "id": 4377,
     "date": "2024-08-30T06:29:29",
     "text": "新室友说网速慢，测速 100Mbps 确实慢，拆开机器看一眼这个网卡的 WiFi 和蓝牙天线接反了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n直接换了一个 ax210，也是我库存里最后一张 ax210 了... 下次需要补货的时候会不会就有 wifi7 6g 网卡用了呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 62,
+    "views": 64,
     "forwards": 0,
     "images": [
       {
@@ -59891,14 +59891,14 @@
     "id": 4378,
     "date": "2024-08-30T08:19:07",
     "text": "唉，今天把 Wacca 的电脑拿过来跑 ff14 测试了一下，发现 1660 Super 带 4k 60fps 完全够，但是在 linux 上 2080 带 2k 都只能到 40fps...\n\n看来想认真玩游戏还是需要 Windows",
-    "views": 51,
+    "views": 54,
     "forwards": 0
   },
   {
     "id": 4379,
     "date": "2024-08-30T18:55:52",
     "text": "今天想要下载网页内嵌视频，打开 edge 发现下载视频的插件不见了\n\n想知道为什么，去打开另一台电脑的 chrome 看了一眼，发现它因为\"违反了 Chrome 商店政策\"被下架了 🌚 <del>就因为能下载 YouTube 视频吗？</del>\n\n唉卸掉 Chrome 真的一点都不后悔",
-    "views": 24,
+    "views": 27,
     "forwards": 0,
     "reply": {
       "id": 4372,
