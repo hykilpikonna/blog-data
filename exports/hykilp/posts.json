@@ -11421,7 +11421,7 @@
     "id": 943,
     "date": "2022-06-25T18:58:31",
     "text": "Introduction to Algorithms （幻视",
-    "views": 502,
+    "views": 503,
     "forwards": 4,
     "images": [
       {
@@ -46911,7 +46911,7 @@
     "id": 3445,
     "date": "2024-03-04T23:17:45",
     "text": "夕阳下的鸭鸭",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13676754124119365,
     "images": [
@@ -47025,7 +47025,7 @@
     "id": 3452,
     "date": "2024-03-07T16:14:16",
     "text": "结果开了药之后到现在只吃了三次，因为第一天吃了之后发现晚上确实会睡不着，所以决定只在早起的时候吃了... 然而早起本身就是一件很难的事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "reply": {
       "id": 3429,
@@ -47036,7 +47036,7 @@
     "id": 3453,
     "date": "2024-03-08T00:28:40",
     "text": "女生节快乐！今天去了 Toronto D&D 组织的一个纯女生 D&D 六人团，刚好用上了前几天想出来的猫猫角色，很开心！把这个故事记录下来了 qwq\n\n对比一下我参加的 Toronto D&D 这两次活动感觉这次女生团确实更注重故事的展开和情节，而且 DM 真的用我的猫猫角色背景改变了剧情诶\n\n上次活动有很逼真的角色敌人场景模型，但是时间都放在战斗上了，故事反而很直白。接了寻宝任务去搜沉船，打跑海盗打死骷髅，被宝箱里的元素碎片控制着阴差阳错地走进深洞，打死门口的守卫恶魔，遇到了红巫师用碎片合成元素怪... 然后把它们也打死了 🌚 从始至终没有见到一个能交流的活人，都是见面就打\n\n我还是更喜欢剧情向的团。虽然战略 min max 也很有意思，但是战斗系统还是电脑游戏做得更好，感觉灵活的剧情才是 D&D 作为桌游不可替代的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/5443161132535653267.tgs\">🧙‍♂</i>",
-    "views": 84,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13678861765503957,
     "images": [
@@ -47071,7 +47071,7 @@
     "id": 3455,
     "date": "2024-03-08T06:27:33",
     "text": "今日迷惑：NAS 服务器上 firefox 内存泄漏导致笔记本 Windows 整个桌面卡死 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n补课看录像看着看着笔记本 Windows 桌面突然卡死了，重启了 explorer 发现是因为 NAS 服务器的 SMB 断了。ssh 连上服务器发现是我的 128GB 内存满了（？？）看看谁在用内存发现 Firefox 占了好多先杀了吧，然后一杀直接清出来了 65GB 内存（？？？ ）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n之后去 Grafana 上看看发现 Firefox 从三天前开始占用内存就一直在缓慢增加... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>  所以 2024 年有没有能用的浏览器啊，是不是需要加一个定时自动杀 firefox 的 crontab...",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13679034031427581,
     "images": [
@@ -47111,7 +47111,7 @@
     "id": 3458,
     "date": "2024-03-08T11:10:38",
     "text": "呜 又因为各种原因分心了导致看到日出还没复习完\n\n还有 6h 考试，还有五节课要补... 不能睡觉了",
-    "views": 103,
+    "views": 104,
     "forwards": 1,
     "media_group_id": 13679169906442117,
     "images": [
@@ -47141,7 +47141,7 @@
     "id": 3460,
     "date": "2024-03-08T15:47:43",
     "text": "Vyvanse 好过分... 昨天早上十点起床吃了 20mg 到现在已经连续醒着快 25h 了还完全不困，刚刚复习完躺在床上想睡 1h 结果完全睡不着",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "reply": {
       "id": 3452,
@@ -47152,7 +47152,7 @@
     "id": 3461,
     "date": "2024-03-08T19:37:56",
     "text": "考完了！考试让带一张纸的手写笔记所以我就把所有的用例写进去了，然后居然真的考了两道原题 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n这次一共就四道题应该有三道都做对了，最后一道题是让我手解 LP simplex... 算完第一步矩阵里就全都是 11/2 15/4 的这种两位分数了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 我的心算速度合并一个分数要半分钟，计算器也没有计算分数的功能... 比较崩溃划掉答案写了不知道（写不知道能拿 20%）\n\n...然后考完和同学聊，同学说只需要算一步，第二步就没有更高的 max 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 所以我其实算出来了正确答案但是自己把它划掉了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i> 呜呜呜呜呜",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -47277,7 +47277,7 @@
     "id": 3469,
     "date": "2024-03-09T17:05:49",
     "text": "两年半前养的这盆绿萝现在已经比卷尺长了哇，长得好快 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n在想要不要剪下一段叶子再种一盆绿萝",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 54,
@@ -47301,7 +47301,7 @@
     "id": 3470,
     "date": "2024-03-10T11:15:04",
     "text": "呜呜 OS 课作业要写多线程 malloc... 一个 segfault 从晚上十一点 debug 到凌晨七点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n这虫好难抓，只有在高速运行的时候会发生，加一些 debug printf 就不会发生了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -47320,7 +47320,7 @@
     "id": 3471,
     "date": "2024-03-12T03:39:56",
     "text": "组员最后一天要到了一个 1 week extension... 我活了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n在这个作业上 debug 了快一整天了现在还是会莫名其妙 segfault",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "reply": {
       "id": 3470,
@@ -48540,7 +48540,7 @@
     "id": 3557,
     "date": "2024-04-06T11:39:09",
     "text": "试试让 DALL-E 把蓝粉星夜的这个想法画出来结果真的画得好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 278,
+    "views": 279,
     "forwards": 8,
     "reply": {
       "id": 2671,
@@ -57663,7 +57663,7 @@
     "id": 4227,
     "date": "2024-07-26T09:03:30",
     "text": "要骂人了... 画板子画到一半突然",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 104,
+    "views": 107,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 108,
+    "views": 111,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -57881,7 +57881,7 @@
   {
     "id": 4241,
     "date": "2024-07-28T20:10:15",
-    "views": 100,
+    "views": 103,
     "forwards": 0,
     "forwarded_from": {
       "name": "🌨️",
@@ -57903,7 +57903,7 @@
   {
     "id": 4242,
     "date": "2024-07-28T20:10:29",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "files": [
       {
@@ -57928,7 +57928,7 @@
     "id": 4244,
     "date": "2024-07-28T21:09:43",
     "text": "吃完海底捞出来听见了猫叫，找过去之后看到了猫，然后看到了第二只猫，第三只猫，还有第四只猫…\n桂桂随身带了猫条，拿出来打开了之后猫猫们不为所动，放在这里等了好一会猫猫左顾右盼之后才敢来吃 qwq",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -58021,7 +58021,7 @@
     "id": 4250,
     "date": "2024-07-29T17:14:16",
     "text": "[object Object] is awesome",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "images": [
       {
@@ -58040,7 +58040,7 @@
     "id": 4251,
     "date": "2024-07-29T20:10:12",
     "text": "今天和 menci 一起 debug 了一天还没搞明白为什么 mai pico 接上触屏的串口就开不了机\n\n然后准备睡觉了在床上再想了一眼突然想明白了，触屏是 rs232，pico 是 TTL... 我们在用 232 接 TTL 🌚\n\n还好 pico 没有被 232 的 5V 烧掉",
-    "views": 96,
+    "views": 97,
     "forwards": 1
   },
   {
@@ -59017,7 +59017,7 @@
     "id": 4320,
     "date": "2024-08-11T23:59:23",
     "text": "切肉肉差点切到手了，还好有指甲 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "images": [
       {
@@ -59036,7 +59036,7 @@
     "id": 4321,
     "date": "2024-08-13T00:56:50",
     "text": "有点想做一个白嫖互联万物获得无限容量无限冗余的存储方案——网络上很多和存储无关的服务也会存一些元数据，从最简单的比如用户名和简介到推文到游戏存档，即使每个位置都只有很短的长度限制，加起来也是无穷大的。在想能不能做一个框架把自己的数据分成碎片塞进世界的所有角落\n\n而且说不定可以用爬虫自动爬整个互联网的链接树，让 LLM 帮忙找到所有可以塞数据的角落",
-    "views": 112,
+    "views": 113,
     "forwards": 2
   },
   {
@@ -59519,7 +59519,7 @@
     "id": 4355,
     "date": "2024-08-22T01:28:17",
     "text": "这才是跨平台 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
@@ -59538,7 +59538,7 @@
     "id": 4356,
     "date": "2024-08-22T08:56:46",
     "text": "现在 FF14 打到 3.0 啦，无论剧情上还是游戏性都比 2.0 好太多了——无意义的跑腿任务减少了，有动作和配音的过场动画也比之前多了。\n\n前几天去了解了一下这个游戏的历史... 原来 2.0 烂是因为它是 1.0 大失败之后抢救赶工重做的。2.0 设定里开头过场的红色月亮是 1.0 的停服世界末日计划，巴哈姆特从月亮里出来，玩家和游戏公司惨败，被路易索瓦传送到了五年后也就是 2.0 的世界线 🌚",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "reply": {
       "id": 4330,
@@ -59550,7 +59550,7 @@
     "id": 4357,
     "date": "2024-08-23T01:47:28",
     "text": "？青蛙让猫捉虫子？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "reply": {
       "id": 4344,
@@ -59573,7 +59573,7 @@
     "id": 4358,
     "date": "2024-08-23T03:47:37",
     "text": "光之战士也不读条款就同意 🌚",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -59592,7 +59592,7 @@
     "id": 4359,
     "date": "2024-08-23T15:09:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n把鸡腿去骨之后剩下的骨头扔掉感觉有点浪费，就试着用来炖了汤做鸡汤面... 吃一口后悔没有用鸡肉炖 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
@@ -59611,14 +59611,14 @@
     "id": 4360,
     "date": "2024-08-25T02:05:16",
     "text": "为什么最近每次见别人约饭都会聊起多伦多跨圈的 drama... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 90,
+    "views": 91,
     "forwards": 2
   },
   {
     "id": 4361,
     "date": "2024-08-25T03:59:58",
     "text": "useless cat <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 97,
+    "views": 99,
     "forwards": 1,
     "images": [
       {
@@ -59637,7 +59637,7 @@
     "id": 4362,
     "date": "2024-08-25T20:28:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炖鸡！",
-    "views": 102,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 13796941516438189,
     "images": [
@@ -59670,7 +59670,7 @@
   {
     "id": 4364,
     "date": "2024-08-26T02:20:21",
-    "views": 107,
+    "views": 110,
     "forwards": 0,
     "images": [
       {
@@ -59689,14 +59689,14 @@
     "id": 4365,
     "date": "2024-08-26T04:44:31",
     "text": "收拾房间收拾得要疯了，有好多现在用不到但是「感觉扔掉它的话它会很伤心」所以想要留下来的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>\n\n比如很好看的购物袋和包装盒、不那么好看就没有再穿过的衣服、以前为了解决某个需求临时设计的原型和零件、别人可能用得上的比如几十个沃尔玛布袋和几百张口罩...",
-    "views": 100,
+    "views": 104,
     "forwards": 0
   },
   {
     "id": 4366,
     "date": "2024-08-26T16:10:15",
     "text": "瑞希生日快乐！",
-    "views": 93,
+    "views": 97,
     "forwards": 1,
     "images": [
       {
@@ -59715,7 +59715,7 @@
     "id": 4367,
     "date": "2024-08-26T18:00:30",
     "text": "控え室.jpg",
-    "views": 77,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 13797561841699629,
     "images": [
@@ -59755,7 +59755,7 @@
     "id": 4370,
     "date": "2024-08-27T02:39:59",
     "text": "好，11 PM - 6 AM 关服维护强行戒网\n\n这个时机也太巧了，正好明天早九要考试",
-    "views": 80,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
@@ -59774,7 +59774,7 @@
     "id": 4371,
     "date": "2024-08-27T08:38:05",
     "text": "明天考试，今天补课看教课书的时候因为阅读困难眼睛没办法对焦想要试试让 TTS 帮我读出来\n\n但是似乎没有很好的开源方案可以用本地大模型读 PDF，试了一下 Zotero-ZoTTS 但是它只是用 Zotero 的火狐引擎自带的 Web TTS 接口，断句语调全错而且声音还很机械...\n\n之后找了一大圈也没找到很好的解决方案，甚至有点想自己开坑了。已经要放弃的时候，想起来 Edge 也有 TTS 功能来着索性试试吧，然后听一下发现真的好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 感觉效果已经和 ElevenLabs 不相上下了，而且是免费的，完全超出预期\n\n<del>好了我一直留着余念没删的 Chrome 和火狐都可以卸载了</del>",
-    "views": 91,
+    "views": 93,
     "forwards": 0,
     "files": [
       {
@@ -59797,7 +59797,7 @@
     "id": 4372,
     "date": "2024-08-27T09:35:59",
     "text": "陪伴了我八年零五天",
-    "views": 92,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13798010871746549,
     "images": [
@@ -59827,7 +59827,7 @@
     "id": 4374,
     "date": "2024-08-27T16:33:39",
     "text": "看到朋友发的梗图，突然在想，日语的「貴様 kisama」变成阴阳怪气词的过程是不是和中文的「您」完全一致 🌚",
-    "views": 83,
+    "views": 87,
     "forwards": 0,
     "images": [
       {
@@ -59846,14 +59846,14 @@
     "id": 4375,
     "date": "2024-08-29T04:37:01",
     "text": "新的室友搬进来了！开心开心",
-    "views": 71,
+    "views": 74,
     "forwards": 0
   },
   {
     "id": 4376,
     "date": "2024-08-29T05:00:26",
     "text": "唉\n\n刚刚在嵌入式群里问在哪里找 rockchip 的文档，tyh 回我说找吴川斌的博客，下意识以为是某个被开盒的人的博客，后来才知道这个博客本身就叫这个名字\n\n唉，住久了 tgcn 只要听到三个汉字的名字都会下意识以为有人在被网爆，明明对于一般人来说用法名应该是理所应当的事情吧",
-    "views": 74,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -59872,7 +59872,7 @@
     "id": 4377,
     "date": "2024-08-30T06:29:29",
     "text": "新室友说网速慢，测速 100Mbps 确实慢，拆开机器看一眼这个网卡的 WiFi 和蓝牙天线接反了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n直接换了一个 ax210，也是我库存里最后一张 ax210 了... 下次需要补货的时候会不会就有 wifi7 6g 网卡用了呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 66,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -59891,14 +59891,14 @@
     "id": 4378,
     "date": "2024-08-30T08:19:07",
     "text": "唉，今天把 Wacca 的电脑拿过来跑 ff14 测试了一下，发现 1660 Super 带 4k 60fps 完全够，但是在 linux 上 2080 带 2k 都只能到 40fps...\n\n看来想认真玩游戏还是需要 Windows",
-    "views": 60,
+    "views": 66,
     "forwards": 0
   },
   {
     "id": 4379,
     "date": "2024-08-30T18:55:52",
     "text": "今天想要下载网页内嵌视频，打开 edge 发现下载视频的插件不见了\n\n想知道为什么，去打开另一台电脑的 chrome 看了一眼，发现它因为\"违反了 Chrome 商店政策\"被下架了 🌚 <del>就因为能下载 YouTube 视频吗？</del>\n\n唉卸掉 Chrome 真的一点都不后悔",
-    "views": 44,
+    "views": 57,
     "forwards": 1,
     "reply": {
       "id": 4372,
@@ -59915,6 +59915,25 @@
         "url": "media/4379.jpg",
         "size": 32158,
         "thumb": "media/4379.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4380,
+    "date": "2024-08-31T03:04:55",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n红烧肉！",
+    "views": 28,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-08-31T03:04:54",
+        "media_type": "photo",
+        "original_name": "photo_2024-08-31_03-04-54.jpg",
+        "url": "media/4380.jpg",
+        "size": 157150,
+        "thumb": "media/4380.jpg_thumb.jpg"
       }
     ]
   }
