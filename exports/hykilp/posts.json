@@ -57083,14 +57083,14 @@
     "id": 4186,
     "date": "2024-07-20T16:34:51",
     "text": "0721 是什么日子？",
-    "views": 87,
+    "views": 88,
     "forwards": 0
   },
   {
     "id": 4187,
     "date": "2024-07-20T17:38:44",
     "text": "是人类的一大步",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "forwarded_from": {
       "name": "Tarocca Leohearts ad Astra, 芋头",
@@ -57113,7 +57113,7 @@
     "id": 4188,
     "date": "2024-07-20T19:43:02",
     "text": "是同一个游戏",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -57132,7 +57132,7 @@
     "id": 4189,
     "date": "2024-07-21T10:35:56",
     "text": "兔兔苹果！",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13772465252381349,
     "images": [
@@ -57172,14 +57172,14 @@
     "id": 4192,
     "date": "2024-07-21T10:55:30",
     "text": "syama: 下雨的时候鸟为什么不飞到云上面避雨呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 87,
+    "views": 88,
     "forwards": 0
   },
   {
     "id": 4193,
     "date": "2024-07-21T14:01:31",
     "text": "楼下新开了一家米线店，原来直接用廉价建材装修成「很老旧装修的气氛」也能很好看 quq",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13772563932384525,
     "images": [
@@ -57259,7 +57259,7 @@
     "id": 4200,
     "date": "2024-07-21T14:13:54",
     "text": "把这张打出来定了一个相框 qwq",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13772569879446949,
     "images": [
@@ -57283,7 +57283,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57323,7 +57323,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57346,7 +57346,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57369,7 +57369,7 @@
     "id": 4207,
     "date": "2024-07-22T05:17:14",
     "text": "syama: 你看那个水杯旁边的镜头像不像一个水杯\n\n...它就是个水杯 🌚",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "images": [
       {
@@ -57388,7 +57388,7 @@
     "id": 4208,
     "date": "2024-07-22T12:13:18",
     "text": "没见过女的吗",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -57411,7 +57411,7 @@
     "id": 4209,
     "date": "2024-07-22T20:00:52",
     "text": "好用的",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
@@ -57430,7 +57430,7 @@
     "id": 4210,
     "date": "2024-07-22T20:10:58",
     "text": "帮 syama 搬家搬到了苏州 qwq\n\nsyama 搬家好奇妙，当天来苏州刚看了一栋房就觉得还不错当场决定好签合同住进来了，然后马上打车回杭州打包东西叫货拉拉搬过来... <i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i> 好快！\n\n...然后发现这个房子有好多小问题，比如厕所很小没有地方可以放纸不被淋湿，厕所几乎没有抽风，窗户外面也是不太能通风的封闭小空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n果然租房不应该很快决定呢...",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "media_group_id": 13773432467958797,
     "images": [
@@ -57510,14 +57510,14 @@
     "id": 4217,
     "date": "2024-07-22T20:32:45",
     "text": "syama: 明天早点叫我起床，我怕起床他们下班了\n我：所以我们现在“早点起床”是“下午五点之前“吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 0
   },
   {
     "id": 4218,
     "date": "2024-07-23T08:45:19",
     "text": "去实体店试了试华为的 Pura 60 Pro，感觉长焦好烂，AI 补得也好烂，真不愧是 ����VAFIVE AI CAVCDA",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -57536,7 +57536,7 @@
     "id": 4219,
     "date": "2024-07-23T13:58:33",
     "text": "第一次装 PVE",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "images": [
       {
@@ -57555,7 +57555,7 @@
     "id": 4220,
     "date": "2024-07-23T15:58:31",
     "text": "好耶！22GB 的 2080Ti",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -57574,7 +57574,7 @@
     "id": 4222,
     "date": "2024-07-24T21:00:51",
     "text": "蚯蚓软软糖",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "media_group_id": 13774838814594845,
     "images": [
@@ -57604,7 +57604,7 @@
     "id": 4223,
     "date": "2024-07-25T07:36:57",
     "text": "用键鼠玩 pjsk 是魔鬼吗",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -57623,7 +57623,7 @@
     "id": 4224,
     "date": "2024-07-25T10:30:44",
     "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13775227556405245,
     "images": [
@@ -57663,7 +57663,7 @@
     "id": 4227,
     "date": "2024-07-26T09:03:30",
     "text": "要骂人了... 画板子画到一半突然",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 110,
+    "views": 111,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57717,7 +57717,7 @@
     "id": 4230,
     "date": "2024-07-26T17:31:57",
     "text": "<a href=\"##产品开箱\">#产品开箱</a> <del>一只萌次猫</del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</del></i>\n\n<span class=\"spoiler\"><span>（好吧其实是 maimai 灯罩的箱子</span></span>",
-    "views": 97,
+    "views": 98,
     "forwards": 2,
     "media_group_id": 13776120940763933,
     "images": [
@@ -57747,7 +57747,7 @@
     "id": 4232,
     "date": "2024-07-26T23:49:24",
     "text": "要被蓝屏气疯了... 现在这个系统 uptime 不会超过 24h\n\n不过也是很老的系统了，之前从 Intel 1065G7 迁移到 AMD 7840HS，中间还有段时间在 AMD 3600 + GTX 1060 的机器上用过，所以三家的驱动全都装过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 4227,
@@ -59102,7 +59102,7 @@
     "id": 4326,
     "date": "2024-08-15T08:25:05",
     "text": "聊聊：想让你像猫猫 gif 里那样 rua 我\n我：好，天降抱枕 <i class=\"custom-emoji\" emoji-src=\"emoji/4981340762533790955.webp\">😺</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "files": [
       {
@@ -59689,14 +59689,14 @@
     "id": 4365,
     "date": "2024-08-26T04:44:31",
     "text": "收拾房间收拾得要疯了，有好多现在用不到但是「感觉扔掉它的话它会很伤心」所以想要留下来的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>\n\n比如很好看的购物袋和包装盒、不那么好看就没有再穿过的衣服、以前为了解决某个需求临时设计的原型和零件、别人可能用得上的比如几十个沃尔玛布袋和几百张口罩...",
-    "views": 117,
+    "views": 118,
     "forwards": 0
   },
   {
     "id": 4366,
     "date": "2024-08-26T16:10:15",
     "text": "瑞希生日快乐！",
-    "views": 108,
+    "views": 109,
     "forwards": 1,
     "images": [
       {
@@ -59715,7 +59715,7 @@
     "id": 4367,
     "date": "2024-08-26T18:00:30",
     "text": "控え室.jpg",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13797561841699629,
     "images": [
@@ -59774,7 +59774,7 @@
     "id": 4371,
     "date": "2024-08-27T08:38:05",
     "text": "明天考试，今天补课看教课书的时候因为阅读困难眼睛没办法对焦想要试试让 TTS 帮我读出来\n\n但是似乎没有很好的开源方案可以用本地大模型读 PDF，试了一下 Zotero-ZoTTS 但是它只是用 Zotero 的火狐引擎自带的 Web TTS 接口，断句语调全错而且声音还很机械...\n\n之后找了一大圈也没找到很好的解决方案，甚至有点想自己开坑了。已经要放弃的时候，想起来 Edge 也有 TTS 功能来着索性试试吧，然后听一下发现真的好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 感觉效果已经和 ElevenLabs 不相上下了，而且是免费的，完全超出预期\n\n<del>好了我一直留着余念没删的 Chrome 和火狐都可以卸载了</del>",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "files": [
       {
@@ -59797,7 +59797,7 @@
     "id": 4372,
     "date": "2024-08-27T09:35:59",
     "text": "陪伴了我八年零五天",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 13798010871746549,
     "images": [
@@ -59853,7 +59853,7 @@
     "id": 4376,
     "date": "2024-08-29T05:00:26",
     "text": "唉\n\n刚刚在嵌入式群里问在哪里找 rockchip 的文档，tyh 回我说找吴川斌的博客，下意识以为是某个被开盒的人的博客，后来才知道这个博客本身就叫这个名字\n\n唉，住久了 tgcn 只要听到三个汉字的名字都会下意识以为有人在被网爆，明明对于一般人来说用法名应该是理所应当的事情吧",
-    "views": 115,
+    "views": 116,
     "forwards": 1,
     "images": [
       {
@@ -59941,7 +59941,7 @@
     "id": 4381,
     "date": "2024-08-31T17:50:42",
     "text": "出门摸草路过了某个 jazz fest，还有某个二次元谷子店，不错喵",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 13801013136707349,
     "images": [
@@ -59971,21 +59971,21 @@
     "id": 4383,
     "date": "2024-09-01T00:45:34",
     "text": "不知道为什么越来越不喜欢碳酸饮料的气泡了",
-    "views": 94,
+    "views": 95,
     "forwards": 0
   },
   {
     "id": 4384,
     "date": "2024-09-01T01:14:27",
     "text": "做饭，让聊聊订一个 半小时的闹钟，结果聊聊订了 1.5 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 1
   },
   {
     "id": 4385,
     "date": "2024-09-01T20:28:14",
     "text": "气死了，大家以后记住不要买松下的电池\n\n去无人超市买了一块全新的 9V 电池，回家装上发现不工作，用电表测一下只有 2.63V...",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "images": [
       {
@@ -60059,7 +60059,7 @@
     "id": 4389,
     "date": "2024-09-03T20:28:35",
     "text": "今年也是，很荣幸地翘掉了开学第一天的第一节课 <i class=\"custom-emoji\" emoji-src=\"emoji/5469634808437021491.webp\">😴</i>",
-    "views": 106,
+    "views": 108,
     "forwards": 3,
     "reply": {
       "id": 1720,
@@ -60082,7 +60082,7 @@
     "id": 4390,
     "date": "2024-09-03T20:35:57",
     "text": "唉 一年半前鸡腿好便宜，居然 $0.99/lb... 现在要 $2.5/lb 了\n\n早知道当时多买几十袋了",
-    "views": 78,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 1719,
@@ -60166,7 +60166,7 @@
     "id": 4397,
     "date": "2024-09-05T01:50:56",
     "text": "呜呜呜 被供应链攻击断药了，贴片厂生产不出贴片了，报告说预计两个月之后才能恢复...\n\n赶快联系医生换了针剂 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i> 可是我怕针怎么办呜呜",
-    "views": 75,
+    "views": 77,
     "forwards": 1,
     "images": [
       {
@@ -60185,7 +60185,7 @@
     "id": 4398,
     "date": "2024-09-05T06:37:56",
     "text": "唉 我好喜欢一两年前 OpenAI 主页很独特的网页配色风格，今天和聊聊聊到这个设计的时候突然发现现在的 OpenAI 主页已经变成了普普通通的卡片设计... 好可惜",
-    "views": 83,
+    "views": 85,
     "forwards": 2,
     "media_group_id": 13804146213977677,
     "images": [
@@ -60225,7 +60225,7 @@
     "id": 4401,
     "date": "2024-09-06T15:39:04",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 46,
+    "views": 51,
     "forwards": 1,
     "images": [
       {
@@ -60239,5 +60239,12 @@
         "thumb": "media/4401.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 4402,
+    "date": "2024-09-06T21:11:00",
+    "text": "哇！Python 3.13 要把 GIL (Global Interpreter Lock) 去掉了！马上就可以在 Python 里面很方便地用多核跑多线程工作流了！也不再需要启动子进程了...\n\n马上下载一个试试 qwq",
+    "views": 19,
+    "forwards": 0
   }
 ]
