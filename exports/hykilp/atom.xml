@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-09-08T04:11:01.307162+00:00</updated>
+  <updated>2024-09-08T06:09:40.915151+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4406</id>
+    <title>小桂桂的回忆录 📒 #4406</title>
+    <updated>2024-09-08T06:02:53+00:00</updated>
+    <content>&lt;p&gt;发现 arXiv 数据集里面没有作者的 affiliation，也没有邮箱，只有名字，怎么办呢？&lt;/p&gt;
+&lt;p&gt;刚开始想要爬 Google Scholar 按名字搜索找到邮箱然后用邮箱判断 affiliation，但是发现重名的作者真的非常多... 比如数据里出现次数最多的 Yang Liu 有 1734 篇文章，但是在 Scholar 上同名的人也有至少 300 个，看来名字不太可靠呢&lt;/p&gt;
+&lt;p&gt;想了想感觉没有很整洁的办法，比较麻烦的办法倒是想到了一个。因为 arXiv 要求所有作者必须上传 tex 源码，我打算把所有 tex 源码下载下来然后在源码里面找 @ 关键字，也许这样可以找到作者的邮箱从而得到 affiliation &lt;/p&gt;
+&lt;p&gt;（虽然因为 tex 的多样性，把作者的名字和邮箱连接起来也是一个难点... 也许可以让 LLM 过一遍数据帮我提取 quq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4406" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4405</id>
+    <title>小桂桂的回忆录 📒 #4405</title>
+    <updated>2024-09-08T05:46:45+00:00</updated>
+    <content>&lt;p&gt;试着用洗衣机洗出来皱皱，不是很好看呢... 不知道用熨斗能不能修好&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4405" rel="alternate"/>
+  </entry>
   <entry>
     <id>4404</id>
     <title>小桂桂的回忆录 📒 #4404</title>

@@ -12,7 +12,22 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Sep 2024 04:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 06:09:40 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4406</title>
+      <link>https://aza.moe/life?post=4406</link>
+      <description>&lt;p&gt;发现 arXiv 数据集里面没有作者的 affiliation，也没有邮箱，只有名字，怎么办呢？&lt;/p&gt;
+&lt;p&gt;刚开始想要爬 Google Scholar 按名字搜索找到邮箱然后用邮箱判断 affiliation，但是发现重名的作者真的非常多... 比如数据里出现次数最多的 Yang Liu 有 1734 篇文章，但是在 Scholar 上同名的人也有至少 300 个，看来名字不太可靠呢&lt;/p&gt;
+&lt;p&gt;想了想感觉没有很整洁的办法，比较麻烦的办法倒是想到了一个。因为 arXiv 要求所有作者必须上传 tex 源码，我打算把所有 tex 源码下载下来然后在源码里面找 @ 关键字，也许这样可以找到作者的邮箱从而得到 affiliation &lt;/p&gt;
+&lt;p&gt;（虽然因为 tex 的多样性，把作者的名字和邮箱连接起来也是一个难点... 也许可以让 LLM 过一遍数据帮我提取 quq&lt;/p&gt;</description>
+      <guid isPermaLink="false">4406</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #4405</title>
+      <link>https://aza.moe/life?post=4405</link>
+      <description>&lt;p&gt;试着用洗衣机洗出来皱皱，不是很好看呢... 不知道用熨斗能不能修好&lt;/p&gt;</description>
+      <guid isPermaLink="false">4405</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4404</title>
       <link>https://aza.moe/life?post=4404</link>
