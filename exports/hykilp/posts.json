@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7175,
+    "views": 7176,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -60296,7 +60296,7 @@
     "id": 4405,
     "date": "2024-09-08T05:46:45",
     "text": "试着用洗衣机洗出来皱皱，不是很好看呢... 不知道用熨斗能不能修好",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "reply": {
       "id": 4401,
@@ -60319,7 +60319,7 @@
     "id": 4406,
     "date": "2024-09-08T06:02:53",
     "text": "发现 arXiv 数据集里面没有作者的 affiliation，也没有邮箱，只有名字，怎么办呢？\n\n刚开始想要爬 Google Scholar 按名字搜索找到邮箱然后用邮箱判断 affiliation，但是发现重名的作者真的非常多... 比如数据里出现次数最多的 Yang Liu 有 1734 篇文章，但是在 Scholar 上同名的人也有至少 300 个，看来名字不太可靠呢\n\n想了想感觉没有很整洁的办法，比较麻烦的办法倒是想到了一个。因为 arXiv 要求所有作者必须上传 tex 源码，我打算把所有 tex 源码下载下来然后在源码里面找 @ 关键字，也许这样可以找到作者的邮箱从而得到 affiliation \n\n（虽然因为 tex 的多样性，把作者的名字和邮箱连接起来也是一个难点... 也许可以让 LLM 过一遍数据帮我提取 quq",
-    "views": 41,
+    "views": 43,
     "forwards": 1,
     "reply": {
       "id": 4403,
