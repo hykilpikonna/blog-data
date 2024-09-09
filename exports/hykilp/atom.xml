@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-09-08T22:10:31.882798+00:00</updated>
+  <updated>2024-09-09T00:12:47.270579+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4409</id>
+    <title>小桂桂的回忆录 📒 #4409</title>
+    <updated>2024-09-08T23:27:54+00:00</updated>
+    <content>&lt;p&gt;"towards intelligence too cheap to meter"&lt;/p&gt;
+&lt;p&gt;原本不想交给 LLM 因为觉得可能会很慢或者很贵，但是 gpt4o-mini 实在是太便宜了，让它从 39487 篇论文的 tex 源码里提取作者信息，总共 300MB 的纯文本数据居然半小时就处理完了，只花了 $5.29 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;真希望以后能有效果这么好的开源小模型&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4409" rel="alternate"/>
+  </entry>
   <entry>
     <id>4408</id>
     <title>小桂桂的回忆录 📒 #4408</title>
