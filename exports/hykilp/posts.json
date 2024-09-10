@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 126,
+    "views": 127,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 145,
+    "views": 146,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 130,
+    "views": 131,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -59349,7 +59349,7 @@
     "id": 4344,
     "date": "2024-08-19T06:17:34",
     "text": "你也知道啊啊啊啊啊编剧 💢💢",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -60040,7 +60040,7 @@
     "id": 4388,
     "date": "2024-09-03T16:34:30",
     "text": "之前一直不太懂为什么一些淘宝卖家卖两三块钱的东西可以包邮，自己寄东西邮费邮费就至少 ￥8\n\n今天去群里问了问，群友告诉我批量发货可以很大程度降低运费，一次发货两件就能每件便宜 ￥1.3 了，大商家一次发几百几千件肯定能拿到更便宜的价格 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n以及不知道为什么面向商家的 <a href=\"fahuo.cainiao.com\">fahuo.cainiao.com</a> 即使只寄一件也比面向客户的菜鸟 App 上的价格便宜，奇妙",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "images": [
       {
@@ -60059,7 +60059,7 @@
     "id": 4389,
     "date": "2024-09-03T20:28:35",
     "text": "今年也是，很荣幸地翘掉了开学第一天的第一节课 <i class=\"custom-emoji\" emoji-src=\"emoji/5469634808437021491.webp\">😴</i>",
-    "views": 132,
+    "views": 133,
     "forwards": 3,
     "reply": {
       "id": 1720,
@@ -60166,7 +60166,7 @@
     "id": 4397,
     "date": "2024-09-05T01:50:56",
     "text": "呜呜呜 被供应链攻击断药了，贴片厂生产不出贴片了，报告说预计两个月之后才能恢复...\n\n赶快联系医生换了针剂 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i> 可是我怕针怎么办呜呜",
-    "views": 119,
+    "views": 120,
     "forwards": 1,
     "images": [
       {
@@ -60380,7 +60380,7 @@
     "id": 4409,
     "date": "2024-09-08T23:27:54",
     "text": "\"towards intelligence too cheap to meter\"\n\n原本不想交给 LLM 因为觉得可能会很慢或者很贵，但是 gpt4o-mini 实在是太便宜了，让它从 39487 篇论文的 tex 源码里提取作者信息，总共 300MB 的纯文本数据居然半小时就处理完了，只花了 $5.29 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n真希望以后能有效果这么好的开源小模型",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "media_group_id": 13806704591990717,
     "images": [
@@ -60404,7 +60404,7 @@
     "id": 4411,
     "date": "2024-09-09T01:37:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汉堡拌饭（？）\n\n把汉堡的食材单独做熟然后分开放在饭上 qwq",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13806766989718021,
     "images": [
@@ -60444,7 +60444,7 @@
     "id": 4415,
     "date": "2024-09-09T20:15:42",
     "text": "灵魂走线",
-    "views": 64,
+    "views": 66,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -60467,7 +60467,7 @@
     "id": 4416,
     "date": "2024-09-10T05:48:20",
     "text": "之前在想有没有可能真的把这种图上的效果用发光的无限反射镜做出来，前几天买了材料寄到 syama 那里做了一些可行性测试发现是可以的，效果还很不错 qwq\n\n今天马上花了八个小时连麦把 PCB 画好送去嘉立创打样了，为了让它更实用试着画了一个小 OLED 显示屏和一个小数码管上去，虽然不知道它们亮度够不够显示在无限反射镜里... 感觉 200 nits 的亮度不太可能但是也试试好啦\n\n之后还要设计一个 3D 打印的导光外壳，希望第一个版本不会翻车（x",
-    "views": 53,
+    "views": 58,
     "forwards": 0,
     "media_group_id": 13807578402274005,
     "images": [
@@ -60522,7 +60522,26 @@
     "id": 4420,
     "date": "2024-09-10T09:29:56",
     "text": "<a href=\"https://www.youtube.com/watch?v=v-VFP0piZLw\">https://www.youtube.com/watch?v=v-VFP0piZLw</a>",
-    "views": 30,
+    "views": 40,
     "forwards": 0
+  },
+  {
+    "id": 4421,
+    "date": "2024-09-10T21:08:22",
+    "text": "真是我见过的最中二的海报",
+    "views": 21,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 931,
+        "height": 1280,
+        "date": "2024-09-10T21:08:22",
+        "media_type": "photo",
+        "original_name": "photo_2024-09-10_21-08-22.jpg",
+        "url": "media/4421.jpg",
+        "size": 107511,
+        "thumb": "media/4421.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
