@@ -60004,7 +60004,7 @@
     "id": 4386,
     "date": "2024-09-02T00:49:34",
     "text": "收到了 Celestium 的礼物，是一个看起来像天球仪的永动摆，好好看 qwq <span class=\"spoiler\"><span>是某种对 ADHD 宝具</span></span>\n\n它原本需要装一个 9V 电池，但是买来了一个是坏的，而且感觉用电池供电好浪费，所以直接把电池线剪掉焊了一个 DC 接口上去改成 12V 接线了，既让磁力更强又不用担心会没电了 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 2,
     "media_group_id": 13801905399622605,
     "files": [
@@ -60270,7 +60270,7 @@
     "id": 4404,
     "date": "2024-09-07T16:44:12",
     "text": "现在解 25*30 只需要 23 分钟了！",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 4298,
@@ -60296,7 +60296,7 @@
     "id": 4405,
     "date": "2024-09-08T05:46:45",
     "text": "试着用洗衣机洗出来皱皱，不是很好看呢... 不知道用熨斗能不能修好",
-    "views": 83,
+    "views": 84,
     "forwards": 1,
     "reply": {
       "id": 4401,
@@ -60319,7 +60319,7 @@
     "id": 4406,
     "date": "2024-09-08T06:02:53",
     "text": "发现 arXiv 数据集里面没有作者的 affiliation，也没有邮箱，只有名字，怎么办呢？\n\n刚开始想要爬 Google Scholar 按名字搜索找到邮箱然后用邮箱判断 affiliation，但是发现重名的作者真的非常多... 比如数据里出现次数最多的 Yang Liu 有 1734 篇文章，但是在 Scholar 上同名的人也有至少 300 个，看来名字不太可靠呢\n\n想了想感觉没有很整洁的办法，比较麻烦的办法倒是想到了一个。因为 arXiv 要求所有作者必须上传 tex 源码，我打算把所有 tex 源码下载下来然后在源码里面找 @ 关键字，也许这样可以找到作者的邮箱从而得到 affiliation \n\n（虽然因为 tex 的多样性，把作者的名字和邮箱连接起来也是一个难点... 也许可以让 LLM 过一遍数据帮我提取 quq",
-    "views": 88,
+    "views": 89,
     "forwards": 2,
     "reply": {
       "id": 4403,
@@ -60631,7 +60631,7 @@
     "id": 4427,
     "date": "2024-09-13T01:40:16",
     "text": "把 FF14 的数据同步到 InfluxDB 上了，然后在 Grafana 上搭了一个 <a href=\"https://gf.hydev.org/d/cdxj1uzki8rnkb/ff14?orgId=1&from=now-15d&to=now\">FF14 的数据监控面板</a> qwq\n\n感谢 liza 的 <a href=\"https://git.carvel.li/liza/Influx\">influx 插件</a> <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>",
-    "views": 56,
+    "views": 62,
     "forwards": 1,
     "media_group_id": 13809532927871925,
     "images": [
@@ -60661,7 +60661,7 @@
     "id": 4429,
     "date": "2024-09-13T02:19:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n今天重新做了，这次不是焦碳",
-    "views": 44,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 4423,
@@ -60684,7 +60684,7 @@
     "id": 4430,
     "date": "2024-09-13T04:45:57",
     "text": "今天和聊聊玩了索尼刚发售的 PS5 独占游戏 Astro Bot，真的用到了手柄的体感和震动和音效还有中间的触摸板，感觉手柄无缝成为了游戏的一部分，第一次感受到原来 PS5 这个平台这么厉害\n\n可惜跨平台游戏里基本上没有开发者会专门给 PS5 的特殊功能做很特别的适配，PS5 上顺平台的游戏也没有多少...\n\n现在突然想入坑玩玩同样是 PS5 独占的 FF16 了 quq",
-    "views": 32,
+    "views": 39,
     "forwards": 1,
     "images": [
       {
