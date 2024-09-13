@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7184,
+    "views": 7186,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -60244,14 +60244,14 @@
     "id": 4402,
     "date": "2024-09-06T21:11:00",
     "text": "哇！Python 3.13 要把 GIL (Global Interpreter Lock) 去掉了！马上就可以在 Python 里面很方便地用多核跑多线程工作流了！也不再需要启动子进程了...\n\n马上下载一个试试 qwq",
-    "views": 96,
+    "views": 97,
     "forwards": 0
   },
   {
     "id": 4403,
     "date": "2024-09-06T23:01:40",
     "text": "还在想怎样爬 arXiv，然后发现官方发布过完整的数据 dump 直接下载就能用了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n唉，互联网怎么会有这么良心的组织，看看别的同样是托管用户内容的平台在想尽办法反爬虫，这边甚至不用爬...",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "images": [
       {
@@ -60319,7 +60319,7 @@
     "id": 4406,
     "date": "2024-09-08T06:02:53",
     "text": "发现 arXiv 数据集里面没有作者的 affiliation，也没有邮箱，只有名字，怎么办呢？\n\n刚开始想要爬 Google Scholar 按名字搜索找到邮箱然后用邮箱判断 affiliation，但是发现重名的作者真的非常多... 比如数据里出现次数最多的 Yang Liu 有 1734 篇文章，但是在 Scholar 上同名的人也有至少 300 个，看来名字不太可靠呢\n\n想了想感觉没有很整洁的办法，比较麻烦的办法倒是想到了一个。因为 arXiv 要求所有作者必须上传 tex 源码，我打算把所有 tex 源码下载下来然后在源码里面找 @ 关键字，也许这样可以找到作者的邮箱从而得到 affiliation \n\n（虽然因为 tex 的多样性，把作者的名字和邮箱连接起来也是一个难点... 也许可以让 LLM 过一遍数据帮我提取 quq",
-    "views": 89,
+    "views": 90,
     "forwards": 2,
     "reply": {
       "id": 4403,
@@ -60380,7 +60380,7 @@
     "id": 4409,
     "date": "2024-09-08T23:27:54",
     "text": "\"towards intelligence too cheap to meter\"\n\n原本不想交给 LLM 因为觉得可能会很慢或者很贵，但是 gpt4o-mini 实在是太便宜了，让它从 39487 篇论文的 tex 源码里提取作者信息，总共 300MB 的纯文本数据居然半小时就处理完了，只花了 $5.29 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n真希望以后能有效果这么好的开源小模型",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "media_group_id": 13806704591990717,
     "images": [
@@ -60404,7 +60404,7 @@
     "id": 4411,
     "date": "2024-09-09T01:37:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汉堡拌饭（？）\n\n把汉堡的食材单独做熟然后分开放在饭上 qwq",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "media_group_id": 13806766989718021,
     "images": [
@@ -60444,7 +60444,7 @@
     "id": 4415,
     "date": "2024-09-09T20:15:42",
     "text": "灵魂走线",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -60467,7 +60467,7 @@
     "id": 4416,
     "date": "2024-09-10T05:48:20",
     "text": "之前在想有没有可能真的把这种图上的效果用发光的无限反射镜做出来，前几天买了材料寄到 syama 那里做了一些可行性测试发现是可以的，效果还很不错 qwq\n\n今天马上花了八个小时连麦把 PCB 画好送去嘉立创打样了，为了让它更实用试着画了一个小 OLED 显示屏和一个小数码管上去，虽然不知道它们亮度够不够显示在无限反射镜里... 感觉 200 nits 的亮度不太可能但是也试试好啦\n\n之后还要设计一个 3D 打印的导光外壳，希望第一个版本不会翻车（x",
-    "views": 77,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 13807578402274005,
     "images": [
@@ -60522,14 +60522,14 @@
     "id": 4420,
     "date": "2024-09-10T09:29:56",
     "text": "<a href=\"https://www.youtube.com/watch?v=v-VFP0piZLw\">https://www.youtube.com/watch?v=v-VFP0piZLw</a>",
-    "views": 75,
+    "views": 77,
     "forwards": 0
   },
   {
     "id": 4421,
     "date": "2024-09-10T21:08:22",
     "text": "真是我见过的最中二的海报",
-    "views": 74,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -60548,7 +60548,7 @@
     "id": 4422,
     "date": "2024-09-11T02:09:00",
     "text": "幻视",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -60567,7 +60567,7 @@
     "id": 4423,
     "date": "2024-09-12T02:52:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n焦碳\n\nadhd 开始炖的时候忘记关小火了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 71,
+    "views": 72,
     "forwards": 1,
     "images": [
       {
@@ -60586,7 +60586,7 @@
     "id": 4424,
     "date": "2024-09-12T06:14:36",
     "text": "色终于回来了",
-    "views": 65,
+    "views": 66,
     "forwards": 1,
     "images": [
       {
@@ -60605,7 +60605,7 @@
     "id": 4425,
     "date": "2024-09-12T07:30:19",
     "text": "晚上饿饿又懒得做夜宵，冲点过期两年的 Soylent 代餐豆奶粉配上过期一年的草莓糖浆喝好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i>\n\n我给 3/5 分。评价是能喝，但是并没有吃食物的感觉，虽然卡路里够了但是并没有解决想吃东西的问题 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -60624,14 +60624,14 @@
     "id": 4426,
     "date": "2024-09-12T07:44:33",
     "text": "昨天和新认识的同学/群友聊天，他似乎很惊讶我不说粤语 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>\n\n我出生在广州但是不说粤语，老家在湖南但是不吃辣，在北京上小学但是说话完全没有北儿京儿腔儿，在麻省长大但是即不看橄榄球也不吃🍩，现在住在多伦多但是怕冷... 感觉自己无论在哪里都是外地人 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 67,
+    "views": 68,
     "forwards": 2
   },
   {
     "id": 4427,
     "date": "2024-09-13T01:40:16",
     "text": "把 FF14 的数据同步到 InfluxDB 上了，然后在 Grafana 上搭了一个 <a href=\"https://gf.hydev.org/d/cdxj1uzki8rnkb/ff14?orgId=1&from=now-15d&to=now\">FF14 的数据监控面板</a> qwq\n\n感谢 liza 的 <a href=\"https://git.carvel.li/liza/Influx\">influx 插件</a> <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>",
-    "views": 64,
+    "views": 69,
     "forwards": 1,
     "media_group_id": 13809532927871925,
     "images": [
@@ -60661,7 +60661,7 @@
     "id": 4429,
     "date": "2024-09-13T02:19:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n今天重新做了，这次不是焦碳",
-    "views": 48,
+    "views": 54,
     "forwards": 0,
     "reply": {
       "id": 4423,
@@ -60684,7 +60684,7 @@
     "id": 4430,
     "date": "2024-09-13T04:45:57",
     "text": "今天和聊聊玩了索尼刚发售的 PS5 独占游戏 Astro Bot，真的用到了手柄的体感和震动和音效还有中间的触摸板，感觉手柄无缝成为了游戏的一部分，第一次感受到原来 PS5 这个平台这么厉害\n\n可惜跨平台游戏里基本上没有开发者会专门给 PS5 的特殊功能做很特别的适配，PS5 上顺平台的游戏也没有多少...\n\n现在突然想入坑玩玩同样是 PS5 独占的 FF16 了 quq",
-    "views": 42,
+    "views": 51,
     "forwards": 1,
     "images": [
       {
@@ -60696,6 +60696,25 @@
         "url": "media/4430.jpg",
         "size": 306903,
         "thumb": "media/4430.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4431,
+    "date": "2024-09-13T15:52:14",
+    "text": "TTC 公交车有 USB 充电头了诶，每个座位都有，不过似乎是非标 5V 4.2A 🌚",
+    "views": 26,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-09-13T15:52:14",
+        "media_type": "photo",
+        "original_name": "photo_2024-09-13_15-52-14.jpg",
+        "url": "media/4431.jpg",
+        "size": 91033,
+        "thumb": "media/4431.jpg_thumb.jpg"
       }
     ]
   }
