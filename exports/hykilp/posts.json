@@ -18633,7 +18633,7 @@
     "id": 1451,
     "date": "2022-11-03T05:55:14",
     "text": "写了一个让 Yubikey 插上电脑能无密码解锁的 python 脚本！\n\n工作原理是监听 USB 设备，插上/移除 USB 设备的时候调用 ykman 的输出，检测序列号来判断是不是我的 yubikey。如果是就 passwd -d 把密码删掉，如果检测不到就 chpasswd 把密码设回去，很简单粗暴 qwq\n\n（用这个脚本的话记得先 visudo 给你的用户加上 NOPASSWD:ALL，不然的话没密码是不能 sudo 的哦",
-    "views": 587,
+    "views": 588,
     "forwards": 5,
     "images": [
       {
@@ -57093,7 +57093,7 @@
     "views": 85,
     "forwards": 0,
     "forwarded_from": {
-      "name": "Tarocca Leohearts ad Astra, 芋头",
+      "name": "Yutoca Leohearts ad Astra, 芋头",
       "url": "https://t.me/PotatoLeohearts"
     },
     "images": [
@@ -60112,7 +60112,7 @@
     "id": 4392,
     "date": "2024-09-04T15:11:20",
     "text": "社牛一次 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n昨天计网第一节课听到作业是小组作业立即发贴找组员，找到了同样搞 homelab 的人\n\n然后课上看到有同学似乎很懂就去搭了话，看到他笔记本在用 nixos 还是 tiling 桌面还插着 yubikey 就知道肯定很厉害，结果聊着聊着发现是 tgcn 群友，共同群有 nixos, arch, 黑苹果 🌚\n\n<del>...然后他和我聊起了 cubercsl，问我认不认识这个人</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 世界成环了",
-    "views": 101,
+    "views": 102,
     "forwards": 2,
     "media_group_id": 13803701440725893,
     "images": [
@@ -60965,7 +60965,7 @@
     "id": 4450,
     "date": "2024-09-17T05:17:16",
     "text": "中秋快乐！第一次做月饼 qwq\n\n原本想试试做「月球饼」，自己 3D 打印了月球的倒模结果扣上发现完全看不出来是月球... 大失败 <i class=\"custom-emoji\" emoji-src=\"emoji/5469893747720331205.webp\">😭</i>\n\n不过作为备用方案还打印了一般的月饼模具，看起来还挺像月饼的（虽然本质上是奶黄年糕",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13812401891840357,
     "images": [
