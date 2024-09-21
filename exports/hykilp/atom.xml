@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-09-20T22:10:52.201427+00:00</updated>
+  <updated>2024-09-21T00:14:02.592840+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4460</id>
+    <title>小桂桂的回忆录 📒 #4460</title>
+    <updated>2024-09-20T23:18:23+00:00</updated>
+    <content>&lt;p&gt;因为国际快递又贵又慢，就把订的板子寄到 syama 那边了，然后远程教她焊邮票和 LED&lt;/p&gt;
+&lt;p&gt;syama 学得好快！看我在这边演示一遍怎样焊马上就会了 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 好厉害&lt;/p&gt;
+&lt;p&gt;不过还是遇到了很多迷惑问题... 不知道为什么写好固件接上 USB 之后 dmesg 协商好了马上就显示 USB disconnect，以及不知道为什么第八个 LED 之后的都不亮... 原本觉得可能是焊的问题，但是 syama 拆掉换新的重焊了两次都依然有问题，而且把一号 LED 的信号飞线飞到八号的话后面都会亮的，好奇怪 &lt;i class="custom-emoji" emoji-src="emoji/6169953432485496291.webm"&gt;😶&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;如果有示波器就好了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4460" rel="alternate"/>
+  </entry>
   <entry>
     <id>4459</id>
     <title>小桂桂的回忆录 📒 #4459</title>
