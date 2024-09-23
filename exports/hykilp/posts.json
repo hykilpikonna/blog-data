@@ -58590,7 +58590,7 @@
     "id": 4291,
     "date": "2024-08-07T23:38:26",
     "text": "第一次在加拿大见到路边摊",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "media_group_id": 13784591251588581,
     "images": [
@@ -58620,7 +58620,7 @@
     "id": 4293,
     "date": "2024-08-08T04:59:22",
     "text": "让 DALLE 画了一些服务器的图标，终于不怕找不到标签页了",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13784745301187333,
     "images": [
@@ -58650,7 +58650,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -58680,7 +58680,7 @@
     "id": 4297,
     "date": "2024-08-09T05:03:32",
     "text": "今天七七在 AquaDX 群里说 AquaDX 的群头像看起来总感觉像是没加载出来的模糊图的样子，怎么办呢？正好昨天是国际猫猫日，让 DALLE 在里面填一些猫吧",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -61044,7 +61044,7 @@
     "id": 4457,
     "date": "2024-09-18T17:29:01",
     "text": "好 现在我的 ff14 吟游诗人可以弹物理琴了<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -61254,14 +61254,14 @@
     "id": 4469,
     "date": "2024-09-22T17:18:21",
     "text": "朋友在多伦多开的机厅快要正式开业了，想哪天去看看 qwq\n\n唉 今天才真正意识到开机厅的人多么有钱，maimai DX 框在这边一直是五位数 USD 价格都很难拿到货，然后他告诉我他们买了两台，第二台还在海上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n再看看我为了省一两千 USD 自己造 Wacca 框，为了省一千 CAD 运 ADX 框的时候自己找渠道走了海运没走空运... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 52,
+    "views": 54,
     "forwards": 2
   },
   {
     "id": 4470,
     "date": "2024-09-22T23:11:06",
     "text": "去一趟机厅赚了 $172 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（好吧其实并没有赚，只是把他们从我这里订的 Wacca LED 替换板卖给他们了 quq",
-    "views": 21,
+    "views": 32,
     "forwards": 0,
     "media_group_id": 13816373334825989,
     "images": [
@@ -61315,7 +61315,7 @@
     "id": 4474,
     "date": "2024-09-22T23:28:08",
     "text": "他们那家店里面的样子，目前有 Wacca Plus, maimai DX, 中二, DIVA, SDVX, IIDX, 还有一些一般街机比如舰 C\n\n真的好厉害，今年三月的时候他们刚开始准备，居然现在就已经在准备开业了还有这么多劲爆机器... 真好啊，希望他们能回本 quq\n\n今天去的时候就很热闹了，有几个认识的人来玩，还有 discord 上一直觉得很厉害的店员在修路由器装修房间，也认识了一些新朋友 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>（不过感觉我认出来的人还是少数，虽然 discord 上都认识但是线下完全猜不出谁是谁——唉感觉是很多群友同时见面难免会遇到的问题",
-    "views": 13,
+    "views": 28,
     "forwards": 0,
     "media_group_id": 13816381504337565,
     "images": [
