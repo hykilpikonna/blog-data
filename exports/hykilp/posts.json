@@ -60093,7 +60093,7 @@
     "id": 4391,
     "date": "2024-09-04T02:34:26",
     "text": "每次在网上下单沃尔玛都会送来一堆购物袋... 感觉扔掉很浪费，所以今天去了一趟沃尔玛，把多余的一袋购物袋放在自助结账那里了\n\n原本问了店员，店员没见过返还袋子的人就说不收，所以就放在自助结账了，看到确实有人会拿 qwq",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "images": [
       {
@@ -60244,14 +60244,14 @@
     "id": 4402,
     "date": "2024-09-06T21:11:00",
     "text": "哇！Python 3.13 要把 GIL (Global Interpreter Lock) 去掉了！马上就可以在 Python 里面很方便地用多核跑多线程工作流了！也不再需要启动子进程了...\n\n马上下载一个试试 qwq",
-    "views": 105,
+    "views": 106,
     "forwards": 0
   },
   {
     "id": 4403,
     "date": "2024-09-06T23:01:40",
     "text": "还在想怎样爬 arXiv，然后发现官方发布过完整的数据 dump 直接下载就能用了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n唉，互联网怎么会有这么良心的组织，看看别的同样是托管用户内容的平台在想尽办法反爬虫，这边甚至不用爬...",
-    "views": 99,
+    "views": 100,
     "forwards": 1,
     "images": [
       {
@@ -60319,7 +60319,7 @@
     "id": 4406,
     "date": "2024-09-08T06:02:53",
     "text": "发现 arXiv 数据集里面没有作者的 affiliation，也没有邮箱，只有名字，怎么办呢？\n\n刚开始想要爬 Google Scholar 按名字搜索找到邮箱然后用邮箱判断 affiliation，但是发现重名的作者真的非常多... 比如数据里出现次数最多的 Yang Liu 有 1734 篇文章，但是在 Scholar 上同名的人也有至少 300 个，看来名字不太可靠呢\n\n想了想感觉没有很整洁的办法，比较麻烦的办法倒是想到了一个。因为 arXiv 要求所有作者必须上传 tex 源码，我打算把所有 tex 源码下载下来然后在源码里面找 @ 关键字，也许这样可以找到作者的邮箱从而得到 affiliation \n\n（虽然因为 tex 的多样性，把作者的名字和邮箱连接起来也是一个难点... 也许可以让 LLM 过一遍数据帮我提取 quq",
-    "views": 101,
+    "views": 102,
     "forwards": 2,
     "reply": {
       "id": 4403,
@@ -60342,7 +60342,7 @@
     "id": 4407,
     "date": "2024-09-08T14:44:12",
     "text": "猫脑过载",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -60361,7 +60361,7 @@
     "id": 4408,
     "date": "2024-09-08T15:27:31",
     "text": "唉... 看看 research 人的计算机常识 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\narXiv 让你传一份 tar.gz 的 latex 源码，有人传了没压缩的 tar，有人传了 gz 压缩的单文件，有人把 pdf 重命名成 tar.gz 传上去了，有人把 pdf 打包传上去了...\n\n打包一个源码有那么难吗？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 2,
     "images": [
       {
@@ -60380,7 +60380,7 @@
     "id": 4409,
     "date": "2024-09-08T23:27:54",
     "text": "\"towards intelligence too cheap to meter\"\n\n原本不想交给 LLM 因为觉得可能会很慢或者很贵，但是 gpt4o-mini 实在是太便宜了，让它从 39487 篇论文的 tex 源码里提取作者信息，总共 300MB 的纯文本数据居然半小时就处理完了，只花了 $5.29 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n真希望以后能有效果这么好的开源小模型",
-    "views": 104,
+    "views": 105,
     "forwards": 1,
     "media_group_id": 13806704591990717,
     "images": [
@@ -60404,7 +60404,7 @@
     "id": 4411,
     "date": "2024-09-09T01:37:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汉堡拌饭（？）\n\n把汉堡的食材单独做熟然后分开放在饭上 qwq",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "media_group_id": 13806766989718021,
     "images": [
@@ -60444,7 +60444,7 @@
     "id": 4415,
     "date": "2024-09-09T20:15:42",
     "text": "灵魂走线",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -60467,7 +60467,7 @@
     "id": 4416,
     "date": "2024-09-10T05:48:20",
     "text": "之前在想有没有可能真的把这种图上的效果用发光的无限反射镜做出来，前几天买了材料寄到 syama 那里做了一些可行性测试发现是可以的，效果还很不错 qwq\n\n今天马上花了八个小时连麦把 PCB 画好送去嘉立创打样了，为了让它更实用试着画了一个小 OLED 显示屏和一个小数码管上去，虽然不知道它们亮度够不够显示在无限反射镜里... 感觉 200 nits 的亮度不太可能但是也试试好啦\n\n之后还要设计一个 3D 打印的导光外壳，希望第一个版本不会翻车（x",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 13807578402274005,
     "images": [
@@ -60522,14 +60522,14 @@
     "id": 4420,
     "date": "2024-09-10T09:29:56",
     "text": "<a href=\"https://www.youtube.com/watch?v=v-VFP0piZLw\">https://www.youtube.com/watch?v=v-VFP0piZLw</a>",
-    "views": 103,
+    "views": 104,
     "forwards": 0
   },
   {
     "id": 4421,
     "date": "2024-09-10T21:08:22",
     "text": "真是我见过的最中二的海报",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
@@ -60548,7 +60548,7 @@
     "id": 4422,
     "date": "2024-09-11T02:09:00",
     "text": "幻视",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
@@ -60567,7 +60567,7 @@
     "id": 4423,
     "date": "2024-09-12T02:52:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n焦碳\n\nadhd 开始炖的时候忘记关小火了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 1,
     "images": [
       {
@@ -60586,7 +60586,7 @@
     "id": 4424,
     "date": "2024-09-12T06:14:36",
     "text": "色终于回来了",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "images": [
       {
@@ -60631,7 +60631,7 @@
     "id": 4427,
     "date": "2024-09-13T01:40:16",
     "text": "把 FF14 的数据同步到 InfluxDB 上了，然后在 Grafana 上搭了一个 <a href=\"https://gf.hydev.org/d/cdxj1uzki8rnkb/ff14?orgId=1&from=now-15d&to=now\">FF14 的数据监控面板</a> qwq\n\n感谢 liza 的 <a href=\"https://git.carvel.li/liza/Influx\">influx 插件</a> <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "media_group_id": 13809532927871925,
     "images": [
@@ -60661,7 +60661,7 @@
     "id": 4429,
     "date": "2024-09-13T02:19:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n今天重新做了，这次不是焦碳",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 4423,
@@ -60684,7 +60684,7 @@
     "id": 4430,
     "date": "2024-09-13T04:45:57",
     "text": "今天和聊聊玩了索尼刚发售的 PS5 独占游戏 Astro Bot，真的用到了手柄的体感和震动和音效还有中间的触摸板，感觉手柄无缝成为了游戏的一部分，第一次感受到原来 PS5 这个平台这么厉害\n\n可惜跨平台游戏里基本上没有开发者会专门给 PS5 的特殊功能做很特别的适配，PS5 上顺平台的游戏也没有多少...\n\n现在突然想入坑玩玩同样是 PS5 独占的 FF16 了 quq",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "images": [
       {
@@ -60819,7 +60819,7 @@
     "id": 4438,
     "date": "2024-09-15T06:30:52",
     "text": "打通了 Little Kitty, Big City!\n\n很治愈的开放世界游戏！如果说主线是「回家」的话有一点短，速通玩家只需要四分钟就找回家了，但是感觉这个游戏里更有意思的是支线互动和开放世界的探索和猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n如果让我挑刺的话，觉得作为猫移动的手感和流畅程度不如 Stray 的猫，甚至不如很多游戏里的人类。<del>可能因为是家猫</del>，或者是为了关卡设计做的牺牲吧。\n\n不过 bug 确实有点太多了，<del>猫猫溜达十个小时之后已经会利用 bug 卡进过不去的地方了</del>，看别人发的 bug 速通居然只用了 47 喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 2,
     "media_group_id": 13811054820195741,
     "images": [
@@ -61045,7 +61045,7 @@
     "id": 4457,
     "date": "2024-09-18T17:29:01",
     "text": "好 现在我的 ff14 吟游诗人可以弹物理琴了<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "images": [
       {
@@ -61064,7 +61064,7 @@
     "id": 4458,
     "date": "2024-09-20T00:59:39",
     "text": "和用 Linux 桌面的人打电话：\n\n对方首先花了十分钟 debug 麦克风音量增益太高 clip 的问题，然后花了十分钟 debug hyprland 屏幕共享捕捉不到的问题，然后他放弃了让我共享屏幕 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 3
   },
   {
@@ -61148,7 +61148,7 @@
     "id": 4463,
     "date": "2024-09-21T14:50:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉面！",
-    "views": 73,
+    "views": 74,
     "forwards": 1,
     "media_group_id": 13815441769068581,
     "images": [
@@ -61316,7 +61316,7 @@
     "id": 4474,
     "date": "2024-09-22T23:28:08",
     "text": "他们那家店里面的样子，目前有 Wacca Plus, maimai DX, 中二, DIVA, SDVX, IIDX, 还有一些一般街机比如舰 C\n\n真的好厉害，今年三月的时候他们刚开始准备，居然现在就已经在准备开业了还有这么多劲爆机器... 真好啊，希望他们能回本 quq\n\n今天去的时候就很热闹了，有几个认识的人来玩，还有 discord 上一直觉得很厉害的店员在修路由器装修房间，也认识了一些新朋友 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>（不过感觉我认出来的人还是少数，虽然 discord 上都认识但是线下完全猜不出谁是谁——唉感觉是很多群友同时见面难免会遇到的问题",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13816381504337565,
     "images": [
@@ -61447,7 +61447,7 @@
     "id": 4485,
     "date": "2024-09-26T04:33:21",
     "text": "我真的好不擅长数学...\n\nCSC458 计网课的大作业要用 cpp 实现一个网卡，我只用了三个小时就写完了，单元测试 100% 通过\n\nCSC311 机器学习理论课的作业有很多抽象数学，我这三天总共花了 14 个小时在这上面，做着做着发现完全忘记矩阵乘法维度的规则了去补补，又发现忘了非零特征值是什么意思了，怎样给偏导数求导也忘记了... 明明以为留三天的时间肯定够的，交上去的时候还是要空掉 20% 的分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n怎么办好想退课... 但是现在是最后一年，退课就会打乱下学期的计划或者要晚一年毕业了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 65,
+    "views": 66,
     "forwards": 4,
     "media_group_id": 13818601608875197,
     "images": [
@@ -61477,15 +61477,15 @@
     "id": 4487,
     "date": "2024-09-26T12:41:22",
     "text": "起床了，要做早饭，问聊聊想吃什么\n我：聊聊想吃方便面还是挂面还是意面？<i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 50,
+    "views": 53,
     "forwards": 0
   },
   {
     "id": 4488,
     "date": "2024-09-27T02:04:52",
     "text": "curiosity",
-    "views": 24,
-    "forwards": 1,
+    "views": 35,
+    "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
       "url": "https://t.me/hykilpikonna"
