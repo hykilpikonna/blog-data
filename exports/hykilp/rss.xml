@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 29 Sep 2024 04:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 06:11:35 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4489</title>
+      <link>https://aza.moe/life?post=4489</link>
+      <description>&lt;p&gt;关于我今天不小心刷砖了一张 Mifare 卡又救回来了的这件事：&lt;/p&gt;
+&lt;p&gt;众所周知 Mifare 卡的序列号或者 ID 是生产出厂的时候写入进分区 0 里面，之后就变成了只读的信息。但是我们常说的 CUID 卡 (又名 Mifare Classic DirectWrite Gen2) 支持一些让程序覆盖 0 分区的魔法指令，这样复制卡的时候就可以作为白卡覆盖序列号了，让新卡和旧卡数据完全一样 &lt;i class="custom-emoji" emoji-src="emoji/5443042995165209696.tgs"&gt;🧙‍♂&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;...然后今天我发现它覆盖 0 分区的时候没有任何验证，既没有验证 0 分区数据合不合理，也没有防止溢出... 然后蠢蠢桂桂把 7-byte ID 的 mifare 4k 数据写到这张 4-byte ID 卡里让它变砖了，无论是手机还是 pm3 都读不到 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;...原本以为没救了去 rf 群里感叹一下，然后群友说其实是有救的，pm3 可以 &lt;code&gt;--force&lt;/code&gt; 强行重写 0 分区 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 好耶，得救了&lt;/p&gt;</description>
+      <guid isPermaLink="false">4489</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4488</title>
       <link>https://aza.moe/life?post=4488</link>
