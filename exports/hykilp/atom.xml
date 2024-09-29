@@ -2,16 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-09-29T06:11:35.108328+00:00</updated>
+  <updated>2024-09-29T08:10:18.659103+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
   <entry>
+    <id>4491</id>
+    <title>小桂桂的回忆录 📒 #4491</title>
+    <updated>2024-09-29T07:09:31+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##RF"&gt;#RF&lt;/a&gt; &lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。&lt;/p&gt;
+&lt;p&gt;原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 &lt;code&gt;mf autopwn&lt;/code&gt;，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump&lt;/p&gt;
+&lt;p&gt;但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚&lt;/p&gt;
+&lt;p&gt;唉，RF 安全真是巨大的草台&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4491" rel="alternate"/>
+  </entry>
+  <entry>
     <id>4489</id>
     <title>小桂桂的回忆录 📒 #4489</title>
     <updated>2024-09-29T05:10:34+00:00</updated>
-    <content>&lt;p&gt;关于我今天不小心刷砖了一张 Mifare 卡又救回来了的这件事：&lt;/p&gt;
+    <content>&lt;p&gt;&lt;a href="##RF"&gt;#RF&lt;/a&gt; 关于我今天不小心刷砖了一张 Mifare 卡又救回来了的这件事：&lt;/p&gt;
 &lt;p&gt;众所周知 Mifare 卡的序列号或者 ID 是生产出厂的时候写入进分区 0 里面，之后就变成了只读的信息。但是我们常说的 CUID 卡 (又名 Mifare Classic DirectWrite Gen2) 支持一些让程序覆盖 0 分区的魔法指令，这样复制卡的时候就可以作为白卡覆盖序列号了，让新卡和旧卡数据完全一样 &lt;i class="custom-emoji" emoji-src="emoji/5443042995165209696.tgs"&gt;🧙‍♂&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;...然后今天我发现它覆盖 0 分区的时候没有任何验证，既没有验证 0 分区数据合不合理，也没有防止溢出... 然后蠢蠢桂桂把 7-byte ID 的 mifare 4k 数据写到这张 4-byte ID 卡里让它变砖了，无论是手机还是 pm3 都读不到 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;...原本以为没救了去 rf 群里感叹一下，然后群友说其实是有救的，pm3 可以 &lt;code&gt;--force&lt;/code&gt; 强行重写 0 分区 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 好耶，得救了&lt;/p&gt;</content>
@@ -16358,7 +16368,7 @@ Ava 发邮件问我周五 12/8 有没有时间面试，
     <id>1006</id>
     <title>小桂桂的回忆录 📒 #1006</title>
     <updated>2022-07-23T22:56:51+00:00</updated>
-    <content>&lt;p&gt;门卡复制成功！&lt;/p&gt;
+    <content>&lt;p&gt;&lt;a href="##RF"&gt;#RF&lt;/a&gt; 门卡复制成功！&lt;/p&gt;
 &lt;p&gt;T5577 卡好厉害，一张卡可以通过调区块 0 的配置来模拟所有低频标准，还能设密码让读卡器读不出源数据，只能读出模拟数据w&lt;/p&gt;
 &lt;p&gt;这次是模拟了 Pyramid PSK3&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=1006" rel="alternate"/>

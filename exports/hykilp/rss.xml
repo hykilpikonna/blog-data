@@ -12,11 +12,20 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 29 Sep 2024 06:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 08:10:18 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4491</title>
+      <link>https://aza.moe/life?post=4491</link>
+      <description>&lt;p&gt;&lt;a href="##RF"&gt;#RF&lt;/a&gt; &lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。&lt;/p&gt;
+&lt;p&gt;原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 &lt;code&gt;mf autopwn&lt;/code&gt;，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump&lt;/p&gt;
+&lt;p&gt;但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚&lt;/p&gt;
+&lt;p&gt;唉，RF 安全真是巨大的草台&lt;/p&gt;</description>
+      <guid isPermaLink="false">4491</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4489</title>
       <link>https://aza.moe/life?post=4489</link>
-      <description>&lt;p&gt;关于我今天不小心刷砖了一张 Mifare 卡又救回来了的这件事：&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href="##RF"&gt;#RF&lt;/a&gt; 关于我今天不小心刷砖了一张 Mifare 卡又救回来了的这件事：&lt;/p&gt;
 &lt;p&gt;众所周知 Mifare 卡的序列号或者 ID 是生产出厂的时候写入进分区 0 里面，之后就变成了只读的信息。但是我们常说的 CUID 卡 (又名 Mifare Classic DirectWrite Gen2) 支持一些让程序覆盖 0 分区的魔法指令，这样复制卡的时候就可以作为白卡覆盖序列号了，让新卡和旧卡数据完全一样 &lt;i class="custom-emoji" emoji-src="emoji/5443042995165209696.tgs"&gt;🧙‍♂&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;...然后今天我发现它覆盖 0 分区的时候没有任何验证，既没有验证 0 分区数据合不合理，也没有防止溢出... 然后蠢蠢桂桂把 7-byte ID 的 mifare 4k 数据写到这张 4-byte ID 卡里让它变砖了，无论是手机还是 pm3 都读不到 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;...原本以为没救了去 rf 群里感叹一下，然后群友说其实是有救的，pm3 可以 &lt;code&gt;--force&lt;/code&gt; 强行重写 0 分区 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 好耶，得救了&lt;/p&gt;</description>
@@ -14342,7 +14351,7 @@ Ava 发邮件问我周五 12/8 有没有时间面试，
     <item>
       <title>小桂桂的回忆录 📒 #1006</title>
       <link>https://aza.moe/life?post=1006</link>
-      <description>&lt;p&gt;门卡复制成功！&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href="##RF"&gt;#RF&lt;/a&gt; 门卡复制成功！&lt;/p&gt;
 &lt;p&gt;T5577 卡好厉害，一张卡可以通过调区块 0 的配置来模拟所有低频标准，还能设密码让读卡器读不出源数据，只能读出模拟数据w&lt;/p&gt;
 &lt;p&gt;这次是模拟了 Pyramid PSK3&lt;/p&gt;</description>
       <guid isPermaLink="false">1006</guid>
