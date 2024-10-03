@@ -2,11 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-10-03T08:09:09.012823+00:00</updated>
+  <updated>2024-10-03T10:10:39.918911+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4502</id>
+    <title>小桂桂的回忆录 📒 #4502</title>
+    <updated>2024-10-03T09:40:11+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##桂桂今天吃什么"&gt;#桂桂今天吃什么&lt;/a&gt;
+聊聊做的炒巴鲨鱼盖饭！&lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 好吃喵&lt;/p&gt;
+&lt;p&gt;发现自己忙的时候聊聊帮忙做了好多乱七八糟的事情... 反而感觉我最近没有帮到聊聊什么忙，好自责&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4502" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4501</id>
+    <title>小桂桂的回忆录 📒 #4501</title>
+    <updated>2024-10-03T08:59:34+00:00</updated>
+    <content>&lt;p&gt;以及第一次用到了 einsum！&lt;/p&gt;
+&lt;p&gt;einsum 也是好奇妙的东西，只要把每个维度都命名出来，写上输入写上输出，einops 就会自动把它算好 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 再也不用担心不知道不同维度尺寸的矩阵应该怎样乘怎样加了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4501" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4499</id>
+    <title>小桂桂的回忆录 📒 #4499</title>
+    <updated>2024-10-03T08:38:42+00:00</updated>
+    <content>&lt;p&gt;...前几天刚抱怨完 311 作业长，这三天写 485 计算语言学的作业花了 19 小时 &lt;i class="custom-emoji" emoji-src="emoji/5445059765778521446.tgs"&gt;📦&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;不过这 19 个小时感觉很充实！做了一个完整的能用的自然语言依赖树识别模型，应该是我第一次自己用 pytorch 定义模型，也是第一次用 pytorch 写能并行的一般最小生成树算法... 学到了很多 quq（感觉和以前写过的所有算法都好不一样&lt;/p&gt;
+&lt;p&gt;感觉 pytorch 像魔法，只是把每层定义出来，再定义一个目标的 loss，然后调用一下 backward、step 它就自己把模型训练好了... 写完了训练完了还完全不懂底层逻辑，&lt;del&gt;感觉也不需要懂了&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;唉 同样是讲机器学习的课，之前的 311 讲一堆 ML 模型背后的数学和概率论信息论证明就觉得好枯燥，果然我还是不适合理论呢 &lt;i class="custom-emoji" emoji-src="emoji/5442664243474211327.tgs"&gt;👀&lt;/i&gt; &lt;del&gt;果然我还是喜欢做念念咒语喂些数据就完事了的赛博炼金术士&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/5443161132535653267.tgs"&gt;🧙‍♂&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4499" rel="alternate"/>
+  </entry>
   <entry>
     <id>4498</id>
     <title>小桂桂的回忆录 📒 #4498</title>
