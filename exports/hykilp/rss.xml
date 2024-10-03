@@ -12,7 +12,31 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 03 Oct 2024 14:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 16:10:42 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4505</title>
+      <link>https://aza.moe/life?post=4505</link>
+      <description>&lt;p&gt;四个 A4500 好耶 qwq&lt;/p&gt;
+&lt;p&gt;原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...&lt;/p&gt;</description>
+      <guid isPermaLink="false">4505</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #4504</title>
+      <link>https://aza.moe/life?post=4504</link>
+      <description>&lt;p&gt;翻倒当时开坑 「UPM」 (universal/userland package manager) 的截图&lt;/p&gt;
+&lt;p&gt;可惜这个坑也没有填完就丢掉了...&lt;/p&gt;</description>
+      <guid isPermaLink="false">4504</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #4503</title>
+      <link>https://aza.moe/life?post=4503</link>
+      <description>&lt;p&gt;&lt;del&gt;暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;看学校机器上有免费 GPU 嘴馋了 &lt;i class="custom-emoji" emoji-src="emoji/5442752530821948343.tgs"&gt;🤤&lt;/i&gt; 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？&lt;/p&gt;
+&lt;p&gt;大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。&lt;/p&gt;
+&lt;p&gt;查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧&lt;/p&gt;
+&lt;p&gt;直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 &lt;i class="custom-emoji" emoji-src="emoji/6170412886611986173.webm"&gt;❗&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4503</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4502</title>
       <link>https://aza.moe/life?post=4502</link>
