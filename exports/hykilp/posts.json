@@ -23484,7 +23484,7 @@
     "id": 1778,
     "date": "2023-01-21T03:25:16",
     "text": "在 alpine 上装 pacman 是什么灵车hhhh\n\n正在开坑写一个可以在任何系统上的用户 home 目录里面装上 pacman、免 root 安装任何包的脚本扩展 qwq\n\n现在已经可以让 musl libc / 不同版本的 glibc 和 pacman 的最新 glibc 共存了！在学校的 ubuntu 上也试过可以用 ✅",
-    "views": 112,
+    "views": 113,
     "forwards": 1,
     "images": [
       {
@@ -23503,7 +23503,7 @@
     "id": 1779,
     "date": "2023-01-21T16:12:23",
     "text": "UTC+8 的朋友们新春快乐！！ qwq",
-    "views": 85,
+    "views": 86,
     "forwards": 0
   },
   {
@@ -61447,7 +61447,7 @@
     "id": 4485,
     "date": "2024-09-26T04:33:21",
     "text": "我真的好不擅长数学...\n\nCSC458 计网课的大作业要用 cpp 实现一个网卡，我只用了三个小时就写完了，单元测试 100% 通过\n\nCSC311 机器学习理论课的作业有很多抽象数学，我这三天总共花了 14 个小时在这上面，做着做着发现完全忘记矩阵乘法维度的规则了去补补，又发现忘了非零特征值是什么意思了，怎样给偏导数求导也忘记了... 明明以为留三天的时间肯定够的，交上去的时候还是要空掉 20% 的分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n怎么办好想退课... 但是现在是最后一年，退课就会打乱下学期的计划或者要晚一年毕业了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 139,
+    "views": 140,
     "forwards": 4,
     "media_group_id": 13818601608875197,
     "images": [
@@ -61477,7 +61477,7 @@
     "id": 4487,
     "date": "2024-09-26T12:41:22",
     "text": "起床了，要做早饭，问聊聊想吃什么\n我：聊聊想吃方便面还是挂面还是意面？<i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0
   },
   {
@@ -61652,7 +61652,7 @@
     "id": 4499,
     "date": "2024-10-03T08:38:42",
     "text": "...前几天刚抱怨完 311 作业长，这三天写 485 计算语言学的作业花了 19 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n不过这 19 个小时感觉很充实！做了一个完整的能用的自然语言依赖树识别模型，应该是我第一次自己用 pytorch 定义模型，也是第一次用 pytorch 写能并行的一般最小生成树算法... 学到了很多 quq（感觉和以前写过的所有算法都好不一样\n\n感觉 pytorch 像魔法，只是把每层定义出来，再定义一个目标的 loss，然后调用一下 backward、step 它就自己把模型训练好了... 写完了训练完了还完全不懂底层逻辑，<del>感觉也不需要懂了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n唉 同样是讲机器学习的课，之前的 311 讲一堆 ML 模型背后的数学和概率论信息论证明就觉得好枯燥，果然我还是不适合理论呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i> <del>果然我还是喜欢做念念咒语喂些数据就完事了的赛博炼金术士</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5443161132535653267.tgs\">🧙‍♂</i>",
-    "views": 64,
+    "views": 66,
     "forwards": 0,
     "media_group_id": 13823557776268837,
     "images": [
@@ -61687,7 +61687,7 @@
     "id": 4501,
     "date": "2024-10-03T08:59:34",
     "text": "以及第一次用到了 einsum！\n\neinsum 也是好奇妙的东西，只要把每个维度都命名出来，写上输入写上输出，einops 就会自动把它算好 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 再也不用担心不知道不同维度尺寸的矩阵应该怎样乘怎样加了",
-    "views": 63,
+    "views": 65,
     "forwards": 0,
     "reply": {
       "id": 4499,
@@ -61711,7 +61711,7 @@
     "id": 4502,
     "date": "2024-10-03T09:40:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的炒巴鲨鱼盖饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好吃喵\n\n发现自己忙的时候聊聊帮忙做了好多乱七八糟的事情... 反而感觉我最近没有帮到聊聊什么忙，好自责",
-    "views": 63,
+    "views": 64,
     "forwards": 1,
     "images": [
       {
@@ -61730,7 +61730,7 @@
     "id": 4503,
     "date": "2024-10-03T15:00:18",
     "text": "<del>暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器</del>\n\n看学校机器上有免费 GPU 嘴馋了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i> 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？\n\n大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。\n\n查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧\n\n直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170412886611986173.webm\">❗</i>",
-    "views": 53,
+    "views": 55,
     "forwards": 0,
     "images": [
       {
@@ -61749,7 +61749,7 @@
     "id": 4504,
     "date": "2024-10-03T15:05:36",
     "text": "翻倒当时开坑 「UPM」 (universal/userland package manager) 的截图\n\n可惜这个坑也没有填完就丢掉了...",
-    "views": 51,
+    "views": 54,
     "forwards": 0,
     "reply": {
       "id": 1778,
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 48,
+    "views": 52,
     "forwards": 1,
     "images": [
       {
