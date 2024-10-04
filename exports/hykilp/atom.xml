@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-10-04T20:11:05.663273+00:00</updated>
+  <updated>2024-10-04T22:11:02.032115+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4506</id>
+    <title>小桂桂的回忆录 📒 #4506</title>
+    <updated>2024-10-04T21:41:52+00:00</updated>
+    <content>&lt;p&gt;不是很懂安卓模拟器的生态...&lt;/p&gt;
+&lt;p&gt;想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了&lt;/p&gt;
+&lt;p&gt;有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 &lt;i class="custom-emoji" emoji-src="emoji/6323343426343404864.webp"&gt;❓&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4506" rel="alternate"/>
+  </entry>
   <entry>
     <id>4505</id>
     <title>小桂桂的回忆录 📒 #4505</title>
