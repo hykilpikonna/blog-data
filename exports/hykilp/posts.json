@@ -61779,7 +61779,7 @@
     "id": 4506,
     "date": "2024-10-04T21:41:52",
     "text": "不是很懂安卓模拟器的生态...\n\n想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了\n\n有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙",
-    "views": 48,
+    "views": 51,
     "forwards": 0,
     "media_group_id": 13824624901279685,
     "images": [
