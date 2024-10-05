@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 149,
+    "views": 150,
     "forwards": 2,
     "images": [
       {
@@ -61730,7 +61730,7 @@
     "id": 4503,
     "date": "2024-10-03T15:00:18",
     "text": "<del>暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器</del>\n\n看学校机器上有免费 GPU 嘴馋了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i> 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？\n\n大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。\n\n查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧\n\n直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170412886611986173.webm\">❗</i>",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "images": [
       {
@@ -61749,7 +61749,7 @@
     "id": 4504,
     "date": "2024-10-03T15:05:36",
     "text": "翻倒当时开坑 「UPM」 (universal/userland package manager) 的截图\n\n可惜这个坑也没有填完就丢掉了...",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "reply": {
       "id": 1778,
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 66,
+    "views": 67,
     "forwards": 1,
     "images": [
       {
@@ -61779,7 +61779,7 @@
     "id": 4506,
     "date": "2024-10-04T21:41:52",
     "text": "不是很懂安卓模拟器的生态...\n\n想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了\n\n有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "media_group_id": 13824624901279685,
     "images": [
