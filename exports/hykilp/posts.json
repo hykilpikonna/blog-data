@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 150,
+    "views": 151,
     "forwards": 2,
     "images": [
       {
@@ -61556,7 +61556,7 @@
     "id": 4492,
     "date": "2024-09-30T03:03:34",
     "text": "又遇到了何等的巧合\n\n上次在机场遇到扶苏的时候，扶苏和我聊到她有一个朋友也要去多伦多，也玩舞萌，当时还给那个朋友发了消息但是没有回\n\n然后前几天聊聊说 Celestium 新的对象听说这里有舞萌想来玩，已经习惯了有很多人来这里玩就没有多想。然后玩着舞萌和她聊天，聊着聊着发现她就是扶苏说的那个朋友 Tracer <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 世界成环了\n\n聊着聊着还发现她的成分和我好相似 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 都在训练用来数字化自己的 LLM、都喜欢打/魔改舞萌和 ff14、搭 homelab 和 NAS、也和我大一住宿舍的时候一样做了 UofT EAP 的无线转发、写 AC 机解作业题、在尝试了解 RF... 奇妙",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "reply": {
       "id": 4276,
@@ -61652,7 +61652,7 @@
     "id": 4499,
     "date": "2024-10-03T08:38:42",
     "text": "...前几天刚抱怨完 311 作业长，这三天写 485 计算语言学的作业花了 19 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n不过这 19 个小时感觉很充实！做了一个完整的能用的自然语言依赖树识别模型，应该是我第一次自己用 pytorch 定义模型，也是第一次用 pytorch 写能并行的一般最小生成树算法... 学到了很多 quq（感觉和以前写过的所有算法都好不一样\n\n感觉 pytorch 像魔法，只是把每层定义出来，再定义一个目标的 loss，然后调用一下 backward、step 它就自己把模型训练好了... 写完了训练完了还完全不懂底层逻辑，<del>感觉也不需要懂了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n唉 同样是讲机器学习的课，之前的 311 讲一堆 ML 模型背后的数学和概率论信息论证明就觉得好枯燥，果然我还是不适合理论呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i> <del>果然我还是喜欢做念念咒语喂些数据就完事了的赛博炼金术士</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5443161132535653267.tgs\">🧙‍♂</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "media_group_id": 13823557776268837,
     "images": [
@@ -61687,7 +61687,7 @@
     "id": 4501,
     "date": "2024-10-03T08:59:34",
     "text": "以及第一次用到了 einsum！\n\neinsum 也是好奇妙的东西，只要把每个维度都命名出来，写上输入写上输出，einops 就会自动把它算好 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 再也不用担心不知道不同维度尺寸的矩阵应该怎样乘怎样加了",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "reply": {
       "id": 4499,
@@ -61711,7 +61711,7 @@
     "id": 4502,
     "date": "2024-10-03T09:40:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的炒巴鲨鱼盖饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好吃喵\n\n发现自己忙的时候聊聊帮忙做了好多乱七八糟的事情... 反而感觉我最近没有帮到聊聊什么忙，好自责",
-    "views": 69,
+    "views": 70,
     "forwards": 1,
     "images": [
       {
@@ -61730,7 +61730,7 @@
     "id": 4503,
     "date": "2024-10-03T15:00:18",
     "text": "<del>暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器</del>\n\n看学校机器上有免费 GPU 嘴馋了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i> 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？\n\n大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。\n\n查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧\n\n直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170412886611986173.webm\">❗</i>",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -61749,7 +61749,7 @@
     "id": 4504,
     "date": "2024-10-03T15:05:36",
     "text": "翻倒当时开坑 「UPM」 (universal/userland package manager) 的截图\n\n可惜这个坑也没有填完就丢掉了...",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "reply": {
       "id": 1778,
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 70,
+    "views": 71,
     "forwards": 1,
     "images": [
       {
