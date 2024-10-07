@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Oct 2024 10:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 12:10:41 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4513</title>
+      <link>https://aza.moe/life?post=4513</link>
+      <description>&lt;p&gt;&lt;a href="##ADHD"&gt;#ADHD&lt;/a&gt; 昨晚想要去学校服务器上炼模型，上去发现它不会自动进 zsh，然后就查文档改了 tmux 让它默认进 zsh。但是它依然不会默认进 tmux，又配了 ssh 自动进 tmux。然后想着既然已经打开了 tmux 配置就顺便改一个好看的主题吧！&lt;/p&gt;
+&lt;p&gt;...配主题的时候看到 Power10k 那种风格很好看就去配了一套 sarasa nerd 字体，然后查查这个字体里居然有时钟还有 distro 图标耶！但是 tmux 没办法动态显示图标，怎么办呢？给 hyfetch 加一个显示图标的功能吧，再写一个把时间转换成 nerd 字体的时钟图标的脚本&lt;/p&gt;
+&lt;p&gt;...然后现在是第二天凌晨七点，配好主题了，模型还一点没炼 &lt;i class="custom-emoji" emoji-src="emoji/5445059765778521446.tgs"&gt;📦&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4513</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4512</title>
       <link>https://aza.moe/life?post=4512</link>
