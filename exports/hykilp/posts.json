@@ -61586,14 +61586,14 @@
     "id": 4494,
     "date": "2024-10-02T04:32:22",
     "text": "今天见到了光量子 <a href=\"https://t.me/lightquantum01\">@lightquantum01</a>，好可爱！\n\n不过居然光量子今天才知道我在 UofT 上本科 quq 我在别人眼里是什么网络神秘人吗，明明已经很实名了的",
-    "views": 102,
+    "views": 103,
     "forwards": 1
   },
   {
     "id": 4495,
     "date": "2024-10-02T05:14:24",
     "text": "今天计网课上讲了 BGP (边界网关协议)，感觉学到了很不得了的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n在层级网络的最顶端，运营商和国家级别的自治系统「AS」之间，也和我们自己家里的路由器交换机一样用了平等的分布式共识机制，互相通过 BGP 按照复杂的规则交换路径表，花上几个小时来聚合到共识的最短路径\n\n但是和路由器交换机不同的是，它非常的不自动，反而每个 AS 都会专门雇人配置很复杂的 BGP 规则，为什么这样呢？并不是因为技术上不能，而是因为人类的不完美... 在这个网络上的，有时候互相是竞争对手，有时候是客户和供应者，有时候是国家，有时候是国家立场的黑客...\n\n每个 AS 都在白嫖和被白嫖、信任和谎言之间微调规则，真的是一种好不完美的美 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
@@ -61611,7 +61611,7 @@
   {
     "id": 4496,
     "date": "2024-10-02T16:42:07",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "forwarded_from": {
       "name": "It’s Not an AuDHD Thing"
@@ -61633,7 +61633,7 @@
     "id": 4498,
     "date": "2024-10-02T20:28:01",
     "text": "突然想起 tensorflow/keras，才意识到好像所有人都逐渐抛弃 tf 转用 pytorch 了...\n\n不知道这是什么时候开始的，明明我两三年前看身边的人还都在用 tf <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不过确实也是因为 pytorch 更简洁吧\n\n看了一眼 Google Trend 好像确实是两三年前开始的",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "images": [
       {
@@ -61652,7 +61652,7 @@
     "id": 4499,
     "date": "2024-10-03T08:38:42",
     "text": "...前几天刚抱怨完 311 作业长，这三天写 485 计算语言学的作业花了 19 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n不过这 19 个小时感觉很充实！做了一个完整的能用的自然语言依赖树识别模型，应该是我第一次自己用 pytorch 定义模型，也是第一次用 pytorch 写能并行的一般最小生成树算法... 学到了很多 quq（感觉和以前写过的所有算法都好不一样\n\n感觉 pytorch 像魔法，只是把每层定义出来，再定义一个目标的 loss，然后调用一下 backward、step 它就自己把模型训练好了... 写完了训练完了还完全不懂底层逻辑，<del>感觉也不需要懂了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n唉 同样是讲机器学习的课，之前的 311 讲一堆 ML 模型背后的数学和概率论信息论证明就觉得好枯燥，果然我还是不适合理论呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i> <del>果然我还是喜欢做念念咒语喂些数据就完事了的赛博炼金术士</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5443161132535653267.tgs\">🧙‍♂</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13823557776268837,
     "images": [
@@ -61687,7 +61687,7 @@
     "id": 4501,
     "date": "2024-10-03T08:59:34",
     "text": "以及第一次用到了 einsum！\n\neinsum 也是好奇妙的东西，只要把每个维度都命名出来，写上输入写上输出，einops 就会自动把它算好 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 再也不用担心不知道不同维度尺寸的矩阵应该怎样乘怎样加了",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 4499,
@@ -61711,7 +61711,7 @@
     "id": 4502,
     "date": "2024-10-03T09:40:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的炒巴鲨鱼盖饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好吃喵\n\n发现自己忙的时候聊聊帮忙做了好多乱七八糟的事情... 反而感觉我最近没有帮到聊聊什么忙，好自责",
-    "views": 75,
+    "views": 76,
     "forwards": 1,
     "images": [
       {
@@ -61730,7 +61730,7 @@
     "id": 4503,
     "date": "2024-10-03T15:00:18",
     "text": "<del>暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器</del>\n\n看学校机器上有免费 GPU 嘴馋了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i> 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？\n\n大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。\n\n查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧\n\n直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170412886611986173.webm\">❗</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -61749,7 +61749,7 @@
     "id": 4504,
     "date": "2024-10-03T15:05:36",
     "text": "翻倒当时开坑 「UPM」 (universal/userland package manager) 的截图\n\n可惜这个坑也没有填完就丢掉了...",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 1778,
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "images": [
       {
@@ -61779,7 +61779,7 @@
     "id": 4506,
     "date": "2024-10-04T21:41:52",
     "text": "不是很懂安卓模拟器的生态...\n\n想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了\n\n有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13824624901279685,
     "images": [
@@ -61809,7 +61809,7 @@
     "id": 4508,
     "date": "2024-10-06T17:41:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n室友烤的蛋挞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 78,
+    "views": 81,
     "forwards": 1,
     "media_group_id": 13825891811831117,
     "images": [
@@ -61839,7 +61839,7 @@
     "id": 4510,
     "date": "2024-10-06T20:50:39",
     "text": "毫无维和",
-    "views": 51,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13825982714986213,
     "images": [
