@@ -350,7 +350,7 @@
     "id": 34,
     "date": "2021-09-08T03:39:50",
     "text": "啊！最近记录的事情好致郁，明明日常生活中也有很多很多开心的事情，想要尝试把目光多停留在好事上w",
-    "views": 55,
+    "views": 56,
     "forwards": 0
   },
   {
@@ -61633,7 +61633,7 @@
     "id": 4498,
     "date": "2024-10-02T20:28:01",
     "text": "突然想起 tensorflow/keras，才意识到好像所有人都逐渐抛弃 tf 转用 pytorch 了...\n\n不知道这是什么时候开始的，明明我两三年前看身边的人还都在用 tf <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不过确实也是因为 pytorch 更简洁吧\n\n看了一眼 Google Trend 好像确实是两三年前开始的",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -61687,7 +61687,7 @@
     "id": 4501,
     "date": "2024-10-03T08:59:34",
     "text": "以及第一次用到了 einsum！\n\neinsum 也是好奇妙的东西，只要把每个维度都命名出来，写上输入写上输出，einops 就会自动把它算好 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 再也不用担心不知道不同维度尺寸的矩阵应该怎样乘怎样加了",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 4499,
@@ -61711,7 +61711,7 @@
     "id": 4502,
     "date": "2024-10-03T09:40:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的炒巴鲨鱼盖饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好吃喵\n\n发现自己忙的时候聊聊帮忙做了好多乱七八糟的事情... 反而感觉我最近没有帮到聊聊什么忙，好自责",
-    "views": 88,
+    "views": 92,
     "forwards": 1,
     "images": [
       {
@@ -61730,7 +61730,7 @@
     "id": 4503,
     "date": "2024-10-03T15:00:18",
     "text": "<del>暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器</del>\n\n看学校机器上有免费 GPU 嘴馋了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i> 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？\n\n大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。\n\n查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧\n\n直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170412886611986173.webm\">❗</i>",
-    "views": 82,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -61779,7 +61779,7 @@
     "id": 4506,
     "date": "2024-10-04T21:41:52",
     "text": "不是很懂安卓模拟器的生态...\n\n想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了\n\n有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13824624901279685,
     "images": [
@@ -61869,7 +61869,7 @@
     "id": 4512,
     "date": "2024-10-07T08:38:23",
     "text": "哇 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\nWarp Terminal 有开源平替了，是 <a href=\"https://www.waveterm.dev/\">Wave</a>\n\n内置 LLM 耶，而且还可以用自搭的 LLM",
-    "views": 79,
+    "views": 81,
     "forwards": 2,
     "images": [
       {
@@ -61888,7 +61888,7 @@
     "id": 4513,
     "date": "2024-10-07T11:58:56",
     "text": "<a href=\"##ADHD\">#ADHD</a> 昨晚想要去学校服务器上炼模型，上去发现它不会自动进 zsh，然后就查文档改了 tmux 让它默认进 zsh。但是它依然不会默认进 tmux，又配了 ssh 自动进 tmux。然后想着既然已经打开了 tmux 配置就顺便改一个好看的主题吧！\n\n...配主题的时候看到 Power10k 那种风格很好看就去配了一套 sarasa nerd 字体，然后查查这个字体里居然有时钟还有 distro 图标耶！但是 tmux 没办法动态显示图标，怎么办呢？给 hyfetch 加一个显示图标的功能吧，再写一个把时间转换成 nerd 字体的时钟图标的脚本\n\n...然后现在是第二天凌晨七点，配好主题了，模型还一点没炼 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 59,
+    "views": 63,
     "forwards": 1,
     "images": [
       {
@@ -61907,7 +61907,7 @@
     "id": 4514,
     "date": "2024-10-07T20:56:34",
     "text": "又改了改主题加了第二行信息栏 quq",
-    "views": 30,
+    "views": 45,
     "forwards": 0,
     "reply": {
       "id": 4513,
@@ -61923,6 +61923,55 @@
         "url": "media/4514.jpg",
         "size": 44101,
         "thumb": "media/4514.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4515,
+    "date": "2024-10-08T01:32:20",
+    "text": "♫ I'm a shooting star, leaping through the sky like a tiger ♫\n♫ Defying the laws of gravity ♫\n♫ I'm a racing car, passing by like Lady Godiva ♫\n♫ I'm gonna go, go, go, there's no stopping me ♫",
+    "views": 30,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1406,
+        "height": 1148,
+        "date": "2024-10-08T01:32:19",
+        "media_type": "photo",
+        "original_name": "photo_2024-10-08_01-32-19.jpg",
+        "url": "media/4515.jpg",
+        "size": 113530,
+        "thumb": "media/4515.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4516,
+    "date": "2024-10-08T01:53:56",
+    "text": "好喵",
+    "views": 23,
+    "forwards": 0,
+    "media_group_id": 13826819492012957,
+    "images": [
+      {
+        "width": 320,
+        "height": 319,
+        "date": "2024-10-08T01:54:34",
+        "media_type": "photo",
+        "original_name": "photo_2024-10-08_01-54-34.jpg",
+        "url": "media/4516.jpg",
+        "size": 12427,
+        "thumb": "media/4516.jpg_thumb.jpg"
+      },
+      {
+        "width": 538,
+        "height": 232,
+        "date": "2024-10-08T01:53:15",
+        "media_type": "photo",
+        "original_name": "photo_2024-10-08_01-53-15.jpg",
+        "url": "media/4517.jpg",
+        "size": 22235,
+        "thumb": "media/4517.jpg_thumb.jpg"
       }
     ]
   }
