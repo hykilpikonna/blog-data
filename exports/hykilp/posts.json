@@ -54018,7 +54018,7 @@
     "id": 3967,
     "date": "2024-06-11T13:56:00",
     "text": "触发了安卓的奇妙 concurrency bug",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -54037,7 +54037,7 @@
     "id": 3968,
     "date": "2024-06-11T17:06:59",
     "text": "给 syama 折了一个まふゆ qwq",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "media_group_id": 13745004953454133,
     "images": [
@@ -54199,7 +54199,7 @@
     "id": 3978,
     "date": "2024-06-13T07:29:39",
     "text": "好",
-    "views": 96,
+    "views": 97,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -61730,7 +61730,7 @@
     "id": 4503,
     "date": "2024-10-03T15:00:18",
     "text": "<del>暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器</del>\n\n看学校机器上有免费 GPU 嘴馋了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i> 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？\n\n大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。\n\n查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧\n\n直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170412886611986173.webm\">❗</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "images": [
       {
@@ -61779,7 +61779,7 @@
     "id": 4506,
     "date": "2024-10-04T21:41:52",
     "text": "不是很懂安卓模拟器的生态...\n\n想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了\n\n有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙",
-    "views": 88,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 13824624901279685,
     "images": [
@@ -61809,7 +61809,7 @@
     "id": 4508,
     "date": "2024-10-06T17:41:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n室友烤的蛋挞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 1,
     "media_group_id": 13825891811831117,
     "images": [
@@ -61888,7 +61888,7 @@
     "id": 4513,
     "date": "2024-10-07T11:58:56",
     "text": "<a href=\"##ADHD\">#ADHD</a> 昨晚想要去学校服务器上炼模型，上去发现它不会自动进 zsh，然后就查文档改了 tmux 让它默认进 zsh。但是它依然不会默认进 tmux，又配了 ssh 自动进 tmux。然后想着既然已经打开了 tmux 配置就顺便改一个好看的主题吧！\n\n...配主题的时候看到 Power10k 那种风格很好看就去配了一套 sarasa nerd 字体，然后查查这个字体里居然有时钟还有 distro 图标耶！但是 tmux 没办法动态显示图标，怎么办呢？给 hyfetch 加一个显示图标的功能吧，再写一个把时间转换成 nerd 字体的时钟图标的脚本\n\n...然后现在是第二天凌晨七点，配好主题了，模型还一点没炼 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 69,
+    "views": 70,
     "forwards": 1,
     "images": [
       {
@@ -61907,7 +61907,7 @@
     "id": 4514,
     "date": "2024-10-07T20:56:34",
     "text": "又改了改主题加了第二行信息栏 quq",
-    "views": 65,
+    "views": 68,
     "forwards": 0,
     "reply": {
       "id": 4513,
@@ -61930,7 +61930,7 @@
     "id": 4515,
     "date": "2024-10-08T01:32:20",
     "text": "♫ I'm a shooting star, leaping through the sky like a tiger ♫\n♫ Defying the laws of gravity ♫\n♫ I'm a racing car, passing by like Lady Godiva ♫\n♫ I'm gonna go, go, go, there's no stopping me ♫",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "images": [
       {
@@ -61949,7 +61949,7 @@
     "id": 4516,
     "date": "2024-10-08T01:53:56",
     "text": "好喵",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13826819492012957,
     "images": [
@@ -61979,7 +61979,7 @@
     "id": 4518,
     "date": "2024-10-08T20:18:56",
     "text": "恭喜我把自己累感冒了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 38,
+    "views": 46,
     "forwards": 0
   }
 ]
