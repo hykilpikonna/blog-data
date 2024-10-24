@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-10-24T00:11:38.723019+00:00</updated>
+  <updated>2024-10-24T02:35:36.268859+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4579</id>
+    <title>小桂桂的回忆录 📒 #4579</title>
+    <updated>2024-10-24T01:52:37+00:00</updated>
+    <content>&lt;p&gt;发布了 HyFetch &lt;a href="https://github.com/hykilpikonna/hyfetch/releases/tag/1.99.0"&gt;1.99.0&lt;/a&gt;！&lt;/p&gt;
+&lt;p&gt;这是最后一个 Python 的版本了，之后的版本会转到 Rust（感谢 Teoh Han Hui 帮忙 RIIR &lt;i class="custom-emoji" emoji-src="emoji/6170432338518869955.webm"&gt;🦀&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;接手 neofetch 的事情也就此告一段落啦，因为看隔壁 fastfetch 挺活跃的所以把默认后端改成了 fastfetch，也把 fastfetch 的二进制打包进去了。感觉继续维护这个八岁一万三千行的 bash 脚本需要的时间精力真的不太值得了（不过如果有人想接手欢迎拿走 &lt;i class="custom-emoji" emoji-src="emoji/6114040285505783709.webm"&gt;🙏&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;...好吧其实主要还是因为需要我的时间来填的坑实在太多了，想要重新拿回一些生活的时间&lt;/span&gt;&lt;/span&gt; quq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4579" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4572</id>
+    <title>小桂桂的回忆录 📒 #4572</title>
+    <updated>2024-10-24T00:54:33+00:00</updated>
+    <content>&lt;p&gt;为了测试 hyfetch 跑了一个 docker win7... 上次用 win7 是多少年前了&lt;/p&gt;
+&lt;p&gt;记得小学的时候用着 xp 觉得 win7 好好用好新奇好漂亮，还会给学校的 xp 机器装上 win7 的主题... 感觉 UI 设计的审美标准变化得好快&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4572" rel="alternate"/>
+  </entry>
   <entry>
     <id>4571</id>
     <title>小桂桂的回忆录 📒 #4571</title>
