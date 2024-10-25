@@ -47850,7 +47850,7 @@
     "id": 3507,
     "date": "2024-03-22T04:13:23",
     "text": "我：胳膊的膝盖疼\n聊聊：那叫胳膊肘\n我：反正你也听懂了那就这样叫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 186,
+    "views": 191,
     "forwards": 1
   },
   {
@@ -51371,7 +51371,7 @@
     "id": 3770,
     "date": "2024-05-16T04:51:07",
     "text": "自己读 64 条 Reddit 回复 ❌\n花一个小时写脚本交给 gpt-4o 读 ✅",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -51394,7 +51394,7 @@
     "id": 3771,
     "date": "2024-05-16T06:31:14",
     "text": "订了一个茶杯",
-    "views": 154,
+    "views": 155,
     "forwards": 1,
     "images": [
       {
@@ -51413,7 +51413,7 @@
     "id": 3772,
     "date": "2024-05-17T02:14:16",
     "text": "TIL: 不要随便相信从 <a href=\"ieee.org\">ieee.org</a> 邮箱发过来的邮件，任何人只要交 $100/yr 就可以注册 <a href=\"ieee.org\">ieee.org</a> 的邮箱，还可以填任何名字，甚至没有任何审核过程... 我差点被诈骗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及我也注册了一个 azalea@ieee.org，欢迎给我发邮件 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 104,
+    "views": 105,
     "forwards": 1,
     "images": [
       {
@@ -51544,7 +51544,7 @@
     "id": 3783,
     "date": "2024-05-18T19:57:59",
     "text": "今天和六只猫型猫睡在一起 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>\n\n有粘人的猫、毛绒地毯猫、抓人的猫、不让你看示波器的猫、凌晨做爱的猫（？）在这里好治愈 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> \n\n...不过鼻子还需要适应一下猫毛 <i class=\"custom-emoji\" emoji-src=\"emoji/5445362475073545193.tgs\">😢</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "media_group_id": 13728498239600181,
     "images": [
@@ -55518,7 +55518,7 @@
   {
     "id": 4072,
     "date": "2024-06-29T06:40:59",
-    "views": 331,
+    "views": 332,
     "forwards": 4,
     "files": [
       {
@@ -57765,7 +57765,7 @@
     "id": 4234,
     "date": "2024-07-27T12:49:34",
     "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "<a href=\"##ML\">#ML</a> 今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 2,
     "media_group_id": 13776691202656413,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -57881,7 +57881,7 @@
   {
     "id": 4241,
     "date": "2024-07-28T20:10:15",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "forwarded_from": {
       "name": "❤️‍🩹",
@@ -57903,7 +57903,7 @@
   {
     "id": 4242,
     "date": "2024-07-28T20:10:29",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "files": [
       {
@@ -57928,7 +57928,7 @@
     "id": 4244,
     "date": "2024-07-28T21:09:43",
     "text": "吃完海底捞出来听见了猫叫，找过去之后看到了猫，然后看到了第二只猫，第三只猫，还有第四只猫…\n桂桂随身带了猫条，拿出来打开了之后猫猫们不为所动，放在这里等了好一会猫猫左顾右盼之后才敢来吃 qwq",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -57961,7 +57961,7 @@
     "id": 4245,
     "date": "2024-07-28T23:07:33",
     "text": "一些深夜猫片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 13777664431653325,
     "images": [
@@ -58021,7 +58021,7 @@
     "id": 4250,
     "date": "2024-07-29T17:14:16",
     "text": "[object Object] is awesome",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "images": [
       {
@@ -58040,14 +58040,14 @@
     "id": 4251,
     "date": "2024-07-29T20:10:12",
     "text": "今天和 menci 一起 debug 了一天还没搞明白为什么 mai pico 接上触屏的串口就开不了机\n\n然后准备睡觉了在床上再想了一眼突然想明白了，触屏是 rs232，pico 是 TTL... 我们在用 232 接 TTL 🌚\n\n还好 pico 没有被 232 的 5V 烧掉",
-    "views": 105,
+    "views": 106,
     "forwards": 1
   },
   {
     "id": 4252,
     "date": "2024-07-29T22:46:27",
     "text": "之前 Arc 浏览器刚出来的时候很喜欢用 Arc，但是用着用着觉得各种问题太劝退了...\n\n启动进程经常卡很久才能起来，下载没有固定长度的文件的时候没有任何视觉提示，新标签打中文之后需要多打一个空格才能识别... 重装系统之后发现浏览器插件没了，发现它的同步居然只能同步标签页，不能同步插件、收藏夹、历史、密码、快捷键... <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n立即卸载，去用 Edge 了",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "images": [
       {
@@ -58066,14 +58066,14 @@
     "id": 4253,
     "date": "2024-07-30T00:27:42",
     "text": "已经会把 LLVM 看成 VLLM 了",
-    "views": 106,
+    "views": 107,
     "forwards": 0
   },
   {
     "id": 4254,
     "date": "2024-07-30T06:40:24",
     "text": "储存条件：冷冻",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13778572998537549,
     "images": [
@@ -58165,7 +58165,7 @@
     "id": 4260,
     "date": "2024-07-31T15:56:09",
     "text": "<a href=\"##ML\">#ML</a> V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "media_group_id": 13779530958546629,
     "images": [
@@ -58942,7 +58942,7 @@
     "id": 4315,
     "date": "2024-08-11T08:40:04",
     "text": "<a href=\"##ADHD\">#ADHD</a> 发现自己忘了要干什么的时候就会在命令行里反复打 ll <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -61809,7 +61809,7 @@
     "id": 4508,
     "date": "2024-10-06T17:41:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n室友烤的蛋挞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 1,
     "media_group_id": 13825891811831117,
     "images": [
@@ -62709,7 +62709,7 @@
     "id": 4572,
     "date": "2024-10-24T00:54:33",
     "text": "为了测试 hyfetch 跑了一个 docker win7... 上次用 win7 是多少年前了\n\n记得小学的时候用着 xp 觉得 win7 好好用好新奇好漂亮，还会给学校的 xp 机器装上 win7 的主题... 感觉 UI 设计的审美标准变化得好快",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13837850190196717,
     "images": [
@@ -62789,7 +62789,7 @@
     "id": 4579,
     "date": "2024-10-24T01:52:37",
     "text": "发布了 HyFetch <a href=\"https://github.com/hykilpikonna/hyfetch/releases/tag/1.99.0\">1.99.0</a>！\n\n这是最后一个 Python 的版本了，之后的版本会转到 Rust（感谢 Teoh Han Hui 帮忙 RIIR <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n接手 neofetch 的事情也就此告一段落啦，因为看隔壁 fastfetch 挺活跃的所以把默认后端改成了 fastfetch，也把 fastfetch 的二进制打包进去了。感觉继续维护这个八岁一万三千行的 bash 脚本需要的时间精力真的不太值得了（不过如果有人想接手欢迎拿走 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<span class=\"spoiler\"><span>...好吧其实主要还是因为需要我的时间来填的坑实在太多了，想要重新拿回一些生活的时间</span></span> quq",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13837878060727893,
     "images": [
@@ -62819,14 +62819,14 @@
     "id": 4581,
     "date": "2024-10-25T00:11:48",
     "text": "<a href=\"##ADHD\">#ADHD</a> 上午抓了包，导出了 HAR，下午就忘了把它放在哪了",
-    "views": 51,
+    "views": 53,
     "forwards": 0
   },
   {
     "id": 4582,
     "date": "2024-10-25T01:48:53",
     "text": "今天花了一整天的时间解开了 pjsk 网络请求的 AES 加密 qwq 终于可以调 API 了！\n\n对过程感兴趣的可以来看 writeup，发了 Blog 在这里：<a href=\"https://aza.moe/blog?post=2024-10-24-PJSK-Reversing\">世界计划 缤纷舞台！feat. IL2Cpp</a>",
-    "views": 48,
+    "views": 50,
     "forwards": 1,
     "media_group_id": 13838567470816821,
     "images": [
