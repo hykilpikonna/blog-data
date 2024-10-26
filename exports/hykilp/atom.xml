@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-10-26T18:12:01.046212+00:00</updated>
+  <updated>2024-10-26T20:10:04.651086+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4589</id>
+    <title>小桂桂的回忆录 📒 #4589</title>
+    <updated>2024-10-26T18:53:27+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##LLM"&gt;#LLM&lt;/a&gt; 训练了第一个版本的假想书书模型，白嫖了 OpenAI gpt4o-mini 的免费 finetune，语气和格式看起来都完全没问题，但是还是有很多问题...&lt;/p&gt;
+&lt;p&gt;试了一下让它回一些 linux maintainer 这件事周围的暴论，但是因为缺少 context 似乎没办法从一条推文里面理解发生了什么... &lt;del&gt;毕竟肯定也没有人会猜到 linus 会支持删 maintainer&lt;/del&gt; 但是可能需要在输入前面加入一些自动生成或者是手动标注的 context&lt;/p&gt;
+&lt;p&gt;还有就是数据真的好少... 爬下来一共有 7221 条书书发的回复，但是其中只有 54% 的回复上文是可见的，再过滤掉回复自己用来发长文的操作的话就只剩下 40% 2883 条了。不过好像忘记了推特还有一种回复方式是转贴回复，也许把转帖回复也加进来会多一些&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4589" rel="alternate"/>
+  </entry>
   <entry>
     <id>4588</id>
     <title>小桂桂的回忆录 📒 #4588</title>
