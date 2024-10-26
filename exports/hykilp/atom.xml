@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-10-26T06:11:23.000699+00:00</updated>
+  <updated>2024-10-26T08:11:51.657131+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4588</id>
+    <title>小桂桂的回忆录 📒 #4588</title>
+    <updated>2024-10-26T08:03:00+00:00</updated>
+    <content>&lt;p&gt;今天重构了一下我两年前给 OAU 写的 &lt;a href="https://github.com/one-among-us/TwitterBackup"&gt;TwitterBackup&lt;/a&gt; 项目，加入了自动账号池切换和爬消息回复找妈妈的代码，然后写了一个 tg bot &lt;a href="https://t.me/AzaBirdBot"&gt;@AzaBirdBot&lt;/a&gt; 可以更方便地备份一个人的推特了 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;大家如果遇到觉得身边的人可能想要冲动删号的时候可以过来预防性地备份一份 &lt;i class="custom-emoji" emoji-src="emoji/5442664243474211327.tgs"&gt;👀&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;其实开始重构这个项目是因为 syama 和我说想要和人对线但是不会对线，然后我想能不能训练一个网络对线教学机器人，就找书书要了一份她的推特导出hhhh &lt;/span&gt;&lt;/span&gt;&lt;span class="spoiler"&gt;&lt;span&gt;&lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class="spoiler"&gt;&lt;span&gt; 然后发现导出里面居然回复数据只有自己的内容，没有被回复的推文内容，所以就去重写了这个爬虫 qwq&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4588" rel="alternate"/>
+  </entry>
   <entry>
     <id>4587</id>
     <title>小桂桂的回忆录 📒 #4587</title>
