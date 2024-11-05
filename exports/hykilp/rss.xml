@@ -12,7 +12,18 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 Nov 2024 04:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 06:11:54 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4629</title>
+      <link>https://aza.moe/life?post=4629</link>
+      <description>&lt;p&gt;Electron Day 快乐！看看大家电脑上装了多少个 Electron&lt;/p&gt;
+&lt;p&gt;发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 &lt;i class="custom-emoji" emoji-src="emoji/6323267916523374069.webp"&gt;🥺&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Linux: &lt;/p&gt;
+&lt;pre language="sh"&gt;find /usr /opt /home -type f -name "resources.pak" 2&gt;/dev/null&lt;/pre&gt;
+&lt;p&gt;Windows: &lt;/p&gt;
+&lt;pre language="powershell"&gt;Get-ChildItem -Path "C:\Users", "C:\Program Files", "C:\Program Files (x86)" -Recurse -Filter "resources.pak" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName&lt;/pre&gt;</description>
+      <guid isPermaLink="false">4629</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4622</title>
       <link>https://aza.moe/life?post=4622</link>
