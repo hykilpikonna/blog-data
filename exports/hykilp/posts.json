@@ -63374,7 +63374,7 @@
     "id": 4622,
     "date": "2024-11-04T21:00:36",
     "text": "果然 Minecraft 真正的 end game 是建筑 qwq\n\n玩了一周之后这边 Botania 差不多毕业了，七七那边工业也毕业了。76 点 HP 上限加上纳米护甲和附魔的纳米刀基本上无敌，原本应该是 end game 的高难度版 Gaia 也被用来刷资源了，让探索稍微有点无聊——因为没有什么宝箱能给我有用的资源，也不会遇到有挑战性的 boss 了\n\n果然作为沙盒游戏最耐玩的还是建筑，毕竟生存发展一定是有限的，但是创造性的可能是无限的。为我的 Botania 花坛、附魔坛、还有召唤 boss 的平台建了三个空岛之后原本打算建一个自己的家，但是听凌莞想在七七工厂旁边建家但是没想法就帮忙建了。\n\n这次选了现代建筑风格，因为生存模式做建筑需要考虑收集材料，而石英这种在自然生成的建筑物中很常用的材料最容易收集了，只是拆掉一个自然生成的高塔就拿到了三万块 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>\n\n建好了外部之后看起来效果不错，内部装饰就交给凌莞和七七他们好啦。还想建一个自己的家，可惜 reading week 假期结束了，就暂时停留在这里吧",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "media_group_id": 13846032293003709,
     "images": [
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 65,
+    "views": 66,
     "forwards": 2,
     "media_group_id": 13846263111521349,
     "images": [
