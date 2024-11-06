@@ -62866,7 +62866,7 @@
     "id": 4585,
     "date": "2024-10-25T23:41:17",
     "text": "发现可以让 ipython 自动导入常用的库 qwq\n\n<a href=\"https://github.com/hykilpikonna/zshrc/blob/master/config-sync/ipython_init.py\">ipython_init</a> > <code>~/.ipython/profile_default/startup</code>",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "files": [
       {
@@ -62889,14 +62889,14 @@
     "id": 4586,
     "date": "2024-10-26T05:41:16",
     "text": "室友问我用外部软件编辑 Blender 贴图的时候怎样自动化保存更新，帮忙让 llm 搓了几行 AutoHotKey 脚本自动按导出回车左箭头回车... 然后她觉得好厉害发了一个<a href=\"https://www.bilibili.com/video/av113371953235485\">教程视频</a>还把我 @ 出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n...在技美眼里自动按几个按钮的脚本原来是很难做甚至值得发一个视频的事情吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 2
   },
   {
     "id": 4587,
     "date": "2024-10-26T05:48:51",
     "text": "<span class=\"spoiler\"><span>感觉如果是我发视频肯定要社恐很长时间写好所有要说的话然后录的时候念错一大堆重新录然后花几个小时剪辑到听不出来重新录了才发出去，但是看她二十分钟一遍录完再听一遍打些码就发了我反而觉得这才好厉害</span></span>",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -63132,7 +63132,7 @@
     "id": 4604,
     "date": "2024-10-29T17:46:32",
     "text": "这次试了一下用五个 Bot 号用初始号能达到的最优配置挂机，拿了一个 105 位 qwq\n\n虽然其实还可以更优化的，因为这次开号运气太差了花了 93000 石头才拿到活动队全员，导致后面石头不够没办法全程五倍体力了...  如果活动刚开始的时候多开几个号选运气最好的也许体力就够拿到 100 了\n\n可能这就差不多是这个游戏不氪金的天花板了，花掉初始号 150000 石头用最优队伍 24h 不间断私人联机五倍刷效率曲也只能到这里... 真的很想知道我前面的 104 个人都是什么怪物",
-    "views": 87,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13841791937301573,
     "images": [
@@ -63177,7 +63177,7 @@
     "id": 4607,
     "date": "2024-10-31T21:01:38",
     "text": "万圣节快乐！",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -63256,7 +63256,7 @@
     "id": 4613,
     "date": "2024-11-03T02:01:28",
     "text": "今天晚上醒来看到凌莞反馈说服务器宕了，赶快起床看一看，发现 nginx 没起来，原因是其中一个 http 反代的上游死了配置文件检查没过...\n\n啊啊，真的是好蠢的设计，其中一个站点的反代挂了的话，服务起来剩下的站点还能用啊... 为什么要设计成一个连不上就不启动服务了？原本可以是 5% down 的现在变成了 100% down...\n\n感觉这已经是第无数次被 nginx 背刺了，之前还有发现 autoindex 在 ls 的时候会阻塞所有线程，然后之前我服务器上有一个几百万文件的文件夹，有人访问这个目录的时候就会让所有服务卡死不响应，而且去搜了解决方案似乎 2024 年都无解...\n\n真的不想再用 nginx 了，等这学期结束就全都换到 caddy",
-    "views": 87,
+    "views": 88,
     "forwards": 2,
     "images": [
       {
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 96,
+    "views": 97,
     "forwards": 4,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63484,7 +63484,7 @@
     "id": 4631,
     "date": "2024-11-06T04:15:06",
     "text": "好可爱的猪猪 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n什么时候我才能做出这么好看的蛋糕...",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 32,
+    "views": 37,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
