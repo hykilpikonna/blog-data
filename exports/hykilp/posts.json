@@ -62530,7 +62530,7 @@
     "id": 4558,
     "date": "2024-10-20T13:34:48",
     "text": "从凌晨一点熬到八点，需要测试长途打 +86 电话的时候原本想给 menci 打电话测试，然后下意识换算了一下时区寻思 menci 早上八点肯定没醒 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n刚才才突然意识到不对我现在是早上八点，国内是晚上八点 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "reply": {
       "id": 4557,
@@ -63024,7 +63024,7 @@
     "id": 4597,
     "date": "2024-10-28T00:49:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 君が涙のときには\n♪ 僕がそばにいるから~\n♪ 離ればなれの夜だって\n♪ 僕はそばにいるから~ <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "files": [
       {
@@ -63046,7 +63046,7 @@
     "id": 4598,
     "date": "2024-10-28T04:16:28",
     "text": "好喜欢 <a href=\"https://www.generasia.com/wiki/AMADORI\">AMADORI</a> 的曲子，但是似乎在 2009 年之后就没有消息了... 好可惜",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 4597,
@@ -63057,7 +63057,7 @@
     "id": 4599,
     "date": "2024-10-28T08:19:41",
     "text": "syama: 章鱼小丸子是鱼丸吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0
   },
   {
@@ -63102,7 +63102,7 @@
     "id": 4602,
     "date": "2024-10-29T16:59:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （昨天？\n照烧鸡腿饭 qwq",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "media_group_id": 13841769229694389,
     "images": [
@@ -63177,7 +63177,7 @@
     "id": 4607,
     "date": "2024-10-31T21:01:38",
     "text": "万圣节快乐！",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -63256,7 +63256,7 @@
     "id": 4613,
     "date": "2024-11-03T02:01:28",
     "text": "今天晚上醒来看到凌莞反馈说服务器宕了，赶快起床看一看，发现 nginx 没起来，原因是其中一个 http 反代的上游死了配置文件检查没过...\n\n啊啊，真的是好蠢的设计，其中一个站点的反代挂了的话，服务起来剩下的站点还能用啊... 为什么要设计成一个连不上就不启动服务了？原本可以是 5% down 的现在变成了 100% down...\n\n感觉这已经是第无数次被 nginx 背刺了，之前还有发现 autoindex 在 ls 的时候会阻塞所有线程，然后之前我服务器上有一个几百万文件的文件夹，有人访问这个目录的时候就会让所有服务卡死不响应，而且去搜了解决方案似乎 2024 年都无解...\n\n真的不想再用 nginx 了，等这学期结束就全都换到 caddy",
-    "views": 86,
+    "views": 87,
     "forwards": 2,
     "images": [
       {
@@ -63275,7 +63275,7 @@
     "id": 4614,
     "date": "2024-11-04T02:31:23",
     "text": "玩了一下之前没有玩过的 Botania 植物魔法 mod，真的爱上这个 mod 了\n\n和其他 mod 不一样的地方在于，这个 mod 不只是在游戏里添加了功能和值得探索的地点，而是真的有很深的 lore，像是讲了一个故事。\n\n感觉在这个随机生成的开放世界游戏里真的很难讲一个故事，大部分讲故事的社区创作都是地图而不是 mod。随机地图的话即使只是固定一个流程都很难，需要像暮色森林那样用无敌的怪物或者进入某个区域就会掉血之类的各种方式提示玩家「现在还不应该来到这里」，或者像天界那样让流程后期的 boss 生成数量更少更难找到之类的。那植物魔法是怎么做到的呢？通过那本「Lexica Botania」\n\n这本书读起来很像是某位不知名的魔法师留下的笔记，里面除了每个物品的介绍和起源，还有一些记录下来的故事。在游戏后期打开传送门之后，会发现这个传送门因为魔力太弱并不能走进去，但是把这本书丢进去的话，被对面的精灵族改写过的书会传回来，里面夹着他们的魔法知识和回信... 通过一本书跨越维度和世界对面的居民获得联系我觉得真的是最浪漫的事情 qwq 可能是任何自由探索的世界都做不到的\n\n（以及这个 mod 里面有好多各种文化作品的联动，成就名字引用了很多 V 家曲、可以通过重命名拿到刀剑神域的阐释者和死枪、最终 Boss 掉落的六个宝具之一还原了 Fate 系列吉尔加美什的王之宝库、可以做一个 Conway 细胞自动机来获得魔力，还有很多很多我认不出来的... 这个作者好有趣 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 1,
     "media_group_id": 13845499869142421,
     "images": [
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 93,
+    "views": 96,
     "forwards": 4,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63484,7 +63484,7 @@
     "id": 4631,
     "date": "2024-11-06T04:15:06",
     "text": "好可爱的猪猪 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n什么时候我才能做出这么好看的蛋糕...",
-    "views": 54,
+    "views": 59,
     "forwards": 0,
     "images": [
       {
@@ -63496,6 +63496,36 @@
         "url": "media/4631.jpg",
         "size": 179812,
         "thumb": "media/4631.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4632,
+    "date": "2024-11-06T16:53:52",
+    "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
+    "views": 32,
+    "forwards": 0,
+    "media_group_id": 13847296262786181,
+    "images": [
+      {
+        "width": 580,
+        "height": 137,
+        "date": "2024-11-06T16:53:51",
+        "media_type": "photo",
+        "original_name": "photo_2024-11-06_16-53-51.jpg",
+        "url": "media/4632.jpg",
+        "size": 10972,
+        "thumb": "media/4632.jpg_thumb.jpg"
+      },
+      {
+        "width": 713,
+        "height": 226,
+        "date": "2024-11-06T16:53:52",
+        "media_type": "photo",
+        "original_name": "photo_2024-11-06_16-53-52.jpg",
+        "url": "media/4633.jpg",
+        "size": 19013,
+        "thumb": "media/4633.jpg_thumb.jpg"
       }
     ]
   }
