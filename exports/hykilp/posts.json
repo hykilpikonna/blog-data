@@ -35241,7 +35241,7 @@
     "id": 2641,
     "date": "2023-09-09T06:28:26",
     "text": "狗狗在互相舔哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> <del>hso</del>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "reply": {
       "id": 2626,
@@ -35268,7 +35268,7 @@
     "id": 2642,
     "date": "2023-09-09T18:29:15",
     "text": "结婚了！<i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i>\n\n在梦想小木屋旅店，穿上了很适合小木屋的 lolita，分别邀请了我的前任和聊聊的前任做证婚人，戴上去年七夕做的折纸戒指 qwq",
-    "views": 135,
+    "views": 136,
     "forwards": 7,
     "media_group_id": 13554273244968861,
     "images": [
@@ -35328,7 +35328,7 @@
     "id": 2647,
     "date": "2023-09-11T16:04:50",
     "text": "开学了，看看今年 CSC 课对 LLM (ChatGPT, Copilot, ...) 的态度：\n\n301 Intro SE：真正的软件公司不会禁止，所以当然可以用\n384 Intro AI：作业可以，考试不能（然后长篇大论讲了 LLM 的局限性）\n369 Intro OS：严格禁止\n\n318 和 420 完全没有提 LLM，好像没更新 syllabus 的样子",
-    "views": 112,
+    "views": 113,
     "forwards": 1,
     "images": [
       {
@@ -35347,7 +35347,7 @@
     "id": 2648,
     "date": "2023-09-11T16:56:52",
     "text": "草 今年 AI 课搜索寻路作业是推箱子",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -35366,7 +35366,7 @@
     "id": 2649,
     "date": "2023-09-13T02:08:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n我做的炒卷心菜和新室友猪猪做的红烧肉！\n\n回家之后第一次做饭 qwq",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -35385,7 +35385,7 @@
     "id": 2650,
     "date": "2023-09-13T18:03:20",
     "text": "在学 Onshape，不想用 FreeCAD 了...\n\n<del>怎么感觉每次开新坑都在学新的软件，高中受不了 Fusion 360 转学 OpenSCAD，意识到 SCAD 对不规则形状的局限性之后转学 FreeCAD，现在觉得 FreeCAD 麻烦又想转了</del>",
-    "views": 112,
+    "views": 113,
     "forwards": 1
   },
   {
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 97,
+    "views": 98,
     "forwards": 4,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 41,
+    "views": 42,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
