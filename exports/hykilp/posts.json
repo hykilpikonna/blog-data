@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7232,
+    "views": 7233,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -63374,7 +63374,7 @@
     "id": 4622,
     "date": "2024-11-04T21:00:36",
     "text": "果然 Minecraft 真正的 end game 是建筑 qwq\n\n玩了一周之后这边 Botania 差不多毕业了，七七那边工业也毕业了。76 点 HP 上限加上纳米护甲和附魔的纳米刀基本上无敌，原本应该是 end game 的高难度版 Gaia 也被用来刷资源了，让探索稍微有点无聊——因为没有什么宝箱能给我有用的资源，也不会遇到有挑战性的 boss 了\n\n果然作为沙盒游戏最耐玩的还是建筑，毕竟生存发展一定是有限的，但是创造性的可能是无限的。为我的 Botania 花坛、附魔坛、还有召唤 boss 的平台建了三个空岛之后原本打算建一个自己的家，但是听凌莞想在七七工厂旁边建家但是没想法就帮忙建了。\n\n这次选了现代建筑风格，因为生存模式做建筑需要考虑收集材料，而石英这种在自然生成的建筑物中很常用的材料最容易收集了，只是拆掉一个自然生成的高塔就拿到了三万块 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>\n\n建好了外部之后看起来效果不错，内部装饰就交给凌莞和七七他们好啦。还想建一个自己的家，可惜 reading week 假期结束了，就暂时停留在这里吧",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "media_group_id": 13846032293003709,
     "images": [
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 110,
+    "views": 111,
     "forwards": 4,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63484,7 +63484,7 @@
     "id": 4631,
     "date": "2024-11-06T04:15:06",
     "text": "好可爱的猪猪 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n什么时候我才能做出这么好看的蛋糕...",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
@@ -63533,7 +63533,7 @@
     "id": 4634,
     "date": "2024-11-08T04:28:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n发现写作业的时候 c418 的麦块氛围音乐很适合用来给猫脑降温 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 61,
+    "views": 62,
     "forwards": 3,
     "files": [
       {
@@ -63555,7 +63555,7 @@
     "id": 4635,
     "date": "2024-11-08T06:20:26",
     "text": "发现有人做了 <a href=\"https://github.com/ouch-org/ouch\">ouch</a>，是一个跨格式压缩工具，有了它就不再需要记每个压缩格式的指令怎么用了 qwq",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "reply": {
       "id": 4632,
@@ -63567,7 +63567,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 45,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 35,
+    "views": 38,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
