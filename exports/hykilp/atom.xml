@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-11-08T08:11:23.188464+00:00</updated>
+  <updated>2024-11-08T10:10:55.890890+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4638</id>
+    <title>小桂桂的回忆录 📒 #4638</title>
+    <updated>2024-11-08T08:58:54+00:00</updated>
+    <content>&lt;p&gt;"courier transform"&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4638" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4636</id>
+    <title>小桂桂的回忆录 📒 #4636</title>
+    <updated>2024-11-08T08:25:31+00:00</updated>
+    <content>&lt;p&gt;今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...&lt;/p&gt;
+&lt;p&gt;之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有&lt;a href="https://github.com/ETCExtensions/Edit-This-Cookie"&gt;很久没人维护的源码&lt;/a&gt;，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了&lt;/p&gt;
+&lt;p&gt;然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie&lt;b&gt;s&lt;/b&gt; 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧&lt;/p&gt;
+&lt;p&gt;唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4636" rel="alternate"/>
+  </entry>
   <entry>
     <id>4635</id>
     <title>小桂桂的回忆录 📒 #4635</title>
