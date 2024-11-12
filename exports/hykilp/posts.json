@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 138,
+    "views": 139,
     "forwards": 4,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63484,7 +63484,7 @@
     "id": 4631,
     "date": "2024-11-06T04:15:06",
     "text": "好可爱的猪猪 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n什么时候我才能做出这么好看的蛋糕...",
-    "views": 109,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 100,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
@@ -63672,14 +63672,14 @@
     "id": 4643,
     "date": "2024-11-11T01:36:15",
     "text": "呜呜 昨天和 syama 例常打 facetime 电话，然后今天被派出所找上门了... 不知道是怎么检测的，可能需要抓包把 facetime 域名加到代理规则里",
-    "views": 71,
+    "views": 72,
     "forwards": 3
   },
   {
     "id": 4645,
     "date": "2024-11-11T20:20:14",
     "text": "支持一下 typst\n\n<del>为什么 Overleaf $8/mo 就觉得好贵还是自搭吧，typst $8/mo 反而觉得很情愿，明明都是开源软件</del> 可能是因为 typst 这边真的在 actively 加新功能",
-    "views": 38,
+    "views": 45,
     "forwards": 0,
     "reply": {
       "id": 4640,
