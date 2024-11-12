@@ -4411,7 +4411,7 @@
     "id": 450,
     "date": "2022-01-19T02:41:12",
     "text": "哇啊啊啊聊聊侧脸好可爱！！\n我死了！！！",
-    "views": 113,
+    "views": 114,
     "forwards": 4,
     "images": [
       {
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 141,
+    "views": 142,
     "forwards": 5,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63627,7 +63627,7 @@
     "id": 4640,
     "date": "2024-11-09T13:27:23",
     "text": "讲真，搭好 typst 环境比 latex 容易太多了，无论本地还是在线都是\n\n（翻邮件看到今天有人回我 2022 年开的 issue 似乎是遇到了同样的问题没办法搭好 overleaf 的开发环境，这还是他们重构之后的，唉有些代码库真的永远不会变",
-    "views": 72,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -63646,7 +63646,7 @@
     "id": 4641,
     "date": "2024-11-09T13:37:22",
     "text": "感冒了，但是因为有作业 overdue 被迫通宵... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 0
   },
   {
