@@ -1,5 +1,90 @@
 [
     {
+        "key": "MYJG9PVC",
+        "version": 7576,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/MYJG9PVC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/MYJG9PVC",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/users/8463157/items/HMSCEDAW",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 178655
+            }
+        },
+        "meta": {
+            "creatorSummary": "Gui et al.",
+            "parsedDate": "2024-04",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "MYJG9PVC",
+            "version": 7576,
+            "itemType": "conferencePaper",
+            "title": "Adapting Frechet Audio Distance for Generative Music Evaluation",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Azalea",
+                    "lastName": "Gui"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hannes",
+                    "lastName": "Gamper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sebastian",
+                    "lastName": "Braun"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dimitra",
+                    "lastName": "Emmanouilidou"
+                }
+            ],
+            "abstractNote": "The growing popularity of generative music models underlines the need for perceptually relevant, objective music quality metrics. The Frechet Audio Distance (FAD) is commonly used for this purpose even though its correlation with perceptual quality is understudied. We show that FAD performance may be hampered by sample size bias, poor choice of audio embeddings, or the use of biased or low-quality reference sets. We propose reducing sample size bias by extrapolating scores towards an infinite sample size. Through comparisons with MusicCaps labels and a listening test we identify audio embeddings and music reference sets that yield FAD scores well-correlated with acoustic and musical quality. Our results suggest that per-song FAD can be useful to identify outlier samples and predict perceptual quality for a range of music sets and generative models. Finally, we release a toolkit that allows adapting FAD for generative music evaluation.",
+            "date": "2024-04",
+            "proceedingsTitle": "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+            "conferenceName": "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+            "place": "",
+            "publisher": "",
+            "volume": "",
+            "pages": "1331-1335",
+            "series": "",
+            "language": "",
+            "DOI": "10.1109/ICASSP48485.2024.10446663",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://ieeexplore.ieee.org/document/10446663",
+            "accessDate": "2024-11-15T00:01:02Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "IEEE Xplore",
+            "callNumber": "",
+            "rights": "All rights reserved",
+            "extra": "ISSN: 2379-190X"
+        }
+    },
+    {
         "key": "QLUTMLVJ",
         "version": 156,
         "library": {
@@ -195,6 +280,193 @@
         }
     },
     {
+        "key": "EVAUYWSW",
+        "version": 7576,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/EVAUYWSW",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/EVAUYWSW",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/MYJG9PVC",
+                "type": "application/json"
+            },
+            "enclosure": {
+                "type": "text/html",
+                "href": "https://api.zotero.org/users/8463157/publications/items/EVAUYWSW/file/view"
+            }
+        },
+        "meta": {},
+        "data": {
+            "key": "EVAUYWSW",
+            "version": 7576,
+            "parentItem": "MYJG9PVC",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "IEEE Xplore Abstract Record",
+            "accessDate": "2024-11-15T00:01:06Z",
+            "url": "https://ieeexplore.ieee.org/document/10446663",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "10446663.html",
+            "md5": "d3f2fe9e86d52059c1ca81220425d349",
+            "mtime": 1731628866558
+        }
+    },
+    {
+        "key": "HMSCEDAW",
+        "version": 7576,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/HMSCEDAW",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/HMSCEDAW",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/MYJG9PVC",
+                "type": "application/json"
+            },
+            "enclosure": {
+                "type": "application/pdf",
+                "href": "https://api.zotero.org/users/8463157/publications/items/HMSCEDAW/file/view",
+                "title": "Gui et al. - 2024 - Adapting Frechet Audio Distance for Generative Music Evaluation.pdf",
+                "length": 178655
+            }
+        },
+        "meta": {
+            "numChildren": false
+        },
+        "data": {
+            "key": "HMSCEDAW",
+            "version": 7576,
+            "parentItem": "MYJG9PVC",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Submitted Version",
+            "accessDate": "2024-11-15T00:01:03Z",
+            "url": "https://arxiv.org/pdf/2311.01616",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Gui et al. - 2024 - Adapting Frechet Audio Distance for Generative Music Evaluation.pdf",
+            "md5": "fafb1ca8764d4dac74c745f91b6a4842",
+            "mtime": 1731628863165
+        }
+    },
+    {
+        "key": "Q3FACGRN",
+        "version": 7570,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/Q3FACGRN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/Q3FACGRN",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/users/8463157/items/FP84D8W6",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1040293
+            }
+        },
+        "meta": {
+            "creatorSummary": "Gui et al.",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "Q3FACGRN",
+            "version": 7570,
+            "itemType": "preprint",
+            "title": "Transgender voice training assistant based on ML classifiers and algorithms",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Azalea",
+                    "lastName": "Gui"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Linxi",
+                    "lastName": "Li"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yiming",
+                    "lastName": "Shao"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yiwei",
+                    "lastName": "Liu"
+                }
+            ],
+            "abstractNote": "",
+            "genre": "",
+            "repository": "",
+            "archiveID": "",
+            "place": "",
+            "date": "",
+            "series": "",
+            "seriesNumber": "",
+            "DOI": "",
+            "citationKey": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "en",
+            "libraryCatalog": "Zotero",
+            "callNumber": "",
+            "rights": "All rights reserved",
+            "extra": ""
+        }
+    },
+    {
         "key": "FP84D8W6",
         "version": 3755,
         "library": {
@@ -246,91 +518,6 @@
             "filename": "Transgender voice training assistant based on ML classifiers and algorithms.pdf",
             "md5": "3c107a109c545e9341e8cd2f37cee7e0",
             "mtime": 1667631988000
-        }
-    },
-    {
-        "key": "Q3FACGRN",
-        "version": 3754,
-        "library": {
-            "type": "user",
-            "id": 8463157,
-            "name": "Azalea Gui",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/hykilpikonna",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/users/8463157/publications/items/Q3FACGRN",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/hykilpikonna/items/Q3FACGRN",
-                "type": "text/html"
-            },
-            "attachment": {
-                "href": "https://api.zotero.org/users/8463157/items/FP84D8W6",
-                "type": "application/json",
-                "attachmentType": "application/pdf",
-                "attachmentSize": 1040293
-            }
-        },
-        "meta": {
-            "creatorSummary": "Gui et al.",
-            "numChildren": 1
-        },
-        "data": {
-            "key": "Q3FACGRN",
-            "version": 3754,
-            "itemType": "journalArticle",
-            "title": "Transgender voice training assistant based on ML classifiers and algorithms",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Azalea",
-                    "lastName": "Gui"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Linxi",
-                    "lastName": "Li"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Yiming",
-                    "lastName": "Shao"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Yiwei",
-                    "lastName": "Liu"
-                }
-            ],
-            "abstractNote": "",
-            "publicationTitle": "",
-            "volume": "",
-            "issue": "",
-            "pages": "7",
-            "date": "",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "",
-            "language": "en",
-            "DOI": "",
-            "ISSN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "Zotero",
-            "callNumber": "",
-            "rights": "All rights reserved",
-            "extra": ""
         }
     },
     {
