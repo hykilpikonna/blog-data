@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-11-15T08:11:26.162278+00:00</updated>
+  <updated>2024-11-15T10:11:36.948027+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4652</id>
+    <title>小桂桂的回忆录 📒 #4652</title>
+    <updated>2024-11-15T08:50:17+00:00</updated>
+    <content>&lt;p&gt;昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...&lt;/p&gt;
+&lt;p&gt;清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 &lt;i class="custom-emoji" emoji-src="emoji/6323275213672810256.webp"&gt;😀&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;懒猫猫当然要用懒猫猫解决方案&lt;/del&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4652" rel="alternate"/>
+  </entry>
   <entry>
     <id>4651</id>
     <title>小桂桂的回忆录 📒 #4651</title>

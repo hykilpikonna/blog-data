@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7238,
+    "views": 7239,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -19789,7 +19789,7 @@
     "id": 1527,
     "date": "2022-11-25T06:15:36",
     "text": "折腾了三个小时 jvm 的奇怪反射终于可以让 mcpm 包管理器插件热重载自己了！\n\n（虽然实现方式非常灵车... 先在运行时打包一个助手插件，然后加载助手插件、反射进去调用助手来重载自己，然后自己重载好之后再检测助手把助手删掉 🌚\n\n不过也许就是因为反射能实现这么灵车的功能我才好喜欢反射，这个项目里现在所有反射代码都是我写的了（x",
-    "views": 105,
+    "views": 106,
     "forwards": 2,
     "media_group_id": 13354855493044981,
     "images": [
@@ -21359,7 +21359,7 @@
     "id": 1629,
     "date": "2022-12-21T03:23:31",
     "text": "花 3h 写了一个 vue3 图片预览 qwq\n\n支持用键盘/滚轮/按钮切换图片、用键盘/按钮退出、用 Ctrl + 滚轮缩放、下载文件、显示日期/index/文字、移动视图优化\n\n<a href=\"https://github.com/one-among-us/tg-blog/blob/main/src/views/ImageViewer.vue\">代码在这里</a> （等 tg-blog 的其他功能都完善好之后再一起发布好啦",
-    "views": 116,
+    "views": 117,
     "forwards": 1,
     "media_group_id": 13372744093775109,
     "images": [
@@ -21389,7 +21389,7 @@
     "id": 1631,
     "date": "2022-12-21T18:10:52",
     "text": "现在有个缺点是，同一个图片组有很多图片的时候只能显示在同一行上。想看看 telegram desktop 的图片平铺算法，然后看到了 620 行的没有注释的 C++ 代码 🌚\n\n这要怎么读啊 (╯‵□′)╯︵┻━┻\n\n<a href=\"https://github.com/telegramdesktop/tdesktop/blob/dev/Telegram/SourceFiles/ui/grouped_layout.cpp\">grouped_layout.cpp</a>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "reply": {
       "id": 1629,
@@ -21401,7 +21401,7 @@
     "id": 1632,
     "date": "2022-12-21T18:25:43",
     "text": "这个 AI 居然已经可以帮我自动把 C++ 代码翻译成 TS 了... 还有什么事情是ta不会做的么 😭",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 1631,
@@ -21424,7 +21424,7 @@
     "id": 1633,
     "date": "2022-12-21T19:38:21",
     "text": "在雪地里捡到一颗草莓奶糖，今天变成草莓奶味了 qwq",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "images": [
       {
@@ -21587,7 +21587,7 @@
     "id": 1644,
     "date": "2022-12-23T08:50:56",
     "text": "🐱！",
-    "views": 95,
+    "views": 96,
     "forwards": 4,
     "images": [
       {
@@ -21606,7 +21606,7 @@
     "id": 1645,
     "date": "2022-12-24T03:17:43",
     "text": "tg-blog 写完啦，是一个用来显示电报频道数据的网页前端 qwq\n\n一个部署到了我的 blog <a href=\"https://aza.moe/life\">aza.moe</a> 上面，用来同步显示这个频道的内容。另一个部署到了 <a href=\"one-among.us\">one-among.us</a> 上面，用来备份逝者的频道。毕竟不能期待电报会永远保存频道数据，之前回收非活跃频道用户名的时候也没有提前通知...\n\n给几乎所有的消息格式都写了支持，包括矢量动画表情、视频、投票、地图位置共享、图片预览、音乐播放... <del>完全可以用来做一个第三方 Telegram 客户端了</del> （不\n\n源码链接：\n<a href=\"https://github.com/one-among-us/tg-blog\">tg-blog</a> - 网页前端\n<a href=\"https://github.com/one-among-us/TelegramBackup\">TelegramBackup</a> - 电报爬虫\n<a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> - 推特爬虫",
-    "views": 179,
+    "views": 180,
     "forwards": 7,
     "media_group_id": 13374814908025325,
     "files": [
@@ -21647,7 +21647,7 @@
     "id": 1647,
     "date": "2022-12-24T21:23:28",
     "text": "2022 年的圣诞节也在写代码 🥲\n\n虽然写代码很开心就是 qwq",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 418,
@@ -49214,14 +49214,14 @@
     "id": 3604,
     "date": "2024-04-25T02:45:35",
     "text": "EMS 国际快递只能填英文地址太坏了，刚才收到了快递员的电话似乎看不懂用英文写的国内地址呢... <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0
   },
   {
     "id": 3605,
     "date": "2024-04-25T14:26:36",
     "text": "呜呜 不小心把自己的 bot token 公开了，感觉好丢人\n\n昨天晚上聊聊 Telegram 上突然收到了好多莫名其妙的消息，来自我们的 TG Bot... 这个 Bot 原本是用来发通知的，比如说写需要挂机的脚本的时候通常会在结尾加一个 tg 消息通知什么的，但是这些消息明显不是我们发的，怎么回事呢？\n\n查了查 GitHub 发现是我一两年前把它推到私有库里了，然后过了很久整理仓库的时候忘记这里有 token 就把仓库公开了，然后用 GitGuardian 扫了一遍发现还有几个其他的仓库也有同样的情况... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以后公开仓库之前一定要记得扫描一遍 token ;-;",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "media_group_id": 13712441574874101,
     "images": [
@@ -59062,7 +59062,7 @@
     "id": 4323,
     "date": "2024-08-13T05:35:06",
     "text": "入坑了 ff14! 我是魔法大猫咪 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>\n\n目前在国际版日服免费试玩过了新手村，感觉这个游戏作为 2010 年的游戏真的很有年代感了，入坑之前有期待过的画质还是剧情还是玩法都有些失望。\n\n画质作为那个时代的作品不算差，但是实在太一般了，很多材质面数都出奇的低，光影阴影也很生硬，走路动作没有过渡，嘴唇动作也不跟语音... 椅子还不能坐 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i> <del>要是 ff14 有 optifine / iris 就好了</del>\n\n玩法的话，完全没有策略。如果说博门 3 的战斗像下一盘棋，那 ff14 的战斗就像打扫房间。小任务打野怪只要开局做体操、中间反反复复地点输出、掉了血就回血，数值够自然就能赢，数值不够再想办法也打不过。多人战斗虽然手忙脚乱，但是也只是看谁血低给谁回血就好了，不会打完全因为 ADHD <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i> 不用大模型，一个条件判断脚本就能比我打得好了\n\n不过新手村也不是全部，也有些期待之后的剧情或者技能多起来之后的战斗会有所不同。而且可能玩 ff14 的感觉像以前玩 minecraft 一样，游戏乐趣很大程度来源于社交吧 quq",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13788218452876189,
     "images": [
@@ -63484,7 +63484,7 @@
     "id": 4631,
     "date": "2024-11-06T04:15:06",
     "text": "好可爱的猪猪 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n什么时候我才能做出这么好看的蛋糕...",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "images": [
       {
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
@@ -63533,7 +63533,7 @@
     "id": 4634,
     "date": "2024-11-08T04:28:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n发现写作业的时候 c418 的麦块氛围音乐很适合用来给猫脑降温 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 3,
     "files": [
       {
@@ -63567,7 +63567,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 104,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
@@ -63672,14 +63672,14 @@
     "id": 4643,
     "date": "2024-11-11T01:36:15",
     "text": "呜呜 昨天和 syama 例常打 facetime 电话，然后今天被派出所找上门了... 不知道是怎么检测的，可能需要抓包把 facetime 域名加到代理规则里",
-    "views": 102,
+    "views": 103,
     "forwards": 3
   },
   {
     "id": 4645,
     "date": "2024-11-11T20:20:14",
     "text": "支持一下 typst\n\n<del>为什么 Overleaf $8/mo 就觉得好贵还是自搭吧，typst $8/mo 反而觉得很情愿，明明都是开源软件</del> 可能是因为 typst 这边真的在 actively 加新功能",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "reply": {
       "id": 4640,
@@ -63721,7 +63721,7 @@
     "id": 4647,
     "date": "2024-11-13T09:43:04",
     "text": "<a href=\"##TIL\">#TIL</a> 睡前好奇去问了问 chatgpt，原来电脑的电热转换效率和电暖器是一样高 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>现在家里 homelab 有两台服务器和三台街机机器，在想能不能写一个温控系统把电脑变成电暖器 qwq 室温低的时候就自动打开 folding@home，高了就关掉，电费一样的情况下既能取暖又能给科学研究贡献算力...</span></span>",
-    "views": 77,
+    "views": 78,
     "forwards": 2,
     "reply": {
       "id": 3668,
@@ -63744,7 +63744,7 @@
     "id": 4648,
     "date": "2024-11-14T05:31:41",
     "text": "<a href=\"##谜题\">#谜题</a> 这次是赛博管道维修工（？）\n\n<a href=\"https://www.puzzle-pipes.com/\">Pipes</a>",
-    "views": 75,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 4404,
@@ -63771,7 +63771,7 @@
     "id": 4649,
     "date": "2024-11-14T18:52:26",
     "text": "穿模飞出去看看房间有多乱（？）",
-    "views": 65,
+    "views": 72,
     "forwards": 1,
     "images": [
       {
@@ -63790,7 +63790,7 @@
     "id": 4650,
     "date": "2024-11-15T02:13:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n用同样的方法和同样的肉炒了卷心菜和小油菜，感觉还是卷心菜更好吃一点 quq\n\n以后不买小油菜了。<del>只有小孩子才挑食，大人不买就好了</del>",
-    "views": 51,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 38,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -63821,6 +63821,36 @@
         "url": "media/4651.jpg",
         "size": 81217,
         "thumb": "media/4651.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4652,
+    "date": "2024-11-15T08:50:17",
+    "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
+    "views": 45,
+    "forwards": 0,
+    "media_group_id": 13853284941485317,
+    "images": [
+      {
+        "width": 625,
+        "height": 632,
+        "date": "2024-11-15T08:50:17",
+        "media_type": "photo",
+        "original_name": "photo_2024-11-15_08-50-17.jpg",
+        "url": "media/4652.jpg",
+        "size": 65293,
+        "thumb": "media/4652.jpg_thumb.jpg"
+      },
+      {
+        "width": 890,
+        "height": 646,
+        "date": "2024-11-15T08:50:17",
+        "media_type": "photo",
+        "original_name": "photo_2024-11-15_08-50-17.jpg",
+        "url": "media/4653.jpg",
+        "size": 54072,
+        "thumb": "media/4653.jpg_thumb.jpg"
       }
     ]
   }
