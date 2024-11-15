@@ -61869,7 +61869,7 @@
     "id": 4512,
     "date": "2024-10-07T08:38:23",
     "text": "哇 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\nWarp Terminal 有开源平替了，是 <a href=\"https://www.waveterm.dev/\">Wave</a>\n\n内置 LLM 耶，而且还可以用自搭的 LLM",
-    "views": 135,
+    "views": 136,
     "forwards": 2,
     "images": [
       {
@@ -63771,7 +63771,7 @@
     "id": 4649,
     "date": "2024-11-14T18:52:26",
     "text": "穿模飞出去看看房间有多乱（？）",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "images": [
       {
@@ -63790,7 +63790,7 @@
     "id": 4650,
     "date": "2024-11-15T02:13:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n用同样的方法和同样的肉炒了卷心菜和小油菜，感觉还是卷心菜更好吃一点 quq\n\n以后不买小油菜了。<del>只有小孩子才挑食，大人不买就好了</del>",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "images": [
       {
@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "images": [
       {
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 50,
+    "views": 52,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
