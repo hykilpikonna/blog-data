@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-11-15T06:12:39.184463+00:00</updated>
+  <updated>2024-11-15T08:11:26.162278+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4651</id>
+    <title>小桂桂的回忆录 📒 #4651</title>
+    <updated>2024-11-15T06:14:44+00:00</updated>
+    <content>&lt;p&gt;！！发现一个很有趣的东西，叫做 OSC52&lt;/p&gt;
+&lt;p&gt;简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！&lt;/p&gt;
+&lt;p&gt;查了一下发现支持 OSC52 的终端不多，但是我 &lt;i class="custom-emoji" emoji-src="emoji/6325651030667167615.tgs"&gt;💻&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/6328099527098107065.tgs"&gt;💻&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/6325822193703847716.tgs"&gt;🍎&lt;/i&gt; 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 &lt;a href="##Linux"&gt;#Linux&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4651" rel="alternate"/>
+  </entry>
   <entry>
     <id>4650</id>
     <title>小桂桂的回忆录 📒 #4650</title>
