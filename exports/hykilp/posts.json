@@ -694,7 +694,7 @@
     "id": 60,
     "date": "2021-09-18T02:22:59",
     "text": "本来打算和 rf 骑车去 Tommy Thompson Park 看日落，骑到一半骑不动了... 和他换了车，他发现他也骑不动我的车，捏了一下说是没气了，就调头去他家打气，然后：\n\n- 骑过来超级超级累肯定不能这样骑回去。\n- 公交只能硬币或者卡，忘带卡只带了现金。\n- 骑到一个加油站，想请他一瓶水，然后我没仔细想就买了花茶！茶！结果他说晚上九点了喝茶睡不着就没要...\n- 上公交车，买票的触屏坏了，去另一台机器买票的时候车倒下来划伤了手，还把衣服弄得特别脏...\n- 进地铁站，下楼没有电梯，搬下去的时候拨到了调档。\n- 进地铁，推车太慢了被门挤了一下，人生第一次被地铁门挤（\n- 还记得刚才拨到调档了嘛？调档导致出地铁的时候倒车倒不动，还好我反应快赶紧转过来走了，但是又被门挤一下（\n- 到他家，他帮忙打气看到之前的气压真的是 0...\n- 我帮他一起装自行车架子，但是地上特别脏，虽然坐在垫的塑料袋上但是还是弄脏了衣服\n- 坐的时候不知道是姿势问题还是什么问题就突然两只脚同时抽筋\n- 太难装了，装了半个小时放弃啦\n\n本来应该是一个快乐的即兴旅行，看看这变成什么了（x",
-    "views": 66,
+    "views": 67,
     "forwards": 1
   },
   {
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
@@ -63567,7 +63567,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63627,7 +63627,7 @@
     "id": 4640,
     "date": "2024-11-09T13:27:23",
     "text": "讲真，搭好 typst 环境比 latex 容易太多了，无论本地还是在线都是\n\n（翻邮件看到今天有人回我 2022 年开的 issue 似乎是遇到了同样的问题没办法搭好 overleaf 的开发环境，这还是他们重构之后的，唉有些代码库真的永远不会变",
-    "views": 109,
+    "views": 114,
     "forwards": 0,
     "images": [
       {
@@ -63646,14 +63646,14 @@
     "id": 4641,
     "date": "2024-11-09T13:37:22",
     "text": "感冒了，但是因为有作业 overdue 被迫通宵... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 113,
+    "views": 120,
     "forwards": 0
   },
   {
     "id": 4642,
     "date": "2024-11-11T00:39:52",
     "text": "每月去 JLC 白嫖打一套板子 (1/2)",
-    "views": 97,
+    "views": 102,
     "forwards": 0,
     "images": [
       {
@@ -63672,14 +63672,14 @@
     "id": 4643,
     "date": "2024-11-11T01:36:15",
     "text": "呜呜 昨天和 syama 例常打 facetime 电话，然后今天被派出所找上门了... 不知道是怎么检测的，可能需要抓包把 facetime 域名加到代理规则里",
-    "views": 108,
+    "views": 112,
     "forwards": 3
   },
   {
     "id": 4645,
     "date": "2024-11-11T20:20:14",
     "text": "支持一下 typst\n\n<del>为什么 Overleaf $8/mo 就觉得好贵还是自搭吧，typst $8/mo 反而觉得很情愿，明明都是开源软件</del> 可能是因为 typst 这边真的在 actively 加新功能",
-    "views": 90,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 4640,
@@ -63702,7 +63702,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 118,
+    "views": 120,
     "forwards": 1,
     "images": [
       {
@@ -63721,7 +63721,7 @@
     "id": 4647,
     "date": "2024-11-13T09:43:04",
     "text": "<a href=\"##TIL\">#TIL</a> 睡前好奇去问了问 chatgpt，原来电脑的电热转换效率和电暖器是一样高 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>现在家里 homelab 有两台服务器和三台街机机器，在想能不能写一个温控系统把电脑变成电暖器 qwq 室温低的时候就自动打开 folding@home，高了就关掉，电费一样的情况下既能取暖又能给科学研究贡献算力...</span></span>",
-    "views": 80,
+    "views": 82,
     "forwards": 2,
     "reply": {
       "id": 3668,
@@ -63744,7 +63744,7 @@
     "id": 4648,
     "date": "2024-11-14T05:31:41",
     "text": "<a href=\"##谜题\">#谜题</a> 这次是赛博管道维修工（？）\n\n<a href=\"https://www.puzzle-pipes.com/\">Pipes</a>",
-    "views": 79,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 4404,
@@ -63771,7 +63771,7 @@
     "id": 4649,
     "date": "2024-11-14T18:52:26",
     "text": "穿模飞出去看看房间有多乱（？）",
-    "views": 79,
+    "views": 81,
     "forwards": 1,
     "images": [
       {
@@ -63790,7 +63790,7 @@
     "id": 4650,
     "date": "2024-11-15T02:13:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n用同样的方法和同样的肉炒了卷心菜和小油菜，感觉还是卷心菜更好吃一点 quq\n\n以后不买小油菜了。<del>只有小孩子才挑食，大人不买就好了</del>",
-    "views": 75,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 76,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 75,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
@@ -63858,7 +63858,7 @@
     "id": 4654,
     "date": "2024-11-16T02:53:45",
     "text": "豆腐可爱喵",
-    "views": 48,
+    "views": 65,
     "forwards": 0,
     "images": [
       {
@@ -63877,7 +63877,7 @@
     "id": 4655,
     "date": "2024-11-16T08:00:14",
     "text": "有时候就觉得 Github 星星数量挺迷惑的\n\n居然 oh my zsh 星星数量在第 17，明明 zsh 用户量和 bash 和 powershell 比起来都没有多少... 而且居然 .gitignore 模板仓库和 vscode 在差不多的位置 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 16,
+    "views": 46,
     "forwards": 0,
     "media_group_id": 13853952119728341,
     "images": [
@@ -63900,6 +63900,25 @@
         "url": "media/4656.jpg",
         "size": 23039,
         "thumb": "media/4656.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4657,
+    "date": "2024-11-16T09:07:27",
+    "text": "GitHub 星星数量排名前 10000 的代码语言统计数据\n\n排名第三位的是「没有代码」 🌚 <del>众所周知 GitHub 是一个由微软开发的免费网盘</del>",
+    "views": 44,
+    "forwards": 2,
+    "images": [
+      {
+        "width": 462,
+        "height": 752,
+        "date": "2024-11-16T09:07:27",
+        "media_type": "photo",
+        "original_name": "photo_2024-11-16_09-07-27.jpg",
+        "url": "media/4657.jpg",
+        "size": 36048,
+        "thumb": "media/4657.jpg_thumb.jpg"
       }
     ]
   }
