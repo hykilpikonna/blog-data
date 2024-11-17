@@ -47608,7 +47608,7 @@
     "id": 3490,
     "date": "2024-03-18T13:22:59",
     "text": "踩了一个很 🤯 的 Kotlin 反射坑...\n\n刚刚尝试反射找一个 <code>@Annotation</code> 的时候发现怎样找都找不到，debug 好久之后查查才发现，原来这一个 var 编译成字节码之后即是 property 又是 field 又是 getter 又是 setter 又是 constructor parameter，这五个地方都有可能加 <code>@Annotation</code>，所以它默认加到 param 上了 🤯",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13686145436962309,
     "images": [
@@ -48317,7 +48317,7 @@
     "id": 3542,
     "date": "2024-04-01T03:32:07",
     "text": "又去当猫猫了 qwq",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "media_group_id": 13695538616576757,
     "images": [
@@ -48357,7 +48357,7 @@
     "id": 3545,
     "date": "2024-04-01T08:37:21",
     "text": "奶子在和我说愚人节快乐 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "images": [
       {
@@ -48376,7 +48376,7 @@
     "id": 3546,
     "date": "2024-04-02T00:52:45",
     "text": "聊聊：（看朋友圈）呜呜 我高中同学已经读完博了，我怎么这么废\n我：你看我就没有这样的问题，我高中没有朋友 <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0
   },
   {
@@ -48462,7 +48462,7 @@
     "id": 3552,
     "date": "2024-04-04T01:47:36",
     "text": "花了 $150 买了一张二手  1660 super，帧率问题修好了之后马上就会打了 qwq\n\n30fps 果然玩不了音游",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "media_group_id": 13697562055647517,
     "images": [
@@ -48506,7 +48506,7 @@
     "id": 3555,
     "date": "2024-04-04T06:21:15",
     "text": "回レ回レ回レ回レ回レ回レ回レ回レ回レ！",
-    "views": 127,
+    "views": 128,
     "forwards": 2,
     "files": [
       {
@@ -48529,7 +48529,7 @@
     "id": 3556,
     "date": "2024-04-05T04:38:31",
     "text": "花了一整天剪辑了一下加入了搭机器的过程，发了一个视频 qwq\n\n剪视频好累... 剪中间那一段三十秒的 montage 花了我四个小时呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i> \n\n这里是链接：<a href=\"https://www.bilibili.com/video/BV14q421P75y\">Bilibili</a> | <a href=\"https://youtu.be/BRELSBJqWQM\">YouTube</a>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 3555,
@@ -48564,7 +48564,7 @@
     "id": 3558,
     "date": "2024-04-06T19:29:40",
     "text": "整理下房间把这两台放在一起，感觉有一种异曲同工的妙（？）",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "images": [
       {
@@ -48583,7 +48583,7 @@
     "id": 3559,
     "date": "2024-04-06T23:57:37",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n三明治！融化的奶酪真是好文明 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 13699582861113037,
     "images": [
@@ -48613,7 +48613,7 @@
     "id": 3561,
     "date": "2024-04-07T06:27:43",
     "text": "长出根了，一盆新的绿萝诞生了！（但是新的绿萝同时也是旧的 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13699770106005029,
     "images": [
@@ -48648,7 +48648,7 @@
     "id": 3563,
     "date": "2024-04-07T07:57:55",
     "text": "土豆草莓（？）",
-    "views": 133,
+    "views": 134,
     "forwards": 1,
     "images": [
       {
@@ -48667,14 +48667,14 @@
     "id": 3564,
     "date": "2024-04-07T22:17:54",
     "text": "哭了 感觉可能是填报税用的某个网站被黑了。\n\n报完税这两天突然有好多诈骗电话打进来用我的 legal name 诈骗，今天有一个假装是 Telus 运营商的人中文跟我说我发太多短信了要给我停机（？？）而且因为我和聊聊是一起报的税，同一个诈骗号码给我和聊聊都打了电话。\n\n我填过信息的报税网站有 TurboTax (US/CA), WealthSimple, OLT, Sprintax, 不知道是哪个被黑了（应该是加拿大这边的所以我猜是 TurboTax",
-    "views": 101,
+    "views": 102,
     "forwards": 0
   },
   {
     "id": 3565,
     "date": "2024-04-08T07:08:48",
     "text": "哭哭 今天 OS 课作业要写一个分布式内存 KV 数据库，写完发现本地跑测试会超时... 我以为是我写的代码优化太差了花一个小时用 VTune 测速，发现除了内存没有别的地方瓶颈，CPU 使用率只有 0.1%\n\n连上学校机器上跑一下同样的代码果然比在我本地的机器快了五倍... 唉 DDR3 在 2024 年真的不行了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 2,
     "images": [
       {
@@ -48693,14 +48693,14 @@
     "id": 3566,
     "date": "2024-04-08T14:34:26",
     "text": "出发去看日食了 qwq",
-    "views": 110,
+    "views": 111,
     "forwards": 0
   },
   {
     "id": 3567,
     "date": "2024-04-08T19:12:21",
     "text": "是一个用手机对着太阳拍的傻瓜",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "files": [
       {
@@ -48722,7 +48722,7 @@
     "id": 3568,
     "date": "2024-04-08T19:33:19",
     "text": "好看！",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 13700838399361029,
     "images": [
@@ -48752,7 +48752,7 @@
     "id": 3570,
     "date": "2024-04-08T19:56:45",
     "text": "和前任和现任和前任的现任一起去了！好热闹好开心",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 13700849643192773,
     "images": [
@@ -63926,7 +63926,7 @@
     "id": 4658,
     "date": "2024-11-17T05:43:42",
     "text": "有生之年 Discord 宕了",
-    "views": 51,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
