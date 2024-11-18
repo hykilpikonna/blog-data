@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
@@ -63702,7 +63702,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 148,
+    "views": 149,
     "forwards": 1,
     "images": [
       {
@@ -63771,7 +63771,7 @@
     "id": 4649,
     "date": "2024-11-14T18:52:26",
     "text": "穿模飞出去看看房间有多乱（？）",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "images": [
       {
@@ -63790,7 +63790,7 @@
     "id": 4650,
     "date": "2024-11-15T02:13:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n用同样的方法和同样的肉炒了卷心菜和小油菜，感觉还是卷心菜更好吃一点 quq\n\n以后不买小油菜了。<del>只有小孩子才挑食，大人不买就好了</del>",
-    "views": 93,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 95,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 90,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
@@ -63926,7 +63926,7 @@
     "id": 4658,
     "date": "2024-11-17T05:43:42",
     "text": "有生之年 Discord 宕了",
-    "views": 71,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -63945,7 +63945,7 @@
     "id": 4659,
     "date": "2024-11-18T04:45:51",
     "text": "今天想要找到现在 AI 画图的 SOTA 的时候发现了一个奇妙网站 <a href=\"https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard\">Text to Image Leaderboard</a>，用来收集不同模型的对比数据\n\n但是因为不太相信大众审美，所以我花时间自己做了 900 次对比，得出了一个自己的审美排行榜，FLUX 1 Pro 在第一位\n\n对比过程中还发现 DALL-E 的图辨识度真的很高，每次都是一眼就能看出是 DALL-E 生成的，其他模型都不太能... 可能也是因为这个原因 DALL-E 生成的结果很让人审美疲劳，在我的审美排行中只拿了 43%\n\n有点想试试训练一个分类模型看看每个生成模型的输出的辨识度 quq（不过说好了不开坑了",
-    "views": 62,
+    "views": 67,
     "forwards": 2,
     "media_group_id": 13855241208528253,
     "images": [
@@ -63975,7 +63975,7 @@
     "id": 4661,
     "date": "2024-11-18T04:58:09",
     "text": "（前情提要：syama 想让 gpt4o 画一张我和她和瑞希躺在床上的样子，但是输出结果一直被 OpenAI 的内容政策拦截，所以我把 prompt 拿给 FLUX 1.1 Pro Ultra 画了\n\n感觉 OpenAI 对图片生成的内容拦截是不是太严了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 62,
+    "views": 69,
     "forwards": 1,
     "reply": {
       "id": 4659,
@@ -63999,7 +63999,7 @@
     "id": 4662,
     "date": "2024-11-18T07:04:50",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n看到某频道里面发了 Flamingo 突然想到这首歌 qwq\n\n♪ Black, white, green or blue\n♪ show off your natural hue\n♪ Flamingo oh oh oh woah\n♪ If you're multicoloured that’s cool too\n♪ You don’t need to change\n♪ It’s boring being the same\n♪ Flamingo oh oh oh woah\n♪ You’re pretty either way",
-    "views": 49,
+    "views": 59,
     "forwards": 0,
     "files": [
       {
@@ -64021,7 +64021,7 @@
     "id": 4663,
     "date": "2024-11-18T16:00:03",
     "text": "<a href=\"##ADHD\">#ADHD</a> 犯蠢 1/1",
-    "views": 29,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
@@ -64033,6 +64033,32 @@
         "url": "media/4663.jpg",
         "size": 116985,
         "thumb": "media/4663.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4664,
+    "date": "2024-11-18T17:10:54",
+    "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n第一次听到 Flamingo 这首歌其实是四五年前在 osu 里面打了这个 WTN3 的 remix，也好好听 qwq",
+    "views": 27,
+    "forwards": 0,
+    "reply": {
+      "id": 4662,
+      "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n看到某频道里面发了 Flamingo 突然想到这首歌 qwq\n\n♪ Black, white, green or blue\n♪ show off your natural hue\n♪ Flamingo oh oh oh woah\n♪ If you're multicoloured that’s cool too\n♪ You don’t need to change\n♪ It’s boring being the same\n♪ Flamingo oh oh oh woah\n♪ You’re pretty either way"
+    },
+    "files": [
+      {
+        "duration": 200,
+        "performer": "Kero Kero Bonito/WTN3",
+        "title": "Flamingo (WTN3 Remix)",
+        "file_name": "Kero Kero Bonito,WTN3 - Flamingo (WTN3 Remix).mp3",
+        "mime_type": "audio/mpeg",
+        "date": "2024-11-18T17:10:54",
+        "media_type": "audio_file",
+        "original_name": "Kero Kero Bonito,WTN3 - Flamingo (WTN3 Remix).mp3",
+        "url": "media/4664.mp3",
+        "size": 8256373,
+        "thumb": "media/4664.mp3_thumb.jpg"
       }
     ]
   }
