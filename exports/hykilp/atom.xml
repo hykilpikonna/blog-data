@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-11-18T04:12:48.735397+00:00</updated>
+  <updated>2024-11-18T06:12:29.679176+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4661</id>
+    <title>小桂桂的回忆录 📒 #4661</title>
+    <updated>2024-11-18T04:58:09+00:00</updated>
+    <content>&lt;p&gt;（前情提要：syama 想让 gpt4o 画一张我和她和瑞希躺在床上的样子，但是输出结果一直被 OpenAI 的内容政策拦截，所以我把 prompt 拿给 FLUX 1.1 Pro Ultra 画了&lt;/p&gt;
+&lt;p&gt;感觉 OpenAI 对图片生成的内容拦截是不是太严了 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4661" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4659</id>
+    <title>小桂桂的回忆录 📒 #4659</title>
+    <updated>2024-11-18T04:45:51+00:00</updated>
+    <content>&lt;p&gt;今天想要找到现在 AI 画图的 SOTA 的时候发现了一个奇妙网站 &lt;a href="https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard"&gt;Text to Image Leaderboard&lt;/a&gt;，用来收集不同模型的对比数据&lt;/p&gt;
+&lt;p&gt;但是因为不太相信大众审美，所以我花时间自己做了 900 次对比，得出了一个自己的审美排行榜，FLUX 1 Pro 在第一位&lt;/p&gt;
+&lt;p&gt;对比过程中还发现 DALL-E 的图辨识度真的很高，每次都是一眼就能看出是 DALL-E 生成的，其他模型都不太能... 可能也是因为这个原因 DALL-E 生成的结果很让人审美疲劳，在我的审美排行中只拿了 43%&lt;/p&gt;
+&lt;p&gt;有点想试试训练一个分类模型看看每个生成模型的输出的辨识度 quq（不过说好了不开坑了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4659" rel="alternate"/>
+  </entry>
   <entry>
     <id>4658</id>
     <title>小桂桂的回忆录 📒 #4658</title>
