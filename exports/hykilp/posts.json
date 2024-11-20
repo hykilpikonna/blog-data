@@ -46686,7 +46686,7 @@
     "id": 3429,
     "date": "2024-03-02T17:45:20",
     "text": "<a href=\"##ADHD\">#ADHD</a>\n开到了 ADHD 的药！<span class=\"spoiler\"><span>开药总共花了 336 天</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
@@ -46705,7 +46705,7 @@
     "id": 3430,
     "date": "2024-03-03T06:37:45",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> v1.0.0 的第一个公测版本署上线了！\n\n（虽然想要实现的功能还很不全但是这也是一个里程碑了 quq <del>感觉第一个部署上线是一个可以开香槟的事情</del>，今后还会加入越来越多的功能哦\n\n（原本打算至少实现了数据迁移再上线的但是想想还是现在上线啦，好的软件总是需要用户反馈才能快速进步的，所以先把这个版本部署了！",
-    "views": 95,
+    "views": 97,
     "forwards": 2,
     "media_group_id": 13675582924784845,
     "images": [
@@ -46765,7 +46765,7 @@
     "id": 3435,
     "date": "2024-03-04T04:45:58",
     "text": "太幸运了，今天期末考试时间公布，发现 Apr 10-30 随机时间的考试居然只有一门课和 ICASSP 冲突，那这样的话只要 defer 这一门课就好啦 qwq\n\n...不过这样就不能顺路去日本旅游了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i> 嘛下次有机会再去吧",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "reply": {
       "id": 3261,
@@ -64134,7 +64134,7 @@
     "id": 4669,
     "date": "2024-11-20T14:43:04",
     "text": "今天是第 25 个跨性别纪念日。由 One Among Us、Project Trans 及跨性别相关放送联合举办的纪念晚会将于2024年11月23日 20:00 (UTC+8) 举行，以文字、念白与歌声献给陨落的星辰，献给所有柔软而坚韧的我们。\n\n收看方式： <a href=\"YouTube.com/@OneAmongUsPride\">YouTube.com/@OneAmongUsPride</a> 或访问 <a href=\"live.oau.app\">live.oau.app</a> 获取更多直播信息。",
-    "views": 27,
+    "views": 29,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -64156,7 +64156,7 @@
     "id": 4670,
     "date": "2024-11-20T15:44:45",
     "text": "呜呜 当时写 AquaDX 的时候选择了「先用最方便快捷的方式把网页做出来，等有问题的时候再优化」，然后就随手写出了一个请求需要把数据库两个表完整拉下来的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n然后现在真的有问题了，现在请求一次排行榜要拉 1452 个用户和 221448 条游玩记录... 优化之前要整整 30 秒，稍微加了缓存和 batching 优化了一下也依然要十秒 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 31,
+    "views": 33,
     "forwards": 0,
     "reply": {
       "id": 3430,
