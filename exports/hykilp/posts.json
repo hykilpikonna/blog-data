@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 152,
+    "views": 153,
     "forwards": 5,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63877,7 +63877,7 @@
     "id": 4655,
     "date": "2024-11-16T08:00:14",
     "text": "有时候就觉得 Github 星星数量挺迷惑的\n\n居然 oh my zsh 星星数量在第 17，明明 zsh 用户量和 bash 和 powershell 比起来都没有多少... 而且居然 .gitignore 模板仓库和 vscode 在差不多的位置 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 1,
     "media_group_id": 13853952119728341,
     "images": [
@@ -64115,7 +64115,7 @@
     "id": 4668,
     "date": "2024-11-20T10:07:34",
     "text": "鬼故事 整理聊聊的工作桌发现热熔胶枪一直开着... 它可能已经 100W 烧了三个月了，现在喷头已经堵住挤不出来了",
-    "views": 44,
+    "views": 47,
     "forwards": 1,
     "images": [
       {
