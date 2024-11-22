@@ -48540,7 +48540,7 @@
     "id": 3557,
     "date": "2024-04-06T11:39:09",
     "text": "试试让 DALL-E 把蓝粉星夜的这个想法画出来结果真的画得好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 287,
+    "views": 288,
     "forwards": 9,
     "reply": {
       "id": 2671,
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 110,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
@@ -64040,7 +64040,7 @@
     "id": 4664,
     "date": "2024-11-18T17:10:54",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n第一次听到 Flamingo 这首歌其实是四五年前在 osu 里面打了这个 WTN3 的 remix，也好好听 qwq",
-    "views": 85,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 4662,
@@ -64066,7 +64066,7 @@
     "id": 4665,
     "date": "2024-11-19T06:57:00",
     "text": "感觉自己开始会玩一点 shogi 了 ☗",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "images": [
       {
@@ -64085,7 +64085,7 @@
     "id": 4666,
     "date": "2024-11-19T15:00:43",
     "text": "<a href=\"##桌游\">#桌游</a> 今天聊聊说想早上七点起来看国足，我看时间已经不早了当然是选择了通宵 qwq\n\n和聊聊玩 shogi 完胜，然后聊聊觉得我在欺负不会玩的人（确实有点）所以就改成了玩她喜欢的桌游 Through the Ages，大概是一个《文明》系的桌游\n\n我是第一次玩所以花了半个小时看教程（不得不说教程对话写得真的很幽默）刚开始资源也没有平衡好，玩到 I 时代的时候拿太多降价升级卡了导致矿物花不掉、研究点产出又不足，很多科技都屯在手上没打出来... 以及很多回合都因为思考太久严重超时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n到最后一回合的时候原本觉得要输了，文化点数差了整整 31，但是也在历史事件里埋好了最好的准备... 结果结算之后居然赢了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 结算过程反超了 38 点，奇妙",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13856227549052269,
     "images": [
@@ -64134,7 +64134,7 @@
     "id": 4669,
     "date": "2024-11-20T14:43:04",
     "text": "今天是第 25 个跨性别纪念日。由 One Among Us、Project Trans 及跨性别相关放送联合举办的纪念晚会将于2024年11月23日 20:00 (UTC+8) 举行，以文字、念白与歌声献给陨落的星辰，献给所有柔软而坚韧的我们。\n\n收看方式： <a href=\"YouTube.com/@OneAmongUsPride\">YouTube.com/@OneAmongUsPride</a> 或访问 <a href=\"live.oau.app\">live.oau.app</a> 获取更多直播信息。",
-    "views": 45,
+    "views": 46,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -64256,14 +64256,14 @@
     "id": 4675,
     "date": "2024-11-21T20:30:46",
     "text": "syama 这两天在找苏州的合租，有兴趣的话请去联系 <a href=\"https://t.me/akiyamaXmizuki\">@akiyamaXmizuki</a>\n\n（帮忙打下广告 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 146,
+    "views": 156,
     "forwards": 2
   },
   {
     "id": 4676,
     "date": "2024-11-22T04:23:54",
     "text": "高情商：my email will be encrypted\n低情商：即使对等 AES 密钥是微软服务器下发的，但是我们用 AES 加密过哦！\n\n...感觉现在很多服务的“加密”都是做给不懂计算机但是有 privacy obsession 的人看的，实际上并没有真的安全\n\n就比如这个邮件的 RMS 加密，有没有加密实际上 attack vector 都并没有变。对中间人来说，因为客户端和邮件服务器之间有 TLS，即使没有 RMS 也没办法看到内容。如果任何一方被盗了号或者盗了饼干或者电脑中了后门，攻击者无论有没有 RMS 都能看到内容。如果微软服务器被黑了，也一样无论有没有 RMS 都能看到内容，因为加密密钥存在服务器上... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 唉，真的什么都没有解决呢\n\n<del>感觉懂安全的人在这个时代已经摆烂了，想绝对安全也不太可能呢，鬼知道还有多少 Jia Tan 在我的电脑上留着后门</del>",
-    "views": 35,
+    "views": 44,
     "forwards": 1,
     "media_group_id": 13857995477375541,
     "images": [
