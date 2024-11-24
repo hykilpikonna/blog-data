@@ -64156,7 +64156,7 @@
     "id": 4670,
     "date": "2024-11-20T15:44:45",
     "text": "呜呜 当时写 AquaDX 的时候选择了「先用最方便快捷的方式把网页做出来，等有问题的时候再优化」，然后就随手写出了一个请求需要把数据库两个表完整拉下来的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n然后现在真的有问题了，现在请求一次排行榜要拉 1452 个用户和 221448 条游玩记录... 优化之前要整整 30 秒，稍微加了缓存和 batching 优化了一下也依然要十秒 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 75,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 3430,
@@ -64180,7 +64180,7 @@
     "id": 4671,
     "date": "2024-11-21T03:25:16",
     "text": "今天花了一整天调查这个数据库问题， Hibernate 全责 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 以后的项目再也不用 Java EE 了\n\n我试了一下把这整个函数用 native mysql 写出来，发现这条大查询只用 1.19 秒，那为什么我的 kotlin 代码运行速度差这么大呢？\n\n开了 SQL debug 之后我发现即使只是 .findAll() 都要 N 条查询，按理来说 select * from table 只要一条查询就行啊，为什么呢？仔细看看这 N 条查询发现它把 OneToOne fk 都一个一个拉下来了。原本首先花了一条查询 SELECT * FROM parent，然后又花了 N 条查询拉 SELECT * FROM child WHERE id=i...\n\n查了一下这个问题，网上说开 Hibernate bytecode enhance 就好了，它会修改编译完的字节码让 fk 链接用到的时候再查询而不是预先把所有东西查询好。问题是它不太兼容 kotlin，绕过了三个不同的问题才成功编译，之后加上 lazy fetch 终于可以让它在用到 fk 的时候再拉数据了... \n\n但是即使这样依然要把需要拉所有 fk 数据的地方改成手动 mysql 查询，因为 orm/jpql 没办法让 findAll 把单独的查询优化成 join <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n唉 感觉凡是透明一点的 ORM 比如 ktorm 或者 exposed 都不会有这样的问题，以后不会再用 Java EE 了",
-    "views": 77,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13857276129125749,
     "images": [
@@ -64373,7 +64373,7 @@
     "id": 4682,
     "date": "2024-11-23T01:14:05",
     "text": "时隔一年半的后续：今天 Zotero 告诉我说之前遇到的这篇造假的论文被 retract 了，可喜可贺\n\n看到 Retract notice 里面指出了一个 \"Paper Mill: A business that creates and sells research papers where the buyer(s) claim authorship; the business is generally unacknowledged as a contributor.\" ...居然这个世界上还有这种业务存在，好可怕。",
-    "views": 63,
+    "views": 66,
     "forwards": 1,
     "reply": {
       "id": 2202,
@@ -64389,6 +64389,25 @@
         "url": "media/4682.jpg",
         "size": 166691,
         "thumb": "media/4682.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4683,
+    "date": "2024-11-24T05:52:34",
+    "text": "唉 这就是 AI hype 的 nonsense 吗\n\n<a href=\"https://arxiv.org/abs/2308.09597\">ChatHaruhi</a> 这篇没写完的论文，结果评估都没有，居然就发 preprint 了，居然已经有 15 citation 了...  <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n非常可惜我也会给它贡献一个 citation",
+    "views": 22,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 534,
+        "height": 244,
+        "date": "2024-11-24T05:52:34",
+        "media_type": "photo",
+        "original_name": "photo_2024-11-24_05-52-34.jpg",
+        "url": "media/4683.jpg",
+        "size": 28671,
+        "thumb": "media/4683.jpg_thumb.jpg"
       }
     ]
   }
