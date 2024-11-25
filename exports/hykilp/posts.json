@@ -45115,7 +45115,8 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480
+        "size": 39480,
+        "thumb": "media/3328.webm_thumb.jpg"
       }
     ]
   },
@@ -64179,7 +64180,7 @@
     "id": 4671,
     "date": "2024-11-21T03:25:16",
     "text": "今天花了一整天调查这个数据库问题， Hibernate 全责 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 以后的项目再也不用 Java EE 了\n\n我试了一下把这整个函数用 native mysql 写出来，发现这条大查询只用 1.19 秒，那为什么我的 kotlin 代码运行速度差这么大呢？\n\n开了 SQL debug 之后我发现即使只是 .findAll() 都要 N 条查询，按理来说 select * from table 只要一条查询就行啊，为什么呢？仔细看看这 N 条查询发现它把 OneToOne fk 都一个一个拉下来了。原本首先花了一条查询 SELECT * FROM parent，然后又花了 N 条查询拉 SELECT * FROM child WHERE id=i...\n\n查了一下这个问题，网上说开 Hibernate bytecode enhance 就好了，它会修改编译完的字节码让 fk 链接用到的时候再查询而不是预先把所有东西查询好。问题是它不太兼容 kotlin，绕过了三个不同的问题才成功编译，之后加上 lazy fetch 终于可以让它在用到 fk 的时候再拉数据了... \n\n但是即使这样依然要把需要拉所有 fk 数据的地方改成手动 mysql 查询，因为 orm/jpql 没办法让 findAll 把单独的查询优化成 join <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n唉 感觉凡是透明一点的 ORM 比如 ktorm 或者 exposed 都不会有这样的问题，以后不会再用 Java EE 了",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 13857276129125749,
     "images": [
@@ -64213,7 +64214,7 @@
     "id": 4673,
     "date": "2024-11-21T15:30:32",
     "text": "蜂蜜太久没用变成糖块了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 99,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -64232,7 +64233,7 @@
     "id": 4674,
     "date": "2024-11-21T17:55:52",
     "text": "用原生 mysql 重写了整个查询之后获取排行榜从 30s 降到 4s 了！\n\n<del>果然什么优化都没有 RIIR 最方便</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 91,
+    "views": 94,
     "forwards": 0,
     "reply": {
       "id": 4670,
@@ -64255,7 +64256,7 @@
     "id": 4675,
     "date": "2024-11-21T20:30:46",
     "text": "syama 这两天在找苏州的合租，有兴趣的话请去联系 <a href=\"https://t.me/akiyamaXmizuki\">@akiyamaXmizuki</a>\n\n（帮忙打下广告 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 187,
+    "views": 189,
     "forwards": 2
   },
   {
@@ -64292,7 +64293,7 @@
     "id": 4678,
     "date": "2024-11-22T09:48:28",
     "text": "真的觉得应该停一停了，感觉每隔一段时间就能看到一篇标题是 \"{} is all you need\" 的论文... 不是所有东西都应该是 all you need 好吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 2,
     "images": [
       {
@@ -64311,7 +64312,7 @@
     "id": 4679,
     "date": "2024-11-22T15:37:39",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6327782811914733923.webp\">🥳</i>",
-    "views": 116,
+    "views": 117,
     "forwards": 1,
     "images": [
       {
@@ -64395,7 +64396,7 @@
     "id": 4683,
     "date": "2024-11-24T05:52:34",
     "text": "唉 这就是 AI hype 的 nonsense 吗\n\n<a href=\"https://arxiv.org/abs/2308.09597\">ChatHaruhi</a> 这篇没写完的论文，结果评估都没有，居然就发 preprint 了，居然已经有 15 citation 了...  <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n非常可惜我也会给它贡献一个 citation",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -64414,21 +64415,21 @@
     "id": 4684,
     "date": "2024-11-24T18:20:20",
     "text": "想吃烤聊天气泡 🔥💬",
-    "views": 63,
+    "views": 65,
     "forwards": 0
   },
   {
     "id": 4685,
     "date": "2024-11-25T09:54:45",
     "text": "看了一集ダンダダン，真的爱了这个发疯展开，作画也好棒，这是新时代的 FLCL 吗",
-    "views": 44,
+    "views": 50,
     "forwards": 0
   },
   {
     "id": 4686,
     "date": "2024-11-25T15:57:03",
     "text": "谁还记得曾经有段时间给 Minecraft 安装 mod 要手动解压 minecraft.jar，把 class 文件替换掉再删掉 META-INFO <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n（暴露年龄了",
-    "views": 17,
+    "views": 30,
     "forwards": 0
   }
 ]
