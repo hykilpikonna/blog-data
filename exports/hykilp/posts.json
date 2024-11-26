@@ -62907,7 +62907,7 @@
     "id": 4588,
     "date": "2024-10-26T08:03:00",
     "text": "今天重构了一下我两年前给 OAU 写的 <a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> 项目，加入了自动账号池切换和爬消息回复找妈妈的代码，然后写了一个 tg bot <a href=\"https://t.me/AzaBirdBot\">@AzaBirdBot</a> 可以更方便地备份一个人的推特了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n大家如果遇到觉得身边的人可能想要冲动删号的时候可以过来预防性地备份一份 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>\n\n<span class=\"spoiler\"><span>其实开始重构这个项目是因为 syama 和我说想要和人对线但是不会对线，然后我想能不能训练一个网络对线教学机器人，就找书书要了一份她的推特导出hhhh </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i><span class=\"spoiler\"><span> 然后发现导出里面居然回复数据只有自己的内容，没有被回复的推文内容，所以就去重写了这个爬虫 qwq</span></span>",
-    "views": 123,
+    "views": 124,
     "forwards": 2,
     "images": [
       {
@@ -63926,7 +63926,7 @@
     "id": 4658,
     "date": "2024-11-17T05:43:42",
     "text": "有生之年 Discord 宕了",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -63945,7 +63945,7 @@
     "id": 4659,
     "date": "2024-11-18T04:45:51",
     "text": "今天想要找到现在 AI 画图的 SOTA 的时候发现了一个奇妙网站 <a href=\"https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard\">Text to Image Leaderboard</a>，用来收集不同模型的对比数据\n\n但是因为不太相信大众审美，所以我花时间自己做了 900 次对比，得出了一个自己的审美排行榜，FLUX 1 Pro 在第一位\n\n对比过程中还发现 DALL-E 的图辨识度真的很高，每次都是一眼就能看出是 DALL-E 生成的，其他模型都不太能... 可能也是因为这个原因 DALL-E 生成的结果很让人审美疲劳，在我的审美排行中只拿了 43%\n\n有点想试试训练一个分类模型看看每个生成模型的输出的辨识度 quq（不过说好了不开坑了",
-    "views": 108,
+    "views": 109,
     "forwards": 2,
     "media_group_id": 13855241208528253,
     "images": [
@@ -64256,14 +64256,14 @@
     "id": 4675,
     "date": "2024-11-21T20:30:46",
     "text": "syama 这两天在找苏州的合租，有兴趣的话请去联系 <a href=\"https://t.me/akiyamaXmizuki\">@akiyamaXmizuki</a>\n\n（帮忙打下广告 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 194,
+    "views": 197,
     "forwards": 2
   },
   {
     "id": 4676,
     "date": "2024-11-22T04:23:54",
     "text": "高情商：my email will be encrypted\n低情商：即使对等 AES 密钥是微软服务器下发的，但是我们用 AES 加密过哦！\n\n...感觉现在很多服务的“加密”都是做给不懂计算机但是有 privacy obsession 的人看的，实际上并没有真的安全\n\n就比如这个邮件的 RMS 加密，有没有加密实际上 attack vector 都并没有变。对中间人来说，因为客户端和邮件服务器之间有 TLS，即使没有 RMS 也没办法看到内容。如果任何一方被盗了号或者盗了饼干或者电脑中了后门，攻击者无论有没有 RMS 都能看到内容。如果微软服务器被黑了，也一样无论有没有 RMS 都能看到内容，因为加密密钥存在服务器上... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 唉，真的什么都没有解决呢\n\n<del>感觉懂安全的人在这个时代已经摆烂了，想绝对安全也不太可能呢，鬼知道还有多少 Jia Tan 在我的电脑上留着后门</del>",
-    "views": 87,
+    "views": 88,
     "forwards": 2,
     "media_group_id": 13857995477375541,
     "images": [
@@ -64373,7 +64373,7 @@
     "id": 4682,
     "date": "2024-11-23T01:14:05",
     "text": "时隔一年半的后续：今天 Zotero 告诉我说之前遇到的这篇造假的论文被 retract 了，可喜可贺\n\n看到 Retract notice 里面指出了一个 \"Paper Mill: A business that creates and sells research papers where the buyer(s) claim authorship; the business is generally unacknowledged as a contributor.\" ...居然这个世界上还有这种业务存在，好可怕。",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "reply": {
       "id": 2202,
@@ -64415,28 +64415,28 @@
     "id": 4684,
     "date": "2024-11-24T18:20:20",
     "text": "想吃烤聊天气泡 🔥💬",
-    "views": 70,
+    "views": 71,
     "forwards": 0
   },
   {
     "id": 4685,
     "date": "2024-11-25T09:54:45",
     "text": "看了一集ダンダダン，真的爱了这个发疯展开，作画也好棒，这是新时代的 FLCL 吗",
-    "views": 64,
+    "views": 65,
     "forwards": 0
   },
   {
     "id": 4686,
     "date": "2024-11-25T15:57:03",
     "text": "谁还记得曾经有段时间给 Minecraft 安装 mod 要手动解压 minecraft.jar，把 class 文件替换掉再删掉 META-INFO <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n（暴露年龄了",
-    "views": 59,
+    "views": 61,
     "forwards": 0
   },
   {
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 78,
+    "views": 90,
     "forwards": 2,
     "images": [
       {
@@ -64455,7 +64455,7 @@
     "id": 4688,
     "date": "2024-11-26T04:33:29",
     "text": "总是把 MTEB leaderboard 打成 MBTI <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>",
-    "views": 29,
+    "views": 37,
     "forwards": 0,
     "images": [
       {
