@@ -64115,7 +64115,7 @@
     "id": 4668,
     "date": "2024-11-20T10:07:34",
     "text": "鬼故事 整理聊聊的工作桌发现热熔胶枪一直开着... 它可能已经 100W 烧了三个月了，现在喷头已经堵住挤不出来了",
-    "views": 85,
+    "views": 87,
     "forwards": 1,
     "images": [
       {
@@ -64263,7 +64263,7 @@
     "id": 4676,
     "date": "2024-11-22T04:23:54",
     "text": "高情商：my email will be encrypted\n低情商：即使对等 AES 密钥是微软服务器下发的，但是我们用 AES 加密过哦！\n\n...感觉现在很多服务的“加密”都是做给不懂计算机但是有 privacy obsession 的人看的，实际上并没有真的安全\n\n就比如这个邮件的 RMS 加密，有没有加密实际上 attack vector 都并没有变。对中间人来说，因为客户端和邮件服务器之间有 TLS，即使没有 RMS 也没办法看到内容。如果任何一方被盗了号或者盗了饼干或者电脑中了后门，攻击者无论有没有 RMS 都能看到内容。如果微软服务器被黑了，也一样无论有没有 RMS 都能看到内容，因为加密密钥存在服务器上... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 唉，真的什么都没有解决呢\n\n<del>感觉懂安全的人在这个时代已经摆烂了，想绝对安全也不太可能呢，鬼知道还有多少 Jia Tan 在我的电脑上留着后门</del>",
-    "views": 106,
+    "views": 107,
     "forwards": 2,
     "media_group_id": 13857995477375541,
     "images": [
@@ -64373,7 +64373,7 @@
     "id": 4682,
     "date": "2024-11-23T01:14:05",
     "text": "时隔一年半的后续：今天 Zotero 告诉我说之前遇到的这篇造假的论文被 retract 了，可喜可贺\n\n看到 Retract notice 里面指出了一个 \"Paper Mill: A business that creates and sells research papers where the buyer(s) claim authorship; the business is generally unacknowledged as a contributor.\" ...居然这个世界上还有这种业务存在，好可怕。",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "reply": {
       "id": 2202,
@@ -64396,7 +64396,7 @@
     "id": 4683,
     "date": "2024-11-24T05:52:34",
     "text": "唉 这就是 AI hype 的 nonsense 吗\n\n<a href=\"https://arxiv.org/abs/2308.09597\">ChatHaruhi</a> 这篇没写完的论文，结果评估都没有，居然就发 preprint 了，居然已经有 15 citation 了...  <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n非常可惜我也会给它贡献一个 citation",
-    "views": 84,
+    "views": 86,
     "forwards": 0,
     "images": [
       {
@@ -64515,7 +64515,7 @@
     "id": 4691,
     "date": "2024-11-27T01:08:16",
     "text": "sus is coming <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 2,
     "images": [
       {
@@ -64534,14 +64534,14 @@
     "id": 4692,
     "date": "2024-11-27T07:14:59",
     "text": "一直不懂为什么一个电脑插两个鼠标不会出现两个光标 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉是很不合理的设计",
-    "views": 68,
+    "views": 69,
     "forwards": 0
   },
   {
     "id": 4693,
     "date": "2024-11-27T12:51:51",
     "text": "如果你有一个无限的 OpenAI 钱包可以免费调 /v1/completion 的话，你会用它做什么呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<span class=\"spoiler\"><span>如果我说我真的有了类似的东西呢</span></span>",
-    "views": 45,
+    "views": 47,
     "forwards": 0
   }
 ]
