@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -63907,7 +63907,7 @@
     "id": 4657,
     "date": "2024-11-16T09:07:27",
     "text": "GitHub 星星数量排名前 10000 的代码语言统计数据\n\n排名第三位的是「没有代码」 🌚 <del>众所周知 GitHub 是一个由微软开发的免费网盘</del>",
-    "views": 148,
+    "views": 149,
     "forwards": 2,
     "images": [
       {
@@ -63926,7 +63926,7 @@
     "id": 4658,
     "date": "2024-11-17T05:43:42",
     "text": "有生之年 Discord 宕了",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
@@ -63945,7 +63945,7 @@
     "id": 4659,
     "date": "2024-11-18T04:45:51",
     "text": "今天想要找到现在 AI 画图的 SOTA 的时候发现了一个奇妙网站 <a href=\"https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard\">Text to Image Leaderboard</a>，用来收集不同模型的对比数据\n\n但是因为不太相信大众审美，所以我花时间自己做了 900 次对比，得出了一个自己的审美排行榜，FLUX 1 Pro 在第一位\n\n对比过程中还发现 DALL-E 的图辨识度真的很高，每次都是一眼就能看出是 DALL-E 生成的，其他模型都不太能... 可能也是因为这个原因 DALL-E 生成的结果很让人审美疲劳，在我的审美排行中只拿了 43%\n\n有点想试试训练一个分类模型看看每个生成模型的输出的辨识度 quq（不过说好了不开坑了",
-    "views": 113,
+    "views": 114,
     "forwards": 2,
     "media_group_id": 13855241208528253,
     "images": [
@@ -63975,7 +63975,7 @@
     "id": 4661,
     "date": "2024-11-18T04:58:09",
     "text": "（前情提要：syama 想让 gpt4o 画一张我和她和瑞希躺在床上的样子，但是输出结果一直被 OpenAI 的内容政策拦截，所以我把 prompt 拿给 FLUX 1.1 Pro Ultra 画了\n\n感觉 OpenAI 对图片生成的内容拦截是不是太严了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 129,
+    "views": 130,
     "forwards": 1,
     "reply": {
       "id": 4659,
@@ -63999,7 +63999,7 @@
     "id": 4662,
     "date": "2024-11-18T07:04:50",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n看到某频道里面发了 Flamingo 突然想到这首歌 qwq\n\n♪ Black, white, green or blue\n♪ show off your natural hue\n♪ Flamingo oh oh oh woah\n♪ If you're multicoloured that’s cool too\n♪ You don’t need to change\n♪ It’s boring being the same\n♪ Flamingo oh oh oh woah\n♪ You’re pretty either way",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "files": [
       {
@@ -64021,7 +64021,7 @@
     "id": 4663,
     "date": "2024-11-18T16:00:03",
     "text": "<a href=\"##ADHD\">#ADHD</a> 犯蠢 1/1",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "images": [
       {
@@ -64040,7 +64040,7 @@
     "id": 4664,
     "date": "2024-11-18T17:10:54",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n第一次听到 Flamingo 这首歌其实是四五年前在 osu 里面打了这个 WTN3 的 remix，也好好听 qwq",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "reply": {
       "id": 4662,
@@ -64066,7 +64066,7 @@
     "id": 4665,
     "date": "2024-11-19T06:57:00",
     "text": "感觉自己开始会玩一点 shogi 了 ☗",
-    "views": 103,
+    "views": 104,
     "forwards": 1,
     "images": [
       {
@@ -64085,7 +64085,7 @@
     "id": 4666,
     "date": "2024-11-19T15:00:43",
     "text": "<a href=\"##桌游\">#桌游</a> 今天聊聊说想早上七点起来看国足，我看时间已经不早了当然是选择了通宵 qwq\n\n和聊聊玩 shogi 完胜，然后聊聊觉得我在欺负不会玩的人（确实有点）所以就改成了玩她喜欢的桌游 Through the Ages，大概是一个《文明》系的桌游\n\n我是第一次玩所以花了半个小时看教程（不得不说教程对话写得真的很幽默）刚开始资源也没有平衡好，玩到 I 时代的时候拿太多降价升级卡了导致矿物花不掉、研究点产出又不足，很多科技都屯在手上没打出来... 以及很多回合都因为思考太久严重超时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n到最后一回合的时候原本觉得要输了，文化点数差了整整 31，但是也在历史事件里埋好了最好的准备... 结果结算之后居然赢了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 结算过程反超了 38 点，奇妙",
-    "views": 104,
+    "views": 106,
     "forwards": 0,
     "media_group_id": 13856227549052269,
     "images": [
@@ -64115,7 +64115,7 @@
     "id": 4668,
     "date": "2024-11-20T10:07:34",
     "text": "鬼故事 整理聊聊的工作桌发现热熔胶枪一直开着... 它可能已经 100W 烧了三个月了，现在喷头已经堵住挤不出来了",
-    "views": 90,
+    "views": 92,
     "forwards": 1,
     "images": [
       {
@@ -64134,7 +64134,7 @@
     "id": 4669,
     "date": "2024-11-20T14:43:04",
     "text": "今天是第 25 个跨性别纪念日。由 One Among Us、Project Trans 及跨性别相关放送联合举办的纪念晚会将于2024年11月23日 20:00 (UTC+8) 举行，以文字、念白与歌声献给陨落的星辰，献给所有柔软而坚韧的我们。\n\n收看方式： <a href=\"YouTube.com/@OneAmongUsPride\">YouTube.com/@OneAmongUsPride</a> 或访问 <a href=\"live.oau.app\">live.oau.app</a> 获取更多直播信息。",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -64156,7 +64156,7 @@
     "id": 4670,
     "date": "2024-11-20T15:44:45",
     "text": "呜呜 当时写 AquaDX 的时候选择了「先用最方便快捷的方式把网页做出来，等有问题的时候再优化」，然后就随手写出了一个请求需要把数据库两个表完整拉下来的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n然后现在真的有问题了，现在请求一次排行榜要拉 1452 个用户和 221448 条游玩记录... 优化之前要整整 30 秒，稍微加了缓存和 batching 优化了一下也依然要十秒 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 86,
+    "views": 88,
     "forwards": 0,
     "reply": {
       "id": 3430,
@@ -64180,7 +64180,7 @@
     "id": 4671,
     "date": "2024-11-21T03:25:16",
     "text": "今天花了一整天调查这个数据库问题， Hibernate 全责 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 以后的项目再也不用 Java EE 了\n\n我试了一下把这整个函数用 native mysql 写出来，发现这条大查询只用 1.19 秒，那为什么我的 kotlin 代码运行速度差这么大呢？\n\n开了 SQL debug 之后我发现即使只是 .findAll() 都要 N 条查询，按理来说 select * from table 只要一条查询就行啊，为什么呢？仔细看看这 N 条查询发现它把 OneToOne fk 都一个一个拉下来了。原本首先花了一条查询 SELECT * FROM parent，然后又花了 N 条查询拉 SELECT * FROM child WHERE id=i...\n\n查了一下这个问题，网上说开 Hibernate bytecode enhance 就好了，它会修改编译完的字节码让 fk 链接用到的时候再查询而不是预先把所有东西查询好。问题是它不太兼容 kotlin，绕过了三个不同的问题才成功编译，之后加上 lazy fetch 终于可以让它在用到 fk 的时候再拉数据了... \n\n但是即使这样依然要把需要拉所有 fk 数据的地方改成手动 mysql 查询，因为 orm/jpql 没办法让 findAll 把单独的查询优化成 join <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n唉 感觉凡是透明一点的 ORM 比如 ktorm 或者 exposed 都不会有这样的问题，以后不会再用 Java EE 了",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "media_group_id": 13857276129125749,
     "images": [
@@ -64233,7 +64233,7 @@
     "id": 4674,
     "date": "2024-11-21T17:55:52",
     "text": "用原生 mysql 重写了整个查询之后获取排行榜从 30s 降到 4s 了！\n\n<del>果然什么优化都没有 RIIR 最方便</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "reply": {
       "id": 4670,
@@ -64256,14 +64256,14 @@
     "id": 4675,
     "date": "2024-11-21T20:30:46",
     "text": "syama 这两天在找苏州的合租，有兴趣的话请去联系 <a href=\"https://t.me/akiyamaXmizuki\">@akiyamaXmizuki</a>\n\n（帮忙打下广告 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 212,
+    "views": 214,
     "forwards": 2
   },
   {
     "id": 4676,
     "date": "2024-11-22T04:23:54",
     "text": "高情商：my email will be encrypted\n低情商：即使对等 AES 密钥是微软服务器下发的，但是我们用 AES 加密过哦！\n\n...感觉现在很多服务的“加密”都是做给不懂计算机但是有 privacy obsession 的人看的，实际上并没有真的安全\n\n就比如这个邮件的 RMS 加密，有没有加密实际上 attack vector 都并没有变。对中间人来说，因为客户端和邮件服务器之间有 TLS，即使没有 RMS 也没办法看到内容。如果任何一方被盗了号或者盗了饼干或者电脑中了后门，攻击者无论有没有 RMS 都能看到内容。如果微软服务器被黑了，也一样无论有没有 RMS 都能看到内容，因为加密密钥存在服务器上... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 唉，真的什么都没有解决呢\n\n<del>感觉懂安全的人在这个时代已经摆烂了，想绝对安全也不太可能呢，鬼知道还有多少 Jia Tan 在我的电脑上留着后门</del>",
-    "views": 109,
+    "views": 110,
     "forwards": 2,
     "media_group_id": 13857995477375541,
     "images": [
@@ -64293,7 +64293,7 @@
     "id": 4678,
     "date": "2024-11-22T09:48:28",
     "text": "真的觉得应该停一停了，感觉每隔一段时间就能看到一篇标题是 \"{} is all you need\" 的论文... 不是所有东西都应该是 all you need 好吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 157,
+    "views": 158,
     "forwards": 2,
     "images": [
       {
@@ -64436,7 +64436,7 @@
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 161,
+    "views": 166,
     "forwards": 2,
     "images": [
       {
@@ -64534,21 +64534,21 @@
     "id": 4692,
     "date": "2024-11-27T07:14:59",
     "text": "一直不懂为什么一个电脑插两个鼠标不会出现两个光标 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉是很不合理的设计",
-    "views": 83,
+    "views": 84,
     "forwards": 0
   },
   {
     "id": 4693,
     "date": "2024-11-27T12:51:51",
     "text": "如果你有一个无限的 OpenAI 钱包可以免费调 /v1/completion 的话，你会用它做什么呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<span class=\"spoiler\"><span>如果我说我真的有了类似的东西呢</span></span>",
-    "views": 81,
+    "views": 82,
     "forwards": 1
   },
   {
     "id": 4694,
     "date": "2024-11-28T03:48:29",
     "text": "<a href=\"##TIL\">#TIL</a> ssh 居然可以当作 pipe 使用而且不会有很大的 overhead\n\n可以远程 dd 了，好耶",
-    "views": 77,
+    "views": 78,
     "forwards": 1,
     "images": [
       {
@@ -64567,7 +64567,7 @@
     "id": 4695,
     "date": "2024-11-29T04:41:24",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n好浪漫... 高潮段用「ずっど」这两个音拼摩斯电码拼出了一个「I love you」 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n也好聪明，正好是一个长的音节和一个短的音节，听起来完全没有违和\n\n<a href=\"https://www.youtube.com/watch?v=UKZt1vq8bKI\">YouTube MV</a>",
-    "views": 61,
+    "views": 63,
     "forwards": 1,
     "files": [
       {
@@ -64589,7 +64589,7 @@
     "id": 4696,
     "date": "2024-11-29T04:46:22",
     "text": "・ー・ 草",
-    "views": 60,
+    "views": 62,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64612,7 +64612,7 @@
     "id": 4697,
     "date": "2024-11-29T08:10:21",
     "text": "🟥 HyDEV Whisper (<a href=\"whisper.hydev.org\">whisper.hydev.org</a>) 下线一天\n\n原因是需要拿走 GPU 赶作业 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 45,
+    "views": 50,
     "forwards": 0
   }
 ]
