@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-11-30T00:12:50.495627+00:00</updated>
+  <updated>2024-11-30T02:34:46.536168+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4699</id>
+    <title>小桂桂的回忆录 📒 #4699</title>
+    <updated>2024-11-30T01:00:08+00:00</updated>
+    <content>&lt;p&gt;有时候感觉写 research 用的 python 程序遇到的兼容性问题比给 Minecraft 做模组整合包还多&lt;/p&gt;
+&lt;p&gt;两个大库时不时就会出现不兼容，然后就要单独分两个环境... 我现在一个项目有三个环境了，不同的脚本分别要在不同环境里面跑... &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4699" rel="alternate"/>
+  </entry>
   <entry>
     <id>4698</id>
     <title>小桂桂的回忆录 📒 #4698</title>
