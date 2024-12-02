@@ -62819,14 +62819,14 @@
     "id": 4581,
     "date": "2024-10-25T00:11:48",
     "text": "<a href=\"##ADHD\">#ADHD</a> 上午抓了包，导出了 HAR，下午就忘了把它放在哪了",
-    "views": 104,
+    "views": 105,
     "forwards": 0
   },
   {
     "id": 4582,
     "date": "2024-10-25T01:48:53",
     "text": "今天花了一整天的时间解开了 pjsk 网络请求的 AES 加密 qwq 终于可以调 API 了！\n\n对过程感兴趣的可以来看 writeup，发了 Blog 在这里：<a href=\"https://aza.moe/blog?post=2024-10-24-PJSK-Reversing\">世界计划 缤纷舞台！feat. IL2Cpp</a>",
-    "views": 104,
+    "views": 105,
     "forwards": 1,
     "media_group_id": 13838567470816821,
     "images": [
@@ -62866,7 +62866,7 @@
     "id": 4585,
     "date": "2024-10-25T23:41:17",
     "text": "发现可以让 ipython 自动导入常用的库 qwq\n\n<a href=\"https://github.com/hykilpikonna/zshrc/blob/master/config-sync/ipython_init.py\">ipython_init</a> > <code>~/.ipython/profile_default/startup</code>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "files": [
       {
@@ -62889,14 +62889,14 @@
     "id": 4586,
     "date": "2024-10-26T05:41:16",
     "text": "室友问我用外部软件编辑 Blender 贴图的时候怎样自动化保存更新，帮忙让 llm 搓了几行 AutoHotKey 脚本自动按导出回车左箭头回车... 然后她觉得好厉害发了一个<a href=\"https://www.bilibili.com/video/av113371953235485\">教程视频</a>还把我 @ 出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n...在技美眼里自动按几个按钮的脚本原来是很难做甚至值得发一个视频的事情吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 2
   },
   {
     "id": 4587,
     "date": "2024-10-26T05:48:51",
     "text": "<span class=\"spoiler\"><span>感觉如果是我发视频肯定要社恐很长时间写好所有要说的话然后录的时候念错一大堆重新录然后花几个小时剪辑到听不出来重新录了才发出去，但是看她二十分钟一遍录完再听一遍打些码就发了我反而觉得这才好厉害</span></span>",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -62907,7 +62907,7 @@
     "id": 4588,
     "date": "2024-10-26T08:03:00",
     "text": "今天重构了一下我两年前给 OAU 写的 <a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> 项目，加入了自动账号池切换和爬消息回复找妈妈的代码，然后写了一个 tg bot <a href=\"https://t.me/AzaBirdBot\">@AzaBirdBot</a> 可以更方便地备份一个人的推特了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n大家如果遇到觉得身边的人可能想要冲动删号的时候可以过来预防性地备份一份 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>\n\n<span class=\"spoiler\"><span>其实开始重构这个项目是因为 syama 和我说想要和人对线但是不会对线，然后我想能不能训练一个网络对线教学机器人，就找书书要了一份她的推特导出hhhh </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i><span class=\"spoiler\"><span> 然后发现导出里面居然回复数据只有自己的内容，没有被回复的推文内容，所以就去重写了这个爬虫 qwq</span></span>",
-    "views": 128,
+    "views": 129,
     "forwards": 2,
     "images": [
       {
@@ -62926,7 +62926,7 @@
     "id": 4589,
     "date": "2024-10-26T18:53:27",
     "text": "<a href=\"##LLM\">#LLM</a> 训练了第一个版本的假想书书模型，白嫖了 OpenAI gpt4o-mini 的免费 finetune，语气和格式看起来都完全没问题，但是还是有很多问题...\n\n试了一下让它回一些 linux maintainer 这件事周围的暴论，但是因为缺少 context 似乎没办法从一条推文里面理解发生了什么... <del>毕竟肯定也没有人会猜到 linus 会支持删 maintainer</del> 但是可能需要在输入前面加入一些自动生成或者是手动标注的 context\n\n还有就是数据真的好少... 爬下来一共有 7221 条书书发的回复，但是其中只有 54% 的回复上文是可见的，再过滤掉回复自己用来发长文的操作的话就只剩下 40% 2883 条了。不过好像忘记了推特还有一种回复方式是转贴回复，也许把转帖回复也加进来会多一些",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 13839750457991053,
     "images": [
@@ -62980,21 +62980,21 @@
     "id": 4593,
     "date": "2024-10-27T05:12:41",
     "text": "呜呜 感觉自己永远在一个没有尽头的「想要在系统上装更多东西」>「觉得系统太重了想要重装」的循环里",
-    "views": 108,
+    "views": 109,
     "forwards": 0
   },
   {
     "id": 4594,
     "date": "2024-10-27T16:43:52",
     "text": "我：不知道这个 API 要用 python 还是 ts 还是 kotlin 写\nsyama：用 Unity\n<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 108,
+    "views": 109,
     "forwards": 0
   },
   {
     "id": 4595,
     "date": "2024-10-27T22:40:43",
     "text": "在 maimai 里面获得了新的旅行伙伴 syama <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>如果在现实中获得 syama 也这么简单就好了</span></span>（不是",
-    "views": 132,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 13840550750729853,
     "images": [
@@ -63024,7 +63024,7 @@
     "id": 4597,
     "date": "2024-10-28T00:49:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 君が涙のときには\n♪ 僕がそばにいるから~\n♪ 離ればなれの夜だって\n♪ 僕はそばにいるから~ <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "files": [
       {
@@ -63046,7 +63046,7 @@
     "id": 4598,
     "date": "2024-10-28T04:16:28",
     "text": "好喜欢 <a href=\"https://www.generasia.com/wiki/AMADORI\">AMADORI</a> 的曲子，但是似乎在 2009 年之后就没有消息了... 好可惜",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "reply": {
       "id": 4597,
@@ -63057,14 +63057,14 @@
     "id": 4599,
     "date": "2024-10-28T08:19:41",
     "text": "syama: 章鱼小丸子是鱼丸吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 0
   },
   {
     "id": 4600,
     "date": "2024-10-28T17:02:52",
     "text": "kotlin 日常：想打个断点看看 me 是啥，debugger 告诉我这个大括号里所有变量 client, me, args 都被优化掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -63083,7 +63083,7 @@
     "id": 4601,
     "date": "2024-10-29T16:57:02",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "images": [
       {
@@ -63102,7 +63102,7 @@
     "id": 4602,
     "date": "2024-10-29T16:59:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （昨天？\n照烧鸡腿饭 qwq",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13841769229694389,
     "images": [
@@ -63132,7 +63132,7 @@
     "id": 4604,
     "date": "2024-10-29T17:46:32",
     "text": "这次试了一下用五个 Bot 号用初始号能达到的最优配置挂机，拿了一个 105 位 qwq\n\n虽然其实还可以更优化的，因为这次开号运气太差了花了 93000 石头才拿到活动队全员，导致后面石头不够没办法全程五倍体力了...  如果活动刚开始的时候多开几个号选运气最好的也许体力就够拿到 100 了\n\n可能这就差不多是这个游戏不氪金的天花板了，花掉初始号 150000 石头用最优队伍 24h 不间断私人联机五倍刷效率曲也只能到这里... 真的很想知道我前面的 104 个人都是什么怪物",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13841791937301573,
     "images": [
@@ -63177,7 +63177,7 @@
     "id": 4607,
     "date": "2024-10-31T21:01:38",
     "text": "万圣节快乐！",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -63196,7 +63196,7 @@
     "id": 4608,
     "date": "2024-10-31T22:29:49",
     "text": "去玩了凌莞和 77 新开的 1.19 mod 服务器，重新玩了好多小学桂桂很喜欢但是玩不懂的 mod qwq\n\n原生游戏基本上是速通了，打烈焰棒做末影眼去末地打龙... 有些人觉得末地是这个游戏的「结局」，或者说是通关了的象征，<del>但是实际上老玩家都知道这其实是新手教程</del>，有意思的事情才刚刚开始\n\n之后去了天界/以太 Aether mod 的天界... 第一次玩这个 mod 还是 1.5.2，现在已经 1.19 了，时间过得好快。去打了天界的三个 boss，其中有两个都是不吃平攻的纯机制 boss，感觉在这个游戏里很少见，大部分原生的怪物都是砍就完事了。从宝箱里拿到了绝对是最有用的隐身斗篷和陆行鸟蛋，回家养了我的<del>专属陆行鸟</del>。\n\n回想起小时候玩这个 mod 感觉规模完全不一样，可能因为时代确实变了，1.5.2 原生游戏里面还什么都没有，对比下才觉得 mod 内容很多吧。\n\n接下来是 Ad Astra，造火箭造宇航服去了月亮和火星。虽然发射火箭很有成就感，但是发现月亮和火星上基本上什么都没有还是有点失望，只是每个星球给你新的一种矿，挖够了就可以造更厉害的火箭去下一个星球了那种感觉，有点被无聊到。可能也是一种写实吗？毕竟现实中星星上也是什么都没有的... 作者懒得恰到好处",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13843310316247565,
     "images": [
@@ -63256,7 +63256,7 @@
     "id": 4613,
     "date": "2024-11-03T02:01:28",
     "text": "今天晚上醒来看到凌莞反馈说服务器宕了，赶快起床看一看，发现 nginx 没起来，原因是其中一个 http 反代的上游死了配置文件检查没过...\n\n啊啊，真的是好蠢的设计，其中一个站点的反代挂了的话，服务起来剩下的站点还能用啊... 为什么要设计成一个连不上就不启动服务了？原本可以是 5% down 的现在变成了 100% down...\n\n感觉这已经是第无数次被 nginx 背刺了，之前还有发现 autoindex 在 ls 的时候会阻塞所有线程，然后之前我服务器上有一个几百万文件的文件夹，有人访问这个目录的时候就会让所有服务卡死不响应，而且去搜了解决方案似乎 2024 年都无解...\n\n真的不想再用 nginx 了，等这学期结束就全都换到 caddy",
-    "views": 113,
+    "views": 114,
     "forwards": 2,
     "images": [
       {
@@ -63275,7 +63275,7 @@
     "id": 4614,
     "date": "2024-11-04T02:31:23",
     "text": "玩了一下之前没有玩过的 Botania 植物魔法 mod，真的爱上这个 mod 了\n\n和其他 mod 不一样的地方在于，这个 mod 不只是在游戏里添加了功能和值得探索的地点，而是真的有很深的 lore，像是讲了一个故事。\n\n感觉在这个随机生成的开放世界游戏里真的很难讲一个故事，大部分讲故事的社区创作都是地图而不是 mod。随机地图的话即使只是固定一个流程都很难，需要像暮色森林那样用无敌的怪物或者进入某个区域就会掉血之类的各种方式提示玩家「现在还不应该来到这里」，或者像天界那样让流程后期的 boss 生成数量更少更难找到之类的。那植物魔法是怎么做到的呢？通过那本「Lexica Botania」\n\n这本书读起来很像是某位不知名的魔法师留下的笔记，里面除了每个物品的介绍和起源，还有一些记录下来的故事。在游戏后期打开传送门之后，会发现这个传送门因为魔力太弱并不能走进去，但是把这本书丢进去的话，被对面的精灵族改写过的书会传回来，里面夹着他们的魔法知识和回信... 通过一本书跨越维度和世界对面的居民获得联系我觉得真的是最浪漫的事情 qwq 可能是任何自由探索的世界都做不到的\n\n（以及这个 mod 里面有好多各种文化作品的联动，成就名字引用了很多 V 家曲、可以通过重命名拿到刀剑神域的阐释者和死枪、最终 Boss 掉落的六个宝具之一还原了 Fate 系列吉尔加美什的王之宝库、可以做一个 Conway 细胞自动机来获得魔力，还有很多很多我认不出来的... 这个作者好有趣 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "media_group_id": 13845499869142421,
     "images": [
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 158,
+    "views": 159,
     "forwards": 5,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63533,7 +63533,7 @@
     "id": 4634,
     "date": "2024-11-08T04:28:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n发现写作业的时候 c418 的麦块氛围音乐很适合用来给猫脑降温 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 123,
+    "views": 124,
     "forwards": 3,
     "files": [
       {
@@ -63555,7 +63555,7 @@
     "id": 4635,
     "date": "2024-11-08T06:20:26",
     "text": "发现有人做了 <a href=\"https://github.com/ouch-org/ouch\">ouch</a>，是一个跨格式压缩工具，有了它就不再需要记每个压缩格式的指令怎么用了 qwq",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "reply": {
       "id": 4632,
@@ -63567,7 +63567,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 132,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
@@ -63627,7 +63627,7 @@
     "id": 4640,
     "date": "2024-11-09T13:27:23",
     "text": "讲真，搭好 typst 环境比 latex 容易太多了，无论本地还是在线都是\n\n（翻邮件看到今天有人回我 2022 年开的 issue 似乎是遇到了同样的问题没办法搭好 overleaf 的开发环境，这还是他们重构之后的，唉有些代码库真的永远不会变",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "images": [
       {
@@ -63646,14 +63646,14 @@
     "id": 4641,
     "date": "2024-11-09T13:37:22",
     "text": "感冒了，但是因为有作业 overdue 被迫通宵... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 146,
+    "views": 147,
     "forwards": 0
   },
   {
     "id": 4642,
     "date": "2024-11-11T00:39:52",
     "text": "每月去 JLC 白嫖打一套板子 (1/2)",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "images": [
       {
@@ -63672,14 +63672,14 @@
     "id": 4643,
     "date": "2024-11-11T01:36:15",
     "text": "呜呜 昨天和 syama 例常打 facetime 电话，然后今天被派出所找上门了... 不知道是怎么检测的，可能需要抓包把 facetime 域名加到代理规则里",
-    "views": 137,
+    "views": 138,
     "forwards": 4
   },
   {
     "id": 4645,
     "date": "2024-11-11T20:20:14",
     "text": "支持一下 typst\n\n<del>为什么 Overleaf $8/mo 就觉得好贵还是自搭吧，typst $8/mo 反而觉得很情愿，明明都是开源软件</del> 可能是因为 typst 这边真的在 actively 加新功能",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "reply": {
       "id": 4640,
@@ -63702,7 +63702,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "images": [
       {
@@ -63721,7 +63721,7 @@
     "id": 4647,
     "date": "2024-11-13T09:43:04",
     "text": "<a href=\"##TIL\">#TIL</a> 睡前好奇去问了问 chatgpt，原来电脑的电热转换效率和电暖器是一样高 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>现在家里 homelab 有两台服务器和三台街机机器，在想能不能写一个温控系统把电脑变成电暖器 qwq 室温低的时候就自动打开 folding@home，高了就关掉，电费一样的情况下既能取暖又能给科学研究贡献算力...</span></span>",
-    "views": 123,
+    "views": 124,
     "forwards": 2,
     "reply": {
       "id": 3668,
@@ -63744,7 +63744,7 @@
     "id": 4648,
     "date": "2024-11-14T05:31:41",
     "text": "<a href=\"##谜题\">#谜题</a> 这次是赛博管道维修工（？）\n\n<a href=\"https://www.puzzle-pipes.com/\">Pipes</a>",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "reply": {
       "id": 4404,
@@ -63771,7 +63771,7 @@
     "id": 4649,
     "date": "2024-11-14T18:52:26",
     "text": "穿模飞出去看看房间有多乱（？）",
-    "views": 110,
+    "views": 111,
     "forwards": 1,
     "images": [
       {
@@ -63790,7 +63790,7 @@
     "id": 4650,
     "date": "2024-11-15T02:13:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n用同样的方法和同样的肉炒了卷心菜和小油菜，感觉还是卷心菜更好吃一点 quq\n\n以后不买小油菜了。<del>只有小孩子才挑食，大人不买就好了</del>",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "images": [
       {
@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
@@ -63858,7 +63858,7 @@
     "id": 4654,
     "date": "2024-11-16T02:53:45",
     "text": "豆腐可爱喵",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "images": [
       {
@@ -63877,7 +63877,7 @@
     "id": 4655,
     "date": "2024-11-16T08:00:14",
     "text": "有时候就觉得 Github 星星数量挺迷惑的\n\n居然 oh my zsh 星星数量在第 17，明明 zsh 用户量和 bash 和 powershell 比起来都没有多少... 而且居然 .gitignore 模板仓库和 vscode 在差不多的位置 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "media_group_id": 13853952119728341,
     "images": [
@@ -63907,7 +63907,7 @@
     "id": 4657,
     "date": "2024-11-16T09:07:27",
     "text": "GitHub 星星数量排名前 10000 的代码语言统计数据\n\n排名第三位的是「没有代码」 🌚 <del>众所周知 GitHub 是一个由微软开发的免费网盘</del>",
-    "views": 151,
+    "views": 152,
     "forwards": 2,
     "images": [
       {
@@ -64066,7 +64066,7 @@
     "id": 4665,
     "date": "2024-11-19T06:57:00",
     "text": "感觉自己开始会玩一点 shogi 了 ☗",
-    "views": 107,
+    "views": 108,
     "forwards": 1,
     "images": [
       {
@@ -64085,7 +64085,7 @@
     "id": 4666,
     "date": "2024-11-19T15:00:43",
     "text": "<a href=\"##桌游\">#桌游</a> 今天聊聊说想早上七点起来看国足，我看时间已经不早了当然是选择了通宵 qwq\n\n和聊聊玩 shogi 完胜，然后聊聊觉得我在欺负不会玩的人（确实有点）所以就改成了玩她喜欢的桌游 Through the Ages，大概是一个《文明》系的桌游\n\n我是第一次玩所以花了半个小时看教程（不得不说教程对话写得真的很幽默）刚开始资源也没有平衡好，玩到 I 时代的时候拿太多降价升级卡了导致矿物花不掉、研究点产出又不足，很多科技都屯在手上没打出来... 以及很多回合都因为思考太久严重超时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n到最后一回合的时候原本觉得要输了，文化点数差了整整 31，但是也在历史事件里埋好了最好的准备... 结果结算之后居然赢了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 结算过程反超了 38 点，奇妙",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13856227549052269,
     "images": [
@@ -64115,7 +64115,7 @@
     "id": 4668,
     "date": "2024-11-20T10:07:34",
     "text": "鬼故事 整理聊聊的工作桌发现热熔胶枪一直开着... 它可能已经 100W 烧了三个月了，现在喷头已经堵住挤不出来了",
-    "views": 95,
+    "views": 96,
     "forwards": 1,
     "images": [
       {
@@ -64134,7 +64134,7 @@
     "id": 4669,
     "date": "2024-11-20T14:43:04",
     "text": "今天是第 25 个跨性别纪念日。由 One Among Us、Project Trans 及跨性别相关放送联合举办的纪念晚会将于2024年11月23日 20:00 (UTC+8) 举行，以文字、念白与歌声献给陨落的星辰，献给所有柔软而坚韧的我们。\n\n收看方式： <a href=\"YouTube.com/@OneAmongUsPride\">YouTube.com/@OneAmongUsPride</a> 或访问 <a href=\"live.oau.app\">live.oau.app</a> 获取更多直播信息。",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -64534,21 +64534,21 @@
     "id": 4692,
     "date": "2024-11-27T07:14:59",
     "text": "一直不懂为什么一个电脑插两个鼠标不会出现两个光标 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉是很不合理的设计",
-    "views": 110,
+    "views": 111,
     "forwards": 0
   },
   {
     "id": 4693,
     "date": "2024-11-27T12:51:51",
     "text": "如果你有一个无限的 OpenAI 钱包可以免费调 /v1/completion 的话，你会用它做什么呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<span class=\"spoiler\"><span>如果我说我真的有了类似的东西呢</span></span>",
-    "views": 109,
+    "views": 110,
     "forwards": 1
   },
   {
     "id": 4694,
     "date": "2024-11-28T03:48:29",
     "text": "<a href=\"##TIL\">#TIL</a> ssh 居然可以当作 pipe 使用而且不会有很大的 overhead\n\n可以远程 dd 了，好耶",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "images": [
       {
@@ -64567,7 +64567,7 @@
     "id": 4695,
     "date": "2024-11-29T04:41:24",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n好浪漫... 高潮段用「ずっど」这两个音拼摩斯电码拼出了一个「I love you」 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n也好聪明，正好是一个长的音节和一个短的音节，听起来完全没有违和\n\n<a href=\"https://www.youtube.com/watch?v=UKZt1vq8bKI\">YouTube MV</a>",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "files": [
       {
@@ -64589,7 +64589,7 @@
     "id": 4696,
     "date": "2024-11-29T04:46:22",
     "text": "・ー・ 草",
-    "views": 93,
+    "views": 98,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64612,13 +64612,13 @@
     "id": 4697,
     "date": "2024-11-29T08:10:21",
     "text": "🟥 HyDEV Whisper (<a href=\"whisper.hydev.org\">whisper.hydev.org</a>) 下线一天\n\n原因是需要拿走 GPU 赶作业 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 94,
+    "views": 98,
     "forwards": 0
   },
   {
     "id": 4698,
     "date": "2024-11-29T22:34:08",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "files": [
       {
@@ -64650,7 +64650,7 @@
     "id": 4700,
     "date": "2024-11-30T08:47:41",
     "text": "QwQ",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13863651691609925,
     "images": [
@@ -64680,7 +64680,7 @@
     "id": 4702,
     "date": "2024-11-30T16:26:15",
     "text": "昏睡猫猫开始乱敲键盘",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64703,7 +64703,7 @@
     "id": 4703,
     "date": "2024-11-30T16:47:18",
     "text": "七天通宵爆肝肝完一篇 paper 的奇迹\n\n是 311 课的开放期末作业，正式研究了一下 Sekai LLM 各方面分别怎样实现最好、以及怎样自动客观评估哪个模型更好之类的。之前一直靠直觉评价感觉很不科学，改了什么都没办法很快速知道效果... 所以做 ML 还是需要至少先有 metric\n\n唉真的为什么期末作业要选这么大一个 scope <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 不过算了确实是因为好玩才有动力做的项目，也正好打算发篇纸\n\n（虽然因为时间不够还留了很多 TODO... 但是现在先睡睡",
-    "views": 83,
+    "views": 84,
     "forwards": 1,
     "media_group_id": 13863881904347677,
     "images": [
@@ -64733,13 +64733,13 @@
     "id": 4705,
     "date": "2024-12-01T01:03:24",
     "text": "中午 12 点睡，晚上八点起，非常健康的 +8 作息哈哈哈哈",
-    "views": 79,
+    "views": 82,
     "forwards": 1
   },
   {
     "id": 4706,
     "date": "2024-12-01T06:36:22",
-    "views": 77,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -64758,7 +64758,7 @@
     "id": 4707,
     "date": "2024-12-01T17:24:55",
     "text": "<a href=\"https://youtu.be/UWaKhaq5UtM\">https://youtu.be/UWaKhaq5UtM</a>",
-    "views": 61,
+    "views": 65,
     "forwards": 0,
     "forwarded_from": {
       "name": "silly foxes posting 🦊"
@@ -64768,7 +64768,7 @@
     "id": 4708,
     "date": "2024-12-01T17:27:12",
     "text": "也许我感情经历中没有过 100% 顺直的对象也是因为这些事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 67,
+    "views": 71,
     "forwards": 0,
     "reply": {
       "id": 4707,
@@ -64779,18 +64779,37 @@
     "id": 4709,
     "date": "2024-12-02T15:04:35",
     "text": "\"Reward hacking\" 是不是就是大模型找到了毒品 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 39,
+    "views": 52,
     "forwards": 0
   },
   {
     "id": 4710,
     "date": "2024-12-02T15:08:39",
     "text": "我觉得这句话和「Onshape 是不是就是现实世界的 Figma」有异曲同工之妙",
-    "views": 31,
+    "views": 48,
     "forwards": 0,
     "forwarded_from": {
       "name": "Menci 💖",
       "url": "https://t.me/Mencici"
     }
+  },
+  {
+    "id": 4711,
+    "date": "2024-12-02T17:21:15",
+    "text": "一周之前自己剪了一下头发，今天又重新修了一下，剪成 ena 内扣短发了 qwq（感谢聊聊帮忙修后面自己看不见的头发\n\n尝试了一直不敢尝试的发型 <span class=\"spoiler\"><span>一直害怕短发会变得不 pass，看来也并没有喵</span></span>",
+    "views": 31,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 963,
+        "date": "2024-12-02T17:21:15",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-02_17-21-15.jpg",
+        "url": "media/4711.jpg",
+        "size": 83649,
+        "thumb": "media/4711.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
