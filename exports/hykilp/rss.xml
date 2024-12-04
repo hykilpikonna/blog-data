@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 04 Dec 2024 16:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 18:12:29 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4716</title>
+      <link>https://aza.moe/life?post=4716</link>
+      <description>&lt;p&gt;呜呜 给 Syama 安利 Davinci Resolve，然后她那边启动会闪退，为什么呢？明明都是 7840HS，都是 Windows 11...&lt;/p&gt;
+&lt;p&gt;然后发现关掉 clash TUN 就好了，开了就闪退？？然后我这边试了也是，开 TUN 还是 TAP 都不行... 呜呜&lt;/p&gt;
+&lt;p&gt;好奇怪，Clash TUN 不行，Cloudflare Warp 也不行，但是 Mullvad 和 tailscale exit node 都没问题，是不是只有 IP 层代理会有这个问题&lt;/p&gt;
+&lt;p&gt;临时解决办法是把 Davinci Control Panel 删掉（&lt;a href="https://www.reddit.com/r/davinciresolve/comments/1bx17wy/cloudflare_crash_on_startup_fixed_by_removing/"&gt;来源&lt;/a&gt;）&lt;/p&gt;</description>
+      <guid isPermaLink="false">4716</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4715</title>
       <link>https://aza.moe/life?post=4715</link>

@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-12-04T16:10:03.282457+00:00</updated>
+  <updated>2024-12-04T18:12:29.941634+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4716</id>
+    <title>小桂桂的回忆录 📒 #4716</title>
+    <updated>2024-12-04T17:24:47+00:00</updated>
+    <content>&lt;p&gt;呜呜 给 Syama 安利 Davinci Resolve，然后她那边启动会闪退，为什么呢？明明都是 7840HS，都是 Windows 11...&lt;/p&gt;
+&lt;p&gt;然后发现关掉 clash TUN 就好了，开了就闪退？？然后我这边试了也是，开 TUN 还是 TAP 都不行... 呜呜&lt;/p&gt;
+&lt;p&gt;好奇怪，Clash TUN 不行，Cloudflare Warp 也不行，但是 Mullvad 和 tailscale exit node 都没问题，是不是只有 IP 层代理会有这个问题&lt;/p&gt;
+&lt;p&gt;临时解决办法是把 Davinci Control Panel 删掉（&lt;a href="https://www.reddit.com/r/davinciresolve/comments/1bx17wy/cloudflare_crash_on_startup_fixed_by_removing/"&gt;来源&lt;/a&gt;）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4716" rel="alternate"/>
+  </entry>
   <entry>
     <id>4715</id>
     <title>小桂桂的回忆录 📒 #4715</title>
