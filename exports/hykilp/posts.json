@@ -60296,7 +60296,7 @@
     "id": 4405,
     "date": "2024-09-08T05:46:45",
     "text": "试着用洗衣机洗出来皱皱，不是很好看呢... 不知道用熨斗能不能修好",
-    "views": 116,
+    "views": 117,
     "forwards": 1,
     "reply": {
       "id": 4401,
@@ -64156,7 +64156,7 @@
     "id": 4670,
     "date": "2024-11-20T15:44:45",
     "text": "呜呜 当时写 AquaDX 的时候选择了「先用最方便快捷的方式把网页做出来，等有问题的时候再优化」，然后就随手写出了一个请求需要把数据库两个表完整拉下来的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n然后现在真的有问题了，现在请求一次排行榜要拉 1452 个用户和 221448 条游玩记录... 优化之前要整整 30 秒，稍微加了缓存和 batching 优化了一下也依然要十秒 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 3430,
@@ -64180,7 +64180,7 @@
     "id": 4671,
     "date": "2024-11-21T03:25:16",
     "text": "今天花了一整天调查这个数据库问题， Hibernate 全责 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 以后的项目再也不用 Java EE 了\n\n我试了一下把这整个函数用 native mysql 写出来，发现这条大查询只用 1.19 秒，那为什么我的 kotlin 代码运行速度差这么大呢？\n\n开了 SQL debug 之后我发现即使只是 .findAll() 都要 N 条查询，按理来说 select * from table 只要一条查询就行啊，为什么呢？仔细看看这 N 条查询发现它把 OneToOne fk 都一个一个拉下来了。原本首先花了一条查询 SELECT * FROM parent，然后又花了 N 条查询拉 SELECT * FROM child WHERE id=i...\n\n查了一下这个问题，网上说开 Hibernate bytecode enhance 就好了，它会修改编译完的字节码让 fk 链接用到的时候再查询而不是预先把所有东西查询好。问题是它不太兼容 kotlin，绕过了三个不同的问题才成功编译，之后加上 lazy fetch 终于可以让它在用到 fk 的时候再拉数据了... \n\n但是即使这样依然要把需要拉所有 fk 数据的地方改成手动 mysql 查询，因为 orm/jpql 没办法让 findAll 把单独的查询优化成 join <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n唉 感觉凡是透明一点的 ORM 比如 ktorm 或者 exposed 都不会有这样的问题，以后不会再用 Java EE 了",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 13857276129125749,
     "images": [
@@ -64214,7 +64214,7 @@
     "id": 4673,
     "date": "2024-11-21T15:30:32",
     "text": "蜂蜜太久没用变成糖块了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -64233,7 +64233,7 @@
     "id": 4674,
     "date": "2024-11-21T17:55:52",
     "text": "用原生 mysql 重写了整个查询之后获取排行榜从 30s 降到 4s 了！\n\n<del>果然什么优化都没有 RIIR 最方便</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 4670,
@@ -64256,14 +64256,14 @@
     "id": 4675,
     "date": "2024-11-21T20:30:46",
     "text": "syama 这两天在找苏州的合租，有兴趣的话请去联系 <a href=\"https://t.me/akiyamaXmizuki\">@akiyamaXmizuki</a>\n\n（帮忙打下广告 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 2
   },
   {
     "id": 4676,
     "date": "2024-11-22T04:23:54",
     "text": "高情商：my email will be encrypted\n低情商：即使对等 AES 密钥是微软服务器下发的，但是我们用 AES 加密过哦！\n\n...感觉现在很多服务的“加密”都是做给不懂计算机但是有 privacy obsession 的人看的，实际上并没有真的安全\n\n就比如这个邮件的 RMS 加密，有没有加密实际上 attack vector 都并没有变。对中间人来说，因为客户端和邮件服务器之间有 TLS，即使没有 RMS 也没办法看到内容。如果任何一方被盗了号或者盗了饼干或者电脑中了后门，攻击者无论有没有 RMS 都能看到内容。如果微软服务器被黑了，也一样无论有没有 RMS 都能看到内容，因为加密密钥存在服务器上... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 唉，真的什么都没有解决呢\n\n<del>感觉懂安全的人在这个时代已经摆烂了，想绝对安全也不太可能呢，鬼知道还有多少 Jia Tan 在我的电脑上留着后门</del>",
-    "views": 125,
+    "views": 126,
     "forwards": 2,
     "media_group_id": 13857995477375541,
     "images": [
@@ -64293,7 +64293,7 @@
     "id": 4678,
     "date": "2024-11-22T09:48:28",
     "text": "真的觉得应该停一停了，感觉每隔一段时间就能看到一篇标题是 \"{} is all you need\" 的论文... 不是所有东西都应该是 all you need 好吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 171,
+    "views": 173,
     "forwards": 2,
     "images": [
       {
@@ -64312,7 +64312,7 @@
     "id": 4679,
     "date": "2024-11-22T15:37:39",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6327782811914733923.webp\">🥳</i>",
-    "views": 152,
+    "views": 153,
     "forwards": 1,
     "images": [
       {
@@ -64331,7 +64331,7 @@
     "id": 4680,
     "date": "2024-11-22T16:10:49",
     "text": "这只是一张普通的日落",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64354,7 +64354,7 @@
     "id": 4681,
     "date": "2024-11-23T00:29:34",
     "text": "低情商：晚上 11:59 due\n高情商：晚上 6:00 due，晚交了六个小时以内会扣掉 -0% 哦！",
-    "views": 117,
+    "views": 118,
     "forwards": 1,
     "images": [
       {
@@ -64373,7 +64373,7 @@
     "id": 4682,
     "date": "2024-11-23T01:14:05",
     "text": "时隔一年半的后续：今天 Zotero 告诉我说之前遇到的这篇造假的论文被 retract 了，可喜可贺\n\n看到 Retract notice 里面指出了一个 \"Paper Mill: A business that creates and sells research papers where the buyer(s) claim authorship; the business is generally unacknowledged as a contributor.\" ...居然这个世界上还有这种业务存在，好可怕。",
-    "views": 132,
+    "views": 133,
     "forwards": 1,
     "reply": {
       "id": 2202,
@@ -64396,7 +64396,7 @@
     "id": 4683,
     "date": "2024-11-24T05:52:34",
     "text": "唉 这就是 AI hype 的 nonsense 吗\n\n<a href=\"https://arxiv.org/abs/2308.09597\">ChatHaruhi</a> 这篇没写完的论文，结果评估都没有，居然就发 preprint 了，居然已经有 15 citation 了...  <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n非常可惜我也会给它贡献一个 citation",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "images": [
       {
@@ -64436,7 +64436,7 @@
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 220,
+    "views": 221,
     "forwards": 2,
     "images": [
       {
@@ -64455,7 +64455,7 @@
     "id": 4688,
     "date": "2024-11-26T04:33:29",
     "text": "总是把 MTEB leaderboard 打成 MBTI <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "images": [
       {
@@ -64474,7 +64474,7 @@
     "id": 4689,
     "date": "2024-11-26T09:13:07",
     "text": "让所有的机器都训练上了模型，终于可以安心睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "reply": {
       "id": 4283,
@@ -64541,7 +64541,7 @@
     "id": 4693,
     "date": "2024-11-27T12:51:51",
     "text": "如果你有一个无限的 OpenAI 钱包可以免费调 /v1/completion 的话，你会用它做什么呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<span class=\"spoiler\"><span>如果我说我真的有了类似的东西呢</span></span>",
-    "views": 114,
+    "views": 115,
     "forwards": 1
   },
   {
@@ -64618,7 +64618,7 @@
   {
     "id": 4698,
     "date": "2024-11-29T22:34:08",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "files": [
       {
@@ -64643,14 +64643,14 @@
     "id": 4699,
     "date": "2024-11-30T01:00:08",
     "text": "有时候感觉写 research 用的 python 程序遇到的兼容性问题比给 Minecraft 做模组整合包还多\n\n两个大库时不时就会出现不兼容，然后就要单独分两个环境... 我现在一个项目有三个环境了，不同的脚本分别要在不同环境里面跑... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 112,
+    "views": 113,
     "forwards": 0
   },
   {
     "id": 4700,
     "date": "2024-11-30T08:47:41",
     "text": "QwQ",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 13863651691609925,
     "images": [
@@ -64703,7 +64703,7 @@
     "id": 4703,
     "date": "2024-11-30T16:47:18",
     "text": "七天通宵爆肝肝完一篇 paper 的奇迹\n\n是 311 课的开放期末作业，正式研究了一下 Sekai LLM 各方面分别怎样实现最好、以及怎样自动客观评估哪个模型更好之类的。之前一直靠直觉评价感觉很不科学，改了什么都没办法很快速知道效果... 所以做 ML 还是需要至少先有 metric\n\n唉真的为什么期末作业要选这么大一个 scope <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 不过算了确实是因为好玩才有动力做的项目，也正好打算发篇纸\n\n（虽然因为时间不够还留了很多 TODO... 但是现在先睡睡",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "media_group_id": 13863881904347677,
     "images": [
@@ -64733,13 +64733,13 @@
     "id": 4705,
     "date": "2024-12-01T01:03:24",
     "text": "中午 12 点睡，晚上八点起，非常健康的 +8 作息哈哈哈哈",
-    "views": 98,
+    "views": 100,
     "forwards": 1
   },
   {
     "id": 4706,
     "date": "2024-12-01T06:36:22",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -64758,7 +64758,7 @@
     "id": 4707,
     "date": "2024-12-01T17:24:55",
     "text": "<a href=\"https://youtu.be/UWaKhaq5UtM\">https://youtu.be/UWaKhaq5UtM</a>",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "forwarded_from": {
       "name": "silly foxes posting 🦊"
@@ -64768,7 +64768,7 @@
     "id": 4708,
     "date": "2024-12-01T17:27:12",
     "text": "也许我感情经历中没有过 100% 顺直的对象也是因为这些事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "reply": {
       "id": 4707,
@@ -64835,7 +64835,7 @@
     "id": 4713,
     "date": "2024-12-03T14:27:20",
     "text": "作息调回来了！",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -64854,7 +64854,7 @@
     "id": 4714,
     "date": "2024-12-03T18:11:38",
     "text": "两年前设计的补佳乐时钟终于在淘宝上架了！\n\n（感谢 Syama 帮忙上架，明明之前把设计图发给荔枝实验室了但是他们没理我 T^T）\n\n<a href=\"https://item.taobao.com/item.htm?id=859041415321\">链接在这里</a> 欢迎大家下单 qwq",
-    "views": 108,
+    "views": 109,
     "forwards": 4,
     "reply": {
       "id": 925,
@@ -64878,21 +64878,21 @@
     "id": 4715,
     "date": "2024-12-04T03:21:22",
     "text": "Linux 日常：运行一个程序，发现它打开了 xemacs，想退出\n:wq 没有用\n^q 没有用\n^x ^d ^c ^\\ 都没有用\n然后开了一个新的 shell 开任务管理器把它杀了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 1
   },
   {
     "id": 4716,
     "date": "2024-12-04T17:24:47",
     "text": "呜呜 给 Syama 安利 Davinci Resolve，然后她那边启动会闪退，为什么呢？明明都是 7840HS，都是 Windows 11...\n\n然后发现关掉 clash TUN 就好了，开了就闪退？？然后我这边试了也是，开 TUN 还是 TAP 都不行... 呜呜\n\n好奇怪，Clash TUN 不行，Cloudflare Warp 也不行，但是 Mullvad 和 tailscale exit node 都没问题，是不是只有 IP 层代理会有这个问题\n\n临时解决办法是把 Davinci Control Panel 删掉（<a href=\"https://www.reddit.com/r/davinciresolve/comments/1bx17wy/cloudflare_crash_on_startup_fixed_by_removing/\">来源</a>）",
-    "views": 65,
+    "views": 66,
     "forwards": 0
   },
   {
     "id": 4717,
     "date": "2024-12-05T00:47:50",
     "text": "感觉人群的共识机制不太聪明喵\n\n红灯，甚至还在过车的那种，一个人突然开始过马路，有人估计是没看路跟着这个人开始走，过一会越来越多的人跟着走，最后变成了所有人一起闯红灯过马路 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 47,
+    "views": 49,
     "forwards": 0,
     "images": [
       {
