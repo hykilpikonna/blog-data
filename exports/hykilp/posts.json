@@ -63256,7 +63256,7 @@
     "id": 4613,
     "date": "2024-11-03T02:01:28",
     "text": "今天晚上醒来看到凌莞反馈说服务器宕了，赶快起床看一看，发现 nginx 没起来，原因是其中一个 http 反代的上游死了配置文件检查没过...\n\n啊啊，真的是好蠢的设计，其中一个站点的反代挂了的话，服务起来剩下的站点还能用啊... 为什么要设计成一个连不上就不启动服务了？原本可以是 5% down 的现在变成了 100% down...\n\n感觉这已经是第无数次被 nginx 背刺了，之前还有发现 autoindex 在 ls 的时候会阻塞所有线程，然后之前我服务器上有一个几百万文件的文件夹，有人访问这个目录的时候就会让所有服务卡死不响应，而且去搜了解决方案似乎 2024 年都无解...\n\n真的不想再用 nginx 了，等这学期结束就全都换到 caddy",
-    "views": 115,
+    "views": 116,
     "forwards": 2,
     "images": [
       {
@@ -63275,7 +63275,7 @@
     "id": 4614,
     "date": "2024-11-04T02:31:23",
     "text": "玩了一下之前没有玩过的 Botania 植物魔法 mod，真的爱上这个 mod 了\n\n和其他 mod 不一样的地方在于，这个 mod 不只是在游戏里添加了功能和值得探索的地点，而是真的有很深的 lore，像是讲了一个故事。\n\n感觉在这个随机生成的开放世界游戏里真的很难讲一个故事，大部分讲故事的社区创作都是地图而不是 mod。随机地图的话即使只是固定一个流程都很难，需要像暮色森林那样用无敌的怪物或者进入某个区域就会掉血之类的各种方式提示玩家「现在还不应该来到这里」，或者像天界那样让流程后期的 boss 生成数量更少更难找到之类的。那植物魔法是怎么做到的呢？通过那本「Lexica Botania」\n\n这本书读起来很像是某位不知名的魔法师留下的笔记，里面除了每个物品的介绍和起源，还有一些记录下来的故事。在游戏后期打开传送门之后，会发现这个传送门因为魔力太弱并不能走进去，但是把这本书丢进去的话，被对面的精灵族改写过的书会传回来，里面夹着他们的魔法知识和回信... 通过一本书跨越维度和世界对面的居民获得联系我觉得真的是最浪漫的事情 qwq 可能是任何自由探索的世界都做不到的\n\n（以及这个 mod 里面有好多各种文化作品的联动，成就名字引用了很多 V 家曲、可以通过重命名拿到刀剑神域的阐释者和死枪、最终 Boss 掉落的六个宝具之一还原了 Fate 系列吉尔加美什的王之宝库、可以做一个 Conway 细胞自动机来获得魔力，还有很多很多我认不出来的... 这个作者好有趣 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 1,
     "media_group_id": 13845499869142421,
     "images": [
@@ -63355,7 +63355,7 @@
     "id": 4621,
     "date": "2024-11-04T16:30:23",
     "text": "草...\n\n发生了这样的事情：原本需要 11:00 开会，然后 11:00 上线发现别人告诉我会已经开完了... 怎么回事呢？\n\n因为计划开会时间的时候对方没把夏令时考虑进来，给了一个当时的转过时区的时间，然后前几天夏令时开始了这个时间就错了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n唉真的感觉夏令时会 mess up 好多事情，什么时候能取消夏令时啊",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "images": [
       {
@@ -63374,7 +63374,7 @@
     "id": 4622,
     "date": "2024-11-04T21:00:36",
     "text": "果然 Minecraft 真正的 end game 是建筑 qwq\n\n玩了一周之后这边 Botania 差不多毕业了，七七那边工业也毕业了。76 点 HP 上限加上纳米护甲和附魔的纳米刀基本上无敌，原本应该是 end game 的高难度版 Gaia 也被用来刷资源了，让探索稍微有点无聊——因为没有什么宝箱能给我有用的资源，也不会遇到有挑战性的 boss 了\n\n果然作为沙盒游戏最耐玩的还是建筑，毕竟生存发展一定是有限的，但是创造性的可能是无限的。为我的 Botania 花坛、附魔坛、还有召唤 boss 的平台建了三个空岛之后原本打算建一个自己的家，但是听凌莞想在七七工厂旁边建家但是没想法就帮忙建了。\n\n这次选了现代建筑风格，因为生存模式做建筑需要考虑收集材料，而石英这种在自然生成的建筑物中很常用的材料最容易收集了，只是拆掉一个自然生成的高塔就拿到了三万块 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>\n\n建好了外部之后看起来效果不错，内部装饰就交给凌莞和七七他们好啦。还想建一个自己的家，可惜 reading week 假期结束了，就暂时停留在这里吧",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 13846032293003709,
     "images": [
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 159,
+    "views": 160,
     "forwards": 5,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63484,7 +63484,7 @@
     "id": 4631,
     "date": "2024-11-06T04:15:06",
     "text": "好可爱的猪猪 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n什么时候我才能做出这么好看的蛋糕...",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "images": [
       {
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
@@ -63533,7 +63533,7 @@
     "id": 4634,
     "date": "2024-11-08T04:28:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n发现写作业的时候 c418 的麦块氛围音乐很适合用来给猫脑降温 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 124,
+    "views": 125,
     "forwards": 3,
     "files": [
       {
@@ -63555,7 +63555,7 @@
     "id": 4635,
     "date": "2024-11-08T06:20:26",
     "text": "发现有人做了 <a href=\"https://github.com/ouch-org/ouch\">ouch</a>，是一个跨格式压缩工具，有了它就不再需要记每个压缩格式的指令怎么用了 qwq",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "reply": {
       "id": 4632,
@@ -63567,7 +63567,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 134,
+    "views": 135,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
@@ -63627,7 +63627,7 @@
     "id": 4640,
     "date": "2024-11-09T13:27:23",
     "text": "讲真，搭好 typst 环境比 latex 容易太多了，无论本地还是在线都是\n\n（翻邮件看到今天有人回我 2022 年开的 issue 似乎是遇到了同样的问题没办法搭好 overleaf 的开发环境，这还是他们重构之后的，唉有些代码库真的永远不会变",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "images": [
       {
@@ -63646,7 +63646,7 @@
     "id": 4641,
     "date": "2024-11-09T13:37:22",
     "text": "感冒了，但是因为有作业 overdue 被迫通宵... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 147,
+    "views": 148,
     "forwards": 0
   },
   {
@@ -63679,7 +63679,7 @@
     "id": 4645,
     "date": "2024-11-11T20:20:14",
     "text": "支持一下 typst\n\n<del>为什么 Overleaf $8/mo 就觉得好贵还是自搭吧，typst $8/mo 反而觉得很情愿，明明都是开源软件</del> 可能是因为 typst 这边真的在 actively 加新功能",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "reply": {
       "id": 4640,
@@ -63702,7 +63702,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 184,
+    "views": 185,
     "forwards": 1,
     "images": [
       {
@@ -63721,7 +63721,7 @@
     "id": 4647,
     "date": "2024-11-13T09:43:04",
     "text": "<a href=\"##TIL\">#TIL</a> 睡前好奇去问了问 chatgpt，原来电脑的电热转换效率和电暖器是一样高 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>现在家里 homelab 有两台服务器和三台街机机器，在想能不能写一个温控系统把电脑变成电暖器 qwq 室温低的时候就自动打开 folding@home，高了就关掉，电费一样的情况下既能取暖又能给科学研究贡献算力...</span></span>",
-    "views": 125,
+    "views": 126,
     "forwards": 2,
     "reply": {
       "id": 3668,
@@ -63744,7 +63744,7 @@
     "id": 4648,
     "date": "2024-11-14T05:31:41",
     "text": "<a href=\"##谜题\">#谜题</a> 这次是赛博管道维修工（？）\n\n<a href=\"https://www.puzzle-pipes.com/\">Pipes</a>",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "reply": {
       "id": 4404,
@@ -63771,7 +63771,7 @@
     "id": 4649,
     "date": "2024-11-14T18:52:26",
     "text": "穿模飞出去看看房间有多乱（？）",
-    "views": 112,
+    "views": 113,
     "forwards": 1,
     "images": [
       {
@@ -63790,7 +63790,7 @@
     "id": 4650,
     "date": "2024-11-15T02:13:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n用同样的方法和同样的肉炒了卷心菜和小油菜，感觉还是卷心菜更好吃一点 quq\n\n以后不买小油菜了。<del>只有小孩子才挑食，大人不买就好了</del>",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "images": [
       {
@@ -63907,7 +63907,7 @@
     "id": 4657,
     "date": "2024-11-16T09:07:27",
     "text": "GitHub 星星数量排名前 10000 的代码语言统计数据\n\n排名第三位的是「没有代码」 🌚 <del>众所周知 GitHub 是一个由微软开发的免费网盘</del>",
-    "views": 155,
+    "views": 156,
     "forwards": 2,
     "images": [
       {
@@ -63926,7 +63926,7 @@
     "id": 4658,
     "date": "2024-11-17T05:43:42",
     "text": "有生之年 Discord 宕了",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
@@ -63945,7 +63945,7 @@
     "id": 4659,
     "date": "2024-11-18T04:45:51",
     "text": "今天想要找到现在 AI 画图的 SOTA 的时候发现了一个奇妙网站 <a href=\"https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard\">Text to Image Leaderboard</a>，用来收集不同模型的对比数据\n\n但是因为不太相信大众审美，所以我花时间自己做了 900 次对比，得出了一个自己的审美排行榜，FLUX 1 Pro 在第一位\n\n对比过程中还发现 DALL-E 的图辨识度真的很高，每次都是一眼就能看出是 DALL-E 生成的，其他模型都不太能... 可能也是因为这个原因 DALL-E 生成的结果很让人审美疲劳，在我的审美排行中只拿了 43%\n\n有点想试试训练一个分类模型看看每个生成模型的输出的辨识度 quq（不过说好了不开坑了",
-    "views": 119,
+    "views": 120,
     "forwards": 2,
     "media_group_id": 13855241208528253,
     "images": [
@@ -63975,7 +63975,7 @@
     "id": 4661,
     "date": "2024-11-18T04:58:09",
     "text": "（前情提要：syama 想让 gpt4o 画一张我和她和瑞希躺在床上的样子，但是输出结果一直被 OpenAI 的内容政策拦截，所以我把 prompt 拿给 FLUX 1.1 Pro Ultra 画了\n\n感觉 OpenAI 对图片生成的内容拦截是不是太严了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 137,
+    "views": 138,
     "forwards": 1,
     "reply": {
       "id": 4659,
@@ -63999,7 +63999,7 @@
     "id": 4662,
     "date": "2024-11-18T07:04:50",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n看到某频道里面发了 Flamingo 突然想到这首歌 qwq\n\n♪ Black, white, green or blue\n♪ show off your natural hue\n♪ Flamingo oh oh oh woah\n♪ If you're multicoloured that’s cool too\n♪ You don’t need to change\n♪ It’s boring being the same\n♪ Flamingo oh oh oh woah\n♪ You’re pretty either way",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "files": [
       {
@@ -64021,7 +64021,7 @@
     "id": 4663,
     "date": "2024-11-18T16:00:03",
     "text": "<a href=\"##ADHD\">#ADHD</a> 犯蠢 1/1",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "images": [
       {
@@ -64040,7 +64040,7 @@
     "id": 4664,
     "date": "2024-11-18T17:10:54",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n第一次听到 Flamingo 这首歌其实是四五年前在 osu 里面打了这个 WTN3 的 remix，也好好听 qwq",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "reply": {
       "id": 4662,
@@ -64066,7 +64066,7 @@
     "id": 4665,
     "date": "2024-11-19T06:57:00",
     "text": "感觉自己开始会玩一点 shogi 了 ☗",
-    "views": 114,
+    "views": 115,
     "forwards": 1,
     "images": [
       {
@@ -64085,7 +64085,7 @@
     "id": 4666,
     "date": "2024-11-19T15:00:43",
     "text": "<a href=\"##桌游\">#桌游</a> 今天聊聊说想早上七点起来看国足，我看时间已经不早了当然是选择了通宵 qwq\n\n和聊聊玩 shogi 完胜，然后聊聊觉得我在欺负不会玩的人（确实有点）所以就改成了玩她喜欢的桌游 Through the Ages，大概是一个《文明》系的桌游\n\n我是第一次玩所以花了半个小时看教程（不得不说教程对话写得真的很幽默）刚开始资源也没有平衡好，玩到 I 时代的时候拿太多降价升级卡了导致矿物花不掉、研究点产出又不足，很多科技都屯在手上没打出来... 以及很多回合都因为思考太久严重超时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n到最后一回合的时候原本觉得要输了，文化点数差了整整 31，但是也在历史事件里埋好了最好的准备... 结果结算之后居然赢了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 结算过程反超了 38 点，奇妙",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 13856227549052269,
     "images": [
@@ -64115,7 +64115,7 @@
     "id": 4668,
     "date": "2024-11-20T10:07:34",
     "text": "鬼故事 整理聊聊的工作桌发现热熔胶枪一直开着... 它可能已经 100W 烧了三个月了，现在喷头已经堵住挤不出来了",
-    "views": 99,
+    "views": 100,
     "forwards": 1,
     "images": [
       {
@@ -64134,7 +64134,7 @@
     "id": 4669,
     "date": "2024-11-20T14:43:04",
     "text": "今天是第 25 个跨性别纪念日。由 One Among Us、Project Trans 及跨性别相关放送联合举办的纪念晚会将于2024年11月23日 20:00 (UTC+8) 举行，以文字、念白与歌声献给陨落的星辰，献给所有柔软而坚韧的我们。\n\n收看方式： <a href=\"YouTube.com/@OneAmongUsPride\">YouTube.com/@OneAmongUsPride</a> 或访问 <a href=\"live.oau.app\">live.oau.app</a> 获取更多直播信息。",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -64156,7 +64156,7 @@
     "id": 4670,
     "date": "2024-11-20T15:44:45",
     "text": "呜呜 当时写 AquaDX 的时候选择了「先用最方便快捷的方式把网页做出来，等有问题的时候再优化」，然后就随手写出了一个请求需要把数据库两个表完整拉下来的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n然后现在真的有问题了，现在请求一次排行榜要拉 1452 个用户和 221448 条游玩记录... 优化之前要整整 30 秒，稍微加了缓存和 batching 优化了一下也依然要十秒 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "reply": {
       "id": 3430,
@@ -64180,7 +64180,7 @@
     "id": 4671,
     "date": "2024-11-21T03:25:16",
     "text": "今天花了一整天调查这个数据库问题， Hibernate 全责 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 以后的项目再也不用 Java EE 了\n\n我试了一下把这整个函数用 native mysql 写出来，发现这条大查询只用 1.19 秒，那为什么我的 kotlin 代码运行速度差这么大呢？\n\n开了 SQL debug 之后我发现即使只是 .findAll() 都要 N 条查询，按理来说 select * from table 只要一条查询就行啊，为什么呢？仔细看看这 N 条查询发现它把 OneToOne fk 都一个一个拉下来了。原本首先花了一条查询 SELECT * FROM parent，然后又花了 N 条查询拉 SELECT * FROM child WHERE id=i...\n\n查了一下这个问题，网上说开 Hibernate bytecode enhance 就好了，它会修改编译完的字节码让 fk 链接用到的时候再查询而不是预先把所有东西查询好。问题是它不太兼容 kotlin，绕过了三个不同的问题才成功编译，之后加上 lazy fetch 终于可以让它在用到 fk 的时候再拉数据了... \n\n但是即使这样依然要把需要拉所有 fk 数据的地方改成手动 mysql 查询，因为 orm/jpql 没办法让 findAll 把单独的查询优化成 join <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n唉 感觉凡是透明一点的 ORM 比如 ktorm 或者 exposed 都不会有这样的问题，以后不会再用 Java EE 了",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13857276129125749,
     "images": [
@@ -64214,7 +64214,7 @@
     "id": 4673,
     "date": "2024-11-21T15:30:32",
     "text": "蜂蜜太久没用变成糖块了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -64233,7 +64233,7 @@
     "id": 4674,
     "date": "2024-11-21T17:55:52",
     "text": "用原生 mysql 重写了整个查询之后获取排行榜从 30s 降到 4s 了！\n\n<del>果然什么优化都没有 RIIR 最方便</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "reply": {
       "id": 4670,
@@ -64256,14 +64256,14 @@
     "id": 4675,
     "date": "2024-11-21T20:30:46",
     "text": "syama 这两天在找苏州的合租，有兴趣的话请去联系 <a href=\"https://t.me/akiyamaXmizuki\">@akiyamaXmizuki</a>\n\n（帮忙打下广告 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 232,
+    "views": 233,
     "forwards": 2
   },
   {
     "id": 4676,
     "date": "2024-11-22T04:23:54",
     "text": "高情商：my email will be encrypted\n低情商：即使对等 AES 密钥是微软服务器下发的，但是我们用 AES 加密过哦！\n\n...感觉现在很多服务的“加密”都是做给不懂计算机但是有 privacy obsession 的人看的，实际上并没有真的安全\n\n就比如这个邮件的 RMS 加密，有没有加密实际上 attack vector 都并没有变。对中间人来说，因为客户端和邮件服务器之间有 TLS，即使没有 RMS 也没办法看到内容。如果任何一方被盗了号或者盗了饼干或者电脑中了后门，攻击者无论有没有 RMS 都能看到内容。如果微软服务器被黑了，也一样无论有没有 RMS 都能看到内容，因为加密密钥存在服务器上... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 唉，真的什么都没有解决呢\n\n<del>感觉懂安全的人在这个时代已经摆烂了，想绝对安全也不太可能呢，鬼知道还有多少 Jia Tan 在我的电脑上留着后门</del>",
-    "views": 128,
+    "views": 129,
     "forwards": 2,
     "media_group_id": 13857995477375541,
     "images": [
@@ -64293,7 +64293,7 @@
     "id": 4678,
     "date": "2024-11-22T09:48:28",
     "text": "真的觉得应该停一停了，感觉每隔一段时间就能看到一篇标题是 \"{} is all you need\" 的论文... 不是所有东西都应该是 all you need 好吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 178,
+    "views": 179,
     "forwards": 2,
     "images": [
       {
@@ -64312,7 +64312,7 @@
     "id": 4679,
     "date": "2024-11-22T15:37:39",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6327782811914733923.webp\">🥳</i>",
-    "views": 157,
+    "views": 158,
     "forwards": 1,
     "images": [
       {
@@ -64331,7 +64331,7 @@
     "id": 4680,
     "date": "2024-11-22T16:10:49",
     "text": "这只是一张普通的日落",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64354,7 +64354,7 @@
     "id": 4681,
     "date": "2024-11-23T00:29:34",
     "text": "低情商：晚上 11:59 due\n高情商：晚上 6:00 due，晚交了六个小时以内会扣掉 -0% 哦！",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
@@ -64373,7 +64373,7 @@
     "id": 4682,
     "date": "2024-11-23T01:14:05",
     "text": "时隔一年半的后续：今天 Zotero 告诉我说之前遇到的这篇造假的论文被 retract 了，可喜可贺\n\n看到 Retract notice 里面指出了一个 \"Paper Mill: A business that creates and sells research papers where the buyer(s) claim authorship; the business is generally unacknowledged as a contributor.\" ...居然这个世界上还有这种业务存在，好可怕。",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "reply": {
       "id": 2202,
@@ -64396,7 +64396,7 @@
     "id": 4683,
     "date": "2024-11-24T05:52:34",
     "text": "唉 这就是 AI hype 的 nonsense 吗\n\n<a href=\"https://arxiv.org/abs/2308.09597\">ChatHaruhi</a> 这篇没写完的论文，结果评估都没有，居然就发 preprint 了，居然已经有 15 citation 了...  <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n非常可惜我也会给它贡献一个 citation",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "images": [
       {
@@ -64415,28 +64415,28 @@
     "id": 4684,
     "date": "2024-11-24T18:20:20",
     "text": "想吃烤聊天气泡 🔥💬",
-    "views": 117,
+    "views": 118,
     "forwards": 0
   },
   {
     "id": 4685,
     "date": "2024-11-25T09:54:45",
     "text": "看了一集ダンダダン，真的爱了这个发疯展开，作画也好棒，这是新时代的 FLCL 吗",
-    "views": 114,
+    "views": 115,
     "forwards": 0
   },
   {
     "id": 4686,
     "date": "2024-11-25T15:57:03",
     "text": "谁还记得曾经有段时间给 Minecraft 安装 mod 要手动解压 minecraft.jar，把 class 文件替换掉再删掉 META-INFO <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n（暴露年龄了",
-    "views": 114,
+    "views": 115,
     "forwards": 0
   },
   {
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 228,
+    "views": 229,
     "forwards": 2,
     "images": [
       {
@@ -64455,7 +64455,7 @@
     "id": 4688,
     "date": "2024-11-26T04:33:29",
     "text": "总是把 MTEB leaderboard 打成 MBTI <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "images": [
       {
@@ -64474,7 +64474,7 @@
     "id": 4689,
     "date": "2024-11-26T09:13:07",
     "text": "让所有的机器都训练上了模型，终于可以安心睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 1,
     "reply": {
       "id": 4283,
@@ -64496,7 +64496,7 @@
   {
     "id": 4690,
     "date": "2024-11-26T16:33:25",
-    "views": 118,
+    "views": 119,
     "forwards": 1,
     "images": [
       {
@@ -64515,7 +64515,7 @@
     "id": 4691,
     "date": "2024-11-27T01:08:16",
     "text": "sus is coming <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 131,
+    "views": 132,
     "forwards": 2,
     "images": [
       {
@@ -64534,14 +64534,14 @@
     "id": 4692,
     "date": "2024-11-27T07:14:59",
     "text": "一直不懂为什么一个电脑插两个鼠标不会出现两个光标 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉是很不合理的设计",
-    "views": 122,
+    "views": 123,
     "forwards": 0
   },
   {
     "id": 4693,
     "date": "2024-11-27T12:51:51",
     "text": "如果你有一个无限的 OpenAI 钱包可以免费调 /v1/completion 的话，你会用它做什么呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<span class=\"spoiler\"><span>如果我说我真的有了类似的东西呢</span></span>",
-    "views": 119,
+    "views": 120,
     "forwards": 1
   },
   {
@@ -64618,7 +64618,7 @@
   {
     "id": 4698,
     "date": "2024-11-29T22:34:08",
-    "views": 110,
+    "views": 111,
     "forwards": 1,
     "files": [
       {
@@ -64643,14 +64643,14 @@
     "id": 4699,
     "date": "2024-11-30T01:00:08",
     "text": "有时候感觉写 research 用的 python 程序遇到的兼容性问题比给 Minecraft 做模组整合包还多\n\n两个大库时不时就会出现不兼容，然后就要单独分两个环境... 我现在一个项目有三个环境了，不同的脚本分别要在不同环境里面跑... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 0
   },
   {
     "id": 4700,
     "date": "2024-11-30T08:47:41",
     "text": "QwQ",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13863651691609925,
     "images": [
@@ -64758,7 +64758,7 @@
     "id": 4707,
     "date": "2024-12-01T17:24:55",
     "text": "<a href=\"https://youtu.be/UWaKhaq5UtM\">https://youtu.be/UWaKhaq5UtM</a>",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "forwarded_from": {
       "name": "silly foxes posting ❄️"
@@ -64768,7 +64768,7 @@
     "id": 4708,
     "date": "2024-12-01T17:27:12",
     "text": "也许我感情经历中没有过 100% 顺直的对象也是因为这些事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "reply": {
       "id": 4707,
@@ -64797,7 +64797,7 @@
     "id": 4711,
     "date": "2024-12-02T17:21:15",
     "text": "一周之前自己剪了一下头发，今天又重新修了一下，剪成 ena 内扣短发了 qwq（感谢聊聊帮忙修后面自己看不见的头发\n\n尝试了一直不敢尝试的发型 <span class=\"spoiler\"><span>一直害怕短发会变得不 pass，看来也并没有喵</span></span>",
-    "views": 120,
+    "views": 121,
     "forwards": 3,
     "images": [
       {
@@ -64816,7 +64816,7 @@
     "id": 4712,
     "date": "2024-12-03T04:20:27",
     "text": "姜上面长出了青葱（？）<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -64835,7 +64835,7 @@
     "id": 4713,
     "date": "2024-12-03T14:27:20",
     "text": "作息调回来了！",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -64854,7 +64854,7 @@
     "id": 4714,
     "date": "2024-12-03T18:11:38",
     "text": "两年前设计的补佳乐时钟终于在淘宝上架了！\n\n（感谢 Syama 帮忙上架，明明之前把设计图发给荔枝实验室了但是他们没理我 T^T）\n\n<a href=\"https://item.taobao.com/item.htm?id=859041415321\">链接在这里</a> 欢迎大家下单 qwq",
-    "views": 142,
+    "views": 143,
     "forwards": 4,
     "reply": {
       "id": 925,
@@ -64911,7 +64911,7 @@
     "id": 4718,
     "date": "2024-12-06T14:37:20",
     "text": "今年多伦多冬天的第一场大雪正好在农历二十四节气之「大雪」的第一天诶 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13867966725717885,
     "images": [
@@ -64941,7 +64941,7 @@
     "id": 4720,
     "date": "2024-12-06T18:01:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n为什么觉得兰州拉面里面应该放些洋葱",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13868064588399461,
     "images": [
@@ -64971,14 +64971,14 @@
     "id": 4722,
     "date": "2024-12-07T09:41:40",
     "text": "哭哭 Notion 为什么要把「创建 latex 公式」的快捷键绑定到 ctrl + alt + e 还不能改... 总是会不小心按到 ctrl + alt + w 把窗口关了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 1
   },
   {
     "id": 4723,
     "date": "2024-12-07T18:42:15",
     "text": "考试当天告诉我 ttc 地铁停了... 然后看了一眼打车价格，原本可能 $20 不到的路程现在要 $50",
-    "views": 77,
+    "views": 78,
     "forwards": 2,
     "media_group_id": 13868775484602197,
     "images": [
@@ -65008,7 +65008,7 @@
     "id": 4725,
     "date": "2024-12-07T19:19:54",
     "text": "明明提前出门了十分钟，结果现在已经迟到 20 分钟了还在 shuttle bus 上",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 4723,
@@ -65107,7 +65107,7 @@
     "id": 4732,
     "date": "2024-12-08T22:31:48",
     "text": "真的越来越讨厌 YouTube 这个平台了\n\n说是 \"1080P HD\" 但是看着眼睛好不舒服，画面上全是肉眼可见的压缩失真，为什么呢？下载下来发现居然被 vp9 压到了只有不到 1 mbps 的码率... 相比之下 Twitch 给直播用的 1080p30 码率推荐都是至少 4.5 mbps，明明直播这种实时性更重要的事情还是更需要低码率的",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "media_group_id": 13869576869662997,
     "images": [
