@@ -62907,7 +62907,7 @@
     "id": 4588,
     "date": "2024-10-26T08:03:00",
     "text": "今天重构了一下我两年前给 OAU 写的 <a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> 项目，加入了自动账号池切换和爬消息回复找妈妈的代码，然后写了一个 tg bot <a href=\"https://t.me/AzaBirdBot\">@AzaBirdBot</a> 可以更方便地备份一个人的推特了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n大家如果遇到觉得身边的人可能想要冲动删号的时候可以过来预防性地备份一份 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>\n\n<span class=\"spoiler\"><span>其实开始重构这个项目是因为 syama 和我说想要和人对线但是不会对线，然后我想能不能训练一个网络对线教学机器人，就找书书要了一份她的推特导出hhhh </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i><span class=\"spoiler\"><span> 然后发现导出里面居然回复数据只有自己的内容，没有被回复的推文内容，所以就去重写了这个爬虫 qwq</span></span>",
-    "views": 129,
+    "views": 130,
     "forwards": 2,
     "images": [
       {
@@ -62994,7 +62994,7 @@
     "id": 4595,
     "date": "2024-10-27T22:40:43",
     "text": "在 maimai 里面获得了新的旅行伙伴 syama <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>如果在现实中获得 syama 也这么简单就好了</span></span>（不是",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 13840550750729853,
     "images": [
@@ -63083,7 +63083,7 @@
     "id": 4601,
     "date": "2024-10-29T16:57:02",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "images": [
       {
@@ -63102,7 +63102,7 @@
     "id": 4602,
     "date": "2024-10-29T16:59:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （昨天？\n照烧鸡腿饭 qwq",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 13841769229694389,
     "images": [
@@ -63132,7 +63132,7 @@
     "id": 4604,
     "date": "2024-10-29T17:46:32",
     "text": "这次试了一下用五个 Bot 号用初始号能达到的最优配置挂机，拿了一个 105 位 qwq\n\n虽然其实还可以更优化的，因为这次开号运气太差了花了 93000 石头才拿到活动队全员，导致后面石头不够没办法全程五倍体力了...  如果活动刚开始的时候多开几个号选运气最好的也许体力就够拿到 100 了\n\n可能这就差不多是这个游戏不氪金的天花板了，花掉初始号 150000 石头用最优队伍 24h 不间断私人联机五倍刷效率曲也只能到这里... 真的很想知道我前面的 104 个人都是什么怪物",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "media_group_id": 13841791937301573,
     "images": [
@@ -63177,7 +63177,7 @@
     "id": 4607,
     "date": "2024-10-31T21:01:38",
     "text": "万圣节快乐！",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "images": [
       {
@@ -63256,7 +63256,7 @@
     "id": 4613,
     "date": "2024-11-03T02:01:28",
     "text": "今天晚上醒来看到凌莞反馈说服务器宕了，赶快起床看一看，发现 nginx 没起来，原因是其中一个 http 反代的上游死了配置文件检查没过...\n\n啊啊，真的是好蠢的设计，其中一个站点的反代挂了的话，服务起来剩下的站点还能用啊... 为什么要设计成一个连不上就不启动服务了？原本可以是 5% down 的现在变成了 100% down...\n\n感觉这已经是第无数次被 nginx 背刺了，之前还有发现 autoindex 在 ls 的时候会阻塞所有线程，然后之前我服务器上有一个几百万文件的文件夹，有人访问这个目录的时候就会让所有服务卡死不响应，而且去搜了解决方案似乎 2024 年都无解...\n\n真的不想再用 nginx 了，等这学期结束就全都换到 caddy",
-    "views": 114,
+    "views": 115,
     "forwards": 2,
     "images": [
       {
@@ -64040,7 +64040,7 @@
     "id": 4664,
     "date": "2024-11-18T17:10:54",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n第一次听到 Flamingo 这首歌其实是四五年前在 osu 里面打了这个 WTN3 的 remix，也好好听 qwq",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "reply": {
       "id": 4662,
@@ -64066,7 +64066,7 @@
     "id": 4665,
     "date": "2024-11-19T06:57:00",
     "text": "感觉自己开始会玩一点 shogi 了 ☗",
-    "views": 113,
+    "views": 114,
     "forwards": 1,
     "images": [
       {
@@ -64758,7 +64758,7 @@
     "id": 4707,
     "date": "2024-12-01T17:24:55",
     "text": "<a href=\"https://youtu.be/UWaKhaq5UtM\">https://youtu.be/UWaKhaq5UtM</a>",
-    "views": 108,
+    "views": 109,
     "forwards": 1,
     "forwarded_from": {
       "name": "silly foxes posting ❄️"
@@ -64768,7 +64768,7 @@
     "id": 4708,
     "date": "2024-12-01T17:27:12",
     "text": "也许我感情经历中没有过 100% 顺直的对象也是因为这些事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "reply": {
       "id": 4707,
@@ -65049,7 +65049,7 @@
     "id": 4728,
     "date": "2024-12-08T11:08:20",
     "text": "结果晚上八点回到家太累躺下就睡着了，没想到一觉睡到了凌晨五点 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n记录一下昨天开心的事情：考完试遇到一起做项目的组员，他送给我了可爱瑞希 fufu <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 然后我们去奶茶店一起打 pjsk\n\n（今天刚知道原来 pjsk 有国际服限定的曲子，结果打开国际服发现有 3GB 的数据要下载 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n还玩了玩魔方，这位是魔方社社长好厉害，感觉我还没反应过来他就解完了。然后发现原来聊聊也会魔方，结果这一桌只有我不会吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i> 不过学到了一个交换方块的小技巧，魔方好奇妙\n\n之后和聊聊去喜欢的店吃了拉面，这家的叉烧肉很棒。感觉在这边没办法像国内那样买到速冻的叉烧肉好可惜，不然在家里也可以做出这样的拉面了",
-    "views": 63,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13869248801268453,
     "images": [
@@ -65088,7 +65088,7 @@
   {
     "id": 4731,
     "date": "2024-12-08T19:51:18",
-    "views": 53,
+    "views": 57,
     "forwards": 0,
     "images": [
       {
@@ -65107,7 +65107,7 @@
     "id": 4732,
     "date": "2024-12-08T22:31:48",
     "text": "真的越来越讨厌 YouTube 这个平台了\n\n说是 \"1080P HD\" 但是看着眼睛好不舒服，画面上全是肉眼可见的压缩失真，为什么呢？下载下来发现居然被 vp9 压到了只有不到 1 mbps 的码率... 相比之下 Twitch 给直播用的 1080p30 码率推荐都是至少 4.5 mbps，明明直播这种实时性更重要的事情还是更需要低码率的",
-    "views": 44,
+    "views": 50,
     "forwards": 0,
     "media_group_id": 13869576869662997,
     "images": [
