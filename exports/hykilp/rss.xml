@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Dec 2024 10:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:10:57 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4738</title>
+      <link>https://aza.moe/life?post=4738</link>
+      <description>&lt;p&gt;新的硬盘到了，是 16TB 的 HC550，终于可以把重要数据从三年前买的这个 12TB 坏盘上搬走了。&lt;/p&gt;
+&lt;p&gt;重新给之前的坏道扫描脚本写了一个 UI，因为是懒懒猫所以这次用了单文件 petite-vue + tailwind，感觉写起来很简洁很适合这种要嵌到小脚本里的场合。开源到 &lt;a href="https://github.com/hykilpikonna/HyPyUtils"&gt;HyPyUtils&lt;/a&gt; 仓库里面了&lt;/p&gt;
+&lt;p&gt;扫描出来新的盘全绿，旧的盘感觉把 870c~993c 这一段屏蔽掉其他的地方还能用 qwq&lt;/p&gt;
+&lt;p&gt;以及 &lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 发现转转盘好有意思，刚开始扫的时候有 247 MB/s，但是快结束的时候就只有 130 MB/s 了，为什么呢？因为盘是圆形的，越靠圆心圆周就越短，所以磁头每次 seek 能读到的数据就越少 🤯 奇妙&lt;/p&gt;</description>
+      <guid isPermaLink="false">4738</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4736</title>
       <link>https://aza.moe/life?post=4736</link>
