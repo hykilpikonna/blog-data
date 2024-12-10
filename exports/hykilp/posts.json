@@ -39492,7 +39492,7 @@
     "id": 2937,
     "date": "2023-11-25T09:36:07",
     "text": "RGB！",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 2936,
@@ -39518,7 +39518,7 @@
     "id": 2938,
     "date": "2023-11-25T18:33:49",
     "text": "开源了写了文档，源码在<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/CardReader\">这里</a> qwq",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "reply": {
       "id": 2936,
@@ -39529,14 +39529,14 @@
     "id": 2939,
     "date": "2023-11-25T20:14:34",
     "text": "悲 发烧了",
-    "views": 100,
+    "views": 101,
     "forwards": 0
   },
   {
     "id": 2940,
     "date": "2023-11-26T01:14:10",
     "text": "每次看到分区软件上的 \"GPT\" 都会愣一下，原来 GPT 还有过这个意思来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0
   },
   {
@@ -39627,7 +39627,7 @@
     "id": 2946,
     "date": "2023-11-27T12:28:12",
     "text": "算了不补课了，这个点尝试理解 Hidden Markov filtering 真的完全看不懂... 还有 5h 考试那就睡 4h 好了。\n\n今天还要给 Jun 带电钻去搬她的电视，晚上 11:59 之前要交 OS 的小作业，明天要去医院至少要 3h，然而后天中午之前要两个人写完一个能用的 Duolingo++ 移动端网页（现在只写完了登录和选择语言），周五语言学大作业，下周一共三个专业课大作业还有一个演讲...\n\n好累好累好累",
-    "views": 120,
+    "views": 121,
     "forwards": 1,
     "reply": {
       "id": 2945,
@@ -39649,7 +39649,7 @@
   {
     "id": 2947,
     "date": "2023-11-27T12:53:00",
-    "views": 112,
+    "views": 114,
     "forwards": 0,
     "files": [
       {
@@ -39674,7 +39674,7 @@
     "id": 2948,
     "date": "2023-11-27T18:14:07",
     "text": "考完了！比预计的好，有被某位校友写在考场柱子上的文字暖到 qwq",
-    "views": 95,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 2946,
@@ -39697,7 +39697,7 @@
     "id": 2949,
     "date": "2023-11-28T02:56:36",
     "text": "好消息是数据都备份出去了，而且 scrub 一遍发现数据只有 28 个 4kb 块出无法恢复的错。坏消息是剩下的问题我也不知道怎么修，现在 Reallocated Sector 还在不断增加，而且 scrub 之后 btrfs check 还有无数个报错...\n\n目前在进行一些超级慢的坏道扫描，从 SMART error log 看来坏道似乎是比较连续的，地址也很接近，希望可以屏蔽一些坏道解决。\n\n从国内买了一块新的二手 14TB 盘，暂时打算等新盘到之前继续用，希望不会在新盘到之前坏掉（x）\n\n<span class=\"spoiler\"><span>为什么别人通电两年没问题的盘到我手里不到一年就坏成这样了呢？突然在想会不会和使用习惯有关... <del>我我服务器离桌子很近而且我 ADHD 经常抖腿，会不会是抖腿震到硬盘了</del> </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</span></span></i>",
-    "views": 100,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 2944,
@@ -39720,7 +39720,7 @@
     "id": 2950,
     "date": "2023-11-28T08:19:38",
     "text": "写了一个扫坏道脚本，会用 1gb 区块估算速度和剩余时间、可以随时停下从断点继续、停止扫描的时候会等这个区块扫完以防遗留、会把所有坏道和扫描历史记录成 Json、自动做地址换算转成要屏蔽的 LBA",
-    "views": 137,
+    "views": 139,
     "forwards": 4,
     "media_group_id": 13609276631025917,
     "images": [
@@ -39754,14 +39754,14 @@
     "id": 2952,
     "date": "2023-11-29T06:16:05",
     "text": "哭哭 对虾过敏，但是今天聊聊叫炸虾没忍住就吃了，结果现在胃痛到想要去 ER <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>\n\n明明之前吃虾只会拉肚子就觉得也许没事的... 结果这次是持续的剧烈胃痛，已经从十一点疼到现在两个小时了",
-    "views": 138,
+    "views": 140,
     "forwards": 3
   },
   {
     "id": 2953,
     "date": "2023-11-29T06:32:32",
     "text": "因为痛所以吃了止痛药布洛芬，然后刚才问猫猫球才知道布洛芬反而会刺激胃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "reply": {
       "id": 2952,
@@ -39772,7 +39772,7 @@
     "id": 2954,
     "date": "2023-11-29T11:08:01",
     "text": "我：想吃披萨🍕，明天我们烤披萨吧\n聊聊：但是我们没有披萨怎么烤\n我：自己和面自己做！\n聊聊：那我们也没有披萨的食材呀\n我：我们有菠萝罐头和淀粉香肠 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n聊聊：💢💢（大声哀嚎）",
-    "views": 101,
+    "views": 102,
     "forwards": 0
   },
   {
@@ -39816,7 +39816,7 @@
     "id": 2958,
     "date": "2023-12-01T07:30:27",
     "text": "说起来现在 <a href=\"aza.moe\">aza.moe</a> 这个主页还是部署在 github pages 来着，之前还害怕会不会总共大小超过 1GB 就要重构了，因为 github 规则上写允许的最大部署就是 1GB\n\n结果原来只是警告一下“超过了可能会部署失败”但是实际上完全没问题 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 2955,
@@ -39839,7 +39839,7 @@
     "id": 2959,
     "date": "2023-12-01T20:31:51",
     "text": "呜 昨天熬夜写作业熬到凌晨八点，现在迷迷糊糊躺在床上听着<del>聊聊打字_asmr.wav</del>，感觉好好听被催眠了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 2,
     "images": [
       {
@@ -39858,14 +39858,14 @@
     "id": 2960,
     "date": "2023-12-01T21:21:35",
     "text": "下雪了！",
-    "views": 107,
+    "views": 108,
     "forwards": 0
   },
   {
     "id": 2961,
     "date": "2023-12-01T21:30:21",
     "text": "切掉的芹菜看起来像一朵玫瑰花",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "images": [
       {
@@ -44477,7 +44477,7 @@
     "id": 3283,
     "date": "2024-02-02T06:13:33",
     "text": "哭哭 数据迁移好麻烦，先睡觉觉明天再继续折腾（eta +1d）",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "reply": {
       "id": 3281,
@@ -44488,7 +44488,7 @@
     "id": 3284,
     "date": "2024-02-02T06:18:53",
     "text": "数据已经拷完了，从 12TB btrfs 盘迁移到了新的 14TB bcachefs 盘。\n\n但是因为不想像上次那样被床和抖腿震坏所以还需要物理迁移到一个不会被震的地方，然后要在那边重新 setup NAS\n\n接下来还要看看旧硬盘上有哪些文件损坏了没有拷出来需要用 ddrescue 恢复...",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "reply": {
       "id": 3283,
@@ -44499,14 +44499,14 @@
     "id": 3285,
     "date": "2024-02-02T19:41:51",
     "text": "<a href=\"##梦\">#梦</a> 梦见在学校课上认识了一个新的朋友，她带我坐学校的超级电梯去月球上参观她的研究所，说她在研究还原地球的生态，在控制的小环境里的效果还不错，好厉害\n\n想留一个入口回到这里，就假装去厕所去开了两张传送卡片。似乎是一种不是很多人知道、可以一次性传送到记录的地点的卡片。不过在开的时候被一个穿得很正式的研究员看到了，靠近了我才看清是猫猫球，原本紧张的气氛突然放松了下来。聊了一聊发现原来猫猫球也是来开传送的，从另一边的超级电梯混进来，还给我看了她的 DIY 传送卡片，好厉害",
-    "views": 96,
+    "views": 97,
     "forwards": 1
   },
   {
     "id": 3286,
     "date": "2024-02-02T22:18:55",
     "text": "我要疯了",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -44530,7 +44530,7 @@
     "id": 3287,
     "date": "2024-02-02T23:18:58",
     "text": "贴完了！花了整整一个小时，ADHD 做这种又重复又需要集中的事情真是地狱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及原来 Windows 有防猫功能",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "media_group_id": 13655327505851861,
     "images": [
@@ -44584,7 +44584,7 @@
     "id": 3291,
     "date": "2024-02-03T03:10:10",
     "text": "哇 自动泡面售货机",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -44603,14 +44603,14 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 110,
+    "views": 111,
     "forwards": 0
   },
   {
     "id": 3293,
     "date": "2024-02-03T23:09:48",
     "text": "Q: 下午六点才起床的话吃的是早饭还是晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 104,
+    "views": 105,
     "forwards": 0
   },
   {
@@ -64878,7 +64878,7 @@
     "id": 4715,
     "date": "2024-12-04T03:21:22",
     "text": "Linux 日常：运行一个程序，发现它打开了 xemacs，想退出\n:wq 没有用\n^q 没有用\n^x ^d ^c ^\\ 都没有用\n然后开了一个新的 shell 开任务管理器把它杀了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 1
   },
   {
@@ -64941,7 +64941,7 @@
     "id": 4720,
     "date": "2024-12-06T18:01:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n为什么觉得兰州拉面里面应该放些洋葱",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13868064588399461,
     "images": [
@@ -65008,7 +65008,7 @@
     "id": 4725,
     "date": "2024-12-07T19:19:54",
     "text": "明明提前出门了十分钟，结果现在已经迟到 20 分钟了还在 shuttle bus 上",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 4723,
@@ -65137,7 +65137,7 @@
     "id": 4734,
     "date": "2024-12-09T13:16:31",
     "text": "打视频电话的时候把 iPad 放在腿上会发生什么：",
-    "views": 74,
+    "views": 76,
     "forwards": 1,
     "images": [
       {
@@ -65156,14 +65156,14 @@
     "id": 4735,
     "date": "2024-12-09T15:20:41",
     "text": "是不是把系统用户名改成 \"sandbox\" 就可以绕过大部分的病毒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 94,
+    "views": 96,
     "forwards": 1
   },
   {
     "id": 4736,
     "date": "2024-12-09T19:26:06",
     "text": "恭喜 HyDEV 家里云到现在总共宕机整整 1024 次",
-    "views": 61,
+    "views": 63,
     "forwards": 0,
     "images": [
       {
@@ -65182,7 +65182,7 @@
     "id": 4738,
     "date": "2024-12-10T12:06:47",
     "text": "新的硬盘到了，是 16TB 的 HC550，终于可以把重要数据从三年前买的这个 12TB 坏盘上搬走了。\n\n重新给之前的坏道扫描脚本写了一个 UI，因为是懒懒猫所以这次用了单文件 petite-vue + tailwind，感觉写起来很简洁很适合这种要嵌到小脚本里的场合。开源到 <a href=\"https://github.com/hykilpikonna/HyPyUtils\">HyPyUtils</a> 仓库里面了\n\n扫描出来新的盘全绿，旧的盘感觉把 870c~993c 这一段屏蔽掉其他的地方还能用 qwq\n\n以及 <a href=\"##TIL\">#TIL</a> 发现转转盘好有意思，刚开始扫的时候有 247 MB/s，但是快结束的时候就只有 130 MB/s 了，为什么呢？因为盘是圆形的，越靠圆心圆周就越短，所以磁头每次 seek 能读到的数据就越少 🤯 奇妙",
-    "views": 36,
+    "views": 41,
     "forwards": 0,
     "media_group_id": 13870659258497573,
     "images": [
