@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7247,
+    "views": 7248,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -65008,7 +65008,7 @@
     "id": 4725,
     "date": "2024-12-07T19:19:54",
     "text": "明明提前出门了十分钟，结果现在已经迟到 20 分钟了还在 shuttle bus 上",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "reply": {
       "id": 4723,
@@ -65182,7 +65182,7 @@
     "id": 4738,
     "date": "2024-12-10T12:06:47",
     "text": "新的硬盘到了，是 16TB 的 HC550，终于可以把重要数据从三年前买的这个 12TB 坏盘上搬走了。\n\n重新给之前的坏道扫描脚本写了一个 UI，因为是懒懒猫所以这次用了单文件 petite-vue + tailwind，感觉写起来很简洁很适合这种要嵌到小脚本里的场合。开源到 <a href=\"https://github.com/hykilpikonna/HyPyUtils\">HyPyUtils</a> 仓库里面了\n\n扫描出来新的盘全绿，旧的盘感觉把 870c~993c 这一段屏蔽掉其他的地方还能用 qwq\n\n以及 <a href=\"##TIL\">#TIL</a> 发现转转盘好有意思，刚开始扫的时候有 247 MB/s，但是快结束的时候就只有 130 MB/s 了，为什么呢？因为盘是圆形的，越靠圆心圆周就越短，所以磁头每次 seek 能读到的数据就越少 🤯 奇妙",
-    "views": 45,
+    "views": 46,
     "forwards": 0,
     "media_group_id": 13870659258497573,
     "images": [
