@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-12-11T16:09:42.416654+00:00</updated>
+  <updated>2024-12-11T18:12:29.561278+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4745</id>
+    <title>小桂桂的回忆录 📒 #4745</title>
+    <updated>2024-12-11T16:16:28+00:00</updated>
+    <content>&lt;p&gt;看看一个好软件是怎么被毁掉的&lt;/p&gt;
+&lt;p&gt;Windows 一直没有好用的驱动层按键映射软件，像 AHK 这种用户层映射会因为优先级问题让远程桌面出现卡键 bug、让依赖快捷键转发的东西不工作。如果想要「只让一个特定的键盘设备的 Ctrl 和 ⌘ 交换」的话，也许只有 reWASD 这一个软件可以做到。&lt;/p&gt;
+&lt;p&gt;三四年前我用 6.0 版本的 reWASD 是为了打蔚蓝多一些组合键，那个时候很好用，花 ￥66 买一个正版。快进到现在 8.0 版本，价格涨到了 ￥250，UI 改得乱七八糟，功能基本没有增加，反而重写了激活和反破解，以前用激活码就可以现在要验证帐号，导致我正版开机自起检查不到帐号崩溃...&lt;/p&gt;
+&lt;p&gt;唉我就是正版软件的受害者，回去用 7.0 破解版了 &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4745" rel="alternate"/>
+  </entry>
   <entry>
     <id>4744</id>
     <title>小桂桂的回忆录 📒 #4744</title>
