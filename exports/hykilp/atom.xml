@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-12-11T04:10:58.236463+00:00</updated>
+  <updated>2024-12-11T06:11:04.377591+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4743</id>
+    <title>小桂桂的回忆录 📒 #4743</title>
+    <updated>2024-12-11T05:39:52+00:00</updated>
+    <content>&lt;p&gt;发现 btrfs 开全局压缩有奇效&lt;/p&gt;
+&lt;p&gt;压缩前总共用了 2.82TB，开一下 zstd:3 直接省了 1.06TB 出来&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4743" rel="alternate"/>
+  </entry>
   <entry>
     <id>4738</id>
     <title>小桂桂的回忆录 📒 #4738</title>
