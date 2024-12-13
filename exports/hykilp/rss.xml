@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Dec 2024 04:11:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 06:11:21 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4754</title>
+      <link>https://aza.moe/life?post=4754</link>
+      <description>&lt;p&gt;之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊&lt;/p&gt;
+&lt;p&gt;然后看了一下他们&lt;a href="https://github.com/bddicken/languages/blob/main/loops/py/code.py"&gt;测试用的代码&lt;/a&gt;，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 
+(╯‵□′)╯︵┻━┻&lt;/p&gt;
+&lt;p&gt;直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4754</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4750</title>
       <link>https://aza.moe/life?post=4750</link>
