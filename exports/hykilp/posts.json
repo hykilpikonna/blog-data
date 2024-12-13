@@ -47071,7 +47071,7 @@
     "id": 3455,
     "date": "2024-03-08T06:27:33",
     "text": "今日迷惑：NAS 服务器上 firefox 内存泄漏导致笔记本 Windows 整个桌面卡死 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n补课看录像看着看着笔记本 Windows 桌面突然卡死了，重启了 explorer 发现是因为 NAS 服务器的 SMB 断了。ssh 连上服务器发现是我的 128GB 内存满了（？？）看看谁在用内存发现 Firefox 占了好多先杀了吧，然后一杀直接清出来了 65GB 内存（？？？ ）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n之后去 Grafana 上看看发现 Firefox 从三天前开始占用内存就一直在缓慢增加... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>  所以 2024 年有没有能用的浏览器啊，是不是需要加一个定时自动杀 firefox 的 crontab...",
-    "views": 104,
+    "views": 105,
     "forwards": 1,
     "media_group_id": 13679034031427581,
     "images": [
@@ -61633,7 +61633,7 @@
     "id": 4498,
     "date": "2024-10-02T20:28:01",
     "text": "突然想起 tensorflow/keras，才意识到好像所有人都逐渐抛弃 tf 转用 pytorch 了...\n\n不知道这是什么时候开始的，明明我两三年前看身边的人还都在用 tf <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不过确实也是因为 pytorch 更简洁吧\n\n看了一眼 Google Trend 好像确实是两三年前开始的",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -62398,7 +62398,7 @@
     "id": 4549,
     "date": "2024-10-19T02:54:31",
     "text": "前几天偶然看到了一种叫磁簧开关的开关，用磁铁吸住就会让电路连通欸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n今天去学校旁边的元件店花 $3.5 买了一个（溢价好高... 明明在国内 ￥1 能买五个）然后回家把聊聊的千年笋改造成用磁铁启动了！\n\n终于不用每次想要打开的时候把模型拿下来掀开后盖拨开关了",
-    "views": 120,
+    "views": 121,
     "forwards": 1,
     "media_group_id": 13834451770255701,
     "images": [
@@ -64373,7 +64373,7 @@
     "id": 4682,
     "date": "2024-11-23T01:14:05",
     "text": "时隔一年半的后续：今天 Zotero 告诉我说之前遇到的这篇造假的论文被 retract 了，可喜可贺\n\n看到 Retract notice 里面指出了一个 \"Paper Mill: A business that creates and sells research papers where the buyer(s) claim authorship; the business is generally unacknowledged as a contributor.\" ...居然这个世界上还有这种业务存在，好可怕。",
-    "views": 138,
+    "views": 139,
     "forwards": 1,
     "reply": {
       "id": 2202,
@@ -65107,7 +65107,7 @@
     "id": 4732,
     "date": "2024-12-08T22:31:48",
     "text": "真的越来越讨厌 YouTube 这个平台了\n\n说是 \"1080P HD\" 但是看着眼睛好不舒服，画面上全是肉眼可见的压缩失真，为什么呢？下载下来发现居然被 vp9 压到了只有不到 1 mbps 的码率... 相比之下 Twitch 给直播用的 1080p30 码率推荐都是至少 4.5 mbps，明明直播这种实时性更重要的事情还是更需要低码率的",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13869576869662997,
     "images": [
@@ -65335,14 +65335,14 @@
     "id": 4749,
     "date": "2024-12-12T06:01:27",
     "text": "今天计网课期末考试，考了两道课上没有讲的半超纲题... 一道是 NAT 打洞，另一道是 UDP/TCP Tunneling 🌚 哈哈哈哈哈这个我熟，这个我真是太熟了，简直是压到题\n\nNAT 题问了为什么两个不同 NAT 下的机器没办法 P2P 连接，然后问一个公网服务器怎样才能帮忙建立起不经过这个服务器的点对点连接，隧道题问了 UDP over TCP 和 TCP over UDP 哪个 overhead 更低 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 好简单",
-    "views": 81,
+    "views": 82,
     "forwards": 1
   },
   {
     "id": 4750,
     "date": "2024-12-12T17:52:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸蛋挞！\n\n用空气炸锅做早餐的时候原本想煎一个鸡蛋，然后突然想到，为什么不把鸡蛋放进去一起煎呢？所以就试着把鸡蛋打进蛋挞模具里面一起煎了八分钟，居然真的像一般炸鸡蛋一样好吃 quq",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "media_group_id": 13872207428373741,
     "images": [
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 79,
+    "views": 83,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65428,7 +65428,7 @@
     "id": 4756,
     "date": "2024-12-13T14:51:22",
     "text": "昨晚聊聊给我看这个快发布的叫 Catly 的游戏，我说怎么感觉不太对劲 AI 味好浓... 然后今天看推发现居然真的是 AI 生成的\n\n唉 感觉 AI hype 成功把网络上每个人训练成了 AI 内容识别 bot",
-    "views": 41,
+    "views": 54,
     "forwards": 1,
     "media_group_id": 13872811857317293,
     "images": [
@@ -65451,6 +65451,25 @@
         "url": "media/4757.jpg",
         "size": 67754,
         "thumb": "media/4757.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4758,
+    "date": "2024-12-13T16:29:52",
+    "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6229016130522974935.webm\">💢</i>",
+    "views": 33,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 199,
+        "height": 194,
+        "date": "2024-12-13T16:29:52",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-13_16-29-52.jpg",
+        "url": "media/4758.jpg",
+        "size": 7243,
+        "thumb": "media/4758.jpg_thumb.jpg"
       }
     ]
   }
