@@ -47071,7 +47071,7 @@
     "id": 3455,
     "date": "2024-03-08T06:27:33",
     "text": "今日迷惑：NAS 服务器上 firefox 内存泄漏导致笔记本 Windows 整个桌面卡死 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n补课看录像看着看着笔记本 Windows 桌面突然卡死了，重启了 explorer 发现是因为 NAS 服务器的 SMB 断了。ssh 连上服务器发现是我的 128GB 内存满了（？？）看看谁在用内存发现 Firefox 占了好多先杀了吧，然后一杀直接清出来了 65GB 内存（？？？ ）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n之后去 Grafana 上看看发现 Firefox 从三天前开始占用内存就一直在缓慢增加... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>  所以 2024 年有没有能用的浏览器啊，是不是需要加一个定时自动杀 firefox 的 crontab...",
-    "views": 105,
+    "views": 106,
     "forwards": 1,
     "media_group_id": 13679034031427581,
     "images": [
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65428,7 +65428,7 @@
     "id": 4756,
     "date": "2024-12-13T14:51:22",
     "text": "昨晚聊聊给我看这个快发布的叫 Catly 的游戏，我说怎么感觉不太对劲 AI 味好浓... 然后今天看推发现居然真的是 AI 生成的\n\n唉 感觉 AI hype 成功把网络上每个人训练成了 AI 内容识别 bot",
-    "views": 54,
+    "views": 57,
     "forwards": 1,
     "media_group_id": 13872811857317293,
     "images": [
@@ -65458,7 +65458,7 @@
     "id": 4758,
     "date": "2024-12-13T16:29:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6229016130522974935.webm\">💢</i>",
-    "views": 33,
+    "views": 37,
     "forwards": 0,
     "images": [
       {
