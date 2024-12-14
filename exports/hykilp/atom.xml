@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-12-14T00:12:41.101990+00:00</updated>
+  <updated>2024-12-14T02:36:36.575335+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4761</id>
+    <title>小桂桂的回忆录 📒 #4761</title>
+    <updated>2024-12-14T00:57:25+00:00</updated>
+    <content>&lt;p&gt;硬盘数据完全迁移完了！&lt;/p&gt;
+&lt;p&gt;把所有数据拷到新盘上之后，用坏道扫描的结果计算出了旧盘的坏道起点和终点，然后绕开坏道分了两个区，然后再用 btrfs 把他们合在一起，这样就可以把 12TB 的坏盘当作一个 11TB 的好盘用了！&lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;（虽然其实也不太敢放重要数据上去，只把自带冗余的数据比如番剧和 PT 什么的放丢上去了 quq&lt;/p&gt;
+&lt;p&gt;加上之前开 btrfs 压缩省出来的空间的话，现在总共有 14.9TB HDD 和 1.9TB SSD 空闲了，感觉一段时间内可以不用再担心存储不够用了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4761" rel="alternate"/>
+  </entry>
   <entry>
     <id>4759</id>
     <title>小桂桂的回忆录 📒 #4759</title>
