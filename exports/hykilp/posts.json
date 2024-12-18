@@ -55621,7 +55621,7 @@
   {
     "id": 4079,
     "date": "2024-06-29T13:31:37",
-    "views": 266,
+    "views": 267,
     "forwards": 12,
     "files": [
       {
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65659,7 +65659,7 @@
     "id": 4769,
     "date": "2024-12-18T04:36:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n三文鱼拌饭！\n\n<del>在想 三文鱼拌饭是不是一种寿司</del> 💭",
-    "views": 44,
+    "views": 46,
     "forwards": 0,
     "media_group_id": 13875972880997877,
     "images": [
