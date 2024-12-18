@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7255,
+    "views": 7256,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -64436,7 +64436,7 @@
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 237,
+    "views": 238,
     "forwards": 2,
     "images": [
       {
@@ -65335,14 +65335,14 @@
     "id": 4749,
     "date": "2024-12-12T06:01:27",
     "text": "今天计网课期末考试，考了两道课上没有讲的半超纲题... 一道是 NAT 打洞，另一道是 UDP/TCP Tunneling 🌚 哈哈哈哈哈这个我熟，这个我真是太熟了，简直是压到题\n\nNAT 题问了为什么两个不同 NAT 下的机器没办法 P2P 连接，然后问一个公网服务器怎样才能帮忙建立起不经过这个服务器的点对点连接，隧道题问了 UDP over TCP 和 TCP over UDP 哪个 overhead 更低 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 好简单",
-    "views": 94,
+    "views": 95,
     "forwards": 1
   },
   {
     "id": 4750,
     "date": "2024-12-12T17:52:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸蛋挞！\n\n用空气炸锅做早餐的时候原本想煎一个鸡蛋，然后突然想到，为什么不把鸡蛋放进去一起煎呢？所以就试着把鸡蛋打进蛋挞模具里面一起煎了八分钟，居然真的像一般炸鸡蛋一样好吃 quq",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13872207428373741,
     "images": [
@@ -65458,7 +65458,7 @@
     "id": 4758,
     "date": "2024-12-13T16:29:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6229016130522974935.webm\">💢</i>",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -65477,7 +65477,7 @@
     "id": 4759,
     "date": "2024-12-13T23:24:46",
     "text": "我要疯了\n\n补课遇到了不认识的字母 Γ，问问 4o “倒过来的 L 是什么字母”。它连续回答了 ∟、⊥、⊤、⌊ 🌚 怎么问都答不对\n\n那算了我传图片吧，它把图片里的公式 Γ ⊢ e : τ 正确打出来了，然后我再问它这里面倒着的 L 的 latex 是什么，它回答是 ⊢ 🌚\n\n我知道是大写 Gamma 了之后，开新会话反问它“大写 Gamma 看起来像什么”，它反而知道它看起来像倒着的 L 了（？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>\n\n最后再开新会话问他 Waluigi 的帽子上写了啥，它回答倒着的 L，看起来像 gamma（？？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13873058295167565,
     "images": [
@@ -65507,7 +65507,7 @@
     "id": 4761,
     "date": "2024-12-14T00:57:25",
     "text": "硬盘数据完全迁移完了！\n\n把所有数据拷到新盘上之后，用坏道扫描的结果计算出了旧盘的坏道起点和终点，然后绕开坏道分了两个区，然后再用 btrfs 把他们合在一起，这样就可以把 12TB 的坏盘当作一个 11TB 的好盘用了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（虽然其实也不太敢放重要数据上去，只把自带冗余的数据比如番剧和 PT 什么的放丢上去了 quq\n\n加上之前开 btrfs 压缩省出来的空间的话，现在总共有 14.9TB HDD 和 1.9TB SSD 空闲了，感觉一段时间内可以不用再担心存储不够用了",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 4738,
@@ -65531,7 +65531,7 @@
     "id": 4762,
     "date": "2024-12-14T02:52:52",
     "text": "刚才和聊聊看刚更新的宝可梦地平线第 77 话，发现我现在日语居然能听懂谐音梗了！<i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n语言梗不需要看科普字幕感觉好不一样",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "images": [
       {
@@ -65550,7 +65550,7 @@
     "id": 4763,
     "date": "2024-12-14T13:10:05",
     "text": "早上八点的阳光照进房间里好好看\n\n出门考试了，是最后一个学期的最后一个考试",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "images": [
       {
@@ -65569,7 +65569,7 @@
     "id": 4764,
     "date": "2024-12-15T05:01:05",
     "text": "放假了！毕业了？可能正式毕业还要等到六月，但是确实不用再上课了\n\n虽然虽然完全没有实际毕业期待的那种 relief，想要做和需要做的事情也依然很多，但是至少可以暂时歇歇了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 82,
+    "views": 83,
     "forwards": 0
   },
   {
