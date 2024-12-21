@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7257,
+    "views": 7258,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 136,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
@@ -63744,7 +63744,7 @@
     "id": 4648,
     "date": "2024-11-14T05:31:41",
     "text": "<a href=\"##谜题\">#谜题</a> 这次是赛博管道维修工（？）\n\n<a href=\"https://www.puzzle-pipes.com/\">Pipes</a>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "reply": {
       "id": 4404,
@@ -63771,7 +63771,7 @@
     "id": 4649,
     "date": "2024-11-14T18:52:26",
     "text": "穿模飞出去看看房间有多乱（？）",
-    "views": 117,
+    "views": 118,
     "forwards": 1,
     "images": [
       {
@@ -63790,7 +63790,7 @@
     "id": 4650,
     "date": "2024-11-15T02:13:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n用同样的方法和同样的肉炒了卷心菜和小油菜，感觉还是卷心菜更好吃一点 quq\n\n以后不买小油菜了。<del>只有小孩子才挑食，大人不买就好了</del>",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
@@ -63858,7 +63858,7 @@
     "id": 4654,
     "date": "2024-11-16T02:53:45",
     "text": "豆腐可爱喵",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "images": [
       {
@@ -63877,7 +63877,7 @@
     "id": 4655,
     "date": "2024-11-16T08:00:14",
     "text": "有时候就觉得 Github 星星数量挺迷惑的\n\n居然 oh my zsh 星星数量在第 17，明明 zsh 用户量和 bash 和 powershell 比起来都没有多少... 而且居然 .gitignore 模板仓库和 vscode 在差不多的位置 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 127,
+    "views": 128,
     "forwards": 1,
     "media_group_id": 13853952119728341,
     "images": [
@@ -64021,7 +64021,7 @@
     "id": 4663,
     "date": "2024-11-18T16:00:03",
     "text": "<a href=\"##ADHD\">#ADHD</a> 犯蠢 1/1",
-    "views": 132,
+    "views": 133,
     "forwards": 0,
     "images": [
       {
@@ -65313,7 +65313,7 @@
     "id": 4748,
     "date": "2024-12-12T05:27:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n感觉自己非常需要 Kero Kero 的心态，非常需要 take a break <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>\n\n♪ 空を見上げる満月\n♪ 星ってこんなに綺麗なんだ\n♪ こういう時に思うんだ\n♪ 生きてるって不思議\n♪ Life is a race, that's what they say\n♪ So time out, and look around\n♪ 立ち止まると見えてくる\n♪ I see it now (take a break!)",
-    "views": 96,
+    "views": 97,
     "forwards": 2,
     "files": [
       {
@@ -65335,7 +65335,7 @@
     "id": 4749,
     "date": "2024-12-12T06:01:27",
     "text": "今天计网课期末考试，考了两道课上没有讲的半超纲题... 一道是 NAT 打洞，另一道是 UDP/TCP Tunneling 🌚 哈哈哈哈哈这个我熟，这个我真是太熟了，简直是压到题\n\nNAT 题问了为什么两个不同 NAT 下的机器没办法 P2P 连接，然后问一个公网服务器怎样才能帮忙建立起不经过这个服务器的点对点连接，隧道题问了 UDP over TCP 和 TCP over UDP 哪个 overhead 更低 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 好简单",
-    "views": 99,
+    "views": 100,
     "forwards": 1
   },
   {
@@ -65762,7 +65762,7 @@
     "id": 4776,
     "date": "2024-12-20T08:02:41",
     "text": "过年了.jpg\n\nA112 <i class=\"custom-emoji\" emoji-src=\"emoji/6071087292536065387.webp\">✅</i> 感谢理科",
-    "views": 62,
+    "views": 63,
     "forwards": 1,
     "media_group_id": 13877454094731965,
     "images": [
@@ -65802,7 +65802,7 @@
     "id": 4779,
     "date": "2024-12-20T14:37:36",
     "text": "进行了一些 java 代码的 kotlin 重构，用各种宏把代码长度缩短了 -1600%\n\n原本每个 API 节点要 >50 行，重构之后同样的逻辑只用了 3 行 🌚",
-    "views": 40,
+    "views": 41,
     "forwards": 0,
     "images": [
       {
