@@ -4283,7 +4283,7 @@
     "id": 437,
     "date": "2022-01-12T14:52:18",
     "text": "🐦🐦🐦🐦🐦🐦🐦🐦🐦",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 130,
+    "views": 131,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65428,7 +65428,7 @@
     "id": 4756,
     "date": "2024-12-13T14:51:22",
     "text": "昨晚聊聊给我看这个快发布的叫 Catly 的游戏，我说怎么感觉不太对劲 AI 味好浓... 然后今天看推发现居然真的是 AI 生成的\n\n唉 感觉 AI hype 成功把网络上每个人训练成了 AI 内容识别 bot",
-    "views": 116,
+    "views": 117,
     "forwards": 1,
     "media_group_id": 13872811857317293,
     "images": [
@@ -65458,7 +65458,7 @@
     "id": 4758,
     "date": "2024-12-13T16:29:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6229016130522974935.webm\">💢</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "images": [
       {
@@ -65477,7 +65477,7 @@
     "id": 4759,
     "date": "2024-12-13T23:24:46",
     "text": "我要疯了\n\n补课遇到了不认识的字母 Γ，问问 4o “倒过来的 L 是什么字母”。它连续回答了 ∟、⊥、⊤、⌊ 🌚 怎么问都答不对\n\n那算了我传图片吧，它把图片里的公式 Γ ⊢ e : τ 正确打出来了，然后我再问它这里面倒着的 L 的 latex 是什么，它回答是 ⊢ 🌚\n\n我知道是大写 Gamma 了之后，开新会话反问它“大写 Gamma 看起来像什么”，它反而知道它看起来像倒着的 L 了（？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>\n\n最后再开新会话问他 Waluigi 的帽子上写了啥，它回答倒着的 L，看起来像 gamma（？？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "media_group_id": 13873058295167565,
     "images": [
@@ -65598,7 +65598,7 @@
     "id": 4766,
     "date": "2024-12-16T23:09:11",
     "text": "<a href=\"##预告\">#预告</a> 在做一些奇妙东西",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -65617,7 +65617,7 @@
     "id": 4767,
     "date": "2024-12-17T05:33:59",
     "text": "非常好 js",
-    "views": 85,
+    "views": 87,
     "forwards": 1,
     "images": [
       {
@@ -65636,7 +65636,7 @@
     "id": 4768,
     "date": "2024-12-17T10:44:01",
     "text": "写了一个全彩的数回 web 游戏，可以用数回的线条画像素画了！到现在一共设计了四个谜题：\n\n7x7 <a href=\"https://slither.hydev.org/?puzzle=heart\">心心</a>\n16x16 <a href=\"https://slither.hydev.org/?puzzle=blahaj\">鲨鲨</a>\n40x40 魔法猫猫 ( <a href=\"https://slither.hydev.org/?puzzle=meow\">一般</a> | <a href=\"https://slither.hydev.org/?puzzle=meow-hardcore\">硬核</a> )\n\n控制难度比想象中的难好多，其实设计出来的第一个谜题是硬核猫猫，写题的时候觉得这里那里都想删，dfs 能解出来就行了吧... 结果发现自己解不出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 还是重新做了（然后好像又太简单了 悲\n\n总之欢迎来玩欢迎反馈喵，也可以用<a href=\"https://slither.hydev.org/?edit=1&size=20\">编辑器</a>设计上传自己的数回哦 qwq <a href=\"##谜题\">#谜题</a>",
-    "views": 89,
+    "views": 91,
     "forwards": 3,
     "reply": {
       "id": 4766,
@@ -65659,7 +65659,7 @@
     "id": 4769,
     "date": "2024-12-18T04:36:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n三文鱼拌饭！\n\n<del>在想 三文鱼拌饭是不是一种寿司</del> 💭",
-    "views": 73,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 13875972880997877,
     "images": [
@@ -65821,7 +65821,7 @@
     "id": 4780,
     "date": "2024-12-21T04:28:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煎三文鱼干！\n\n看到超市三文鱼打巨大折直接半价了就一下子买了 3kg 三文鱼，学会了给三文鱼去皮，把刺身冻起来做拌饭或者寿司🍣，然后把剩下的 700g 鱼皮煎成小鱼干了 qwq（还煎出来 112g 油 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 48,
+    "views": 50,
     "forwards": 0,
     "media_group_id": 13878042482099997,
     "images": [
@@ -65874,6 +65874,29 @@
         "url": "media/4784.jpg",
         "size": 187649,
         "thumb": "media/4784.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4785,
+    "date": "2024-12-21T19:58:24",
+    "text": "<a href=\"##谜题\">#谜题</a> 感觉是谜题的话，把谜底发出来有点剧透感觉不太好，但是又很想发自己的像素画，怎么办怎么办 > <\n\n想了想决定从这周开始试试做一个周常/半月常的谜题活动，每周会出一道新的题然后公布上周的谜底，这样就不怕会剧透了！<span class=\"spoiler\"><span><del>反正这周没有来玩的人应该过一周也不会来，所以剧透了也没关系吧</span></span></del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n今周的谜题在<a href=\"https://slither.hydev.org/?puzzle=2024-12-21-winter\">这里</a>，是 36x36，欢迎来玩 qwq\n\n（配图是上周的答案",
+    "views": 16,
+    "forwards": 0,
+    "reply": {
+      "id": 4768,
+      "text": "写了一个全彩的数回 web 游戏，可以用数回的线条画像素画了！到现在一共设计了四个谜题：\n\n7x7 <a href=\"https://slither.hydev.org/?puzzle=heart\">心心</a>\n16x16 <a href=\"https://slither.hydev.org/?puzzle=blahaj\">鲨鲨</a>\n40x40 魔法猫猫 ( <a href=\"https://slither.hydev.org/?puzzle=meow\">一般</a> | <a href=\"https://slither.hydev.org/?puzzle=meow-hardcore\">硬核</a> )\n\n控制难度比想象中的难好多，其实设计出来的第一个谜题是硬核猫猫，写题的时候觉得这里那里都想删，dfs 能解出来就行了吧... 结果发现自己解不出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 还是重新做了（然后好像又太简单了 悲\n\n总之欢迎来玩欢迎反馈喵，也可以用<a href=\"https://slither.hydev.org/?edit=1&size=20\">编辑器</a>设计上传自己的数回哦 qwq <a href=\"##谜题\">#谜题</a>"
+    },
+    "images": [
+      {
+        "width": 1280,
+        "height": 1418,
+        "date": "2024-12-21T19:58:24",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-21_19-58-24.jpg",
+        "url": "media/4785.jpg",
+        "size": 368066,
+        "thumb": "media/4785.jpg_thumb.jpg"
       }
     ]
   }
