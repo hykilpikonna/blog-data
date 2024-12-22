@@ -12,7 +12,17 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Dec 2024 12:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 14:11:38 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4790</title>
+      <link>https://aza.moe/life?post=4790</link>
+      <description>&lt;p&gt;今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累&lt;i class="custom-emoji" emoji-src="emoji/6170333464076748646.webm"&gt;🫠&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本&lt;/p&gt;
+&lt;p&gt;踩了超级多坑，最后的解决方案是&lt;span class="spoiler"&gt;&lt;span&gt;用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面&lt;/span&gt;&lt;/span&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 &lt;i class="custom-emoji" emoji-src="emoji/6169953432485496291.webm"&gt;😶&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;好累 睡睡&lt;/p&gt;</description>
+      <guid isPermaLink="false">4790</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4789</title>
       <link>https://aza.moe/life?post=4789</link>
