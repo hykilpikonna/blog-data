@@ -12,7 +12,23 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Dec 2024 00:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 02:36:05 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4787</title>
+      <link>https://aza.moe/life?post=4787</link>
+      <description>&lt;p&gt;几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...&lt;/p&gt;
+&lt;p&gt;VRChat 的语言 Udon# 真的很 &lt;i class="custom-emoji" emoji-src="emoji/6327950654941694400.webp"&gt;🤡&lt;/i&gt;，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚&lt;/p&gt;
+&lt;p&gt;所有数据都存进 Dict 把它当做类用，把类名写进 &lt;code&gt;&lt;strong&gt;type&lt;/strong&gt;&lt;/code&gt; 里面，所有值都存成 Any，需要访问的时候再动态 cast，&lt;del&gt;和 python 一样完全不检查类型&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/5445106967469105416.tgs"&gt;☺️&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;...这样一番折腾之后终于重新实现了 C# 原本就有的东西 &lt;i class="custom-emoji" emoji-src="emoji/6170358057059485759.webm"&gt;😪&lt;/i&gt; 唉 VRChat 罪大恶极&lt;/p&gt;</description>
+      <guid isPermaLink="false">4787</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #4786</title>
+      <link>https://aza.moe/life?post=4786</link>
+      <description>&lt;p&gt;&lt;i class="custom-emoji" emoji-src="emoji/6170452310116797089.webm"&gt;🌧&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4786</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4785</title>
       <link>https://aza.moe/life?post=4785</link>
