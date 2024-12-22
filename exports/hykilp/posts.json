@@ -39146,7 +39146,7 @@
     "id": 2915,
     "date": "2023-11-20T03:33:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n因为 Jun 和 Jamie 和 Luna 来家里所以做了卤肉饭！五个人居然把一公斤五花肉全都吃完了！（虽然好像聊聊吃的多一点\n\n下午家里像是学习室一样，大家都在写自己的作业（结果没有人想玩音游呜呜）<span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</span></span></i><span class=\"spoiler\"><span> 为什么为什么！明明之前身边的音游人总说多伦多玩不到这玩不到那，结果搭好街机设备之后却没人来我家玩... 没人玩怎么开机厅嘛，难道要挂到 ZIV 上宣传吗</span></span>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -64739,7 +64739,7 @@
   {
     "id": 4706,
     "date": "2024-12-01T06:36:22",
-    "views": 120,
+    "views": 121,
     "forwards": 1,
     "images": [
       {
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 135,
+    "views": 136,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65636,7 +65636,7 @@
     "id": 4768,
     "date": "2024-12-17T10:44:01",
     "text": "写了一个全彩的数回 web 游戏，可以用数回的线条画像素画了！到现在一共设计了四个谜题：\n\n7x7 <a href=\"https://slither.hydev.org/?puzzle=heart\">心心</a>\n16x16 <a href=\"https://slither.hydev.org/?puzzle=blahaj\">鲨鲨</a>\n40x40 魔法猫猫 ( <a href=\"https://slither.hydev.org/?puzzle=meow\">一般</a> | <a href=\"https://slither.hydev.org/?puzzle=meow-hardcore\">硬核</a> )\n\n控制难度比想象中的难好多，其实设计出来的第一个谜题是硬核猫猫，写题的时候觉得这里那里都想删，dfs 能解出来就行了吧... 结果发现自己解不出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 还是重新做了（然后好像又太简单了 悲\n\n总之欢迎来玩欢迎反馈喵，也可以用<a href=\"https://slither.hydev.org/?edit=1&size=20\">编辑器</a>设计上传自己的数回哦 qwq <a href=\"##谜题\">#谜题</a>",
-    "views": 98,
+    "views": 100,
     "forwards": 3,
     "reply": {
       "id": 4766,
@@ -65659,7 +65659,7 @@
     "id": 4769,
     "date": "2024-12-18T04:36:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n三文鱼拌饭！\n\n<del>在想 三文鱼拌饭是不是一种寿司</del> 💭",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13875972880997877,
     "images": [
@@ -65699,7 +65699,7 @@
     "id": 4772,
     "date": "2024-12-19T05:15:08",
     "text": "哇 今天和 Tracer 去机厅拼机打 mygo 壱雫空居然打出了同样的分数 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 好巧",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "media_group_id": 13876682471135957,
     "images": [
@@ -65739,7 +65739,7 @@
     "id": 4775,
     "date": "2024-12-19T22:15:58",
     "text": "在<a href=\"https://github.com/hykilpikonna/colorful-link\">仓库</a> readme 上写了用编辑器创建一个谜题的教程 qwq",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65762,7 +65762,7 @@
     "id": 4776,
     "date": "2024-12-20T08:02:41",
     "text": "过年了.jpg\n\nA112 <i class=\"custom-emoji\" emoji-src=\"emoji/6071087292536065387.webp\">✅</i> 感谢理科",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "media_group_id": 13877454094731965,
     "images": [
@@ -65802,7 +65802,7 @@
     "id": 4779,
     "date": "2024-12-20T14:37:36",
     "text": "进行了一些 java 代码的 kotlin 重构，用各种宏把代码长度缩短了 -1600%\n\n原本每个 API 节点要 >50 行，重构之后同样的逻辑只用了 3 行 🌚",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "images": [
       {
@@ -65821,7 +65821,7 @@
     "id": 4780,
     "date": "2024-12-21T04:28:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煎三文鱼干！\n\n看到超市三文鱼打巨大折直接半价了就一下子买了 3kg 三文鱼，学会了给三文鱼去皮，把刺身冻起来做拌饭或者寿司🍣，然后把剩下的 700g 鱼皮煎成小鱼干了 qwq（还煎出来 112g 油 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 66,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13878042482099997,
     "images": [
@@ -65881,7 +65881,7 @@
     "id": 4785,
     "date": "2024-12-21T19:58:24",
     "text": "<a href=\"##谜题\">#谜题</a> 感觉是谜题的话，把谜底发出来有点剧透感觉不太好，但是又很想发自己的像素画，怎么办怎么办 > <\n\n想了想决定从这周开始试试做一个周常/半月常的谜题活动，每周会出一道新的题然后公布上周的谜底，这样就不怕会剧透了！<span class=\"spoiler\"><span><del>反正这周没有来玩的人应该过一周也不会来，所以剧透了也没关系吧</span></span></del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n今周的谜题在<a href=\"https://slither.hydev.org/?puzzle=2024-12-21-winter\">这里</a>，是 36x36，欢迎来玩 qwq\n\n（配图是上周的答案",
-    "views": 63,
+    "views": 68,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65904,7 +65904,7 @@
     "id": 4786,
     "date": "2024-12-22T01:56:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 46,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -65923,7 +65923,7 @@
     "id": 4787,
     "date": "2024-12-22T02:21:47",
     "text": "几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...\n\nVRChat 的语言 Udon# 真的很 <i class=\"custom-emoji\" emoji-src=\"emoji/6327950654941694400.webp\">🤡</i>，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚\n\n所有数据都存进 Dict 把它当做类用，把类名写进 <code>__type__</code> 里面，所有值都存成 Any，需要访问的时候再动态 cast，<del>和 python 一样完全不检查类型</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>\n\n...这样一番折腾之后终于重新实现了 C# 原本就有的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 唉 VRChat 罪大恶极",
-    "views": 43,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -65942,7 +65942,7 @@
     "id": 4788,
     "date": "2024-12-22T03:28:36",
     "text": "发现 Windows 没有 AV1 视频预览的问题装上 <a href=\"https://codecguide.com/download_k-lite_codec_pack_full.htm\">K-Lite Codec Pack</a> 就能解决，很奇妙的是这个软件三天前刚更新过但是网页看起来却像是二十年前的",
-    "views": 31,
+    "views": 41,
     "forwards": 0,
     "images": [
       {
