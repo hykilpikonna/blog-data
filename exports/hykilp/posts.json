@@ -65980,7 +65980,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66010,7 +66010,7 @@
     "id": 4792,
     "date": "2024-12-23T00:40:54",
     "text": "今天公寓火警铃响了快半个小时，火警赶来了发现好像没有真的着火然后走了\n\n然后发现我的服务器现在因为刚搬完数据还没把备份开回来反而做不到拔盘就走了... 跑下楼看了一眼是真的有🚒之后再跑上楼关机拆开机箱拔完盘已经结束了，感觉如果是真的着火了这个速度肯定不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及感觉火警误报太多大家都不当一回事的样子，我跑下楼看的时候只遇到了一两个人，明明这个公寓还很大的... 但是也能理解，毕竟目前为止 100% 的火警都是误报\n\n如果有 > 1 bit 的火警信息就好了，比如之前在学校宿舍的时候真的有 🔥 的那次是直接接上麦克风广播了，可惜这个公寓的警报设施没有这样的功能",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "images": [
       {
@@ -66029,7 +66029,7 @@
     "id": 4793,
     "date": "2024-12-23T06:43:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n混沌！\n\n<del>感觉和面条本质上是同样的东西</del>",
-    "views": 57,
+    "views": 61,
     "forwards": 0,
     "images": [
       {
@@ -66048,7 +66048,7 @@
     "id": 4794,
     "date": "2024-12-23T07:28:19",
     "text": "每次我问聊聊“怎么办怎么办”的时候聊聊都会接“爸爸妈妈说不许不许叔叔阿姨说 no no no no” <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 52,
+    "views": 56,
     "forwards": 0
   }
 ]
