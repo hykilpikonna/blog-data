@@ -62570,7 +62570,7 @@
     "id": 4561,
     "date": "2024-10-21T07:57:35",
     "text": "<a href=\"##ADHD\">#ADHD</a> 搜了一下自己的回忆录才发现以前提到过凝冰剑斩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不过是因为另一首曲子",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "reply": {
       "id": 2798,
@@ -62581,7 +62581,7 @@
     "id": 4562,
     "date": "2024-10-22T12:24:11",
     "text": "做温泉卤蛋把肚肚吃坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n煮的时间太短蛋白凝固了蛋黄还是液体，然后还冷藏了一天...",
-    "views": 102,
+    "views": 103,
     "forwards": 0
   },
   {
@@ -62788,7 +62788,7 @@
     "id": 4579,
     "date": "2024-10-24T01:52:37",
     "text": "发布了 HyFetch <a href=\"https://github.com/hykilpikonna/hyfetch/releases/tag/1.99.0\">1.99.0</a>！\n\n这是最后一个 Python 的版本了，之后的版本会转到 Rust（感谢 Teoh Han Hui 帮忙 RIIR <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n接手 neofetch 的事情也就此告一段落啦，因为看隔壁 fastfetch 挺活跃的所以把默认后端改成了 fastfetch，也把 fastfetch 的二进制打包进去了。感觉继续维护这个八岁一万三千行的 bash 脚本需要的时间精力真的不太值得了（不过如果有人想接手欢迎拿走 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<span class=\"spoiler\"><span>...好吧其实主要还是因为需要我的时间来填的坑实在太多了，想要重新拿回一些生活的时间</span></span> quq",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 13837878060727893,
     "images": [
@@ -62993,7 +62993,7 @@
     "id": 4595,
     "date": "2024-10-27T22:40:43",
     "text": "在 maimai 里面获得了新的旅行伙伴 syama <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>如果在现实中获得 syama 也这么简单就好了</span></span>（不是",
-    "views": 136,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 13840550750729853,
     "images": [
@@ -64588,7 +64588,7 @@
     "id": 4696,
     "date": "2024-11-29T04:46:22",
     "text": "・ー・ 草",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64611,7 +64611,7 @@
     "id": 4697,
     "date": "2024-11-29T08:10:21",
     "text": "🟥 HyDEV Whisper (<a href=\"whisper.hydev.org\">whisper.hydev.org</a>) 下线一天\n\n原因是需要拿走 GPU 赶作业 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 0
   },
   {
@@ -65334,14 +65334,14 @@
     "id": 4749,
     "date": "2024-12-12T06:01:27",
     "text": "今天计网课期末考试，考了两道课上没有讲的半超纲题... 一道是 NAT 打洞，另一道是 UDP/TCP Tunneling 🌚 哈哈哈哈哈这个我熟，这个我真是太熟了，简直是压到题\n\nNAT 题问了为什么两个不同 NAT 下的机器没办法 P2P 连接，然后问一个公网服务器怎样才能帮忙建立起不经过这个服务器的点对点连接，隧道题问了 UDP over TCP 和 TCP over UDP 哪个 overhead 更低 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 好简单",
-    "views": 110,
+    "views": 111,
     "forwards": 1
   },
   {
     "id": 4750,
     "date": "2024-12-12T17:52:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸蛋挞！\n\n用空气炸锅做早餐的时候原本想煎一个鸡蛋，然后突然想到，为什么不把鸡蛋放进去一起煎呢？所以就试着把鸡蛋打进蛋挞模具里面一起煎了八分钟，居然真的像一般炸鸡蛋一样好吃 quq",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 13872207428373741,
     "images": [
@@ -65391,7 +65391,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 146,
+    "views": 147,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65597,7 +65597,7 @@
     "id": 4766,
     "date": "2024-12-16T23:09:11",
     "text": "<a href=\"##预告\">#预告</a> 在做一些奇妙东西",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
@@ -65616,7 +65616,7 @@
     "id": 4767,
     "date": "2024-12-17T05:33:59",
     "text": "非常好 js",
-    "views": 105,
+    "views": 106,
     "forwards": 1,
     "images": [
       {
@@ -65880,7 +65880,7 @@
     "id": 4785,
     "date": "2024-12-21T19:58:24",
     "text": "<a href=\"##谜题\">#谜题</a> 感觉是谜题的话，把谜底发出来有点剧透感觉不太好，但是又很想发自己的像素画，怎么办怎么办 > <\n\n想了想决定从这周开始试试做一个周常/半月常的谜题活动，每周会出一道新的题然后公布上周的谜底，这样就不怕会剧透了！<span class=\"spoiler\"><span><del>反正这周没有来玩的人应该过一周也不会来，所以剧透了也没关系吧</span></span></del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n今周的谜题在<a href=\"https://slither.hydev.org/?puzzle=2024-12-21-winter\">这里</a>，是 36x36，欢迎来玩 qwq\n\n（配图是上周的答案",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65903,7 +65903,7 @@
     "id": 4786,
     "date": "2024-12-22T01:56:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -65979,7 +65979,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 78,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66054,7 +66054,7 @@
     "id": 4795,
     "date": "2024-12-23T22:10:37",
     "text": "doge tool",
-    "views": 70,
+    "views": 72,
     "forwards": 0,
     "images": [
       {
@@ -66073,7 +66073,7 @@
     "id": 4798,
     "date": "2024-12-24T23:51:30",
     "text": "<a href=\"##谜题\">#谜题</a> 进了今月的排行榜",
-    "views": 63,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13880674321667541,
     "images": [
@@ -66103,7 +66103,7 @@
     "id": 4800,
     "date": "2024-12-25T08:48:31",
     "text": "圣诞快乐！\n\n（依然不会打这个圣诞歌，14+ 好抽象啊",
-    "views": 52,
+    "views": 59,
     "forwards": 0,
     "media_group_id": 13880932092730933,
     "images": [
@@ -66143,7 +66143,7 @@
     "id": 4803,
     "date": "2024-12-25T09:02:46",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n平安夜被朋友们拉上吃了自助烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 饱饱\n\n这家店叫 Gyubee 牛兵衛，走在路上我有点迷路聊聊说跟着她走就好了，然后聊聊没看地图就很快就走到了\n\n我：聊聊牛逼，方向感好强\n聊聊：好，我 Gyubee <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 47,
+    "views": 55,
     "forwards": 1,
     "images": [
       {
@@ -66157,5 +66157,12 @@
         "thumb": "media/4803.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 4804,
+    "date": "2024-12-25T19:18:05",
+    "text": "<a href=\"##梦\">#梦</a> 做了好恐怖好恐怖的梦，感觉脱离了梦的沙盒边界... 甚至现在有点害怕睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n刚开始是很一般的梦，大雨天巴士在远处停了三秒，也不管大家正在跑过去就关门走了，还好下一辆车就在后面。但是这辆是敞篷小巴士（？）还开得很快，怕无线耳机掉在路上就摘掉了耳机\n\n但是摘掉耳机音乐还在播，堵住耳朵也没有用，像是耳朵自己传出来的一样。仔细听不对啊怎么是我的声音？我没在唱歌... 然后车翻过去了，我摔在地上\n\n意识到了自己肯定在做梦，我重建出了一个躺在床上的画面，旁边躺着聊聊。我不太喜欢这个梦，想要醒过来又太困转不起身。叫了一声聊聊，聊聊没反应... 又大声叫了两声聊聊，还是没反应。发现哪里不对，用尽全身的力气喊聊聊，依然没反应，想要翻身也翻不过去，这时候才意识到我根本没在喊也没在用力，而是我的意识对身体的控制被夺走了...\n\n突然就非常慌，四周变成了紫色的虚空，不知道还要在这里停留多久，甚至开始怀疑自己的身体属不属于自己，怀疑到底哪边是梦，会不会在睡觉的自己并不是真实的... 大脑过载让我有点缺氧，但是连呼吸都没法控制，觉得自己要窒息，呼救也没人听到，最后还是现实中的生存本能把我叫醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
+    "views": 20,
+    "forwards": 0
   }
 ]
