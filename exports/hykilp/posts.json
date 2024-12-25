@@ -65457,7 +65457,7 @@
     "id": 4758,
     "date": "2024-12-13T16:29:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6229016130522974935.webm\">💢</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -65476,7 +65476,7 @@
     "id": 4759,
     "date": "2024-12-13T23:24:46",
     "text": "我要疯了\n\n补课遇到了不认识的字母 Γ，问问 4o “倒过来的 L 是什么字母”。它连续回答了 ∟、⊥、⊤、⌊ 🌚 怎么问都答不对\n\n那算了我传图片吧，它把图片里的公式 Γ ⊢ e : τ 正确打出来了，然后我再问它这里面倒着的 L 的 latex 是什么，它回答是 ⊢ 🌚\n\n我知道是大写 Gamma 了之后，开新会话反问它“大写 Gamma 看起来像什么”，它反而知道它看起来像倒着的 L 了（？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>\n\n最后再开新会话问他 Waluigi 的帽子上写了啥，它回答倒着的 L，看起来像 gamma（？？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "media_group_id": 13873058295167565,
     "images": [
@@ -65506,7 +65506,7 @@
     "id": 4761,
     "date": "2024-12-14T00:57:25",
     "text": "硬盘数据完全迁移完了！\n\n把所有数据拷到新盘上之后，用坏道扫描的结果计算出了旧盘的坏道起点和终点，然后绕开坏道分了两个区，然后再用 btrfs 把他们合在一起，这样就可以把 12TB 的坏盘当作一个 11TB 的好盘用了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（虽然其实也不太敢放重要数据上去，只把自带冗余的数据比如番剧和 PT 什么的放丢上去了 quq\n\n加上之前开 btrfs 压缩省出来的空间的话，现在总共有 14.9TB HDD 和 1.9TB SSD 空闲了，感觉一段时间内可以不用再担心存储不够用了",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 4738,
@@ -65698,7 +65698,7 @@
     "id": 4772,
     "date": "2024-12-19T05:15:08",
     "text": "哇 今天和 Tracer 去机厅拼机打 mygo 壱雫空居然打出了同样的分数 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 好巧",
-    "views": 90,
+    "views": 91,
     "forwards": 1,
     "media_group_id": 13876682471135957,
     "images": [
@@ -65738,7 +65738,7 @@
     "id": 4775,
     "date": "2024-12-19T22:15:58",
     "text": "在<a href=\"https://github.com/hykilpikonna/colorful-link\">仓库</a> readme 上写了用编辑器创建一个谜题的教程 qwq",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65880,7 +65880,7 @@
     "id": 4785,
     "date": "2024-12-21T19:58:24",
     "text": "<a href=\"##谜题\">#谜题</a> 感觉是谜题的话，把谜底发出来有点剧透感觉不太好，但是又很想发自己的像素画，怎么办怎么办 > <\n\n想了想决定从这周开始试试做一个周常/半月常的谜题活动，每周会出一道新的题然后公布上周的谜底，这样就不怕会剧透了！<span class=\"spoiler\"><span><del>反正这周没有来玩的人应该过一周也不会来，所以剧透了也没关系吧</span></span></del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n今周的谜题在<a href=\"https://slither.hydev.org/?puzzle=2024-12-21-winter\">这里</a>，是 36x36，欢迎来玩 qwq\n\n（配图是上周的答案",
-    "views": 79,
+    "views": 86,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65903,7 +65903,7 @@
     "id": 4786,
     "date": "2024-12-22T01:56:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 79,
+    "views": 86,
     "forwards": 0,
     "images": [
       {
@@ -65922,7 +65922,7 @@
     "id": 4787,
     "date": "2024-12-22T02:21:47",
     "text": "几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...\n\nVRChat 的语言 Udon# 真的很 <i class=\"custom-emoji\" emoji-src=\"emoji/6327950654941694400.webp\">🤡</i>，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚\n\n所有数据都存进 Dict 把它当做类用，把类名写进 <code>__type__</code> 里面，所有值都存成 Any，需要访问的时候再动态 cast，<del>和 python 一样完全不检查类型</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>\n\n...这样一番折腾之后终于重新实现了 C# 原本就有的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 唉 VRChat 罪大恶极",
-    "views": 80,
+    "views": 83,
     "forwards": 0,
     "images": [
       {
@@ -65941,7 +65941,7 @@
     "id": 4788,
     "date": "2024-12-22T03:28:36",
     "text": "发现 Windows 没有 AV1 视频预览的问题装上 <a href=\"https://codecguide.com/download_k-lite_codec_pack_full.htm\">K-Lite Codec Pack</a> 就能解决，很奇妙的是这个软件三天前刚更新过但是网页看起来却像是二十年前的",
-    "views": 81,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -65960,7 +65960,7 @@
     "id": 4789,
     "date": "2024-12-22T06:37:02",
     "text": "nightcode で",
-    "views": 77,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -66009,7 +66009,7 @@
     "id": 4792,
     "date": "2024-12-23T00:40:54",
     "text": "今天公寓火警铃响了快半个小时，火警赶来了发现好像没有真的着火然后走了\n\n然后发现我的服务器现在因为刚搬完数据还没把备份开回来反而做不到拔盘就走了... 跑下楼看了一眼是真的有🚒之后再跑上楼关机拆开机箱拔完盘已经结束了，感觉如果是真的着火了这个速度肯定不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及感觉火警误报太多大家都不当一回事的样子，我跑下楼看的时候只遇到了一两个人，明明这个公寓还很大的... 但是也能理解，毕竟目前为止 100% 的火警都是误报\n\n如果有 > 1 bit 的火警信息就好了，比如之前在学校宿舍的时候真的有 🔥 的那次是直接接上麦克风广播了，可惜这个公寓的警报设施没有这样的功能",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "images": [
       {
@@ -66028,7 +66028,7 @@
     "id": 4793,
     "date": "2024-12-23T06:43:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n混沌！\n\n<del>感觉和面条本质上是同样的东西</del>",
-    "views": 77,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -66047,14 +66047,14 @@
     "id": 4794,
     "date": "2024-12-23T07:28:19",
     "text": "每次我问聊聊“怎么办怎么办”的时候聊聊都会接“爸爸妈妈说不许不许叔叔阿姨说 no no no no” <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 79,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 4795,
     "date": "2024-12-23T22:10:37",
     "text": "doge tool",
-    "views": 66,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -66073,7 +66073,7 @@
     "id": 4798,
     "date": "2024-12-24T23:51:30",
     "text": "<a href=\"##谜题\">#谜题</a> 进了今月的排行榜",
-    "views": 52,
+    "views": 60,
     "forwards": 0,
     "media_group_id": 13880674321667541,
     "images": [
@@ -66096,6 +66096,65 @@
         "url": "media/4799.jpg",
         "size": 212872,
         "thumb": "media/4799.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4800,
+    "date": "2024-12-25T08:48:31",
+    "text": "圣诞快乐！\n\n（依然不会打这个圣诞歌，14+ 好抽象啊",
+    "views": 40,
+    "forwards": 0,
+    "media_group_id": 13880932092730933,
+    "images": [
+      {
+        "width": 1063,
+        "height": 1280,
+        "date": "2024-12-25T08:48:29",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-25_08-48-29.jpg",
+        "url": "media/4800.jpg",
+        "size": 247933,
+        "thumb": "media/4800.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 810,
+        "date": "2024-12-25T08:48:30",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-25_08-48-30.jpg",
+        "url": "media/4801.jpg",
+        "size": 178136,
+        "thumb": "media/4801.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 786,
+        "date": "2024-12-25T08:48:31",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-25_08-48-31.jpg",
+        "url": "media/4802.jpg",
+        "size": 162858,
+        "thumb": "media/4802.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4803,
+    "date": "2024-12-25T09:02:46",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n平安夜被朋友们拉上吃了自助烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 饱饱\n\n这家店叫 Gyubee 牛兵衛，走在路上我有点迷路聊聊说跟着她走就好了，然后聊聊没看地图就很快就走到了\n\n我：聊聊牛逼，方向感好强\n聊聊：好，我 Gyubee <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
+    "views": 33,
+    "forwards": 1,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-12-25T09:02:46",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-25_09-02-46.jpg",
+        "url": "media/4803.jpg",
+        "size": 280523,
+        "thumb": "media/4803.jpg_thumb.jpg"
       }
     ]
   }
