@@ -65980,7 +65980,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66163,14 +66163,14 @@
     "id": 4804,
     "date": "2024-12-25T19:18:05",
     "text": "<a href=\"##梦\">#梦</a> 做了好恐怖好恐怖的梦，感觉脱离了梦的沙盒边界... 甚至现在有点害怕睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n刚开始是很一般的梦，大雨天巴士在远处停了三秒，也不管大家正在跑过去就关门走了，还好下一辆车就在后面。但是这辆是敞篷小巴士（？）还开得很快，怕无线耳机掉在路上就摘掉了耳机\n\n但是摘掉耳机音乐还在播，堵住耳朵也没有用，像是耳朵自己传出来的一样。仔细听不对啊怎么是我的声音？我没在唱歌... 然后车翻过去了，我摔在地上\n\n意识到了自己肯定在做梦，我重建出了一个躺在床上的画面，旁边躺着聊聊。我不太喜欢这个梦，想要醒过来又太困转不起身。叫了一声聊聊，聊聊没反应... 又大声叫了两声聊聊，还是没反应。发现哪里不对，用尽全身的力气喊聊聊，依然没反应，想要翻身也翻不过去，这时候才意识到我根本没在喊也没在用力，而是我的意识对身体的控制被夺走了...\n\n突然就非常慌，四周变成了紫色的虚空，不知道还要在这里停留多久，甚至开始怀疑自己的身体属不属于自己，怀疑到底哪边是梦，会不会在睡觉的自己并不是真实的... 大脑过载让我有点缺氧，但是连呼吸都没法控制，觉得自己要窒息，呼救也没人听到，最后还是现实中的生存本能把我叫醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 0
   },
   {
     "id": 4805,
     "date": "2024-12-25T23:44:19",
     "text": "白天重新试了几次打到 S 了！是第一个 14+ 的 S\n\n果然需要担心音量的时候就打不好（无能狂敲 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://www.youtube.com/watch?v=Ys840JKDkYU\">Youtube</a>",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 4800,
@@ -66198,7 +66198,7 @@
     "id": 4806,
     "date": "2024-12-26T06:02:33",
     "text": "\"...was granted to <em>first name last name</em> by the Ontario Business Information System\" 🌚\n\n唉都是什么草台班子",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -66217,7 +66217,7 @@
     "id": 4807,
     "date": "2024-12-26T17:48:21",
     "text": "刚吐槽完又来一封 \"Dear [Organizer's Name]\"，还不是同一个人发的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 54,
+    "views": 57,
     "forwards": 0,
     "reply": {
       "id": 4806,
