@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2024-12-27T06:11:15.039504+00:00</updated>
+  <updated>2024-12-27T08:13:09.737327+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4808</id>
+    <title>小桂桂的回忆录 📒 #4808</title>
+    <updated>2024-12-27T06:27:47+00:00</updated>
+    <content>&lt;p&gt;花了两天的时间把 AquaDX 的中二代码大规模重构了一遍，把所有 Java boilerplate 去掉之后代码行数短了三倍，还修了些堆了很久的代办&lt;/p&gt;
+&lt;p&gt;现在段位模式终于可以用了（不再需要手动改数据版本号了）、队名可以在网页上自定义了、B40 可以看了 qwq&lt;/p&gt;
+&lt;p&gt;之后打算实现匹配联机（希望不会很难写&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4808" rel="alternate"/>
+  </entry>
   <entry>
     <id>4807</id>
     <title>小桂桂的回忆录 📒 #4807</title>
