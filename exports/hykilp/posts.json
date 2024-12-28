@@ -18633,7 +18633,7 @@
     "id": 1451,
     "date": "2022-11-03T05:55:14",
     "text": "写了一个让 Yubikey 插上电脑能无密码解锁的 python 脚本！\n\n工作原理是监听 USB 设备，插上/移除 USB 设备的时候调用 ykman 的输出，检测序列号来判断是不是我的 yubikey。如果是就 passwd -d 把密码删掉，如果检测不到就 chpasswd 把密码设回去，很简单粗暴 qwq\n\n（用这个脚本的话记得先 visudo 给你的用户加上 NOPASSWD:ALL，不然的话没密码是不能 sudo 的哦",
-    "views": 591,
+    "views": 592,
     "forwards": 5,
     "images": [
       {
@@ -48540,7 +48540,7 @@
     "id": 3557,
     "date": "2024-04-06T11:39:09",
     "text": "试试让 DALL-E 把蓝粉星夜的这个想法画出来结果真的画得好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 308,
+    "views": 309,
     "forwards": 9,
     "reply": {
       "id": 2671,
@@ -63975,7 +63975,7 @@
     "id": 4661,
     "date": "2024-11-18T04:58:09",
     "text": "（前情提要：syama 想让 gpt4o 画一张我和她和瑞希躺在床上的样子，但是输出结果一直被 OpenAI 的内容政策拦截，所以我把 prompt 拿给 FLUX 1.1 Pro Ultra 画了\n\n感觉 OpenAI 对图片生成的内容拦截是不是太严了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "reply": {
       "id": 4659,
@@ -66010,7 +66010,7 @@
     "id": 4792,
     "date": "2024-12-23T00:40:54",
     "text": "今天公寓火警铃响了快半个小时，火警赶来了发现好像没有真的着火然后走了\n\n然后发现我的服务器现在因为刚搬完数据还没把备份开回来反而做不到拔盘就走了... 跑下楼看了一眼是真的有🚒之后再跑上楼关机拆开机箱拔完盘已经结束了，感觉如果是真的着火了这个速度肯定不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及感觉火警误报太多大家都不当一回事的样子，我跑下楼看的时候只遇到了一两个人，明明这个公寓还很大的... 但是也能理解，毕竟目前为止 100% 的火警都是误报\n\n如果有 > 1 bit 的火警信息就好了，比如之前在学校宿舍的时候真的有 🔥 的那次是直接接上麦克风广播了，可惜这个公寓的警报设施没有这样的功能",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "images": [
       {
@@ -66029,7 +66029,7 @@
     "id": 4793,
     "date": "2024-12-23T06:43:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n混沌！\n\n<del>感觉和面条本质上是同样的东西</del>",
-    "views": 110,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
@@ -66048,7 +66048,7 @@
     "id": 4794,
     "date": "2024-12-23T07:28:19",
     "text": "每次我问聊聊“怎么办怎么办”的时候聊聊都会接“爸爸妈妈说不许不许叔叔阿姨说 no no no no” <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0
   },
   {
@@ -66074,7 +66074,7 @@
     "id": 4798,
     "date": "2024-12-24T23:51:30",
     "text": "<a href=\"##谜题\">#谜题</a> 进了今月的排行榜",
-    "views": 85,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13880674321667541,
     "images": [
@@ -66217,7 +66217,7 @@
     "id": 4807,
     "date": "2024-12-26T17:48:21",
     "text": "刚吐槽完又来一封 \"Dear [Organizer's Name]\"，还不是同一个人发的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "reply": {
       "id": 4806,
@@ -66240,7 +66240,7 @@
     "id": 4808,
     "date": "2024-12-27T06:27:47",
     "text": "花了两天的时间把 AquaDX 的中二代码大规模重构了一遍，把所有 Java boilerplate 去掉之后代码行数短了三倍，还修了些堆了很久的代办\n\n现在段位模式终于可以用了（不再需要手动改数据版本号了）、队名可以在网页上自定义了、B40 可以看了 qwq\n\n之后打算实现匹配联机（希望不会很难写",
-    "views": 65,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 13882246938788557,
     "images": [
@@ -66270,7 +66270,7 @@
     "id": 4810,
     "date": "2024-12-27T08:45:21",
     "text": "哇 Eric 发视频说了之前发现的 EditThisCookies 插件的问题 <a href=\"https://www.youtube.com/watch?v=AZgM_50aqbg\">https://www.youtube.com/watch?v=AZgM_50aqbg</a>",
-    "views": 60,
+    "views": 63,
     "forwards": 1,
     "reply": {
       "id": 4636,
@@ -66282,7 +66282,7 @@
     "id": 4811,
     "date": "2024-12-28T05:24:25",
     "text": "<del>按照这个速度半个月之后就能到 15 了</del>",
-    "views": 32,
+    "views": 46,
     "forwards": 0,
     "images": [
       {
