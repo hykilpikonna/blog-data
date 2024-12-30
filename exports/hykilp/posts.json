@@ -65942,7 +65942,7 @@
     "id": 4788,
     "date": "2024-12-22T03:28:36",
     "text": "发现 Windows 没有 AV1 视频预览的问题装上 <a href=\"https://codecguide.com/download_k-lite_codec_pack_full.htm\">K-Lite Codec Pack</a> 就能解决，很奇妙的是这个软件三天前刚更新过但是网页看起来却像是二十年前的",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "images": [
       {
@@ -65961,7 +65961,7 @@
     "id": 4789,
     "date": "2024-12-22T06:37:02",
     "text": "nightcode で",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "images": [
       {
@@ -65980,7 +65980,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66198,7 +66198,7 @@
     "id": 4806,
     "date": "2024-12-26T06:02:33",
     "text": "\"...was granted to <em>first name last name</em> by the Ontario Business Information System\" 🌚\n\n唉都是什么草台班子",
-    "views": 87,
+    "views": 88,
     "forwards": 1,
     "images": [
       {
@@ -66217,7 +66217,7 @@
     "id": 4807,
     "date": "2024-12-26T17:48:21",
     "text": "刚吐槽完又来一封 \"Dear [Organizer's Name]\"，还不是同一个人发的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 83,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 4806,
@@ -66313,6 +66313,30 @@
         "url": "media/4812.jpg",
         "size": 197639,
         "thumb": "media/4812.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4813,
+    "date": "2024-12-30T00:12:43",
+    "text": "给 AquaDX 中二加入了全国对战，现在可以和 RinNET 玩家跨服联机了！\n\n虽然感觉并不太好玩（<span class=\"spoiler\"><span>2p 拼机可以选难度但是这个全国对战模式不能，如果不够四个人的话 CPU 还会随机选绿谱... 不是太难打不动就是太简单没意思，真不知道谁想出来的这个天才模式</span></span>\n\n如果可以远程拼机就好了",
+    "views": 4,
+    "forwards": 0,
+    "reply": {
+      "id": 4808,
+      "text": "花了两天的时间把 AquaDX 的中二代码大规模重构了一遍，把所有 Java boilerplate 去掉之后代码行数短了三倍，还修了些堆了很久的代办\n\n现在段位模式终于可以用了（不再需要手动改数据版本号了）、队名可以在网页上自定义了、B40 可以看了 qwq\n\n之后打算实现匹配联机（希望不会很难写",
+      "thumb": "media/4808.jpg_thumb.jpg"
+    },
+    "images": [
+      {
+        "width": 1915,
+        "height": 1073,
+        "date": "2024-12-30T00:12:43",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-30_00-12-43.jpg",
+        "url": "media/4813.jpg",
+        "size": 336624,
+        "thumb": "media/4813.jpg_thumb.jpg"
       }
     ]
   }
