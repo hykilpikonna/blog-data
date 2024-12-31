@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7264,
+    "views": 7265,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -65980,7 +65980,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66074,7 +66074,7 @@
     "id": 4798,
     "date": "2024-12-24T23:51:30",
     "text": "<a href=\"##谜题\">#谜题</a> 进了今月的排行榜",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13880674321667541,
     "images": [
@@ -66104,7 +66104,7 @@
     "id": 4800,
     "date": "2024-12-25T08:48:31",
     "text": "圣诞快乐！\n\n（依然不会打这个圣诞歌，14+ 好抽象啊",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13880932092730933,
     "images": [
@@ -66170,7 +66170,7 @@
     "id": 4805,
     "date": "2024-12-25T23:44:19",
     "text": "白天重新试了几次打到 S 了！是第一个 14+ 的 S\n\n果然需要担心音量的时候就打不好（无能狂敲 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://www.youtube.com/watch?v=Ys840JKDkYU\">Youtube</a>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "reply": {
       "id": 4800,
@@ -66198,7 +66198,7 @@
     "id": 4806,
     "date": "2024-12-26T06:02:33",
     "text": "\"...was granted to <em>first name last name</em> by the Ontario Business Information System\" 🌚\n\n唉都是什么草台班子",
-    "views": 115,
+    "views": 116,
     "forwards": 1,
     "images": [
       {
@@ -66377,7 +66377,7 @@
     "id": 4817,
     "date": "2024-12-30T11:57:32",
     "text": "<a href=\"##ADHD\">#ADHD</a> 边连视频听 menci syama lily 聊天边写代码边煮面，然后忘记自己在煮面了，十分钟过去了，煮出来一坨黏糕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 69,
+    "views": 70,
     "forwards": 1,
     "images": [
       {
@@ -66406,7 +66406,7 @@
     "id": 4819,
     "date": "2024-12-31T06:05:58",
     "text": "不知道大家有没有看过迪士尼 1940 年的 Fantasia 系列\n\n每次写需要跑很久的代码我都会想起这个动画，无论是部署的应用服务器还是挂机的数据处理，感觉自己写的代码就是这个魔法扫把，可能稍微一个大意就会闹起来把我家淹了，所以即使第一眼看起来一切工作也很难放心去睡觉...\n\n<del>所以原本想说睡前挂上机跑 compute 说着说着就通宵了</del>",
-    "views": 49,
+    "views": 50,
     "forwards": 1,
     "files": [
       {
