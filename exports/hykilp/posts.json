@@ -66363,14 +66363,14 @@
     "id": 4815,
     "date": "2024-12-30T07:18:31",
     "text": "虽然喜欢用 telegram，但是每次整理频道都会发现一些 deleted account...\n\n好害怕会不会哪天我也被炸号，感觉需要做一些炸号演习假装自己被炸号了看看我的备用号权限够不够全",
-    "views": 97,
+    "views": 99,
     "forwards": 0
   },
   {
     "id": 4816,
     "date": "2024-12-30T09:42:27",
     "text": "因为系统有 128GB 运行内存，我比较喜欢在内存路径 <code>/tmp/</code> 里面工作\n\n需要写什么就从 github 拉下来，写完 push 上去，下次重启就自动消失了，全程不落盘，不用占存储空间也不会消耗 ssd 的寿命。也不用怕写的东西以后找不到，因为所有相关的东西都推到 github 上了\n\n...直到今天遇到灵车问题需要重启的时候忘了这件事，结果丢了一点点进度 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 98,
+    "views": 100,
     "forwards": 1
   },
   {
@@ -66545,7 +66545,7 @@
     "id": 4828,
     "date": "2025-01-02T11:23:02",
     "text": "今天发现之前用来生成 One Among Us 网页预览的 netlify 因为每月构建时间超出了 300 分钟收了 $7...\n\n这种免费版趁你不注意就收钱的行为真的很过分 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 因此立即写了一个 gh action 迁移到了 cloudflare pages <del>继续白嫖</del>\n\n如果你也在用 netlify 可以来参考<a href=\"https://github.com/one-among-us/data/blob/main/.github/workflows/preview.yml\">这个 action</a>",
-    "views": 48,
+    "views": 50,
     "forwards": 0,
     "images": [
       {
