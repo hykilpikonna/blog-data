@@ -2332,7 +2332,7 @@
     "id": 247,
     "date": "2021-11-20T17:23:08",
     "text": "是天然的套娃ww",
-    "views": 46,
+    "views": 47,
     "forwards": 0,
     "images": [
       {
@@ -51878,7 +51878,7 @@
     "id": 3809,
     "date": "2024-05-20T18:03:25",
     "text": "草... 居然不是诈骗？\n\nIEEE 官方组织者信息安全意识怎么这么差啊，发信息请求居然不从官方域名发，回复地址还写错了... 和诈骗邮件完全分不出来",
-    "views": 103,
+    "views": 104,
     "forwards": 2,
     "reply": {
       "id": 3772,
@@ -65335,14 +65335,14 @@
     "id": 4749,
     "date": "2024-12-12T06:01:27",
     "text": "今天计网课期末考试，考了两道课上没有讲的半超纲题... 一道是 NAT 打洞，另一道是 UDP/TCP Tunneling 🌚 哈哈哈哈哈这个我熟，这个我真是太熟了，简直是压到题\n\nNAT 题问了为什么两个不同 NAT 下的机器没办法 P2P 连接，然后问一个公网服务器怎样才能帮忙建立起不经过这个服务器的点对点连接，隧道题问了 UDP over TCP 和 TCP over UDP 哪个 overhead 更低 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 好简单",
-    "views": 115,
+    "views": 116,
     "forwards": 1
   },
   {
     "id": 4750,
     "date": "2024-12-12T17:52:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸蛋挞！\n\n用空气炸锅做早餐的时候原本想煎一个鸡蛋，然后突然想到，为什么不把鸡蛋放进去一起煎呢？所以就试着把鸡蛋打进蛋挞模具里面一起煎了八分钟，居然真的像一般炸鸡蛋一样好吃 quq",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "media_group_id": 13872207428373741,
     "images": [
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65458,7 +65458,7 @@
     "id": 4758,
     "date": "2024-12-13T16:29:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6229016130522974935.webm\">💢</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
@@ -66270,7 +66270,7 @@
     "id": 4810,
     "date": "2024-12-27T08:45:21",
     "text": "哇 Eric 发视频说了之前发现的 EditThisCookies 插件的问题 <a href=\"https://www.youtube.com/watch?v=AZgM_50aqbg\">https://www.youtube.com/watch?v=AZgM_50aqbg</a>",
-    "views": 115,
+    "views": 116,
     "forwards": 1,
     "reply": {
       "id": 4636,
@@ -66377,7 +66377,7 @@
     "id": 4817,
     "date": "2024-12-30T11:57:32",
     "text": "<a href=\"##ADHD\">#ADHD</a> 边连视频听 menci syama lily 聊天边写代码边煮面，然后忘记自己在煮面了，十分钟过去了，煮出来一坨黏糕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 114,
+    "views": 115,
     "forwards": 1,
     "images": [
       {
@@ -66396,7 +66396,7 @@
     "id": 4818,
     "date": "2024-12-31T00:38:24",
     "text": "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%",
-    "views": 66,
+    "views": 67,
     "forwards": 2,
     "forwarded_from": {
       "name": "YearProgress"
@@ -66406,7 +66406,7 @@
     "id": 4819,
     "date": "2024-12-31T06:05:58",
     "text": "不知道大家有没有看过迪士尼 1940 年的 Fantasia 系列\n\n每次写需要跑很久的代码我都会想起这个动画，无论是部署的应用服务器还是挂机的数据处理，感觉自己写的代码就是这个魔法扫把，可能稍微一个大意就会闹起来把我家淹了，所以即使第一眼看起来一切工作也很难放心去睡觉...\n\n<del>所以原本想说睡前挂上机跑 compute 说着说着就通宵了</del>",
-    "views": 99,
+    "views": 100,
     "forwards": 1,
     "files": [
       {
@@ -66429,7 +66429,7 @@
     "id": 4820,
     "date": "2024-12-31T22:45:28",
     "text": "想想去年这个时候，GPT4 Turbo发布还没几天；LLM在长context下的能力还非常捉急；MoE那时候还是个新鲜事物；所有人都觉得合成的数据是垃圾\n\n一年之后\nGPT4感觉已经成了远古模型；超长的context已经成了LLM的标配；Deepseek在MoE上一枝独秀，而优秀的Dense模型则是百花齐放；最关键的，人类的自然语料可能已经消耗殆尽，而合成的数据则已经成了行业标配。\n\n我们好像并没有更了解LLM本身，但是LLM却不断提高着大家对\"泛化\"标准的定义，飞速刷新大家对一个人工智能系统能力的期待。\n\n2025年的LLM又会变成什么样呢？\n有一个主题是肯定的：Harder, Better, Faster, Stronger",
-    "views": 80,
+    "views": 81,
     "forwards": 3,
     "forwarded_from": {
       "name": "Tokenized Me"
@@ -66456,7 +66456,7 @@
   {
     "id": 4823,
     "date": "2025-01-01T05:02:26",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "files": [
       {
@@ -66583,21 +66583,21 @@
     "id": 4830,
     "date": "2025-01-03T04:30:44",
     "text": "Google JP 做的 Chrome 的广告 mv 好可爱 quq\n\n草 居然请了匹诺曹P\n\n<a href=\"https://www.youtube.com/watch?v=F50bCrlTbIs\">https://www.youtube.com/watch?v=F50bCrlTbIs</a>",
-    "views": 103,
+    "views": 106,
     "forwards": 3
   },
   {
     "id": 4831,
     "date": "2025-01-03T14:29:20",
     "text": "<a href=\"##梦\">#梦</a> 又是电梯\n\n梦见自己在入住一个旅馆，整个旅馆就是一个大电梯。一楼只有前台和一个超大电梯门，刷一下自己的门卡过一会房间就会移动过来，降落到这个电梯口开门让我进去，然后再上下左右移动回到一个空的格子停车，好奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n如果真的存在这样的旅店就好了，不过想了想觉得不太可行呢，感觉同时需要上下左右移动支撑重量并且让卫生间工作就很难实现，而且如果要让一个人想要出门的时候不需要移动别人的话也没办法省下空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 52,
+    "views": 59,
     "forwards": 0
   },
   {
     "id": 4832,
     "date": "2025-01-03T15:25:20",
     "text": "欣赏一下小桂桂昏睡代码\n\n（超过 1000 直接 NaN",
-    "views": 43,
+    "views": 50,
     "forwards": 0,
     "media_group_id": 13887343362282373,
     "images": [
@@ -66627,7 +66627,48 @@
     "id": 4834,
     "date": "2025-01-03T17:56:19",
     "text": "聊聊：你有 portal2 吗\n我：有呀 怎么啦\n聊聊：我也有 portal2\n我：那我们可以连一个从你的 portal2 portal<span class=\"spoiler\"><span>(v.)</span></span> 到我的 portal2 的 portal <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 20,
+    "views": 31,
     "forwards": 0
+  },
+  {
+    "id": 4835,
+    "date": "2025-01-03T19:57:56",
+    "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢很 funky 的曲子 qwq\n\n<a href=\"https://www.youtube.com/watch?v=Nph6Qlmh66c\">Youtube MV</a>",
+    "views": 11,
+    "forwards": 0,
+    "files": [
+      {
+        "duration": 182,
+        "performer": "Andora/RANASOL",
+        "title": "Flashback",
+        "file_name": "Andora,RANASOL - Flashback.flac",
+        "mime_type": "audio/flac",
+        "date": "2025-01-03T19:57:56",
+        "media_type": "audio_file",
+        "original_name": "Andora,RANASOL - Flashback.flac",
+        "url": "media/4835.flac",
+        "size": 38830106,
+        "thumb": "media/4835.flac_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4836,
+    "date": "2025-01-03T20:00:35",
+    "text": "「感觉这个功能以后会用到诶，可以写一个宏」\n「啊 原来之前已经写过了」\nKotlin 日常 🌚",
+    "views": 10,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 646,
+        "height": 186,
+        "date": "2025-01-03T20:00:35",
+        "media_type": "photo",
+        "original_name": "photo_2025-01-03_20-00-35.jpg",
+        "url": "media/4836.jpg",
+        "size": 22843,
+        "thumb": "media/4836.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
