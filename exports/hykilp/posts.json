@@ -63256,7 +63256,7 @@
     "id": 4613,
     "date": "2024-11-03T02:01:28",
     "text": "今天晚上醒来看到凌莞反馈说服务器宕了，赶快起床看一看，发现 nginx 没起来，原因是其中一个 http 反代的上游死了配置文件检查没过...\n\n啊啊，真的是好蠢的设计，其中一个站点的反代挂了的话，服务起来剩下的站点还能用啊... 为什么要设计成一个连不上就不启动服务了？原本可以是 5% down 的现在变成了 100% down...\n\n感觉这已经是第无数次被 nginx 背刺了，之前还有发现 autoindex 在 ls 的时候会阻塞所有线程，然后之前我服务器上有一个几百万文件的文件夹，有人访问这个目录的时候就会让所有服务卡死不响应，而且去搜了解决方案似乎 2024 年都无解...\n\n真的不想再用 nginx 了，等这学期结束就全都换到 caddy",
-    "views": 119,
+    "views": 120,
     "forwards": 2,
     "images": [
       {
@@ -63627,7 +63627,7 @@
     "id": 4640,
     "date": "2024-11-09T13:27:23",
     "text": "讲真，搭好 typst 环境比 latex 容易太多了，无论本地还是在线都是\n\n（翻邮件看到今天有人回我 2022 年开的 issue 似乎是遇到了同样的问题没办法搭好 overleaf 的开发环境，这还是他们重构之后的，唉有些代码库真的永远不会变",
-    "views": 150,
+    "views": 151,
     "forwards": 0,
     "images": [
       {
@@ -65739,7 +65739,7 @@
     "id": 4775,
     "date": "2024-12-19T22:15:58",
     "text": "在<a href=\"https://github.com/hykilpikonna/colorful-link\">仓库</a> readme 上写了用编辑器创建一个谜题的教程 qwq",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -66170,7 +66170,7 @@
     "id": 4805,
     "date": "2024-12-25T23:44:19",
     "text": "白天重新试了几次打到 S 了！是第一个 14+ 的 S\n\n果然需要担心音量的时候就打不好（无能狂敲 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://www.youtube.com/watch?v=Ys840JKDkYU\">Youtube</a>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 4800,
@@ -66198,7 +66198,7 @@
     "id": 4806,
     "date": "2024-12-26T06:02:33",
     "text": "\"...was granted to <em>first name last name</em> by the Ontario Business Information System\" 🌚\n\n唉都是什么草台班子",
-    "views": 125,
+    "views": 126,
     "forwards": 1,
     "images": [
       {
@@ -66217,7 +66217,7 @@
     "id": 4807,
     "date": "2024-12-26T17:48:21",
     "text": "刚吐槽完又来一封 \"Dear [Organizer's Name]\"，还不是同一个人发的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "reply": {
       "id": 4806,
@@ -66240,7 +66240,7 @@
     "id": 4808,
     "date": "2024-12-27T06:27:47",
     "text": "花了两天的时间把 AquaDX 的中二代码大规模重构了一遍，把所有 Java boilerplate 去掉之后代码行数短了三倍，还修了些堆了很久的代办\n\n现在段位模式终于可以用了（不再需要手动改数据版本号了）、队名可以在网页上自定义了、B40 可以看了 qwq\n\n之后打算实现匹配联机（希望不会很难写",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 13882246938788557,
     "images": [
@@ -66270,7 +66270,7 @@
     "id": 4810,
     "date": "2024-12-27T08:45:21",
     "text": "哇 Eric 发视频说了之前发现的 EditThisCookies 插件的问题 <a href=\"https://www.youtube.com/watch?v=AZgM_50aqbg\">https://www.youtube.com/watch?v=AZgM_50aqbg</a>",
-    "views": 112,
+    "views": 113,
     "forwards": 1,
     "reply": {
       "id": 4636,
@@ -66282,7 +66282,7 @@
     "id": 4811,
     "date": "2024-12-28T05:24:25",
     "text": "<del>按照这个速度半个月之后就能到 15 了</del>",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
@@ -66301,7 +66301,7 @@
     "id": 4812,
     "date": "2024-12-28T21:53:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n米饭布丁（？）🍮",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
@@ -66320,7 +66320,7 @@
     "id": 4813,
     "date": "2024-12-30T00:12:43",
     "text": "给 AquaDX 中二加入了全国对战，现在可以和 RinNET 玩家跨服联机了！\n\n虽然感觉并不太好玩（<span class=\"spoiler\"><span>2p 拼机打别人选的曲子可以选难度，但是这个全国对战模式不能，如果不够四个人的话 CPU 还会随机选绿谱... 不是太难打不动就是太简单没意思，真不知道谁想出来的这个天才模式</span></span>\n\n如果可以远程拼机就好了",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 4808,
@@ -66344,7 +66344,7 @@
     "id": 4814,
     "date": "2024-12-30T01:33:39",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n棒棒糖，但是是狼牙棒（？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "images": [
       {
@@ -66363,21 +66363,21 @@
     "id": 4815,
     "date": "2024-12-30T07:18:31",
     "text": "虽然喜欢用 telegram，但是每次整理频道都会发现一些 deleted account...\n\n好害怕会不会哪天我也被炸号，感觉需要做一些炸号演习假装自己被炸号了看看我的备用号权限够不够全",
-    "views": 103,
+    "views": 105,
     "forwards": 0
   },
   {
     "id": 4816,
     "date": "2024-12-30T09:42:27",
     "text": "因为系统有 128GB 运行内存，我比较喜欢在内存路径 <code>/tmp/</code> 里面工作\n\n需要写什么就从 github 拉下来，写完 push 上去，下次重启就自动消失了，全程不落盘，不用占存储空间也不会消耗 ssd 的寿命。也不用怕写的东西以后找不到，因为所有相关的东西都推到 github 上了\n\n...直到今天遇到灵车问题需要重启的时候忘了这件事，结果丢了一点点进度 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 103,
+    "views": 105,
     "forwards": 1
   },
   {
     "id": 4817,
     "date": "2024-12-30T11:57:32",
     "text": "<a href=\"##ADHD\">#ADHD</a> 边连视频听 menci syama lily 聊天边写代码边煮面，然后忘记自己在煮面了，十分钟过去了，煮出来一坨黏糕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 1,
     "images": [
       {
@@ -66396,7 +66396,7 @@
     "id": 4818,
     "date": "2024-12-31T00:38:24",
     "text": "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%",
-    "views": 55,
+    "views": 58,
     "forwards": 2,
     "forwarded_from": {
       "name": "YearProgress"
@@ -66406,7 +66406,7 @@
     "id": 4819,
     "date": "2024-12-31T06:05:58",
     "text": "不知道大家有没有看过迪士尼 1940 年的 Fantasia 系列\n\n每次写需要跑很久的代码我都会想起这个动画，无论是部署的应用服务器还是挂机的数据处理，感觉自己写的代码就是这个魔法扫把，可能稍微一个大意就会闹起来把我家淹了，所以即使第一眼看起来一切工作也很难放心去睡觉...\n\n<del>所以原本想说睡前挂上机跑 compute 说着说着就通宵了</del>",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "files": [
       {
@@ -66429,7 +66429,7 @@
     "id": 4820,
     "date": "2024-12-31T22:45:28",
     "text": "想想去年这个时候，GPT4 Turbo发布还没几天；LLM在长context下的能力还非常捉急；MoE那时候还是个新鲜事物；所有人都觉得合成的数据是垃圾\n\n一年之后\nGPT4感觉已经成了远古模型；超长的context已经成了LLM的标配；Deepseek在MoE上一枝独秀，而优秀的Dense模型则是百花齐放；最关键的，人类的自然语料可能已经消耗殆尽，而合成的数据则已经成了行业标配。\n\n我们好像并没有更了解LLM本身，但是LLM却不断提高着大家对\"泛化\"标准的定义，飞速刷新大家对一个人工智能系统能力的期待。\n\n2025年的LLM又会变成什么样呢？\n有一个主题是肯定的：Harder, Better, Faster, Stronger",
-    "views": 75,
+    "views": 76,
     "forwards": 3,
     "forwarded_from": {
       "name": "Tokenized Me"
@@ -66439,7 +66439,7 @@
     "id": 4821,
     "date": "2024-12-31T22:54:42",
     "text": "去年的这个时候自己还不敢想象自己能炼一个 LLM LoRA，甚至没有本地跑过几次训练好的模型，现在对这些已经开始有些熟练了 quq",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "reply": {
       "id": 4820,
@@ -66450,13 +66450,13 @@
     "id": 4822,
     "date": "2025-01-01T05:02:08",
     "text": "新年快乐？",
-    "views": 78,
+    "views": 79,
     "forwards": 0
   },
   {
     "id": 4823,
     "date": "2025-01-01T05:02:26",
-    "views": 82,
+    "views": 83,
     "forwards": 1,
     "files": [
       {
@@ -66521,7 +66521,7 @@
     "id": 4827,
     "date": "2025-01-02T04:15:02",
     "text": "创建 GitHub 帐号已经八年了！例常更新一下今年做的项目 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n🟥: 咕了 🕊\n🟦: 写完但是没发布/没什么用的\n🟨: 还没写完但是会继续\n🟩: 满意的项目w\n\n时间过得好快，明明又过了一年了，却感觉上次做项目总结还是昨天...\n\n发现弃坑的项目越来越少了，反而需要很长时间或者特定条件做的项目更多了，有些一年甚至做不完... 不知道是不是好事呢\n\n以及希望需要长期维护的项目堆起来不会占用到开新项目的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 77,
+    "views": 79,
     "forwards": 0,
     "reply": {
       "id": 3123,
@@ -66545,7 +66545,7 @@
     "id": 4828,
     "date": "2025-01-02T11:23:02",
     "text": "今天发现之前用来生成 One Among Us 网页预览的 netlify 因为每月构建时间超出了 300 分钟收了 $7...\n\n这种免费版趁你不注意就收钱的行为真的很过分 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 因此立即写了一个 gh action 迁移到了 cloudflare pages <del>继续白嫖</del>\n\n如果你也在用 netlify 可以来参考<a href=\"https://github.com/one-among-us/data/blob/main/.github/workflows/preview.yml\">这个 action</a>",
-    "views": 72,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -66564,7 +66564,7 @@
     "id": 4829,
     "date": "2025-01-02T23:50:18",
     "text": "笑死了",
-    "views": 63,
+    "views": 65,
     "forwards": 2,
     "images": [
       {
@@ -66583,7 +66583,7 @@
     "id": 4830,
     "date": "2025-01-03T04:30:44",
     "text": "Google JP 做的 Chrome 的广告 mv 好可爱 quq\n\n草 居然请了匹诺曹P\n\n<a href=\"https://www.youtube.com/watch?v=F50bCrlTbIs\">https://www.youtube.com/watch?v=F50bCrlTbIs</a>",
-    "views": 40,
-    "forwards": 1
+    "views": 57,
+    "forwards": 3
   }
 ]
