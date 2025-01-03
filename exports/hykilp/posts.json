@@ -2050,7 +2050,7 @@
     "id": 210,
     "date": "2021-11-11T04:42:15",
     "text": "\"This box is made with less material!\"\n\n... 然后里面又包了一个纸盒",
-    "views": 54,
+    "views": 55,
     "forwards": 0,
     "media_group_id": 13092845883337693,
     "images": [
@@ -64312,7 +64312,7 @@
     "id": 4679,
     "date": "2024-11-22T15:37:39",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6327782811914733923.webp\">🥳</i>",
-    "views": 167,
+    "views": 168,
     "forwards": 1,
     "images": [
       {
@@ -65107,7 +65107,7 @@
     "id": 4732,
     "date": "2024-12-08T22:31:48",
     "text": "真的越来越讨厌 YouTube 这个平台了\n\n说是 \"1080P HD\" 但是看着眼睛好不舒服，画面上全是肉眼可见的压缩失真，为什么呢？下载下来发现居然被 vp9 压到了只有不到 1 mbps 的码率... 相比之下 Twitch 给直播用的 1080p30 码率推荐都是至少 4.5 mbps，明明直播这种实时性更重要的事情还是更需要低码率的",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13869576869662997,
     "images": [
@@ -65739,7 +65739,7 @@
     "id": 4775,
     "date": "2024-12-19T22:15:58",
     "text": "在<a href=\"https://github.com/hykilpikonna/colorful-link\">仓库</a> readme 上写了用编辑器创建一个谜题的教程 qwq",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65923,7 +65923,7 @@
     "id": 4787,
     "date": "2024-12-22T02:21:47",
     "text": "几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...\n\nVRChat 的语言 Udon# 真的很 <i class=\"custom-emoji\" emoji-src=\"emoji/6327950654941694400.webp\">🤡</i>，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚\n\n所有数据都存进 Dict 把它当做类用，把类名写进 <code>__type__</code> 里面，所有值都存成 Any，需要访问的时候再动态 cast，<del>和 python 一样完全不检查类型</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>\n\n...这样一番折腾之后终于重新实现了 C# 原本就有的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 唉 VRChat 罪大恶极",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -65942,7 +65942,7 @@
     "id": 4788,
     "date": "2024-12-22T03:28:36",
     "text": "发现 Windows 没有 AV1 视频预览的问题装上 <a href=\"https://codecguide.com/download_k-lite_codec_pack_full.htm\">K-Lite Codec Pack</a> 就能解决，很奇妙的是这个软件三天前刚更新过但是网页看起来却像是二十年前的",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
@@ -65961,7 +65961,7 @@
     "id": 4789,
     "date": "2024-12-22T06:37:02",
     "text": "nightcode で",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -65980,7 +65980,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66010,7 +66010,7 @@
     "id": 4792,
     "date": "2024-12-23T00:40:54",
     "text": "今天公寓火警铃响了快半个小时，火警赶来了发现好像没有真的着火然后走了\n\n然后发现我的服务器现在因为刚搬完数据还没把备份开回来反而做不到拔盘就走了... 跑下楼看了一眼是真的有🚒之后再跑上楼关机拆开机箱拔完盘已经结束了，感觉如果是真的着火了这个速度肯定不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及感觉火警误报太多大家都不当一回事的样子，我跑下楼看的时候只遇到了一两个人，明明这个公寓还很大的... 但是也能理解，毕竟目前为止 100% 的火警都是误报\n\n如果有 > 1 bit 的火警信息就好了，比如之前在学校宿舍的时候真的有 🔥 的那次是直接接上麦克风广播了，可惜这个公寓的警报设施没有这样的功能",
-    "views": 125,
+    "views": 127,
     "forwards": 0,
     "images": [
       {
@@ -66029,7 +66029,7 @@
     "id": 4793,
     "date": "2024-12-23T06:43:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n混沌！\n\n<del>感觉和面条本质上是同样的东西</del>",
-    "views": 125,
+    "views": 127,
     "forwards": 0,
     "images": [
       {
@@ -66048,14 +66048,14 @@
     "id": 4794,
     "date": "2024-12-23T07:28:19",
     "text": "每次我问聊聊“怎么办怎么办”的时候聊聊都会接“爸爸妈妈说不许不许叔叔阿姨说 no no no no” <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 121,
+    "views": 123,
     "forwards": 0
   },
   {
     "id": 4795,
     "date": "2024-12-23T22:10:37",
     "text": "doge tool",
-    "views": 112,
+    "views": 114,
     "forwards": 0,
     "images": [
       {
@@ -66074,7 +66074,7 @@
     "id": 4798,
     "date": "2024-12-24T23:51:30",
     "text": "<a href=\"##谜题\">#谜题</a> 进了今月的排行榜",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 13880674321667541,
     "images": [
@@ -66104,7 +66104,7 @@
     "id": 4800,
     "date": "2024-12-25T08:48:31",
     "text": "圣诞快乐！\n\n（依然不会打这个圣诞歌，14+ 好抽象啊",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "media_group_id": 13880932092730933,
     "images": [
@@ -66144,7 +66144,7 @@
     "id": 4803,
     "date": "2024-12-25T09:02:46",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n平安夜被朋友们拉上吃了自助烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 饱饱\n\n这家店叫 Gyubee 牛兵衛，走在路上我有点迷路聊聊说跟着她走就好了，然后聊聊没看地图就很快就走到了\n\n我：聊聊牛逼，方向感好强\n聊聊：好，我 Gyubee <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 112,
+    "views": 114,
     "forwards": 1,
     "images": [
       {
@@ -66163,14 +66163,14 @@
     "id": 4804,
     "date": "2024-12-25T19:18:05",
     "text": "<a href=\"##梦\">#梦</a> 做了好恐怖好恐怖的梦，感觉脱离了梦的沙盒边界... 甚至现在有点害怕睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n刚开始是很一般的梦，大雨天巴士在远处停了三秒，也不管大家正在跑过去就关门走了，还好下一辆车就在后面。但是这辆是敞篷小巴士（？）还开得很快，怕无线耳机掉在路上就摘掉了耳机\n\n但是摘掉耳机音乐还在播，堵住耳朵也没有用，像是耳朵自己传出来的一样。仔细听不对啊怎么是我的声音？我没在唱歌... 然后车翻过去了，我摔在地上\n\n意识到了自己肯定在做梦，我重建出了一个躺在床上的画面，旁边躺着聊聊。我不太喜欢这个梦，想要醒过来又太困转不起身。叫了一声聊聊，聊聊没反应... 又大声叫了两声聊聊，还是没反应。发现哪里不对，用尽全身的力气喊聊聊，依然没反应，想要翻身也翻不过去，这时候才意识到我根本没在喊也没在用力，而是我的意识对身体的控制被夺走了...\n\n突然就非常慌，四周变成了紫色的虚空，不知道还要在这里停留多久，甚至开始怀疑自己的身体属不属于自己，怀疑到底哪边是梦，会不会在睡觉的自己并不是真实的... 大脑过载让我有点缺氧，但是连呼吸都没法控制，觉得自己要窒息，呼救也没人听到，最后还是现实中的生存本能把我叫醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 120,
+    "views": 121,
     "forwards": 0
   },
   {
     "id": 4805,
     "date": "2024-12-25T23:44:19",
     "text": "白天重新试了几次打到 S 了！是第一个 14+ 的 S\n\n果然需要担心音量的时候就打不好（无能狂敲 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://www.youtube.com/watch?v=Ys840JKDkYU\">Youtube</a>",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "reply": {
       "id": 4800,
@@ -66198,7 +66198,7 @@
     "id": 4806,
     "date": "2024-12-26T06:02:33",
     "text": "\"...was granted to <em>first name last name</em> by the Ontario Business Information System\" 🌚\n\n唉都是什么草台班子",
-    "views": 126,
+    "views": 127,
     "forwards": 1,
     "images": [
       {
@@ -66217,7 +66217,7 @@
     "id": 4807,
     "date": "2024-12-26T17:48:21",
     "text": "刚吐槽完又来一封 \"Dear [Organizer's Name]\"，还不是同一个人发的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "reply": {
       "id": 4806,
@@ -66240,7 +66240,7 @@
     "id": 4808,
     "date": "2024-12-27T06:27:47",
     "text": "花了两天的时间把 AquaDX 的中二代码大规模重构了一遍，把所有 Java boilerplate 去掉之后代码行数短了三倍，还修了些堆了很久的代办\n\n现在段位模式终于可以用了（不再需要手动改数据版本号了）、队名可以在网页上自定义了、B40 可以看了 qwq\n\n之后打算实现匹配联机（希望不会很难写",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 13882246938788557,
     "images": [
@@ -66270,7 +66270,7 @@
     "id": 4810,
     "date": "2024-12-27T08:45:21",
     "text": "哇 Eric 发视频说了之前发现的 EditThisCookies 插件的问题 <a href=\"https://www.youtube.com/watch?v=AZgM_50aqbg\">https://www.youtube.com/watch?v=AZgM_50aqbg</a>",
-    "views": 114,
+    "views": 115,
     "forwards": 1,
     "reply": {
       "id": 4636,
@@ -66282,7 +66282,7 @@
     "id": 4811,
     "date": "2024-12-28T05:24:25",
     "text": "<del>按照这个速度半个月之后就能到 15 了</del>",
-    "views": 106,
+    "views": 108,
     "forwards": 0,
     "images": [
       {
@@ -66301,7 +66301,7 @@
     "id": 4812,
     "date": "2024-12-28T21:53:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n米饭布丁（？）🍮",
-    "views": 105,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
@@ -66320,7 +66320,7 @@
     "id": 4813,
     "date": "2024-12-30T00:12:43",
     "text": "给 AquaDX 中二加入了全国对战，现在可以和 RinNET 玩家跨服联机了！\n\n虽然感觉并不太好玩（<span class=\"spoiler\"><span>2p 拼机打别人选的曲子可以选难度，但是这个全国对战模式不能，如果不够四个人的话 CPU 还会随机选绿谱... 不是太难打不动就是太简单没意思，真不知道谁想出来的这个天才模式</span></span>\n\n如果可以远程拼机就好了",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "reply": {
       "id": 4808,
@@ -66344,7 +66344,7 @@
     "id": 4814,
     "date": "2024-12-30T01:33:39",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n棒棒糖，但是是狼牙棒（？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 111,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -66363,21 +66363,21 @@
     "id": 4815,
     "date": "2024-12-30T07:18:31",
     "text": "虽然喜欢用 telegram，但是每次整理频道都会发现一些 deleted account...\n\n好害怕会不会哪天我也被炸号，感觉需要做一些炸号演习假装自己被炸号了看看我的备用号权限够不够全",
-    "views": 107,
+    "views": 109,
     "forwards": 0
   },
   {
     "id": 4816,
     "date": "2024-12-30T09:42:27",
     "text": "因为系统有 128GB 运行内存，我比较喜欢在内存路径 <code>/tmp/</code> 里面工作\n\n需要写什么就从 github 拉下来，写完 push 上去，下次重启就自动消失了，全程不落盘，不用占存储空间也不会消耗 ssd 的寿命。也不用怕写的东西以后找不到，因为所有相关的东西都推到 github 上了\n\n...直到今天遇到灵车问题需要重启的时候忘了这件事，结果丢了一点点进度 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 106,
+    "views": 108,
     "forwards": 1
   },
   {
     "id": 4817,
     "date": "2024-12-30T11:57:32",
     "text": "<a href=\"##ADHD\">#ADHD</a> 边连视频听 menci syama lily 聊天边写代码边煮面，然后忘记自己在煮面了，十分钟过去了，煮出来一坨黏糕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 105,
+    "views": 111,
     "forwards": 1,
     "images": [
       {
@@ -66396,7 +66396,7 @@
     "id": 4818,
     "date": "2024-12-31T00:38:24",
     "text": "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%",
-    "views": 59,
+    "views": 62,
     "forwards": 2,
     "forwarded_from": {
       "name": "YearProgress"
@@ -66406,7 +66406,7 @@
     "id": 4819,
     "date": "2024-12-31T06:05:58",
     "text": "不知道大家有没有看过迪士尼 1940 年的 Fantasia 系列\n\n每次写需要跑很久的代码我都会想起这个动画，无论是部署的应用服务器还是挂机的数据处理，感觉自己写的代码就是这个魔法扫把，可能稍微一个大意就会闹起来把我家淹了，所以即使第一眼看起来一切工作也很难放心去睡觉...\n\n<del>所以原本想说睡前挂上机跑 compute 说着说着就通宵了</del>",
-    "views": 88,
+    "views": 97,
     "forwards": 1,
     "files": [
       {
@@ -66429,7 +66429,7 @@
     "id": 4820,
     "date": "2024-12-31T22:45:28",
     "text": "想想去年这个时候，GPT4 Turbo发布还没几天；LLM在长context下的能力还非常捉急；MoE那时候还是个新鲜事物；所有人都觉得合成的数据是垃圾\n\n一年之后\nGPT4感觉已经成了远古模型；超长的context已经成了LLM的标配；Deepseek在MoE上一枝独秀，而优秀的Dense模型则是百花齐放；最关键的，人类的自然语料可能已经消耗殆尽，而合成的数据则已经成了行业标配。\n\n我们好像并没有更了解LLM本身，但是LLM却不断提高着大家对\"泛化\"标准的定义，飞速刷新大家对一个人工智能系统能力的期待。\n\n2025年的LLM又会变成什么样呢？\n有一个主题是肯定的：Harder, Better, Faster, Stronger",
-    "views": 77,
+    "views": 78,
     "forwards": 3,
     "forwarded_from": {
       "name": "Tokenized Me"
@@ -66439,7 +66439,7 @@
     "id": 4821,
     "date": "2024-12-31T22:54:42",
     "text": "去年的这个时候自己还不敢想象自己能炼一个 LLM LoRA，甚至没有本地跑过几次训练好的模型，现在对这些已经开始有些熟练了 quq",
-    "views": 85,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 4820,
@@ -66450,13 +66450,13 @@
     "id": 4822,
     "date": "2025-01-01T05:02:08",
     "text": "新年快乐？",
-    "views": 80,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 4823,
     "date": "2025-01-01T05:02:26",
-    "views": 84,
+    "views": 86,
     "forwards": 1,
     "files": [
       {
@@ -66481,7 +66481,7 @@
     "id": 4824,
     "date": "2025-01-01T06:40:18",
     "text": "今年新年白天在和 llm 打架，晚上和聊聊和茉莉玩玛丽奥派对，又双看了纽约的跨年直播（感觉不在现场很没意思，明年不看了\n\n终于可以好好休息了呜呜 quq 现在才真的感觉有放假...",
-    "views": 81,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13885708949860413,
     "images": [
@@ -66521,7 +66521,7 @@
     "id": 4827,
     "date": "2025-01-02T04:15:02",
     "text": "创建 GitHub 帐号已经八年了！例常更新一下今年做的项目 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n🟥: 咕了 🕊\n🟦: 写完但是没发布/没什么用的\n🟨: 还没写完但是会继续\n🟩: 满意的项目w\n\n时间过得好快，明明又过了一年了，却感觉上次做项目总结还是昨天...\n\n发现弃坑的项目越来越少了，反而需要很长时间或者特定条件做的项目更多了，有些一年甚至做不完... 不知道是不是好事呢\n\n以及希望需要长期维护的项目堆起来不会占用到开新项目的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 81,
+    "views": 84,
     "forwards": 0,
     "reply": {
       "id": 3123,
@@ -66545,7 +66545,7 @@
     "id": 4828,
     "date": "2025-01-02T11:23:02",
     "text": "今天发现之前用来生成 One Among Us 网页预览的 netlify 因为每月构建时间超出了 300 分钟收了 $7...\n\n这种免费版趁你不注意就收钱的行为真的很过分 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 因此立即写了一个 gh action 迁移到了 cloudflare pages <del>继续白嫖</del>\n\n如果你也在用 netlify 可以来参考<a href=\"https://github.com/one-among-us/data/blob/main/.github/workflows/preview.yml\">这个 action</a>",
-    "views": 78,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
@@ -66564,7 +66564,7 @@
     "id": 4829,
     "date": "2025-01-02T23:50:18",
     "text": "笑死了",
-    "views": 72,
+    "views": 79,
     "forwards": 2,
     "images": [
       {
@@ -66583,7 +66583,44 @@
     "id": 4830,
     "date": "2025-01-03T04:30:44",
     "text": "Google JP 做的 Chrome 的广告 mv 好可爱 quq\n\n草 居然请了匹诺曹P\n\n<a href=\"https://www.youtube.com/watch?v=F50bCrlTbIs\">https://www.youtube.com/watch?v=F50bCrlTbIs</a>",
-    "views": 79,
+    "views": 98,
     "forwards": 3
+  },
+  {
+    "id": 4831,
+    "date": "2025-01-03T14:29:20",
+    "text": "<a href=\"##梦\">#梦</a> 又是电梯\n\n梦见自己在入住一个旅馆，整个旅馆就是一个大电梯。一楼只有前台和一个超大电梯门，刷一下自己的门卡过一会房间就会移动过来，降落到这个电梯口开门让我进去，然后再上下左右移动回到一个空的格子停车，好奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n如果真的存在这样的旅店就好了，不过想了想觉得不太可行呢，感觉同时需要上下左右移动支撑重量并且让卫生间工作就很难实现，而且如果要让一个人想要出门的时候不需要移动别人的话也没办法省下空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
+    "views": 42,
+    "forwards": 0
+  },
+  {
+    "id": 4832,
+    "date": "2025-01-03T15:25:20",
+    "text": "欣赏一下小桂桂昏睡代码\n\n（超过 1000 直接 NaN",
+    "views": 34,
+    "forwards": 0,
+    "media_group_id": 13887343362282373,
+    "images": [
+      {
+        "width": 777,
+        "height": 1280,
+        "date": "2025-01-03T15:33:03",
+        "media_type": "photo",
+        "original_name": "photo_2025-01-03_15-33-03.jpg",
+        "url": "media/4832.jpg",
+        "size": 154864,
+        "thumb": "media/4832.jpg_thumb.jpg"
+      },
+      {
+        "width": 927,
+        "height": 265,
+        "date": "2025-01-03T15:18:39",
+        "media_type": "photo",
+        "original_name": "photo_2025-01-03_15-18-39.jpg",
+        "url": "media/4833.jpg",
+        "size": 40436,
+        "thumb": "media/4833.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
