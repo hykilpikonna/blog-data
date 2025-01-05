@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-01-05T12:11:32.340170+00:00</updated>
+  <updated>2025-01-05T14:10:00.556013+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4842</id>
+    <title>小桂桂的回忆录 📒 #4842</title>
+    <updated>2025-01-05T13:24:01+00:00</updated>
+    <content>&lt;p&gt;用着用着 github 发现仓库设置邀请页面左上角飘着一个搜索图标 🌚&lt;/p&gt;
+&lt;p&gt;开 devtools 诊断一下发现是 github 那边的 web 人忘记给母元素加 position relative 了所以应该在母元素左上角的搜索图标直接跑到整个窗口左上角 🌚&lt;/p&gt;
+&lt;p&gt;这个世界真是巨大草台&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4842" rel="alternate"/>
+  </entry>
   <entry>
     <id>4841</id>
     <title>小桂桂的回忆录 📒 #4841</title>
