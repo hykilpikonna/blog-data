@@ -66773,7 +66773,7 @@
     "id": 4842,
     "date": "2025-01-05T13:24:01",
     "text": "用着用着 github 发现仓库设置邀请页面左上角飘着一个搜索图标 🌚\n\n开 devtools 诊断一下发现是 github 那边的 web 人忘记给母元素加 position relative 了所以应该在母元素左上角的搜索图标直接跑到整个窗口左上角 🌚\n\n这个世界真是巨大草台",
-    "views": 108,
+    "views": 109,
     "forwards": 3,
     "images": [
       {
