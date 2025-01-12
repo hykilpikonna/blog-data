@@ -66822,7 +66822,7 @@
     "id": 4845,
     "date": "2025-01-08T15:32:34",
     "text": "哇 pjsk 要上线动森模式了吗 <a href=\"https://twitter.com/pj_sekai/status/1876934708396687379\">https://twitter.com/pj_sekai/status/1876934708396687379</a>",
-    "views": 105,
+    "views": 106,
     "forwards": 0
   },
   {
@@ -66988,7 +66988,7 @@
     "id": 4857,
     "date": "2025-01-12T12:48:53",
     "text": "给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<del>原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便</del>",
-    "views": 44,
+    "views": 45,
     "forwards": 0,
     "images": [
       {
