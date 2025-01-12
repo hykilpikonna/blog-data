@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Jan 2025 12:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 14:12:03 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4857</title>
+      <link>https://aza.moe/life?post=4857</link>
+      <description>&lt;p&gt;给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 &lt;i class="custom-emoji" emoji-src="emoji/6323267916523374069.webp"&gt;🥺&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便&lt;/del&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4857</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4854</title>
       <link>https://aza.moe/life?post=4854</link>
