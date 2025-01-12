@@ -3924,7 +3924,7 @@
     "id": 412,
     "date": "2021-12-21T03:46:49",
     "text": "听哭了呜呜...\n<a href=\"http://music.163.com/song?id=19149254\">http://music.163.com/song?id=19149254</a>",
-    "views": 112,
+    "views": 113,
     "forwards": 2,
     "images": [
       {
@@ -43141,7 +43141,7 @@
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 99,
+    "views": 100,
     "forwards": 3,
     "media_group_id": 13643119076454173,
     "images": [
@@ -61593,7 +61593,7 @@
     "id": 4495,
     "date": "2024-10-02T05:14:24",
     "text": "今天计网课上讲了 BGP (边界网关协议)，感觉学到了很不得了的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n在层级网络的最顶端，运营商和国家级别的自治系统「AS」之间，也和我们自己家里的路由器交换机一样用了平等的分布式共识机制，互相通过 BGP 按照复杂的规则交换路径表，花上几个小时来聚合到共识的最短路径\n\n但是和路由器交换机不同的是，它非常的不自动，反而每个 AS 都会专门雇人配置很复杂的 BGP 规则，为什么这样呢？并不是因为技术上不能，而是因为人类的不完美... 在这个网络上的，有时候互相是竞争对手，有时候是客户和供应者，有时候是国家，有时候是国家立场的黑客...\n\n每个 AS 都在白嫖和被白嫖、信任和谎言之间微调规则，真的是一种好不完美的美 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 0,
     "images": [
       {
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 139,
+    "views": 140,
     "forwards": 1,
     "images": [
       {
@@ -61779,7 +61779,7 @@
     "id": 4506,
     "date": "2024-10-04T21:41:52",
     "text": "不是很懂安卓模拟器的生态...\n\n想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了\n\n有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙",
-    "views": 137,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 13824624901279685,
     "images": [
@@ -61907,7 +61907,7 @@
     "id": 4514,
     "date": "2024-10-07T20:56:34",
     "text": "又改了改主题加了第二行信息栏 quq",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "reply": {
       "id": 4513,
@@ -61930,7 +61930,7 @@
     "id": 4515,
     "date": "2024-10-08T01:32:20",
     "text": "♫ I'm a shooting star, leaping through the sky like a tiger ♫\n♫ Defying the laws of gravity ♫\n♫ I'm a racing car, passing by like Lady Godiva ♫\n♫ I'm gonna go, go, go, there's no stopping me ♫",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "images": [
       {
@@ -66822,7 +66822,7 @@
     "id": 4845,
     "date": "2025-01-08T15:32:34",
     "text": "哇 pjsk 要上线动森模式了吗 <a href=\"https://twitter.com/pj_sekai/status/1876934708396687379\">https://twitter.com/pj_sekai/status/1876934708396687379</a>",
-    "views": 104,
+    "views": 105,
     "forwards": 0
   },
   {
@@ -66929,7 +66929,7 @@
     "id": 4853,
     "date": "2025-01-10T03:49:06",
     "text": "今天玩 VR 的时候聊聊过来抱我，我隔着头显看着聊聊揉揉脸蛋，然后就在想，我看到的真的是聊聊吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n大家肯定都看到过 \"This is not a pipe\" 的那张画，标题是 The Treachery of Images（意思大概就是，画中的管子不是真的管子，而是一张画）\n\n但是有了 AR 之后，感觉真实的边界变得说不清了。我戴着一个封闭的头显，我看到的只有两个显示器和头显摄像头录下来的一个我的手在揉聊聊的视频... 按照 \"This is not a pipe\" 的逻辑的话，它是一个视频所以不是聊聊吗？如果这是真的聊聊的话，我把这段画面录下来重新回放，眼睛看到的内容和之前是一样的，但是这次看到的是聊聊还是视频呢？\n\n换一个角度的话，我在现实中看到的聊聊也只是电灯的光子在聊聊身上的反射而已，但是也不会因此觉得这不真实... <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i> 所以真实的边界到底在哪里呢？",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -66948,7 +66948,7 @@
     "id": 4854,
     "date": "2025-01-11T18:36:34",
     "text": "昨天 tracer 来这里打音游，还给我们带了草莓小蛋糕，开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n以及发现自己打了这么久街机音游体力真的有变得比以前好，从下午四点和 tracer 一直玩到了凌晨一点，第二天胳膊居然没有酸 <i class=\"custom-emoji\" emoji-src=\"emoji/5442931622368257732.tgs\">🐾</i>",
-    "views": 64,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 13892964753503397,
     "images": [
@@ -66988,7 +66988,7 @@
     "id": 4857,
     "date": "2025-01-12T12:48:53",
     "text": "给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<del>原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便</del>",
-    "views": 39,
+    "views": 44,
     "forwards": 0,
     "images": [
       {
