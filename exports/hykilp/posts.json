@@ -66929,7 +66929,7 @@
     "id": 4853,
     "date": "2025-01-10T03:49:06",
     "text": "今天玩 VR 的时候聊聊过来抱我，我隔着头显看着聊聊揉揉脸蛋，然后就在想，我看到的真的是聊聊吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n大家肯定都看到过 \"This is not a pipe\" 的那张画，标题是 The Treachery of Images（意思大概就是，画中的管子不是真的管子，而是一张画）\n\n但是有了 AR 之后，感觉真实的边界变得说不清了。我戴着一个封闭的头显，我看到的只有两个显示器和头显摄像头录下来的一个我的手在揉聊聊的视频... 按照 \"This is not a pipe\" 的逻辑的话，它是一个视频所以不是聊聊吗？如果这是真的聊聊的话，我把这段画面录下来重新回放，眼睛看到的内容和之前是一样的，但是这次看到的是聊聊还是视频呢？\n\n换一个角度的话，我在现实中看到的聊聊也只是电灯的光子在聊聊身上的反射而已，但是也不会因此觉得这不真实... <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i> 所以真实的边界到底在哪里呢？",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 70,
+    "views": 72,
     "forwards": 2,
     "images": [
       {
