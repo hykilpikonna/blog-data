@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-01-16T02:32:12.514254+00:00</updated>
+  <updated>2025-01-16T04:12:30.084429+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4865</id>
+    <title>小桂桂的回忆录 📒 #4865</title>
+    <updated>2025-01-16T02:45:46+00:00</updated>
+    <content>&lt;p&gt;和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！&lt;/p&gt;
+&lt;p&gt;（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）&lt;/p&gt;
+&lt;p&gt;实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq&lt;/p&gt;
+&lt;p&gt;为此手动在 kt 里搓了一个 TCP/UDP over TCP 的&lt;a href="https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt"&gt;转发服务器&lt;/a&gt;，和一个 C# 里面的&lt;a href="https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs"&gt;连接客户端&lt;/a&gt;... 再加上一个 System Socket &lt;a href="https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs"&gt;兼容层&lt;/a&gt;把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4865" rel="alternate"/>
+  </entry>
   <entry>
     <id>4864</id>
     <title>小桂桂的回忆录 📒 #4864</title>
