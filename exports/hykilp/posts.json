@@ -66910,7 +66910,7 @@
     "id": 4852,
     "date": "2025-01-09T21:25:21",
     "text": "🐱🐱🐱？",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -67014,7 +67014,7 @@
     "id": 4859,
     "date": "2025-01-13T19:54:14",
     "text": "今天出门去取了 oxa 借给我的路由器。回家的路上吃了 shawarma，感觉和赛百味三明治差不多？同样可以选自己喜欢的菜和肉加到一个面饼中间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后看店长刚磨完刀也没有洗就开始削肉，感觉今天可能补充了很多铁（？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及路上看到了很棒的画，能够画满整面墙也好厉害。出地铁站还看到了群友（鸽子）聚餐，看起来很丰盛的样子",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13894384432552933,
     "images": [
@@ -67054,13 +67054,13 @@
     "id": 4862,
     "date": "2025-01-14T01:39:43",
     "text": "发现自己习惯把 \"serialization\" 读成 \"serialijson\" 改不过来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 1
   },
   {
     "id": 4863,
     "date": "2025-01-15T21:53:19",
-    "views": 69,
+    "views": 71,
     "forwards": 1,
     "images": [
       {
@@ -67079,7 +67079,7 @@
     "id": 4864,
     "date": "2025-01-15T23:56:15",
     "text": "在 线 人 数 显 示",
-    "views": 65,
+    "views": 68,
     "forwards": 0,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 64,
+    "views": 70,
     "forwards": 2,
     "images": [
       {
