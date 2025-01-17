@@ -65923,7 +65923,7 @@
     "id": 4787,
     "date": "2024-12-22T02:21:47",
     "text": "几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...\n\nVRChat 的语言 Udon# 真的很 <i class=\"custom-emoji\" emoji-src=\"emoji/6327950654941694400.webp\">🤡</i>，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚\n\n所有数据都存进 Dict 把它当做类用，把类名写进 <code>__type__</code> 里面，所有值都存成 Any，需要访问的时候再动态 cast，<del>和 python 一样完全不检查类型</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>\n\n...这样一番折腾之后终于重新实现了 C# 原本就有的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 唉 VRChat 罪大恶极",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -65942,7 +65942,7 @@
     "id": 4788,
     "date": "2024-12-22T03:28:36",
     "text": "发现 Windows 没有 AV1 视频预览的问题装上 <a href=\"https://codecguide.com/download_k-lite_codec_pack_full.htm\">K-Lite Codec Pack</a> 就能解决，很奇妙的是这个软件三天前刚更新过但是网页看起来却像是二十年前的",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -66709,7 +66709,7 @@
     "id": 4839,
     "date": "2025-01-04T15:41:55",
     "text": "试了一下 VMWare 的在线不关机调内存功能居然真的能用，好奇妙\n\nLinux: 我怎么突然多了 8GB 内存 🌚",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "images": [
       {
@@ -66728,7 +66728,7 @@
     "id": 4840,
     "date": "2025-01-05T02:28:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> \n\n从快节奏的自责不知所措逐渐失真发狂，又一下子降慢节拍变成浪漫的曲调<span class=\"spoiler\"><span>开始在车后座做爱</span></span>真的震撼",
-    "views": 122,
+    "views": 123,
     "forwards": 3,
     "files": [
       {
@@ -66822,14 +66822,14 @@
     "id": 4845,
     "date": "2025-01-08T15:32:34",
     "text": "哇 pjsk 要上线动森模式了吗 <a href=\"https://twitter.com/pj_sekai/status/1876934708396687379\">https://twitter.com/pj_sekai/status/1876934708396687379</a>",
-    "views": 125,
+    "views": 126,
     "forwards": 0
   },
   {
     "id": 4846,
     "date": "2025-01-08T17:53:31",
     "text": "每次想玩中二的时候群里都会有人一起玩好开心 qwq",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 4841,
@@ -66840,7 +66840,7 @@
     "id": 4847,
     "date": "2025-01-09T00:54:09",
     "text": "猫脑过载",
-    "views": 113,
+    "views": 114,
     "forwards": 3,
     "images": [
       {
@@ -66859,14 +66859,14 @@
     "id": 4848,
     "date": "2025-01-09T02:26:12",
     "text": "每次去谷歌搜一个问题，答案里必然有人回 \"just google it\" 💢",
-    "views": 104,
+    "views": 105,
     "forwards": 2
   },
   {
     "id": 4849,
     "date": "2025-01-09T05:31:04",
     "text": "为了大手术之后不能动的时候不无聊买了 Quest 3，今天收到了\n\n第一次摸一体的 VR/AR 设备，觉得很厉害，除了玩游戏以外，还可以在独自一人的电影院里看电影、可以接到电脑上变成大显示器、可以在别人做的 3D 场景里面飞来飞去（发现我在 VR 里面不恐高了诶）<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n不过缺点也很多... 首先是 bug 实在太多了，刚入手第一天遇到的：相机截图没有反馈而且有概率会直接崩溃（今天已经遇到三次了）、设置里点 Meta AI 那个按钮会让设置崩溃、应用商店点进一个应用再点返回会回到主页而不是上一个页面、录像或者投屏的时候视角会每秒闪一下... 您完全不 QA 测试吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 稳定性比 Rift 差太多了\n\n其次感觉 AR 还是需要适应一下，用了两三小时 AR 模式现在摘下来看现实中的物体觉得深度都怪怪的 <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 2,
     "media_group_id": 13891205318317709,
     "images": [
@@ -66910,7 +66910,7 @@
     "id": 4852,
     "date": "2025-01-09T21:25:21",
     "text": "🐱🐱🐱？",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -66929,7 +66929,7 @@
     "id": 4853,
     "date": "2025-01-10T03:49:06",
     "text": "今天玩 VR 的时候聊聊过来抱我，我隔着头显看着聊聊揉揉脸蛋，然后就在想，我看到的真的是聊聊吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n大家肯定都看到过 \"This is not a pipe\" 的那张画，标题是 The Treachery of Images（意思大概就是，画中的管子不是真的管子，而是一张画）\n\n但是有了 AR 之后，感觉真实的边界变得说不清了。我戴着一个封闭的头显，我看到的只有两个显示器和头显摄像头录下来的一个我的手在揉聊聊的视频... 按照 \"This is not a pipe\" 的逻辑的话，它是一个视频所以不是聊聊吗？如果这是真的聊聊的话，我把这段画面录下来重新回放，眼睛看到的内容和之前是一样的，但是这次看到的是聊聊还是视频呢？\n\n换一个角度的话，我在现实中看到的聊聊也只是电灯的光子在聊聊身上的反射而已，但是也不会因此觉得这不真实... <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i> 所以真实的边界到底在哪里呢？",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "images": [
       {
@@ -66948,7 +66948,7 @@
     "id": 4854,
     "date": "2025-01-11T18:36:34",
     "text": "昨天 tracer 来这里打音游，还给我们带了草莓小蛋糕，开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n以及发现自己打了这么久街机音游体力真的有变得比以前好，从下午四点和 tracer 一直玩到了凌晨一点，第二天胳膊居然没有酸 <i class=\"custom-emoji\" emoji-src=\"emoji/5442931622368257732.tgs\">🐾</i>",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13892964753503397,
     "images": [
@@ -66988,7 +66988,7 @@
     "id": 4857,
     "date": "2025-01-12T12:48:53",
     "text": "给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<del>原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便</del>",
-    "views": 103,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
@@ -67007,14 +67007,14 @@
     "id": 4858,
     "date": "2025-01-13T18:21:37",
     "text": "我发现虽然我分不清东南西北，但是比起东南西北我更能分清 NEWS 一点... 问 West 在哪我能下意识反应过来在 North 的左边，但是问西在哪我还要想一想 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么会这样呢",
-    "views": 85,
+    "views": 88,
     "forwards": 0
   },
   {
     "id": 4859,
     "date": "2025-01-13T19:54:14",
     "text": "今天出门去取了 oxa 借给我的路由器。回家的路上吃了 shawarma，感觉和赛百味三明治差不多？同样可以选自己喜欢的菜和肉加到一个面饼中间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后看店长刚磨完刀也没有洗就开始削肉，感觉今天可能补充了很多铁（？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及路上看到了很棒的画，能够画满整面墙也好厉害。出地铁站还看到了群友（鸽子）聚餐，看起来很丰盛的样子",
-    "views": 86,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13894384432552933,
     "images": [
@@ -67054,13 +67054,13 @@
     "id": 4862,
     "date": "2025-01-14T01:39:43",
     "text": "发现自己习惯把 \"serialization\" 读成 \"serialijson\" 改不过来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 84,
+    "views": 86,
     "forwards": 1
   },
   {
     "id": 4863,
     "date": "2025-01-15T21:53:19",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "images": [
       {
@@ -67079,7 +67079,7 @@
     "id": 4864,
     "date": "2025-01-15T23:56:15",
     "text": "在 线 人 数 显 示",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 75,
+    "views": 76,
     "forwards": 2,
     "images": [
       {
