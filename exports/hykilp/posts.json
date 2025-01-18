@@ -60004,7 +60004,7 @@
     "id": 4386,
     "date": "2024-09-02T00:49:34",
     "text": "收到了 Celestium 的礼物，是一个看起来像天球仪的永动摆，好好看 qwq <span class=\"spoiler\"><span>是某种对 ADHD 宝具</span></span>\n\n它原本需要装一个 9V 电池，但是买来了一个是坏的，而且感觉用电池供电好浪费，所以直接把电池线剪掉焊了一个 DC 接口上去改成 12V 接线了，既让磁力更强又不用担心会没电了 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>",
-    "views": 245,
+    "views": 246,
     "forwards": 3,
     "media_group_id": 13801905399622605,
     "files": [
@@ -65342,7 +65342,7 @@
     "id": 4750,
     "date": "2024-12-12T17:52:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸蛋挞！\n\n用空气炸锅做早餐的时候原本想煎一个鸡蛋，然后突然想到，为什么不把鸡蛋放进去一起煎呢？所以就试着把鸡蛋打进蛋挞模具里面一起煎了八分钟，居然真的像一般炸鸡蛋一样好吃 quq",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "media_group_id": 13872207428373741,
     "images": [
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65428,7 +65428,7 @@
     "id": 4756,
     "date": "2024-12-13T14:51:22",
     "text": "昨晚聊聊给我看这个快发布的叫 Catly 的游戏，我说怎么感觉不太对劲 AI 味好浓... 然后今天看推发现居然真的是 AI 生成的\n\n唉 感觉 AI hype 成功把网络上每个人训练成了 AI 内容识别 bot",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "media_group_id": 13872811857317293,
     "images": [
@@ -65458,7 +65458,7 @@
     "id": 4758,
     "date": "2024-12-13T16:29:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6229016130522974935.webm\">💢</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
@@ -65477,7 +65477,7 @@
     "id": 4759,
     "date": "2024-12-13T23:24:46",
     "text": "我要疯了\n\n补课遇到了不认识的字母 Γ，问问 4o “倒过来的 L 是什么字母”。它连续回答了 ∟、⊥、⊤、⌊ 🌚 怎么问都答不对\n\n那算了我传图片吧，它把图片里的公式 Γ ⊢ e : τ 正确打出来了，然后我再问它这里面倒着的 L 的 latex 是什么，它回答是 ⊢ 🌚\n\n我知道是大写 Gamma 了之后，开新会话反问它“大写 Gamma 看起来像什么”，它反而知道它看起来像倒着的 L 了（？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>\n\n最后再开新会话问他 Waluigi 的帽子上写了啥，它回答倒着的 L，看起来像 gamma（？？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "media_group_id": 13873058295167565,
     "images": [
@@ -65507,7 +65507,7 @@
     "id": 4761,
     "date": "2024-12-14T00:57:25",
     "text": "硬盘数据完全迁移完了！\n\n把所有数据拷到新盘上之后，用坏道扫描的结果计算出了旧盘的坏道起点和终点，然后绕开坏道分了两个区，然后再用 btrfs 把他们合在一起，这样就可以把 12TB 的坏盘当作一个 11TB 的好盘用了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（虽然其实也不太敢放重要数据上去，只把自带冗余的数据比如番剧和 PT 什么的放丢上去了 quq\n\n加上之前开 btrfs 压缩省出来的空间的话，现在总共有 14.9TB HDD 和 1.9TB SSD 空闲了，感觉一段时间内可以不用再担心存储不够用了",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "reply": {
       "id": 4738,
@@ -65531,7 +65531,7 @@
     "id": 4762,
     "date": "2024-12-14T02:52:52",
     "text": "刚才和聊聊看刚更新的宝可梦地平线第 77 话，发现我现在日语居然能听懂谐音梗了！<i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n语言梗不需要看科普字幕感觉好不一样",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "images": [
       {
@@ -65550,7 +65550,7 @@
     "id": 4763,
     "date": "2024-12-14T13:10:05",
     "text": "早上八点的阳光照进房间里好好看\n\n出门考试了，是最后一个学期的最后一个考试",
-    "views": 139,
+    "views": 140,
     "forwards": 1,
     "images": [
       {
@@ -65569,14 +65569,14 @@
     "id": 4764,
     "date": "2024-12-15T05:01:05",
     "text": "放假了！毕业了？可能正式毕业还要等到六月，但是确实不用再上课了\n\n虽然虽然完全没有实际毕业期待的那种 relief，想要做和需要做的事情也依然很多，但是至少可以暂时歇歇了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 0
   },
   {
     "id": 4765,
     "date": "2024-12-16T05:56:07",
     "text": "<a href=\"##谜题\">#谜题</a> 第一次解出 weekly 30*40 的数回，花了 36 min 好难好难 quq",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "files": [
       {
@@ -65598,7 +65598,7 @@
     "id": 4766,
     "date": "2024-12-16T23:09:11",
     "text": "<a href=\"##预告\">#预告</a> 在做一些奇妙东西",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -65617,7 +65617,7 @@
     "id": 4767,
     "date": "2024-12-17T05:33:59",
     "text": "非常好 js",
-    "views": 118,
+    "views": 119,
     "forwards": 1,
     "images": [
       {
@@ -65636,7 +65636,7 @@
     "id": 4768,
     "date": "2024-12-17T10:44:01",
     "text": "写了一个全彩的数回 web 游戏，可以用数回的线条画像素画了！到现在一共设计了四个谜题：\n\n7x7 <a href=\"https://slither.hydev.org/?puzzle=heart\">心心</a>\n16x16 <a href=\"https://slither.hydev.org/?puzzle=blahaj\">鲨鲨</a>\n40x40 魔法猫猫 ( <a href=\"https://slither.hydev.org/?puzzle=meow\">一般</a> | <a href=\"https://slither.hydev.org/?puzzle=meow-hardcore\">硬核</a> )\n\n控制难度比想象中的难好多，其实设计出来的第一个谜题是硬核猫猫，写题的时候觉得这里那里都想删，dfs 能解出来就行了吧... 结果发现自己解不出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 还是重新做了（然后好像又太简单了 悲\n\n总之欢迎来玩欢迎反馈喵，也可以用<a href=\"https://slither.hydev.org/?edit=1&size=20\">编辑器</a>设计上传自己的数回哦 qwq <a href=\"##谜题\">#谜题</a>",
-    "views": 124,
+    "views": 125,
     "forwards": 3,
     "reply": {
       "id": 4766,
@@ -65821,7 +65821,7 @@
     "id": 4780,
     "date": "2024-12-21T04:28:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煎三文鱼干！\n\n看到超市三文鱼打巨大折直接半价了就一下子买了 3kg 三文鱼，学会了给三文鱼去皮，把刺身冻起来做拌饭或者寿司🍣，然后把剩下的 700g 鱼皮煎成小鱼干了 qwq（还煎出来 112g 油 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 13878042482099997,
     "images": [
@@ -66822,14 +66822,14 @@
     "id": 4845,
     "date": "2025-01-08T15:32:34",
     "text": "哇 pjsk 要上线动森模式了吗 <a href=\"https://twitter.com/pj_sekai/status/1876934708396687379\">https://twitter.com/pj_sekai/status/1876934708396687379</a>",
-    "views": 131,
+    "views": 132,
     "forwards": 0
   },
   {
     "id": 4846,
     "date": "2025-01-08T17:53:31",
     "text": "每次想玩中二的时候群里都会有人一起玩好开心 qwq",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "reply": {
       "id": 4841,
@@ -66929,7 +66929,7 @@
     "id": 4853,
     "date": "2025-01-10T03:49:06",
     "text": "今天玩 VR 的时候聊聊过来抱我，我隔着头显看着聊聊揉揉脸蛋，然后就在想，我看到的真的是聊聊吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n大家肯定都看到过 \"This is not a pipe\" 的那张画，标题是 The Treachery of Images（意思大概就是，画中的管子不是真的管子，而是一张画）\n\n但是有了 AR 之后，感觉真实的边界变得说不清了。我戴着一个封闭的头显，我看到的只有两个显示器和头显摄像头录下来的一个我的手在揉聊聊的视频... 按照 \"This is not a pipe\" 的逻辑的话，它是一个视频所以不是聊聊吗？如果这是真的聊聊的话，我把这段画面录下来重新回放，眼睛看到的内容和之前是一样的，但是这次看到的是聊聊还是视频呢？\n\n换一个角度的话，我在现实中看到的聊聊也只是电灯的光子在聊聊身上的反射而已，但是也不会因此觉得这不真实... <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i> 所以真实的边界到底在哪里呢？",
-    "views": 140,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -66988,7 +66988,7 @@
     "id": 4857,
     "date": "2025-01-12T12:48:53",
     "text": "给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<del>原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便</del>",
-    "views": 115,
+    "views": 118,
     "forwards": 0,
     "images": [
       {
@@ -67007,7 +67007,7 @@
     "id": 4858,
     "date": "2025-01-13T18:21:37",
     "text": "我发现虽然我分不清东南西北，但是比起东南西北我更能分清 NEWS 一点... 问 West 在哪我能下意识反应过来在 North 的左边，但是问西在哪我还要想一想 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么会这样呢",
-    "views": 100,
+    "views": 106,
     "forwards": 0
   },
   {
@@ -67054,7 +67054,7 @@
     "id": 4862,
     "date": "2025-01-14T01:39:43",
     "text": "发现自己习惯把 \"serialization\" 读成 \"serialijson\" 改不过来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 111,
+    "views": 112,
     "forwards": 1
   },
   {
@@ -67117,7 +67117,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 62,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -67136,14 +67136,14 @@
     "id": 4867,
     "date": "2025-01-18T01:53:38",
     "text": "好累",
-    "views": 56,
+    "views": 62,
     "forwards": 0
   },
   {
     "id": 4868,
     "date": "2025-01-18T02:17:14",
     "text": "PRiSM 新更新的游戏内容是这个万花镜挑战模式，叫做「KaleidxScope」...\n\n玩法是，一般游戏打完某个地图之后解锁这个模式并且提示你需要找到钥匙，然后打通所有区域曲目之后拿到钥匙就可以开始挑战了。挑战难度是全服同步的，最开始是 1 血（必须三首歌都 AP 才能通关），有一个人打通之后难度降到 10 血，有 10 个人打通之后降到 50 血，以此类推\n\n今天因为新版本漏了，被催着给服务器加适配就随便写了一个看上去没问题的实现方法，然后我还没拿到数据还没有测试就部署上去了... 结果完全搞错了，地图跑完了模式解锁存不上，修了之后发现打完所有歌钥匙拿不到，又修了之后发现难度锁定在了 1 血的难度... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 可能这个服务器再过一年也不会有人打通 1 血难度",
-    "views": 58,
+    "views": 64,
     "forwards": 1,
     "media_group_id": 13897333072213493,
     "images": [
@@ -67176,6 +67176,25 @@
         "url": "media/4870.jpg",
         "size": 466125,
         "thumb": "media/4870.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4871,
+    "date": "2025-01-18T19:18:17",
+    "text": "发现手也是某种小语言模型，走神的时候手就会给我自动补全奇怪东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
+    "views": 23,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 355,
+        "height": 122,
+        "date": "2025-01-18T19:18:16",
+        "media_type": "photo",
+        "original_name": "photo_2025-01-18_19-18-16.jpg",
+        "url": "media/4871.jpg",
+        "size": 9858,
+        "thumb": "media/4871.jpg_thumb.jpg"
       }
     ]
   }
