@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-01-18T00:12:56.856957+00:00</updated>
+  <updated>2025-01-18T02:28:35.260233+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4868</id>
+    <title>小桂桂的回忆录 📒 #4868</title>
+    <updated>2025-01-18T02:17:14+00:00</updated>
+    <content>&lt;p&gt;PRiSM 新更新的游戏内容是这个万花镜挑战模式，叫做「KaleidxScope」...&lt;/p&gt;
+&lt;p&gt;玩法是，一般游戏打完某个地图之后解锁这个模式并且提示你需要找到钥匙，然后打通所有区域曲目之后拿到钥匙就可以开始挑战了。挑战难度是全服同步的，最开始是 1 血（必须三首歌都 AP 才能通关），有一个人打通之后难度降到 10 血，有 10 个人打通之后降到 50 血，以此类推&lt;/p&gt;
+&lt;p&gt;今天因为新版本漏了，被催着给服务器加适配就随便写了一个看上去没问题的实现方法，然后我还没拿到数据还没有测试就部署上去了... 结果完全搞错了，地图跑完了模式解锁存不上，修了之后发现打完所有歌钥匙拿不到，又修了之后发现难度锁定在了 1 血的难度... &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt; 可能这个服务器再过一年也不会有人打通 1 血难度&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4868" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4867</id>
+    <title>小桂桂的回忆录 📒 #4867</title>
+    <updated>2025-01-18T01:53:38+00:00</updated>
+    <content>&lt;p&gt;好累&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4867" rel="alternate"/>
+  </entry>
   <entry>
     <id>4866</id>
     <title>小桂桂的回忆录 📒 #4866</title>
