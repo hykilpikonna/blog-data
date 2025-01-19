@@ -12,7 +12,24 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 19 Jan 2025 06:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 08:11:33 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4877</title>
+      <link>https://aza.moe/life?post=4877</link>
+      <description>&lt;p&gt;奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音&lt;/p&gt;
+&lt;p&gt;debug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...&lt;/p&gt;
+&lt;p&gt;实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt; 草&lt;/p&gt;
+&lt;p&gt;居然 Windows 现在还会读这个 Bell 字符，奇妙&lt;/p&gt;</description>
+      <guid isPermaLink="false">4877</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #4875</title>
+      <link>https://aza.moe/life?post=4875</link>
+      <description>&lt;p&gt;&lt;a href="##桂桂今天吃什么"&gt;#桂桂今天吃什么&lt;/a&gt;
+炒饭！&lt;/p&gt;
+&lt;p&gt;（切午餐肉的时候不小心打翻切菜板撒了一半 呜呜 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt; -$2&lt;/p&gt;</description>
+      <guid isPermaLink="false">4875</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4872</title>
       <link>https://aza.moe/life?post=4872</link>

@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-01-19T06:11:39.472539+00:00</updated>
+  <updated>2025-01-19T08:11:33.041398+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4877</id>
+    <title>小桂桂的回忆录 📒 #4877</title>
+    <updated>2025-01-19T06:31:18+00:00</updated>
+    <content>&lt;p&gt;奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音&lt;/p&gt;
+&lt;p&gt;debug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...&lt;/p&gt;
+&lt;p&gt;实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt; 草&lt;/p&gt;
+&lt;p&gt;居然 Windows 现在还会读这个 Bell 字符，奇妙&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4877" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4875</id>
+    <title>小桂桂的回忆录 📒 #4875</title>
+    <updated>2025-01-19T06:13:57+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##桂桂今天吃什么"&gt;#桂桂今天吃什么&lt;/a&gt;
+炒饭！&lt;/p&gt;
+&lt;p&gt;（切午餐肉的时候不小心打翻切菜板撒了一半 呜呜 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt; -$2&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4875" rel="alternate"/>
+  </entry>
   <entry>
     <id>4872</id>
     <title>小桂桂的回忆录 📒 #4872</title>
