@@ -47850,7 +47850,7 @@
     "id": 3507,
     "date": "2024-03-22T04:13:23",
     "text": "我：胳膊的膝盖疼\n聊聊：那叫胳膊肘\n我：反正你也听懂了那就这样叫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 265,
+    "views": 266,
     "forwards": 1
   },
   {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 2,
     "images": [
       {
@@ -67202,7 +67202,7 @@
     "id": 4872,
     "date": "2025-01-19T02:34:41",
     "text": "我警告你们.jpg <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不要买没有接地的电视，不然一手握住 hdmi 头另一手碰电脑会被电到...\n\n测了一下发现 HDMI 头那边原本应该是接地的地方在漏 +1.96V 的电，甚至够点亮 LED 灯了",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13898032654839197,
     "images": [
@@ -67242,7 +67242,7 @@
     "id": 4875,
     "date": "2025-01-19T06:13:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n（切午餐肉的时候不小心打翻切菜板撒了一半 呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> -$2",
-    "views": 55,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13898137897954357,
     "images": [
@@ -67272,7 +67272,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 73,
+    "views": 75,
     "forwards": 1,
     "images": [
       {
