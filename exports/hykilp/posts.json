@@ -64436,7 +64436,7 @@
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 292,
+    "views": 293,
     "forwards": 4,
     "images": [
       {
@@ -66627,14 +66627,14 @@
     "id": 4834,
     "date": "2025-01-03T17:56:19",
     "text": "聊聊：你有 portal2 吗\n我：有呀 怎么啦\n聊聊：我也有 portal2\n我：那我们可以连一个从你的 portal2 portal<span class=\"spoiler\"><span>(v.)</span></span> 到我的 portal2 的 portal <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 129,
+    "views": 130,
     "forwards": 0
   },
   {
     "id": 4835,
     "date": "2025-01-03T19:57:56",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢很 funky 的曲子 qwq\n\n<a href=\"https://www.youtube.com/watch?v=Nph6Qlmh66c\">Youtube MV</a>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "files": [
       {
@@ -66859,7 +66859,7 @@
     "id": 4848,
     "date": "2025-01-09T02:26:12",
     "text": "每次去谷歌搜一个问题，答案里必然有人回 \"just google it\" 💢",
-    "views": 110,
+    "views": 111,
     "forwards": 2
   },
   {
@@ -66910,7 +66910,7 @@
     "id": 4852,
     "date": "2025-01-09T21:25:21",
     "text": "🐱🐱🐱？",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "images": [
       {
@@ -66929,7 +66929,7 @@
     "id": 4853,
     "date": "2025-01-10T03:49:06",
     "text": "今天玩 VR 的时候聊聊过来抱我，我隔着头显看着聊聊揉揉脸蛋，然后就在想，我看到的真的是聊聊吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n大家肯定都看到过 \"This is not a pipe\" 的那张画，标题是 The Treachery of Images（意思大概就是，画中的管子不是真的管子，而是一张画）\n\n但是有了 AR 之后，感觉真实的边界变得说不清了。我戴着一个封闭的头显，我看到的只有两个显示器和头显摄像头录下来的一个我的手在揉聊聊的视频... 按照 \"This is not a pipe\" 的逻辑的话，它是一个视频所以不是聊聊吗？如果这是真的聊聊的话，我把这段画面录下来重新回放，眼睛看到的内容和之前是一样的，但是这次看到的是聊聊还是视频呢？\n\n换一个角度的话，我在现实中看到的聊聊也只是电灯的光子在聊聊身上的反射而已，但是也不会因此觉得这不真实... <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i> 所以真实的边界到底在哪里呢？",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "images": [
       {
@@ -67060,7 +67060,7 @@
   {
     "id": 4863,
     "date": "2025-01-15T21:53:19",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
@@ -67079,7 +67079,7 @@
     "id": 4864,
     "date": "2025-01-15T23:56:15",
     "text": "在 线 人 数 显 示",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 139,
+    "views": 140,
     "forwards": 2,
     "images": [
       {
@@ -67143,7 +67143,7 @@
     "id": 4868,
     "date": "2025-01-18T02:17:14",
     "text": "PRiSM 新更新的游戏内容是这个万花镜挑战模式，叫做「KaleidxScope」...\n\n玩法是，一般游戏打完某个地图之后解锁这个模式并且提示你需要找到钥匙，然后打通所有区域曲目之后拿到钥匙就可以开始挑战了。挑战难度是全服同步的，最开始是 1 血（必须三首歌都 AP 才能通关），有一个人打通之后难度降到 10 血，有 10 个人打通之后降到 50 血，以此类推\n\n今天因为新版本漏了，被催着给服务器加适配就随便写了一个看上去没问题的实现方法，然后我还没拿到数据还没有测试就部署上去了... 结果完全搞错了，地图跑完了模式解锁存不上，修了之后发现打完所有歌钥匙拿不到，又修了之后发现难度锁定在了 1 血的难度... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 可能这个服务器再过一年也不会有人打通 1 血难度",
-    "views": 89,
+    "views": 91,
     "forwards": 1,
     "media_group_id": 13897333072213493,
     "images": [
@@ -67183,7 +67183,7 @@
     "id": 4871,
     "date": "2025-01-18T19:18:17",
     "text": "发现手也是某种小语言模型，走神的时候手就会给我自动补全奇怪东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "images": [
       {
@@ -67202,7 +67202,7 @@
     "id": 4872,
     "date": "2025-01-19T02:34:41",
     "text": "我警告你们.jpg <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不要买没有接地的电视，不然一手握住 hdmi 头另一手碰电脑会被电到...\n\n测了一下发现 HDMI 头那边原本应该是接地的地方在漏 +1.96V 的电，甚至够点亮 LED 灯了",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13898032654839197,
     "images": [
@@ -67242,7 +67242,7 @@
     "id": 4875,
     "date": "2025-01-19T06:13:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n（切午餐肉的时候不小心打翻切菜板撒了一半 呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> -$2",
-    "views": 82,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13898137897954357,
     "images": [
@@ -67272,7 +67272,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 104,
+    "views": 106,
     "forwards": 1,
     "images": [
       {
@@ -67291,7 +67291,7 @@
     "id": 4878,
     "date": "2025-01-19T17:52:24",
     "text": "啊？？？？\n\n群友说量的方式错了应该是 AC 不是 DC，今天重新量了一下，发现这漏电漏的是 120V AC..........\n\n好恐怖好恐怖 所以我昨天真的被 120V AC 电了？？<span class=\"spoiler\"><span>说实话有点失望 怎么还没有某随身听刺激</span></span>\n\n但是怎么办怎么办，这样的接口插在一般设备上还安全吗",
-    "views": 80,
+    "views": 82,
     "forwards": 0,
     "reply": {
       "id": 4872,
@@ -67315,7 +67315,7 @@
     "id": 4879,
     "date": "2025-01-19T19:21:54",
     "text": "好玩 qwq",
-    "views": 83,
+    "views": 88,
     "forwards": 2,
     "reply": {
       "id": 4864,
@@ -67338,7 +67338,7 @@
     "id": 4880,
     "date": "2025-01-20T02:32:54",
     "text": "25時、shop close です",
-    "views": 74,
+    "views": 80,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -67361,7 +67361,7 @@
     "id": 4881,
     "date": "2025-01-20T02:46:31",
     "text": "奇妙构图",
-    "views": 73,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -67380,14 +67380,14 @@
     "id": 4882,
     "date": "2025-01-20T20:03:10",
     "text": "在火车上听到像是蜂鸣器传来的 8bit 诺基亚铃声 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n看了看表，我确实还在 2025 年",
-    "views": 50,
-    "forwards": 0
+    "views": 65,
+    "forwards": 1
   },
   {
     "id": 4883,
     "date": "2025-01-20T20:08:07",
     "text": "挂一个人 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 49,
+    "views": 65,
     "forwards": 1,
     "images": [
       {
