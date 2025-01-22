@@ -65923,7 +65923,7 @@
     "id": 4787,
     "date": "2024-12-22T02:21:47",
     "text": "几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...\n\nVRChat 的语言 Udon# 真的很 <i class=\"custom-emoji\" emoji-src=\"emoji/6327950654941694400.webp\">🤡</i>，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚\n\n所有数据都存进 Dict 把它当做类用，把类名写进 <code>__type__</code> 里面，所有值都存成 Any，需要访问的时候再动态 cast，<del>和 python 一样完全不检查类型</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>\n\n...这样一番折腾之后终于重新实现了 C# 原本就有的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 唉 VRChat 罪大恶极",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
@@ -65942,7 +65942,7 @@
     "id": 4788,
     "date": "2024-12-22T03:28:36",
     "text": "发现 Windows 没有 AV1 视频预览的问题装上 <a href=\"https://codecguide.com/download_k-lite_codec_pack_full.htm\">K-Lite Codec Pack</a> 就能解决，很奇妙的是这个软件三天前刚更新过但是网页看起来却像是二十年前的",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "images": [
       {
@@ -65961,7 +65961,7 @@
     "id": 4789,
     "date": "2024-12-22T06:37:02",
     "text": "nightcode で",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "images": [
       {
@@ -65980,7 +65980,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66074,7 +66074,7 @@
     "id": 4798,
     "date": "2024-12-24T23:51:30",
     "text": "<a href=\"##谜题\">#谜题</a> 进了今月的排行榜",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "media_group_id": 13880674321667541,
     "images": [
@@ -66104,7 +66104,7 @@
     "id": 4800,
     "date": "2024-12-25T08:48:31",
     "text": "圣诞快乐！\n\n（依然不会打这个圣诞歌，14+ 好抽象啊",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "media_group_id": 13880932092730933,
     "images": [
@@ -66988,7 +66988,7 @@
     "id": 4857,
     "date": "2025-01-12T12:48:53",
     "text": "给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<del>原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便</del>",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "images": [
       {
@@ -67007,7 +67007,7 @@
     "id": 4858,
     "date": "2025-01-13T18:21:37",
     "text": "我发现虽然我分不清东南西北，但是比起东南西北我更能分清 NEWS 一点... 问 West 在哪我能下意识反应过来在 North 的左边，但是问西在哪我还要想一想 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么会这样呢",
-    "views": 127,
+    "views": 128,
     "forwards": 0
   },
   {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 144,
+    "views": 145,
     "forwards": 2,
     "images": [
       {
@@ -67183,7 +67183,7 @@
     "id": 4871,
     "date": "2025-01-18T19:18:17",
     "text": "发现手也是某种小语言模型，走神的时候手就会给我自动补全奇怪东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -67202,7 +67202,7 @@
     "id": 4872,
     "date": "2025-01-19T02:34:41",
     "text": "我警告你们.jpg <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不要买没有接地的电视，不然一手握住 hdmi 头另一手碰电脑会被电到...\n\n测了一下发现 HDMI 头那边原本应该是接地的地方在漏 +1.96V 的电，甚至够点亮 LED 灯了",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13898032654839197,
     "images": [
@@ -67242,7 +67242,7 @@
     "id": 4875,
     "date": "2025-01-19T06:13:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n（切午餐肉的时候不小心打翻切菜板撒了一半 呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> -$2",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "media_group_id": 13898137897954357,
     "images": [
@@ -67272,7 +67272,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 109,
+    "views": 111,
     "forwards": 1,
     "images": [
       {
@@ -67380,14 +67380,14 @@
     "id": 4882,
     "date": "2025-01-20T20:03:10",
     "text": "在火车上听到像是蜂鸣器传来的 8bit 诺基亚铃声 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n看了看表，我确实还在 2025 年",
-    "views": 86,
+    "views": 87,
     "forwards": 1
   },
   {
     "id": 4883,
     "date": "2025-01-20T20:08:07",
     "text": "挂一个人 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "images": [
       {
@@ -67406,7 +67406,7 @@
     "id": 4887,
     "date": "2025-01-21T13:34:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n第一次烤松饼！\n\n（感谢聊聊帮忙翻译法语，聊聊好厉害",
-    "views": 72,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13899731672918269,
     "images": [
@@ -67456,14 +67456,14 @@
     "id": 4888,
     "date": "2025-01-21T17:14:41",
     "text": "<del>想吃 public static void 面</del>",
-    "views": 63,
+    "views": 65,
     "forwards": 1
   },
   {
     "id": 4889,
     "date": "2025-01-21T23:29:28",
     "text": "（视频转载）\n之前 my sekai 刚出来的时候我说了想做一个动补录自己打中二然后转移到 my sekai 模型上做动画，但是一直没时间开坑，然后现在发现有人做出来了 qwq\n\n<span class=\"spoiler\"><span>感觉人类作为一个分布式计算机有时候真的挺方便的， 把想法说出来过几天就会有别人把它做出来</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 47,
+    "views": 51,
     "forwards": 0,
     "files": [
       {
