@@ -86,7 +86,7 @@
     "id": 14,
     "date": "2021-09-03T01:13:05",
     "text": "可爱的鸭鸭爪印w",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -67242,7 +67242,7 @@
     "id": 4875,
     "date": "2025-01-19T06:13:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n（切午餐肉的时候不小心打翻切菜板撒了一半 呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> -$2",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13898137897954357,
     "images": [
@@ -67272,7 +67272,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 108,
+    "views": 109,
     "forwards": 1,
     "images": [
       {
@@ -67406,7 +67406,7 @@
     "id": 4887,
     "date": "2025-01-21T13:34:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n第一次烤松饼！\n\n（感谢聊聊帮忙翻译法语，聊聊好厉害",
-    "views": 63,
+    "views": 66,
     "forwards": 0,
     "media_group_id": 13899731672918269,
     "images": [
@@ -67456,7 +67456,30 @@
     "id": 4888,
     "date": "2025-01-21T17:14:41",
     "text": "<del>想吃 public static void 面</del>",
-    "views": 45,
+    "views": 53,
     "forwards": 1
+  },
+  {
+    "id": 4889,
+    "date": "2025-01-21T23:29:28",
+    "text": "（视频转载）\n之前 my sekai 刚出来的时候我说了想做一个动补录自己打中二然后转移到 my sekai 模型上做动画，但是一直没时间开坑，然后现在发现有人做出来了 qwq\n\n<span class=\"spoiler\"><span>感觉人类作为一个分布式计算机有时候真的挺方便的， 把想法说出来过几天就会有别人把它做出来</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
+    "views": 18,
+    "forwards": 0,
+    "files": [
+      {
+        "width": 960,
+        "height": 720,
+        "duration": 14,
+        "file_name": "a6e46470b9e41abba821e679a2df85b3.mp4",
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2025-01-21T23:29:28",
+        "media_type": "video_file",
+        "original_name": "a6e46470b9e41abba821e679a2df85b3.mp4",
+        "url": "media/4889.mp4",
+        "size": 6821005,
+        "thumb": "media/4889.mp4_thumb.jpg"
+      }
+    ]
   }
 ]
