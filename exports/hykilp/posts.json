@@ -65636,7 +65636,7 @@
     "id": 4768,
     "date": "2024-12-17T10:44:01",
     "text": "写了一个全彩的数回 web 游戏，可以用数回的线条画像素画了！到现在一共设计了四个谜题：\n\n7x7 <a href=\"https://slither.hydev.org/?puzzle=heart\">心心</a>\n16x16 <a href=\"https://slither.hydev.org/?puzzle=blahaj\">鲨鲨</a>\n40x40 魔法猫猫 ( <a href=\"https://slither.hydev.org/?puzzle=meow\">一般</a> | <a href=\"https://slither.hydev.org/?puzzle=meow-hardcore\">硬核</a> )\n\n控制难度比想象中的难好多，其实设计出来的第一个谜题是硬核猫猫，写题的时候觉得这里那里都想删，dfs 能解出来就行了吧... 结果发现自己解不出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 还是重新做了（然后好像又太简单了 悲\n\n总之欢迎来玩欢迎反馈喵，也可以用<a href=\"https://slither.hydev.org/?edit=1&size=20\">编辑器</a>设计上传自己的数回哦 qwq <a href=\"##谜题\">#谜题</a>",
-    "views": 127,
+    "views": 128,
     "forwards": 3,
     "reply": {
       "id": 4766,
@@ -66363,14 +66363,14 @@
     "id": 4815,
     "date": "2024-12-30T07:18:31",
     "text": "虽然喜欢用 telegram，但是每次整理频道都会发现一些 deleted account...\n\n好害怕会不会哪天我也被炸号，感觉需要做一些炸号演习假装自己被炸号了看看我的备用号权限够不够全",
-    "views": 136,
+    "views": 137,
     "forwards": 0
   },
   {
     "id": 4816,
     "date": "2024-12-30T09:42:27",
     "text": "因为系统有 128GB 运行内存，我比较喜欢在内存路径 <code>/tmp/</code> 里面工作\n\n需要写什么就从 github 拉下来，写完 push 上去，下次重启就自动消失了，全程不落盘，不用占存储空间也不会消耗 ssd 的寿命。也不用怕写的东西以后找不到，因为所有相关的东西都推到 github 上了\n\n...直到今天遇到灵车问题需要重启的时候忘了这件事，结果丢了一点点进度 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 132,
+    "views": 133,
     "forwards": 2
   },
   {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 149,
+    "views": 150,
     "forwards": 2,
     "images": [
       {
@@ -67117,7 +67117,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -67338,7 +67338,7 @@
     "id": 4880,
     "date": "2025-01-20T02:32:54",
     "text": "25時、shop close です",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -67361,7 +67361,7 @@
     "id": 4881,
     "date": "2025-01-20T02:46:31",
     "text": "奇妙构图",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -67486,7 +67486,7 @@
     "id": 4891,
     "date": "2025-01-22T15:48:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 正義とか常識とかさ，\n♪ 疲れちゃうよね正直ね，\n♪ 秘密基地の中には，\n♪ そんなものはない，\n♪ 約束しようふたりは，\n♪ ずっとこどものままで居よう，\n♪ 誰も傷つかないなら，\n♪ 思い出のままにしよう。\n\n如果能一直做小孩子就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\nYouTube MV: <a href=\"https://www.youtube.com/watch?v=hL-lijONWFI\">约束</a> | <a href=\"https://www.youtube.com/watch?v=U0bTlwXLUmM\">再会</a>",
-    "views": 45,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 13900487457047493,
     "files": [
