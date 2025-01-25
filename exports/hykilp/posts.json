@@ -24504,7 +24504,7 @@
     "id": 1844,
     "date": "2023-02-14T08:16:59",
     "text": "游戏的喜好表\n\n整理这个列表的时候回去翻了翻前前任子兰的 Steam 仓库，想起好多连麦一起玩游戏的回忆... 那时候好甜，感觉所有能在线 mp 的游戏都玩过也说不定呢",
-    "views": 108,
+    "views": 109,
     "forwards": 2,
     "reply": {
       "id": 1834,
@@ -66822,14 +66822,14 @@
     "id": 4845,
     "date": "2025-01-08T15:32:34",
     "text": "哇 pjsk 要上线动森模式了吗 <a href=\"https://twitter.com/pj_sekai/status/1876934708396687379\">https://twitter.com/pj_sekai/status/1876934708396687379</a>",
-    "views": 139,
+    "views": 140,
     "forwards": 0
   },
   {
     "id": 4846,
     "date": "2025-01-08T17:53:31",
     "text": "每次想玩中二的时候群里都会有人一起玩好开心 qwq",
-    "views": 134,
+    "views": 135,
     "forwards": 0,
     "reply": {
       "id": 4841,
@@ -67054,13 +67054,13 @@
     "id": 4862,
     "date": "2025-01-14T01:39:43",
     "text": "发现自己习惯把 \"serialization\" 读成 \"serialijson\" 改不过来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 141,
+    "views": 143,
     "forwards": 1
   },
   {
     "id": 4863,
     "date": "2025-01-15T21:53:19",
-    "views": 132,
+    "views": 133,
     "forwards": 1,
     "images": [
       {
@@ -67079,7 +67079,7 @@
     "id": 4864,
     "date": "2025-01-15T23:56:15",
     "text": "在 线 人 数 显 示",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 155,
+    "views": 157,
     "forwards": 2,
     "images": [
       {
@@ -67117,7 +67117,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
@@ -67136,7 +67136,7 @@
     "id": 4867,
     "date": "2025-01-18T01:53:38",
     "text": "好累",
-    "views": 97,
+    "views": 98,
     "forwards": 0
   },
   {
@@ -67291,7 +67291,7 @@
     "id": 4878,
     "date": "2025-01-19T17:52:24",
     "text": "啊？？？？\n\n群友说量的方式错了应该是 AC 不是 DC，今天重新量了一下，发现这漏电漏的是 120V AC..........\n\n好恐怖好恐怖 所以我昨天真的被 120V AC 电了？？<span class=\"spoiler\"><span>说实话有点失望 怎么还没有某随身听刺激</span></span>\n\n但是怎么办怎么办，这样的接口插在一般设备上还安全吗",
-    "views": 98,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 4872,
@@ -67315,7 +67315,7 @@
     "id": 4879,
     "date": "2025-01-19T19:21:54",
     "text": "好玩 qwq",
-    "views": 107,
+    "views": 112,
     "forwards": 2,
     "reply": {
       "id": 4864,
@@ -67338,7 +67338,7 @@
     "id": 4880,
     "date": "2025-01-20T02:32:54",
     "text": "25時、shop close です",
-    "views": 101,
+    "views": 106,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -67387,7 +67387,7 @@
     "id": 4883,
     "date": "2025-01-20T20:08:07",
     "text": "挂一个人 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 96,
+    "views": 98,
     "forwards": 1,
     "images": [
       {
@@ -67406,7 +67406,7 @@
     "id": 4887,
     "date": "2025-01-21T13:34:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n第一次烤松饼！\n\n（感谢聊聊帮忙翻译法语，聊聊好厉害",
-    "views": 88,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13899731672918269,
     "images": [
@@ -67456,14 +67456,14 @@
     "id": 4888,
     "date": "2025-01-21T17:14:41",
     "text": "<del>想吃 public static void 面</del>",
-    "views": 80,
+    "views": 85,
     "forwards": 1
   },
   {
     "id": 4889,
     "date": "2025-01-21T23:29:28",
     "text": "（视频转载）\n之前 my sekai 刚出来的时候我说了想做一个动补录自己打中二然后转移到 my sekai 模型上做动画，但是一直没时间开坑，然后现在发现有人做出来了 qwq\n\n<span class=\"spoiler\"><span>感觉人类作为一个分布式计算机有时候真的挺方便的， 把想法说出来过几天就会有别人把它做出来</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 77,
+    "views": 86,
     "forwards": 1,
     "files": [
       {
@@ -67486,7 +67486,7 @@
     "id": 4891,
     "date": "2025-01-22T15:48:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 正義とか常識とかさ，\n♪ 疲れちゃうよね正直ね，\n♪ 秘密基地の中には，\n♪ そんなものはない，\n♪ 約束しようふたりは，\n♪ ずっとこどものままで居よう，\n♪ 誰も傷つかないなら，\n♪ 思い出のままにしよう。\n\n如果能一直做小孩子就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\nYouTube MV: <a href=\"https://www.youtube.com/watch?v=hL-lijONWFI\">约束</a> | <a href=\"https://www.youtube.com/watch?v=U0bTlwXLUmM\">再会</a>",
-    "views": 59,
+    "views": 66,
     "forwards": 0,
     "media_group_id": 13900487457047493,
     "files": [
@@ -67522,7 +67522,7 @@
     "id": 4892,
     "date": "2025-01-25T14:05:17",
     "text": "对比一下才知道自己 22 岁的身体并没有隔壁 57 岁的老跨妹身体好",
-    "views": 16,
+    "views": 43,
     "forwards": 1
   }
 ]
