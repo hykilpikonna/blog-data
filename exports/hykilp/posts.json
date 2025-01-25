@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 134,
+    "views": 135,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 150,
+    "views": 151,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 162,
+    "views": 163,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 143,
+    "views": 144,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -42165,7 +42165,7 @@
     "id": 3124,
     "date": "2024-01-01T00:46:40",
     "text": "理这团线感觉自己在拆炸弹 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -42184,7 +42184,7 @@
     "id": 3125,
     "date": "2024-01-01T07:19:09",
     "text": "新年快乐！今年和聊聊和猪猪和 Celestium 和茉莉和 Jun 和 Jamie 一起跨了年，好热闹，去年过年许的愿生效了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "reply": {
       "id": 1684,
@@ -42838,14 +42838,14 @@
     "id": 3170,
     "date": "2024-01-12T01:52:29",
     "text": "今天玩博得之门丢了几次档... 解决的时候被迷惑到了\n\n第一次打开游戏发现档没了，开了一个新档然后用 Windows 全局搜索发现它放在 Steam 的同步文件夹里了而不是用户文件夹（明明之前也是用 Steam 启动的）重启不开 Steam 直接启动 bg3_dx11.exe 就好了。\n\n第二次打开游戏发现档没了，又开了一个新档然后用 Windows 全局搜索发现它居然在同一个目录的 Debug_Profile_3 下面。之后发现这个游戏判断存档位置的逻辑是，如果后台有 bg3 进程在跑就读 Debug_Profile_{i}，如果没有就读 Public... 然后因为之前开的游戏没有成功退出，留了两个僵尸进程，所以新开的进程检测到有三个游戏开着就读了 Debug_Profile_3 🌚\n\n至少花了一个小时解决这个问题... 后悔没有用主机玩这个游戏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 108,
+    "views": 109,
     "forwards": 0
   },
   {
     "id": 3171,
     "date": "2024-01-12T03:25:25",
     "text": "新笔记本到啦！做工很棒很满意 qwq\n\n后壳咬合得太完美以至于专门用来拆机的塑料片都太粗了插不进去... 还是用了 thin 吉他拨片撬开的。\n\n刚到手把 MT7921K 网卡换成了 AX210，然后把杂牌子 SSD 换掉了。比较有意思的是拆机的时候发现主板上留了独显的 BGA，可是这个产品线 14 寸却没有任何一个发售的型号带独显... 不知道以后会不会有\n\n之后把旧笔记本的系统迁移过去了，花了几个小时修 Windows 和 Linux 的引导问题，改成了用 Clover 做引导，现在终于可以用啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13640239401671573,
     "images": [
@@ -61316,7 +61316,7 @@
     "id": 4474,
     "date": "2024-09-22T23:28:08",
     "text": "他们那家店里面的样子，目前有 Wacca Plus, maimai DX, 中二, DIVA, SDVX, IIDX, 还有一些一般街机比如舰 C\n\n真的好厉害，今年三月的时候他们刚开始准备，居然现在就已经在准备开业了还有这么多劲爆机器... 真好啊，希望他们能回本 quq\n\n今天去的时候就很热闹了，有几个认识的人来玩，还有 discord 上一直觉得很厉害的店员在修路由器装修房间，也认识了一些新朋友 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>（不过感觉我认出来的人还是少数，虽然 discord 上都认识但是线下完全猜不出谁是谁——唉感觉是很多群友同时见面难免会遇到的问题",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 13816381504337565,
     "images": [
@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 213,
+    "views": 214,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 182,
+    "views": 183,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "images": [
       {
@@ -61447,7 +61447,7 @@
     "id": 4485,
     "date": "2024-09-26T04:33:21",
     "text": "我真的好不擅长数学...\n\nCSC458 计网课的大作业要用 cpp 实现一个网卡，我只用了三个小时就写完了，单元测试 100% 通过\n\nCSC311 机器学习理论课的作业有很多抽象数学，我这三天总共花了 14 个小时在这上面，做着做着发现完全忘记矩阵乘法维度的规则了去补补，又发现忘了非零特征值是什么意思了，怎样给偏导数求导也忘记了... 明明以为留三天的时间肯定够的，交上去的时候还是要空掉 20% 的分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n怎么办好想退课... 但是现在是最后一年，退课就会打乱下学期的计划或者要晚一年毕业了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 187,
+    "views": 188,
     "forwards": 4,
     "media_group_id": 13818601608875197,
     "images": [
@@ -61477,7 +61477,7 @@
     "id": 4487,
     "date": "2024-09-26T12:41:22",
     "text": "起床了，要做早饭，问聊聊想吃什么\n我：聊聊想吃方便面还是挂面还是意面？<i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 139,
+    "views": 140,
     "forwards": 0
   },
   {
@@ -61556,7 +61556,7 @@
     "id": 4492,
     "date": "2024-09-30T03:03:34",
     "text": "又遇到了何等的巧合\n\n上次在机场遇到扶苏的时候，扶苏和我聊到她有一个朋友也要去多伦多，也玩舞萌，当时还给那个朋友发了消息但是没有回\n\n然后前几天聊聊说 Celestium 新的对象听说这里有舞萌想来玩，已经习惯了有很多人来这里玩就没有多想。然后玩着舞萌和她聊天，聊着聊着发现她就是扶苏说的那个朋友 Tracer <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 世界成环了\n\n聊着聊着还发现她的成分和我好相似 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 都在训练用来数字化自己的 LLM、都喜欢打/魔改舞萌和 ff14、搭 homelab 和 NAS、也和我大一住宿舍的时候一样做了 UofT EAP 的无线转发、写 AC 机解作业题、在尝试了解 RF... 奇妙",
-    "views": 163,
+    "views": 164,
     "forwards": 1,
     "reply": {
       "id": 4276,
@@ -61567,7 +61567,7 @@
     "id": 4493,
     "date": "2024-09-30T15:38:54",
     "text": "用开源软件就是在尝试理解为什么硬盘 uuid 获取不到的时候在 GPT 分区表头里看到一个不知道谁写的 \"Hah!IdontNeedEFI\" 🌚",
-    "views": 216,
+    "views": 217,
     "forwards": 3,
     "images": [
       {
@@ -61586,7 +61586,7 @@
     "id": 4494,
     "date": "2024-10-02T04:32:22",
     "text": "今天见到了光量子 <a href=\"https://t.me/lightquantum01\">@lightquantum01</a>，好可爱！\n\n不过居然光量子今天才知道我在 UofT 上本科 quq 我在别人眼里是什么网络神秘人吗，明明已经很实名了的",
-    "views": 138,
+    "views": 139,
     "forwards": 1
   },
   {
@@ -62328,7 +62328,7 @@
     "id": 4545,
     "date": "2024-10-16T22:37:19",
     "text": "猫猫耳朵是翅膀吗",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "files": [
       {
@@ -62349,7 +62349,7 @@
     "id": 4546,
     "date": "2024-10-18T20:18:16",
     "text": "带同学去 Yume 玩，被一个 Bilibili 私信过我的人认出来了，奇妙，明明我都没怎么露过脸的\n\n以及这里还没有正式开居然就已经这么多人了哇，真好啊",
-    "views": 104,
+    "views": 105,
     "forwards": 1,
     "media_group_id": 13834261568141989,
     "images": [
@@ -65980,7 +65980,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66144,7 +66144,7 @@
     "id": 4803,
     "date": "2024-12-25T09:02:46",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n平安夜被朋友们拉上吃了自助烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 饱饱\n\n这家店叫 Gyubee 牛兵衛，走在路上我有点迷路聊聊说跟着她走就好了，然后聊聊没看地图就很快就走到了\n\n我：聊聊牛逼，方向感好强\n聊聊：好，我 Gyubee <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 1,
     "images": [
       {
@@ -66163,14 +66163,14 @@
     "id": 4804,
     "date": "2024-12-25T19:18:05",
     "text": "<a href=\"##梦\">#梦</a> 做了好恐怖好恐怖的梦，感觉脱离了梦的沙盒边界... 甚至现在有点害怕睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n刚开始是很一般的梦，大雨天巴士在远处停了三秒，也不管大家正在跑过去就关门走了，还好下一辆车就在后面。但是这辆是敞篷小巴士（？）还开得很快，怕无线耳机掉在路上就摘掉了耳机\n\n但是摘掉耳机音乐还在播，堵住耳朵也没有用，像是耳朵自己传出来的一样。仔细听不对啊怎么是我的声音？我没在唱歌... 然后车翻过去了，我摔在地上\n\n意识到了自己肯定在做梦，我重建出了一个躺在床上的画面，旁边躺着聊聊。我不太喜欢这个梦，想要醒过来又太困转不起身。叫了一声聊聊，聊聊没反应... 又大声叫了两声聊聊，还是没反应。发现哪里不对，用尽全身的力气喊聊聊，依然没反应，想要翻身也翻不过去，这时候才意识到我根本没在喊也没在用力，而是我的意识对身体的控制被夺走了...\n\n突然就非常慌，四周变成了紫色的虚空，不知道还要在这里停留多久，甚至开始怀疑自己的身体属不属于自己，怀疑到底哪边是梦，会不会在睡觉的自己并不是真实的... 大脑过载让我有点缺氧，但是连呼吸都没法控制，觉得自己要窒息，呼救也没人听到，最后还是现实中的生存本能把我叫醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 130,
+    "views": 131,
     "forwards": 0
   },
   {
     "id": 4805,
     "date": "2024-12-25T23:44:19",
     "text": "白天重新试了几次打到 S 了！是第一个 14+ 的 S\n\n果然需要担心音量的时候就打不好（无能狂敲 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://www.youtube.com/watch?v=Ys840JKDkYU\">Youtube</a>",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "reply": {
       "id": 4800,
@@ -66363,14 +66363,14 @@
     "id": 4815,
     "date": "2024-12-30T07:18:31",
     "text": "虽然喜欢用 telegram，但是每次整理频道都会发现一些 deleted account...\n\n好害怕会不会哪天我也被炸号，感觉需要做一些炸号演习假装自己被炸号了看看我的备用号权限够不够全",
-    "views": 139,
+    "views": 140,
     "forwards": 0
   },
   {
     "id": 4816,
     "date": "2024-12-30T09:42:27",
     "text": "因为系统有 128GB 运行内存，我比较喜欢在内存路径 <code>/tmp/</code> 里面工作\n\n需要写什么就从 github 拉下来，写完 push 上去，下次重启就自动消失了，全程不落盘，不用占存储空间也不会消耗 ssd 的寿命。也不用怕写的东西以后找不到，因为所有相关的东西都推到 github 上了\n\n...直到今天遇到灵车问题需要重启的时候忘了这件事，结果丢了一点点进度 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 135,
+    "views": 136,
     "forwards": 2
   },
   {
@@ -67007,14 +67007,14 @@
     "id": 4858,
     "date": "2025-01-13T18:21:37",
     "text": "我发现虽然我分不清东南西北，但是比起东南西北我更能分清 NEWS 一点... 问 West 在哪我能下意识反应过来在 North 的左边，但是问西在哪我还要想一想 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么会这样呢",
-    "views": 131,
+    "views": 132,
     "forwards": 0
   },
   {
     "id": 4859,
     "date": "2025-01-13T19:54:14",
     "text": "今天出门去取了 oxa 借给我的路由器。回家的路上吃了 shawarma，感觉和赛百味三明治差不多？同样可以选自己喜欢的菜和肉加到一个面饼中间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后看店长刚磨完刀也没有洗就开始削肉，感觉今天可能补充了很多铁（？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及路上看到了很棒的画，能够画满整面墙也好厉害。出地铁站还看到了群友（鸽子）聚餐，看起来很丰盛的样子",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 13894384432552933,
     "images": [
@@ -67054,13 +67054,13 @@
     "id": 4862,
     "date": "2025-01-14T01:39:43",
     "text": "发现自己习惯把 \"serialization\" 读成 \"serialijson\" 改不过来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 140,
+    "views": 141,
     "forwards": 1
   },
   {
     "id": 4863,
     "date": "2025-01-15T21:53:19",
-    "views": 131,
+    "views": 132,
     "forwards": 1,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 2,
     "images": [
       {
@@ -67117,7 +67117,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 103,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
@@ -67136,7 +67136,7 @@
     "id": 4867,
     "date": "2025-01-18T01:53:38",
     "text": "好累",
-    "views": 96,
+    "views": 97,
     "forwards": 0
   },
   {
@@ -67272,7 +67272,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
@@ -67291,7 +67291,7 @@
     "id": 4878,
     "date": "2025-01-19T17:52:24",
     "text": "啊？？？？\n\n群友说量的方式错了应该是 AC 不是 DC，今天重新量了一下，发现这漏电漏的是 120V AC..........\n\n好恐怖好恐怖 所以我昨天真的被 120V AC 电了？？<span class=\"spoiler\"><span>说实话有点失望 怎么还没有某随身听刺激</span></span>\n\n但是怎么办怎么办，这样的接口插在一般设备上还安全吗",
-    "views": 96,
+    "views": 98,
     "forwards": 0,
     "reply": {
       "id": 4872,
@@ -67315,7 +67315,7 @@
     "id": 4879,
     "date": "2025-01-19T19:21:54",
     "text": "好玩 qwq",
-    "views": 102,
+    "views": 107,
     "forwards": 2,
     "reply": {
       "id": 4864,
@@ -67338,7 +67338,7 @@
     "id": 4880,
     "date": "2025-01-20T02:32:54",
     "text": "25時、shop close です",
-    "views": 96,
+    "views": 101,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -67361,7 +67361,7 @@
     "id": 4881,
     "date": "2025-01-20T02:46:31",
     "text": "奇妙构图",
-    "views": 98,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -67380,14 +67380,14 @@
     "id": 4882,
     "date": "2025-01-20T20:03:10",
     "text": "在火车上听到像是蜂鸣器传来的 8bit 诺基亚铃声 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n看了看表，我确实还在 2025 年",
-    "views": 94,
+    "views": 95,
     "forwards": 1
   },
   {
     "id": 4883,
     "date": "2025-01-20T20:08:07",
     "text": "挂一个人 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 94,
+    "views": 96,
     "forwards": 1,
     "images": [
       {
@@ -67406,7 +67406,7 @@
     "id": 4887,
     "date": "2025-01-21T13:34:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n第一次烤松饼！\n\n（感谢聊聊帮忙翻译法语，聊聊好厉害",
-    "views": 84,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13899731672918269,
     "images": [
@@ -67456,14 +67456,14 @@
     "id": 4888,
     "date": "2025-01-21T17:14:41",
     "text": "<del>想吃 public static void 面</del>",
-    "views": 77,
+    "views": 80,
     "forwards": 1
   },
   {
     "id": 4889,
     "date": "2025-01-21T23:29:28",
     "text": "（视频转载）\n之前 my sekai 刚出来的时候我说了想做一个动补录自己打中二然后转移到 my sekai 模型上做动画，但是一直没时间开坑，然后现在发现有人做出来了 qwq\n\n<span class=\"spoiler\"><span>感觉人类作为一个分布式计算机有时候真的挺方便的， 把想法说出来过几天就会有别人把它做出来</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 69,
+    "views": 77,
     "forwards": 1,
     "files": [
       {
@@ -67486,7 +67486,7 @@
     "id": 4891,
     "date": "2025-01-22T15:48:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 正義とか常識とかさ，\n♪ 疲れちゃうよね正直ね，\n♪ 秘密基地の中には，\n♪ そんなものはない，\n♪ 約束しようふたりは，\n♪ ずっとこどものままで居よう，\n♪ 誰も傷つかないなら，\n♪ 思い出のままにしよう。\n\n如果能一直做小孩子就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\nYouTube MV: <a href=\"https://www.youtube.com/watch?v=hL-lijONWFI\">约束</a> | <a href=\"https://www.youtube.com/watch?v=U0bTlwXLUmM\">再会</a>",
-    "views": 56,
+    "views": 59,
     "forwards": 0,
     "media_group_id": 13900487457047493,
     "files": [
@@ -67517,5 +67517,12 @@
         "thumb": "media/4891.flac_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 4892,
+    "date": "2025-01-25T14:05:17",
+    "text": "对比一下才知道自己 22 岁的身体并没有隔壁 57 岁的老跨妹身体好",
+    "views": 16,
+    "forwards": 1
   }
 ]
