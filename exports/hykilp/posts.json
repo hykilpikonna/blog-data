@@ -23484,7 +23484,7 @@
     "id": 1778,
     "date": "2023-01-21T03:25:16",
     "text": "在 alpine 上装 pacman 是什么灵车hhhh\n\n正在开坑写一个可以在任何系统上的用户 home 目录里面装上 pacman、免 root 安装任何包的脚本扩展 qwq\n\n现在已经可以让 musl libc / 不同版本的 glibc 和 pacman 的最新 glibc 共存了！在学校的 ubuntu 上也试过可以用 ✅",
-    "views": 127,
+    "views": 128,
     "forwards": 2,
     "images": [
       {
@@ -60112,7 +60112,7 @@
     "id": 4392,
     "date": "2024-09-04T15:11:20",
     "text": "社牛一次 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n昨天计网第一节课听到作业是小组作业立即发贴找组员，找到了同样搞 homelab 的人\n\n然后课上看到有同学似乎很懂就去搭了话，看到他笔记本在用 nixos 还是 tiling 桌面还插着 yubikey 就知道肯定很厉害，结果聊着聊着发现是 tgcn 群友，共同群有 nixos, arch, 黑苹果 🌚\n\n<del>...然后他和我聊起了 cubercsl，问我认不认识这个人</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 世界成环了",
-    "views": 118,
+    "views": 119,
     "forwards": 2,
     "media_group_id": 13803701440725893,
     "images": [
@@ -65881,7 +65881,7 @@
     "id": 4785,
     "date": "2024-12-21T19:58:24",
     "text": "<a href=\"##谜题\">#谜题</a> 感觉是谜题的话，把谜底发出来有点剧透感觉不太好，但是又很想发自己的像素画，怎么办怎么办 > <\n\n想了想决定从这周开始试试做一个周常/半月常的谜题活动，每周会出一道新的题然后公布上周的谜底，这样就不怕会剧透了！<span class=\"spoiler\"><span><del>反正这周没有来玩的人应该过一周也不会来，所以剧透了也没关系吧</span></span></del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n今周的谜题在<a href=\"https://slither.hydev.org/?puzzle=2024-12-21-winter\">这里</a>，是 36x36，欢迎来玩 qwq\n\n（配图是上周的答案",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -67272,7 +67272,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 146,
+    "views": 147,
     "forwards": 1,
     "images": [
       {
@@ -67291,7 +67291,7 @@
     "id": 4878,
     "date": "2025-01-19T17:52:24",
     "text": "啊？？？？\n\n群友说量的方式错了应该是 AC 不是 DC，今天重新量了一下，发现这漏电漏的是 120V AC..........\n\n好恐怖好恐怖 所以我昨天真的被 120V AC 电了？？<span class=\"spoiler\"><span>说实话有点失望 怎么还没有某随身听刺激</span></span>\n\n但是怎么办怎么办，这样的接口插在一般设备上还安全吗",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "reply": {
       "id": 4872,
@@ -67315,7 +67315,7 @@
     "id": 4879,
     "date": "2025-01-19T19:21:54",
     "text": "好玩 qwq",
-    "views": 144,
+    "views": 145,
     "forwards": 2,
     "reply": {
       "id": 4864,
@@ -67338,7 +67338,7 @@
     "id": 4880,
     "date": "2025-01-20T02:32:54",
     "text": "25時、shop close です",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -67361,7 +67361,7 @@
     "id": 4881,
     "date": "2025-01-20T02:46:31",
     "text": "奇妙构图",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "images": [
       {
@@ -67380,14 +67380,14 @@
     "id": 4882,
     "date": "2025-01-20T20:03:10",
     "text": "在火车上听到像是蜂鸣器传来的 8bit 诺基亚铃声 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n看了看表，我确实还在 2025 年",
-    "views": 140,
+    "views": 141,
     "forwards": 1
   },
   {
     "id": 4883,
     "date": "2025-01-20T20:08:07",
     "text": "挂一个人 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 1,
     "images": [
       {
@@ -67406,7 +67406,7 @@
     "id": 4887,
     "date": "2025-01-21T13:34:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n第一次烤松饼！\n\n（感谢聊聊帮忙翻译法语，聊聊好厉害",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 13899731672918269,
     "images": [
@@ -67456,14 +67456,14 @@
     "id": 4888,
     "date": "2025-01-21T17:14:41",
     "text": "<del>想吃 public static void 面</del>",
-    "views": 164,
+    "views": 165,
     "forwards": 1
   },
   {
     "id": 4889,
     "date": "2025-01-21T23:29:28",
     "text": "（视频转载）\n之前 my sekai 刚出来的时候我说了想做一个动补录自己打中二然后转移到 my sekai 模型上做动画，但是一直没时间开坑，然后现在发现有人做出来了 qwq\n\n<span class=\"spoiler\"><span>感觉人类作为一个分布式计算机有时候真的挺方便的， 把想法说出来过几天就会有别人把它做出来</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 197,
+    "views": 198,
     "forwards": 1,
     "files": [
       {
@@ -67486,7 +67486,7 @@
     "id": 4891,
     "date": "2025-01-22T15:48:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 正義とか常識とかさ，\n♪ 疲れちゃうよね正直ね，\n♪ 秘密基地の中には，\n♪ そんなものはない，\n♪ 約束しようふたりは，\n♪ ずっとこどものままで居よう，\n♪ 誰も傷つかないなら，\n♪ 思い出のままにしよう。\n\n如果能一直做小孩子就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\nYouTube MV: <a href=\"https://www.youtube.com/watch?v=hL-lijONWFI\">约束</a> | <a href=\"https://www.youtube.com/watch?v=U0bTlwXLUmM\">再会</a>",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "media_group_id": 13900487457047493,
     "files": [
@@ -67522,21 +67522,21 @@
     "id": 4892,
     "date": "2025-01-25T14:05:17",
     "text": "对比一下才知道自己 22 岁的身体并没有隔壁 57 岁的老跨妹身体好",
-    "views": 200,
+    "views": 201,
     "forwards": 1
   },
   {
     "id": 4893,
     "date": "2025-01-26T02:51:08",
     "text": "在看 onimai，觉得自己好需要一个美波里一样的姐姐 <i class=\"custom-emoji\" emoji-src=\"emoji/6329974014034840609.webp\">🥺</i>",
-    "views": 197,
+    "views": 198,
     "forwards": 0
   },
   {
     "id": 4894,
     "date": "2025-01-26T14:29:00",
     "text": "感觉自己变成了一团腐烂肉肉，已经忘记了怎样用两只脚行走",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "reply": {
       "id": 4892,
@@ -67547,14 +67547,14 @@
     "id": 4895,
     "date": "2025-01-28T00:38:14",
     "text": "一天之内胳膊被扎了四针",
-    "views": 156,
+    "views": 157,
     "forwards": 0
   },
   {
     "id": 4896,
     "date": "2025-01-29T11:58:29",
     "text": "春节快乐喵！今年春节完全没有过节气氛呢... 不过终于活过来了，新年开始一定会更好 qwq",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -67573,7 +67573,7 @@
     "id": 4897,
     "date": "2025-01-30T02:36:02",
     "text": "开了一个档 然后因为太健全了快速结局 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -67592,7 +67592,7 @@
     "id": 4898,
     "date": "2025-01-30T12:52:26",
     "text": "<a href=\"##ADHD\">#ADHD</a> 我是怎样做到把电脑转手给别人之后把硬盘忘在里面了而且三年之后被别人偶然找到才发现它丢了的... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "images": [
       {
@@ -67611,7 +67611,7 @@
     "id": 4899,
     "date": "2025-01-30T22:43:51",
     "text": "尝试躺在病床上用 VR 爪爪追踪玩一些 pjsk，效果不太行呢\n\n因为没做安卓适配所以追踪只能用食指一个手指，而且总是漏键... 如果判定可以做更好一点就好了 <del>好想开坑写 vr 下落式</del>",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "files": [
       {
@@ -67634,7 +67634,7 @@
     "id": 4900,
     "date": "2025-01-31T02:29:50",
     "text": "终于可以走路可以洗澡了，正在从一团腐烂肉肉变回小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n因为手术九天没洗澡是不是还打破了某种记录... 太痛苦了，现在真想把洗澡之前用过的头显鼠标键盘手柄全都洗一遍",
-    "views": 126,
+    "views": 128,
     "forwards": 0,
     "reply": {
       "id": 4894,
@@ -67645,21 +67645,21 @@
     "id": 4901,
     "date": "2025-02-01T01:37:55",
     "text": "回到家了！坐五小时火车好折磨 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 105,
+    "views": 108,
     "forwards": 0
   },
   {
     "id": 4902,
     "date": "2025-02-01T15:21:01",
     "text": "聊聊：我们什么时候买的 B50\n我：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6071188653764250989.webp\">⚠</i>\n聊聊：...维生素\n\n评价是玩舞萌玩的",
-    "views": 110,
+    "views": 112,
     "forwards": 1
   },
   {
     "id": 4903,
     "date": "2025-02-02T16:30:40",
     "text": "前天买回程火车票的时候，发现 Via 的网站设计得真的有点烂\n\n两个人一起买票自动分配座椅会分配到两个不相邻的位置，甚至中间隔着一排... 但是手动选座又要 +$14，怎么办呢？\n\n想到了一个天才的想法，只要开隐私浏览假装自己要占用这些不相邻的座然后下单不付款，下次分配到的就肯定是相邻的了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n试了一下真的成功了，好耶省下 $14 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 90,
+    "views": 92,
     "forwards": 1,
     "media_group_id": 13908110719851517,
     "images": [
@@ -67689,7 +67689,7 @@
     "id": 4905,
     "date": "2025-02-03T19:36:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n感谢室友做的葱油拌面和煎蛋 qwq\n\n呜呜 不知道什么时候可以重新开始自己做饭",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "images": [
       {
@@ -67708,7 +67708,7 @@
     "id": 4906,
     "date": "2025-02-03T23:26:18",
     "text": "现在亚马逊商品 review 水准好高\n\n回家的火车上不小心把充电头丢了，想买一个新的。去搜了一下找到了一个没牌子的 140W 充电头，看描述是 PD100W + PD20W + 2*QC 18W 居然只需要 $30\n\n第一眼感觉 too good to be true，一定很多坑吧，比如是不是有功率共享，只有单插电脑的时候才能达到 100W 什么的... \n\n原本想买来测一下不行再退，然后向下翻翻发现这个一共只有 34 条评论的商品居然有人用快充协议表测过了，居然 PD 功率不共享，只有两个 A 口的 QC 是共享 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太棒了 感谢互联网路人的评测，立即下单 qwq",
-    "views": 76,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -67727,7 +67727,7 @@
     "id": 4907,
     "date": "2025-02-04T07:28:16",
     "text": "和 syama 连 vr 电话玩了恐怖游戏 miside，可能是我玩过的第一个有真正血腥恐怖素材的恐怖游戏... 结果现在睡不着闭上眼睛全都是恐怖画面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n虽然感觉比起真正的恐怖素材来说空间扭曲之类的更可怕一点，比如已经习惯了出门是一个房间的时候突然替换成另一个房间，或者房间里出现一些预期外的东西之类的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 48,
+    "views": 55,
     "forwards": 0,
     "images": [
       {
