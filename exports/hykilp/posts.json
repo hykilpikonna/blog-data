@@ -105,7 +105,7 @@
     "id": 15,
     "date": "2021-09-03T13:34:30",
     "text": "和学长表白被拒绝了... 我会继续对他好，继续努力接近他，希望我们之间的距离不会因为搬走和开学被拉开太远...",
-    "views": 75,
+    "views": 76,
     "forwards": 1,
     "reply": {
       "id": 12,
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 172,
+    "views": 173,
     "forwards": 5,
     "media_group_id": 13846263111521349,
     "images": [
@@ -63484,7 +63484,7 @@
     "id": 4631,
     "date": "2024-11-06T04:15:06",
     "text": "好可爱的猪猪 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n什么时候我才能做出这么好看的蛋糕...",
-    "views": 152,
+    "views": 154,
     "forwards": 0,
     "images": [
       {
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 160,
+    "views": 162,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
@@ -63533,7 +63533,7 @@
     "id": 4634,
     "date": "2024-11-08T04:28:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n发现写作业的时候 c418 的麦块氛围音乐很适合用来给猫脑降温 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 139,
+    "views": 141,
     "forwards": 3,
     "files": [
       {
@@ -63555,7 +63555,7 @@
     "id": 4635,
     "date": "2024-11-08T06:20:26",
     "text": "发现有人做了 <a href=\"https://github.com/ouch-org/ouch\">ouch</a>，是一个跨格式压缩工具，有了它就不再需要记每个压缩格式的指令怎么用了 qwq",
-    "views": 133,
+    "views": 136,
     "forwards": 0,
     "reply": {
       "id": 4632,
@@ -63567,7 +63567,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 156,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 153,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
@@ -63679,7 +63679,7 @@
     "id": 4645,
     "date": "2024-11-11T20:20:14",
     "text": "支持一下 typst\n\n<del>为什么 Overleaf $8/mo 就觉得好贵还是自搭吧，typst $8/mo 反而觉得很情愿，明明都是开源软件</del> 可能是因为 typst 这边真的在 actively 加新功能",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "reply": {
       "id": 4640,
@@ -63702,7 +63702,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "images": [
       {
@@ -66104,7 +66104,7 @@
     "id": 4800,
     "date": "2024-12-25T08:48:31",
     "text": "圣诞快乐！\n\n（依然不会打这个圣诞歌，14+ 好抽象啊",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "media_group_id": 13880932092730933,
     "images": [
@@ -66170,7 +66170,7 @@
     "id": 4805,
     "date": "2024-12-25T23:44:19",
     "text": "白天重新试了几次打到 S 了！是第一个 14+ 的 S\n\n果然需要担心音量的时候就打不好（无能狂敲 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://www.youtube.com/watch?v=Ys840JKDkYU\">Youtube</a>",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "reply": {
       "id": 4800,
@@ -66198,7 +66198,7 @@
     "id": 4806,
     "date": "2024-12-26T06:02:33",
     "text": "\"...was granted to <em>first name last name</em> by the Ontario Business Information System\" 🌚\n\n唉都是什么草台班子",
-    "views": 141,
+    "views": 142,
     "forwards": 1,
     "images": [
       {
@@ -66217,7 +66217,7 @@
     "id": 4807,
     "date": "2024-12-26T17:48:21",
     "text": "刚吐槽完又来一封 \"Dear [Organizer's Name]\"，还不是同一个人发的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "reply": {
       "id": 4806,
@@ -66240,7 +66240,7 @@
     "id": 4808,
     "date": "2024-12-27T06:27:47",
     "text": "花了两天的时间把 AquaDX 的中二代码大规模重构了一遍，把所有 Java boilerplate 去掉之后代码行数短了三倍，还修了些堆了很久的代办\n\n现在段位模式终于可以用了（不再需要手动改数据版本号了）、队名可以在网页上自定义了、B40 可以看了 qwq\n\n之后打算实现匹配联机（希望不会很难写",
-    "views": 134,
+    "views": 136,
     "forwards": 0,
     "media_group_id": 13882246938788557,
     "images": [
@@ -66270,7 +66270,7 @@
     "id": 4810,
     "date": "2024-12-27T08:45:21",
     "text": "哇 Eric 发视频说了之前发现的 EditThisCookies 插件的问题 <a href=\"https://www.youtube.com/watch?v=AZgM_50aqbg\">https://www.youtube.com/watch?v=AZgM_50aqbg</a>",
-    "views": 131,
+    "views": 135,
     "forwards": 1,
     "reply": {
       "id": 4636,
@@ -66282,7 +66282,7 @@
     "id": 4811,
     "date": "2024-12-28T05:24:25",
     "text": "<del>按照这个速度半个月之后就能到 15 了</del>",
-    "views": 130,
+    "views": 133,
     "forwards": 0,
     "images": [
       {
@@ -66396,7 +66396,7 @@
     "id": 4818,
     "date": "2024-12-31T00:38:24",
     "text": "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%",
-    "views": 86,
+    "views": 87,
     "forwards": 2,
     "forwarded_from": {
       "name": "YearProgress"
@@ -66406,7 +66406,7 @@
     "id": 4819,
     "date": "2024-12-31T06:05:58",
     "text": "不知道大家有没有看过迪士尼 1940 年的 Fantasia 系列\n\n每次写需要跑很久的代码我都会想起这个动画，无论是部署的应用服务器还是挂机的数据处理，感觉自己写的代码就是这个魔法扫把，可能稍微一个大意就会闹起来把我家淹了，所以即使第一眼看起来一切工作也很难放心去睡觉...\n\n<del>所以原本想说睡前挂上机跑 compute 说着说着就通宵了</del>",
-    "views": 125,
+    "views": 126,
     "forwards": 1,
     "files": [
       {
@@ -66429,7 +66429,7 @@
     "id": 4820,
     "date": "2024-12-31T22:45:28",
     "text": "想想去年这个时候，GPT4 Turbo发布还没几天；LLM在长context下的能力还非常捉急；MoE那时候还是个新鲜事物；所有人都觉得合成的数据是垃圾\n\n一年之后\nGPT4感觉已经成了远古模型；超长的context已经成了LLM的标配；Deepseek在MoE上一枝独秀，而优秀的Dense模型则是百花齐放；最关键的，人类的自然语料可能已经消耗殆尽，而合成的数据则已经成了行业标配。\n\n我们好像并没有更了解LLM本身，但是LLM却不断提高着大家对\"泛化\"标准的定义，飞速刷新大家对一个人工智能系统能力的期待。\n\n2025年的LLM又会变成什么样呢？\n有一个主题是肯定的：Harder, Better, Faster, Stronger",
-    "views": 115,
+    "views": 116,
     "forwards": 3,
     "forwarded_from": {
       "name": "Tokenized Me"
@@ -67592,7 +67592,7 @@
     "id": 4898,
     "date": "2025-01-30T12:52:26",
     "text": "<a href=\"##ADHD\">#ADHD</a> 我是怎样做到把电脑转手给别人之后把硬盘忘在里面了而且三年之后被别人偶然找到才发现它丢了的... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 157,
+    "views": 159,
     "forwards": 0,
     "images": [
       {
@@ -67611,7 +67611,7 @@
     "id": 4899,
     "date": "2025-01-30T22:43:51",
     "text": "尝试躺在病床上用 VR 爪爪追踪玩一些 pjsk，效果不太行呢\n\n因为没做安卓适配所以追踪只能用食指一个手指，而且总是漏键... 如果判定可以做更好一点就好了 <del>好想开坑写 vr 下落式</del>",
-    "views": 179,
+    "views": 181,
     "forwards": 1,
     "files": [
       {
@@ -67634,7 +67634,7 @@
     "id": 4900,
     "date": "2025-01-31T02:29:50",
     "text": "终于可以走路可以洗澡了，正在从一团腐烂肉肉变回小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n因为手术九天没洗澡是不是还打破了某种记录... 太痛苦了，现在真想把洗澡之前用过的头显鼠标键盘手柄全都洗一遍",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "reply": {
       "id": 4894,
@@ -67645,7 +67645,7 @@
     "id": 4901,
     "date": "2025-02-01T01:37:55",
     "text": "回到家了！坐五小时火车好折磨 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 0
   },
   {
@@ -67689,7 +67689,7 @@
     "id": 4905,
     "date": "2025-02-03T19:36:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n感谢室友做的葱油拌面和煎蛋 qwq\n\n呜呜 不知道什么时候可以重新开始自己做饭",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "images": [
       {
@@ -67708,7 +67708,7 @@
     "id": 4906,
     "date": "2025-02-03T23:26:18",
     "text": "现在亚马逊商品 review 水准好高\n\n回家的火车上不小心把充电头丢了，想买一个新的。去搜了一下找到了一个没牌子的 140W 充电头，看描述是 PD100W + PD20W + 2*QC 18W 居然只需要 $30\n\n第一眼感觉 too good to be true，一定很多坑吧，比如是不是有功率共享，只有单插电脑的时候才能达到 100W 什么的... \n\n原本想买来测一下不行再退，然后向下翻翻发现这个一共只有 34 条评论的商品居然有人用快充协议表测过了，居然 PD 功率不共享，只有两个 A 口的 QC 是共享 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太棒了 感谢互联网路人的评测，立即下单 qwq",
-    "views": 104,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
@@ -67727,7 +67727,7 @@
     "id": 4907,
     "date": "2025-02-04T07:28:16",
     "text": "和 syama 连 vr 电话玩了恐怖游戏 miside，可能是我玩过的第一个有真正血腥恐怖素材的恐怖游戏... 结果现在睡不着闭上眼睛全都是恐怖画面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n虽然感觉比起真正的恐怖素材来说空间扭曲之类的更可怕一点，比如已经习惯了出门是一个房间的时候突然替换成另一个房间，或者房间里出现一些预期外的东西之类的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 99,
+    "views": 101,
     "forwards": 0,
     "images": [
       {
@@ -67746,7 +67746,7 @@
     "id": 4908,
     "date": "2025-02-05T01:35:54",
     "text": "重新玩了几周目主播女孩重度依赖这个游戏，又解锁了一些其他的结局... 发现可能第一次玩无意间触发的退网结局——因为去医院太多次阴暗度降到 0 之后决定退网，就是唯一的好结局了吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n如果按照游戏原本的目标去迎合观众做一个大主播，好好休息控制好压力的话，拿到百万粉丝买下公寓看起来像很完美的结局——但是结尾会开个小号告诉你迎合观众假扮一个正常主播的生活并不开心。如果不好好休息压力太大的话会被互联网舆论和网暴压倒逐渐魔怔\n\n但是反过来，如果不去迎合观众做一个随心所欲的小众主播的话，又会因为粉丝太少觉得三十天什么都没做到。到这里的话，阴暗太高会进行自杀的告别直播，提示「爱与数据就是她的精神安定剂」... 不然的话会放弃直播去找一份正经工作，却又因为工作太累在一百天之后突然消失 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>\n\n想了想，这个游戏给我的感受是，可能对于重度依赖的糖糖来说水杯永远是半空的，无论得到多么完美的结果，都能够挑出理由觉得它不满意，所以真正应该做的就是去医院把自己修好 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n如果主播是我的话，无论是百万粉丝还是小众主播都会觉得很开心吧，而且把日常活动中想到的东西播出来的过程听起来就很有趣，甚至有点想试试呢 quq",
-    "views": 89,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 13909754834212973,
     "images": [
@@ -67780,7 +67780,7 @@
     "id": 4910,
     "date": "2025-02-06T14:01:31",
     "text": "哈哈哈哈哈哈 500 Internal Server Error\n\n<del>果然黑客不会写全栈的 stereotype 是真的</del>",
-    "views": 78,
+    "views": 79,
     "forwards": 0,
     "images": [
       {
@@ -67799,7 +67799,7 @@
     "id": 4911,
     "date": "2025-02-07T05:04:32",
     "text": "头显镜片湿了，都怪 MyGO!!!!!\n\n前几天看了几集 MyGO，前两集能看出主唱高松灯设定上是一个自闭光谱女孩... 看到第三集我直接看哭了\n\n第三集是高松灯的个人回，从开始到结束完全是灯的第一人称视角。从小时候喜欢搜集石头，意识到自己的不同、在日记本中写下「好想成为人类」开始，到被祥子撞到、看到像歌词一样的日记之后邀请一起组乐队，再到从记录下来的回忆中创造出的第一首歌《春日影》一切心情都好 relatable\n\n祥子的执着和同情把灯从她一个人的漂游气泡中拉回来了，日记本里充满情感又乱成一团的思绪也化作歌词找到了用处... 真好啊真好啊，好羡慕有被发现被同情被邀请的机会",
-    "views": 70,
+    "views": 73,
     "forwards": 1,
     "media_group_id": 13911237381564965,
     "images": [
@@ -67824,5 +67824,49 @@
         "thumb": "media/4912.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 4913,
+    "date": "2025-02-08T20:02:07",
+    "text": "标准结局...\n\n今天打开浏览器告诉我又有一个我装过的插件因为有病毒被下架了，是一个特定平台的视频下载插件\n\n去看了看混淆源码，看到它会在访问任意 URL 之前进行 CSP bypass，并且会每 360 分钟从远程拉配置的样子... 配置里看起来人畜无害，似乎只有视频站的 URL 和默认分辨率，但是可能这已经是 payload 被删掉之后的样子了，毕竟是服务器控制的",
+    "views": 13,
+    "forwards": 0,
+    "media_group_id": 13912359420583381,
+    "images": [
+      {
+        "width": 547,
+        "height": 201,
+        "date": "2025-02-08T20:02:06",
+        "media_type": "photo",
+        "original_name": "photo_2025-02-08_20-02-06.jpg",
+        "url": "media/4913.jpg",
+        "size": 14274,
+        "thumb": "media/4913.jpg_thumb.jpg"
+      },
+      {
+        "width": 919,
+        "height": 1280,
+        "date": "2025-02-08T20:02:06",
+        "media_type": "photo",
+        "original_name": "photo_2025-02-08_20-02-06.jpg",
+        "url": "media/4914.jpg",
+        "size": 176700,
+        "thumb": "media/4914.jpg_thumb.jpg"
+      },
+      {
+        "width": 848,
+        "height": 1031,
+        "date": "2025-02-08T20:02:07",
+        "media_type": "photo",
+        "original_name": "photo_2025-02-08_20-02-07.jpg",
+        "url": "media/4915.jpg",
+        "size": 106005,
+        "thumb": "media/4915.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 4810,
+      "text": "哇 Eric 发视频说了之前发现的 EditThisCookies 插件的问题 <a href=\"https://www.youtube.com/watch?v=AZgM_50aqbg\">https://www.youtube.com/watch?v=AZgM_50aqbg</a>"
+    }
   }
 ]

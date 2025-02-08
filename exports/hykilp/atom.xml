@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-02-08T18:13:15.790148+00:00</updated>
+  <updated>2025-02-08T20:11:30.959077+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4913</id>
+    <title>小桂桂的回忆录 📒 #4913</title>
+    <updated>2025-02-08T20:02:07+00:00</updated>
+    <content>&lt;p&gt;标准结局...&lt;/p&gt;
+&lt;p&gt;今天打开浏览器告诉我又有一个我装过的插件因为有病毒被下架了，是一个特定平台的视频下载插件&lt;/p&gt;
+&lt;p&gt;去看了看混淆源码，看到它会在访问任意 URL 之前进行 CSP bypass，并且会每 360 分钟从远程拉配置的样子... 配置里看起来人畜无害，似乎只有视频站的 URL 和默认分辨率，但是可能这已经是 payload 被删掉之后的样子了，毕竟是服务器控制的&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4913" rel="alternate"/>
+  </entry>
   <entry>
     <id>4911</id>
     <title>小桂桂的回忆录 📒 #4911</title>
