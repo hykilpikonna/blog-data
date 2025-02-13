@@ -63907,7 +63907,7 @@
     "id": 4657,
     "date": "2024-11-16T09:07:27",
     "text": "GitHub 星星数量排名前 10000 的代码语言统计数据\n\n排名第三位的是「没有代码」 🌚 <del>众所周知 GitHub 是一个由微软开发的免费网盘</del>",
-    "views": 175,
+    "views": 177,
     "forwards": 3,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 2,
     "images": [
       {
@@ -67117,7 +67117,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "images": [
       {
@@ -67689,7 +67689,7 @@
     "id": 4905,
     "date": "2025-02-03T19:36:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n感谢室友做的葱油拌面和煎蛋 qwq\n\n呜呜 不知道什么时候可以重新开始自己做饭",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "images": [
       {
@@ -67873,7 +67873,7 @@
     "id": 4917,
     "date": "2025-02-09T04:21:38",
     "text": "好喵",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -67892,7 +67892,7 @@
     "id": 4918,
     "date": "2025-02-09T11:46:53",
     "text": "五天之后还是会因为想到恐怖画面睡不着... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 4907,
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 676,
+    "views": 687,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 627,
+    "views": 634,
     "forwards": 7,
     "files": [
       {
@@ -68018,14 +68018,14 @@
     "id": 4926,
     "date": "2025-02-11T12:08:52",
     "text": "syama: \"cappie\" 是儿化音英语吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0
   },
   {
     "id": 4927,
     "date": "2025-02-12T05:58:10",
     "text": "看 AquaDX 群里朋友在玩中二我也忍不住去联机打了两个币，打出了两个 AJ 哇，二十天没玩没有退步太好了 qwq\n\n...然后我的币又开始流血 呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\nsyama: 打游戏掉血（物理）🌚",
-    "views": 88,
+    "views": 90,
     "forwards": 0,
     "media_group_id": 13914719125796637,
     "images": [
@@ -68076,7 +68076,7 @@
     "id": 4931,
     "date": "2025-02-13T04:54:57",
     "text": "please? <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 74,
+    "views": 77,
     "forwards": 2,
     "images": [
       {
@@ -68095,7 +68095,7 @@
     "id": 4932,
     "date": "2025-02-13T07:00:30",
     "text": "呜呜 差点被钓鱼了\n\n想要登录 Google Slides，搜索之后点了我觉得是官方网页的第三个结果，也是 <code>google.com</code> 域名... 点进去才发现不对怎么这么丑啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n拖大窗口仔细看才发现是 Google Sites... 任何人都可以创建自己的网页发布到 <code>sites.google.com</code> 的路径下，所以虽然是谷歌官方的域名，这个网页其实是第三方的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 发到群里甚至某谷歌员工第一眼都没看出什么不对\n\n仔细看了一下，还好这个页面上的登录链接是谷歌官方的，作者并没有钓谷歌账号，只钓走了广告费... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 60,
+    "views": 63,
     "forwards": 1,
     "images": [
       {
