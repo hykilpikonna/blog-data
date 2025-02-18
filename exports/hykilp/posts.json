@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 227,
+    "views": 228,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 198,
+    "views": 199,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 186,
+    "views": 187,
     "forwards": 1,
     "images": [
       {
@@ -66822,7 +66822,7 @@
     "id": 4845,
     "date": "2025-01-08T15:32:34",
     "text": "哇 pjsk 要上线动森模式了吗 <a href=\"https://twitter.com/pj_sekai/status/1876934708396687379\">https://twitter.com/pj_sekai/status/1876934708396687379</a>",
-    "views": 153,
+    "views": 154,
     "forwards": 0
   },
   {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 181,
+    "views": 182,
     "forwards": 2,
     "images": [
       {
@@ -67486,7 +67486,7 @@
     "id": 4891,
     "date": "2025-01-22T15:48:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 正義とか常識とかさ，\n♪ 疲れちゃうよね正直ね，\n♪ 秘密基地の中には，\n♪ そんなものはない，\n♪ 約束しようふたりは，\n♪ ずっとこどものままで居よう，\n♪ 誰も傷つかないなら，\n♪ 思い出のままにしよう。\n\n如果能一直做小孩子就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\nYouTube MV: <a href=\"https://www.youtube.com/watch?v=hL-lijONWFI\">约束</a> | <a href=\"https://www.youtube.com/watch?v=U0bTlwXLUmM\">再会</a>",
-    "views": 282,
+    "views": 283,
     "forwards": 0,
     "media_group_id": 13900487457047493,
     "files": [
@@ -67652,14 +67652,14 @@
     "id": 4902,
     "date": "2025-02-01T15:21:01",
     "text": "聊聊：我们什么时候买的 B50\n我：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6071188653764250989.webp\">⚠</i>\n聊聊：...维生素\n\n评价是玩舞萌玩的",
-    "views": 150,
+    "views": 151,
     "forwards": 1
   },
   {
     "id": 4903,
     "date": "2025-02-02T16:30:40",
     "text": "前天买回程火车票的时候，发现 Via 的网站设计得真的有点烂\n\n两个人一起买票自动分配座椅会分配到两个不相邻的位置，甚至中间隔着一排... 但是手动选座又要 +$14，怎么办呢？\n\n想到了一个天才的想法，只要开隐私浏览假装自己要占用这些不相邻的座然后下单不付款，下次分配到的就肯定是相邻的了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n试了一下真的成功了，好耶省下 $14 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "media_group_id": 13908110719851517,
     "images": [
@@ -67689,7 +67689,7 @@
     "id": 4905,
     "date": "2025-02-03T19:36:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n感谢室友做的葱油拌面和煎蛋 qwq\n\n呜呜 不知道什么时候可以重新开始自己做饭",
-    "views": 150,
+    "views": 151,
     "forwards": 0,
     "images": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 735,
+    "views": 748,
     "forwards": 8,
     "files": [
       {
@@ -68178,13 +68178,13 @@
     "id": 4936,
     "date": "2025-02-15T04:46:21",
     "text": "买了一个新域名 <a href=\"https://maigo.dev/\">maigo.dev</a> ，开了一个新的 GitHub Org，打算把今后和朋友一起做的新项目放在这里 qwq\n\n<span class=\"spoiler\"><span>（实际上是因为最近发生了一些很心痛的矛盾导致 AquaDX 现在的开发团队大概要散了，服务器也要拆分开了... 所以建起 MaigoLabs 大概是想建一个和新的朋友、以及被矛盾伤害到和现在的团队不兼容的朋友重新开始的地方吧，就像动画里的 MyGO 乐队那样 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</span></span></i>",
-    "views": 125,
+    "views": 127,
     "forwards": 0
   },
   {
     "id": 4937,
     "date": "2025-02-15T08:13:39",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "files": [
       {
@@ -68209,14 +68209,14 @@
     "id": 4938,
     "date": "2025-02-17T09:28:42",
     "text": "聊聊今天去了她一个微博网友的生日派对，大暴风雪天机厅都停业了，然后居然来了 30 个人，大部分都是聊聊不认识的... 好震撼，还好我没去 quq\n\n这就是社牛吗... 我可能约饭有大于五个人就会过载 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n不过不太懂，为什么生日派对要邀请这么多不是很熟的人聚在一起，明明她和聊聊在那之前也有一年多没联系了，而且上次联系也是约饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉如果是我也许只会想要邀请特别熟的人吧",
-    "views": 95,
+    "views": 96,
     "forwards": 1
   },
   {
     "id": 4939,
     "date": "2025-02-17T17:49:07",
     "text": "想重启聊聊的 iOS 18 的苹果手机，长按电源键发现叫不出关机菜单，就问聊聊“怎么重启呀？”\n\n...结果长按电源键反而叫出了 siri，被 siri 听到了，问我要不要重启，我说好，然后它重启了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -68235,14 +68235,14 @@
     "id": 4940,
     "date": "2025-02-17T20:27:11",
     "text": "<a href=\"https://www.youtube.com/watch?v=n1KgxqEQn0A\">CGP Grey: Is The Penny *Finally* Dead?</a>\n\n每次看 CGP Grey 的视频都感觉它听起来好像一首诗，五分钟的视频从头到尾都押着韵，好厉害也好好听 qwq",
-    "views": 70,
+    "views": 72,
     "forwards": 0
   },
   {
     "id": 4941,
     "date": "2025-02-17T23:33:30",
     "text": "今日迷思，是不是我每次宽带测速的时候都在 DOS 我自己 🌚（因为测速的时候会占满宽带把其他的正常服务挤掉\n\n<del>那按照这个逻辑， </del><a href=\"speedtest.net\"><del>speedtest.net</a></del><del> 是不是互联网最大的自愿式 DDOS 网络</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 97,
+    "views": 101,
     "forwards": 1,
     "images": [
       {
