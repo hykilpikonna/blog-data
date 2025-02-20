@@ -61148,7 +61148,7 @@
     "id": 4463,
     "date": "2024-09-21T14:50:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉面！",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "media_group_id": 13815441769068581,
     "images": [
@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 228,
+    "views": 229,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 199,
+    "views": 200,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 187,
+    "views": 188,
     "forwards": 1,
     "images": [
       {
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "images": [
       {
@@ -66163,7 +66163,7 @@
     "id": 4804,
     "date": "2024-12-25T19:18:05",
     "text": "<a href=\"##梦\">#梦</a> 做了好恐怖好恐怖的梦，感觉脱离了梦的沙盒边界... 甚至现在有点害怕睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n刚开始是很一般的梦，大雨天巴士在远处停了三秒，也不管大家正在跑过去就关门走了，还好下一辆车就在后面。但是这辆是敞篷小巴士（？）还开得很快，怕无线耳机掉在路上就摘掉了耳机\n\n但是摘掉耳机音乐还在播，堵住耳朵也没有用，像是耳朵自己传出来的一样。仔细听不对啊怎么是我的声音？我没在唱歌... 然后车翻过去了，我摔在地上\n\n意识到了自己肯定在做梦，我重建出了一个躺在床上的画面，旁边躺着聊聊。我不太喜欢这个梦，想要醒过来又太困转不起身。叫了一声聊聊，聊聊没反应... 又大声叫了两声聊聊，还是没反应。发现哪里不对，用尽全身的力气喊聊聊，依然没反应，想要翻身也翻不过去，这时候才意识到我根本没在喊也没在用力，而是我的意识对身体的控制被夺走了...\n\n突然就非常慌，四周变成了紫色的虚空，不知道还要在这里停留多久，甚至开始怀疑自己的身体属不属于自己，怀疑到底哪边是梦，会不会在睡觉的自己并不是真实的... 大脑过载让我有点缺氧，但是连呼吸都没法控制，觉得自己要窒息，呼救也没人听到，最后还是现实中的生存本能把我叫醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 137,
+    "views": 138,
     "forwards": 0
   },
   {
@@ -66429,7 +66429,7 @@
     "id": 4820,
     "date": "2024-12-31T22:45:28",
     "text": "想想去年这个时候，GPT4 Turbo发布还没几天；LLM在长context下的能力还非常捉急；MoE那时候还是个新鲜事物；所有人都觉得合成的数据是垃圾\n\n一年之后\nGPT4感觉已经成了远古模型；超长的context已经成了LLM的标配；Deepseek在MoE上一枝独秀，而优秀的Dense模型则是百花齐放；最关键的，人类的自然语料可能已经消耗殆尽，而合成的数据则已经成了行业标配。\n\n我们好像并没有更了解LLM本身，但是LLM却不断提高着大家对\"泛化\"标准的定义，飞速刷新大家对一个人工智能系统能力的期待。\n\n2025年的LLM又会变成什么样呢？\n有一个主题是肯定的：Harder, Better, Faster, Stronger",
-    "views": 125,
+    "views": 126,
     "forwards": 3,
     "forwarded_from": {
       "name": "Tokenized Me"
@@ -66439,7 +66439,7 @@
     "id": 4821,
     "date": "2024-12-31T22:54:42",
     "text": "去年的这个时候自己还不敢想象自己能炼一个 LLM LoRA，甚至没有本地跑过几次训练好的模型，现在对这些已经开始有些熟练了 quq",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "reply": {
       "id": 4820,
@@ -66450,13 +66450,13 @@
     "id": 4822,
     "date": "2025-01-01T05:02:08",
     "text": "新年快乐？",
-    "views": 120,
+    "views": 121,
     "forwards": 0
   },
   {
     "id": 4823,
     "date": "2025-01-01T05:02:26",
-    "views": 124,
+    "views": 125,
     "forwards": 1,
     "files": [
       {
@@ -66481,7 +66481,7 @@
     "id": 4824,
     "date": "2025-01-01T06:40:18",
     "text": "今年新年白天在和 llm 打架，晚上和聊聊和茉莉玩玛丽奥派对，又双看了纽约的跨年直播（感觉不在现场很没意思，明年不看了\n\n终于可以好好休息了呜呜 quq 现在才真的感觉有放假...",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 13885708949860413,
     "images": [
@@ -66675,7 +66675,7 @@
     "id": 4837,
     "date": "2025-01-04T02:38:14",
     "text": "听听中二企鹅在说什么：\n<span class=\"spoiler\"><span>gay gay gay ........ gay!</span></span>\ngood job",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -66702,7 +66702,7 @@
     "id": 4838,
     "date": "2025-01-04T11:46:38",
     "text": "想要把作息修好就很早上了床，然后六点醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 127,
+    "views": 128,
     "forwards": 0
   },
   {
@@ -67873,7 +67873,7 @@
     "id": 4917,
     "date": "2025-02-09T04:21:38",
     "text": "好喵",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "images": [
       {
@@ -67892,7 +67892,7 @@
     "id": 4918,
     "date": "2025-02-09T11:46:53",
     "text": "五天之后还是会因为想到恐怖画面睡不着... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 136,
+    "views": 137,
     "forwards": 0,
     "reply": {
       "id": 4907,
@@ -67945,7 +67945,7 @@
     "id": 4921,
     "date": "2025-02-10T10:43:16",
     "text": "发现 emoji / sticker 也不是很跨语言通用，有些文字梗还是会丢失在翻译中...\n\n比如一些表情包里会有螃蟹 <i class=\"custom-emoji\" emoji-src=\"emoji/5233220730220461818.webp\">🎃</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i> 因为在中文日文里都是很常用的表达。中文人会理解为「谢谢」，日文人会理解为「たしかに / 确实」，而其他语言的人可能就觉得是一个物理螃蟹，<del>以及 rust 人可能会理解为 \"rust\"</del>",
-    "views": 256,
+    "views": 257,
     "forwards": 3,
     "images": [
       {
@@ -67964,14 +67964,14 @@
     "id": 4922,
     "date": "2025-02-10T19:56:36",
     "text": "真的觉得开源社区有时候有点过分了，总是有人认为维护者的贡献都是理所应当...\n\n仔细想想，在开源社区里做项目这么久之后，我也会这样对待自己了——会因为别人遇到的 bug 自责，会觉得我有责任需要给别人解决问题，然后把自己累坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n也许这就是为什么我只喜欢做，不喜欢发布项目也不喜欢长期维护一个项目吧，因为从发布的那一刻起，我的代办就会被别人的问题和功能请求塞满，不能只顾及自己的想法了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n<span class=\"spoiler\"><span>也许需要一些 care free 的维护理念、需要对别人说「想要的话去自己研究自己改代码」的勇气，也许这样才能把所有的时间分给自己的想法</span></span>",
-    "views": 181,
+    "views": 182,
     "forwards": 1
   },
   {
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 958,
+    "views": 960,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 862,
+    "views": 863,
     "forwards": 7,
     "files": [
       {
@@ -68076,7 +68076,7 @@
     "id": 4931,
     "date": "2025-02-13T04:54:57",
     "text": "please? <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 147,
+    "views": 148,
     "forwards": 2,
     "images": [
       {
@@ -68095,7 +68095,7 @@
     "id": 4932,
     "date": "2025-02-13T07:00:30",
     "text": "呜呜 差点被钓鱼了\n\n想要登录 Google Slides，搜索之后点了我觉得是官方网页的第三个结果，也是 <code>google.com</code> 域名... 点进去才发现不对怎么这么丑啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n拖大窗口仔细看才发现是 Google Sites... 任何人都可以创建自己的网页发布到 <code>sites.google.com</code> 的路径下，所以虽然是谷歌官方的域名，这个网页其实是第三方的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 发到群里甚至某谷歌员工第一眼都没看出什么不对\n\n仔细看了一下，还好这个页面上的登录链接是谷歌官方的，作者并没有钓谷歌账号，只钓走了广告费... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 2,
     "images": [
       {
@@ -68113,7 +68113,7 @@
   {
     "id": 4933,
     "date": "2025-02-14T07:43:52",
-    "views": 164,
+    "views": 167,
     "forwards": 0,
     "files": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 843,
+    "views": 848,
     "forwards": 8,
     "files": [
       {
@@ -68159,7 +68159,7 @@
   {
     "id": 4935,
     "date": "2025-02-14T21:16:56",
-    "views": 154,
+    "views": 159,
     "forwards": 0,
     "images": [
       {
@@ -68178,13 +68178,13 @@
     "id": 4936,
     "date": "2025-02-15T04:46:21",
     "text": "买了一个新域名 <a href=\"https://maigo.dev/\">maigo.dev</a> ，开了一个新的 GitHub Org，打算把今后和朋友一起做的新项目放在这里 qwq\n\n<span class=\"spoiler\"><span>（实际上是因为最近发生了一些很心痛的矛盾导致 AquaDX 现在的开发团队大概要散了，服务器也要拆分开了... 所以建起 MaigoLabs 大概是想建一个和新的朋友、以及被矛盾伤害到和现在的团队不兼容的朋友重新开始的地方吧，就像动画里的 MyGO 乐队那样 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</span></span></i>",
-    "views": 140,
+    "views": 146,
     "forwards": 0
   },
   {
     "id": 4937,
     "date": "2025-02-15T08:13:39",
-    "views": 122,
+    "views": 127,
     "forwards": 0,
     "files": [
       {
@@ -68216,7 +68216,7 @@
     "id": 4939,
     "date": "2025-02-17T17:49:07",
     "text": "想重启聊聊的 iOS 18 的苹果手机，长按电源键发现叫不出关机菜单，就问聊聊“怎么重启呀？”\n\n...结果长按电源键反而叫出了 siri，被 siri 听到了，问我要不要重启，我说好，然后它重启了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 90,
+    "views": 92,
     "forwards": 1,
     "images": [
       {
@@ -68235,14 +68235,14 @@
     "id": 4940,
     "date": "2025-02-17T20:27:11",
     "text": "<a href=\"https://www.youtube.com/watch?v=n1KgxqEQn0A\">CGP Grey: Is The Penny *Finally* Dead?</a>\n\n每次看 CGP Grey 的视频都感觉它听起来好像一首诗，五分钟的视频从头到尾都押着韵，好厉害也好好听 qwq",
-    "views": 91,
+    "views": 92,
     "forwards": 0
   },
   {
     "id": 4941,
     "date": "2025-02-17T23:33:30",
     "text": "今日迷思，是不是我每次宽带测速的时候都在 DOS 我自己 🌚（因为测速的时候会占满宽带把其他的正常服务挤掉\n\n<del>那按照这个逻辑， </del><a href=\"speedtest.net\"><del>speedtest.net</a></del><del> 是不是互联网最大的自愿式 DDOS 网络</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 125,
+    "views": 126,
     "forwards": 3,
     "images": [
       {
@@ -68261,7 +68261,7 @@
     "id": 4942,
     "date": "2025-02-19T13:24:38",
     "text": "好久没有打开黑苹果了，今天花了六个小时把黑苹果更新到了 macOS 15 Sequoia，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为要用来编译一些 iOS 应用，但是只有用最新 xcode 编译才能适配新系统，而最新 xcode 又限制了只能在最新 macOS 上跑... 感觉这个设计好蠢）\n\n还算很顺利啦，更新好 efi 之后进启动盘居然一次成功了。之后第一次尝试安装的时候因为忘记了禁用 SecureBoot 安装完验证没过，第二次就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n不过这次更新 kext 的时候发现又有很多人退坑了，包括 itlwm 的作者，AirportItlwm 也因此到现在都还没有 15 支持... 不知道在苹果真的砍掉 Intel 支持之前社区还会维护多久 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 78,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13919771829884885,
     "images": [
@@ -68296,7 +68296,7 @@
     "id": 4944,
     "date": "2025-02-19T20:22:20",
     "text": "谷歌搜索似乎把 Edge 浏览器的官方下载页面从搜索结果里过滤掉了... 好讨厌，明明 Bing 都没有这样过滤 Chrome 的下载页面",
-    "views": 85,
+    "views": 93,
     "forwards": 2,
     "media_group_id": 13919972321026757,
     "images": [
@@ -68326,14 +68326,14 @@
     "id": 4946,
     "date": "2025-02-19T22:18:13",
     "text": "syama: 黑苹果会不会用着用着背景突然变成黑色然后右下角显示 macOS 未激活\n我：？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 66,
+    "views": 75,
     "forwards": 0
   },
   {
     "id": 4947,
     "date": "2025-02-20T08:06:39",
     "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
-    "views": 21,
+    "views": 54,
     "forwards": 1,
     "media_group_id": 13920310398395053,
     "images": [
@@ -68358,5 +68358,17 @@
         "thumb": "media/4948.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 4949,
+    "date": "2025-02-20T08:24:51",
+    "text": "这个模型面数太多了感觉渲染会很吃力... 也没有找到其他好的模型\n\n所以给 syama 下单了几盒杯面，又能 3d 扫描下来做模型又能吃 qwq",
+    "views": 39,
+    "forwards": 1,
+    "reply": {
+      "id": 4947,
+      "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
+      "thumb": "media/4947.jpg_thumb.jpg"
+    }
   }
 ]
