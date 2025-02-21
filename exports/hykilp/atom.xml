@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-02-21T08:12:47.001605+00:00</updated>
+  <updated>2025-02-21T10:11:57.966990+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4952</id>
+    <title>小桂桂的回忆录 📒 #4952</title>
+    <updated>2025-02-21T08:59:10+00:00</updated>
+    <content>&lt;p&gt;在 2025 年打开重装一下 IDE，屏幕就会被介绍最新最热 AI 功能的弹窗塞满 &lt;i class="custom-emoji" emoji-src="emoji/6323432491080222381.webp"&gt;🤪&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4952" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4950</id>
+    <title>小桂桂的回忆录 📒 #4950</title>
+    <updated>2025-02-21T08:30:54+00:00</updated>
+    <content>&lt;p&gt;今天踩了一个巨大坑&lt;/p&gt;
+&lt;p&gt;某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??&lt;/p&gt;
+&lt;p&gt;众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了&lt;/p&gt;
+&lt;p&gt;用 &lt;code&gt;ndk-stack&lt;/code&gt; 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 &lt;i class="custom-emoji" emoji-src="emoji/6323397499981661640.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 &lt;i class="custom-emoji" emoji-src="emoji/6318635837244313060.webp"&gt;😡&lt;/i&gt;（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...&lt;/p&gt;
+&lt;p&gt;好灵车啊 &lt;del&gt;如果是 il2rust 是不是就没有这个问题了&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170432338518869955.webm"&gt;🦀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4950" rel="alternate"/>
+  </entry>
   <entry>
     <id>4949</id>
     <title>小桂桂的回忆录 📒 #4949</title>
