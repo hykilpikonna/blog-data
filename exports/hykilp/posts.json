@@ -64435,7 +64435,7 @@
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 304,
+    "views": 305,
     "forwards": 4,
     "images": [
       {
@@ -67970,7 +67970,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 978,
+    "views": 979,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -68137,7 +68137,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 952,
+    "views": 953,
     "forwards": 9,
     "files": [
       {
@@ -68183,7 +68183,7 @@
   {
     "id": 4937,
     "date": "2025-02-15T08:13:39",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "files": [
       {
@@ -68208,7 +68208,7 @@
     "id": 4938,
     "date": "2025-02-17T09:28:42",
     "text": "聊聊今天去了她一个微博网友的生日派对，大暴风雪天机厅都停业了，然后居然来了 30 个人，大部分都是聊聊不认识的... 好震撼，还好我没去 quq\n\n这就是社牛吗... 我可能约饭有大于五个人就会过载 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n不过不太懂，为什么生日派对要邀请这么多不是很熟的人聚在一起，明明她和聊聊在那之前也有一年多没联系了，而且上次联系也是约饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉如果是我也许只会想要邀请特别熟的人吧",
-    "views": 124,
+    "views": 126,
     "forwards": 1
   },
   {
@@ -68362,7 +68362,7 @@
     "id": 4949,
     "date": "2025-02-20T08:24:51",
     "text": "这个模型面数太多了感觉渲染会很吃力... 也没有找到其他好的模型\n\n所以给 syama 下单了几盒杯面，又能 3d 扫描下来做模型又能吃 qwq",
-    "views": 86,
+    "views": 88,
     "forwards": 1,
     "reply": {
       "id": 4947,
@@ -68374,7 +68374,7 @@
     "id": 4950,
     "date": "2025-02-21T08:30:54",
     "text": "今天踩了一个巨大坑\n\n某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??\n\n众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了\n\n用 <code>ndk-stack</code> 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...\n\n好灵车啊 <del>如果是 il2rust 是不是就没有这个问题了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 57,
+    "views": 62,
     "forwards": 0,
     "media_group_id": 13921013237436885,
     "images": [
@@ -68404,7 +68404,7 @@
     "id": 4952,
     "date": "2025-02-21T08:59:10",
     "text": "在 2025 年打开重装一下 IDE，屏幕就会被介绍最新最热 AI 功能的弹窗塞满 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 46,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
