@@ -64703,7 +64703,7 @@
     "id": 4703,
     "date": "2024-11-30T16:47:18",
     "text": "七天通宵爆肝肝完一篇 paper 的奇迹\n\n是 311 课的开放期末作业，正式研究了一下 Sekai LLM 各方面分别怎样实现最好、以及怎样自动客观评估哪个模型更好之类的。之前一直靠直觉评价感觉很不科学，改了什么都没办法很快速知道效果... 所以做 ML 还是需要至少先有 metric\n\n唉真的为什么期末作业要选这么大一个 scope <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 不过算了确实是因为好玩才有动力做的项目，也正好打算发篇纸\n\n（虽然因为时间不够还留了很多 TODO... 但是现在先睡睡",
-    "views": 147,
+    "views": 148,
     "forwards": 1,
     "media_group_id": 13863881904347677,
     "images": [
@@ -64854,7 +64854,7 @@
     "id": 4714,
     "date": "2024-12-03T18:11:38",
     "text": "两年前设计的补佳乐时钟终于在淘宝上架了！\n\n（感谢 Syama 帮忙上架，明明之前把设计图发给荔枝实验室了但是他们没理我 T^T）\n\n<a href=\"https://item.taobao.com/item.htm?id=859041415321\">链接在这里</a> 欢迎大家下单 qwq",
-    "views": 174,
+    "views": 175,
     "forwards": 4,
     "reply": {
       "id": 925,
@@ -64878,21 +64878,21 @@
     "id": 4715,
     "date": "2024-12-04T03:21:22",
     "text": "Linux 日常：运行一个程序，发现它打开了 xemacs，想退出\n:wq 没有用\n^q 没有用\n^x ^d ^c ^\\ 都没有用\n然后开了一个新的 shell 开任务管理器把它杀了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 136,
+    "views": 137,
     "forwards": 1
   },
   {
     "id": 4716,
     "date": "2024-12-04T17:24:47",
     "text": "呜呜 给 Syama 安利 Davinci Resolve，然后她那边启动会闪退，为什么呢？明明都是 7840HS，都是 Windows 11...\n\n然后发现关掉 clash TUN 就好了，开了就闪退？？然后我这边试了也是，开 TUN 还是 TAP 都不行... 呜呜\n\n好奇怪，Clash TUN 不行，Cloudflare Warp 也不行，但是 Mullvad 和 tailscale exit node 都没问题，是不是只有 IP 层代理会有这个问题\n\n临时解决办法是把 Davinci Control Panel 删掉（<a href=\"https://www.reddit.com/r/davinciresolve/comments/1bx17wy/cloudflare_crash_on_startup_fixed_by_removing/\">来源</a>）",
-    "views": 132,
+    "views": 133,
     "forwards": 0
   },
   {
     "id": 4717,
     "date": "2024-12-05T00:47:50",
     "text": "感觉人群的共识机制不太聪明喵\n\n红灯，甚至还在过车的那种，一个人突然开始过马路，有人估计是没看路跟着这个人开始走，过一会越来越多的人跟着走，最后变成了所有人一起闯红灯过马路 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -65020,7 +65020,7 @@
     "id": 4726,
     "date": "2024-12-07T22:59:10",
     "text": "考完了，迟到了 40 分钟果然没做完，但是肯定有 70% 了不管啦不管啦\n\n原本是 25 分到的，走了平时走的入口发现门锁了，换了两个入口门都是锁的，绕一大圈绕到正门才进去... 进去就已经 40 分了。到底是哪个天才想的周末考试还把侧门都锁上",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "files": [
       {
@@ -65042,7 +65042,7 @@
     "id": 4727,
     "date": "2024-12-07T23:57:05",
     "text": "felis cactus. <i class=\"custom-emoji\" emoji-src=\"emoji/6327897096699512993.webp\">🐱</i>",
-    "views": 127,
+    "views": 128,
     "forwards": 1
   },
   {
@@ -68113,7 +68113,7 @@
   {
     "id": 4933,
     "date": "2025-02-14T07:43:52",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "files": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1158,
+    "views": 1160,
     "forwards": 9,
     "files": [
       {
@@ -68159,7 +68159,7 @@
   {
     "id": 4935,
     "date": "2025-02-14T21:16:56",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "images": [
       {
@@ -68326,14 +68326,14 @@
     "id": 4946,
     "date": "2025-02-19T22:18:13",
     "text": "syama: 黑苹果会不会用着用着背景突然变成黑色然后右下角显示 macOS 未激活\n我：？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 130,
+    "views": 131,
     "forwards": 0
   },
   {
     "id": 4947,
     "date": "2025-02-20T08:06:39",
     "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
-    "views": 137,
+    "views": 138,
     "forwards": 1,
     "media_group_id": 13920310398395053,
     "images": [
@@ -68363,7 +68363,7 @@
     "id": 4949,
     "date": "2025-02-20T08:24:51",
     "text": "这个模型面数太多了感觉渲染会很吃力... 也没有找到其他好的模型\n\n所以给 syama 下单了几盒杯面，又能 3d 扫描下来做模型又能吃 qwq",
-    "views": 115,
+    "views": 116,
     "forwards": 1,
     "reply": {
       "id": 4947,
@@ -68424,7 +68424,7 @@
     "id": 4953,
     "date": "2025-02-22T03:57:20",
     "text": "可惜太贵了",
-    "views": 143,
+    "views": 144,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -68491,14 +68491,14 @@
     "id": 4957,
     "date": "2025-02-24T08:44:18",
     "text": "<del>通过寻找不同措辞来调节一句话被理解的语气是不是某种针对人类的 prompt engineering</del>",
-    "views": 81,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 4958,
     "date": "2025-02-24T10:39:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 宇宙の果てに 飛んでみたら\n♪ 私は 眠りに\n\n像是孤独一人漂浮在宇宙尽头、什么都没有也什么都不会发生的无尽虚空，到达一切的终点前半梦半醒地跟着节奏哼着出现在意识边缘的句子\n\n<span class=\"spoiler\"><span>我也好想逃往宇宙的尽头、放下一切在那里好好睡一觉</span></span>",
-    "views": 75,
+    "views": 77,
     "forwards": 0,
     "files": [
       {
@@ -68520,7 +68520,7 @@
     "id": 4959,
     "date": "2025-02-25T00:34:52",
     "text": "今天发现 unicode 里面有这个「半个空格」字符，看起来大概是 ] [ 这么宽，相比的话一般的空格是 ] [ 这么宽\n\n<span class=\"spoiler\"><span>那是不是可以用它把代码缩进设成 0.5 了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 71,
+    "views": 73,
     "forwards": 0,
     "images": [
       {
@@ -68539,7 +68539,7 @@
     "id": 4961,
     "date": "2025-02-25T06:51:57",
     "text": "<del>进行一个人类 vs LLM 比赛：小桂桂打字和在 cpu 上跑 R1 谁打字速度更快</del>",
-    "views": 48,
+    "views": 52,
     "forwards": 0
   }
 ]
