@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 25 Feb 2025 12:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 14:11:22 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4962</title>
+      <link>https://aza.moe/life?post=4962</link>
+      <description>&lt;p&gt;唉 感觉一般人对大模型的 scale 都有很大误解...&lt;/p&gt;
+&lt;p&gt;不知道多少次和别人聊天听到别人觉得「671B 的 DeepSeek R1 是可以随便跑的」还有「distil 小模型效果和大模型差不多」&lt;/p&gt;
+&lt;p&gt;实际上我的那台 GPU 服务器即使是插满四张 V100 也只能跑 32B 这种量级的模型，一般家里的机器也就最多跑跑 7B 1.5B 吧... 虽然确实有方案在小内存小显存的机器上跑大模型，比如显存不够的话可以在内存和显存之间搬来搬去，内存不够的话可以在内存和硬盘之间搬来搬去，&lt;del&gt;但是那样可能几个小时都回答不上你一个问题了&lt;/del&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4962</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4961</title>
       <link>https://aza.moe/life?post=4961</link>
