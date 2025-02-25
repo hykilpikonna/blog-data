@@ -45115,7 +45115,8 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480
+        "size": 39480,
+        "thumb": "media/3328.webm_thumb.jpg"
       }
     ]
   },
@@ -67658,7 +67659,7 @@
     "id": 4903,
     "date": "2025-02-02T16:30:40",
     "text": "前天买回程火车票的时候，发现 Via 的网站设计得真的有点烂\n\n两个人一起买票自动分配座椅会分配到两个不相邻的位置，甚至中间隔着一排... 但是手动选座又要 +$14，怎么办呢？\n\n想到了一个天才的想法，只要开隐私浏览假装自己要占用这些不相邻的座然后下单不付款，下次分配到的就肯定是相邻的了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n试了一下真的成功了，好耶省下 $14 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 13908110719851517,
     "images": [
@@ -67944,7 +67945,7 @@
     "id": 4921,
     "date": "2025-02-10T10:43:16",
     "text": "发现 emoji / sticker 也不是很跨语言通用，有些文字梗还是会丢失在翻译中...\n\n比如一些表情包里会有螃蟹 <i class=\"custom-emoji\" emoji-src=\"emoji/5233220730220461818.webp\">🎃</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i> 因为在中文日文里都是很常用的表达。中文人会理解为「谢谢」，日文人会理解为「たしかに / 确实」，而其他语言的人可能就觉得是一个物理螃蟹，<del>以及 rust 人可能会理解为 \"rust\"</del>",
-    "views": 267,
+    "views": 268,
     "forwards": 3,
     "images": [
       {
@@ -67970,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1022,
+    "views": 1023,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -68112,7 +68113,7 @@
   {
     "id": 4933,
     "date": "2025-02-14T07:43:52",
-    "views": 186,
+    "views": 187,
     "forwards": 0,
     "files": [
       {
@@ -68137,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1157,
+    "views": 1158,
     "forwards": 9,
     "files": [
       {
@@ -68158,7 +68159,7 @@
   {
     "id": 4935,
     "date": "2025-02-14T21:16:56",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "images": [
       {
@@ -68332,7 +68333,7 @@
     "id": 4947,
     "date": "2025-02-20T08:06:39",
     "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "media_group_id": 13920310398395053,
     "images": [
@@ -68374,7 +68375,7 @@
     "id": 4950,
     "date": "2025-02-21T08:30:54",
     "text": "今天踩了一个巨大坑\n\n某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??\n\n众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了\n\n用 <code>ndk-stack</code> 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...\n\n好灵车啊 <del>如果是 il2rust 是不是就没有这个问题了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13921013237436885,
     "images": [
@@ -68471,7 +68472,7 @@
   {
     "id": 4956,
     "date": "2025-02-24T06:25:39",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "images": [
       {
@@ -68490,14 +68491,14 @@
     "id": 4957,
     "date": "2025-02-24T08:44:18",
     "text": "<del>通过寻找不同措辞来调节一句话被理解的语气是不是某种针对人类的 prompt engineering</del>",
-    "views": 80,
+    "views": 81,
     "forwards": 0
   },
   {
     "id": 4958,
     "date": "2025-02-24T10:39:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 宇宙の果てに 飛んでみたら\n♪ 私は 眠りに\n\n像是孤独一人漂浮在宇宙尽头、什么都没有也什么都不会发生的无尽虚空，到达一切的终点前半梦半醒地跟着节奏哼着出现在意识边缘的句子\n\n<span class=\"spoiler\"><span>我也好想逃往宇宙的尽头、放下一切在那里好好睡一觉</span></span>",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "files": [
       {
@@ -68519,7 +68520,7 @@
     "id": 4959,
     "date": "2025-02-25T00:34:52",
     "text": "今天发现 unicode 里面有这个「半个空格」字符，看起来大概是 ] [ 这么宽，相比的话一般的空格是 ] [ 这么宽\n\n<span class=\"spoiler\"><span>那是不是可以用它把代码缩进设成 0.5 了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 66,
+    "views": 71,
     "forwards": 0,
     "images": [
       {
@@ -68538,7 +68539,7 @@
     "id": 4961,
     "date": "2025-02-25T06:51:57",
     "text": "<del>进行一个人类 vs LLM 比赛：小桂桂打字和在 cpu 上跑 R1 谁打字速度更快</del>",
-    "views": 40,
+    "views": 48,
     "forwards": 0
   }
 ]
