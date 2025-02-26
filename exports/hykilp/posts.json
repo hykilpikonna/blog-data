@@ -45115,8 +45115,7 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480,
-        "thumb": "media/3328.webm_thumb.jpg"
+        "size": 39480
       }
     ]
   },
@@ -67945,7 +67944,7 @@
     "id": 4921,
     "date": "2025-02-10T10:43:16",
     "text": "发现 emoji / sticker 也不是很跨语言通用，有些文字梗还是会丢失在翻译中...\n\n比如一些表情包里会有螃蟹 <i class=\"custom-emoji\" emoji-src=\"emoji/5233220730220461818.webp\">🎃</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i> 因为在中文日文里都是很常用的表达。中文人会理解为「谢谢」，日文人会理解为「たしかに / 确实」，而其他语言的人可能就觉得是一个物理螃蟹，<del>以及 rust 人可能会理解为 \"rust\"</del>",
-    "views": 270,
+    "views": 271,
     "forwards": 3,
     "images": [
       {
@@ -67971,7 +67970,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1027,
+    "views": 1030,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67992,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 899,
+    "views": 900,
     "forwards": 7,
     "files": [
       {
@@ -68138,7 +68137,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1170,
+    "views": 1173,
     "forwards": 9,
     "files": [
       {
@@ -68546,7 +68545,7 @@
     "id": 4962,
     "date": "2025-02-25T12:39:50",
     "text": "唉 感觉一般人对大模型的 scale 都有很大误解...\n\n不知道多少次和别人聊天听到别人觉得「671B 的 DeepSeek R1 是可以随便跑的」还有「distil 小模型效果和大模型差不多」\n\n实际上我的那台 GPU 服务器即使是插满四张 V100 也只能跑 32B 这种量级的模型，一般家里的机器也就最多跑跑 7B 1.5B 吧... 虽然确实有方案在小内存小显存的机器上跑大模型，比如显存不够的话可以在内存和显存之间搬来搬去，内存不够的话可以在内存和硬盘之间搬来搬去，<del>但是那样可能几个小时都回答不上你一个问题了</del>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 4961,
@@ -68556,7 +68555,7 @@
   {
     "id": 4963,
     "date": "2025-02-25T15:43:48",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -68575,14 +68574,14 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 130,
+    "views": 134,
     "forwards": 9
   },
   {
     "id": 4965,
     "date": "2025-02-26T03:29:56",
     "text": "聊聊去超市买了三次香菜都没买对，今天一起去的时候让聊聊帮忙拿香菜（因为太远了我走不动）然后聊聊给我拿了 curly parsley <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 73,
+    "views": 76,
     "forwards": 0
   }
 ]
