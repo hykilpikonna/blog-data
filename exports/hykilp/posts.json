@@ -68375,7 +68375,7 @@
     "id": 4950,
     "date": "2025-02-21T08:30:54",
     "text": "今天踩了一个巨大坑\n\n某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??\n\n众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了\n\n用 <code>ndk-stack</code> 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...\n\n好灵车啊 <del>如果是 il2rust 是不是就没有这个问题了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 13921013237436885,
     "images": [
@@ -68405,7 +68405,7 @@
     "id": 4952,
     "date": "2025-02-21T08:59:10",
     "text": "在 2025 年打开重装一下 IDE，屏幕就会被介绍最新最热 AI 功能的弹窗塞满 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 132,
+    "views": 134,
     "forwards": 0,
     "images": [
       {
@@ -68498,7 +68498,7 @@
     "id": 4958,
     "date": "2025-02-24T10:39:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 宇宙の果てに 飛んでみたら\n♪ 私は 眠りに\n\n像是孤独一人漂浮在宇宙尽头、什么都没有也什么都不会发生的无尽虚空，到达一切的终点前半梦半醒地跟着节奏哼着出现在意识边缘的句子\n\n<span class=\"spoiler\"><span>我也好想逃往宇宙的尽头、放下一切在那里好好睡一觉</span></span>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "files": [
       {
@@ -68520,7 +68520,7 @@
     "id": 4959,
     "date": "2025-02-25T00:34:52",
     "text": "今天发现 unicode 里面有这个「半个空格」字符，看起来大概是 ] [ 这么宽，相比的话一般的空格是 ] [ 这么宽\n\n<span class=\"spoiler\"><span>那是不是可以用它把代码缩进设成 0.5 了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
@@ -68539,14 +68539,14 @@
     "id": 4961,
     "date": "2025-02-25T06:51:57",
     "text": "<del>进行一个人类 vs LLM 比赛：小桂桂打字和在 cpu 上跑 R1 谁打字速度更快</del>",
-    "views": 95,
+    "views": 96,
     "forwards": 0
   },
   {
     "id": 4962,
     "date": "2025-02-25T12:39:50",
     "text": "唉 感觉一般人对大模型的 scale 都有很大误解...\n\n不知道多少次和别人聊天听到别人觉得「671B 的 DeepSeek R1 是可以随便跑的」还有「distil 小模型效果和大模型差不多」\n\n实际上我的那台 GPU 服务器即使是插满四张 V100 也只能跑 32B 这种量级的模型，一般家里的机器也就最多跑跑 7B 1.5B 吧... 虽然确实有方案在小内存小显存的机器上跑大模型，比如显存不够的话可以在内存和显存之间搬来搬去，内存不够的话可以在内存和硬盘之间搬来搬去，<del>但是那样可能几个小时都回答不上你一个问题了</del>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 4961,
@@ -68556,7 +68556,7 @@
   {
     "id": 4963,
     "date": "2025-02-25T15:43:48",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -68575,14 +68575,14 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 119,
-    "forwards": 8
+    "views": 130,
+    "forwards": 9
   },
   {
     "id": 4965,
     "date": "2025-02-26T03:29:56",
     "text": "聊聊去超市买了三次香菜都没买对，今天一起去的时候让聊聊帮忙拿香菜（因为太远了我走不动）然后聊聊给我拿了 curly parsley <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 64,
+    "views": 73,
     "forwards": 0
   }
 ]
