@@ -68261,7 +68261,7 @@
     "id": 4942,
     "date": "2025-02-19T13:24:38",
     "text": "好久没有打开黑苹果了，今天花了六个小时把黑苹果更新到了 macOS 15 Sequoia，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为要用来编译一些 iOS 应用，但是只有用最新 xcode 编译才能适配新系统，而最新 xcode 又限制了只能在最新 macOS 上跑... 感觉这个设计好蠢）\n\n还算很顺利啦，更新好 efi 之后进启动盘居然一次成功了。之后第一次尝试安装的时候因为忘记了禁用 SecureBoot 安装完验证没过，第二次就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n不过这次更新 kext 的时候发现又有很多人退坑了，包括 itlwm 的作者，AirportItlwm 也因此到现在都还没有 15 支持... 不知道在苹果真的砍掉 Intel 支持之前社区还会维护多久 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 1,
     "media_group_id": 13919771829884885,
     "images": [
@@ -68582,14 +68582,14 @@
     "id": 4965,
     "date": "2025-02-26T03:29:56",
     "text": "聊聊去超市买了三次香菜都没买对，今天一起去的时候让聊聊帮忙拿香菜（因为太远了我走不动）然后聊聊给我拿了 curly parsley <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 0
   },
   {
     "id": 4966,
     "date": "2025-02-26T11:56:44",
     "text": "因为 Quest 3 也是安卓，试了一下在 VR 里面装 KanadeDX，还真的能带得动\n\n<a href=\"https://www.youtube.com/watch?v=o6VLNAwER2E\">https://www.youtube.com/watch?v=o6VLNAwER2E</a>\n\n虽然手指追踪不是很行，因为是原生安卓应用不是 VR 应用所以只有食指的触摸可以被识别到，真的变成多拉A梦了\n\n（打 Lv9 红谱打了一个 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "reply": {
       "id": 4964,
@@ -68619,7 +68619,7 @@
     "id": 4968,
     "date": "2025-02-26T21:18:48",
     "text": "呜呜呜 电脑突然这样子我被吓死了...",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "files": [
       {
@@ -68641,7 +68641,7 @@
     "id": 4970,
     "date": "2025-02-27T19:11:33",
     "text": "今日生产事故：\n\n发现 AquaDX 的备份脚本从去年到现在就没有自动执行过，为什么呢？明明加了 crontab 自动执行项呀\n\n...然后发现执行自动执行项的服务 cronie 没有启用 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 57,
+    "views": 62,
     "forwards": 0,
     "images": [
       {
