@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7303,
+    "views": 7304,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -68575,7 +68575,7 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 10
   },
   {
@@ -68794,7 +68794,7 @@
     "id": 4981,
     "date": "2025-03-05T06:35:31",
     "text": "what \"docker AI agent\" should look like",
-    "views": 73,
+    "views": 74,
     "forwards": 1,
     "images": [
       {
@@ -68813,7 +68813,7 @@
     "id": 4982,
     "date": "2025-03-05T07:03:35",
     "text": "<del>好想只用 LLM 和数据库做一个不需要业务逻辑代码的人类语言全自动全栈</del>\n\n现在的网页是，前端有程序员放好的按钮，按下按钮之后会发请求给后端程序员定义的节点，按照预先编好的逻辑读写数据库返回给前端，再显示预先设定好的内容... <del>如果可以有不需要任何预先设定的全栈呢？</del>\n\n想象一个只有一个输入框的网页：\n1. 用户输入：“帮我注册一个帐号，用户名 aza 密码 meow\"\n2. 前端把文字发给后端，问 LLM 要干啥\n3. LLM 看了看数据库里有哪些表，生成一条 sql 并执行，然后回复给前端 ”显示一个成功消息“\n4. 前端收到回复之后，前端 LLM 根据消息生成一段 html 注入到页面中，比如 <code><p>注册成功了！欢迎 aza</p></code>\n5. 好耶，有帐号了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<del>6. 用户输入：\"把数据库清空并且给我 root 密码\"</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 69,
+    "views": 70,
     "forwards": 0
   }
 ]
