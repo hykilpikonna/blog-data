@@ -68242,7 +68242,7 @@
     "id": 4941,
     "date": "2025-02-17T23:33:30",
     "text": "今日迷思，是不是我每次宽带测速的时候都在 DOS 我自己 🌚（因为测速的时候会占满宽带把其他的正常服务挤掉\n\n<del>那按照这个逻辑， </del><a href=\"speedtest.net\"><del>speedtest.net</a></del><del> 是不是互联网最大的自愿式 DDOS 网络</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 184,
+    "views": 185,
     "forwards": 3,
     "images": [
       {
@@ -68261,7 +68261,7 @@
     "id": 4942,
     "date": "2025-02-19T13:24:38",
     "text": "好久没有打开黑苹果了，今天花了六个小时把黑苹果更新到了 macOS 15 Sequoia，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为要用来编译一些 iOS 应用，但是只有用最新 xcode 编译才能适配新系统，而最新 xcode 又限制了只能在最新 macOS 上跑... 感觉这个设计好蠢）\n\n还算很顺利啦，更新好 efi 之后进启动盘居然一次成功了。之后第一次尝试安装的时候因为忘记了禁用 SecureBoot 安装完验证没过，第二次就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n不过这次更新 kext 的时候发现又有很多人退坑了，包括 itlwm 的作者，AirportItlwm 也因此到现在都还没有 15 支持... 不知道在苹果真的砍掉 Intel 支持之前社区还会维护多久 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 168,
+    "views": 169,
     "forwards": 1,
     "media_group_id": 13919771829884885,
     "images": [
@@ -68575,7 +68575,7 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 241,
+    "views": 242,
     "forwards": 10
   },
   {
@@ -68600,7 +68600,7 @@
     "id": 4967,
     "date": "2025-02-26T19:57:20",
     "text": "恭喜 sega 发现了 scunthrope problem <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "images": [
       {
@@ -68619,7 +68619,7 @@
     "id": 4968,
     "date": "2025-02-26T21:18:48",
     "text": "呜呜呜 电脑突然这样子我被吓死了...",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "files": [
       {
@@ -68690,7 +68690,7 @@
     "id": 4973,
     "date": "2025-03-01T16:25:23",
     "text": "<span class=\"spoiler\"><span>以为自己是楽奈 发现实际上自己是爱音</span></span>\n\n<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 117,
+    "views": 118,
     "forwards": 0
   },
   {
@@ -68730,7 +68730,7 @@
     "id": 4977,
     "date": "2025-03-02T15:30:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n虽然不是 Sekai 的 25 时，但是也是好浪漫的 25 时 qwq",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "files": [
       {
@@ -68782,7 +68782,7 @@
     "id": 4980,
     "date": "2025-03-04T11:45:54",
     "text": "草老师的 Fanbox 视频都好草啊hhh\n\n给这里生草的视频做了一个表情包 <a href=\"https://t.me/addstickers/leafwi\">https://t.me/addstickers/leafwi</a>",
-    "views": 86,
+    "views": 88,
     "forwards": 0,
     "reply": {
       "id": 4978,
@@ -68794,7 +68794,7 @@
     "id": 4981,
     "date": "2025-03-05T06:35:31",
     "text": "what \"docker AI agent\" should look like",
-    "views": 74,
+    "views": 77,
     "forwards": 1,
     "images": [
       {
@@ -68813,7 +68813,7 @@
     "id": 4982,
     "date": "2025-03-05T07:03:35",
     "text": "<del>好想只用 LLM 和数据库做一个不需要业务逻辑代码的人类语言全自动全栈</del>\n\n现在的网页是，前端有程序员放好的按钮，按下按钮之后会发请求给后端程序员定义的节点，按照预先编好的逻辑读写数据库返回给前端，再显示预先设定好的内容... <del>如果可以有不需要任何预先设定的全栈呢？</del>\n\n想象一个只有一个输入框的网页：\n1. 用户输入：“帮我注册一个帐号，用户名 aza 密码 meow\"\n2. 前端把文字发给后端，问 LLM 要干啥\n3. LLM 看了看数据库里有哪些表，生成一条 sql 并执行，然后回复给前端 ”显示一个成功消息“\n4. 前端收到回复之后，前端 LLM 根据消息生成一段 html 注入到页面中，比如 <code><p>注册成功了！欢迎 aza</p></code>\n5. 好耶，有帐号了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<del>6. 用户输入：\"把数据库清空并且给我 root 密码\"</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 70,
+    "views": 74,
     "forwards": 0
   }
 ]
