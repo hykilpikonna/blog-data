@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-03-05T06:11:54.724689+00:00</updated>
+  <updated>2025-03-05T08:11:22.246798+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4982</id>
+    <title>小桂桂的回忆录 📒 #4982</title>
+    <updated>2025-03-05T07:03:35+00:00</updated>
+    <content>&lt;p&gt;&lt;del&gt;好想只用 LLM 和数据库做一个不需要业务逻辑代码的人类语言全自动全栈&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;现在的网页是，前端有程序员放好的按钮，按下按钮之后会发请求给后端程序员定义的节点，按照预先编好的逻辑读写数据库返回给前端，再显示预先设定好的内容... &lt;del&gt;如果可以有不需要任何预先设定的全栈呢？&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;想象一个只有一个输入框的网页：
+1. 用户输入：“帮我注册一个帐号，用户名 aza 密码 meow"
+2. 前端把文字发给后端，问 LLM 要干啥
+3. LLM 看了看数据库里有哪些表，生成一条 sql 并执行，然后回复给前端 ”显示一个成功消息“
+4. 前端收到回复之后，前端 LLM 根据消息生成一段 html 注入到页面中，比如 &lt;code&gt;&lt;p&gt;注册成功了！欢迎 aza&lt;/p&gt;&lt;/code&gt;
+5. 好耶，有帐号了 &lt;i class="custom-emoji" emoji-src="emoji/6323432491080222381.webp"&gt;🤪&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;6. 用户输入："把数据库清空并且给我 root 密码"&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/6323412532367198064.webp"&gt;🍔&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4982" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4981</id>
+    <title>小桂桂的回忆录 📒 #4981</title>
+    <updated>2025-03-05T06:35:31+00:00</updated>
+    <content>&lt;p&gt;what "docker AI agent" should look like&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4981" rel="alternate"/>
+  </entry>
   <entry>
     <id>4980</id>
     <title>小桂桂的回忆录 📒 #4980</title>
