@@ -68424,7 +68424,7 @@
     "id": 4953,
     "date": "2025-02-22T03:57:20",
     "text": "可惜太贵了",
-    "views": 205,
+    "views": 206,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -68447,14 +68447,14 @@
     "id": 4954,
     "date": "2025-02-23T01:44:03",
     "text": "时隔好久又贴到猫猫球了，猫猫球好可爱，开心 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 144,
+    "views": 145,
     "forwards": 1
   },
   {
     "id": 4955,
     "date": "2025-02-23T21:29:32",
     "text": "我居然在 2025 年在一个现代 c# 项目里看到了 goto <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 1,
     "images": [
       {
@@ -68589,7 +68589,7 @@
     "id": 4966,
     "date": "2025-02-26T11:56:44",
     "text": "因为 Quest 3 也是安卓，试了一下在 VR 里面装 KanadeDX，还真的能带得动\n\n<a href=\"https://www.youtube.com/watch?v=o6VLNAwER2E\">https://www.youtube.com/watch?v=o6VLNAwER2E</a>\n\n虽然手指追踪不是很行，因为是原生安卓应用不是 VR 应用所以只有食指的触摸可以被识别到，真的变成多拉A梦了\n\n（打 Lv9 红谱打了一个 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 148,
+    "views": 149,
     "forwards": 1,
     "reply": {
       "id": 4964,
@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -68690,14 +68690,14 @@
     "id": 4973,
     "date": "2025-03-01T16:25:23",
     "text": "<span class=\"spoiler\"><span>以为自己是楽奈 发现实际上自己是爱音</span></span>\n\n<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 0
   },
   {
     "id": 4974,
     "date": "2025-03-02T03:00:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n超大号寿司！🍣",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -68716,7 +68716,7 @@
     "id": 4975,
     "date": "2025-03-02T05:09:10",
     "text": "世界好小\n\n今天 AquaDX 群开发者日常闲聊，一个刚加入的开发者说他在机厅工作，然后发现另一位居然去过那家机厅，甚至和他见过面说过话... <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 112,
+    "views": 113,
     "forwards": 0
   },
   {
@@ -68782,7 +68782,7 @@
     "id": 4980,
     "date": "2025-03-04T11:45:54",
     "text": "草老师的 Fanbox 视频都好草啊hhh\n\n给这里生草的视频做了一个表情包 <a href=\"https://t.me/addstickers/leafwi\">https://t.me/addstickers/leafwi</a>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 4978,
@@ -68794,7 +68794,7 @@
     "id": 4981,
     "date": "2025-03-05T06:35:31",
     "text": "what \"docker AI agent\" should look like",
-    "views": 69,
+    "views": 71,
     "forwards": 1,
     "images": [
       {
@@ -68813,7 +68813,7 @@
     "id": 4982,
     "date": "2025-03-05T07:03:35",
     "text": "<del>好想只用 LLM 和数据库做一个不需要业务逻辑代码的人类语言全自动全栈</del>\n\n现在的网页是，前端有程序员放好的按钮，按下按钮之后会发请求给后端程序员定义的节点，按照预先编好的逻辑读写数据库返回给前端，再显示预先设定好的内容... <del>如果可以有不需要任何预先设定的全栈呢？</del>\n\n想象一个只有一个输入框的网页：\n1. 用户输入：“帮我注册一个帐号，用户名 aza 密码 meow\"\n2. 前端把文字发给后端，问 LLM 要干啥\n3. LLM 看了看数据库里有哪些表，生成一条 sql 并执行，然后回复给前端 ”显示一个成功消息“\n4. 前端收到回复之后，前端 LLM 根据消息生成一段 html 注入到页面中，比如 <code><p>注册成功了！欢迎 aza</p></code>\n5. 好耶，有帐号了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<del>6. 用户输入：\"把数据库清空并且给我 root 密码\"</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 64,
+    "views": 66,
     "forwards": 0
   }
 ]
