@@ -63907,7 +63907,7 @@
     "id": 4657,
     "date": "2024-11-16T09:07:27",
     "text": "GitHub 星星数量排名前 10000 的代码语言统计数据\n\n排名第三位的是「没有代码」 🌚 <del>众所周知 GitHub 是一个由微软开发的免费网盘</del>",
-    "views": 182,
+    "views": 183,
     "forwards": 3,
     "images": [
       {
@@ -68752,7 +68752,7 @@
     "id": 4978,
     "date": "2025-03-03T06:42:23",
     "text": "看到曲师 LeaF 下海开了 Fanbox 我立即双手掏包支持 qwq\n\n<span class=\"spoiler\"><span>没想到人生第一次花钱购买色色内容会是给了 LeaF</span></span>",
-    "views": 124,
+    "views": 125,
     "forwards": 1,
     "media_group_id": 13927873145844125,
     "images": [
@@ -68782,7 +68782,7 @@
     "id": 4980,
     "date": "2025-03-04T11:45:54",
     "text": "草老师的 Fanbox 视频都好草啊hhh\n\n给这里生草的视频做了一个表情包 <a href=\"https://t.me/addstickers/leafwi\">https://t.me/addstickers/leafwi</a>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "reply": {
       "id": 4978,
@@ -68794,7 +68794,7 @@
     "id": 4981,
     "date": "2025-03-05T06:35:31",
     "text": "what \"docker AI agent\" should look like",
-    "views": 81,
+    "views": 82,
     "forwards": 1,
     "images": [
       {
@@ -68813,7 +68813,7 @@
     "id": 4982,
     "date": "2025-03-05T07:03:35",
     "text": "<del>好想只用 LLM 和数据库做一个不需要业务逻辑代码的人类语言全自动全栈</del>\n\n现在的网页是，前端有程序员放好的按钮，按下按钮之后会发请求给后端程序员定义的节点，按照预先编好的逻辑读写数据库返回给前端，再显示预先设定好的内容... <del>如果可以有不需要任何预先设定的全栈呢？</del>\n\n想象一个只有一个输入框的网页：\n1. 用户输入：“帮我注册一个帐号，用户名 aza 密码 meow\"\n2. 前端把文字发给后端，问 LLM 要干啥\n3. LLM 看了看数据库里有哪些表，生成一条 sql 并执行，然后回复给前端 ”显示一个成功消息“\n4. 前端收到回复之后，前端 LLM 根据消息生成一段 html 注入到页面中，比如 <code><p>注册成功了！欢迎 aza</p></code>\n5. 好耶，有帐号了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<del>6. 用户输入：\"把数据库清空并且给我 root 密码\"</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 78,
+    "views": 79,
     "forwards": 0
   }
 ]
