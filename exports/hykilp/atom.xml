@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-03-07T10:12:32.251589+00:00</updated>
+  <updated>2025-03-07T12:13:37.122160+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4989</id>
+    <title>小桂桂的回忆录 📒 #4989</title>
+    <updated>2025-03-07T11:44:35+00:00</updated>
+    <content>&lt;p&gt;写了一个实时查看联机房间的网页 qwq &lt;a href="https://link.aquadx.net/"&gt;https://link.aquadx.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;进行了一个计时速通，写完网页花了一个小时，然后写 CI 想办法集成进服务器部署又花了两个小时 &lt;i class="custom-emoji" emoji-src="emoji/6291799077692640677.webm"&gt;🤪&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;也许以后这种小网页还是不用框架直接纯手搓 js html css 更方便一点&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4989" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>4988</id>
+    <title>小桂桂的回忆录 📒 #4988</title>
+    <updated>2025-03-07T11:34:15+00:00</updated>
+    <content>&lt;p&gt;这个项目的 CI 同时要编译网页、C# mod、还有 kt jvm 服务器... 一次构建总共 1 分 22 秒&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;Bun 编译网页上传总共花了 5 秒，
+安装 .NET 编译 mod 总共花了 12 秒
+...剩下的一分钟都用来编译 kt 了 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4988" rel="alternate"/>
+  </entry>
   <entry>
     <id>4987</id>
     <title>小桂桂的回忆录 📒 #4987</title>
