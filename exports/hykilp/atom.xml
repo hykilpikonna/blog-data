@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-03-08T08:11:53.592262+00:00</updated>
+  <updated>2025-03-08T10:12:22.799278+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>4991</id>
+    <title>小桂桂的回忆录 📒 #4991</title>
+    <updated>2025-03-08T09:57:02+00:00</updated>
+    <content>&lt;p&gt;今天发现某云服务厂可以白嫖 DeepSeek r1 70b，就去搭了一个 openwebui&lt;/p&gt;
+&lt;p&gt;...然后发现它说的 “openai 兼容” 但是实际上只有 /completions 这一个节点，并没有实现 /models 列出模型也没有实现模型选择，而且思考的时候还不会输出最开始的 &lt;think&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;所以又花两个小时写了一个代理用来转发 api，实现了模型列表和模型切换，把响应头的 &lt;think&gt; 补上了 &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;结果就是花了三个小时去白嫖 $100 左右的 api... 值得吗？&lt;span class="spoiler"&gt;&lt;span&gt;其实实际上 r1 的 api 真的非常便宜了，但是按用量收费的东西即使再便宜也会想节省，只有白嫖的东西才可以放心浪费，甚至会觉得用不完就亏了，至少从这个角度看这三个小时是绝对值得的&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=4991" rel="alternate"/>
+  </entry>
   <entry>
     <id>4989</id>
     <title>小桂桂的回忆录 📒 #4989</title>

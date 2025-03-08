@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 08 Mar 2025 08:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 10:12:22 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #4991</title>
+      <link>https://aza.moe/life?post=4991</link>
+      <description>&lt;p&gt;今天发现某云服务厂可以白嫖 DeepSeek r1 70b，就去搭了一个 openwebui&lt;/p&gt;
+&lt;p&gt;...然后发现它说的 “openai 兼容” 但是实际上只有 /completions 这一个节点，并没有实现 /models 列出模型也没有实现模型选择，而且思考的时候还不会输出最开始的 &lt;think&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;所以又花两个小时写了一个代理用来转发 api，实现了模型列表和模型切换，把响应头的 &lt;think&gt; 补上了 &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;结果就是花了三个小时去白嫖 $100 左右的 api... 值得吗？&lt;span class="spoiler"&gt;&lt;span&gt;其实实际上 r1 的 api 真的非常便宜了，但是按用量收费的东西即使再便宜也会想节省，只有白嫖的东西才可以放心浪费，甚至会觉得用不完就亏了，至少从这个角度看这三个小时是绝对值得的&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4991</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #4989</title>
       <link>https://aza.moe/life?post=4989</link>
