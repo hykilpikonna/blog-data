@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7307,
+    "views": 7308,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 178,
+    "views": 179,
     "forwards": 5,
     "media_group_id": 13846263111521349,
     "images": [
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1249,
+    "views": 1250,
     "forwards": 9,
     "files": [
       {
@@ -68820,7 +68820,7 @@
     "id": 4984,
     "date": "2025-03-07T02:12:49",
     "text": "（在给中二机器买 ecc 内存条）\nsyama: 怎么感觉看起来这么丐啊，都是绿绿的一条\n我：？\n（在服务器硬件店买 ssd）\nsyama: 怎么感觉服务器的什么东西都好丑啊\n\n唉，颜控 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 355,
+    "views": 365,
     "forwards": 5,
     "media_group_id": 13930511903991437,
     "images": [
@@ -68888,7 +68888,7 @@
     "id": 4988,
     "date": "2025-03-07T11:34:15",
     "text": "这个项目的 CI 同时要编译网页、C# mod、还有 kt jvm 服务器... 一次构建总共 1 分 22 秒\n\n...\n\nBun 编译网页上传总共花了 5 秒，\n安装 .NET 编译 mod 总共花了 12 秒\n...剩下的一分钟都用来编译 kt 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "reply": {
       "id": 4987,
