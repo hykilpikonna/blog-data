@@ -68261,7 +68261,7 @@
     "id": 4942,
     "date": "2025-02-19T13:24:38",
     "text": "好久没有打开黑苹果了，今天花了六个小时把黑苹果更新到了 macOS 15 Sequoia，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为要用来编译一些 iOS 应用，但是只有用最新 xcode 编译才能适配新系统，而最新 xcode 又限制了只能在最新 macOS 上跑... 感觉这个设计好蠢）\n\n还算很顺利啦，更新好 efi 之后进启动盘居然一次成功了。之后第一次尝试安装的时候因为忘记了禁用 SecureBoot 安装完验证没过，第二次就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n不过这次更新 kext 的时候发现又有很多人退坑了，包括 itlwm 的作者，AirportItlwm 也因此到现在都还没有 15 支持... 不知道在苹果真的砍掉 Intel 支持之前社区还会维护多久 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 182,
+    "views": 183,
     "forwards": 1,
     "media_group_id": 13919771829884885,
     "images": [
@@ -68333,7 +68333,7 @@
     "id": 4947,
     "date": "2025-02-20T08:06:39",
     "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
-    "views": 180,
+    "views": 181,
     "forwards": 2,
     "media_group_id": 13920310398395053,
     "images": [
@@ -68363,7 +68363,7 @@
     "id": 4949,
     "date": "2025-02-20T08:24:51",
     "text": "这个模型面数太多了感觉渲染会很吃力... 也没有找到其他好的模型\n\n所以给 syama 下单了几盒杯面，又能 3d 扫描下来做模型又能吃 qwq",
-    "views": 164,
+    "views": 165,
     "forwards": 2,
     "reply": {
       "id": 4947,
@@ -68375,7 +68375,7 @@
     "id": 4950,
     "date": "2025-02-21T08:30:54",
     "text": "今天踩了一个巨大坑\n\n某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??\n\n众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了\n\n用 <code>ndk-stack</code> 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...\n\n好灵车啊 <del>如果是 il2rust 是不是就没有这个问题了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 13921013237436885,
     "images": [
@@ -68454,7 +68454,7 @@
     "id": 4955,
     "date": "2025-02-23T21:29:32",
     "text": "我居然在 2025 年在一个现代 c# 项目里看到了 goto <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "images": [
       {
@@ -68472,7 +68472,7 @@
   {
     "id": 4956,
     "date": "2025-02-24T06:25:39",
-    "views": 178,
+    "views": 179,
     "forwards": 1,
     "images": [
       {
@@ -68575,7 +68575,7 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 269,
+    "views": 270,
     "forwards": 10
   },
   {
@@ -68589,7 +68589,7 @@
     "id": 4966,
     "date": "2025-02-26T11:56:44",
     "text": "因为 Quest 3 也是安卓，试了一下在 VR 里面装 KanadeDX，还真的能带得动\n\n<a href=\"https://www.youtube.com/watch?v=o6VLNAwER2E\">https://www.youtube.com/watch?v=o6VLNAwER2E</a>\n\n虽然手指追踪不是很行，因为是原生安卓应用不是 VR 应用所以只有食指的触摸可以被识别到，真的变成多拉A梦了\n\n（打 Lv9 红谱打了一个 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 176,
+    "views": 177,
     "forwards": 1,
     "reply": {
       "id": 4964,
@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 576,
+    "views": 579,
     "forwards": 5,
     "media_group_id": 13930511903991437,
     "images": [
