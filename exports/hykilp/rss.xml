@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 15 Mar 2025 20:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 22:11:44 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #5025</title>
+      <link>https://aza.moe/life?post=5025</link>
+      <description>&lt;p&gt;检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...&lt;/p&gt;
+&lt;p&gt;比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了&lt;/p&gt;</description>
+      <guid isPermaLink="false">5025</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #5023</title>
       <link>https://aza.moe/life?post=5023</link>
