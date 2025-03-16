@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-03-16T12:12:25.101971+00:00</updated>
+  <updated>2025-03-16T14:10:59.717098+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5033</id>
+    <title>小桂桂的回忆录 📒 #5033</title>
+    <updated>2025-03-16T13:07:14+00:00</updated>
+    <content>&lt;p&gt;AquaDX 真的被 DDoS 了... 抓包看似乎是用 SSDP 放大在打 8443 Billing 端口，被打的时候局域网 ping 路由器都有 2000ms 延迟&lt;/p&gt;
+&lt;p&gt;服务器系统上有 ufw 可以屏蔽 1900 端口进来，但是似乎在流量进到系统之前家里的路由器就先撑不住了...&lt;/p&gt;
+&lt;p&gt;不知道怎么办，在线求助 &lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5033" rel="alternate"/>
+  </entry>
   <entry>
     <id>5029</id>
     <title>小桂桂的回忆录 📒 #5029</title>
