@@ -5552,7 +5552,7 @@
     "id": 537,
     "date": "2022-02-28T20:28:47",
     "text": "好简单，很多手写代码的题，更难的时间复杂度证明那些完全没考。两个小时的考试五十分钟就交卷出来了，还检查了两遍hhh",
-    "views": 32,
+    "views": 33,
     "forwards": 0,
     "reply": {
       "id": 536,
@@ -5563,7 +5563,7 @@
     "id": 538,
     "date": "2022-02-28T23:19:06",
     "text": "刚才看到 3090 在 Dundas 有货，只剩一个... 然后输信用卡手慢了，早知道提前输好了\n\n最近可能会有几天前抢到的人退款就会时不时出来一个有货的样子，写个 bot 监控一下好了\n\n呜呜呜不过 Bestbuy 24 号补货怎么 23 号才通知，之前一直是只有美国会补货的就没监控加拿大这里...",
-    "views": 30,
+    "views": 31,
     "forwards": 0,
     "images": [
       {
@@ -5582,7 +5582,7 @@
     "id": 539,
     "date": "2022-03-01T00:33:32",
     "text": "写了给 Bestbuy 显卡计算价格增长和性价比的油猴脚本，果然现在还有货的都比原价贵了好多... 接下来写监听库存的 bot\n\n安装链接：<a href=\"https://greasyfork.org/en/scripts/440735-bestbuy-gpu-value-calculator\">GreasyFork</a>",
-    "views": 33,
+    "views": 34,
     "forwards": 0,
     "reply": {
       "id": 538,
@@ -5605,7 +5605,7 @@
     "id": 540,
     "date": "2022-03-01T20:08:06",
     "text": "写完了补货通知 bot，每五秒检测一次，但是每次都是过一分钟就被抢完了... 手还是太慢，接下来要写一个自动下单 bot 了\n\n多伦多的朋友们想试试手速的话也可以加这个频道：<a href=\"https://t.me/toronto_bestbuy_gpu\">@toronto_bestbuy_gpu</a>",
-    "views": 35,
+    "views": 36,
     "forwards": 0,
     "media_group_id": 13169322289401037,
     "images": [
@@ -5639,7 +5639,7 @@
     "id": 542,
     "date": "2022-03-02T00:40:49",
     "text": "穿太多热出汗了，大冬天吃冰淇淋w\n\n（不过这个冻了半年冻出冰渣的冰棒棒也并不好吃... 想吃软软的千层雪！",
-    "views": 35,
+    "views": 36,
     "forwards": 0,
     "images": [
       {
@@ -5658,7 +5658,7 @@
     "id": 543,
     "date": "2022-03-02T02:26:52",
     "text": "…and you just type whatever I say without thinking…",
-    "views": 36,
+    "views": 37,
     "forwards": 0,
     "media_group_id": 13169504103436285,
     "images": [
@@ -5688,7 +5688,7 @@
     "id": 545,
     "date": "2022-03-02T10:10:54",
     "text": "草 居然凌晨四点补了这么多货？？？\n\n...居然我还真的抢到了？？？？\n\n赚死！卖了能赚至少 $1000 哇！呜呜呜差点就没看手机继续睡了，这是什么运气！明天坐两小时地铁去 Brampton 取",
-    "views": 52,
+    "views": 53,
     "forwards": 1,
     "media_group_id": 13169726833490277,
     "images": [
@@ -56143,7 +56143,7 @@
     "id": 4115,
     "date": "2024-07-10T10:05:26",
     "text": "训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>开放了一个测试网页大家可以来玩玩 </del><a href=\"https://sekai-test.aquadx.net/\"><del>https://sekai-test.aquadx.net/</a></del> （edit: 测试结束下线了，感谢关注）\n\n架构用的是 2021 年的 <a href=\"https://arxiv.org/abs/2106.06103\">VITS</a>，训练用了 <a href=\"https://github.com/Plachtaa/VITS-fast-fine-tuning\">Plachtaa 的微调仓库</a>，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久\n\n以及感谢 menci 借给我 4090 机器 qwq",
-    "views": 119,
+    "views": 120,
     "forwards": 1,
     "images": [
       {
@@ -56162,7 +56162,7 @@
     "id": 4116,
     "date": "2024-07-10T16:03:25",
     "text": "在中国只是日常写程序就能学到很多寄网知识 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n刚才开 gradio 不知道为什么提交生成的时候没有反应，甚至服务器端没有收到请求，然后发现是 gradio 自己需要访问 localhost，然而开了 all_proxy 环境变量之后 localhost 也被代跑了",
-    "views": 100,
+    "views": 101,
     "forwards": 1
   },
   {
@@ -57604,7 +57604,7 @@
     "id": 4223,
     "date": "2024-07-25T07:36:57",
     "text": "用键鼠玩 pjsk 是魔鬼吗",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -57623,7 +57623,7 @@
     "id": 4224,
     "date": "2024-07-25T10:30:44",
     "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 13775227556405245,
     "images": [
@@ -57663,7 +57663,7 @@
     "id": 4227,
     "date": "2024-07-26T09:03:30",
     "text": "要骂人了... 画板子画到一半突然",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57765,7 +57765,7 @@
     "id": 4234,
     "date": "2024-07-27T12:49:34",
     "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "<a href=\"##ML\">#ML</a> 今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 2,
     "media_group_id": 13776691202656413,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -57881,7 +57881,7 @@
   {
     "id": 4241,
     "date": "2024-07-28T20:10:15",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "forwarded_from": {
       "name": "？",
@@ -58165,7 +58165,7 @@
     "id": 4260,
     "date": "2024-07-31T15:56:09",
     "text": "<a href=\"##ML\">#ML</a> V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13779530958546629,
     "images": [
@@ -64971,7 +64971,7 @@
     "id": 4722,
     "date": "2024-12-07T09:41:40",
     "text": "哭哭 Notion 为什么要把「创建 latex 公式」的快捷键绑定到 ctrl + alt + e 还不能改... 总是会不小心按到 ctrl + alt + w 把窗口关了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 166,
+    "views": 167,
     "forwards": 1
   },
   {
@@ -65802,7 +65802,7 @@
     "id": 4779,
     "date": "2024-12-20T14:37:36",
     "text": "进行了一些 java 代码的 kotlin 重构，用各种宏把代码长度缩短了 -1600%\n\n原本每个 API 节点要 >50 行，重构之后同样的逻辑只用了 3 行 🌚",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "images": [
       {
@@ -65821,7 +65821,7 @@
     "id": 4780,
     "date": "2024-12-21T04:28:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煎三文鱼干！\n\n看到超市三文鱼打巨大折直接半价了就一下子买了 3kg 三文鱼，学会了给三文鱼去皮，把刺身冻起来做拌饭或者寿司🍣，然后把剩下的 700g 鱼皮煎成小鱼干了 qwq（还煎出来 112g 油 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 13878042482099997,
     "images": [
@@ -65881,7 +65881,7 @@
     "id": 4785,
     "date": "2024-12-21T19:58:24",
     "text": "<a href=\"##谜题\">#谜题</a> 感觉是谜题的话，把谜底发出来有点剧透感觉不太好，但是又很想发自己的像素画，怎么办怎么办 > <\n\n想了想决定从这周开始试试做一个周常/半月常的谜题活动，每周会出一道新的题然后公布上周的谜底，这样就不怕会剧透了！<span class=\"spoiler\"><span><del>反正这周没有来玩的人应该过一周也不会来，所以剧透了也没关系吧</span></span></del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n今周的谜题在<a href=\"https://slither.hydev.org/?puzzle=2024-12-21-winter\">这里</a>，是 36x36，欢迎来玩 qwq\n\n（配图是上周的答案",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -66282,7 +66282,7 @@
     "id": 4811,
     "date": "2024-12-28T05:24:25",
     "text": "<del>按照这个速度半个月之后就能到 15 了</del>",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "images": [
       {
@@ -66301,7 +66301,7 @@
     "id": 4812,
     "date": "2024-12-28T21:53:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n米饭布丁（？）🍮",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "images": [
       {
@@ -66320,7 +66320,7 @@
     "id": 4813,
     "date": "2024-12-30T00:12:43",
     "text": "给 AquaDX 中二加入了全国对战，现在可以和 RinNET 玩家跨服联机了！\n\n虽然感觉并不太好玩（<span class=\"spoiler\"><span>2p 拼机打别人选的曲子可以选难度，但是这个全国对战模式不能，如果不够四个人的话 CPU 还会随机选绿谱... 不是太难打不动就是太简单没意思，真不知道谁想出来的这个天才模式</span></span>\n\n如果可以远程拼机就好了",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "reply": {
       "id": 4808,
@@ -67202,7 +67202,7 @@
     "id": 4872,
     "date": "2025-01-19T02:34:41",
     "text": "我警告你们.jpg <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不要买没有接地的电视，不然一手握住 hdmi 头另一手碰电脑会被电到...\n\n测了一下发现 HDMI 头那边原本应该是接地的地方在漏 +1.96V 的电，甚至够点亮 LED 灯了",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "media_group_id": 13898032654839197,
     "images": [
@@ -67242,7 +67242,7 @@
     "id": 4875,
     "date": "2025-01-19T06:13:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n（切午餐肉的时候不小心打翻切菜板撒了一半 呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> -$2",
-    "views": 146,
+    "views": 147,
     "forwards": 0,
     "media_group_id": 13898137897954357,
     "images": [
@@ -67272,7 +67272,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 168,
+    "views": 169,
     "forwards": 1,
     "images": [
       {
@@ -68520,7 +68520,7 @@
     "id": 4959,
     "date": "2025-02-25T00:34:52",
     "text": "今天发现 unicode 里面有这个「半个空格」字符，看起来大概是 ] [ 这么宽，相比的话一般的空格是 ] [ 这么宽\n\n<span class=\"spoiler\"><span>那是不是可以用它把代码缩进设成 0.5 了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "images": [
       {
@@ -68539,14 +68539,14 @@
     "id": 4961,
     "date": "2025-02-25T06:51:57",
     "text": "<del>进行一个人类 vs LLM 比赛：小桂桂打字和在 cpu 上跑 R1 谁打字速度更快</del>",
-    "views": 182,
+    "views": 183,
     "forwards": 0
   },
   {
     "id": 4962,
     "date": "2025-02-25T12:39:50",
     "text": "唉 感觉一般人对大模型的 scale 都有很大误解...\n\n不知道多少次和别人聊天听到别人觉得「671B 的 DeepSeek R1 是可以随便跑的」还有「distil 小模型效果和大模型差不多」\n\n实际上我的那台 GPU 服务器即使是插满四张 V100 也只能跑 32B 这种量级的模型，一般家里的机器也就最多跑跑 7B 1.5B 吧... 虽然确实有方案在小内存小显存的机器上跑大模型，比如显存不够的话可以在内存和显存之间搬来搬去，内存不够的话可以在内存和硬盘之间搬来搬去，<del>但是那样可能几个小时都回答不上你一个问题了</del>",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "reply": {
       "id": 4961,
@@ -68556,7 +68556,7 @@
   {
     "id": 4963,
     "date": "2025-02-25T15:43:48",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "images": [
       {
@@ -68575,7 +68575,7 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 289,
+    "views": 290,
     "forwards": 10
   },
   {
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 786,
+    "views": 787,
     "forwards": 5,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69237,7 +69237,7 @@
     "id": 5012,
     "date": "2025-03-11T04:50:09",
     "text": "好讨厌 Meta...\n\n今天拿起来 Quest 3 发现系统自动更新了，更新之后没办法打开第三方输入法了，打开微信输入法还会直接让系统卡死自动重启... 系统自带的输入法还不支持中文，不知道怎么办\n\n以及 UI 也被大改了... 主观觉得新 UI 的这个渐变像是十年前流行的设计",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "reply": {
       "id": 4849,
@@ -69280,7 +69280,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 229,
+    "views": 230,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 532,
+    "views": 535,
     "forwards": 8
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 600,
+    "views": 602,
     "forwards": 13,
     "reply": {
       "id": 5017,
@@ -69339,7 +69339,7 @@
   {
     "id": 5019,
     "date": "2025-03-13T04:43:20",
-    "views": 197,
+    "views": 198,
     "forwards": 3,
     "images": [
       {
@@ -69358,7 +69358,7 @@
     "id": 5020,
     "date": "2025-03-13T05:32:56",
     "text": "至少 AquaDX 在用的这套 JVM 老框架没有在 Hello world 吞吐量上输给 Bun JS...",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "media_group_id": 13934751814323477,
     "images": [
@@ -69388,14 +69388,14 @@
     "id": 5022,
     "date": "2025-03-14T18:48:15",
     "text": "syama: 最近一个节日是什么，要不要加一些节日彩蛋\n我: 清明节 🌚",
-    "views": 145,
+    "views": 146,
     "forwards": 0
   },
   {
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 158,
+    "views": 162,
     "forwards": 4,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 128,
+    "views": 131,
     "forwards": 0,
     "images": [
       {
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 114,
+    "views": 119,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69482,7 +69482,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 114,
+    "views": 119,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -69494,7 +69494,7 @@
     "id": 5029,
     "date": "2025-03-16T11:15:53",
     "text": "前几天去宠物店看到了好可爱的一对鹦鹉 qwq\n\n感觉有点可怜，只能在可能没有两立方米大的鸟笼里活动感觉会很无聊... <del>不过好像两立方米按鸟的体积等比例缩放的话差不多已经是人类的一个小 studio 公寓了吧</del> 好像不能这样算 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好喜欢看鸟，在宠物店看了好久才走。想要养鸟但是又不想把他们一直关在笼子里... 好矛盾，如果有花园可以投喂野生的鸟就好了",
-    "views": 95,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 13936990031689701,
     "images": [
@@ -69544,7 +69544,7 @@
     "id": 5033,
     "date": "2025-03-16T13:07:14",
     "text": "AquaDX 真的被 DDoS 了... 抓包看似乎是用 SSDP 放大在打 8443 Billing 端口，被打的时候局域网 ping 路由器都有 2000ms 延迟\n\n服务器系统上有 ufw 可以屏蔽 1900 端口进来，但是似乎在流量进到系统之前家里的路由器就先撑不住了...\n\n不知道怎么办，在线求助 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 124,
+    "views": 134,
     "forwards": 3,
     "media_group_id": 13937043478141885,
     "images": [
@@ -69567,6 +69567,36 @@
         "url": "media/5034.jpg",
         "size": 222329,
         "thumb": "media/5034.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5035,
+    "date": "2025-03-16T22:19:06",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n认真做了一次肉酱意面\n\n之前做意面一直是北美超懒猫做法，煮面然后微波炉热一罐酱热几个肉丸混在一起就好了。这次真的切了洋葱热了黄油炒了肉沫，还放了几片生火腿，虽然麻烦了很多但是确实有更好吃 qwq",
+    "views": 52,
+    "forwards": 3,
+    "media_group_id": 13937308371538373,
+    "images": [
+      {
+        "width": 1877,
+        "height": 1407,
+        "date": "2025-03-16T22:19:05",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-16_22-19-05.jpg",
+        "url": "media/5035.jpg",
+        "size": 303974,
+        "thumb": "media/5035.jpg_thumb.jpg"
+      },
+      {
+        "width": 1877,
+        "height": 1407,
+        "date": "2025-03-16T22:19:05",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-16_22-19-05.jpg",
+        "url": "media/5036.jpg",
+        "size": 362996,
+        "thumb": "media/5036.jpg_thumb.jpg"
       }
     ]
   }
