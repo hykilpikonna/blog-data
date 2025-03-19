@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7314,
+    "views": 7315,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1155,
+    "views": 1156,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1001,
+    "views": 1002,
     "forwards": 7,
     "files": [
       {
@@ -68333,7 +68333,7 @@
     "id": 4947,
     "date": "2025-02-20T08:06:39",
     "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
-    "views": 193,
+    "views": 194,
     "forwards": 2,
     "media_group_id": 13920310398395053,
     "images": [
@@ -69261,7 +69261,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 337,
+    "views": 338,
     "forwards": 3,
     "images": [
       {
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "images": [
       {
@@ -69604,7 +69604,7 @@
     "id": 5037,
     "date": "2025-03-17T07:06:44",
     "text": "聊聊：小桂桂脑袋尖尖的\n\n...看了一下还真是 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 127,
+    "views": 129,
     "forwards": 0,
     "images": [
       {
@@ -69623,7 +69623,7 @@
     "id": 5038,
     "date": "2025-03-17T11:43:38",
     "text": "众所周知 在图片上叠加水印的话，只要暴露了水印原本的样子就很容易逆向叠加来去水印了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 130,
+    "views": 132,
     "forwards": 3,
     "files": [
       {
@@ -69646,7 +69646,7 @@
     "id": 5039,
     "date": "2025-03-18T00:22:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nTracer 和 Celestium 来这里玩，做了炖鸡拉面！\n\n比较幸运，虽然没有提前准备但是冰箱里正好有五人份的鸡肉，而且炖鸡也不需要提前解冻什么 qwq\n\n如果上次去超市没有贪便宜多买一盒就惨惨了",
-    "views": 117,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 13938058989712541,
     "images": [
@@ -69696,7 +69696,7 @@
     "id": 5043,
     "date": "2025-03-18T03:22:00",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 甘い夢溶けて目を瞑って\n♪ 覚めない様に祈っている\n\n♪ 思い浮かぶ何回忘れても\n♪ 残ったままで消えやしない\n♪ 生まれ変わったら消えやしない...\n\n人真的好矛盾，在研究着控制大模型的记忆的同时，明明自己的记忆都还没法控制——有忘记的事情想要回忆起，有记住的事情想要消去，实际上却两边都做不到...\n\n<span class=\"spoiler\"><span>「即使是重生 也无法消去」 吗</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 116,
+    "views": 118,
     "forwards": 2,
     "files": [
       {
@@ -69718,7 +69718,7 @@
     "id": 5044,
     "date": "2025-03-18T03:58:15",
     "text": "啊啊 看 aquadx 群里 vc 在看 girls band cry 就进来看了一集，我真的超爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> 立即下载\n\n电波完全对上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 114,
+    "views": 116,
     "forwards": 1,
     "images": [
       {
@@ -69737,7 +69737,7 @@
     "id": 5045,
     "date": "2025-03-18T11:30:27",
     "text": "哇 我居然晚上十二点睡了、早上七点醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这两个月唯一一个作息正常的天",
-    "views": 98,
+    "views": 100,
     "forwards": 1,
     "images": [
       {
@@ -69756,7 +69756,7 @@
     "id": 5046,
     "date": "2025-03-18T13:50:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听哭了... 好心疼灯灯 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> \n\n♪ 隔てられたガラスは檻じゃなかったよ\n（将我与他人隔开的玻璃并非牢笼）\n♪ 傷つく僕を守ってくれていたのに\n（而是一直在保护伤痕累累的我）\n\n刚走出独自一人的气泡、创造出幸福耀眼的回忆，就要看着它被结束，仿佛只是一场梦... <span class=\"spoiler\"><span>面对着无法挽回的失去，也许更希望自己不曾拥有。这样的话，隔开我与世界的屏障确实在保护着我</span></span>",
-    "views": 89,
+    "views": 92,
     "forwards": 1,
     "files": [
       {
@@ -69778,7 +69778,7 @@
     "id": 5047,
     "date": "2025-03-18T21:52:33",
     "text": "不愉快\n\n买了 Split Fiction，想和聊聊玩，但是聊聊想给大家直播然后录下来... <span class=\"spoiler\"><span>明明感觉身边的朋友都很忙直播了也不会有人看</span></span>，不过聊聊想播就试试好了，我也想把一起玩游戏的回忆记录下来 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>\n\n原本聊聊买的是 Xbox 版本，但是没有合适的捕捉卡... 有一个只有单向输入的捕捉卡，如果用它的话就只能在带延迟的捕捉画面里面玩了。配上一个 HDMI 交换机应该可以，但是需要额外两根 HDMI 线这里也没有\n\n所以我在 PC 上重新买了一份，在客厅里 AquaDX 的宿主机服务器上跑起来了，这里正好插了一张 1660S 勉强能带动 1080p60。因为蓝牙卡不太行，手柄接了一根很长的有线。然后还要接摄像头录视频和声音...\n\n现在一切都搭好了，好累好累。<span class=\"spoiler\"><span>一想到之后还要玩游戏就觉得更累了，明明两小时前想玩游戏只是其他事情做累了想要休息一下...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 75,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
