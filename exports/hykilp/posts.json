@@ -57259,7 +57259,7 @@
     "id": 4200,
     "date": "2024-07-21T14:13:54",
     "text": "把这张打出来定了一个相框 qwq",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 13772569879446949,
     "images": [
@@ -57283,7 +57283,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57829,7 +57829,7 @@
     "id": 4238,
     "date": "2024-07-27T14:37:09",
     "text": "草 我的 shutdown 打进 llm 里面了",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57852,7 +57852,7 @@
     "id": 4239,
     "date": "2024-07-28T08:26:04",
     "text": "教 syama 写网页，今天第一次用 navigator.share 分享接口\n\n...然后发现 safari 上不能用，查查发现在 safari 上只有 HTTPS 可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n...然后发现 Firefox 上不能用，查查发现在 Firefox 上需要用户手动去 about:config 里面开启才能用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n实现都写了为什么不默认启用啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 13777241317603453,
     "images": [
@@ -57881,7 +57881,7 @@
   {
     "id": 4241,
     "date": "2024-07-28T20:10:15",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "forwarded_from": {
       "name": "？",
@@ -57903,7 +57903,7 @@
   {
     "id": 4242,
     "date": "2024-07-28T20:10:29",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "files": [
       {
@@ -57928,7 +57928,7 @@
     "id": 4244,
     "date": "2024-07-28T21:09:43",
     "text": "吃完海底捞出来听见了猫叫，找过去之后看到了猫，然后看到了第二只猫，第三只猫，还有第四只猫…\n桂桂随身带了猫条，拿出来打开了之后猫猫们不为所动，放在这里等了好一会猫猫左顾右盼之后才敢来吃 qwq",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -57961,7 +57961,7 @@
     "id": 4245,
     "date": "2024-07-28T23:07:33",
     "text": "一些深夜猫片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 13777664431653325,
     "images": [
@@ -58021,7 +58021,7 @@
     "id": 4250,
     "date": "2024-07-29T17:14:16",
     "text": "[object Object] is awesome",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "images": [
       {
@@ -58040,14 +58040,14 @@
     "id": 4251,
     "date": "2024-07-29T20:10:12",
     "text": "今天和 menci 一起 debug 了一天还没搞明白为什么 mai pico 接上触屏的串口就开不了机\n\n然后准备睡觉了在床上再想了一眼突然想明白了，触屏是 rs232，pico 是 TTL... 我们在用 232 接 TTL 🌚\n\n还好 pico 没有被 232 的 5V 烧掉",
-    "views": 107,
+    "views": 108,
     "forwards": 1
   },
   {
     "id": 4252,
     "date": "2024-07-29T22:46:27",
     "text": "之前 Arc 浏览器刚出来的时候很喜欢用 Arc，但是用着用着觉得各种问题太劝退了...\n\n启动进程经常卡很久才能起来，下载没有固定长度的文件的时候没有任何视觉提示，新标签打中文之后需要多打一个空格才能识别... 重装系统之后发现浏览器插件没了，发现它的同步居然只能同步标签页，不能同步插件、收藏夹、历史、密码、快捷键... <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n立即卸载，去用 Edge 了",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -58066,14 +58066,14 @@
     "id": 4253,
     "date": "2024-07-30T00:27:42",
     "text": "已经会把 LLVM 看成 VLLM 了",
-    "views": 111,
+    "views": 112,
     "forwards": 0
   },
   {
     "id": 4254,
     "date": "2024-07-30T06:40:24",
     "text": "储存条件：冷冻",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "media_group_id": 13778572998537549,
     "images": [
@@ -58385,7 +58385,7 @@
     "id": 4276,
     "date": "2024-08-03T05:26:20",
     "text": "这是何等的巧合\n\n没有任何提前计划，在机场登机的时候遇到了三位群友坐同一班飞机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 2,
     "images": [
       {
@@ -58404,7 +58404,7 @@
     "id": 4277,
     "date": "2024-08-04T01:14:03",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在飞机上又看了一遍《秒速五厘米》，也许是因为看到了 Cryolitia 的头像，又或许是和 syama 的事情有些共鸣，不过更可能只是因为正好在飞机系统里面翻到了。\n\n想起来小学的时候第一次听天门的《樱花抄》的时候还没有看过秒五，同样只是偶然在当时的酷狗音乐上翻到了，觉得很好听就添加到了 iPod nano 的存储里。那时候在合唱团例常排练，和一位同样在高声部的同学是很好的朋友。第一次和别人共享耳机听歌也是在这里，在排练休息的间隙，觉得她会喜欢所以选了天门的歌单。那个时候还对感情的复杂完全不熟，只觉得是一个很好的朋友，现在回想起来大概是喜欢的人吧。\n\n升到初中先是转到了朝阳区，之后又转去了北美，很快就失去了联系... 不过现在的我的性格中也有她的一部分，也许喜欢和想要成为就是分不清的吧",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "files": [
       {
@@ -58425,7 +58425,7 @@
     "id": 4279,
     "date": "2024-08-04T20:17:22",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听听民谣团 ハンバート ハンバート 的佐野遊穂唱 rap，好可爱好可爱！！！<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "files": [
       {
@@ -58591,7 +58591,7 @@
     "id": 4291,
     "date": "2024-08-07T23:38:26",
     "text": "第一次在加拿大见到路边摊",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 13784591251588581,
     "images": [
@@ -58621,7 +58621,7 @@
     "id": 4293,
     "date": "2024-08-08T04:59:22",
     "text": "让 DALLE 画了一些服务器的图标，终于不怕找不到标签页了",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "media_group_id": 13784745301187333,
     "images": [
@@ -58651,7 +58651,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -59349,7 +59349,7 @@
     "id": 4344,
     "date": "2024-08-19T06:17:34",
     "text": "你也知道啊啊啊啊啊编剧 💢💢",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -59372,7 +59372,7 @@
     "id": 4345,
     "date": "2024-08-19T22:12:14",
     "text": "又设计了一个 25 时 icon 的挂件，专门找了可以做半透明的厂家印，可惜效果没有想象的好呢。\n\n如果可以真的用单面玻璃镜子和 LED 做这个效果就好了，可惜那样的话尺寸就不能做成挂件了",
-    "views": 139,
+    "views": 140,
     "forwards": 1,
     "media_group_id": 13792844274282805,
     "images": [
@@ -64429,14 +64429,14 @@
     "id": 4686,
     "date": "2024-11-25T15:57:03",
     "text": "谁还记得曾经有段时间给 Minecraft 安装 mod 要手动解压 minecraft.jar，把 class 文件替换掉再删掉 META-INFO <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n（暴露年龄了",
-    "views": 139,
+    "views": 140,
     "forwards": 1
   },
   {
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 310,
+    "views": 311,
     "forwards": 4,
     "images": [
       {
@@ -64455,7 +64455,7 @@
     "id": 4688,
     "date": "2024-11-26T04:33:29",
     "text": "总是把 MTEB leaderboard 打成 MBTI <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -64474,7 +64474,7 @@
     "id": 4689,
     "date": "2024-11-26T09:13:07",
     "text": "让所有的机器都训练上了模型，终于可以安心睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 133,
+    "views": 134,
     "forwards": 1,
     "reply": {
       "id": 4283,
@@ -64496,7 +64496,7 @@
   {
     "id": 4690,
     "date": "2024-11-26T16:33:25",
-    "views": 142,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -64515,7 +64515,7 @@
     "id": 4691,
     "date": "2024-11-27T01:08:16",
     "text": "sus is coming <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 2,
     "images": [
       {
@@ -64534,21 +64534,21 @@
     "id": 4692,
     "date": "2024-11-27T07:14:59",
     "text": "一直不懂为什么一个电脑插两个鼠标不会出现两个光标 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉是很不合理的设计",
-    "views": 146,
+    "views": 147,
     "forwards": 0
   },
   {
     "id": 4693,
     "date": "2024-11-27T12:51:51",
     "text": "如果你有一个无限的 OpenAI 钱包可以免费调 /v1/completion 的话，你会用它做什么呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<span class=\"spoiler\"><span>如果我说我真的有了类似的东西呢</span></span>",
-    "views": 141,
+    "views": 142,
     "forwards": 1
   },
   {
     "id": 4694,
     "date": "2024-11-28T03:48:29",
     "text": "<a href=\"##TIL\">#TIL</a> ssh 居然可以当作 pipe 使用而且不会有很大的 overhead\n\n可以远程 dd 了，好耶",
-    "views": 141,
+    "views": 142,
     "forwards": 1,
     "images": [
       {
@@ -64567,7 +64567,7 @@
     "id": 4695,
     "date": "2024-11-29T04:41:24",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n好浪漫... 高潮段用「ずっど」这两个音拼摩斯电码拼出了一个「I love you」 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n也好聪明，正好是一个长的音节和一个短的音节，听起来完全没有违和\n\n<a href=\"https://www.youtube.com/watch?v=UKZt1vq8bKI\">YouTube MV</a>",
-    "views": 127,
+    "views": 128,
     "forwards": 2,
     "files": [
       {
@@ -64589,7 +64589,7 @@
     "id": 4696,
     "date": "2024-11-29T04:46:22",
     "text": "・ー・ 草",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64612,13 +64612,13 @@
     "id": 4697,
     "date": "2024-11-29T08:10:21",
     "text": "🟥 HyDEV Whisper (<a href=\"whisper.hydev.org\">whisper.hydev.org</a>) 下线一天\n\n原因是需要拿走 GPU 赶作业 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 0
   },
   {
     "id": 4698,
     "date": "2024-11-29T22:34:08",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "files": [
       {
@@ -64643,14 +64643,14 @@
     "id": 4699,
     "date": "2024-11-30T01:00:08",
     "text": "有时候感觉写 research 用的 python 程序遇到的兼容性问题比给 Minecraft 做模组整合包还多\n\n两个大库时不时就会出现不兼容，然后就要单独分两个环境... 我现在一个项目有三个环境了，不同的脚本分别要在不同环境里面跑... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 146,
+    "views": 147,
     "forwards": 0
   },
   {
     "id": 4700,
     "date": "2024-11-30T08:47:41",
     "text": "QwQ",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 13863651691609925,
     "images": [
@@ -64680,7 +64680,7 @@
     "id": 4702,
     "date": "2024-11-30T16:26:15",
     "text": "昏睡猫猫开始乱敲键盘",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64703,7 +64703,7 @@
     "id": 4703,
     "date": "2024-11-30T16:47:18",
     "text": "七天通宵爆肝肝完一篇 paper 的奇迹\n\n是 311 课的开放期末作业，正式研究了一下 Sekai LLM 各方面分别怎样实现最好、以及怎样自动客观评估哪个模型更好之类的。之前一直靠直觉评价感觉很不科学，改了什么都没办法很快速知道效果... 所以做 ML 还是需要至少先有 metric\n\n唉真的为什么期末作业要选这么大一个 scope <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 不过算了确实是因为好玩才有动力做的项目，也正好打算发篇纸\n\n（虽然因为时间不够还留了很多 TODO... 但是现在先睡睡",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "media_group_id": 13863881904347677,
     "images": [
@@ -64733,13 +64733,13 @@
     "id": 4705,
     "date": "2024-12-01T01:03:24",
     "text": "中午 12 点睡，晚上八点起，非常健康的 +8 作息哈哈哈哈",
-    "views": 147,
+    "views": 148,
     "forwards": 1
   },
   {
     "id": 4706,
     "date": "2024-12-01T06:36:22",
-    "views": 142,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -64758,8 +64758,8 @@
     "id": 4707,
     "date": "2024-12-01T17:24:55",
     "text": "<a href=\"https://youtu.be/UWaKhaq5UtM\">https://youtu.be/UWaKhaq5UtM</a>",
-    "views": 133,
-    "forwards": 1,
+    "views": 134,
+    "forwards": 2,
     "forwarded_from": {
       "name": "silly foxes posting ❄️"
     }
@@ -64768,8 +64768,8 @@
     "id": 4708,
     "date": "2024-12-01T17:27:12",
     "text": "也许我感情经历中没有过 100% 顺直的对象也是因为这些事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 143,
-    "forwards": 0,
+    "views": 145,
+    "forwards": 1,
     "reply": {
       "id": 4707,
       "text": "<a href=\"https://youtu.be/UWaKhaq5UtM\">https://youtu.be/UWaKhaq5UtM</a>"
@@ -64779,14 +64779,14 @@
     "id": 4709,
     "date": "2024-12-02T15:04:35",
     "text": "\"Reward hacking\" 是不是就是大模型找到了毒品 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 133,
+    "views": 134,
     "forwards": 0
   },
   {
     "id": 4710,
     "date": "2024-12-02T15:08:39",
     "text": "我觉得这句话和「Onshape 是不是就是现实世界的 Figma」有异曲同工之妙",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "forwarded_from": {
       "name": "Menci 💖",
@@ -64797,7 +64797,7 @@
     "id": 4711,
     "date": "2024-12-02T17:21:15",
     "text": "一周之前自己剪了一下头发，今天又重新修了一下，剪成 ena 内扣短发了 qwq（感谢聊聊帮忙修后面自己看不见的头发\n\n尝试了一直不敢尝试的发型 <span class=\"spoiler\"><span>一直害怕短发会变得不 pass，看来也并没有喵</span></span>",
-    "views": 148,
+    "views": 149,
     "forwards": 3,
     "images": [
       {
@@ -64816,7 +64816,7 @@
     "id": 4712,
     "date": "2024-12-03T04:20:27",
     "text": "姜上面长出了青葱（？）<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -64941,7 +64941,7 @@
     "id": 4720,
     "date": "2024-12-06T18:01:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n为什么觉得兰州拉面里面应该放些洋葱",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "media_group_id": 13868064588399461,
     "images": [
@@ -64978,7 +64978,7 @@
     "id": 4723,
     "date": "2024-12-07T18:42:15",
     "text": "考试当天告诉我 ttc 地铁停了... 然后看了一眼打车价格，原本可能 $20 不到的路程现在要 $50",
-    "views": 123,
+    "views": 124,
     "forwards": 2,
     "media_group_id": 13868775484602197,
     "images": [
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1300,
+    "views": 1301,
     "forwards": 9,
     "files": [
       {
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 837,
+    "views": 839,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 569,
+    "views": 570,
     "forwards": 8
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 719,
+    "views": 722,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -69623,7 +69623,7 @@
     "id": 5038,
     "date": "2025-03-17T11:43:38",
     "text": "众所周知 在图片上叠加水印的话，只要暴露了水印原本的样子就很容易逆向叠加来去水印了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 138,
+    "views": 139,
     "forwards": 3,
     "files": [
       {
@@ -69756,7 +69756,7 @@
     "id": 5046,
     "date": "2025-03-18T13:50:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听哭了... 好心疼灯灯 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> \n\n♪ 隔てられたガラスは檻じゃなかったよ\n（将我与他人隔开的玻璃并非牢笼）\n♪ 傷つく僕を守ってくれていたのに\n（而是一直在保护伤痕累累的我）\n\n刚走出独自一人的气泡、创造出幸福耀眼的回忆，就要看着它被结束，仿佛只是一场梦... <span class=\"spoiler\"><span>面对着无法挽回的失去，也许更希望自己不曾拥有。这样的话，隔开我与世界的屏障确实在保护着我</span></span>",
-    "views": 117,
+    "views": 118,
     "forwards": 1,
     "files": [
       {
@@ -69778,7 +69778,7 @@
     "id": 5047,
     "date": "2025-03-18T21:52:33",
     "text": "不愉快\n\n买了 Split Fiction，想和聊聊玩，但是聊聊想给大家直播然后录下来... <span class=\"spoiler\"><span>明明感觉身边的朋友都很忙直播了也不会有人看</span></span>，不过聊聊想播就试试好了，我也想把一起玩游戏的回忆记录下来 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>\n\n原本聊聊买的是 Xbox 版本，但是没有合适的捕捉卡... 有一个只有单向输入的捕捉卡，如果用它的话就只能在带延迟的捕捉画面里面玩了。配上一个 HDMI 交换机应该可以，但是需要额外两根 HDMI 线这里也没有\n\n所以我在 PC 上重新买了一份，在客厅里 AquaDX 的宿主机服务器上跑起来了，这里正好插了一张 1660S 勉强能带动 1080p60。因为蓝牙卡不太行，手柄接了一根很长的有线。然后还要接摄像头录视频和声音...\n\n现在一切都搭好了，好累好累。<span class=\"spoiler\"><span>一想到之后还要玩游戏就觉得更累了，明明两小时前想玩游戏只是其他事情做累了想要休息一下...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -69797,7 +69797,7 @@
     "id": 5048,
     "date": "2025-03-19T13:04:20",
     "text": "不太聪明喵",
-    "views": 111,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -69816,7 +69816,7 @@
     "id": 5049,
     "date": "2025-03-19T15:36:37",
     "text": "在频道里直播一会 qwq",
-    "views": 105,
+    "views": 107,
     "forwards": 0,
     "reply": {
       "id": 5047,
@@ -69851,8 +69851,8 @@
     "id": 5054,
     "date": "2025-03-19T18:15:04",
     "text": "下播啦\n\nSplit Fiction 真的和双人成行一样好玩欸，而且感觉更乱来了，喜欢 qwq\n\n（中间某个支线里主角被做成了热狗之后看饿了我也去做了热狗 🌭 好吃好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n感谢大家围观喵",
-    "views": 89,
-    "forwards": 0,
+    "views": 92,
+    "forwards": 1,
     "images": [
       {
         "width": 2560,
