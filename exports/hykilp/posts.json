@@ -68820,7 +68820,7 @@
     "id": 4984,
     "date": "2025-03-07T02:12:49",
     "text": "（在给中二机器买 ecc 内存条）\nsyama: 怎么感觉看起来这么丐啊，都是绿绿的一条\n我：？\n（在服务器硬件店买 ssd）\nsyama: 怎么感觉服务器的什么东西都好丑啊\n\n唉，颜控 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "images": [
       {
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 879,
+    "views": 880,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 587,
+    "views": 589,
     "forwards": 8
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 790,
+    "views": 793,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -69339,7 +69339,7 @@
   {
     "id": 5019,
     "date": "2025-03-13T04:43:20",
-    "views": 233,
+    "views": 234,
     "forwards": 3,
     "images": [
       {
@@ -69358,7 +69358,7 @@
     "id": 5020,
     "date": "2025-03-13T05:32:56",
     "text": "至少 AquaDX 在用的这套 JVM 老框架没有在 Hello world 吞吐量上输给 Bun JS...",
-    "views": 242,
+    "views": 243,
     "forwards": 0,
     "media_group_id": 13934751814323477,
     "images": [
@@ -69388,15 +69388,15 @@
     "id": 5022,
     "date": "2025-03-14T18:48:15",
     "text": "syama: 最近一个节日是什么，要不要加一些节日彩蛋\n我: 清明节 🌚",
-    "views": 186,
+    "views": 187,
     "forwards": 0
   },
   {
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 205,
-    "forwards": 4,
+    "views": 213,
+    "forwards": 5,
     "media_group_id": 13936224081120941,
     "images": [
       {
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "images": [
       {
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 163,
+    "views": 164,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69482,7 +69482,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -69494,7 +69494,7 @@
     "id": 5029,
     "date": "2025-03-16T11:15:53",
     "text": "前几天去宠物店看到了好可爱的一对鹦鹉 qwq\n\n感觉有点可怜，只能在可能没有两立方米大的鸟笼里活动感觉会很无聊... <del>不过好像两立方米按鸟的体积等比例缩放的话差不多已经是人类的一个小 studio 公寓了吧</del> 好像不能这样算 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好喜欢看鸟，在宠物店看了好久才走。想要养鸟但是又不想把他们一直关在笼子里... 好矛盾，如果有花园可以投喂野生的鸟就好了",
-    "views": 153,
+    "views": 154,
     "forwards": 0,
     "media_group_id": 13936990031689701,
     "images": [
@@ -69544,7 +69544,7 @@
     "id": 5033,
     "date": "2025-03-16T13:07:14",
     "text": "AquaDX 真的被 DDoS 了... 抓包看似乎是用 SSDP 放大在打 8443 Billing 端口，被打的时候局域网 ping 路由器都有 2000ms 延迟\n\n服务器系统上有 ufw 可以屏蔽 1900 端口进来，但是似乎在流量进到系统之前家里的路由器就先撑不住了...\n\n不知道怎么办，在线求助 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 193,
+    "views": 194,
     "forwards": 3,
     "media_group_id": 13937043478141885,
     "images": [
@@ -69574,7 +69574,7 @@
     "id": 5035,
     "date": "2025-03-16T22:19:06",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n认真做了一次肉酱意面\n\n之前做意面一直是北美超懒猫做法，煮面然后微波炉热一罐酱热几个肉丸混在一起就好了。这次真的切了洋葱热了黄油炒了肉沫，还放了几片生火腿，虽然麻烦了很多但是确实有更好吃 qwq",
-    "views": 181,
+    "views": 184,
     "forwards": 4,
     "media_group_id": 13937308371538373,
     "images": [
@@ -69604,7 +69604,7 @@
     "id": 5037,
     "date": "2025-03-17T07:06:44",
     "text": "聊聊：小桂桂脑袋尖尖的\n\n...看了一下还真是 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "images": [
       {
@@ -69623,7 +69623,7 @@
     "id": 5038,
     "date": "2025-03-17T11:43:38",
     "text": "众所周知 在图片上叠加水印的话，只要暴露了水印原本的样子就很容易逆向叠加来去水印了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 3,
     "files": [
       {
@@ -69646,7 +69646,7 @@
     "id": 5039,
     "date": "2025-03-18T00:22:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nTracer 和 Celestium 来这里玩，做了炖鸡拉面！\n\n比较幸运，虽然没有提前准备但是冰箱里正好有五人份的鸡肉，而且炖鸡也不需要提前解冻什么 qwq\n\n如果上次去超市没有贪便宜多买一盒就惨惨了",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "media_group_id": 13938058989712541,
     "images": [
@@ -69737,7 +69737,7 @@
     "id": 5045,
     "date": "2025-03-18T11:30:27",
     "text": "哇 我居然晚上十二点睡了、早上七点醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这两个月唯一一个作息正常的天",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "images": [
       {
@@ -69778,7 +69778,7 @@
     "id": 5047,
     "date": "2025-03-18T21:52:33",
     "text": "不愉快\n\n买了 Split Fiction，想和聊聊玩，但是聊聊想给大家直播然后录下来... <span class=\"spoiler\"><span>明明感觉身边的朋友都很忙直播了也不会有人看</span></span>，不过聊聊想播就试试好了，我也想把一起玩游戏的回忆记录下来 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>\n\n原本聊聊买的是 Xbox 版本，但是没有合适的捕捉卡... 有一个只有单向输入的捕捉卡，如果用它的话就只能在带延迟的捕捉画面里面玩了。配上一个 HDMI 交换机应该可以，但是需要额外两根 HDMI 线这里也没有\n\n所以我在 PC 上重新买了一份，在客厅里 AquaDX 的宿主机服务器上跑起来了，这里正好插了一张 1660S 勉强能带动 1080p60。因为蓝牙卡不太行，手柄接了一根很长的有线。然后还要接摄像头录视频和声音...\n\n现在一切都搭好了，好累好累。<span class=\"spoiler\"><span>一想到之后还要玩游戏就觉得更累了，明明两小时前想玩游戏只是其他事情做累了想要休息一下...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 178,
+    "views": 180,
     "forwards": 0,
     "images": [
       {
@@ -69797,7 +69797,7 @@
     "id": 5048,
     "date": "2025-03-19T13:04:20",
     "text": "不太聪明喵",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "images": [
       {
@@ -69816,7 +69816,7 @@
     "id": 5049,
     "date": "2025-03-19T15:36:37",
     "text": "在频道里直播一会 qwq",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "reply": {
       "id": 5047,
@@ -69914,14 +69914,14 @@
     "id": 5059,
     "date": "2025-03-22T16:21:37",
     "text": "家里家务分工好的坏处就是 缺了谁都会变得一团糟\n\n之前每次都是我做饭然后聊聊洗碗，结果昨天聊聊不在，习惯性地忘记了洗碗然后今天早上没有碗做饭了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 103,
+    "views": 106,
     "forwards": 0
   },
   {
     "id": 5060,
     "date": "2025-03-23T03:19:06",
     "text": "Tracer 买的 tasoller+ 也到了，这下和认识的人已经可以填满一整个联机房间了，开心开心 qwq\n\n<del>什么时候可以拼一车 25 时</del> 可惜 25 时的活动在上一个版本，这个版本已经结束了... 还需要找时间实现以下角色全解 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 62,
+    "views": 69,
     "forwards": 1,
     "images": [
       {
