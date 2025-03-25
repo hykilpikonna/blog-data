@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-03-25T16:26:18.703343+00:00</updated>
+  <updated>2025-03-25T18:11:33.115524+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5071</id>
+    <title>小桂桂的回忆录 📒 #5071</title>
+    <updated>2025-03-25T18:02:46+00:00</updated>
+    <content>&lt;p&gt;给 syama 写了一个 WebNFC 读卡器&lt;/p&gt;
+&lt;p&gt;其实就是没有物理读卡器的时候用来给街机音游刷卡的小工具，原理是写卡号文件然后模拟按回车，没什么技术含量，感觉可能会有人需要就开源啦 qwq&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/MaigoLabs/AimeWeb"&gt;https://github.com/MaigoLabs/AimeWeb&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5071" rel="alternate"/>
+  </entry>
   <entry>
     <id>5068</id>
     <title>小桂桂的回忆录 📒 #5068</title>
