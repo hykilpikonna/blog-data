@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-03-25T22:12:13.330642+00:00</updated>
+  <updated>2025-03-26T00:13:02.593841+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5072</id>
+    <title>小桂桂的回忆录 📒 #5072</title>
+    <updated>2025-03-25T22:41:40+00:00</updated>
+    <content>&lt;p&gt;因为 credit 花不完，部署了一个 emu bot &lt;i class="custom-emoji" emoji-src="emoji/6332329339740231429.webp"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;居然真的能让 emu 用很开心可爱的语气说出很恐怖的话，&lt;/span&gt;&lt;/span&gt;效果真好 &lt;i class="custom-emoji" emoji-src="emoji/6332329339740231429.webp"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;这次是完全用 prompting 没有 fine tune 感觉也不错。其实只是 discord 这种文字对话的话，也没必要真的让说话语气像 pjsk 剧情对话一样真实，即使知道它在角色扮演也不影响大家 have fun 的 qwq&lt;/p&gt;
+&lt;p&gt;（Prompt 在&lt;a href="https://github.com/MewoLab/AquaDX/blob/v1-dev/docs/fun/llm.md"&gt;这里&lt;/a&gt;）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5072" rel="alternate"/>
+  </entry>
   <entry>
     <id>5071</id>
     <title>小桂桂的回忆录 📒 #5071</title>
