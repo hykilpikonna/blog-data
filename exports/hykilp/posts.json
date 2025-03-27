@@ -39470,7 +39470,7 @@
     "id": 2936,
     "date": "2023-11-25T05:07:19",
     "text": "好耶！今天豆腐来玩，和豆腐一起给这个读卡器写了固件和驱动，现在可以刷 presto 登游戏了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n*支持任何 nfc 卡哦，不是 felica 的话会被转换成 felica 格式 qwq",
-    "views": 144,
+    "views": 145,
     "forwards": 1,
     "files": [
       {
@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 146,
+    "views": 147,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 188,
+    "views": 189,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 161,
+    "views": 162,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -42141,7 +42141,7 @@
     "id": 3123,
     "date": "2023-12-31T23:12:13",
     "text": "创建 GitHub 帐号已经七年了！更新一下今年写的项目 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n🟥: 咕了 🕊\n🟦: 写完但是没发布/没什么用的\n🟨: 还没写完但是会继续\n🟩: 满意的项目w\n\n原本觉得翻 GitHub 活动记录就能大概回想起某段时间在做什么，但是发现今年做的好多硬件项目都没有存到 GitHub 上，即使存了的也没有写很详细的 commit 记录...\n\n因为无论是 onshape CAD 还是 EasyEDA 都是云端存储，如果要推到 GitHub 上必须专门导出文件好麻烦。好想写一个可以把云端修改记录同步到 GitHub 上的插件",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "reply": {
       "id": 1679,
@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 266,
+    "views": 267,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 250,
+    "views": 251,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 223,
+    "views": 224,
     "forwards": 1,
     "images": [
       {
@@ -61447,7 +61447,7 @@
     "id": 4485,
     "date": "2024-09-26T04:33:21",
     "text": "我真的好不擅长数学...\n\nCSC458 计网课的大作业要用 cpp 实现一个网卡，我只用了三个小时就写完了，单元测试 100% 通过\n\nCSC311 机器学习理论课的作业有很多抽象数学，我这三天总共花了 14 个小时在这上面，做着做着发现完全忘记矩阵乘法维度的规则了去补补，又发现忘了非零特征值是什么意思了，怎样给偏导数求导也忘记了... 明明以为留三天的时间肯定够的，交上去的时候还是要空掉 20% 的分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n怎么办好想退课... 但是现在是最后一年，退课就会打乱下学期的计划或者要晚一年毕业了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 210,
+    "views": 211,
     "forwards": 5,
     "media_group_id": 13818601608875197,
     "images": [
@@ -61477,14 +61477,14 @@
     "id": 4487,
     "date": "2024-09-26T12:41:22",
     "text": "起床了，要做早饭，问聊聊想吃什么\n我：聊聊想吃方便面还是挂面还是意面？<i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 0
   },
   {
     "id": 4488,
     "date": "2024-09-27T02:04:52",
     "text": "curiosity",
-    "views": 142,
+    "views": 143,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 159,
+    "views": 160,
     "forwards": 0,
     "images": [
       {
@@ -61556,7 +61556,7 @@
     "id": 4492,
     "date": "2024-09-30T03:03:34",
     "text": "又遇到了何等的巧合\n\n上次在机场遇到扶苏的时候，扶苏和我聊到她有一个朋友也要去多伦多，也玩舞萌，当时还给那个朋友发了消息但是没有回\n\n然后前几天聊聊说 Celestium 新的对象听说这里有舞萌想来玩，已经习惯了有很多人来这里玩就没有多想。然后玩着舞萌和她聊天，聊着聊着发现她就是扶苏说的那个朋友 Tracer <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 世界成环了\n\n聊着聊着还发现她的成分和我好相似 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 都在训练用来数字化自己的 LLM、都喜欢打/魔改舞萌和 ff14、搭 homelab 和 NAS、也和我大一住宿舍的时候一样做了 UofT EAP 的无线转发、写 AC 机解作业题、在尝试了解 RF... 奇妙",
-    "views": 185,
+    "views": 186,
     "forwards": 1,
     "reply": {
       "id": 4276,
@@ -61567,7 +61567,7 @@
     "id": 4493,
     "date": "2024-09-30T15:38:54",
     "text": "用开源软件就是在尝试理解为什么硬盘 uuid 获取不到的时候在 GPT 分区表头里看到一个不知道谁写的 \"Hah!IdontNeedEFI\" 🌚",
-    "views": 227,
+    "views": 228,
     "forwards": 3,
     "images": [
       {
@@ -61586,7 +61586,7 @@
     "id": 4494,
     "date": "2024-10-02T04:32:22",
     "text": "今天见到了光量子 <a href=\"https://t.me/lightquantum01\">@lightquantum01</a>，好可爱！\n\n不过居然光量子今天才知道我在 UofT 上本科 quq 我在别人眼里是什么网络神秘人吗，明明已经很实名了的",
-    "views": 145,
+    "views": 146,
     "forwards": 1
   },
   {
@@ -62258,7 +62258,7 @@
     "id": 4539,
     "date": "2024-10-16T04:11:39",
     "text": "绝对是我做过最灵车的事情\n\n八月发现小机器什么都不做就过热，拆开看看发现散热器根本没有接触到 CPU，因为魔改的主板 CPU 比一般的主板低很多，旁边的元件高度撞到了。所以当时买了新的散热器\n\n今天新的散热器到了，发现还是碰不到 CPU，没有撞到什么东西，只是因为它高度容错留得太少了。我想了半天怎么办，最后把固定的扣具反过来装，然后用上个项目留下来的很长的螺丝隔空把它拧上了 🌚",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 13832415194710157,
     "images": [
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1059,
+    "views": 1060,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 620,
+    "views": 621,
     "forwards": 8
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 869,
+    "views": 872,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -69778,7 +69778,7 @@
     "id": 5047,
     "date": "2025-03-18T21:52:33",
     "text": "不愉快\n\n买了 Split Fiction，想和聊聊玩，但是聊聊想给大家直播然后录下来... <span class=\"spoiler\"><span>明明感觉身边的朋友都很忙直播了也不会有人看</span></span>，不过聊聊想播就试试好了，我也想把一起玩游戏的回忆记录下来 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>\n\n原本聊聊买的是 Xbox 版本，但是没有合适的捕捉卡... 有一个只有单向输入的捕捉卡，如果用它的话就只能在带延迟的捕捉画面里面玩了。配上一个 HDMI 交换机应该可以，但是需要额外两根 HDMI 线这里也没有\n\n所以我在 PC 上重新买了一份，在客厅里 AquaDX 的宿主机服务器上跑起来了，这里正好插了一张 1660S 勉强能带动 1080p60。因为蓝牙卡不太行，手柄接了一根很长的有线。然后还要接摄像头录视频和声音...\n\n现在一切都搭好了，好累好累。<span class=\"spoiler\"><span>一想到之后还要玩游戏就觉得更累了，明明两小时前想玩游戏只是其他事情做累了想要休息一下...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "images": [
       {
@@ -69877,7 +69877,7 @@
     "id": 5056,
     "date": "2025-03-22T03:11:06",
     "text": "不知不觉我中二居然已经可以 AJ 12+ 了，居然 13+ 也已经能打到 100.7% 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i> <del>我好厉害</del>",
-    "views": 162,
+    "views": 163,
     "forwards": 0,
     "media_group_id": 13940904532555069,
     "images": [
@@ -69907,21 +69907,21 @@
     "id": 5058,
     "date": "2025-03-22T04:21:31",
     "text": "做完手术已经两个月了，今天第一次用 🎤 <span class=\"spoiler\"><span>唱歌？</span></span> > <\n\n发现术后用 🎤 的感觉和术前也并没有很大区别诶，该觉得安心呢还是有些失望呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6215100200260734774.webm\">😊</i>",
-    "views": 179,
+    "views": 181,
     "forwards": 0
   },
   {
     "id": 5059,
     "date": "2025-03-22T16:21:37",
     "text": "家里家务分工好的坏处就是 缺了谁都会变得一团糟\n\n之前每次都是我做饭然后聊聊洗碗，结果昨天聊聊不在，习惯性地忘记了洗碗然后今天早上没有碗做饭了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 156,
+    "views": 157,
     "forwards": 0
   },
   {
     "id": 5060,
     "date": "2025-03-23T03:19:06",
     "text": "Tracer 买的 tasoller+ 也到了，这下和认识的人已经可以填满一整个联机房间了，开心开心 qwq\n\n<del>什么时候可以拼一车 25 时</del> 可惜 25 时的活动在上一个版本，这个版本已经结束了... 还需要找时间实现以下角色全解 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 149,
+    "views": 150,
     "forwards": 1,
     "images": [
       {
@@ -69940,7 +69940,7 @@
     "id": 5061,
     "date": "2025-03-24T00:02:05",
     "text": "既然白嫖到了 DigitalOcean credit，就用它搭起来了 aquadx 的全球代理 qwq\n\n也顺便迁移了一下服务器，从 vmware 虚拟机上迁移到了物理机上，不需要虚拟化 IO 之后应该各种性能都会好很多了。以及入口全都转移到了 VPS 供应商上之后，希望会比以前更防 DDoS <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -69959,7 +69959,7 @@
     "id": 5062,
     "date": "2025-03-24T01:12:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n黑暗料理大翻车\n\n看着冰箱里剩下的半盒鸡腿和半瓶 salsa 想试试把这两个混在一起做成意面，结果完全不搭呢... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n感觉没有鸡肉或者没有 salsa 都会很好吃 呜呜",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "media_group_id": 13942229882279445,
     "images": [
@@ -69999,14 +69999,14 @@
     "id": 5065,
     "date": "2025-03-24T14:10:44",
     "text": "<a href=\"##梦\">#梦</a> 做了也许是噩梦 梦里自己在有些恐怖氛围的初中学校，教室里只有我和另一个同学，但是这个同学在 bug，每过一段时间状态机都会重置回某个保存点，包括记忆和物理位置等等都会被重置...\n\n但是不一定是同一个保存点，所以我在尝试破解这个保存点机制试着把她从学校救出去。试了各种事情比如让她随便写一串字作为状态 ID 之类的。不记得做了什么 bug 操作让她回到了更早的保存点，救出来之前就醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n醒来之后在想，如果我是同学我会怎么做呢... 是不是会重置状态就可以做事情不会累了，也不会觉得无聊或者重复什么的，<del>也许可以接上一个 prompt 显示器让自己变成 a helpful assistant</del>",
-    "views": 130,
+    "views": 131,
     "forwards": 0
   },
   {
     "id": 5066,
     "date": "2025-03-24T14:43:26",
     "text": "奇妙，把 CI 编译机从 12500H 搬到 M2 Mac Mini 上之后，编译时间从 25 分钟缩短到了 14 分钟...\n\n明明纸上这两个 CPU 跑分都差不多的，12500H 多核跑分还更高，不知道为什么实际时间差别这么大",
-    "views": 144,
+    "views": 145,
     "forwards": 2,
     "images": [
       {
@@ -70025,14 +70025,14 @@
     "id": 5067,
     "date": "2025-03-24T16:41:26",
     "text": "呜呜呜 刚才挖冰淇凌动作太大把冰淇凌甩到了地上\n\n...然后聊聊正好在旁边，因为不想浪费冰淇凌把它捡起来用水冲了冲吃掉了？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 136,
+    "views": 137,
     "forwards": 0
   },
   {
     "id": 5068,
     "date": "2025-03-25T02:23:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n烤猪脚！\n\n好大快肉肉，先用它泡水炖了汤然后拿出来低温烤了两小时。肉肉只花了 $20，三个人吃完还剩一斤肉肉，好划算 qwq",
-    "views": 150,
+    "views": 151,
     "forwards": 4,
     "media_group_id": 13942955476186333,
     "images": [
@@ -70072,7 +70072,7 @@
     "id": 5071,
     "date": "2025-03-25T18:02:46",
     "text": "给 syama 写了一个 WebNFC 读卡器\n\n其实就是没有物理读卡器的时候用来给街机音游刷卡的小工具，原理是写卡号文件然后模拟按回车，没什么技术含量，感觉可能会有人需要就开源啦 qwq\n\n<a href=\"https://github.com/MaigoLabs/AimeWeb\">https://github.com/MaigoLabs/AimeWeb</a>",
-    "views": 116,
+    "views": 118,
     "forwards": 2,
     "images": [
       {
@@ -70091,7 +70091,7 @@
     "id": 5072,
     "date": "2025-03-25T22:41:40",
     "text": "因为 credit 花不完，部署了一个 emu bot <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>居然真的能让 emu 用很开心可爱的语气说出很恐怖的话，</span></span>效果真好 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这次是完全用 prompting 没有 fine tune 感觉也不错。其实只是 discord 这种文字对话的话，也没必要真的让说话语气像 pjsk 剧情对话一样真实，即使知道它在角色扮演也不影响大家 have fun 的 qwq\n\n（Prompt 在<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/docs/fun/llm.md\">这里</a>）",
-    "views": 114,
+    "views": 116,
     "forwards": 1,
     "reply": {
       "id": 4991,
@@ -70115,7 +70115,7 @@
     "id": 5073,
     "date": "2025-03-26T00:53:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n猪脚拉面\n\n用掉了剩下的猪脚... 的一半 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> $20 能吃三顿也太值了",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "media_group_id": 13943603117311221,
     "images": [
@@ -70150,7 +70150,7 @@
     "id": 5075,
     "date": "2025-03-26T04:09:47",
     "text": "chu<span class=\"spoiler\"><span><del>nithm pen</span></span></del>guin\n\nchuguin",
-    "views": 110,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -70169,7 +70169,7 @@
     "id": 5076,
     "date": "2025-03-26T04:31:29",
     "text": "<a href=\"https://t.me/addstickers/azalea_2022\">表情包</a>加入「chuguin」系列\n\n（我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 109,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 13943707912922349,
     "images": [
@@ -70213,7 +70213,7 @@
     "id": 5079,
     "date": "2025-03-26T20:50:54",
     "text": "还在想把隐藏功能藏在哪里比较合适\n\n然后想起来其实可以根本不做 UI，直接把 sdk 暴露到 window 里让大家调命令行 qwq",
-    "views": 66,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
