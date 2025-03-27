@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-03-27T10:12:15.876252+00:00</updated>
+  <updated>2025-03-27T12:12:32.419495+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5082</id>
+    <title>小桂桂的回忆录 📒 #5082</title>
+    <updated>2025-03-27T11:37:31+00:00</updated>
+    <content>&lt;p&gt;相信前几天&lt;a href="https://github.com/langgenius/dify/pull/16819"&gt;某个 dify PR&lt;/a&gt; 大家肯定听说了。改图标把私钥推上去还给上游开 pr 确实离谱，但是我觉得评论区里这 106 个发评论炒作凑热闹的人更离谱...&lt;/p&gt;
+&lt;p&gt;这种 pr 明明是 github 上天天都在发生的家常事，在同一个仓库搜索 &lt;code&gt;is:closed is:unmerged&lt;/code&gt; 就会发现&lt;a href="https://github.com/langgenius/dify/pull/16000"&gt;差不多的事情&lt;/a&gt;这两周里已经发生了五六次了...&lt;/p&gt;
+&lt;p&gt;感觉会不小心把部署文件 pr 上来更多是 github 的 ux 设计问题，叉仓库的时候默认就假设了你想给上游做贡献而不是自己用。一个大黄框里摆一个超显眼的 pr 按钮的话，谁看到都会觉得应该点吧 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5082" rel="alternate"/>
+  </entry>
   <entry>
     <id>5080</id>
     <title>小桂桂的回忆录 📒 #5080</title>
