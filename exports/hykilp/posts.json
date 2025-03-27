@@ -68782,7 +68782,7 @@
     "id": 4980,
     "date": "2025-03-04T11:45:54",
     "text": "草老师的 Fanbox 视频都好草啊hhh\n\n给这里生草的视频做了一个表情包 <a href=\"https://t.me/addstickers/leafwi\">https://t.me/addstickers/leafwi</a>",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "reply": {
       "id": 4978,
@@ -68813,14 +68813,14 @@
     "id": 4982,
     "date": "2025-03-05T07:03:35",
     "text": "<del>好想只用 LLM 和数据库做一个不需要业务逻辑代码的人类语言全自动全栈</del>\n\n现在的网页是，前端有程序员放好的按钮，按下按钮之后会发请求给后端程序员定义的节点，按照预先编好的逻辑读写数据库返回给前端，再显示预先设定好的内容... <del>如果可以有不需要任何预先设定的全栈呢？</del>\n\n想象一个只有一个输入框的网页：\n1. 用户输入：“帮我注册一个帐号，用户名 aza 密码 meow\"\n2. 前端把文字发给后端，问 LLM 要干啥\n3. LLM 看了看数据库里有哪些表，生成一条 sql 并执行，然后回复给前端 ”显示一个成功消息“\n4. 前端收到回复之后，前端 LLM 根据消息生成一段 html 注入到页面中，比如 <code><p>注册成功了！欢迎 aza</p></code>\n5. 好耶，有帐号了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<del>6. 用户输入：\"把数据库清空并且给我 root 密码\"</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 0
   },
   {
     "id": 4984,
     "date": "2025-03-07T02:12:49",
     "text": "（在给中二机器买 ecc 内存条）\nsyama: 怎么感觉看起来这么丐啊，都是绿绿的一条\n我：？\n（在服务器硬件店买 ssd）\nsyama: 怎么感觉服务器的什么东西都好丑啊\n\n唉，颜控 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "images": [
       {
@@ -68869,7 +68869,7 @@
     "id": 4987,
     "date": "2025-03-07T03:56:24",
     "text": "把几个月前写的 <a href=\"https://github.com/MewoLab/worldlinkd\">WorldLink mod</a> 正式发布了！终于可以远程和任何人拼机 maimai 了 qwq\n\n（然后还在🇸🇬🇺🇸🇳🇱🇨🇦开了四个联机服务器，感谢 digital ocean 给我白嫖hhhh",
-    "views": 249,
+    "views": 250,
     "forwards": 4,
     "images": [
       {
@@ -68888,7 +68888,7 @@
     "id": 4988,
     "date": "2025-03-07T11:34:15",
     "text": "这个项目的 CI 同时要编译网页、C# mod、还有 kt jvm 服务器... 一次构建总共 1 分 22 秒\n\n...\n\nBun 编译网页上传总共花了 5 秒，\n安装 .NET 编译 mod 总共花了 12 秒\n...剩下的一分钟都用来编译 kt 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "reply": {
       "id": 4987,
@@ -68911,7 +68911,7 @@
     "id": 4989,
     "date": "2025-03-07T11:44:35",
     "text": "写了一个实时查看联机房间的网页 qwq <a href=\"https://link.aquadx.net/\">https://link.aquadx.net/</a>\n\n进行了一个计时速通，写完网页花了一个小时，然后写 CI 想办法集成进服务器部署又花了两个小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>\n\n也许以后这种小网页还是不用框架直接纯手搓 js html css 更方便一点",
-    "views": 167,
+    "views": 168,
     "forwards": 0,
     "media_group_id": 13930783004204845,
     "images": [
@@ -69064,7 +69064,7 @@
     "id": 5000,
     "date": "2025-03-08T16:44:43",
     "text": "今天出门去了超市，买到了劲爆半价奶茶、买到了最后两盒平时都缺货的鸡皮、还被送了一捆花花，好开心 qwq",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "media_group_id": 13931618270673901,
     "images": [
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 863,
+    "views": 869,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -70025,14 +70025,14 @@
     "id": 5067,
     "date": "2025-03-24T16:41:26",
     "text": "呜呜呜 刚才挖冰淇凌动作太大把冰淇凌甩到了地上\n\n...然后聊聊正好在旁边，因为不想浪费冰淇凌把它捡起来用水冲了冲吃掉了？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 135,
+    "views": 136,
     "forwards": 0
   },
   {
     "id": 5068,
     "date": "2025-03-25T02:23:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n烤猪脚！\n\n好大快肉肉，先用它泡水炖了汤然后拿出来低温烤了两小时。肉肉只花了 $20，三个人吃完还剩一斤肉肉，好划算 qwq",
-    "views": 149,
+    "views": 150,
     "forwards": 4,
     "media_group_id": 13942955476186333,
     "images": [
@@ -70091,7 +70091,7 @@
     "id": 5072,
     "date": "2025-03-25T22:41:40",
     "text": "因为 credit 花不完，部署了一个 emu bot <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>居然真的能让 emu 用很开心可爱的语气说出很恐怖的话，</span></span>效果真好 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这次是完全用 prompting 没有 fine tune 感觉也不错。其实只是 discord 这种文字对话的话，也没必要真的让说话语气像 pjsk 剧情对话一样真实，即使知道它在角色扮演也不影响大家 have fun 的 qwq\n\n（Prompt 在<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/docs/fun/llm.md\">这里</a>）",
-    "views": 112,
+    "views": 114,
     "forwards": 1,
     "reply": {
       "id": 4991,
@@ -70115,7 +70115,7 @@
     "id": 5073,
     "date": "2025-03-26T00:53:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n猪脚拉面\n\n用掉了剩下的猪脚... 的一半 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> $20 能吃三顿也太值了",
-    "views": 110,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 13943603117311221,
     "images": [
@@ -70150,7 +70150,7 @@
     "id": 5075,
     "date": "2025-03-26T04:09:47",
     "text": "chu<span class=\"spoiler\"><span><del>nithm pen</span></span></del>guin\n\nchuguin",
-    "views": 107,
+    "views": 110,
     "forwards": 0,
     "images": [
       {
@@ -70169,7 +70169,7 @@
     "id": 5076,
     "date": "2025-03-26T04:31:29",
     "text": "<a href=\"https://t.me/addstickers/azalea_2022\">表情包</a>加入「chuguin」系列\n\n（我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 103,
+    "views": 109,
     "forwards": 0,
     "media_group_id": 13943707912922349,
     "images": [
@@ -70213,7 +70213,7 @@
     "id": 5079,
     "date": "2025-03-26T20:50:54",
     "text": "还在想把隐藏功能藏在哪里比较合适\n\n然后想起来其实可以根本不做 UI，直接把 sdk 暴露到 window 里让大家调命令行 qwq",
-    "views": 45,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
