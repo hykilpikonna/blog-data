@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 272,
+    "views": 274,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 256,
+    "views": 258,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 228,
+    "views": 230,
     "forwards": 1,
     "images": [
       {
@@ -61447,7 +61447,7 @@
     "id": 4485,
     "date": "2024-09-26T04:33:21",
     "text": "我真的好不擅长数学...\n\nCSC458 计网课的大作业要用 cpp 实现一个网卡，我只用了三个小时就写完了，单元测试 100% 通过\n\nCSC311 机器学习理论课的作业有很多抽象数学，我这三天总共花了 14 个小时在这上面，做着做着发现完全忘记矩阵乘法维度的规则了去补补，又发现忘了非零特征值是什么意思了，怎样给偏导数求导也忘记了... 明明以为留三天的时间肯定够的，交上去的时候还是要空掉 20% 的分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n怎么办好想退课... 但是现在是最后一年，退课就会打乱下学期的计划或者要晚一年毕业了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 5,
     "media_group_id": 13818601608875197,
     "images": [
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "images": [
       {
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1182,
+    "views": 1183,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 910,
+    "views": 912,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -69574,7 +69574,7 @@
     "id": 5035,
     "date": "2025-03-16T22:19:06",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n认真做了一次肉酱意面\n\n之前做意面一直是北美超懒猫做法，煮面然后微波炉热一罐酱热几个肉丸混在一起就好了。这次真的切了洋葱热了黄油炒了肉沫，还放了几片生火腿，虽然麻烦了很多但是确实有更好吃 qwq",
-    "views": 209,
+    "views": 210,
     "forwards": 4,
     "media_group_id": 13937308371538373,
     "images": [
@@ -69907,7 +69907,7 @@
     "id": 5058,
     "date": "2025-03-22T04:21:31",
     "text": "做完手术已经两个月了，今天第一次用 🎤 <span class=\"spoiler\"><span>唱歌？</span></span> > <\n\n发现术后用 🎤 的感觉和术前也并没有很大区别诶，该觉得安心呢还是有些失望呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6215100200260734774.webm\">😊</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 0
   },
   {
@@ -69940,7 +69940,7 @@
     "id": 5061,
     "date": "2025-03-24T00:02:05",
     "text": "既然白嫖到了 DigitalOcean credit，就用它搭起来了 aquadx 的全球代理 qwq\n\n也顺便迁移了一下服务器，从 vmware 虚拟机上迁移到了物理机上，不需要虚拟化 IO 之后应该各种性能都会好很多了。以及入口全都转移到了 VPS 供应商上之后，希望会比以前更防 DDoS <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 163,
+    "views": 164,
     "forwards": 1,
     "images": [
       {
@@ -69959,7 +69959,7 @@
     "id": 5062,
     "date": "2025-03-24T01:12:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n黑暗料理大翻车\n\n看着冰箱里剩下的半盒鸡腿和半瓶 salsa 想试试把这两个混在一起做成意面，结果完全不搭呢... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n感觉没有鸡肉或者没有 salsa 都会很好吃 呜呜",
-    "views": 155,
+    "views": 156,
     "forwards": 0,
     "media_group_id": 13942229882279445,
     "images": [
@@ -69999,14 +69999,14 @@
     "id": 5065,
     "date": "2025-03-24T14:10:44",
     "text": "<a href=\"##梦\">#梦</a> 做了也许是噩梦 梦里自己在有些恐怖氛围的初中学校，教室里只有我和另一个同学，但是这个同学在 bug，每过一段时间状态机都会重置回某个保存点，包括记忆和物理位置等等都会被重置...\n\n但是不一定是同一个保存点，所以我在尝试破解这个保存点机制试着把她从学校救出去。试了各种事情比如让她随便写一串字作为状态 ID 之类的。不记得做了什么 bug 操作让她回到了更早的保存点，救出来之前就醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n醒来之后在想，如果我是同学我会怎么做呢... 是不是会重置状态就可以做事情不会累了，也不会觉得无聊或者重复什么的，<del>也许可以接上一个 prompt 显示器让自己变成 a helpful assistant</del>",
-    "views": 158,
+    "views": 161,
     "forwards": 0
   },
   {
     "id": 5066,
     "date": "2025-03-24T14:43:26",
     "text": "奇妙，把 CI 编译机从 12500H 搬到 M2 Mac Mini 上之后，编译时间从 25 分钟缩短到了 14 分钟...\n\n明明纸上这两个 CPU 跑分都差不多的，12500H 多核跑分还更高，不知道为什么实际时间差别这么大",
-    "views": 172,
+    "views": 174,
     "forwards": 2,
     "images": [
       {
@@ -70025,14 +70025,14 @@
     "id": 5067,
     "date": "2025-03-24T16:41:26",
     "text": "呜呜呜 刚才挖冰淇凌动作太大把冰淇凌甩到了地上\n\n...然后聊聊正好在旁边，因为不想浪费冰淇凌把它捡起来用水冲了冲吃掉了？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 164,
+    "views": 165,
     "forwards": 0
   },
   {
     "id": 5068,
     "date": "2025-03-25T02:23:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n烤猪脚！\n\n好大快肉肉，先用它泡水炖了汤然后拿出来低温烤了两小时。肉肉只花了 $20，三个人吃完还剩一斤肉肉，好划算 qwq",
-    "views": 174,
+    "views": 175,
     "forwards": 4,
     "media_group_id": 13942955476186333,
     "images": [
@@ -70072,7 +70072,7 @@
     "id": 5071,
     "date": "2025-03-25T18:02:46",
     "text": "给 syama 写了一个 WebNFC 读卡器\n\n其实就是没有物理读卡器的时候用来给街机音游刷卡的小工具，原理是写卡号文件然后模拟按回车，没什么技术含量，感觉可能会有人需要就开源啦 qwq\n\n<a href=\"https://github.com/MaigoLabs/AimeWeb\">https://github.com/MaigoLabs/AimeWeb</a>",
-    "views": 144,
+    "views": 145,
     "forwards": 2,
     "images": [
       {
@@ -70091,7 +70091,7 @@
     "id": 5072,
     "date": "2025-03-25T22:41:40",
     "text": "因为 credit 花不完，部署了一个 emu bot <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>居然真的能让 emu 用很开心可爱的语气说出很恐怖的话，</span></span>效果真好 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这次是完全用 prompting 没有 fine tune 感觉也不错。其实只是 discord 这种文字对话的话，也没必要真的让说话语气像 pjsk 剧情对话一样真实，即使知道它在角色扮演也不影响大家 have fun 的 qwq\n\n（Prompt 在<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/docs/fun/llm.md\">这里</a>）",
-    "views": 156,
+    "views": 159,
     "forwards": 1,
     "reply": {
       "id": 4991,
@@ -70115,7 +70115,7 @@
     "id": 5073,
     "date": "2025-03-26T00:53:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n猪脚拉面\n\n用掉了剩下的猪脚... 的一半 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> $20 能吃三顿也太值了",
-    "views": 144,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 13943603117311221,
     "images": [
@@ -70150,7 +70150,7 @@
     "id": 5075,
     "date": "2025-03-26T04:09:47",
     "text": "chu<span class=\"spoiler\"><span><del>nithm pen</span></span></del>guin\n\nchuguin",
-    "views": 153,
+    "views": 155,
     "forwards": 0,
     "images": [
       {
@@ -70169,7 +70169,7 @@
     "id": 5076,
     "date": "2025-03-26T04:31:29",
     "text": "<a href=\"https://t.me/addstickers/azalea_2022\">表情包</a>加入「chuguin」系列\n\n（我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 148,
+    "views": 150,
     "forwards": 0,
     "media_group_id": 13943707912922349,
     "images": [
@@ -70213,7 +70213,7 @@
     "id": 5079,
     "date": "2025-03-26T20:50:54",
     "text": "还在想把隐藏功能藏在哪里比较合适\n\n然后想起来其实可以根本不做 UI，直接把 sdk 暴露到 window 里让大家调命令行 qwq",
-    "views": 148,
+    "views": 150,
     "forwards": 0,
     "images": [
       {
@@ -70232,7 +70232,7 @@
     "id": 5080,
     "date": "2025-03-27T05:35:32",
     "text": "今天又在做 +1,762 −10,838 行的<a href=\"https://github.com/MewoLab/AquaDX/pull/134/files\">大重构</a>，累累\n\nkt 真的好简洁，把 java 重构成 kt 之后代码长度直接缩短到了原本长度的 16%\n\n不过也正因为 java 繁琐，居然舞萌中二音击全都重构成 kt 之后这个项目总代码行数依然是 java 更多... 🌚",
-    "views": 143,
+    "views": 145,
     "forwards": 0,
     "media_group_id": 13944429858403349,
     "images": [
@@ -70262,8 +70262,8 @@
     "id": 5082,
     "date": "2025-03-27T11:37:31",
     "text": "相信前几天<a href=\"https://github.com/langgenius/dify/pull/16819\">某个 dify PR</a> 大家肯定听说了。改图标把私钥推上去还给上游开 pr 确实离谱，但是我觉得评论区里这 106 个发评论炒作凑热闹的人更离谱...\n\n这种 pr 明明是 github 上天天都在发生的家常事，在同一个仓库搜索 <code>is:closed is:unmerged</code> 就会发现<a href=\"https://github.com/langgenius/dify/pull/16000\">差不多的事情</a>这两周里已经发生了五六次了...\n\n感觉会不小心把部署文件 pr 上来更多是 github 的 ux 设计问题，叉仓库的时候默认就假设了你想给上游做贡献而不是自己用。一个大黄框里摆一个超显眼的 pr 按钮的话，谁看到都会觉得应该点吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 138,
-    "forwards": 0,
+    "views": 143,
+    "forwards": 1,
     "media_group_id": 13944603614114381,
     "images": [
       {
@@ -70292,7 +70292,7 @@
     "id": 5084,
     "date": "2025-03-28T01:01:02",
     "text": "今天天气好好，出门散步摸草\n\n走着走着走到了一个小公园，荡了秋千，聊聊推着我的感觉好奇妙好催眠，好想就在秋千上睡过去。还玩了那个弹簧杠杆椅子装置（<del>忘记叫什么了</del> 是跷跷板）\n\n好开心，不知道上次玩这些已经是多少年前了 qwq <del>等以后有固定的家了一定要在家里买一张秋千床</del>",
-    "views": 132,
+    "views": 135,
     "forwards": 2,
     "media_group_id": 13944989298419221,
     "images": [
@@ -70372,14 +70372,14 @@
     "id": 5091,
     "date": "2025-03-28T02:18:25",
     "text": "在想 现实中的树一定是无环的吗？世界这么大总会有一棵树有两根树枝分叉之后长到一起去的吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 132,
+    "views": 135,
     "forwards": 1
   },
   {
     "id": 5092,
     "date": "2025-03-28T14:55:53",
     "text": "买了一个酒杯，好好看",
-    "views": 119,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
@@ -70398,7 +70398,7 @@
     "id": 5093,
     "date": "2025-03-28T15:21:04",
     "text": "<a href=\"##小桂桂今天吃什么\">#小桂桂今天吃什么</a>\n炒方便面杯，干杯！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n重新定义一下杯面",
-    "views": 128,
+    "views": 130,
     "forwards": 3,
     "media_group_id": 13945402114660557,
     "images": [
@@ -70438,21 +70438,21 @@
     "id": 5096,
     "date": "2025-03-28T16:11:27",
     "text": "（在犹豫要不要出门，犹豫超级久）\n聊聊：能不能定下主意\n我：好 那我决定了！我要在家里再犹豫半小时",
-    "views": 130,
+    "views": 133,
     "forwards": 0
   },
   {
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 118,
+    "views": 124,
     "forwards": 0
   },
   {
     "id": 5098,
     "date": "2025-03-29T19:42:46",
     "text": "今天打开账号 profile 发现居然已经两个月没玩 maimai 了... 果然所有精力都用来逆向游戏魔改游戏就没精力玩游戏了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 108,
+    "views": 118,
     "forwards": 0,
     "images": [
       {
@@ -70471,7 +70471,7 @@
     "id": 5099,
     "date": "2025-03-29T21:42:34",
     "text": "不要把相机放在奇怪的地方啊啊\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 104,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 13946276436934485,
     "images": [
@@ -70501,7 +70501,7 @@
     "id": 5101,
     "date": "2025-03-29T23:15:07",
     "text": "Girls Band Cry 看完第三集<span class=\"spoiler\"><span>完全爱上 mmk 了！！> < 我完全需要一个能看穿我看穿一切心思的可靠帅气大姐姐啊啊 好羡慕好羡慕 nina</span></span>",
-    "views": 105,
+    "views": 116,
     "forwards": 0,
     "files": [
       {
@@ -70523,7 +70523,7 @@
     "id": 5102,
     "date": "2025-03-30T04:58:48",
     "text": "今天被朋友邀请去看了多伦多大 Allegro 中文合唱团的年度音乐会，好棒好棒！大家都好厉害\n\n之后和他一起去吃了烤串，聊了好多，开心开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n这个朋友是高中的同学，也是当时很好的朋友。记得高中的时候总是和他一起拿学校的 iPad 打音游（当时在玩 Arcaea 和 Cytus 2）还有放学偷偷去学校教堂弹那里的钢琴，好怀念。当时他钢琴弹得超厉害，相比我就只能弹一些安静的简单的曲子 quq\n\n他也是我唯一一个那个时候在现实中认识并且现在还有联系的朋友... 那时候我超社恐 > < 结果现在我不社恐了但是看他还像以前一样社恐<span class=\"spoiler\"><span>，今天邀请我来居然是真的在大学里没交到几个其他朋友 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 太可怜了</span></span>",
-    "views": 84,
+    "views": 98,
     "forwards": 0,
     "files": [
       {
@@ -70539,6 +70539,88 @@
         "url": "media/5102.mp4",
         "size": 37945961,
         "thumb": "media/5102.mp4_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5103,
+    "date": "2025-03-30T16:12:20",
+    "text": "补上一些昨天的照片 qwq\n1. 门票设计很棒\n2-3. Knox College 建筑好好看\n4. 肉肉\n5. 回家的路上看到树枝冻上了一层冰",
+    "views": 55,
+    "forwards": 0,
+    "media_group_id": 13946809124733261,
+    "images": [
+      {
+        "width": 900,
+        "height": 503,
+        "date": "2025-03-30T16:12:10",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-30_16-12-10.jpg",
+        "url": "media/5103.jpg",
+        "size": 107210,
+        "thumb": "media/5103.jpg_thumb.jpg"
+      },
+      {
+        "width": 2033,
+        "height": 1524,
+        "date": "2025-03-30T16:12:18",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-30_16-12-18.jpg",
+        "url": "media/5104.jpg",
+        "size": 967353,
+        "thumb": "media/5104.jpg_thumb.jpg"
+      },
+      {
+        "width": 2033,
+        "height": 1524,
+        "date": "2025-03-30T16:12:18",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-30_16-12-18.jpg",
+        "url": "media/5105.jpg",
+        "size": 492658,
+        "thumb": "media/5105.jpg_thumb.jpg"
+      },
+      {
+        "width": 2033,
+        "height": 1524,
+        "date": "2025-03-30T16:12:19",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-30_16-12-19.jpg",
+        "url": "media/5106.jpg",
+        "size": 370335,
+        "thumb": "media/5106.jpg_thumb.jpg"
+      },
+      {
+        "width": 2033,
+        "height": 1524,
+        "date": "2025-03-30T16:12:19",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-30_16-12-19.jpg",
+        "url": "media/5107.jpg",
+        "size": 596000,
+        "thumb": "media/5107.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5108,
+    "date": "2025-03-30T17:50:28",
+    "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
+    "views": 18,
+    "forwards": 0,
+    "forwarded_from": {
+      "name": "One Channel! 跨儿骄傲联合广播"
+    },
+    "images": [
+      {
+        "width": 1280,
+        "height": 712,
+        "date": "2025-03-30T15:44:48",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-30_15-44-48.jpg",
+        "url": "media/5108.jpg",
+        "size": 82532,
+        "thumb": "media/5108.jpg_thumb.jpg"
       }
     ]
   }
