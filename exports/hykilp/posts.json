@@ -41672,7 +41672,7 @@
     "id": 3086,
     "date": "2023-12-28T04:55:50",
     "text": "+ maimai DX！\n\n它真的好大好重！送到的时候是一个大卡车开过来司机专门打电话联系我了，送上楼还被公寓物业骂了说需要申请货物电梯，然后三个人一起才把它搬上来拼好（感谢 Celestium 帮忙 qwq\n\n用了一段时间把软件调好啦，感谢蓝夏的魔改！现在还缺读卡器和自起脚本，私服似乎也已经兼容了 1.40 的样子（虽然没有做修改，可能是这两个版本之间 API 本身就没有改动吧）\n\n总之明天再继续折腾了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 3,
     "media_group_id": 13629914800119629,
     "images": [
@@ -53753,7 +53753,7 @@
     "views": 76,
     "forwards": 1,
     "forwarded_from": {
-      "name": "苟且臆想"
+      "name": "Fox News"
     },
     "images": [
       {
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1184,
+    "views": 1185,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1018,
+    "views": 1019,
     "forwards": 7,
     "files": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1327,
+    "views": 1329,
     "forwards": 9,
     "files": [
       {
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1129,
+    "views": 1136,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69134,7 +69134,7 @@
     "id": 5006,
     "date": "2025-03-08T18:41:28",
     "text": "把花花种起来了，房间香香的 <i class=\"custom-emoji\" emoji-src=\"emoji/6163291628971758736.webp\">😺</i>\n\n女生节快乐哦",
-    "views": 276,
+    "views": 277,
     "forwards": 0,
     "reply": {
       "id": 5000,
@@ -69158,7 +69158,7 @@
     "id": 5007,
     "date": "2025-03-09T04:25:35",
     "text": "哇啊啊啊 去电影院看了高达 GQuX，感觉找到了 FLCL 的正统续作 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 239,
+    "views": 240,
     "forwards": 0
   },
   {
@@ -69395,7 +69395,7 @@
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 292,
+    "views": 293,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "images": [
       {
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69574,7 +69574,7 @@
     "id": 5035,
     "date": "2025-03-16T22:19:06",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n认真做了一次肉酱意面\n\n之前做意面一直是北美超懒猫做法，煮面然后微波炉热一罐酱热几个肉丸混在一起就好了。这次真的切了洋葱热了黄油炒了肉沫，还放了几片生火腿，虽然麻烦了很多但是确实有更好吃 qwq",
-    "views": 210,
+    "views": 212,
     "forwards": 4,
     "media_group_id": 13937308371538373,
     "images": [
@@ -69877,7 +69877,7 @@
     "id": 5056,
     "date": "2025-03-22T03:11:06",
     "text": "不知不觉我中二居然已经可以 AJ 12+ 了，居然 13+ 也已经能打到 100.7% 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i> <del>我好厉害</del>",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "media_group_id": 13940904532555069,
     "images": [
@@ -70072,7 +70072,7 @@
     "id": 5071,
     "date": "2025-03-25T18:02:46",
     "text": "给 syama 写了一个 WebNFC 读卡器\n\n其实就是没有物理读卡器的时候用来给街机音游刷卡的小工具，原理是写卡号文件然后模拟按回车，没什么技术含量，感觉可能会有人需要就开源啦 qwq\n\n<a href=\"https://github.com/MaigoLabs/AimeWeb\">https://github.com/MaigoLabs/AimeWeb</a>",
-    "views": 147,
+    "views": 148,
     "forwards": 2,
     "images": [
       {
@@ -70372,14 +70372,14 @@
     "id": 5091,
     "date": "2025-03-28T02:18:25",
     "text": "在想 现实中的树一定是无环的吗？世界这么大总会有一棵树有两根树枝分叉之后长到一起去的吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 1
   },
   {
     "id": 5092,
     "date": "2025-03-28T14:55:53",
     "text": "买了一个酒杯，好好看",
-    "views": 125,
+    "views": 126,
     "forwards": 1,
     "images": [
       {
@@ -70398,7 +70398,7 @@
     "id": 5093,
     "date": "2025-03-28T15:21:04",
     "text": "<a href=\"##小桂桂今天吃什么\">#小桂桂今天吃什么</a>\n炒方便面杯，干杯！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n重新定义一下杯面",
-    "views": 133,
+    "views": 134,
     "forwards": 3,
     "media_group_id": 13945402114660557,
     "images": [
@@ -70438,21 +70438,21 @@
     "id": 5096,
     "date": "2025-03-28T16:11:27",
     "text": "（在犹豫要不要出门，犹豫超级久）\n聊聊：能不能定下主意\n我：好 那我决定了！我要在家里再犹豫半小时",
-    "views": 137,
+    "views": 143,
     "forwards": 0
   },
   {
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 128,
+    "views": 130,
     "forwards": 0
   },
   {
     "id": 5098,
     "date": "2025-03-29T19:42:46",
     "text": "今天打开账号 profile 发现居然已经两个月没玩 maimai 了... 果然所有精力都用来逆向游戏魔改游戏就没精力玩游戏了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 125,
+    "views": 127,
     "forwards": 0,
     "images": [
       {
@@ -70471,7 +70471,7 @@
     "id": 5099,
     "date": "2025-03-29T21:42:34",
     "text": "不要把相机放在奇怪的地方啊啊\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 122,
+    "views": 124,
     "forwards": 0,
     "media_group_id": 13946276436934485,
     "images": [
@@ -70501,7 +70501,7 @@
     "id": 5101,
     "date": "2025-03-29T23:15:07",
     "text": "Girls Band Cry 看完第三集<span class=\"spoiler\"><span>完全爱上 mmk 了！！> < 我完全需要一个能看穿我看穿一切心思的可靠帅气大姐姐啊啊 好羡慕好羡慕 nina</span></span>",
-    "views": 124,
+    "views": 127,
     "forwards": 0,
     "files": [
       {
@@ -70523,7 +70523,7 @@
     "id": 5102,
     "date": "2025-03-30T04:58:48",
     "text": "今天被朋友邀请去看了多伦多大 Allegro 中文合唱团的年度音乐会，好棒好棒！大家都好厉害\n\n之后和他一起去吃了烤串，聊了好多，开心开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n这个朋友是高中的同学，也是当时很好的朋友。记得高中的时候总是和他一起拿学校的 iPad 打音游（当时在玩 Arcaea 和 Cytus 2）还有放学偷偷去学校教堂弹那里的钢琴，好怀念。当时他钢琴弹得超厉害，相比我就只能弹一些安静的简单的曲子 quq\n\n他也是我唯一一个那个时候在现实中认识并且现在还有联系的朋友... 那时候我超社恐 > < 结果现在我不社恐了但是看他还像以前一样社恐<span class=\"spoiler\"><span>，今天邀请我来居然是真的在大学里没交到几个其他朋友 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 太可怜了</span></span>",
-    "views": 112,
+    "views": 117,
     "forwards": 0,
     "files": [
       {
@@ -70546,7 +70546,7 @@
     "id": 5103,
     "date": "2025-03-30T16:12:20",
     "text": "补上一些昨天的照片 qwq\n1. 门票设计很棒\n2-3. Knox College 建筑好好看\n4. 肉肉\n5. 回家的路上看到树枝冻上了一层冰",
-    "views": 89,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13946809124733261,
     "images": [
@@ -70606,7 +70606,7 @@
     "id": 5108,
     "date": "2025-03-30T17:50:28",
     "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
-    "views": 43,
+    "views": 50,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -70621,6 +70621,36 @@
         "url": "media/5108.jpg",
         "size": 82532,
         "thumb": "media/5108.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5109,
+    "date": "2025-03-31T16:56:23",
+    "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
+    "views": 39,
+    "forwards": 0,
+    "media_group_id": 13947521470139469,
+    "images": [
+      {
+        "width": 305,
+        "height": 126,
+        "date": "2025-03-31T16:56:23",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-31_16-56-23.jpg",
+        "url": "media/5109.jpg",
+        "size": 13105,
+        "thumb": "media/5109.jpg_thumb.jpg"
+      },
+      {
+        "width": 800,
+        "height": 424,
+        "date": "2025-03-31T16:56:23",
+        "media_type": "photo",
+        "original_name": "photo_2025-03-31_16-56-23.jpg",
+        "url": "media/5110.jpg",
+        "size": 32868,
+        "thumb": "media/5110.jpg_thumb.jpg"
       }
     ]
   }
