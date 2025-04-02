@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-04-02T06:13:52.907331+00:00</updated>
+  <updated>2025-04-02T08:12:01.883285+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5114</id>
+    <title>小桂桂的回忆录 📒 #5114</title>
+    <updated>2025-04-02T07:48:08+00:00</updated>
+    <content>&lt;p&gt;这个网页做得好安全，从弹窗里打开 devtools 完全找不到游戏的 js 代码... 脚本似乎是通过弹窗加载之后回调给主窗口然后主窗口注入进来的，奇妙&lt;/p&gt;
+&lt;p&gt;弹窗里无论断点打在哪里都没办法暂停进 js 源码，因为这个窗口里没有源码，主窗口里有源码但是又没办法通过断点很方便地找到调用的地方... 这样反调试好聪明&lt;/p&gt;
+&lt;p&gt;最后找到了存档位置（是 localStorage.ClickerGameStore）然后通过改存档通关了 qwq &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;（以及发现 discord 客户端居然把 localStorage 全局变量删掉了... 确实能防止其他脚本读到 localStorage，私货好多啊&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5114" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5113</id>
+    <title>小桂桂的回忆录 📒 #5113</title>
+    <updated>2025-04-02T07:37:42+00:00</updated>
+    <content>&lt;p&gt;Discord 愚人节摸草小游戏好玩喵&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5113" rel="alternate"/>
+  </entry>
   <entry>
     <id>5112</id>
     <title>小桂桂的回忆录 📒 #5112</title>
