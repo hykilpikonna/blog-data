@@ -53398,7 +53398,7 @@
     "id": 3922,
     "date": "2024-06-05T18:32:29",
     "text": "呜呜 买错线了，买了母线然后收到 mai 按键发现应该买公线，<del>变成 les 线了</del>\n\n赶快下单了一些公头... 江苏仓顺丰特快希望能当天到吧",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13740898798340965,
     "images": [
@@ -53560,7 +53560,7 @@
     "id": 3932,
     "date": "2024-06-06T15:33:52",
     "text": "获得新的旅行伙伴「半径 25 厘米的窗户」<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n（回忆和视频明天再整理吧，先睡睡",
-    "views": 97,
+    "views": 98,
     "forwards": 1,
     "media_group_id": 13741504255967757,
     "images": [
@@ -53610,7 +53610,7 @@
     "id": 3936,
     "date": "2024-06-07T10:00:46",
     "text": "和 syama 去餐厅，点了一个香草冰淇淋面包，冰淇淋是冷的，面包是刚烤出来热的\n\nsyama: 这个又热又冷的感觉好棒\n我：所以要趁热... 趁又热又冷吃！",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 13742035573681909,
     "images": [
@@ -53639,7 +53639,7 @@
   {
     "id": 3938,
     "date": "2024-06-08T08:55:48",
-    "views": 98,
+    "views": 99,
     "forwards": 2,
     "files": [
       {
@@ -53750,7 +53750,7 @@
     "id": 3947,
     "date": "2024-06-09T19:16:55",
     "text": "<a href=\"##面积\">#面积</a>\n\nq234rty + 桂桂 + syama 来我和 Winslow 家进行了一个熬夜 PVZ 杂交版和车万的团建 🌝",
-    "views": 76,
+    "views": 77,
     "forwards": 1,
     "forwarded_from": {
       "name": "摸鱼见闻"
@@ -53772,7 +53772,7 @@
     "id": 3948,
     "date": "2024-06-10T00:43:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好喜欢和歌曲同步的微波炉声音\n\n<a href=\"https://www.youtube.com/watch?v=o1YrDDb_9AQ\">Youtube</a>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "files": [
       {
@@ -53794,14 +53794,14 @@
     "id": 3950,
     "date": "2024-06-10T01:13:55",
     "text": "在想为什么没有中日混合输入法，把假名加入中文输入法的候选词里... 这样就可以用读音打假名并且用拼音打汉字了？🤔",
-    "views": 94,
+    "views": 95,
     "forwards": 0
   },
   {
     "id": 3951,
     "date": "2024-06-10T02:25:42",
     "text": "火车上旁边座位遇到了一个在小米做 EE 的人，看到我在画 pcb 来搭话了，原本一个人坐火车应该会很无聊但是这次聊得很开心，加到了微信 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n...不过聊着聊着差点坐过站 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -54456,7 +54456,7 @@
     "id": 3997,
     "date": "2024-06-15T12:05:25",
     "text": "猫打的",
-    "views": 92,
+    "views": 93,
     "forwards": 1,
     "media_group_id": 13747625006503965,
     "images": [
@@ -65904,7 +65904,7 @@
     "id": 4786,
     "date": "2024-12-22T01:56:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "images": [
       {
@@ -65923,7 +65923,7 @@
     "id": 4787,
     "date": "2024-12-22T02:21:47",
     "text": "几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...\n\nVRChat 的语言 Udon# 真的很 <i class=\"custom-emoji\" emoji-src=\"emoji/6327950654941694400.webp\">🤡</i>，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚\n\n所有数据都存进 Dict 把它当做类用，把类名写进 <code>__type__</code> 里面，所有值都存成 Any，需要访问的时候再动态 cast，<del>和 python 一样完全不检查类型</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>\n\n...这样一番折腾之后终于重新实现了 C# 原本就有的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 唉 VRChat 罪大恶极",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -66104,7 +66104,7 @@
     "id": 4800,
     "date": "2024-12-25T08:48:31",
     "text": "圣诞快乐！\n\n（依然不会打这个圣诞歌，14+ 好抽象啊",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 13880932092730933,
     "images": [
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1180,
+    "views": 1181,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69261,7 +69261,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 372,
+    "views": 373,
     "forwards": 3,
     "images": [
       {
@@ -69280,7 +69280,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 269,
+    "views": 270,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "images": [
       {
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 185,
+    "views": 186,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69482,7 +69482,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -69494,7 +69494,7 @@
     "id": 5029,
     "date": "2025-03-16T11:15:53",
     "text": "前几天去宠物店看到了好可爱的一对鹦鹉 qwq\n\n感觉有点可怜，只能在可能没有两立方米大的鸟笼里活动感觉会很无聊... <del>不过好像两立方米按鸟的体积等比例缩放的话差不多已经是人类的一个小 studio 公寓了吧</del> 好像不能这样算 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好喜欢看鸟，在宠物店看了好久才走。想要养鸟但是又不想把他们一直关在笼子里... 好矛盾，如果有花园可以投喂野生的鸟就好了",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 13936990031689701,
     "images": [
@@ -69604,7 +69604,7 @@
     "id": 5037,
     "date": "2025-03-17T07:06:44",
     "text": "聊聊：小桂桂脑袋尖尖的\n\n...看了一下还真是 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "images": [
       {
@@ -69623,7 +69623,7 @@
     "id": 5038,
     "date": "2025-03-17T11:43:38",
     "text": "众所周知 在图片上叠加水印的话，只要暴露了水印原本的样子就很容易逆向叠加来去水印了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 183,
+    "views": 184,
     "forwards": 4,
     "files": [
       {
@@ -70445,7 +70445,7 @@
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 182,
+    "views": 183,
     "forwards": 2
   },
   {
@@ -70501,7 +70501,7 @@
     "id": 5101,
     "date": "2025-03-29T23:15:07",
     "text": "Girls Band Cry 看完第三集<span class=\"spoiler\"><span>完全爱上 mmk 了！！> < 我完全需要一个能看穿我看穿一切心思的可靠帅气大姐姐啊啊 好羡慕好羡慕 nina</span></span>",
-    "views": 173,
+    "views": 175,
     "forwards": 0,
     "files": [
       {
@@ -70523,7 +70523,7 @@
     "id": 5102,
     "date": "2025-03-30T04:58:48",
     "text": "今天被朋友邀请去看了多伦多大 Allegro 中文合唱团的年度音乐会，好棒好棒！大家都好厉害\n\n之后和他一起去吃了烤串，聊了好多，开心开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n这个朋友是高中的同学，也是当时很好的朋友。记得高中的时候总是和他一起拿学校的 iPad 打音游（当时在玩 Arcaea 和 Cytus 2）还有放学偷偷去学校教堂弹那里的钢琴，好怀念。当时他钢琴弹得超厉害，相比我就只能弹一些安静的简单的曲子 quq\n\n他也是我唯一一个那个时候在现实中认识并且现在还有联系的朋友... 那时候我超社恐 > < 结果现在我不社恐了但是看他还像以前一样社恐<span class=\"spoiler\"><span>，今天邀请我来居然是真的在大学里没交到几个其他朋友 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 太可怜了</span></span>",
-    "views": 181,
+    "views": 182,
     "forwards": 0,
     "files": [
       {
@@ -70606,7 +70606,7 @@
     "id": 5108,
     "date": "2025-03-30T17:50:28",
     "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -70628,7 +70628,7 @@
     "id": 5109,
     "date": "2025-03-31T16:56:23",
     "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 150,
+    "views": 152,
     "forwards": 1,
     "media_group_id": 13947521470139469,
     "images": [
@@ -70658,7 +70658,7 @@
     "id": 5111,
     "date": "2025-04-01T00:40:47",
     "text": "通关了中二节奏「<a href=\"##イロドリミドリ幻想VII\">#イロドリミドリ幻想VII</a> 国际版」愚人节小游戏 qwq\n\n总共花了5分7秒8回合，没想到和 syama 一起四周目就打通了，好玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n游玩链接在这里 <a href=\"https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/\">https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/</a>",
-    "views": 171,
+    "views": 175,
     "forwards": 0,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 623,
+    "views": 647,
     "forwards": 22,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 74,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -70718,7 +70718,7 @@
     "id": 5114,
     "date": "2025-04-02T07:48:08",
     "text": "这个网页做得好安全，从弹窗里打开 devtools 完全找不到游戏的 js 代码... 脚本似乎是通过弹窗加载之后回调给主窗口然后主窗口注入进来的，奇妙\n\n弹窗里无论断点打在哪里都没办法暂停进 js 源码，因为这个窗口里没有源码，主窗口里有源码但是又没办法通过断点很方便地找到调用的地方... 这样反调试好聪明\n\n最后找到了存档位置（是 localStorage.ClickerGameStore）然后通过改存档通关了 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（以及发现 discord 客户端居然把 localStorage 全局变量删掉了... 确实能防止其他脚本读到 localStorage，私货好多啊",
-    "views": 71,
+    "views": 83,
     "forwards": 2,
     "reply": {
       "id": 5113,
