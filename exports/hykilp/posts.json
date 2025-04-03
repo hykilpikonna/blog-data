@@ -42255,7 +42255,7 @@
     "id": 3131,
     "date": "2024-01-02T20:49:41",
     "text": "私服硬件软件全面升级！\n\n服务器地址迁移到了 aquadx.hydev.org，请在用这个私服的大家对应地改一下 segatools dns <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>\n\n服务器系统从之前的 1C 0.5G VPS 升级到了 2C 8G 的 HyDEV 自家云，数据库从之前的 SQLite 升级到了 Mariadb，总之全都迁移好啦 qwq",
-    "views": 107,
+    "views": 108,
     "forwards": 2,
     "reply": {
       "id": 2761,
@@ -67060,7 +67060,7 @@
   {
     "id": 4863,
     "date": "2025-01-15T21:53:19",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "images": [
       {
@@ -67079,7 +67079,7 @@
     "id": 4864,
     "date": "2025-01-15T23:56:15",
     "text": "在 线 人 数 显 示",
-    "views": 162,
+    "views": 163,
     "forwards": 0,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 2,
     "images": [
       {
@@ -67117,7 +67117,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "images": [
       {
@@ -67136,14 +67136,14 @@
     "id": 4867,
     "date": "2025-01-18T01:53:38",
     "text": "好累",
-    "views": 140,
+    "views": 141,
     "forwards": 0
   },
   {
     "id": 4868,
     "date": "2025-01-18T02:17:14",
     "text": "PRiSM 新更新的游戏内容是这个万花镜挑战模式，叫做「KaleidxScope」...\n\n玩法是，一般游戏打完某个地图之后解锁这个模式并且提示你需要找到钥匙，然后打通所有区域曲目之后拿到钥匙就可以开始挑战了。挑战难度是全服同步的，最开始是 1 血（必须三首歌都 AP 才能通关），有一个人打通之后难度降到 10 血，有 10 个人打通之后降到 50 血，以此类推\n\n今天因为新版本漏了，被催着给服务器加适配就随便写了一个看上去没问题的实现方法，然后我还没拿到数据还没有测试就部署上去了... 结果完全搞错了，地图跑完了模式解锁存不上，修了之后发现打完所有歌钥匙拿不到，又修了之后发现难度锁定在了 1 血的难度... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 可能这个服务器再过一年也不会有人打通 1 血难度",
-    "views": 142,
+    "views": 143,
     "forwards": 2,
     "media_group_id": 13897333072213493,
     "images": [
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1197,
+    "views": 1198,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 961,
+    "views": 963,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -70523,7 +70523,7 @@
     "id": 5102,
     "date": "2025-03-30T04:58:48",
     "text": "今天被朋友邀请去看了多伦多大 Allegro 中文合唱团的年度音乐会，好棒好棒！大家都好厉害\n\n之后和他一起去吃了烤串，聊了好多，开心开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n这个朋友是高中的同学，也是当时很好的朋友。记得高中的时候总是和他一起拿学校的 iPad 打音游（当时在玩 Arcaea 和 Cytus 2）还有放学偷偷去学校教堂弹那里的钢琴，好怀念。当时他钢琴弹得超厉害，相比我就只能弹一些安静的简单的曲子 quq\n\n他也是我唯一一个那个时候在现实中认识并且现在还有联系的朋友... 那时候我超社恐 > < 结果现在我不社恐了但是看他还像以前一样社恐<span class=\"spoiler\"><span>，今天邀请我来居然是真的在大学里没交到几个其他朋友 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 太可怜了</span></span>",
-    "views": 200,
+    "views": 202,
     "forwards": 0,
     "files": [
       {
@@ -70606,7 +70606,7 @@
     "id": 5108,
     "date": "2025-03-30T17:50:28",
     "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -70628,7 +70628,7 @@
     "id": 5109,
     "date": "2025-03-31T16:56:23",
     "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 165,
+    "views": 166,
     "forwards": 1,
     "media_group_id": 13947521470139469,
     "images": [
@@ -70658,7 +70658,7 @@
     "id": 5111,
     "date": "2025-04-01T00:40:47",
     "text": "通关了中二节奏「<a href=\"##イロドリミドリ幻想VII\">#イロドリミドリ幻想VII</a> 国际版」愚人节小游戏 qwq\n\n总共花了5分7秒8回合，没想到和 syama 一起四周目就打通了，好玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n游玩链接在这里 <a href=\"https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/\">https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/</a>",
-    "views": 202,
+    "views": 204,
     "forwards": 0,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 865,
+    "views": 1098,
     "forwards": 25,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 139,
+    "views": 141,
     "forwards": 0,
     "images": [
       {
@@ -70718,7 +70718,7 @@
     "id": 5114,
     "date": "2025-04-02T07:48:08",
     "text": "这个网页做得好安全，从弹窗里打开 devtools 完全找不到游戏的 js 代码... 脚本似乎是通过弹窗加载之后回调给主窗口然后主窗口注入进来的，奇妙\n\n弹窗里无论断点打在哪里都没办法暂停进 js 源码，因为这个窗口里没有源码，主窗口里有源码但是又没办法通过断点很方便地找到调用的地方... 这样反调试好聪明\n\n最后找到了存档位置（是 localStorage.ClickerGameStore）然后通过改存档通关了 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（以及发现 discord 客户端居然把 localStorage 全局变量删掉了... 确实能防止其他脚本读到 localStorage，私货好多啊",
-    "views": 140,
+    "views": 142,
     "forwards": 2,
     "reply": {
       "id": 5113,
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 209,
+    "views": 213,
     "forwards": 5,
     "images": [
       {
