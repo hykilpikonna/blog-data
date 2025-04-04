@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 318,
+    "views": 319,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1279,
+    "views": 1281,
     "forwards": 25,
     "images": [
       {
@@ -70788,7 +70788,7 @@
     "id": 5119,
     "date": "2025-04-04T05:17:38",
     "text": "好奇妙 bug，开模糊输入之后同时可以正确输入和模糊输入的时候它会先 match 错误的模糊输入",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "files": [
       {
@@ -70810,7 +70810,7 @@
     "id": 5120,
     "date": "2025-04-04T06:14:53",
     "text": "今天去看了 Minecraft 电影，总之是有些失望。写了影评，<a href=\"https://aza.moe/blog?post=2025-04-04-Minecraft-Movie\">链接在这里</a>感兴趣的话可以去读读（剧透警告）",
-    "views": 110,
+    "views": 112,
     "forwards": 2,
     "images": [
       {
@@ -70830,7 +70830,7 @@
     "id": 5121,
     "date": "2025-04-04T13:32:11",
     "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
-    "views": 73,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
