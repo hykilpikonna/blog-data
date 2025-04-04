@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 04 Apr 2025 12:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 14:11:31 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #5121</title>
+      <link>https://aza.moe/life?post=5121</link>
+      <description>&lt;p&gt;今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看&lt;/p&gt;
+&lt;p&gt;起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑&lt;/p&gt;
+&lt;p&gt;...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 &lt;i class="custom-emoji" emoji-src="emoji/6323343426343404864.webp"&gt;❓&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python&lt;/p&gt;</description>
+      <guid isPermaLink="false">5121</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #5120</title>
       <link>https://aza.moe/life?post=5120</link>

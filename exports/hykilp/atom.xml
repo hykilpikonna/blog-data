@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-04-04T12:12:35.761492+00:00</updated>
+  <updated>2025-04-04T14:11:31.370619+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5121</id>
+    <title>小桂桂的回忆录 📒 #5121</title>
+    <updated>2025-04-04T13:32:11+00:00</updated>
+    <content>&lt;p&gt;今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看&lt;/p&gt;
+&lt;p&gt;起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑&lt;/p&gt;
+&lt;p&gt;...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 &lt;i class="custom-emoji" emoji-src="emoji/6323343426343404864.webp"&gt;❓&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5121" rel="alternate"/>
+  </entry>
   <entry>
     <id>5120</id>
     <title>小桂桂的回忆录 📒 #5120</title>

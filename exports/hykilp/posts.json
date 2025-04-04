@@ -6443,7 +6443,7 @@
     "id": 601,
     "date": "2022-03-18T10:46:02",
     "text": "好冷！结果还是没睡着，回家回家w\n\n明明平时零下出门穿这件羽绒服好暖和的... 可能躺在地上还是要再厚一点才行吧（x",
-    "views": 36,
+    "views": 37,
     "forwards": 0
   },
   {
@@ -41041,7 +41041,7 @@
     "id": 3040,
     "date": "2023-12-19T01:01:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做了炒肉和饭，但是因为感冒不太想吃米饭就做了荞麦面蘸面 qwq\n\n果然蘸面汁还是多放一些糖比较好吃。以及今天放的汤底稀释比例明明比以前浓但是因为感冒仍然觉得淡，好可惜\n\n再睡一会再去复习，明天最后一门语言学考试之后学期就结束了！（然而因为是 cr/ncr 这个考试我只需要考 40% 就可以了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "media_group_id": 13623581547289453,
     "images": [
@@ -41071,7 +41071,7 @@
     "id": 3041,
     "date": "2023-12-19T04:05:28",
     "text": "刚把推迟考试的请求表交上去了。真的为什么在 UofT 推迟考试这么麻烦... 甚至表单直接说了即使是 Covid Rapid Test 阳性的照片都不能作为生病的证据，必须要 registered 医生开的假条 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "reply": {
       "id": 3024,
@@ -41094,7 +41094,7 @@
     "id": 3042,
     "date": "2023-12-19T05:18:07",
     "text": "<a href=\"##ADHD\">#ADHD</a> 明早要继续之前没做完的 ADHD 诊断，然后今天才想起来上次诊断医生说要做 ECG 检查才能开药来着，然而现在已经没有做检查的地方开门了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "reply": {
       "id": 2895,
@@ -41105,7 +41105,7 @@
     "id": 3044,
     "date": "2023-12-19T22:41:14",
     "text": "看到学校 cs lab 的电脑升级了... 这个配置好扭曲？？\n\nCPU 上了服务器级别的 Xeon W 但是只有四核，显卡上了超级贵的企业级 A2000 卡，然而显存只有 6GB 而且性能还没有 3060 好... 内存 64GB，日常占用 1.4GB 🌚\n\n而且桌面是古董一样的 LXDE... 真的感觉可能 Xfce 都比这个好用一点。不开心，cs dept 这样做真的会给很多没用过 Linux 人带来一种“原来 Linux 桌面这么难用”的印象，明明有更现代更好用的桌面... 找时间发邮件 complain 一下好了",
-    "views": 116,
+    "views": 117,
     "forwards": 1,
     "media_group_id": 13624205391149293,
     "images": [
@@ -41135,14 +41135,14 @@
     "id": 3045,
     "date": "2023-12-20T02:16:17",
     "text": "语言学考完了！把所有不确定的算错也至少有 68 分，肯定 CR 了！好耶，放假啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 0
   },
   {
     "id": 3046,
     "date": "2023-12-20T02:40:44",
     "text": "说起来这个考试最后一道题4分，让你写下两条规则定义英语词哪里可以插 \"f#cking\" 哪里不行 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（比如说为什么 \"fan-f#cking-tastic\" 可以但是 \"fantas-f#cking-tic\" 不行\n\n这居然是有规则的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "reply": {
       "id": 3045,
@@ -41153,14 +41153,14 @@
     "id": 3047,
     "date": "2023-12-20T06:27:01",
     "text": "Celestium 住进来会不会是我和聊聊恢复作息的契机呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 108,
+    "views": 109,
     "forwards": 2
   },
   {
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -66792,7 +66792,7 @@
     "id": 4843,
     "date": "2025-01-07T03:23:59",
     "text": "<a href=\"##TIL\">#TIL</a> 語呂合わせ和数字言葉好奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n过分简化的概要就是，这是一个可以用每个数字的各种不同语境下的读音（真的很多！）来拼出不同的词，这样就可以用数字隐写文字或者反过来做出一些只有在某个 context 下才能读出来的加密通话了！\n\n比如 Azalea アザレア 就可以写成 \"1301\" 什么的（完了我是不是像一个日本十岁小孩\n\n哈哈哈哈我终于知道为什么 maimai 的联机接收端口是 50101 了，因为这个东西读出来是 \"gomaimai\" <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 2,
     "media_group_id": 13889761917466933,
     "images": [
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1200,
+    "views": 1202,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -70262,7 +70262,7 @@
     "id": 5082,
     "date": "2025-03-27T11:37:31",
     "text": "相信前几天<a href=\"https://github.com/langgenius/dify/pull/16819\">某个 dify PR</a> 大家肯定听说了。改图标把私钥推上去还给上游开 pr 确实离谱，但是我觉得评论区里这 106 个发评论炒作凑热闹的人更离谱...\n\n这种 pr 明明是 github 上天天都在发生的家常事，在同一个仓库搜索 <code>is:closed is:unmerged</code> 就会发现<a href=\"https://github.com/langgenius/dify/pull/16000\">差不多的事情</a>这两周里已经发生了五六次了...\n\n感觉会不小心把部署文件 pr 上来更多是 github 的 ux 设计问题，叉仓库的时候默认就假设了你想给上游做贡献而不是自己用。一个大黄框里摆一个超显眼的 pr 按钮的话，谁看到都会觉得应该点吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "media_group_id": 13944603614114381,
     "images": [
@@ -70372,7 +70372,7 @@
     "id": 5091,
     "date": "2025-03-28T02:18:25",
     "text": "在想 现实中的树一定是无环的吗？世界这么大总会有一棵树有两根树枝分叉之后长到一起去的吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 1
   },
   {
@@ -70445,14 +70445,14 @@
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 199,
+    "views": 200,
     "forwards": 2
   },
   {
     "id": 5098,
     "date": "2025-03-29T19:42:46",
     "text": "今天打开账号 profile 发现居然已经两个月没玩 maimai 了... 果然所有精力都用来逆向游戏魔改游戏就没精力玩游戏了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
@@ -70471,7 +70471,7 @@
     "id": 5099,
     "date": "2025-03-29T21:42:34",
     "text": "不要把相机放在奇怪的地方啊啊\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 175,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 13946276436934485,
     "images": [
@@ -70606,7 +70606,7 @@
     "id": 5108,
     "date": "2025-03-30T17:50:28",
     "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
-    "views": 103,
+    "views": 106,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -70628,7 +70628,7 @@
     "id": 5109,
     "date": "2025-03-31T16:56:23",
     "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 182,
+    "views": 190,
     "forwards": 1,
     "media_group_id": 13947521470139469,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1261,
+    "views": 1266,
     "forwards": 25,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 161,
+    "views": 163,
     "forwards": 0,
     "images": [
       {
@@ -70718,7 +70718,7 @@
     "id": 5114,
     "date": "2025-04-02T07:48:08",
     "text": "这个网页做得好安全，从弹窗里打开 devtools 完全找不到游戏的 js 代码... 脚本似乎是通过弹窗加载之后回调给主窗口然后主窗口注入进来的，奇妙\n\n弹窗里无论断点打在哪里都没办法暂停进 js 源码，因为这个窗口里没有源码，主窗口里有源码但是又没办法通过断点很方便地找到调用的地方... 这样反调试好聪明\n\n最后找到了存档位置（是 localStorage.ClickerGameStore）然后通过改存档通关了 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（以及发现 discord 客户端居然把 localStorage 全局变量删掉了... 确实能防止其他脚本读到 localStorage，私货好多啊",
-    "views": 163,
+    "views": 166,
     "forwards": 2,
     "reply": {
       "id": 5113,
@@ -70729,8 +70729,8 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 274,
-    "forwards": 5,
+    "views": 280,
+    "forwards": 6,
     "images": [
       {
         "width": 390,
@@ -70748,7 +70748,7 @@
     "id": 5116,
     "date": "2025-04-03T22:30:25",
     "text": "北美的浪费真是越来越离谱了\n\n今天邮箱里收到了一本广告<em>书</em>，一本 905 页的，1.3kg 重的书，每页都是全彩广告...",
-    "views": 125,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 13949755399931837,
     "images": [
@@ -70788,7 +70788,7 @@
     "id": 5119,
     "date": "2025-04-04T05:17:38",
     "text": "好奇妙 bug，开模糊输入之后同时可以正确输入和模糊输入的时候它会先 match 错误的模糊输入",
-    "views": 88,
+    "views": 96,
     "forwards": 0,
     "files": [
       {
@@ -70810,7 +70810,7 @@
     "id": 5120,
     "date": "2025-04-04T06:14:53",
     "text": "今天去看了 Minecraft 电影，总之是有些失望。写了影评，<a href=\"https://aza.moe/blog?post=2025-04-04-Minecraft-Movie\">链接在这里</a>感兴趣的话可以去读读（剧透警告）",
-    "views": 81,
+    "views": 91,
     "forwards": 1,
     "images": [
       {
@@ -70823,6 +70823,25 @@
         "url": "media/5120.jpg",
         "size": 372121,
         "thumb": "media/5120.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5121,
+    "date": "2025-04-04T13:32:11",
+    "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
+    "views": 42,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1022,
+        "height": 615,
+        "date": "2025-04-04T13:26:48",
+        "media_type": "photo",
+        "original_name": "photo_2025-04-04_13-26-48.jpg",
+        "url": "media/5121.jpg",
+        "size": 109470,
+        "thumb": "media/5121.jpg_thumb.jpg"
       }
     ]
   }
