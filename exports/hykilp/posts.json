@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 278,
+    "views": 279,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 263,
+    "views": 264,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "images": [
       {
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 166,
+    "views": 167,
     "forwards": 0,
     "images": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1353,
+    "views": 1354,
     "forwards": 9,
     "files": [
       {
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1202,
+    "views": 1204,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 965,
+    "views": 967,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -70091,7 +70091,7 @@
     "id": 5072,
     "date": "2025-03-25T22:41:40",
     "text": "因为 credit 花不完，部署了一个 emu bot <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>居然真的能让 emu 用很开心可爱的语气说出很恐怖的话，</span></span>效果真好 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这次是完全用 prompting 没有 fine tune 感觉也不错。其实只是 discord 这种文字对话的话，也没必要真的让说话语气像 pjsk 剧情对话一样真实，即使知道它在角色扮演也不影响大家 have fun 的 qwq\n\n（Prompt 在<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/docs/fun/llm.md\">这里</a>）",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "reply": {
       "id": 4991,
@@ -70115,7 +70115,7 @@
     "id": 5073,
     "date": "2025-03-26T00:53:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n猪脚拉面\n\n用掉了剩下的猪脚... 的一半 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> $20 能吃三顿也太值了",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "media_group_id": 13943603117311221,
     "images": [
@@ -70150,7 +70150,7 @@
     "id": 5075,
     "date": "2025-03-26T04:09:47",
     "text": "chu<span class=\"spoiler\"><span><del>nithm pen</span></span></del>guin\n\nchuguin",
-    "views": 176,
+    "views": 177,
     "forwards": 0,
     "images": [
       {
@@ -70438,7 +70438,7 @@
     "id": 5096,
     "date": "2025-03-28T16:11:27",
     "text": "（在犹豫要不要出门，犹豫超级久）\n聊聊：能不能定下主意\n我：好 那我决定了！我要在家里再犹豫半小时",
-    "views": 191,
+    "views": 192,
     "forwards": 0
   },
   {
@@ -70606,7 +70606,7 @@
     "id": 5108,
     "date": "2025-03-30T17:50:28",
     "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -70628,7 +70628,7 @@
     "id": 5109,
     "date": "2025-03-31T16:56:23",
     "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 190,
+    "views": 196,
     "forwards": 1,
     "media_group_id": 13947521470139469,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1266,
+    "views": 1274,
     "forwards": 25,
     "images": [
       {
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 280,
+    "views": 282,
     "forwards": 6,
     "images": [
       {
@@ -70748,7 +70748,7 @@
     "id": 5116,
     "date": "2025-04-03T22:30:25",
     "text": "北美的浪费真是越来越离谱了\n\n今天邮箱里收到了一本广告<em>书</em>，一本 905 页的，1.3kg 重的书，每页都是全彩广告...",
-    "views": 130,
+    "views": 133,
     "forwards": 1,
     "media_group_id": 13949755399931837,
     "images": [
@@ -70788,7 +70788,7 @@
     "id": 5119,
     "date": "2025-04-04T05:17:38",
     "text": "好奇妙 bug，开模糊输入之后同时可以正确输入和模糊输入的时候它会先 match 错误的模糊输入",
-    "views": 96,
+    "views": 105,
     "forwards": 0,
     "files": [
       {
@@ -70810,7 +70810,7 @@
     "id": 5120,
     "date": "2025-04-04T06:14:53",
     "text": "今天去看了 Minecraft 电影，总之是有些失望。写了影评，<a href=\"https://aza.moe/blog?post=2025-04-04-Minecraft-Movie\">链接在这里</a>感兴趣的话可以去读读（剧透警告）",
-    "views": 91,
+    "views": 102,
     "forwards": 1,
     "images": [
       {
@@ -70830,7 +70830,7 @@
     "id": 5121,
     "date": "2025-04-04T13:32:11",
     "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
-    "views": 42,
+    "views": 64,
     "forwards": 0,
     "images": [
       {
