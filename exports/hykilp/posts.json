@@ -59102,7 +59102,7 @@
     "id": 4326,
     "date": "2024-08-15T08:25:05",
     "text": "聊聊：想让你像猫猫 gif 里那样 rua 我\n我：好，天降抱枕 <i class=\"custom-emoji\" emoji-src=\"emoji/4981340762533790955.webp\">😺</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 3,
     "files": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 2,
     "images": [
       {
@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 320,
+    "views": 321,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1214,
+    "views": 1215,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 980,
+    "views": 981,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -70445,7 +70445,7 @@
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 230,
+    "views": 231,
     "forwards": 2
   },
   {
@@ -70658,7 +70658,7 @@
     "id": 5111,
     "date": "2025-04-01T00:40:47",
     "text": "通关了中二节奏「<a href=\"##イロドリミドリ幻想VII\">#イロドリミドリ幻想VII</a> 国际版」愚人节小游戏 qwq\n\n总共花了5分7秒8回合，没想到和 syama 一起四周目就打通了，好玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n游玩链接在这里 <a href=\"https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/\">https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/</a>",
-    "views": 237,
+    "views": 238,
     "forwards": 0,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1378,
+    "views": 1382,
     "forwards": 26,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "images": [
       {
@@ -70788,7 +70788,7 @@
     "id": 5119,
     "date": "2025-04-04T05:17:38",
     "text": "好奇妙 bug，开模糊输入之后同时可以正确输入和模糊输入的时候它会先 match 错误的模糊输入",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "files": [
       {
@@ -70830,7 +70830,7 @@
     "id": 5121,
     "date": "2025-04-04T13:32:11",
     "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
-    "views": 138,
+    "views": 139,
     "forwards": 1,
     "images": [
       {
@@ -70849,7 +70849,7 @@
     "id": 5122,
     "date": "2025-04-05T04:26:43",
     "text": "因为驾照要过期了，约了 G 牌驾考，为此租了一辆车练习考试... 但是又觉得只是练车太浪费了，就临时计划了一次「练车旅行」——有了车就去一些平时的公共交通去不到的地方吧 qwq\n\n今天拿到了车，接上 Henry、豆腐、猫猫球一起去了沙滩。气氛好棒，好久没有这么放松了，什么都不用想不用做只要在湖风中散步就很开心... 如果我有车肯定每天都会来\n\n见到了超大只鹅🦢（身上带着标签，可能是研究样本吗）还拍了很多也许可以捕捉心情的照片",
-    "views": 111,
+    "views": 113,
     "forwards": 0,
     "media_group_id": 13950617626814517,
     "images": [
@@ -70929,7 +70929,7 @@
     "id": 5129,
     "date": "2025-04-05T04:41:26",
     "text": "还看到了一个很独特的海鸥，长着斑点，拍下来了它在一群海鸥中心向反方向看的样子简直帅爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 回家把照片做了一下高亮模糊感觉好棒\n\n以及在一片枯树枝中间看到了一根长了亮蓝色的果子的叶子，走进点发现是谁把假花放上去了，被骗了喵（不过谁放的创意不错 quq",
-    "views": 108,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13950624695747709,
     "images": [
@@ -70959,7 +70959,7 @@
     "id": 5131,
     "date": "2025-04-06T01:35:56",
     "text": "<del>什么时候能让 gen ai 给我生成一杯能喝的饮料和一只能摸的猫</del>",
-    "views": 80,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13951226849011181,
     "images": [
@@ -70989,7 +70989,7 @@
     "id": 5133,
     "date": "2025-04-06T01:53:22",
     "text": "今天去了猫咖，之后去吃了拉面\n\n猫猫好，感觉看着睡觉的猫猫自己也困困了，好想藏在车里睡一觉（如果车可以一键遮住所有窗户就好了）\n\n不过这里人太多了有点吵，下次不选这么人气的地方了 quq",
-    "views": 72,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13951235220642453,
     "images": [
