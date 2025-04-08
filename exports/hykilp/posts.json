@@ -27797,7 +27797,7 @@
     "id": 2074,
     "date": "2023-04-21T04:33:41",
     "text": "做了一对电子太鼓槌！\n\n昨晚想试试用琴键一样的触发方式给鼓槌加上传感器，这样不需要鼓就可以玩太鼓达人了，<del>还可以用来玩一些奇怪的 play</del>。今天做出来啦，响应好准，虽然左咔右咚还是有点难适应\n\n调固件的时候还学到了些信号过滤的技巧，现在连打也不会吞音了！明天给琴的固件也加上这些优化好啦。<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/TaikoStick\">源码在这里</a>",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "media_group_id": 13456412975432421,
     "files": [
@@ -27833,7 +27833,7 @@
     "id": 2076,
     "date": "2023-04-21T09:44:43",
     "text": "<a href=\"##nsfw\">#nsfw</a> <a href=\"##sp\">#sp</a>\n用电子太鼓槌玩了一些奇怪的 play ///\n\n<span class=\"spoiler\"><span>疼疼 不过好喜欢怎么回事 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323605445118264983.webp\">🙈</span></span></i><span class=\"spoiler\"><span>\n\n大概是回忆录里的第一条 nsfw，犹豫了好久决定公开发出来啦。想起之前看到推特翻译转发的</span></span><a href=\"https://t.me/twitter_translate/15550\"><span class=\"spoiler\"><span>这篇推文</a></span></span><span class=\"spoiler\"><span>，决定不再掩盖自己奇怪的一面了，想让这些同样真实的回忆也能一起堆在这里长出小花 qwq\n\n</span></span>...结果聊聊还是没办法习惯左咚右咔，开了红蓝不分 mod，<del>聊聊菜菜</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 160,
+    "views": 161,
     "forwards": 4,
     "files": [
       {
@@ -27856,7 +27856,7 @@
     "id": 2077,
     "date": "2023-04-24T06:49:03",
     "text": "今天试了下在朋友群里的赛博自习室复习数学，效果很不错，发现直播着屏幕真的会让自己少一些分心。以及发现看不进去的时候只是睡 20 分钟就能清醒很多哇，虽然一个人大概不敢这样睡吧，我肯定会梦游把闹钟敲掉继续睡的 <i class=\"custom-emoji\" emoji-src=\"emoji/5469634808437021491.webp\">😴</i>\n\n之前落下的差不多都学完了，明早再背背公式就去考试啦。好讨厌不给公式的考试，记忆不好超吃亏呜呜 ;-;",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
@@ -27875,7 +27875,7 @@
     "id": 2078,
     "date": "2023-04-24T17:00:42",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 89,
+    "views": 90,
     "forwards": 1,
     "images": [
       {
@@ -41672,7 +41672,7 @@
     "id": 3086,
     "date": "2023-12-28T04:55:50",
     "text": "+ maimai DX！\n\n它真的好大好重！送到的时候是一个大卡车开过来司机专门打电话联系我了，送上楼还被公寓物业骂了说需要申请货物电梯，然后三个人一起才把它搬上来拼好（感谢 Celestium 帮忙 qwq\n\n用了一段时间把软件调好啦，感谢蓝夏的魔改！现在还缺读卡器和自起脚本，私服似乎也已经兼容了 1.40 的样子（虽然没有做修改，可能是这两个版本之间 API 本身就没有改动吧）\n\n总之明天再继续折腾了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 3,
     "media_group_id": 13629914800119629,
     "images": [
@@ -68911,7 +68911,7 @@
     "id": 4989,
     "date": "2025-03-07T11:44:35",
     "text": "写了一个实时查看联机房间的网页 qwq <a href=\"https://link.aquadx.net/\">https://link.aquadx.net/</a>\n\n进行了一个计时速通，写完网页花了一个小时，然后写 CI 想办法集成进服务器部署又花了两个小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>\n\n也许以后这种小网页还是不用框架直接纯手搓 js html css 更方便一点",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 13930783004204845,
     "images": [
@@ -68945,7 +68945,7 @@
     "id": 4991,
     "date": "2025-03-08T09:57:02",
     "text": "今天发现某云服务厂可以白嫖 DeepSeek r1 70b，就去搭了一个 openwebui\n\n...然后发现它说的 “openai 兼容” 但是实际上只有 /completions 这一个节点，并没有实现 /models 列出模型也没有实现模型选择，而且思考的时候还不会输出最开始的 <think> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n所以又花两个小时写了一个代理用来转发 api，实现了模型列表和模型切换，把响应头的 <think> 补上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n结果就是花了三个小时去白嫖 $100 左右的 api... 值得吗？<span class=\"spoiler\"><span>其实实际上 r1 的 api 真的非常便宜了，但是按用量收费的东西即使再便宜也会想节省，只有白嫖的东西才可以放心浪费，甚至会觉得用不完就亏了，至少从这个角度看这三个小时是绝对值得的</span></span>",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 13931422578567677,
     "images": [
@@ -68985,7 +68985,7 @@
     "id": 4994,
     "date": "2025-03-08T12:13:44",
     "text": "<a href=\"##桂桂最近吃什么\">#桂桂最近吃什么</a> （夜宵）\n每天换一种口味的方便面 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "media_group_id": 13931488199598397,
     "images": [
@@ -69045,7 +69045,7 @@
     "id": 4999,
     "date": "2025-03-08T13:42:01",
     "text": "？...同款石头 到底是什么呢？\n\n<span class=\"spoiler\"><span>如果只是「都是石头」的话任何两个小小的圆圆的固体都可以说是同款... 但是这样的话说花岗岩和铁矿是同款不太对吧。\n\n同样道理，只要都是岩石或者都是矿石就算做同款也不太对。但是如果再细分品类的话，就需要拿到样本才能进行分析了。\n\n但是众所周知，就像「形象的叛逆」那张画一样，一个画中的石头并不是石头，也不能按照分析石头的方法进行分类... 所以同款石头根本就不可能存在吧，只可能存在「同款石头图片」</span></span><del>完了越来越好奇这是什么了</del>",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "images": [
       {
@@ -69317,8 +69317,8 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 993,
-    "forwards": 14,
+    "views": 995,
+    "forwards": 15,
     "reply": {
       "id": 5017,
       "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>"
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1527,
+    "views": 1531,
     "forwards": 26,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "images": [
       {
@@ -70718,7 +70718,7 @@
     "id": 5114,
     "date": "2025-04-02T07:48:08",
     "text": "这个网页做得好安全，从弹窗里打开 devtools 完全找不到游戏的 js 代码... 脚本似乎是通过弹窗加载之后回调给主窗口然后主窗口注入进来的，奇妙\n\n弹窗里无论断点打在哪里都没办法暂停进 js 源码，因为这个窗口里没有源码，主窗口里有源码但是又没办法通过断点很方便地找到调用的地方... 这样反调试好聪明\n\n最后找到了存档位置（是 localStorage.ClickerGameStore）然后通过改存档通关了 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（以及发现 discord 客户端居然把 localStorage 全局变量删掉了... 确实能防止其他脚本读到 localStorage，私货好多啊",
-    "views": 202,
+    "views": 203,
     "forwards": 2,
     "reply": {
       "id": 5113,
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 367,
+    "views": 372,
     "forwards": 6,
     "images": [
       {
@@ -70748,7 +70748,7 @@
     "id": 5116,
     "date": "2025-04-03T22:30:25",
     "text": "北美的浪费真是越来越离谱了\n\n今天邮箱里收到了一本广告<em>书</em>，一本 905 页的，1.3kg 重的书，每页都是全彩广告...",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 13949755399931837,
     "images": [
@@ -70788,7 +70788,7 @@
     "id": 5119,
     "date": "2025-04-04T05:17:38",
     "text": "好奇妙 bug，开模糊输入之后同时可以正确输入和模糊输入的时候它会先 match 错误的模糊输入",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "files": [
       {
@@ -70810,7 +70810,7 @@
     "id": 5120,
     "date": "2025-04-04T06:14:53",
     "text": "今天去看了 Minecraft 电影，总之是有些失望。写了影评，<a href=\"https://aza.moe/blog?post=2025-04-04-Minecraft-Movie\">链接在这里</a>感兴趣的话可以去读读（剧透警告）",
-    "views": 160,
+    "views": 162,
     "forwards": 3,
     "images": [
       {
@@ -70830,7 +70830,7 @@
     "id": 5121,
     "date": "2025-04-04T13:32:11",
     "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
-    "views": 157,
+    "views": 159,
     "forwards": 1,
     "images": [
       {
@@ -70849,7 +70849,7 @@
     "id": 5122,
     "date": "2025-04-05T04:26:43",
     "text": "因为驾照要过期了，约了 G 牌驾考，为此租了一辆车练习考试... 但是又觉得只是练车太浪费了，就临时计划了一次「练车旅行」——有了车就去一些平时的公共交通去不到的地方吧 qwq\n\n今天拿到了车，接上 Henry、豆腐、猫猫球一起去了沙滩。气氛好棒，好久没有这么放松了，什么都不用想不用做只要在湖风中散步就很开心... 如果我有车肯定每天都会来\n\n见到了超大只鹅🦢（身上带着标签，可能是研究样本吗）还拍了很多也许可以捕捉心情的照片",
-    "views": 137,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 13950617626814517,
     "images": [
@@ -70929,7 +70929,7 @@
     "id": 5129,
     "date": "2025-04-05T04:41:26",
     "text": "还看到了一个很独特的海鸥，长着斑点，拍下来了它在一群海鸥中心向反方向看的样子简直帅爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 回家把照片做了一下高亮模糊感觉好棒\n\n以及在一片枯树枝中间看到了一根长了亮蓝色的果子的叶子，走进点发现是谁把假花放上去了，被骗了喵（不过谁放的创意不错 quq",
-    "views": 136,
+    "views": 138,
     "forwards": 0,
     "media_group_id": 13950624695747709,
     "images": [
@@ -70959,7 +70959,7 @@
     "id": 5131,
     "date": "2025-04-06T01:35:56",
     "text": "<del>什么时候能让 gen ai 给我生成一杯能喝的饮料和一只能摸的猫</del>",
-    "views": 135,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 13951226849011181,
     "images": [
@@ -70989,7 +70989,7 @@
     "id": 5133,
     "date": "2025-04-06T01:53:22",
     "text": "今天去了猫咖，之后去吃了拉面\n\n猫猫好，感觉看着睡觉的猫猫自己也困困了，好想藏在车里睡一觉（如果车可以一键遮住所有窗户就好了）\n\n不过这里人太多了有点吵，下次不选这么人气的地方了 quq",
-    "views": 132,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 13951235220642453,
     "images": [
@@ -71089,7 +71089,7 @@
     "id": 5142,
     "date": "2025-04-07T02:41:41",
     "text": "<a href=\"##adhd\">#adhd</a> <a href=\"##戴上耳机\">#戴上耳机</a> 在高速上没有开车的两只手和一只脚在干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（当然这段是回家之后录的",
-    "views": 123,
+    "views": 125,
     "forwards": 0,
     "files": [
       {
@@ -71112,7 +71112,7 @@
     "id": 5143,
     "date": "2025-04-07T04:36:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n又敲了敲各种地方发现这也许可以当作一个完整的架子鼓哇，敲点不那么简单的 quq\n\n（曲子是 Cavetown 的 <em>Sweet Tooth</em>，记得两年前超喜欢这首，在西雅图实习的闲时去 Guitar Center 白嫖钢琴弹的时候弹累了去那边的鼓上练过这段，居然现在还没有忘记 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 129,
+    "views": 131,
     "forwards": 1,
     "reply": {
       "id": 5142,
@@ -71139,14 +71139,14 @@
     "id": 5144,
     "date": "2025-04-07T06:53:42",
     "text": "聊聊：所以刚才你说对不起是对不起什么？\n我：诶我有说嘛？（忘了）\n聊聊：有啊\n我：思考... 那就是对不起床的猫猫说晚安 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 123,
+    "views": 125,
     "forwards": 0
   },
   {
     "id": 5145,
     "date": "2025-04-07T15:02:37",
     "text": "驾考考完啦，过了！（差一点点就没过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n考场前面一条超宽敞大路上面写了一个限速 30kmh 就好莫名其妙\n\n然后考官：“虽然这里写了 30 但是你还是开 40 吧, keep up with local traffic” 🌚",
-    "views": 107,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13952305263086333,
     "images": [
@@ -71176,7 +71176,7 @@
     "id": 5147,
     "date": "2025-04-07T18:38:56",
     "text": "考完看离还车的时间还有三小时，就绕远去了一趟 Cosmo，原本想去敲敲鼓，但是发现 Cosmo 这么大的店居然一套架好的鼓都没有，和两年前来这里相比像是要倒闭了一样...\n\n还是绕回来去 Just Drums 了，感谢店员让我乱敲 quq\n\n（然后敲爽了忘了看时间，还车晚了半小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 还好租车店的店员好心没多扣钱",
-    "views": 88,
+    "views": 90,
     "forwards": 0,
     "media_group_id": 13952409091788829,
     "images": [
@@ -71246,7 +71246,7 @@
     "id": 5153,
     "date": "2025-04-07T19:07:28",
     "text": "补一下昨天的照片 qwq\n\n「练车旅行」第三天和书书、豆腐、猫猫球去 Rattlesnake Point 登了山，感觉是大型猫爬架（？）天气很晴很温和，像是某种春天体验卡\n\n之后去旁边的 Crawford Lake 沿着湖边散散步，吃了野餐（是路上买的打包 subway 三明治）\n\n一月份手术之后第一次爬这么远的路，居然走下来了，看来体力已经完全恢复啦（虽然第二天例常腿酸 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 96,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 13952422784275821,
     "images": [
@@ -71336,7 +71336,7 @@
     "id": 5161,
     "date": "2025-04-07T19:12:40",
     "text": "笑死 昨天离开公园的时候看旁边阿姨把饮料放在车顶上忘记拿下来就开走了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不太聪明喵",
-    "views": 92,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13952425286038053,
     "images": [
@@ -71366,7 +71366,7 @@
     "id": 5163,
     "date": "2025-04-08T04:43:46",
     "text": "说起来 这次一起旅行的人都看了少女乐队，所以开车的时候就放少女乐队吧，然后差不多把大家看过的所有都放了一遍：MyGO, Crychic, Ave Mujica, トゲトゲ, 結束バンド, K-On, μ's（草\n\n...虽然都是少女乐队但是曲风都好不一样！感觉我最喜欢的还是 K-On",
-    "views": 62,
+    "views": 73,
     "forwards": 0
   }
 ]
