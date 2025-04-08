@@ -41322,7 +41322,7 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 193,
+    "views": 194,
     "forwards": 0
   },
   {
@@ -59102,7 +59102,7 @@
     "id": 4326,
     "date": "2024-08-15T08:25:05",
     "text": "聊聊：想让你像猫猫 gif 里那样 rua 我\n我：好，天降抱枕 <i class=\"custom-emoji\" emoji-src=\"emoji/4981340762533790955.webp\">😺</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 3,
     "files": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 266,
+    "views": 267,
     "forwards": 0
   },
   {
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 652,
+    "views": 653,
     "forwards": 8
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 991,
+    "views": 992,
     "forwards": 14,
     "reply": {
       "id": 5017,
@@ -69339,7 +69339,7 @@
   {
     "id": 5019,
     "date": "2025-03-13T04:43:20",
-    "views": 255,
+    "views": 256,
     "forwards": 3,
     "images": [
       {
@@ -69358,7 +69358,7 @@
     "id": 5020,
     "date": "2025-03-13T05:32:56",
     "text": "至少 AquaDX 在用的这套 JVM 老框架没有在 Hello world 吞吐量上输给 Bun JS...",
-    "views": 266,
+    "views": 267,
     "forwards": 0,
     "media_group_id": 13934751814323477,
     "images": [
@@ -69388,14 +69388,14 @@
     "id": 5022,
     "date": "2025-03-14T18:48:15",
     "text": "syama: 最近一个节日是什么，要不要加一些节日彩蛋\n我: 清明节 🌚",
-    "views": 210,
+    "views": 211,
     "forwards": 0
   },
   {
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 301,
+    "views": 302,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "images": [
       {
@@ -69494,7 +69494,7 @@
     "id": 5029,
     "date": "2025-03-16T11:15:53",
     "text": "前几天去宠物店看到了好可爱的一对鹦鹉 qwq\n\n感觉有点可怜，只能在可能没有两立方米大的鸟笼里活动感觉会很无聊... <del>不过好像两立方米按鸟的体积等比例缩放的话差不多已经是人类的一个小 studio 公寓了吧</del> 好像不能这样算 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好喜欢看鸟，在宠物店看了好久才走。想要养鸟但是又不想把他们一直关在笼子里... 好矛盾，如果有花园可以投喂野生的鸟就好了",
-    "views": 179,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 13936990031689701,
     "images": [
@@ -70232,7 +70232,7 @@
     "id": 5080,
     "date": "2025-03-27T05:35:32",
     "text": "今天又在做 +1,762 −10,838 行的<a href=\"https://github.com/MewoLab/AquaDX/pull/134/files\">大重构</a>，累累\n\nkt 真的好简洁，把 java 重构成 kt 之后代码长度直接缩短到了原本长度的 16%\n\n不过也正因为 java 繁琐，居然舞萌中二音击全都重构成 kt 之后这个项目总代码行数依然是 java 更多... 🌚",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 13944429858403349,
     "images": [
@@ -70445,7 +70445,7 @@
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 246,
+    "views": 247,
     "forwards": 2
   },
   {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1497,
+    "views": 1507,
     "forwards": 26,
     "images": [
       {
@@ -70929,7 +70929,7 @@
     "id": 5129,
     "date": "2025-04-05T04:41:26",
     "text": "还看到了一个很独特的海鸥，长着斑点，拍下来了它在一群海鸥中心向反方向看的样子简直帅爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 回家把照片做了一下高亮模糊感觉好棒\n\n以及在一片枯树枝中间看到了一根长了亮蓝色的果子的叶子，走进点发现是谁把假花放上去了，被骗了喵（不过谁放的创意不错 quq",
-    "views": 132,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 13950624695747709,
     "images": [
@@ -70959,7 +70959,7 @@
     "id": 5131,
     "date": "2025-04-06T01:35:56",
     "text": "<del>什么时候能让 gen ai 给我生成一杯能喝的饮料和一只能摸的猫</del>",
-    "views": 129,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 13951226849011181,
     "images": [
@@ -70989,7 +70989,7 @@
     "id": 5133,
     "date": "2025-04-06T01:53:22",
     "text": "今天去了猫咖，之后去吃了拉面\n\n猫猫好，感觉看着睡觉的猫猫自己也困困了，好想藏在车里睡一觉（如果车可以一键遮住所有窗户就好了）\n\n不过这里人太多了有点吵，下次不选这么人气的地方了 quq",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13951235220642453,
     "images": [
@@ -71146,7 +71146,7 @@
     "id": 5145,
     "date": "2025-04-07T15:02:37",
     "text": "驾考考完啦，过了！（差一点点就没过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n考场前面一条超宽敞大路上面写了一个限速 30kmh 就好莫名其妙\n\n然后考官：“虽然这里写了 30 但是你还是开 40 吧, keep up with local traffic” 🌚",
-    "views": 85,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13952305263086333,
     "images": [
@@ -71176,7 +71176,7 @@
     "id": 5147,
     "date": "2025-04-07T18:38:56",
     "text": "考完看离还车的时间还有三小时，就绕远去了一趟 Cosmo，原本想去敲敲鼓，但是发现 Cosmo 这么大的店居然一套架好的鼓都没有，和两年前来这里相比像是要倒闭了一样...\n\n还是绕回来去 Just Drums 了，感谢店员让我乱敲 quq\n\n（然后敲爽了忘了看时间，还车晚了半小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 还好租车店的店员好心没多扣钱",
-    "views": 42,
+    "views": 56,
     "forwards": 0,
     "media_group_id": 13952409091788829,
     "images": [
@@ -71246,7 +71246,7 @@
     "id": 5153,
     "date": "2025-04-07T19:07:28",
     "text": "补一下昨天的照片 qwq\n\n「练车旅行」第三天和书书、豆腐、猫猫球去 Rattlesnake Point 登了山，感觉是大型猫爬架（？）天气很晴很温和，像是某种春天体验卡\n\n之后去旁边的 Crawford Lake 沿着湖边散散步，吃了野餐（是路上买的打包 subway 三明治）\n\n一月份手术之后第一次爬这么远的路，居然走下来了，看来体力已经完全恢复啦（虽然第二天例常腿酸 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 35,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13952422784275821,
     "images": [
@@ -71336,7 +71336,7 @@
     "id": 5161,
     "date": "2025-04-07T19:12:40",
     "text": "笑死 昨天离开公园的时候看旁边阿姨把饮料放在车顶上忘记拿下来就开走了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不太聪明喵",
-    "views": 34,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13952425286038053,
     "images": [
