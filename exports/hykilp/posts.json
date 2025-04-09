@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 123,
+    "views": 124,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -59102,7 +59102,7 @@
     "id": 4326,
     "date": "2024-08-15T08:25:05",
     "text": "聊聊：想让你像猫猫 gif 里那样 rua 我\n我：好，天降抱枕 <i class=\"custom-emoji\" emoji-src=\"emoji/4981340762533790955.webp\">😺</i>",
-    "views": 204,
+    "views": 205,
     "forwards": 3,
     "files": [
       {
@@ -70445,7 +70445,7 @@
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 256,
+    "views": 257,
     "forwards": 2
   },
   {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1577,
+    "views": 1579,
     "forwards": 26,
     "images": [
       {
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 387,
+    "views": 391,
     "forwards": 6,
     "images": [
       {
@@ -71336,7 +71336,7 @@
     "id": 5161,
     "date": "2025-04-07T19:12:40",
     "text": "笑死 昨天离开公园的时候看旁边阿姨把饮料放在车顶上忘记拿下来就开走了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不太聪明喵",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "media_group_id": 13952425286038053,
     "images": [
@@ -71366,21 +71366,21 @@
     "id": 5163,
     "date": "2025-04-08T04:43:46",
     "text": "说起来 这次一起旅行的人都看了少女乐队，所以开车的时候就放少女乐队吧，然后差不多把大家看过的所有都放了一遍：MyGO, Crychic, Ave Mujica, トゲトゲ, 結束バンド, K-On, μ's（草\n\n...虽然都是少女乐队但是曲风都好不一样！感觉我最喜欢的还是 K-On",
-    "views": 108,
+    "views": 109,
     "forwards": 0
   },
   {
     "id": 5164,
     "date": "2025-04-08T09:43:40",
     "text": "<a href=\"##TIL\">#TIL</a> 本地跑了一些 txt2img 模型才发现，原来 flux1 和刚公开的 hidream i1 画不出 explicit nsfw 不是因为在线平台生成后有过滤，而是训练集里就没有... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 没见过就画不出来，<span class=\"spoiler\"><span>就像 virgin 画师画不好相反性别的○○一样</span></span>",
-    "views": 100,
+    "views": 102,
     "forwards": 0
   },
   {
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 87,
+    "views": 90,
     "forwards": 2,
     "media_group_id": 13953043115908261,
     "images": [
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 45,
+    "views": 55,
     "forwards": 0,
     "media_group_id": 13953278404348069,
     "images": [
