@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 09 Apr 2025 00:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 02:39:08 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #5168</title>
+      <link>https://aza.moe/life?post=5168</link>
+      <description>&lt;p&gt;图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...&lt;/p&gt;
+&lt;p&gt;花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq&lt;/p&gt;
+&lt;p&gt;（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）&lt;/p&gt;
+&lt;p&gt;仓库在这里: &lt;a href="https://github.com/hykilpikonna/HiDream-I1-nf4"&gt;https://github.com/hykilpikonna/HiDream-I1-nf4&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5168</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #5165</title>
       <link>https://aza.moe/life?post=5165</link>
