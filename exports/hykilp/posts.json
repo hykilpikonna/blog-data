@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1587,
+    "views": 1590,
     "forwards": 26,
     "images": [
       {
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 394,
+    "views": 396,
     "forwards": 6,
     "images": [
       {
@@ -71373,14 +71373,14 @@
     "id": 5164,
     "date": "2025-04-08T09:43:40",
     "text": "<a href=\"##TIL\">#TIL</a> 本地跑了一些 txt2img 模型才发现，原来 flux1 和刚公开的 hidream i1 画不出 explicit nsfw 不是因为在线平台生成后有过滤，而是训练集里就没有... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 没见过就画不出来，<span class=\"spoiler\"><span>就像 virgin 画师画不好相反性别的○○一样</span></span>",
-    "views": 109,
+    "views": 110,
     "forwards": 0
   },
   {
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 98,
+    "views": 100,
     "forwards": 2,
     "media_group_id": 13953043115908261,
     "images": [
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 74,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13953278404348069,
     "images": [
