@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-04-10T14:12:20.023570+00:00</updated>
+  <updated>2025-04-10T16:11:52.247784+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5176</id>
+    <title>小桂桂的回忆录 📒 #5176</title>
+    <updated>2025-04-10T15:34:57+00:00</updated>
+    <content>&lt;p&gt;之前有人说 arc 浏览器出移动版了就去试了一下，然后发现和桌面版一样到处都是基础 bug...&lt;/p&gt;
+&lt;p&gt;刚刚发现它完全不能搜索任何带 "." 的东西，AI 搜索还是一般搜索都不行&lt;/p&gt;
+&lt;p&gt;为什么呢？因为只要带 "." 就会被识别成 url，无论后缀是不是合理的 tld，无论符不符合 url 规则... 🌚 搜索 "gpt 3.5" 就会被识别成 "&lt;code&gt;http://gpt 3.5&lt;/code&gt;"，无论是直接搜索框按回车还是手动按"帮我搜索"按钮 &lt;/p&gt;
+&lt;p&gt;Arc 程序员到底多不聪明啊，AI 写代码都不会犯这么基础错误吧... &lt;i class="custom-emoji" emoji-src="emoji/6323315689444607430.webp"&gt;☁️&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5176" rel="alternate"/>
+  </entry>
   <entry>
     <id>5175</id>
     <title>小桂桂的回忆录 📒 #5175</title>
