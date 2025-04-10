@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 327,
+    "views": 328,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1006,
+    "views": 1007,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70658,7 +70658,7 @@
     "id": 5111,
     "date": "2025-04-01T00:40:47",
     "text": "通关了中二节奏「<a href=\"##イロドリミドリ幻想VII\">#イロドリミドリ幻想VII</a> 国际版」愚人节小游戏 qwq\n\n总共花了5分7秒8回合，没想到和 syama 一起四周目就打通了，好玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n游玩链接在这里 <a href=\"https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/\">https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/</a>",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1620,
+    "views": 1624,
     "forwards": 26,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "images": [
       {
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13953278404348069,
     "images": [
@@ -71450,7 +71450,7 @@
     "id": 5170,
     "date": "2025-04-09T23:42:23",
     "text": "奶茶咖啡坏\n\n昨天和前天起床就喝了奶茶咖啡。今天感冒了并且没有喝奶茶咖啡，结果超困困睡了 16.5h... <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 97,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -71469,7 +71469,7 @@
     "id": 5171,
     "date": "2025-04-10T02:39:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炖大鸡腿！",
-    "views": 79,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13954022088344037,
     "images": [
@@ -71499,7 +71499,7 @@
     "id": 5173,
     "date": "2025-04-10T02:55:11",
     "text": "<del>三根甘蔗和一片牛皮</del>",
-    "views": 81,
+    "views": 85,
     "forwards": 0,
     "images": [
       {
@@ -71518,14 +71518,14 @@
     "id": 5174,
     "date": "2025-04-10T03:07:56",
     "text": "（让聊聊选九宫格里哪个最好看）\n聊聊：第一排中间那个\n我：第一排是从上数还是从下数<del>还是从中间数</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 78,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 5175,
     "date": "2025-04-10T03:54:13",
     "text": "聊聊想给我看西游记电视剧，我看了一下几个版本的对比觉得还是日版最好笑 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 53,
+    "views": 58,
     "forwards": 0,
     "images": [
       {
