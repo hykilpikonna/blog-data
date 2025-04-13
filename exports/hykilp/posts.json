@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 281,
+    "views": 282,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 268,
+    "views": 269,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 237,
+    "views": 238,
     "forwards": 1,
     "images": [
       {
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1364,
+    "views": 1365,
     "forwards": 9,
     "files": [
       {
@@ -69718,7 +69718,7 @@
     "id": 5044,
     "date": "2025-03-18T03:58:15",
     "text": "啊啊 看 aquadx 群里 vc 在看 girls band cry 就进来看了一集，我真的超爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> 立即下载\n\n电波完全对上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "images": [
       {
@@ -69778,7 +69778,7 @@
     "id": 5047,
     "date": "2025-03-18T21:52:33",
     "text": "不愉快\n\n买了 Split Fiction，想和聊聊玩，但是聊聊想给大家直播然后录下来... <span class=\"spoiler\"><span>明明感觉身边的朋友都很忙直播了也不会有人看</span></span>，不过聊聊想播就试试好了，我也想把一起玩游戏的回忆记录下来 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>\n\n原本聊聊买的是 Xbox 版本，但是没有合适的捕捉卡... 有一个只有单向输入的捕捉卡，如果用它的话就只能在带延迟的捕捉画面里面玩了。配上一个 HDMI 交换机应该可以，但是需要额外两根 HDMI 线这里也没有\n\n所以我在 PC 上重新买了一份，在客厅里 AquaDX 的宿主机服务器上跑起来了，这里正好插了一张 1660S 勉强能带动 1080p60。因为蓝牙卡不太行，手柄接了一根很长的有线。然后还要接摄像头录视频和声音...\n\n现在一切都搭好了，好累好累。<span class=\"spoiler\"><span>一想到之后还要玩游戏就觉得更累了，明明两小时前想玩游戏只是其他事情做累了想要休息一下...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "images": [
       {
@@ -69797,7 +69797,7 @@
     "id": 5048,
     "date": "2025-03-19T13:04:20",
     "text": "不太聪明喵",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "images": [
       {
@@ -69816,7 +69816,7 @@
     "id": 5049,
     "date": "2025-03-19T15:36:37",
     "text": "在频道里直播一会 qwq",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "reply": {
       "id": 5047,
@@ -69851,7 +69851,7 @@
     "id": 5054,
     "date": "2025-03-19T18:15:04",
     "text": "下播啦\n\nSplit Fiction 真的和双人成行一样好玩欸，而且感觉更乱来了，喜欢 qwq\n\n（中间某个支线里主角被做成了热狗之后看饿了我也去做了热狗 🌭 好吃好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n感谢大家围观喵",
-    "views": 226,
+    "views": 227,
     "forwards": 3,
     "images": [
       {
@@ -69870,14 +69870,14 @@
     "id": 5055,
     "date": "2025-03-21T08:05:10",
     "text": "今天居然睡了十小时哇（指从下午六点睡到了凌晨四点，还错过了原本计划的晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 0
   },
   {
     "id": 5056,
     "date": "2025-03-22T03:11:06",
     "text": "不知不觉我中二居然已经可以 AJ 12+ 了，居然 13+ 也已经能打到 100.7% 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i> <del>我好厉害</del>",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 13940904532555069,
     "images": [
@@ -69999,7 +69999,7 @@
     "id": 5065,
     "date": "2025-03-24T14:10:44",
     "text": "<a href=\"##梦\">#梦</a> 做了也许是噩梦 梦里自己在有些恐怖氛围的初中学校，教室里只有我和另一个同学，但是这个同学在 bug，每过一段时间状态机都会重置回某个保存点，包括记忆和物理位置等等都会被重置...\n\n但是不一定是同一个保存点，所以我在尝试破解这个保存点机制试着把她从学校救出去。试了各种事情比如让她随便写一串字作为状态 ID 之类的。不记得做了什么 bug 操作让她回到了更早的保存点，救出来之前就醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n醒来之后在想，如果我是同学我会怎么做呢... 是不是会重置状态就可以做事情不会累了，也不会觉得无聊或者重复什么的，<del>也许可以接上一个 prompt 显示器让自己变成 a helpful assistant</del>",
-    "views": 182,
+    "views": 183,
     "forwards": 0
   },
   {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1772,
+    "views": 1777,
     "forwards": 26,
     "images": [
       {
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 431,
+    "views": 433,
     "forwards": 6,
     "images": [
       {
@@ -71089,7 +71089,7 @@
     "id": 5142,
     "date": "2025-04-07T02:41:41",
     "text": "<a href=\"##adhd\">#adhd</a> <a href=\"##戴上耳机\">#戴上耳机</a> 在高速上没有开车的两只手和一只脚在干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（当然这段是回家之后录的",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "files": [
       {
@@ -71112,7 +71112,7 @@
     "id": 5143,
     "date": "2025-04-07T04:36:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n又敲了敲各种地方发现这也许可以当作一个完整的架子鼓哇，敲点不那么简单的 quq\n\n（曲子是 Cavetown 的 <em>Sweet Tooth</em>，记得两年前超喜欢这首，在西雅图实习的闲时去 Guitar Center 白嫖钢琴弹的时候弹累了去那边的鼓上练过这段，居然现在还没有忘记 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "reply": {
       "id": 5142,
@@ -71246,7 +71246,7 @@
     "id": 5153,
     "date": "2025-04-07T19:07:28",
     "text": "补一下昨天的照片 qwq\n\n「练车旅行」第三天和书书、豆腐、猫猫球去 Rattlesnake Point 登了山，感觉是大型猫爬架（？）天气很晴很温和，像是某种春天体验卡\n\n之后去旁边的 Crawford Lake 沿着湖边散散步，吃了野餐（是路上买的打包 subway 三明治）\n\n一月份手术之后第一次爬这么远的路，居然走下来了，看来体力已经完全恢复啦（虽然第二天例常腿酸 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "media_group_id": 13952422784275821,
     "images": [
@@ -71336,7 +71336,7 @@
     "id": 5161,
     "date": "2025-04-07T19:12:40",
     "text": "笑死 昨天离开公园的时候看旁边阿姨把饮料放在车顶上忘记拿下来就开走了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不太聪明喵",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "media_group_id": 13952425286038053,
     "images": [
@@ -71366,21 +71366,21 @@
     "id": 5163,
     "date": "2025-04-08T04:43:46",
     "text": "说起来 这次一起旅行的人都看了少女乐队，所以开车的时候就放少女乐队吧，然后差不多把大家看过的所有都放了一遍：MyGO, Crychic, Ave Mujica, トゲトゲ, 結束バンド, K-On, μ's（草\n\n...虽然都是少女乐队但是曲风都好不一样！感觉我最喜欢的还是 K-On",
-    "views": 144,
+    "views": 145,
     "forwards": 1
   },
   {
     "id": 5164,
     "date": "2025-04-08T09:43:40",
     "text": "<a href=\"##TIL\">#TIL</a> 本地跑了一些 txt2img 模型才发现，原来 flux1 和刚公开的 hidream i1 画不出 explicit nsfw 不是因为在线平台生成后有过滤，而是训练集里就没有... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 没见过就画不出来，<span class=\"spoiler\"><span>就像 virgin 画师画不好相反性别的○○一样</span></span>",
-    "views": 143,
+    "views": 144,
     "forwards": 0
   },
   {
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 133,
+    "views": 134,
     "forwards": 3,
     "media_group_id": 13953043115908261,
     "images": [
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 133,
+    "views": 135,
     "forwards": 0,
     "media_group_id": 13953278404348069,
     "images": [
@@ -71450,7 +71450,7 @@
     "id": 5170,
     "date": "2025-04-09T23:42:23",
     "text": "奶茶咖啡坏\n\n昨天和前天起床就喝了奶茶咖啡。今天感冒了并且没有喝奶茶咖啡，结果超困困睡了 16.5h... <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 136,
+    "views": 138,
     "forwards": 0,
     "images": [
       {
@@ -71469,7 +71469,7 @@
     "id": 5171,
     "date": "2025-04-10T02:39:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炖大鸡腿！",
-    "views": 119,
+    "views": 122,
     "forwards": 0,
     "media_group_id": 13954022088344037,
     "images": [
@@ -71499,7 +71499,7 @@
     "id": 5173,
     "date": "2025-04-10T02:55:11",
     "text": "<del>三根甘蔗和一片牛皮</del>",
-    "views": 125,
+    "views": 128,
     "forwards": 0,
     "images": [
       {
@@ -71518,14 +71518,14 @@
     "id": 5174,
     "date": "2025-04-10T03:07:56",
     "text": "（让聊聊选九宫格里哪个最好看）\n聊聊：第一排中间那个\n我：第一排是从上数还是从下数<del>还是从中间数</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 125,
+    "views": 128,
     "forwards": 0
   },
   {
     "id": 5175,
     "date": "2025-04-10T03:54:13",
     "text": "聊聊想给我看西游记电视剧，我看了一下几个版本的对比觉得还是日版最好笑 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 121,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -71544,7 +71544,7 @@
     "id": 5176,
     "date": "2025-04-10T15:34:57",
     "text": "之前有人说 arc 浏览器出移动版了就去试了一下，然后发现和桌面版一样到处都是基础 bug...\n\n刚刚发现它完全不能搜索任何带 \".\" 的东西，AI 搜索还是一般搜索都不行\n\n为什么呢？因为只要带 \".\" 就会被识别成 url，无论后缀是不是合理的 tld，无论符不符合 url 规则... 🌚 搜索 \"gpt 3.5\" 就会被识别成 \"<code>http://gpt 3.5</code>\"，无论是直接搜索框按回车还是手动按\"帮我搜索\"按钮 \n\nArc 程序员到底多不聪明啊，AI 写代码都不会犯这么基础错误吧... <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 123,
+    "views": 124,
     "forwards": 1,
     "files": [
       {
@@ -71566,7 +71566,7 @@
     "id": 5177,
     "date": "2025-04-11T00:19:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n腊肉炒面！\n\n因为炒面油多才好吃就放了超级多油，希望不会长胖胖（x）",
-    "views": 125,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13954646124929645,
     "images": [
@@ -71596,7 +71596,7 @@
     "id": 5179,
     "date": "2025-04-11T21:30:19",
     "text": "现实就是 无论是不是一个好电影，只是因为「是一部 Minecraft 电影」就会有人看，就会一周内冲到全年 #3 的票房，只是因为有钱赚就会出续作...",
-    "views": 116,
+    "views": 120,
     "forwards": 0,
     "reply": {
       "id": 5120,
@@ -71619,7 +71619,7 @@
     "id": 5180,
     "date": "2025-04-11T21:45:52",
     "text": "现实就是 无论是不是一个好电影，只是因为「中国人口多还没什么好电影看」就会有人看，就冲到全年 #1 的票房，只是因为有钱赚就会出续作...",
-    "views": 115,
+    "views": 120,
     "forwards": 0,
     "forwarded_from": {
       "name": "豆腐"
@@ -71629,14 +71629,14 @@
     "id": 5181,
     "date": "2025-04-12T04:42:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://www.youtube.com/watch?v=gz9BRl7DVSM\">OK Go - Love (Official Video)</a>\n\n太炫酷了",
-    "views": 101,
+    "views": 107,
     "forwards": 0
   },
   {
     "id": 5182,
     "date": "2025-04-13T01:59:15",
-    "text": "打算继续直播 Split Fiction\n\n这次换上了 RTX 2080 希望不会像之前那样全损画质还只有 20fps（x）\n\n以及因为 tg 网络灵车，除了频道以外也会同时推到其他地方啦:\n* 自搭直播间: <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>\n* YouTube: <a href=\"https://youtu.be/aInNq2ZfciY\">https://youtu.be/aInNq2ZfciY</a>",
-    "views": 70,
+    "text": "打算继续直播 Split Fiction\n\n这次换上了 RTX 2080 希望不会像之前那样全损画质还只有 20fps（x）\n\n以及因为 tg 网络灵车，除了频道以外也会同时推到其他地方啦:\n* 自搭直播间: <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>\n* YouTube: <a href=\"https://youtube.com/live/NqZYSblIh4Q\">https://youtube.com/live/NqZYSblIh4Q</a>",
+    "views": 85,
     "forwards": 0,
     "reply": {
       "id": 5054,
@@ -71653,11 +71653,17 @@
     "id": 5184,
     "date": "2025-04-13T02:11:17",
     "text": "技术问题解决了，大家想发评论在这里发w",
-    "views": 62,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 5182,
-      "text": "打算继续直播 Split Fiction\n\n这次换上了 RTX 2080 希望不会像之前那样全损画质还只有 20fps（x）\n\n以及因为 tg 网络灵车，除了频道以外也会同时推到其他地方啦:\n* 自搭直播间: <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>\n* YouTube: <a href=\"https://youtu.be/aInNq2ZfciY\">https://youtu.be/aInNq2ZfciY</a>"
+      "text": "打算继续直播 Split Fiction\n\n这次换上了 RTX 2080 希望不会像之前那样全损画质还只有 20fps（x）\n\n以及因为 tg 网络灵车，除了频道以外也会同时推到其他地方啦:\n* 自搭直播间: <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>\n* YouTube: <a href=\"https://youtube.com/live/NqZYSblIh4Q\">https://youtube.com/live/NqZYSblIh4Q</a>"
     }
+  },
+  {
+    "id": 5185,
+    "date": "2025-04-13T05:07:09",
+    "type": "service",
+    "text": "Video chat ended"
   }
 ]
