@@ -65313,7 +65313,7 @@
     "id": 4748,
     "date": "2024-12-12T05:27:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n感觉自己非常需要 Kero Kero 的心态，非常需要 take a break <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>\n\n♪ 空を見上げる満月\n♪ 星ってこんなに綺麗なんだ\n♪ こういう時に思うんだ\n♪ 生きてるって不思議\n♪ Life is a race, that's what they say\n♪ So time out, and look around\n♪ 立ち止まると見えてくる\n♪ I see it now (take a break!)",
-    "views": 126,
+    "views": 127,
     "forwards": 2,
     "files": [
       {
@@ -65335,14 +65335,14 @@
     "id": 4749,
     "date": "2024-12-12T06:01:27",
     "text": "今天计网课期末考试，考了两道课上没有讲的半超纲题... 一道是 NAT 打洞，另一道是 UDP/TCP Tunneling 🌚 哈哈哈哈哈这个我熟，这个我真是太熟了，简直是压到题\n\nNAT 题问了为什么两个不同 NAT 下的机器没办法 P2P 连接，然后问一个公网服务器怎样才能帮忙建立起不经过这个服务器的点对点连接，隧道题问了 UDP over TCP 和 TCP over UDP 哪个 overhead 更低 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 好简单",
-    "views": 129,
+    "views": 130,
     "forwards": 1
   },
   {
     "id": 4750,
     "date": "2024-12-12T17:52:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸蛋挞！\n\n用空气炸锅做早餐的时候原本想煎一个鸡蛋，然后突然想到，为什么不把鸡蛋放进去一起煎呢？所以就试着把鸡蛋打进蛋挞模具里面一起煎了八分钟，居然真的像一般炸鸡蛋一样好吃 quq",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 13872207428373741,
     "images": [
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 165,
+    "views": 166,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65428,7 +65428,7 @@
     "id": 4756,
     "date": "2024-12-13T14:51:22",
     "text": "昨晚聊聊给我看这个快发布的叫 Catly 的游戏，我说怎么感觉不太对劲 AI 味好浓... 然后今天看推发现居然真的是 AI 生成的\n\n唉 感觉 AI hype 成功把网络上每个人训练成了 AI 内容识别 bot",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "media_group_id": 13872811857317293,
     "images": [
@@ -65576,7 +65576,7 @@
     "id": 4765,
     "date": "2024-12-16T05:56:07",
     "text": "<a href=\"##谜题\">#谜题</a> 第一次解出 weekly 30*40 的数回，花了 36 min 好难好难 quq",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1807,
+    "views": 1817,
     "forwards": 26,
     "images": [
       {
@@ -71469,7 +71469,7 @@
     "id": 5171,
     "date": "2025-04-10T02:39:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炖大鸡腿！",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13954022088344037,
     "images": [
@@ -71499,7 +71499,7 @@
     "id": 5173,
     "date": "2025-04-10T02:55:11",
     "text": "<del>三根甘蔗和一片牛皮</del>",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "images": [
       {
@@ -71518,14 +71518,14 @@
     "id": 5174,
     "date": "2025-04-10T03:07:56",
     "text": "（让聊聊选九宫格里哪个最好看）\n聊聊：第一排中间那个\n我：第一排是从上数还是从下数<del>还是从中间数</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 131,
+    "views": 132,
     "forwards": 0
   },
   {
     "id": 5175,
     "date": "2025-04-10T03:54:13",
     "text": "聊聊想给我看西游记电视剧，我看了一下几个版本的对比觉得还是日版最好笑 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "images": [
       {
@@ -71544,7 +71544,7 @@
     "id": 5176,
     "date": "2025-04-10T15:34:57",
     "text": "之前有人说 arc 浏览器出移动版了就去试了一下，然后发现和桌面版一样到处都是基础 bug...\n\n刚刚发现它完全不能搜索任何带 \".\" 的东西，AI 搜索还是一般搜索都不行\n\n为什么呢？因为只要带 \".\" 就会被识别成 url，无论后缀是不是合理的 tld，无论符不符合 url 规则... 🌚 搜索 \"gpt 3.5\" 就会被识别成 \"<code>http://gpt 3.5</code>\"，无论是直接搜索框按回车还是手动按\"帮我搜索\"按钮 \n\nArc 程序员到底多不聪明啊，AI 写代码都不会犯这么基础错误吧... <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 1,
     "files": [
       {
