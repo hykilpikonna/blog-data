@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1264,
+    "views": 1265,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1916,
+    "views": 1918,
     "forwards": 27,
     "images": [
       {
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 464,
+    "views": 465,
     "forwards": 6,
     "images": [
       {
@@ -71636,7 +71636,7 @@
     "id": 5182,
     "date": "2025-04-13T01:59:15",
     "text": "打算继续直播 Split Fiction\n\n这次换上了 RTX 2080 希望不会像之前那样全损画质还只有 20fps（x）\n\n以及因为 tg 网络灵车，除了频道以外也会同时推到其他地方啦:\n* 自搭直播间: <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>\n* YouTube: （结束了）",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "reply": {
       "id": 5054,
@@ -71653,7 +71653,7 @@
     "id": 5184,
     "date": "2025-04-13T02:11:17",
     "text": "技术问题解决了，大家想发评论在这里发w",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "reply": {
       "id": 5182,
@@ -71670,7 +71670,7 @@
     "id": 5186,
     "date": "2025-04-14T01:30:39",
     "text": "今天尝试用 3D 打印机的时候发现打印效果非常差，分层的地方多出来了好多洞洞，查了一下发现是挤出不足的问题\n\n然后猫猫球教我校准了挤出量——在耗材上离入口 200mm 的位置做好记号，打开串口终端命令它挤 200mm，然后测量实际上挤了多少，最后再算出正确的挤出量写进打印机记忆里 qwq\n\n校准了然后顺便换了挤出头，重新打了一次质量差距居然这么大哇 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢猫猫球）",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13956753914018021,
     "images": [
@@ -71903,7 +71903,7 @@
     "id": 5206,
     "date": "2025-04-15T18:56:18",
     "text": "因为要离开学校了，去办了一张新的学生卡更新一下照片 qwq\n\n和刚入学的时候的照片对比的话变化好大 > <",
-    "views": 113,
+    "views": 114,
     "forwards": 2,
     "media_group_id": 13957947024461093,
     "images": [
@@ -71933,7 +71933,7 @@
     "id": 5208,
     "date": "2025-04-15T20:19:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nこれが．．．ぎゅう、どん！\n\n这居然确实无疑是<del>牛顿</del>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 13957987062717005,
     "images": [
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 94,
+    "views": 96,
     "forwards": 0,
     "media_group_id": 13958125648289765,
     "images": [
@@ -72017,7 +72017,7 @@
     "id": 5214,
     "date": "2025-04-16T06:06:38",
     "text": "说到旅行模拟器，之前一直在期待的那个 <a href=\"https://store.steampowered.com/app/1749860/Lushfoil_Photography_Sim/\">Lushfoil 摄影模拟器</a>今天发售了，立即买了一份进去转了转\n\n现在游戏已经可以把场景渲染得这么真实了，真不敢相信这些居然是一个人做出来的，各种方面都好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 57,
+    "views": 62,
     "forwards": 1,
     "media_group_id": 13958268786484477,
     "images": [
@@ -72112,7 +72112,7 @@
     "id": 5222,
     "date": "2025-04-16T06:29:11",
     "text": "居然真的能像在用相机一样拍长曝光哇",
-    "views": 37,
+    "views": 46,
     "forwards": 0,
     "reply": {
       "id": 5214,
