@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-04-16T14:12:04.869750+00:00</updated>
+  <updated>2025-04-16T16:12:17.563850+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5223</id>
+    <title>小桂桂的回忆录 📒 #5223</title>
+    <updated>2025-04-16T14:31:35+00:00</updated>
+    <content>&lt;p&gt;互联网真是巨大草台&lt;/p&gt;
+&lt;p&gt;听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工&lt;/p&gt;
+&lt;p&gt;方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚&lt;/p&gt;
+&lt;p&gt;我&lt;a href="https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup"&gt;上次 CyberSci 2023&lt;/a&gt; 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5223" rel="alternate"/>
+  </entry>
   <entry>
     <id>5222</id>
     <title>小桂桂的回忆录 📒 #5222</title>
