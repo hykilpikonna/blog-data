@@ -12,7 +12,35 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 15 Apr 2025 16:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 02:50:12 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #5211</title>
+      <link>https://aza.moe/life?post=5211</link>
+      <description>&lt;p&gt;感觉是时候解开谜底了 qwq&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿&lt;/p&gt;
+&lt;p&gt;U+E0000~E007F 是一个特定的 "Tag" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB&lt;/p&gt;
+&lt;p&gt;在 ipython 里面读取这个文件或者直接转发给 &lt;/span&gt;&lt;/span&gt;&lt;a href="https://t.me/RawDataBot"&gt;&lt;span class="spoiler"&gt;&lt;span&gt;@RawDataBot&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="spoiler"&gt;&lt;span&gt; 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦&lt;/p&gt;
+&lt;p&gt;解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。&lt;/p&gt;
+&lt;p&gt;其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以&lt;/span&gt;&lt;/span&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;总共有四个人解出来恭喜喵！不过当然很多人也猜到了，&lt;span class="spoiler"&gt;&lt;span&gt;the cake is a lie &lt;/span&gt;&lt;/span&gt;&lt;span class="spoiler"&gt;&lt;span&gt;&lt;i class="custom-emoji" emoji-src="emoji/6213122269036680377.webm"&gt;😊&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5211</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #5208</title>
+      <link>https://aza.moe/life?post=5208</link>
+      <description>&lt;p&gt;&lt;a href="##桂桂今天吃什么"&gt;#桂桂今天吃什么&lt;/a&gt;
+これが．．．ぎゅう、どん！&lt;/p&gt;
+&lt;p&gt;这居然确实无疑是&lt;del&gt;牛顿&lt;/del&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5208</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #5206</title>
+      <link>https://aza.moe/life?post=5206</link>
+      <description>&lt;p&gt;因为要离开学校了，去办了一张新的学生卡更新一下照片 qwq&lt;/p&gt;
+&lt;p&gt;和刚入学的时候的照片对比的话变化好大 &amp;gt; &amp;lt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5206</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #5204</title>
       <link>https://aza.moe/life?post=5204</link>
