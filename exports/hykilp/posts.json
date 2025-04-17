@@ -64971,7 +64971,7 @@
     "id": 4722,
     "date": "2024-12-07T09:41:40",
     "text": "哭哭 Notion 为什么要把「创建 latex 公式」的快捷键绑定到 ctrl + alt + e 还不能改... 总是会不小心按到 ctrl + alt + w 把窗口关了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 174,
+    "views": 175,
     "forwards": 1
   },
   {
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1031,
+    "views": 1033,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 1927,
+    "views": 1929,
     "forwards": 27,
     "images": [
       {
@@ -72112,7 +72112,7 @@
     "id": 5222,
     "date": "2025-04-16T06:29:11",
     "text": "居然真的能像在用相机一样拍长曝光哇",
-    "views": 84,
+    "views": 86,
     "forwards": 0,
     "reply": {
       "id": 5214,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 108,
+    "views": 115,
     "forwards": 4,
     "media_group_id": 13958511164945181,
     "images": [
