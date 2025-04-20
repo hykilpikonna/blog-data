@@ -68556,7 +68556,7 @@
   {
     "id": 4963,
     "date": "2025-02-25T15:43:48",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "images": [
       {
@@ -68575,21 +68575,21 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 325,
+    "views": 327,
     "forwards": 11
   },
   {
     "id": 4965,
     "date": "2025-02-26T03:29:56",
     "text": "聊聊去超市买了三次香菜都没买对，今天一起去的时候让聊聊帮忙拿香菜（因为太远了我走不动）然后聊聊给我拿了 curly parsley <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 220,
+    "views": 222,
     "forwards": 0
   },
   {
     "id": 4966,
     "date": "2025-02-26T11:56:44",
     "text": "因为 Quest 3 也是安卓，试了一下在 VR 里面装 KanadeDX，还真的能带得动\n\n<a href=\"https://www.youtube.com/watch?v=o6VLNAwER2E\">https://www.youtube.com/watch?v=o6VLNAwER2E</a>\n\n虽然手指追踪不是很行，因为是原生安卓应用不是 VR 应用所以只有食指的触摸可以被识别到，真的变成多拉A梦了\n\n（打 Lv9 红谱打了一个 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 224,
+    "views": 226,
     "forwards": 1,
     "reply": {
       "id": 4964,
@@ -68600,7 +68600,7 @@
     "id": 4967,
     "date": "2025-02-26T19:57:20",
     "text": "恭喜 sega 发现了 scunthrope problem <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "images": [
       {
@@ -68619,7 +68619,7 @@
     "id": 4968,
     "date": "2025-02-26T21:18:48",
     "text": "呜呜呜 电脑突然这样子我被吓死了...",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "files": [
       {
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1049,
+    "views": 1050,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 202,
+    "views": 203,
     "forwards": 2,
     "media_group_id": 13958125648289765,
     "images": [
@@ -72017,7 +72017,7 @@
     "id": 5214,
     "date": "2025-04-16T06:06:38",
     "text": "说到旅行模拟器，之前一直在期待的那个 <a href=\"https://store.steampowered.com/app/1749860/Lushfoil_Photography_Sim/\">Lushfoil 摄影模拟器</a>今天发售了，立即买了一份进去转了转\n\n现在游戏已经可以把场景渲染得这么真实了，真不敢相信这些居然是一个人做出来的，各种方面都好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 3,
     "media_group_id": 13958268786484477,
     "images": [
@@ -72112,7 +72112,7 @@
     "id": 5222,
     "date": "2025-04-16T06:29:11",
     "text": "居然真的能像在用相机一样拍长曝光哇",
-    "views": 229,
+    "views": 230,
     "forwards": 0,
     "reply": {
       "id": 5214,
@@ -72136,8 +72136,8 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 3608,
-    "forwards": 78,
+    "views": 3630,
+    "forwards": 80,
     "media_group_id": 13958511164945181,
     "images": [
       {
@@ -72166,7 +72166,7 @@
     "id": 5225,
     "date": "2025-04-17T05:48:36",
     "text": "电车起火居然真的发生在我这个公寓里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 267,
+    "views": 268,
     "forwards": 0,
     "media_group_id": 13958951330103757,
     "images": [
@@ -72257,7 +72257,7 @@
     "id": 5231,
     "date": "2025-04-20T04:15:54",
     "text": "Jamie 的大作业在研究无透镜的成像方式，今天来找我帮忙\n\n她带过来了一个 Pi Cam 原本想拆，但是看了一下觉得传感器好小不太能魔改，还是贡献了我闲置的 webcam，拆开镜头看到下面的传感器好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n决定好要用它之后帮忙 3D 打印了一个用来固定掩码薄膜的片片，以及帮忙把 LED 焊下去了（因为 LED 的位置可能影响传感器读到的颜色）\n\n希望接下来她的尝试顺利 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 117,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 13960980435002741,
     "images": [
@@ -72327,14 +72327,14 @@
     "id": 5237,
     "date": "2025-04-20T04:29:53",
     "text": "聊聊不太聪明喵\n\n今天一起做咖喱，首先是聊聊热锅烧油忘记开火，然后盛饭的时候还忘记了是拌饭结果用了只能装下饭的小碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 119,
+    "views": 121,
     "forwards": 0
   },
   {
     "id": 5238,
     "date": "2025-04-20T06:38:19",
     "text": "头发又太长了，尝试自己剪头发结果大翻车 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n我剪前面能看到的地方然后侧边后面没有把握就交给聊聊了。剪了一圈发现左边比右边长一点，然后稍微修了一下左边，侧边让聊聊帮忙修一下结果剪多了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n照镜子看起来不太聪明喵\n\n没关系没关系 再等两周再修修吧",
-    "views": 124,
+    "views": 129,
     "forwards": 3,
     "media_group_id": 13961048792715885,
     "images": [
@@ -72377,7 +72377,7 @@
     "id": 5241,
     "date": "2025-04-20T18:27:58",
     "text": "好吧聊聊拿错香菜不是完全没有原因的，看了一下标签...\n\n“卷叶洋香菜”\n“直叶芫荽”\n“芫茜（芫荽）”\n\n聊聊应该是 match 了唯一一个有“香菜”两个字的，但是最后那个才是中餐常用的香菜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<del>相比之下我买菜完全不看字所以就不会掉进这个坑</del> 至少鼻子不会骗人 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 45,
+    "views": 52,
     "forwards": 1,
     "media_group_id": 13961389428273157,
     "images": [
