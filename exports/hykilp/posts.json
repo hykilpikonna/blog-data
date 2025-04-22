@@ -44530,7 +44530,7 @@
     "id": 3287,
     "date": "2024-02-02T23:18:58",
     "text": "贴完了！花了整整一个小时，ADHD 做这种又重复又需要集中的事情真是地狱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及原来 Windows 有防猫功能",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "media_group_id": 13655327505851861,
     "images": [
@@ -44584,7 +44584,7 @@
     "id": 3291,
     "date": "2024-02-03T03:10:10",
     "text": "哇 自动泡面售货机",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -44603,14 +44603,14 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 113,
+    "views": 114,
     "forwards": 0
   },
   {
     "id": 3293,
     "date": "2024-02-03T23:09:48",
     "text": "Q: 下午六点才起床的话吃的是早饭还是晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0
   },
   {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2051,
+    "views": 2053,
     "forwards": 28,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4059,
+    "views": 4075,
     "forwards": 82,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72460,7 +72460,7 @@
     "id": 5246,
     "date": "2025-04-22T01:29:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nfish and... chips?",
-    "views": 86,
+    "views": 88,
     "forwards": 0,
     "images": [
       {
