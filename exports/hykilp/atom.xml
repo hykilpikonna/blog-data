@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-04-23T08:12:21.576882+00:00</updated>
+  <updated>2025-04-23T10:12:10.592476+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5254</id>
+    <title>小桂桂的回忆录 📒 #5254</title>
+    <updated>2025-04-23T08:26:35+00:00</updated>
+    <content>&lt;p&gt;看来并不是所有光猫都这么容易破解...&lt;/p&gt;
+&lt;p&gt;刚才在尝试用同样的方法破解 Bell GigaHub，拆开了机器、用示波器找到了 TTL 引脚的焊盘、焊上了线、打开了 UART 终端，然后发现虽然可以从这里看到它系统的输出，但是没办法输入指令，在 UBoot 阶段尝试中断也没有用... &lt;i class="custom-emoji" emoji-src="emoji/6169953432485496291.webm"&gt;😶&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;因为家里跑的服务全都依赖这个路由器所以暂时放弃接回去了，下次买一台二手试试直接读写闪存好了 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5254" rel="alternate"/>
+  </entry>
   <entry>
     <id>5247</id>
     <title>小桂桂的回忆录 📒 #5247</title>
