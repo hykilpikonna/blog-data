@@ -14275,7 +14275,7 @@
     "id": 1145,
     "date": "2022-09-02T18:05:05",
     "text": "给书打印了一只小狐狸w\n\n第一次给 3D 打印的东西上色，用了聊聊的高达马克笔，效果还不错 qwq",
-    "views": 170,
+    "views": 171,
     "forwards": 2,
     "media_group_id": 13297135240200285,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2064,
+    "views": 2065,
     "forwards": 28,
     "images": [
       {
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 214,
+    "views": 215,
     "forwards": 2,
     "media_group_id": 13958125648289765,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4202,
+    "views": 4212,
     "forwards": 82,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72206,7 +72206,7 @@
     "id": 5228,
     "date": "2025-04-18T10:31:40",
     "text": "昨天看了电影《駒田蒸馏所へようこそ》，好喜欢这部电影对理想的呈现\n\n写了感想在<a href=\"https://aza.moe/blog?post=2025-04-18-Komada-Whiskey-Family\">这里</a>（剧透警告",
-    "views": 192,
+    "views": 193,
     "forwards": 2,
     "media_group_id": 13959778407339541,
     "images": [
@@ -72238,7 +72238,7 @@
     "id": 5230,
     "date": "2025-04-19T03:30:25",
     "text": "今天 Jun 来这里玩，穿了她的摩卡 kigurumi，超级可爱！！！ > <\n\n给她换装换上了我之前的女仆衣服，用她的相机拍了些照片（等待返图中）\n\n我也戴上试了一下头套，戴上的时候不太能看到外面感觉怪怪的（因为发穿着别人的脸的照片好像不太好所以打一下码）\n\n以及研究了一下 kig 头套的结构，比想象中要简单好多，我也好想试试 3D 打印一个",
-    "views": 183,
+    "views": 184,
     "forwards": 3,
     "images": [
       {
@@ -72257,7 +72257,7 @@
     "id": 5231,
     "date": "2025-04-20T04:15:54",
     "text": "Jamie 的大作业在研究无透镜的成像方式，今天来找我帮忙\n\n她带过来了一个 Pi Cam 原本想拆，但是看了一下觉得传感器好小不太能魔改，还是贡献了我闲置的 webcam，拆开镜头看到下面的传感器好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n决定好要用它之后帮忙 3D 打印了一个用来固定掩码薄膜的片片，以及帮忙把 LED 焊下去了（因为 LED 的位置可能影响传感器读到的颜色）\n\n希望接下来她的尝试顺利 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 13960980435002741,
     "images": [
@@ -72327,7 +72327,7 @@
     "id": 5237,
     "date": "2025-04-20T04:29:53",
     "text": "聊聊不太聪明喵\n\n今天一起做咖喱，首先是聊聊热锅烧油忘记开火，然后盛饭的时候还忘记了是拌饭结果用了只能装下饭的小碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 143,
+    "views": 145,
     "forwards": 0
   },
   {
@@ -72377,7 +72377,7 @@
     "id": 5241,
     "date": "2025-04-20T18:27:58",
     "text": "好吧聊聊拿错香菜不是完全没有原因的，看了一下标签...\n\n“卷叶洋香菜”\n“直叶芫荽”\n“芫茜（芫荽）”\n\n聊聊应该是 match 了唯一一个有“香菜”两个字的，但是最后那个才是中餐常用的香菜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<del>相比之下我买菜完全不看字所以就不会掉进这个坑</del> 至少鼻子不会骗人 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 137,
+    "views": 138,
     "forwards": 1,
     "media_group_id": 13961389428273157,
     "images": [
@@ -72411,7 +72411,7 @@
     "id": 5243,
     "date": "2025-04-21T05:37:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>芒果寿司</del> 🍣\n\n感谢 Jamie 送了蛋糕，发现这次中超的蛋糕甜味正好呢，北美超市的蛋糕都太甜了",
-    "views": 136,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 13961710904473125,
     "images": [
@@ -72441,7 +72441,7 @@
     "id": 5245,
     "date": "2025-04-21T06:35:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n原本打算做午餐肉炒卷心菜 + 米饭，但是热锅烧油炒葱炒肉之后发现菜发霉了，不过正好这些食材也可以用来做炒饭所以就做了炒饭 qwq",
-    "views": 130,
+    "views": 132,
     "forwards": 0,
     "images": [
       {
@@ -72460,7 +72460,7 @@
     "id": 5246,
     "date": "2025-04-22T01:29:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nfish and... chips?",
-    "views": 126,
+    "views": 128,
     "forwards": 1,
     "images": [
       {
@@ -72479,7 +72479,7 @@
     "id": 5247,
     "date": "2025-04-22T19:40:35",
     "text": "和聊聊拼了迷你咖啡厅 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i>\n\n看上去好 cozy，好想在现实中开这样的咖啡厅呀（可惜我只会做速溶咖啡 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 119,
+    "views": 121,
     "forwards": 1,
     "media_group_id": 13962806685581797,
     "images": [
@@ -72559,7 +72559,7 @@
     "id": 5254,
     "date": "2025-04-23T08:26:35",
     "text": "看来并不是所有光猫都这么容易破解...\n\n刚才在尝试用同样的方法破解 Bell GigaHub，拆开了机器、用示波器找到了 TTL 引脚的焊盘、焊上了线、打开了 UART 终端，然后发现虽然可以从这里看到它系统的输出，但是没办法输入指令，在 UBoot 阶段尝试中断也没有用... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n因为家里跑的服务全都依赖这个路由器所以暂时放弃接回去了，下次买一台二手试试直接读写闪存好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 77,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13963174362310541,
     "images": [
@@ -72629,5 +72629,12 @@
       "text": "今天去 syama 家帮忙破解了移动光光猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i>\n\n型号是 SK-D747，想要关掉 ipv6 防火墙但是用户配置界面并没有这个设置，想要找到 CMCCAdmin 超管密码。通常来说超管密码直接找宽带师傅要或者找移动内鬼查就能查到，但是这台是公寓提供的集客宽带所以没办法联系师傅，内鬼也查不到密码。去网络论坛上看了其他人的破解方法，也试了很多 hidden_version_switch.html 之类的漏洞，但是这些都被堵住了。看来软件是没办法了，拆机看看\n\n拆开后盖马上发现有八个测试孔，四个焊了排针，四个没焊。电表测一下发现孔 0 4 7 都是接地。又测了一下电压，孔 1 是 5V，孔 5 是 3V，6 是 0.074V。群友猜 5 6 分别是 UART 的 TX 和 RX，但是插上 UART 串口工具发现并没有输出，反过来也没有。\n\n然后突然想到，既然买了示波器就看看这些孔的波形好了，把夹子接地，针点到每个引脚，发现脚 2 是稳定 3V，脚 3 有零到 3V 的 TTL 高低电平切换，由此推断 2 3 才是 TX 和 RX。这次接上 UART 终于进终端了！\n\n接上之后就交给 menci 了，重启路由器，终端打了很多日志，等开机结束之后导出搜索 \"pwd\" 找到了 root 密码 🌚 真安全。登录进 root 之后去读文件 /userconfig/cfg/db_user_cfg.xml 就拿到了超管密码，然后我累累睡睡，menci 念了几串魔法配好了桥接和公网 v6 直通，好厉害\n\n总之学会了用示波器很开心！ <del>会用之后就看到什么都忍不住想用示波器点点了</del>",
       "thumb": "media/4265.jpg_thumb.jpg"
     }
+  },
+  {
+    "id": 5260,
+    "date": "2025-04-23T20:04:00",
+    "text": "发现日元和加拿大元转换只需要去掉两个零，好方便 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
+    "views": 19,
+    "forwards": 0
   }
 ]
