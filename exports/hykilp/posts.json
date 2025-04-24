@@ -57323,7 +57323,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57346,7 +57346,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -58135,7 +58135,7 @@
     "id": 4258,
     "date": "2024-07-31T11:56:19",
     "text": "🀄",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13779415838615309,
     "images": [
@@ -58165,7 +58165,7 @@
     "id": 4260,
     "date": "2024-07-31T15:56:09",
     "text": "<a href=\"##ML\">#ML</a> V100 因为是靠服务器风道散热所以散热块没有风扇，前几天买了六个 ThermalRight 热右右牌的 60mm 静音风扇，今天给它设计了一个 3D 打印的外壳，正好卡在散热器上 qwq",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13779530958546629,
     "images": [
@@ -58230,7 +58230,7 @@
     "id": 4265,
     "date": "2024-08-01T03:54:23",
     "text": "今天去 syama 家帮忙破解了移动光光猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i>\n\n型号是 SK-D747，想要关掉 ipv6 防火墙但是用户配置界面并没有这个设置，想要找到 CMCCAdmin 超管密码。通常来说超管密码直接找宽带师傅要或者找移动内鬼查就能查到，但是这台是公寓提供的集客宽带所以没办法联系师傅，内鬼也查不到密码。去网络论坛上看了其他人的破解方法，也试了很多 hidden_version_switch.html 之类的漏洞，但是这些都被堵住了。看来软件是没办法了，拆机看看\n\n拆开后盖马上发现有八个测试孔，四个焊了排针，四个没焊。电表测一下发现孔 0 4 7 都是接地。又测了一下电压，孔 1 是 5V，孔 5 是 3V，6 是 0.074V。群友猜 5 6 分别是 UART 的 TX 和 RX，但是插上 UART 串口工具发现并没有输出，反过来也没有。\n\n然后突然想到，既然买了示波器就看看这些孔的波形好了，把夹子接地，针点到每个引脚，发现脚 2 是稳定 3V，脚 3 有零到 3V 的 TTL 高低电平切换，由此推断 2 3 才是 TX 和 RX。这次接上 UART 终于进终端了！\n\n接上之后就交给 menci 了，重启路由器，终端打了很多日志，等开机结束之后导出搜索 \"pwd\" 找到了 root 密码 🌚 真安全。登录进 root 之后去读文件 /userconfig/cfg/db_user_cfg.xml 就拿到了超管密码，然后我累累睡睡，menci 念了几串魔法配好了桥接和公网 v6 直通，好厉害\n\n总之学会了用示波器很开心！ <del>会用之后就看到什么都忍不住想用示波器点点了</del>",
-    "views": 129,
+    "views": 132,
     "forwards": 3,
     "media_group_id": 13779875706431301,
     "images": [
@@ -58294,7 +58294,7 @@
     "id": 4270,
     "date": "2024-08-01T16:56:34",
     "text": "收拾家里的各种东西\n\n桂桂：这个是 mai 机的主板盒子…这个里是 GPU 服务器的东西…然后这个盒子放各种电源线…\n我：啊我有标签打印机，我来打标签贴上去\n桂桂：啊早知道就不用写上了\n……\n桂桂：这个标签…有一种我被 RIIR 了的感觉（",
-    "views": 122,
+    "views": 125,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -58316,7 +58316,7 @@
     "id": 4271,
     "date": "2024-08-02T08:09:45",
     "text": "一只桂桂 ￥115.3",
-    "views": 150,
+    "views": 153,
     "forwards": 1,
     "images": [
       {
@@ -58335,7 +58335,7 @@
     "id": 4272,
     "date": "2024-08-02T16:01:41",
     "text": "时间过得好快，一转眼就已经在这里三个月了，到了要告别的时间... 和 Menci 收拾了一下房间和行李，拉上 syama 一起吃了一顿午饭就匆匆忙忙地出发了。\n\n好不舍... 下次来这里会是什么时候呢？这里会变成什么样子呢？",
-    "views": 137,
+    "views": 140,
     "forwards": 1,
     "media_group_id": 13780916009305461,
     "images": [
@@ -58385,7 +58385,7 @@
     "id": 4276,
     "date": "2024-08-03T05:26:20",
     "text": "这是何等的巧合\n\n没有任何提前计划，在机场登机的时候遇到了三位群友坐同一班飞机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 160,
+    "views": 162,
     "forwards": 2,
     "images": [
       {
@@ -58404,7 +58404,7 @@
     "id": 4277,
     "date": "2024-08-04T01:14:03",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在飞机上又看了一遍《秒速五厘米》，也许是因为看到了 Cryolitia 的头像，又或许是和 syama 的事情有些共鸣，不过更可能只是因为正好在飞机系统里面翻到了。\n\n想起来小学的时候第一次听天门的《樱花抄》的时候还没有看过秒五，同样只是偶然在当时的酷狗音乐上翻到了，觉得很好听就添加到了 iPod nano 的存储里。那时候在合唱团例常排练，和一位同样在高声部的同学是很好的朋友。第一次和别人共享耳机听歌也是在这里，在排练休息的间隙，觉得她会喜欢所以选了天门的歌单。那个时候还对感情的复杂完全不熟，只觉得是一个很好的朋友，现在回想起来大概是喜欢的人吧。\n\n升到初中先是转到了朝阳区，之后又转去了北美，很快就失去了联系... 不过现在的我的性格中也有她的一部分，也许喜欢和想要成为就是分不清的吧",
-    "views": 152,
+    "views": 154,
     "forwards": 0,
     "files": [
       {
@@ -58425,7 +58425,7 @@
     "id": 4279,
     "date": "2024-08-04T20:17:22",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听听民谣团 ハンバート ハンバート 的佐野遊穂唱 rap，好可爱好可爱！！！<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "files": [
       {
@@ -58447,7 +58447,7 @@
     "id": 4280,
     "date": "2024-08-04T20:25:34",
     "text": "回到加拿大的家发现家变成了盒盒... 整理起来还好麻烦 ;-;\n\n<span class=\"spoiler\"><span>一想到明年三月还要搬走就不想把所有东西都摆出来了...</span></span>",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "images": [
       {
@@ -58466,7 +58466,7 @@
     "id": 4281,
     "date": "2024-08-05T03:55:00",
     "text": "debug 了半天为什么 arch 输出没有声音，看了文档还问了群友...\n\n然后发现只是声音太小了 🌚",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "images": [
       {
@@ -58485,7 +58485,7 @@
     "id": 4282,
     "date": "2024-08-06T04:28:46",
     "text": "鬼故事，2017 已经是七年前了",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "images": [
       {
@@ -58504,14 +58504,14 @@
     "id": 4283,
     "date": "2024-08-06T08:53:55",
     "text": "升级计算服务器之前硬件是瓶颈，升级之后发现自己变成了瓶颈... 想睡觉之前挂一个计算任务跑着，发现写这个任务需要的时间比计算需要的时间长，可是我又不想让计算闲时浪费，结果就是自己要被累死了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 1
   },
   {
     "id": 4284,
     "date": "2024-08-07T22:28:04",
     "text": "和聊聊去附近新开的模玩店买了一个镜音凛的粘土人 qwq 它的包装打开是不透明的铝反光小袋子，看起来是为了抽盲盒设计的，还好没有作为盲盒卖\n\n运气太差了不喜欢盲盒，记得几天前和 menci 和 syama 去观前喵咕屋买了プロセカ和孤独摇滚的盲盒胸针，结果孤独摇滚开出了没什么存在感的きくり，プロセカ开出了不那么能认出来的初音未来和 KAITO...\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "media_group_id": 13784557476954909,
     "images": [
@@ -58591,7 +58591,7 @@
     "id": 4291,
     "date": "2024-08-07T23:38:26",
     "text": "第一次在加拿大见到路边摊",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "media_group_id": 13784591251588581,
     "images": [
@@ -58621,7 +58621,7 @@
     "id": 4293,
     "date": "2024-08-08T04:59:22",
     "text": "让 DALLE 画了一些服务器的图标，终于不怕找不到标签页了",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13784745301187333,
     "images": [
@@ -58651,7 +58651,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -58681,7 +58681,7 @@
     "id": 4297,
     "date": "2024-08-09T05:03:32",
     "text": "今天七七在 AquaDX 群里说 AquaDX 的群头像看起来总感觉像是没加载出来的模糊图的样子，怎么办呢？正好昨天是国际猫猫日，让 DALLE 在里面填一些猫吧",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "images": [
       {
@@ -58700,7 +58700,7 @@
     "id": 4298,
     "date": "2024-08-09T07:26:45",
     "text": "<a href=\"##谜题\">#谜题</a>\n\n看数一在玩 <a href=\"https://www.puzzle-loop.com/\">Slither Link</a> 我也去试了试，好难 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 每日谜题花了 1:42 小时才做出来\n\n（放一个 100 倍速的视频",
-    "views": 167,
+    "views": 168,
     "forwards": 4,
     "files": [
       {
@@ -58722,7 +58722,7 @@
     "id": 4299,
     "date": "2024-08-09T08:48:10",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n神のまにまに！\n\n今天打プロセカ发现的这首歌，好久没有听到这么欢乐治愈的ボカロ曲了 qwq\n\n<a href=\"https://www.youtube.com/watch?v=b2GJcYBoVyg\">原曲MV</a> | <a href=\"https://www.youtube.com/watch?v=cb1s5_U0wd0\">プロセカ 3DMV</a>",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "files": [
       {
@@ -59102,7 +59102,7 @@
     "id": 4326,
     "date": "2024-08-15T08:25:05",
     "text": "聊聊：想让你像猫猫 gif 里那样 rua 我\n我：好，天降抱枕 <i class=\"custom-emoji\" emoji-src=\"emoji/4981340762533790955.webp\">😺</i>",
-    "views": 231,
+    "views": 234,
     "forwards": 3,
     "files": [
       {
@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 352,
+    "views": 353,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -70438,21 +70438,21 @@
     "id": 5096,
     "date": "2025-03-28T16:11:27",
     "text": "（在犹豫要不要出门，犹豫超级久）\n聊聊：能不能定下主意\n我：好 那我决定了！我要在家里再犹豫半小时",
-    "views": 220,
+    "views": 221,
     "forwards": 0
   },
   {
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 291,
+    "views": 294,
     "forwards": 2
   },
   {
     "id": 5098,
     "date": "2025-03-29T19:42:46",
     "text": "今天打开账号 profile 发现居然已经两个月没玩 maimai 了... 果然所有精力都用来逆向游戏魔改游戏就没精力玩游戏了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "images": [
       {
@@ -70606,7 +70606,7 @@
     "id": 5108,
     "date": "2025-03-30T17:50:28",
     "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -70628,7 +70628,7 @@
     "id": 5109,
     "date": "2025-03-31T16:56:23",
     "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "media_group_id": 13947521470139469,
     "images": [
@@ -70658,7 +70658,7 @@
     "id": 5111,
     "date": "2025-04-01T00:40:47",
     "text": "通关了中二节奏「<a href=\"##イロドリミドリ幻想VII\">#イロドリミドリ幻想VII</a> 国际版」愚人节小游戏 qwq\n\n总共花了5分7秒8回合，没想到和 syama 一起四周目就打通了，好玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n游玩链接在这里 <a href=\"https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/\">https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/</a>",
-    "views": 285,
+    "views": 286,
     "forwards": 0,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2065,
+    "views": 2066,
     "forwards": 28,
     "images": [
       {
@@ -70810,7 +70810,7 @@
     "id": 5120,
     "date": "2025-04-04T06:14:53",
     "text": "今天去看了 Minecraft 电影，总之是有些失望。写了影评，<a href=\"https://aza.moe/blog?post=2025-04-04-Minecraft-Movie\">链接在这里</a>感兴趣的话可以去读读（剧透警告）",
-    "views": 215,
+    "views": 216,
     "forwards": 3,
     "images": [
       {
@@ -71820,7 +71820,7 @@
     "id": 5199,
     "date": "2025-04-14T09:02:07",
     "text": "记得之前朋友和我说ta是靠唱歌学的日语（是麻薯还是蓝夏来着忘记了）所以我打算也试试 qwq\n\n...写写歌词发现果然不会写的中文汉字更多一点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 因为有十年没用纸笔写中文了，需要用中文的地方也只有打字和说话\n\n（不过正好中文也一起炼了",
-    "views": 200,
+    "views": 201,
     "forwards": 2,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4222,
+    "views": 4230,
     "forwards": 82,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72206,7 +72206,7 @@
     "id": 5228,
     "date": "2025-04-18T10:31:40",
     "text": "昨天看了电影《駒田蒸馏所へようこそ》，好喜欢这部电影对理想的呈现\n\n写了感想在<a href=\"https://aza.moe/blog?post=2025-04-18-Komada-Whiskey-Family\">这里</a>（剧透警告",
-    "views": 196,
+    "views": 197,
     "forwards": 2,
     "media_group_id": 13959778407339541,
     "images": [
@@ -72238,7 +72238,7 @@
     "id": 5230,
     "date": "2025-04-19T03:30:25",
     "text": "今天 Jun 来这里玩，穿了她的摩卡 kigurumi，超级可爱！！！ > <\n\n给她换装换上了我之前的女仆衣服，用她的相机拍了些照片（等待返图中）\n\n我也戴上试了一下头套，戴上的时候不太能看到外面感觉怪怪的（因为发穿着别人的脸的照片好像不太好所以打一下码）\n\n以及研究了一下 kig 头套的结构，比想象中要简单好多，我也好想试试 3D 打印一个",
-    "views": 187,
+    "views": 188,
     "forwards": 3,
     "images": [
       {
@@ -72377,7 +72377,7 @@
     "id": 5241,
     "date": "2025-04-20T18:27:58",
     "text": "好吧聊聊拿错香菜不是完全没有原因的，看了一下标签...\n\n“卷叶洋香菜”\n“直叶芫荽”\n“芫茜（芫荽）”\n\n聊聊应该是 match 了唯一一个有“香菜”两个字的，但是最后那个才是中餐常用的香菜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<del>相比之下我买菜完全不看字所以就不会掉进这个坑</del> 至少鼻子不会骗人 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 142,
+    "views": 144,
     "forwards": 1,
     "media_group_id": 13961389428273157,
     "images": [
@@ -72460,7 +72460,7 @@
     "id": 5246,
     "date": "2025-04-22T01:29:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nfish and... chips?",
-    "views": 132,
+    "views": 133,
     "forwards": 1,
     "images": [
       {
@@ -72479,7 +72479,7 @@
     "id": 5247,
     "date": "2025-04-22T19:40:35",
     "text": "和聊聊拼了迷你咖啡厅 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i>\n\n看上去好 cozy，好想在现实中开这样的咖啡厅呀（可惜我只会做速溶咖啡 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 126,
+    "views": 128,
     "forwards": 1,
     "media_group_id": 13962806685581797,
     "images": [
@@ -72559,7 +72559,7 @@
     "id": 5254,
     "date": "2025-04-23T08:26:35",
     "text": "看来并不是所有光猫都这么容易破解...\n\n刚才在尝试用同样的方法破解 Bell GigaHub，拆开了机器、用示波器找到了 TTL 引脚的焊盘、焊上了线、打开了 UART 终端，然后发现虽然可以从这里看到它系统的输出，但是没办法输入指令，在 UBoot 阶段尝试中断也没有用... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n因为家里跑的服务全都依赖这个路由器所以暂时放弃接回去了，下次买一台二手试试直接读写闪存好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 93,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 13963174362310541,
     "images": [
@@ -72634,7 +72634,67 @@
     "id": 5260,
     "date": "2025-04-23T20:04:00",
     "text": "发现日元和加拿大元转换只需要去掉两个零，好方便 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 42,
+    "views": 63,
     "forwards": 0
+  },
+  {
+    "id": 5261,
+    "date": "2025-04-23T23:24:17",
+    "text": "今天进城本来只是买东西交一下货，但是天气很好不太想回去，就在城里慢悠悠转来转去 qwq\n\n转进了一家批发商，似乎可以买到中餐馆常用的大面碗和打包盒，好奇妙，如果不是马上要离开了的话大概会买两个很好看的面碗回去",
+    "views": 30,
+    "forwards": 0,
+    "media_group_id": 13963605258959221,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2025-04-23T19:31:57",
+        "media_type": "photo",
+        "original_name": "photo_2025-04-23_19-31-57.jpg",
+        "url": "media/5261.jpg",
+        "size": 243774,
+        "thumb": "media/5261.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2025-04-23T19:32:01",
+        "media_type": "photo",
+        "original_name": "photo_2025-04-23_19-32-01.jpg",
+        "url": "media/5262.jpg",
+        "size": 190137,
+        "thumb": "media/5262.jpg_thumb.jpg"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2025-04-23T19:32:02",
+        "media_type": "photo",
+        "original_name": "photo_2025-04-23_19-32-02.jpg",
+        "url": "media/5263.jpg",
+        "size": 275832,
+        "thumb": "media/5263.jpg_thumb.jpg"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2025-04-23T19:33:39",
+        "media_type": "photo",
+        "original_name": "photo_2025-04-23_19-33-39.jpg",
+        "url": "media/5264.jpg",
+        "size": 307921,
+        "thumb": "media/5264.jpg_thumb.jpg"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2025-04-23T23:24:03",
+        "media_type": "photo",
+        "original_name": "photo_2025-04-23_23-24-03.jpg",
+        "url": "media/5265.jpg",
+        "size": 273868,
+        "thumb": "media/5265.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
