@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-04-26T06:12:14.307620+00:00</updated>
+  <updated>2025-04-26T08:12:42.188604+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5274</id>
+    <title>小桂桂的回忆录 📒 #5274</title>
+    <updated>2025-04-26T07:54:23+00:00</updated>
+    <content>&lt;p&gt;想唱歌，有无源麦克风但是没有给麦克风用的功放，找了好久可以用来录音的设备&lt;/p&gt;
+&lt;p&gt;试了笔记本的耳机孔和台式板载声卡的 mic-in 口，笔记本声音很小，台式声音够大但是底噪也够大。所以试了把音响的功放接到笔记本上，结果声音一会大一会小像 sin 曲线一样&lt;/p&gt;
+&lt;p&gt;然后试了给手机买的 cx31993 声卡，意外发现能用，声音很大又没有底噪，但问题是它会触发安卓的线控语音助手和音量+... 毕竟线控是在麦克风线上靠阻抗检测的灵车东西，麦克风必须是特定的阻抗才能不被误判&lt;/p&gt;
+&lt;p&gt;最后把 cx31993 插电脑上，再加上 +25dB 的增益就完成了，底噪最高在 -45dB 感觉还不错&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5274" rel="alternate"/>
+  </entry>
   <entry>
     <id>5273</id>
     <title>小桂桂的回忆录 📒 #5273</title>
