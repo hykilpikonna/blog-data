@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-04-26T14:12:14.332321+00:00</updated>
+  <updated>2025-04-26T16:13:14.312798+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5277</id>
+    <title>小桂桂的回忆录 📒 #5277</title>
+    <updated>2025-04-26T15:39:57+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="https://t.me/kxxtchannel/962"&gt;https://t.me/kxxtchannel/962&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;鉴定为后门&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5277" rel="alternate"/>
+  </entry>
   <entry>
     <id>5276</id>
     <title>小桂桂的回忆录 📒 #5276</title>
