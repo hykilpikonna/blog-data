@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1297,
+    "views": 1298,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69237,7 +69237,7 @@
     "id": 5012,
     "date": "2025-03-11T04:50:09",
     "text": "好讨厌 Meta...\n\n今天拿起来 Quest 3 发现系统自动更新了，更新之后没办法打开第三方输入法了，打开微信输入法还会直接让系统卡死自动重启... 系统自带的输入法还不支持中文，不知道怎么办\n\n以及 UI 也被大改了... 主观觉得新 UI 的这个渐变像是十年前流行的设计",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "reply": {
       "id": 4849,
@@ -69261,7 +69261,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 387,
+    "views": 388,
     "forwards": 3,
     "images": [
       {
@@ -69280,7 +69280,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 279,
+    "views": 280,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1067,
+    "views": 1068,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2090,
+    "views": 2091,
     "forwards": 28,
     "images": [
       {
@@ -71373,7 +71373,7 @@
     "id": 5164,
     "date": "2025-04-08T09:43:40",
     "text": "<a href=\"##TIL\">#TIL</a> 本地跑了一些 txt2img 模型才发现，原来 flux1 和刚公开的 hidream i1 画不出 explicit nsfw 不是因为在线平台生成后有过滤，而是训练集里就没有... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 没见过就画不出来，<span class=\"spoiler\"><span>就像 virgin 画师画不好相反性别的○○一样</span></span>",
-    "views": 184,
+    "views": 185,
     "forwards": 0
   },
   {
@@ -71653,7 +71653,7 @@
     "id": 5184,
     "date": "2025-04-13T02:11:17",
     "text": "技术问题解决了，大家想发评论在这里发w",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "reply": {
       "id": 5182,
@@ -71670,7 +71670,7 @@
     "id": 5186,
     "date": "2025-04-14T01:30:39",
     "text": "今天尝试用 3D 打印机的时候发现打印效果非常差，分层的地方多出来了好多洞洞，查了一下发现是挤出不足的问题\n\n然后猫猫球教我校准了挤出量——在耗材上离入口 200mm 的位置做好记号，打开串口终端命令它挤 200mm，然后测量实际上挤了多少，最后再算出正确的挤出量写进打印机记忆里 qwq\n\n校准了然后顺便换了挤出头，重新打了一次质量差距居然这么大哇 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢猫猫球）",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 13956753914018021,
     "images": [
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 222,
+    "views": 223,
     "forwards": 2,
     "media_group_id": 13958125648289765,
     "images": [
@@ -72017,7 +72017,7 @@
     "id": 5214,
     "date": "2025-04-16T06:06:38",
     "text": "说到旅行模拟器，之前一直在期待的那个 <a href=\"https://store.steampowered.com/app/1749860/Lushfoil_Photography_Sim/\">Lushfoil 摄影模拟器</a>今天发售了，立即买了一份进去转了转\n\n现在游戏已经可以把场景渲染得这么真实了，真不敢相信这些居然是一个人做出来的，各种方面都好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 221,
+    "views": 222,
     "forwards": 3,
     "media_group_id": 13958268786484477,
     "images": [
@@ -72112,7 +72112,7 @@
     "id": 5222,
     "date": "2025-04-16T06:29:11",
     "text": "居然真的能像在用相机一样拍长曝光哇",
-    "views": 249,
+    "views": 250,
     "forwards": 0,
     "reply": {
       "id": 5214,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4548,
+    "views": 4550,
     "forwards": 83,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72257,7 +72257,7 @@
     "id": 5231,
     "date": "2025-04-20T04:15:54",
     "text": "Jamie 的大作业在研究无透镜的成像方式，今天来找我帮忙\n\n她带过来了一个 Pi Cam 原本想拆，但是看了一下觉得传感器好小不太能魔改，还是贡献了我闲置的 webcam，拆开镜头看到下面的传感器好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n决定好要用它之后帮忙 3D 打印了一个用来固定掩码薄膜的片片，以及帮忙把 LED 焊下去了（因为 LED 的位置可能影响传感器读到的颜色）\n\n希望接下来她的尝试顺利 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 0,
     "media_group_id": 13960980435002741,
     "images": [
@@ -72327,7 +72327,7 @@
     "id": 5237,
     "date": "2025-04-20T04:29:53",
     "text": "聊聊不太聪明喵\n\n今天一起做咖喱，首先是聊聊热锅烧油忘记开火，然后盛饭的时候还忘记了是拌饭结果用了只能装下饭的小碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 167,
+    "views": 168,
     "forwards": 0
   },
   {
@@ -72460,7 +72460,7 @@
     "id": 5246,
     "date": "2025-04-22T01:29:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nfish and... chips?",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "images": [
       {
@@ -72559,7 +72559,7 @@
     "id": 5254,
     "date": "2025-04-23T08:26:35",
     "text": "看来并不是所有光猫都这么容易破解...\n\n刚才在尝试用同样的方法破解 Bell GigaHub，拆开了机器、用示波器找到了 TTL 引脚的焊盘、焊上了线、打开了 UART 终端，然后发现虽然可以从这里看到它系统的输出，但是没办法输入指令，在 UBoot 阶段尝试中断也没有用... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n因为家里跑的服务全都依赖这个路由器所以暂时放弃接回去了，下次买一台二手试试直接读写闪存好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 13963174362310541,
     "images": [
@@ -72634,14 +72634,14 @@
     "id": 5260,
     "date": "2025-04-23T20:04:00",
     "text": "发现日元和加拿大元转换只需要去掉两个零，好方便 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 138,
+    "views": 139,
     "forwards": 0
   },
   {
     "id": 5261,
     "date": "2025-04-23T23:24:17",
     "text": "今天进城本来只是买东西交一下货，但是天气很好不太想回去，就在城里慢悠悠转来转去 qwq\n\n转进了一家批发商，似乎可以买到中餐馆常用的大面碗和打包盒，好奇妙，如果不是马上要离开了的话大概会买两个很好看的面碗回去",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 13963605258959221,
     "images": [
@@ -72701,7 +72701,7 @@
     "id": 5266,
     "date": "2025-04-24T00:21:41",
     "text": "然后依然不想回家，正好离 Henry 家比较近就去找他玩，玩了 arcaea 和 osu\n\n从他的 osu 最近游玩里找到了好多当时打太多遍打到过拟合能够背下来的谱，比如 ”(can you) understand me“ 还有 “world.execute(me)”\n\n虽然代码皮肤延迟设备判定都和当初不一样了，但是打到一首熟悉谱面的手感并不会骗人——听着歌、划起笔、敲起键盘，仿佛身边空气的气味和自己的心情一起回到了当时在麻省郊区的小屋，仿佛侧过头还能看到前前任香子兰在左上角围观，像是激活了一张三分钟的时光传送券，带回来了只存在于文字中的回忆...\n\n在回家的地铁上哭了... 好想把这些回忆永远保存下来，可惜每次触发都只会变得越来越模糊，直到完全被现在覆盖 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 159,
+    "views": 161,
     "forwards": 0,
     "media_group_id": 13963632813696037,
     "images": [
@@ -72731,7 +72731,7 @@
     "id": 5268,
     "date": "2025-04-24T05:41:29",
     "text": "发现手术之后对疼痛耐受确实更强了，昨天拆机的时候不小心把食指划出血，但是完全没有感觉到痛\n\n如果是以前的话肯定这一两天都不会用这根手指了... 我握笔姿势的坏习惯最初就是因为某次大拇指受伤了不敢用它所以换了姿势 quq",
-    "views": 149,
+    "views": 153,
     "forwards": 1,
     "reply": {
       "id": 5254,
@@ -72765,7 +72765,7 @@
     "id": 5270,
     "date": "2025-04-25T01:48:16",
     "text": "分析了一下，这绝对是我听过的时间签名最复杂的曲子\n\n节拍数从头到尾很稳定 80 bpm，所以分析的时候用 80 对齐了时间轴\n\n开头钢琴段是 7/4 拍，接下来那段原本以为是四个小节的 4/4 但是打着不对劲，仔细看看发现第三小节的开始是在半拍上的... 居然有三小节是 3.5/4 拍\n\n高潮段还比较常规，刚开始是四小节的 8/4 拍，之后是四小节的 4/4 拍...\n\n中间的过渡有 6.5 拍有 3 拍有 5 拍不过都只有一小节，停止思考 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n这首曲子真的太厉害了",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "reply": {
       "id": 5269,
@@ -72788,7 +72788,7 @@
     "id": 5271,
     "date": "2025-04-25T07:42:02",
     "text": "把四年前就特别喜欢的这首《バビロン》的 vocal 谱扒下来了，想要和谁一起唱 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>\n\n（感觉完全是单词歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及不得不说 MuseScore 的排版能力好强，我之前一直在用 flat 还买了会员，但是发现 flat 无论是小节位置还是歌词标注都没办法排出我想要的效果",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "reply": {
       "id": 213,
@@ -72811,7 +72811,7 @@
     "id": 5272,
     "date": "2025-04-25T09:43:12",
     "text": "是桐谷遥欢乐日...！",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "images": [
       {
@@ -72830,7 +72830,7 @@
     "id": 5273,
     "date": "2025-04-26T03:10:28",
     "text": "“privacy and compliance\"... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 150,
+    "views": 151,
     "forwards": 0,
     "images": [
       {
@@ -72849,7 +72849,7 @@
     "id": 5274,
     "date": "2025-04-26T07:54:23",
     "text": "想唱歌，有无源麦克风但是没有给麦克风用的功放，找了好久可以用来录音的设备\n\n试了笔记本的耳机孔和台式板载声卡的 mic-in 口，笔记本声音很小，台式声音够大但是底噪也够大。所以试了把音响的功放接到笔记本上，结果声音一会大一会小像 sin 曲线一样\n\n然后试了给手机买的 cx31993 声卡，意外发现能用，声音很大又没有底噪，但问题是它会触发安卓的线控语音助手和音量+... 毕竟线控是在麦克风线上靠阻抗检测的灵车东西，麦克风必须是特定的阻抗才能不被误判\n\n最后把 cx31993 插电脑上，再加上 +25dB 的增益就完成了，底噪最高在 -45dB 感觉还不错",
-    "views": 167,
+    "views": 171,
     "forwards": 0,
     "media_group_id": 13965232503831333,
     "images": [
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 183,
+    "views": 189,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 378,
-    "forwards": 19
+    "views": 394,
+    "forwards": 20
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 190,
+    "views": 203,
     "forwards": 3,
     "reply": {
       "id": 5277,
@@ -72921,8 +72921,8 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 56,
-    "forwards": 0,
+    "views": 85,
+    "forwards": 1,
     "images": [
       {
         "width": 2272,
@@ -72933,6 +72933,25 @@
         "url": "media/5279.jpg",
         "size": 229951,
         "thumb": "media/5279.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5280,
+    "date": "2025-04-27T10:07:17",
+    "text": "整理了一下以前所有的乐谱开源出来了 qwq\n\n一个原因是因为 musescore 平台真的太过分，居然下载其他用户上传的谱子要收钱...\n\n另一个原因是，想要让项目文件不会丢失、让自己以后想得起来放在哪里的最好方法就是传到 GitHub 上，让世界帮我备份 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://github.com/hykilpikonna/Music\">GitHub 仓库在这里</a>",
+    "views": 17,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1395,
+        "height": 1644,
+        "date": "2025-04-27T10:07:16",
+        "media_type": "photo",
+        "original_name": "photo_2025-04-27_10-07-16.jpg",
+        "url": "media/5280.jpg",
+        "size": 263681,
+        "thumb": "media/5280.jpg_thumb.jpg"
       }
     ]
   }
