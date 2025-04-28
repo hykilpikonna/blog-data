@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-04-28T08:22:02.546378+00:00</updated>
+  <updated>2025-04-28T10:45:32.119242+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5287</id>
+    <title>小桂桂的回忆录 📒 #5287</title>
+    <updated>2025-04-28T10:23:37+00:00</updated>
+    <content>&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5287" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5286</id>
+    <title>小桂桂的回忆录 📒 #5286</title>
+    <updated>2025-04-28T10:11:40+00:00</updated>
+    <content>&lt;p&gt;我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;...然后我们争论了好久杯子是不是碗&lt;/p&gt;
+&lt;p&gt;为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近&lt;/p&gt;
+&lt;p&gt;然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 &lt;i class="custom-emoji" emoji-src="emoji/5442995162114434162.tgs"&gt;☕&lt;/i&gt; 证明结束&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5286" rel="alternate"/>
+  </entry>
   <entry>
     <id>5285</id>
     <title>小桂桂的回忆录 📒 #5285</title>
