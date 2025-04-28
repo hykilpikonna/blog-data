@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 28 Apr 2025 20:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 22:14:28 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #5288</title>
+      <link>https://aza.moe/life?post=5288</link>
+      <description>&lt;p&gt;后续：clash verge rev 的开发者给 macOS &lt;a href="https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe"&gt;添加了可执行程序签名验证&lt;/a&gt;，然而这个签名验证并没有用（笑）&lt;/p&gt;
+&lt;p&gt;因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;（PoC 原图放这里了: &lt;a href="https://github.com/clash-verge-rev/clash-verge-service/issues/9"&gt;clash-verge-service#9&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件&lt;/p&gt;</description>
+      <guid isPermaLink="false">5288</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #5287</title>
       <link>https://aza.moe/life?post=5287</link>
