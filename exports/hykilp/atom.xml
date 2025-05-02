@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-05-02T20:11:49.170900+00:00</updated>
+  <updated>2025-05-02T22:14:06.291135+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5304</id>
+    <title>小桂桂的回忆录 📒 #5304</title>
+    <updated>2025-05-02T21:46:41+00:00</updated>
+    <content>&lt;p&gt;第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了&lt;/p&gt;
+&lt;p&gt;意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 &lt;i class="custom-emoji" emoji-src="emoji/6323267916523374069.webp"&gt;🥺&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5304" rel="alternate"/>
+  </entry>
   <entry>
     <id>5300</id>
     <title>小桂桂的回忆录 📒 #5300</title>
