@@ -34743,7 +34743,7 @@
     "id": 2603,
     "date": "2023-09-04T20:52:19",
     "text": "爱的本质是拟合 <i class=\"custom-emoji\" emoji-src=\"emoji/5442919184142966963.tgs\">🧹</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 3,
     "images": [
       {
@@ -39839,7 +39839,7 @@
     "id": 2959,
     "date": "2023-12-01T20:31:51",
     "text": "呜 昨天熬夜写作业熬到凌晨八点，现在迷迷糊糊躺在床上听着<del>聊聊打字_asmr.wav</del>，感觉好好听被催眠了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 192,
+    "views": 193,
     "forwards": 2,
     "images": [
       {
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 262,
+    "views": 263,
     "forwards": 2,
     "images": [
       {
@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 529,
+    "views": 530,
     "forwards": 11,
     "images": [
       {
@@ -43920,7 +43920,7 @@
     "id": 3248,
     "date": "2024-01-25T04:15:05",
     "text": "直接用 WinRAR 打开就可以安装啦\n\n（edit: 修复了 Protect 没有图标的问题，换了一个 Delete 图标）",
-    "views": 525,
+    "views": 526,
     "forwards": 13,
     "files": [
       {
@@ -45012,7 +45012,7 @@
     "id": 3321,
     "date": "2024-02-09T00:11:44",
     "text": "猫倒啦 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 230,
+    "views": 231,
     "forwards": 2,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4735,
+    "views": 4738,
     "forwards": 84,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72479,7 +72479,7 @@
     "id": 5247,
     "date": "2025-04-22T19:40:35",
     "text": "和聊聊拼了迷你咖啡厅 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i>\n\n看上去好 cozy，好想在现实中开这样的咖啡厅呀（可惜我只会做速溶咖啡 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 1,
     "media_group_id": 13962806685581797,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1429,
+    "views": 1431,
     "forwards": 48
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 3717,
+    "views": 3726,
     "forwards": 133,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 272,
+    "views": 273,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 237,
+    "views": 239,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73169,14 +73169,14 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 210,
+    "views": 211,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 169,
+    "views": 173,
     "forwards": 0,
     "media_group_id": 13968493560159205,
     "images": [
