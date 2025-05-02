@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7326,
+    "views": 7327,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -57961,7 +57961,7 @@
     "id": 4245,
     "date": "2024-07-28T23:07:33",
     "text": "一些深夜猫片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "media_group_id": 13777664431653325,
     "images": [
@@ -58021,7 +58021,7 @@
     "id": 4250,
     "date": "2024-07-29T17:14:16",
     "text": "[object Object] is awesome",
-    "views": 110,
+    "views": 111,
     "forwards": 1,
     "images": [
       {
@@ -58040,14 +58040,14 @@
     "id": 4251,
     "date": "2024-07-29T20:10:12",
     "text": "今天和 menci 一起 debug 了一天还没搞明白为什么 mai pico 接上触屏的串口就开不了机\n\n然后准备睡觉了在床上再想了一眼突然想明白了，触屏是 rs232，pico 是 TTL... 我们在用 232 接 TTL 🌚\n\n还好 pico 没有被 232 的 5V 烧掉",
-    "views": 108,
+    "views": 110,
     "forwards": 1
   },
   {
     "id": 4252,
     "date": "2024-07-29T22:46:27",
     "text": "之前 Arc 浏览器刚出来的时候很喜欢用 Arc，但是用着用着觉得各种问题太劝退了...\n\n启动进程经常卡很久才能起来，下载没有固定长度的文件的时候没有任何视觉提示，新标签打中文之后需要多打一个空格才能识别... 重装系统之后发现浏览器插件没了，发现它的同步居然只能同步标签页，不能同步插件、收藏夹、历史、密码、快捷键... <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n立即卸载，去用 Edge 了",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "images": [
       {
@@ -58066,7 +58066,7 @@
     "id": 4253,
     "date": "2024-07-30T00:27:42",
     "text": "已经会把 LLVM 看成 VLLM 了",
-    "views": 112,
+    "views": 113,
     "forwards": 0
   },
   {
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1087,
+    "views": 1088,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -69395,7 +69395,7 @@
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 321,
+    "views": 322,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69429,8 +69429,8 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 206,
-    "forwards": 0,
+    "views": 208,
+    "forwards": 1,
     "images": [
       {
         "width": 1903,
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 198,
+    "views": 199,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69482,7 +69482,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -69646,7 +69646,7 @@
     "id": 5039,
     "date": "2025-03-18T00:22:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nTracer 和 Celestium 来这里玩，做了炖鸡拉面！\n\n比较幸运，虽然没有提前准备但是冰箱里正好有五人份的鸡肉，而且炖鸡也不需要提前解冻什么 qwq\n\n如果上次去超市没有贪便宜多买一盒就惨惨了",
-    "views": 187,
+    "views": 188,
     "forwards": 1,
     "media_group_id": 13938058989712541,
     "images": [
@@ -69696,7 +69696,7 @@
     "id": 5043,
     "date": "2025-03-18T03:22:00",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 甘い夢溶けて目を瞑って\n♪ 覚めない様に祈っている\n\n♪ 思い浮かぶ何回忘れても\n♪ 残ったままで消えやしない\n♪ 生まれ変わったら消えやしない...\n\n人真的好矛盾，在研究着控制大模型的记忆的同时，明明自己的记忆都还没法控制——有忘记的事情想要回忆起，有记住的事情想要消去，实际上却两边都做不到...\n\n<span class=\"spoiler\"><span>「即使是重生 也无法消去」 吗</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 236,
+    "views": 237,
     "forwards": 2,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2178,
+    "views": 2179,
     "forwards": 28,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4754,
+    "views": 4758,
     "forwards": 84,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72238,7 +72238,7 @@
     "id": 5230,
     "date": "2025-04-19T03:30:25",
     "text": "今天 Jun 来这里玩，穿了她的摩卡 kigurumi，超级可爱！！！ > <\n\n给她换装换上了我之前的女仆衣服，用她的相机拍了些照片（等待返图中）\n\n我也戴上试了一下头套，戴上的时候不太能看到外面感觉怪怪的（因为发穿着别人的脸的照片好像不太好所以打一下码）\n\n以及研究了一下 kig 头套的结构，比想象中要简单好多，我也好想试试 3D 打印一个",
-    "views": 247,
+    "views": 248,
     "forwards": 3,
     "images": [
       {
@@ -72830,7 +72830,7 @@
     "id": 5273,
     "date": "2025-04-26T03:10:28",
     "text": "“privacy and compliance\"... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 330,
+    "views": 331,
     "forwards": 0,
     "images": [
       {
@@ -72849,7 +72849,7 @@
     "id": 5274,
     "date": "2025-04-26T07:54:23",
     "text": "想唱歌，有无源麦克风但是没有给麦克风用的功放，找了好久可以用来录音的设备\n\n试了笔记本的耳机孔和台式板载声卡的 mic-in 口，笔记本声音很小，台式声音够大但是底噪也够大。所以试了把音响的功放接到笔记本上，结果声音一会大一会小像 sin 曲线一样\n\n然后试了给手机买的 cx31993 声卡，意外发现能用，声音很大又没有底噪，但问题是它会触发安卓的线控语音助手和音量+... 毕竟线控是在麦克风线上靠阻抗检测的灵车东西，麦克风必须是特定的阻抗才能不被误判\n\n最后把 cx31993 插电脑上，再加上 +25dB 的增益就完成了，底噪最高在 -45dB 感觉还不错",
-    "views": 452,
+    "views": 453,
     "forwards": 1,
     "media_group_id": 13965232503831333,
     "images": [
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 649,
+    "views": 650,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1454,
+    "views": 1455,
     "forwards": 49
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 966,
+    "views": 967,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 575,
+    "views": 577,
     "forwards": 2,
     "images": [
       {
@@ -73013,7 +73013,7 @@
     "id": 5285,
     "date": "2025-04-28T03:39:16",
     "text": "猫猫本能：把通关需要的电池丢下去了 然后解锁了一个成就",
-    "views": 572,
+    "views": 573,
     "forwards": 0,
     "files": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 731,
+    "views": 733,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 932,
+    "views": 936,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 3944,
+    "views": 3985,
     "forwards": 134,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 296,
+    "views": 299,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 260,
+    "views": 262,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73169,15 +73169,15 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 235,
+    "views": 237,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 214,
-    "forwards": 0,
+    "views": 217,
+    "forwards": 1,
     "media_group_id": 13968493560159205,
     "images": [
       {
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 176,
+    "views": 185,
     "forwards": 1,
     "images": [
       {
@@ -73235,8 +73235,8 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 138,
-    "forwards": 7,
+    "views": 153,
+    "forwards": 9,
     "media_group_id": 13969322433734669,
     "images": [
       {
