@@ -66822,14 +66822,14 @@
     "id": 4845,
     "date": "2025-01-08T15:32:34",
     "text": "哇 pjsk 要上线动森模式了吗 <a href=\"https://twitter.com/pj_sekai/status/1876934708396687379\">https://twitter.com/pj_sekai/status/1876934708396687379</a>",
-    "views": 184,
+    "views": 185,
     "forwards": 0
   },
   {
     "id": 4846,
     "date": "2025-01-08T17:53:31",
     "text": "每次想玩中二的时候群里都会有人一起玩好开心 qwq",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "reply": {
       "id": 4841,
@@ -66840,7 +66840,7 @@
     "id": 4847,
     "date": "2025-01-09T00:54:09",
     "text": "猫脑过载",
-    "views": 163,
+    "views": 164,
     "forwards": 3,
     "images": [
       {
@@ -66859,14 +66859,14 @@
     "id": 4848,
     "date": "2025-01-09T02:26:12",
     "text": "每次去谷歌搜一个问题，答案里必然有人回 \"just google it\" 💢",
-    "views": 162,
+    "views": 163,
     "forwards": 2
   },
   {
     "id": 4849,
     "date": "2025-01-09T05:31:04",
     "text": "为了大手术之后不能动的时候不无聊买了 Quest 3，今天收到了\n\n第一次摸一体的 VR/AR 设备，觉得很厉害，除了玩游戏以外，还可以在独自一人的电影院里看电影、可以接到电脑上变成大显示器、可以在别人做的 3D 场景里面飞来飞去（发现我在 VR 里面不恐高了诶）<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n不过缺点也很多... 首先是 bug 实在太多了，刚入手第一天遇到的：相机截图没有反馈而且有概率会直接崩溃（今天已经遇到三次了）、设置里点 Meta AI 那个按钮会让设置崩溃、应用商店点进一个应用再点返回会回到主页而不是上一个页面、录像或者投屏的时候视角会每秒闪一下... 您完全不 QA 测试吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 稳定性比 Rift 差太多了\n\n其次感觉 AR 还是需要适应一下，用了两三小时 AR 模式现在摘下来看现实中的物体觉得深度都怪怪的 <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 171,
+    "views": 172,
     "forwards": 2,
     "media_group_id": 13891205318317709,
     "images": [
@@ -66929,7 +66929,7 @@
     "id": 4853,
     "date": "2025-01-10T03:49:06",
     "text": "今天玩 VR 的时候聊聊过来抱我，我隔着头显看着聊聊揉揉脸蛋，然后就在想，我看到的真的是聊聊吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n大家肯定都看到过 \"This is not a pipe\" 的那张画，标题是 The Treachery of Images（意思大概就是，画中的管子不是真的管子，而是一张画）\n\n但是有了 AR 之后，感觉真实的边界变得说不清了。我戴着一个封闭的头显，我看到的只有两个显示器和头显摄像头录下来的一个我的手在揉聊聊的视频... 按照 \"This is not a pipe\" 的逻辑的话，它是一个视频所以不是聊聊吗？如果这是真的聊聊的话，我把这段画面录下来重新回放，眼睛看到的内容和之前是一样的，但是这次看到的是聊聊还是视频呢？\n\n换一个角度的话，我在现实中看到的聊聊也只是电灯的光子在聊聊身上的反射而已，但是也不会因此觉得这不真实... <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i> 所以真实的边界到底在哪里呢？",
-    "views": 200,
+    "views": 201,
     "forwards": 0,
     "images": [
       {
@@ -66948,7 +66948,7 @@
     "id": 4854,
     "date": "2025-01-11T18:36:34",
     "text": "昨天 tracer 来这里打音游，还给我们带了草莓小蛋糕，开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n以及发现自己打了这么久街机音游体力真的有变得比以前好，从下午四点和 tracer 一直玩到了凌晨一点，第二天胳膊居然没有酸 <i class=\"custom-emoji\" emoji-src=\"emoji/5442931622368257732.tgs\">🐾</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 13892964753503397,
     "images": [
@@ -66988,7 +66988,7 @@
     "id": 4857,
     "date": "2025-01-12T12:48:53",
     "text": "给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<del>原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便</del>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "images": [
       {
@@ -67007,14 +67007,14 @@
     "id": 4858,
     "date": "2025-01-13T18:21:37",
     "text": "我发现虽然我分不清东南西北，但是比起东南西北我更能分清 NEWS 一点... 问 West 在哪我能下意识反应过来在 North 的左边，但是问西在哪我还要想一想 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么会这样呢",
-    "views": 176,
+    "views": 177,
     "forwards": 0
   },
   {
     "id": 4859,
     "date": "2025-01-13T19:54:14",
     "text": "今天出门去取了 oxa 借给我的路由器。回家的路上吃了 shawarma，感觉和赛百味三明治差不多？同样可以选自己喜欢的菜和肉加到一个面饼中间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后看店长刚磨完刀也没有洗就开始削肉，感觉今天可能补充了很多铁（？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及路上看到了很棒的画，能够画满整面墙也好厉害。出地铁站还看到了群友（鸽子）聚餐，看起来很丰盛的样子",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 13894384432552933,
     "images": [
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 690,
+    "views": 692,
     "forwards": 8
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1085,
+    "views": 1086,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70445,7 +70445,7 @@
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 302,
+    "views": 303,
     "forwards": 2
   },
   {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2175,
+    "views": 2177,
     "forwards": 28,
     "images": [
       {
@@ -71450,7 +71450,7 @@
     "id": 5170,
     "date": "2025-04-09T23:42:23",
     "text": "奶茶咖啡坏\n\n昨天和前天起床就喝了奶茶咖啡。今天感冒了并且没有喝奶茶咖啡，结果超困困睡了 16.5h... <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "images": [
       {
@@ -71469,7 +71469,7 @@
     "id": 5171,
     "date": "2025-04-10T02:39:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炖大鸡腿！",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "media_group_id": 13954022088344037,
     "images": [
@@ -71499,7 +71499,7 @@
     "id": 5173,
     "date": "2025-04-10T02:55:11",
     "text": "<del>三根甘蔗和一片牛皮</del>",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "images": [
       {
@@ -71518,7 +71518,7 @@
     "id": 5174,
     "date": "2025-04-10T03:07:56",
     "text": "（让聊聊选九宫格里哪个最好看）\n聊聊：第一排中间那个\n我：第一排是从上数还是从下数<del>还是从中间数</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0
   },
   {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4744,
+    "views": 4749,
     "forwards": 84,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72849,7 +72849,7 @@
     "id": 5274,
     "date": "2025-04-26T07:54:23",
     "text": "想唱歌，有无源麦克风但是没有给麦克风用的功放，找了好久可以用来录音的设备\n\n试了笔记本的耳机孔和台式板载声卡的 mic-in 口，笔记本声音很小，台式声音够大但是底噪也够大。所以试了把音响的功放接到笔记本上，结果声音一会大一会小像 sin 曲线一样\n\n然后试了给手机买的 cx31993 声卡，意外发现能用，声音很大又没有底噪，但问题是它会触发安卓的线控语音助手和音量+... 毕竟线控是在麦克风线上靠阻抗检测的灵车东西，麦克风必须是特定的阻抗才能不被误判\n\n最后把 cx31993 插电脑上，再加上 +25dB 的增益就完成了，底噪最高在 -45dB 感觉还不错",
-    "views": 448,
+    "views": 449,
     "forwards": 1,
     "media_group_id": 13965232503831333,
     "images": [
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 646,
+    "views": 647,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1439,
+    "views": 1442,
     "forwards": 48
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 954,
+    "views": 957,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 564,
+    "views": 566,
     "forwards": 2,
     "images": [
       {
@@ -72940,7 +72940,7 @@
     "id": 5280,
     "date": "2025-04-27T10:07:17",
     "text": "整理了一下以前所有的乐谱开源出来了 qwq\n\n一个原因是因为 musescore 平台真的太过分，居然下载其他用户上传的谱子要收钱...\n\n另一个原因是，想要让项目文件不会丢失、让自己以后想得起来放在哪里的最好方法就是传到 GitHub 上，让世界帮我备份 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://github.com/hykilpikonna/Music\">GitHub 仓库在这里</a>",
-    "views": 526,
+    "views": 528,
     "forwards": 4,
     "images": [
       {
@@ -72959,7 +72959,7 @@
     "id": 5281,
     "date": "2025-04-27T21:16:50",
     "text": "今天 Cosmo 最后一天营业，去凑凑热闹。几周前去的时候停车场还是空的，今天要闭店了反而挤满了人 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n第一次见到闭店感觉好奇妙，除了商品以外，平时不是商品的东西也被标上了价签，比如货架、柜子、平时在放幻灯片的大显示屏...\n\n转了几圈可惜没有找到比较值得买的东西呢，大概都已经被别人买走了吧\n\n想买替换的吉他弦备用，发现货架上已经不剩木吉他的吉他弦了。想找找有没有更合身的电吉他，发现剩下的都买不起。想找找无源麦克风的录音设备，也没有很好的价格。还问了之前在这里租的钟琴有没有在卖，似乎也没有了。结果 $3 拿了一双鼓棒回家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 494,
+    "views": 495,
     "forwards": 1,
     "media_group_id": 13966308886338133,
     "images": [
@@ -73013,7 +73013,7 @@
     "id": 5285,
     "date": "2025-04-28T03:39:16",
     "text": "猫猫本能：把通关需要的电池丢下去了 然后解锁了一个成就",
-    "views": 564,
+    "views": 565,
     "forwards": 0,
     "files": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 704,
+    "views": 711,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 897,
+    "views": 905,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 3743,
+    "views": 3769,
     "forwards": 133,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 282,
+    "views": 286,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 245,
+    "views": 248,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73169,14 +73169,14 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 219,
+    "views": 223,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 190,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 13968493560159205,
     "images": [
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 67,
+    "views": 106,
     "forwards": 1,
     "images": [
       {
