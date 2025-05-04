@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-05-04T00:15:42.346596+00:00</updated>
+  <updated>2025-05-04T02:44:14.811447+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5306</id>
+    <title>小桂桂的回忆录 📒 #5306</title>
+    <updated>2025-05-04T02:09:28+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 我居然写了七八年前端，今天才知道原来 &lt;code&gt;&lt;div/&gt;&lt;/code&gt; 和 &lt;code&gt;&lt;div&gt;&lt;/div&gt;&lt;/code&gt; 是不一样的...&lt;/p&gt;
+&lt;p&gt;其实应该说，在原生 HTML 里这两个不一样，但是在 Svelte 里面是一样的。原生会直接忽略掉 &lt;code&gt;/&amp;gt;&lt;/code&gt; 变成一个只有开没有关的 div，但是 Svelte 会像上面那样把它按照 XML 解析成开了之后马上关上&lt;/p&gt;
+&lt;p&gt;...所以今天的另一个 &lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 是 Svelte 的 HTML 语法居然和原生不一样，即使区别很微妙而且大部分人不会注意到，但是也有被震撼&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5306" rel="alternate"/>
+  </entry>
   <entry>
     <id>5304</id>
     <title>小桂桂的回忆录 📒 #5304</title>

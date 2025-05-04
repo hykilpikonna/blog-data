@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 May 2025 00:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 02:44:14 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #5306</title>
+      <link>https://aza.moe/life?post=5306</link>
+      <description>&lt;p&gt;&lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 我居然写了七八年前端，今天才知道原来 &lt;code&gt;&lt;div/&gt;&lt;/code&gt; 和 &lt;code&gt;&lt;div&gt;&lt;/div&gt;&lt;/code&gt; 是不一样的...&lt;/p&gt;
+&lt;p&gt;其实应该说，在原生 HTML 里这两个不一样，但是在 Svelte 里面是一样的。原生会直接忽略掉 &lt;code&gt;/&amp;gt;&lt;/code&gt; 变成一个只有开没有关的 div，但是 Svelte 会像上面那样把它按照 XML 解析成开了之后马上关上&lt;/p&gt;
+&lt;p&gt;...所以今天的另一个 &lt;a href="##TIL"&gt;#TIL&lt;/a&gt; 是 Svelte 的 HTML 语法居然和原生不一样，即使区别很微妙而且大部分人不会注意到，但是也有被震撼&lt;/p&gt;</description>
+      <guid isPermaLink="false">5306</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #5304</title>
       <link>https://aza.moe/life?post=5304</link>
