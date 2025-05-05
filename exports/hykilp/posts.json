@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1100,
+    "views": 1101,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2202,
+    "views": 2203,
     "forwards": 28,
     "images": [
       {
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1545,
+    "views": 1547,
     "forwards": 49
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 4630,
+    "views": 4640,
     "forwards": 141,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73169,7 +73169,7 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 376,
+    "views": 378,
     "forwards": 0
   },
   {
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 318,
+    "views": 319,
     "forwards": 2,
     "media_group_id": 13969779211072469,
     "images": [
@@ -73320,7 +73320,7 @@
     "id": 5306,
     "date": "2025-05-04T02:09:28",
     "text": "<a href=\"##TIL\">#TIL</a> 我居然写了七八年前端，今天才知道原来 <code><div/></code> 和 <code><div></div></code> 是不一样的...\n\n其实应该说，在原生 HTML 里这两个不一样，但是在 Svelte 里面是一样的。原生会直接忽略掉 <code>/></code> 变成一个只有开没有关的 div，但是 Svelte 会像上面那样把它按照 XML 解析成开了之后马上关上\n\n...所以今天的另一个 <a href=\"##TIL\">#TIL</a> 是 Svelte 的 HTML 语法居然和原生不一样，即使区别很微妙而且大部分人不会注意到，但是也有被震撼",
-    "views": 307,
+    "views": 308,
     "forwards": 5,
     "images": [
       {
@@ -73339,7 +73339,7 @@
     "id": 5307,
     "date": "2025-05-04T20:46:08",
     "text": "发现自己体力好差...\n\n今天想去附近的一家餐厅，打车 $8 好贵，走路 18 分钟又觉得太慢了，所以决定试试骑车去。手术之前骑 15km 都没什么的话，现在骑 1.5km 也不会有事的吧\n\n刚开始还好，但是快到的时候下车突然头晕想吐感觉要晕过去了，和刚手术完缺血的时候脑缺氧的感觉一样... 原地坐了一会才勉强能推着车继续走\n\n明明已经过了四个月了... 什么时候体力才能恢复呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 209,
+    "views": 212,
     "forwards": 1,
     "media_group_id": 13971132545872317,
     "images": [
@@ -73369,7 +73369,7 @@
     "id": 5309,
     "date": "2025-05-05T03:03:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nは蜜瓜\n\n（超甘い!",
-    "views": 191,
+    "views": 196,
     "forwards": 0,
     "images": [
       {
@@ -73388,8 +73388,8 @@
     "id": 5310,
     "date": "2025-05-05T04:13:26",
     "text": "看<a href=\"https://t.me/rynif/36626\">隔壁频道</a>填了这个游戏喜好表我也来填一下，尽力用了最近玩过或者记忆依然很清楚的游戏，也尽力没有重复... 有太多很好的选择了填表好费力 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n记得超级久之前填过一次，但是找不到了，这两次的答案肯定很不一样吧",
-    "views": 185,
-    "forwards": 2,
+    "views": 189,
+    "forwards": 3,
     "images": [
       {
         "width": 1929,
@@ -73407,7 +73407,7 @@
     "id": 5311,
     "date": "2025-05-05T04:35:40",
     "text": "聊聊：桂桂为什么会在说话的时候像扇翅膀一样挥胳膊\n我：我前世大概是鸟吧\n聊聊：太好了，猫吃鸟（/吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n我：<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 但是飞行系克草耶",
-    "views": 166,
+    "views": 171,
     "forwards": 0
   }
 ]
