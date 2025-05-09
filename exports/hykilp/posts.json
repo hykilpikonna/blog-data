@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2228,
+    "views": 2229,
     "forwards": 28,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4935,
+    "views": 4937,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72940,7 +72940,7 @@
     "id": 5280,
     "date": "2025-04-27T10:07:17",
     "text": "整理了一下以前所有的乐谱开源出来了 qwq\n\n一个原因是因为 musescore 平台真的太过分，居然下载其他用户上传的谱子要收钱...\n\n另一个原因是，想要让项目文件不会丢失、让自己以后想得起来放在哪里的最好方法就是传到 GitHub 上，让世界帮我备份 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://github.com/hykilpikonna/Music\">GitHub 仓库在这里</a>",
-    "views": 611,
+    "views": 612,
     "forwards": 4,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5178,
+    "views": 5179,
     "forwards": 143,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73573,7 +73573,7 @@
     "id": 5322,
     "date": "2025-05-07T15:40:02",
     "text": "哇 见到了野生的福瑞！",
-    "views": 290,
+    "views": 291,
     "forwards": 2,
     "media_group_id": 13973059219682877,
     "images": [
@@ -73648,7 +73648,7 @@
     "id": 5327,
     "date": "2025-05-09T09:22:23",
     "text": "日本に来ました!",
-    "views": 156,
+    "views": 158,
     "forwards": 2,
     "media_group_id": 13974260346591509,
     "images": [
@@ -73678,14 +73678,14 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 116,
+    "views": 120,
     "forwards": 0
   },
   {
     "id": 5330,
     "date": "2025-05-09T14:43:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n<del>馄饨邪恶</del>広州雲吞面\n\n以及见到了谦谦，开心！<del>感谢谦谦帮我补充了很多这边的常识</del>",
-    "views": 110,
+    "views": 114,
     "forwards": 1,
     "images": [
       {
@@ -73704,7 +73704,7 @@
     "id": 5331,
     "date": "2025-05-09T16:16:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ Why do the stars shine so bright in the sky\n♪ If most of the people are sleeping at night",
-    "views": 59,
+    "views": 62,
     "forwards": 1,
     "files": [
       {
