@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2229,
+    "views": 2230,
     "forwards": 28,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 4943,
+    "views": 4945,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72701,7 +72701,7 @@
     "id": 5266,
     "date": "2025-04-24T00:21:41",
     "text": "然后依然不想回家，正好离 Henry 家比较近就去找他玩，玩了 arcaea 和 osu\n\n从他的 osu 最近游玩里找到了好多当时打太多遍打到过拟合能够背下来的谱，比如 ”(can you) understand me“ 还有 “world.execute(me)”\n\n虽然代码皮肤延迟设备判定都和当初不一样了，但是打到一首熟悉谱面的手感并不会骗人——听着歌、划起笔、敲起键盘，仿佛身边空气的气味和自己的心情一起回到了当时在麻省郊区的小屋，仿佛侧过头还能看到前前任香子兰在左上角围观，像是激活了一张三分钟的时光传送券，带回来了只存在于文字中的回忆...\n\n在回家的地铁上哭了... 好想把这些回忆永远保存下来，可惜每次触发都只会变得越来越模糊，直到完全被现在覆盖 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 347,
+    "views": 348,
     "forwards": 1,
     "media_group_id": 13963632813696037,
     "images": [
@@ -72830,7 +72830,7 @@
     "id": 5273,
     "date": "2025-04-26T03:10:28",
     "text": "“privacy and compliance\"... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 369,
+    "views": 370,
     "forwards": 0,
     "images": [
       {
@@ -72849,7 +72849,7 @@
     "id": 5274,
     "date": "2025-04-26T07:54:23",
     "text": "想唱歌，有无源麦克风但是没有给麦克风用的功放，找了好久可以用来录音的设备\n\n试了笔记本的耳机孔和台式板载声卡的 mic-in 口，笔记本声音很小，台式声音够大但是底噪也够大。所以试了把音响的功放接到笔记本上，结果声音一会大一会小像 sin 曲线一样\n\n然后试了给手机买的 cx31993 声卡，意外发现能用，声音很大又没有底噪，但问题是它会触发安卓的线控语音助手和音量+... 毕竟线控是在麦克风线上靠阻抗检测的灵车东西，麦克风必须是特定的阻抗才能不被误判\n\n最后把 cx31993 插电脑上，再加上 +25dB 的增益就完成了，底噪最高在 -45dB 感觉还不错",
-    "views": 506,
+    "views": 507,
     "forwards": 1,
     "media_group_id": 13965232503831333,
     "images": [
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 721,
+    "views": 722,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1613,
+    "views": 1616,
     "forwards": 50
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1059,
+    "views": 1061,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 645,
+    "views": 646,
     "forwards": 2,
     "images": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 875,
+    "views": 877,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1102,
+    "views": 1104,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5190,
+    "views": 5197,
     "forwards": 143,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 458,
+    "views": 460,
     "forwards": 0,
     "images": [
       {
@@ -73176,7 +73176,7 @@
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 396,
+    "views": 397,
     "forwards": 1,
     "media_group_id": 13968493560159205,
     "images": [
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 505,
+    "views": 506,
     "forwards": 17,
     "media_group_id": 13969322433734669,
     "images": [
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 388,
+    "views": 389,
     "forwards": 2,
     "media_group_id": 13969779211072469,
     "images": [
@@ -73320,7 +73320,7 @@
     "id": 5306,
     "date": "2025-05-04T02:09:28",
     "text": "<a href=\"##TIL\">#TIL</a> 我居然写了七八年前端，今天才知道原来 <code><div/></code> 和 <code><div></div></code> 是不一样的...\n\n其实应该说，在原生 HTML 里这两个不一样，但是在 Svelte 里面是一样的。原生会直接忽略掉 <code>/></code> 变成一个只有开没有关的 div，但是 Svelte 会像上面那样把它按照 XML 解析成开了之后马上关上\n\n...所以今天的另一个 <a href=\"##TIL\">#TIL</a> 是 Svelte 的 HTML 语法居然和原生不一样，即使区别很微妙而且大部分人不会注意到，但是也有被震撼",
-    "views": 388,
+    "views": 389,
     "forwards": 5,
     "images": [
       {
@@ -73339,7 +73339,7 @@
     "id": 5307,
     "date": "2025-05-04T20:46:08",
     "text": "发现自己体力好差...\n\n今天想去附近的一家餐厅，打车 $8 好贵，走路 18 分钟又觉得太慢了，所以决定试试骑车去。手术之前骑 15km 都没什么的话，现在骑 1.5km 也不会有事的吧\n\n刚开始还好，但是快到的时候下车突然头晕想吐感觉要晕过去了，和刚手术完缺血的时候脑缺氧的感觉一样... 原地坐了一会才勉强能推着车继续走\n\n明明已经过了四个月了... 什么时候体力才能恢复呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 307,
+    "views": 308,
     "forwards": 1,
     "media_group_id": 13971132545872317,
     "images": [
@@ -73369,7 +73369,7 @@
     "id": 5309,
     "date": "2025-05-05T03:03:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nは蜜瓜\n\n（超甘い!",
-    "views": 307,
+    "views": 309,
     "forwards": 0,
     "images": [
       {
@@ -73388,7 +73388,7 @@
     "id": 5310,
     "date": "2025-05-05T04:13:26",
     "text": "看<a href=\"https://t.me/rynif/36626\">隔壁频道</a>填了这个游戏喜好表我也来填一下，尽力用了最近玩过或者记忆依然很清楚的游戏，也尽力没有重复... 有太多很好的选择了填表好费力 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n记得超级久之前填过一次，但是找不到了，这两次的答案肯定很不一样吧",
-    "views": 314,
+    "views": 315,
     "forwards": 3,
     "images": [
       {
@@ -73407,14 +73407,14 @@
     "id": 5311,
     "date": "2025-05-05T04:35:40",
     "text": "聊聊：桂桂为什么会在说话的时候像扇翅膀一样挥胳膊\n我：我前世大概是鸟吧\n聊聊：太好了，猫吃鸟（/吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n我：<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 但是飞行系克草耶",
-    "views": 309,
+    "views": 310,
     "forwards": 0
   },
   {
     "id": 5312,
     "date": "2025-05-05T23:28:26",
     "text": "今天也骑车去了，但是今天没有晕过去！看来还是需要更多运动才能习惯呢 quq\n\n（今天吃了烤肉肉三明治",
-    "views": 294,
+    "views": 296,
     "forwards": 0,
     "reply": {
       "id": 5307,
@@ -73438,7 +73438,7 @@
     "id": 5313,
     "date": "2025-05-05T23:39:01",
     "text": "今生第二次错过毕业仪式",
-    "views": 302,
+    "views": 304,
     "forwards": 0,
     "images": [
       {
@@ -73457,7 +73457,7 @@
     "id": 5314,
     "date": "2025-05-07T04:48:40",
     "text": "<del>需要改水冷</del>",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "images": [
       {
@@ -73476,7 +73476,7 @@
     "id": 5315,
     "date": "2025-05-07T10:41:07",
     "text": "在床上聊天聊起回忆，聊到小时候超级喜欢 Tron Legacy，当时买了 BD 光碟还刷了好多遍，但是不记得讲什么了只记得摩托车和丢飞盘很炫酷！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<span class=\"spoiler\"><span>（meanwhile 聊聊只看了两遍却能背出台词... 这就是记忆力的差距吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</span></span></i>\n\n不过我们上次看这部电影都已经是十几年前了，有点想知道以现在的审美看它会觉得怎么样，所以就即兴和聊聊重新看了一遍！结果就是... <span class=\"spoiler\"><span>现在依然觉得摩托车和丢飞盘很炫酷！</span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i>\n\n仔细想想的话，这部电影剧情叙事还是设定都有很大问题，看起来高科技也只是用计算机的名词讲了飞盘与魔法... 不过也正是这样无厘头的设定才能够让它所设想的世界可以这样炫酷，也没什么不好嘛<span class=\"spoiler\"><span>（真实的程序员/黑客工作画面很无聊的哦！</span></span>\n\n（以及真的超喜欢 daft punk 的配乐！原来我听的第一首 daft punk 在这里 qwq",
-    "views": 211,
+    "views": 212,
     "forwards": 2,
     "media_group_id": 13972915740570293,
     "images": [
@@ -73535,7 +73535,7 @@
   {
     "id": 5320,
     "date": "2025-05-07T11:05:20",
-    "views": 218,
+    "views": 223,
     "forwards": 0,
     "images": [
       {
@@ -73554,7 +73554,7 @@
     "id": 5321,
     "date": "2025-05-07T12:21:02",
     "text": "明明平时不觉得 Tim Hortons 很好吃的，但是想着马上就吃不到了就变得格外的好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 226,
+    "views": 229,
     "forwards": 0,
     "images": [
       {
@@ -73573,7 +73573,7 @@
     "id": 5322,
     "date": "2025-05-07T15:40:02",
     "text": "哇 见到了野生的福瑞！",
-    "views": 300,
+    "views": 305,
     "forwards": 2,
     "media_group_id": 13973059219682877,
     "images": [
@@ -73603,7 +73603,7 @@
     "id": 5324,
     "date": "2025-05-08T13:30:00",
     "text": "和多伦多的家说了再见 qwq",
-    "views": 211,
+    "views": 213,
     "forwards": 0,
     "reply": {
       "id": 3615,
@@ -73614,7 +73614,7 @@
     "id": 5325,
     "date": "2025-05-08T15:20:44",
     "text": "分离焦虑.jpg ~ side 聊聊",
-    "views": 214,
+    "views": 216,
     "forwards": 1,
     "reply": {
       "id": 3618,
@@ -73637,7 +73637,7 @@
     "id": 5326,
     "date": "2025-05-08T16:22:58",
     "text": "以及 刚才安检的时候果然因为 edc27 被抽查了\n\n安检员：这是什么\n我：手电筒\n安检员：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6170273433318852395.webm\">🙄</i>\n我：你按一下开关\n安检员：还真是手电筒\n\n（还能是光剑吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 209,
+    "views": 211,
     "forwards": 2,
     "reply": {
       "id": 5325,
@@ -73648,7 +73648,7 @@
     "id": 5327,
     "date": "2025-05-09T09:22:23",
     "text": "日本に来ました!",
-    "views": 197,
+    "views": 205,
     "forwards": 3,
     "media_group_id": 13974260346591509,
     "images": [
@@ -73678,14 +73678,14 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 171,
-    "forwards": 1
+    "views": 178,
+    "forwards": 2
   },
   {
     "id": 5330,
     "date": "2025-05-09T14:43:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n<del>馄饨邪恶</del>広州雲吞面\n\n以及见到了谦谦，开心！<del>感谢谦谦帮我补充了很多这边的常识</del>",
-    "views": 172,
+    "views": 181,
     "forwards": 1,
     "images": [
       {
@@ -73704,7 +73704,7 @@
     "id": 5331,
     "date": "2025-05-09T16:16:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ Why do the stars shine so bright in the sky\n♪ If most of the people are sleeping at night",
-    "views": 140,
+    "views": 155,
     "forwards": 1,
     "files": [
       {
@@ -73726,15 +73726,15 @@
     "id": 5332,
     "date": "2025-05-10T01:41:35",
     "text": "成功地在来日本之前提前把作息倒好了，第一天就有凌晨一点睡早上十点半起的健康（？）作息 qwq",
-    "views": 97,
+    "views": 126,
     "forwards": 0
   },
   {
     "id": 5333,
     "date": "2025-05-10T03:03:59",
     "text": "觉得关注频道的人太多了，踢掉了 52 个看上去像 bot 的帐号 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n满足以下任意两条的人都被踢掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n1. 没有简介/头像/名字\n2. 没有公开大群以外的共同群\n3. 没有信息输出（个人频道、博客外链、公开频道或者群里的讨论什么的都可以算）\n\n或者有用过开盒工具或者发过复制粘贴广告的人也被踢掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 77,
-    "forwards": 1,
+    "views": 109,
+    "forwards": 2,
     "images": [
       {
         "width": 559,
@@ -73745,6 +73745,24 @@
         "url": "media/5333.jpg",
         "size": 13986,
         "thumb": "media/5333.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5334,
+    "date": "2025-05-10T05:44:31",
+    "views": 47,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 922,
+        "date": "2025-05-10T05:44:31",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-10_05-44-31.jpg",
+        "url": "media/5334.jpg",
+        "size": 111285,
+        "thumb": "media/5334.jpg_thumb.jpg"
       }
     ]
   }
