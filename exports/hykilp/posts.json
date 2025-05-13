@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1118,
+    "views": 1119,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2288,
+    "views": 2292,
     "forwards": 28,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5013,
+    "views": 5015,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1644,
+    "views": 1645,
     "forwards": 50
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5293,
+    "views": 5296,
     "forwards": 143,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73414,7 +73414,7 @@
     "id": 5312,
     "date": "2025-05-05T23:28:26",
     "text": "今天也骑车去了，但是今天没有晕过去！看来还是需要更多运动才能习惯呢 quq\n\n（今天吃了烤肉肉三明治",
-    "views": 315,
+    "views": 316,
     "forwards": 0,
     "reply": {
       "id": 5307,
@@ -73438,7 +73438,7 @@
     "id": 5313,
     "date": "2025-05-05T23:39:01",
     "text": "今生第二次错过毕业仪式",
-    "views": 329,
+    "views": 330,
     "forwards": 0,
     "images": [
       {
@@ -73457,7 +73457,7 @@
     "id": 5314,
     "date": "2025-05-07T04:48:40",
     "text": "<del>需要改水冷</del>",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "images": [
       {
@@ -73476,7 +73476,7 @@
     "id": 5315,
     "date": "2025-05-07T10:41:07",
     "text": "在床上聊天聊起回忆，聊到小时候超级喜欢 Tron Legacy，当时买了 BD 光碟还刷了好多遍，但是不记得讲什么了只记得摩托车和丢飞盘很炫酷！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<span class=\"spoiler\"><span>（meanwhile 聊聊只看了两遍却能背出台词... 这就是记忆力的差距吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</span></span></i>\n\n不过我们上次看这部电影都已经是十几年前了，有点想知道以现在的审美看它会觉得怎么样，所以就即兴和聊聊重新看了一遍！结果就是... <span class=\"spoiler\"><span>现在依然觉得摩托车和丢飞盘很炫酷！</span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i>\n\n仔细想想的话，这部电影剧情叙事还是设定都有很大问题，看起来高科技也只是用计算机的名词讲了飞盘与魔法... 不过也正是这样无厘头的设定才能够让它所设想的世界可以这样炫酷，也没什么不好嘛<span class=\"spoiler\"><span>（真实的程序员/黑客工作画面很无聊的哦！</span></span>\n\n（以及真的超喜欢 daft punk 的配乐！原来我听的第一首 daft punk 在这里 qwq",
-    "views": 234,
+    "views": 235,
     "forwards": 2,
     "media_group_id": 13972915740570293,
     "images": [
@@ -73535,7 +73535,7 @@
   {
     "id": 5320,
     "date": "2025-05-07T11:05:20",
-    "views": 252,
+    "views": 253,
     "forwards": 0,
     "images": [
       {
@@ -73554,7 +73554,7 @@
     "id": 5321,
     "date": "2025-05-07T12:21:02",
     "text": "明明平时不觉得 Tim Hortons 很好吃的，但是想着马上就吃不到了就变得格外的好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 253,
+    "views": 254,
     "forwards": 0,
     "images": [
       {
@@ -73573,7 +73573,7 @@
     "id": 5322,
     "date": "2025-05-07T15:40:02",
     "text": "哇 见到了野生的福瑞！",
-    "views": 342,
+    "views": 343,
     "forwards": 2,
     "media_group_id": 13973059219682877,
     "images": [
@@ -73603,7 +73603,7 @@
     "id": 5324,
     "date": "2025-05-08T13:30:00",
     "text": "和多伦多的家说了再见 qwq",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "reply": {
       "id": 3615,
@@ -73614,7 +73614,7 @@
     "id": 5325,
     "date": "2025-05-08T15:20:44",
     "text": "分离焦虑.jpg ~ side 聊聊",
-    "views": 245,
+    "views": 246,
     "forwards": 2,
     "reply": {
       "id": 3618,
@@ -73637,7 +73637,7 @@
     "id": 5326,
     "date": "2025-05-08T16:22:58",
     "text": "以及 刚才安检的时候果然因为 edc27 被抽查了\n\n安检员：这是什么\n我：手电筒\n安检员：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6170273433318852395.webm\">🙄</i>\n我：你按一下开关\n安检员：还真是手电筒\n\n（还能是光剑吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 243,
+    "views": 244,
     "forwards": 2,
     "reply": {
       "id": 5325,
@@ -73648,7 +73648,7 @@
     "id": 5327,
     "date": "2025-05-09T09:22:23",
     "text": "日本に来ました!",
-    "views": 240,
+    "views": 241,
     "forwards": 3,
     "media_group_id": 13974260346591509,
     "images": [
@@ -73678,14 +73678,14 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 2
   },
   {
     "id": 5330,
     "date": "2025-05-09T14:43:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n<del>馄饨邪恶</del>広州雲吞面\n\n以及见到了谦谦，开心！<del>感谢谦谦帮我补充了很多这边的常识</del>",
-    "views": 231,
+    "views": 232,
     "forwards": 2,
     "images": [
       {
@@ -73704,7 +73704,7 @@
     "id": 5331,
     "date": "2025-05-09T16:16:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ Why do the stars shine so bright in the sky\n♪ If most of the people are sleeping at night",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "files": [
       {
@@ -73726,14 +73726,14 @@
     "id": 5332,
     "date": "2025-05-10T01:41:35",
     "text": "成功地在来日本之前提前把作息倒好了，第一天就有凌晨一点睡早上十点半起的健康（？）作息 qwq",
-    "views": 206,
+    "views": 207,
     "forwards": 0
   },
   {
     "id": 5333,
     "date": "2025-05-10T03:03:59",
     "text": "觉得关注频道的人太多了，踢掉了 52 个看上去像 bot 的帐号 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n满足以下任意两条的人都被踢掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n1. 没有简介/头像/名字\n2. 没有公开大群以外的共同群\n3. 没有信息输出（个人频道、博客外链、公开频道或者群里的讨论什么的都可以算）\n\n或者有用过开盒工具或者发过复制粘贴广告的人也被踢掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 211,
+    "views": 213,
     "forwards": 2,
     "images": [
       {
@@ -73751,7 +73751,7 @@
   {
     "id": 5334,
     "date": "2025-05-10T05:44:31",
-    "views": 203,
+    "views": 205,
     "forwards": 1,
     "images": [
       {
@@ -73770,7 +73770,7 @@
     "id": 5335,
     "date": "2025-05-10T08:27:33",
     "text": "<a href=\"##ガルクラ\">#ガルクラ</a> 圣地巡礼",
-    "views": 185,
+    "views": 187,
     "forwards": 0,
     "media_group_id": 13974925231723077,
     "images": [
@@ -73870,7 +73870,7 @@
     "id": 5344,
     "date": "2025-05-10T08:59:30",
     "text": "在 gbc 里最初 nina 和 mmk 见面的地方遇到了新的偶像团！<i class=\"custom-emoji\" emoji-src=\"emoji/6170373931258611261.webm\">✌</i>\n\n有被他们的活力打动，结束之后去买了一张 CD",
-    "views": 196,
+    "views": 200,
     "forwards": 2,
     "media_group_id": 13974940560178397,
     "images": [
@@ -73920,7 +73920,7 @@
     "id": 5348,
     "date": "2025-05-10T12:25:56",
     "text": "好像买 CD 的时候不小心用了加拿大银行给我的超稀有两千元钞",
-    "views": 205,
+    "views": 207,
     "forwards": 5,
     "forwarded_from": {
       "name": "Azalea",
@@ -73954,7 +73954,7 @@
     "id": 5350,
     "date": "2025-05-11T05:13:36",
     "text": "好耶 一天过去我现在已经可以不看地图走到地铁站了！",
-    "views": 189,
+    "views": 192,
     "forwards": 1,
     "reply": {
       "id": 5334
@@ -73964,7 +73964,7 @@
     "id": 5351,
     "date": "2025-05-11T13:57:48",
     "text": "今天下午约天文姐姐和 <a href=\"https://t.me/ArakawaHideki\">@ArakawaHideki</a> 和 <a href=\"https://t.me/petergu8022\">@petergu8022</a> 去逛了秋葉原，那里在举行两年一度的神田祭，超热闹！\n\n还一起逛了电子零件市场，感觉小学的回忆里中关村电子城衰落之前最繁华的时候就是这样的...好怀念。\n\n也理解了动画里那些天才工程师小孩子都不是夸大，有这些店在这里的话确实能很方便搓出想要的东西。比如如果我想买微动做街机手台的话，比起淘宝下单等三天送到再退，直接来店里摸实物确认手感真的方便太多太多\n\n然后看到了超大 fufu 合了影，进去买了一只 mafufu（面无表情的表情超可爱！！！\n\n晚上约了谦谦和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和 <a href=\"https://t.me/Dimensionlez\">@Dimensionlez</a> 也一起过来吃自助烧鸟，听他们六个人聊了一晚上学术和工作的事情感觉日本好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n（与此同时有一只完熟芒果因为不自量力地喝了鸡尾酒头晕去旁边躺躺了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> <span class=\"spoiler\"><span>小桂桂只有面 <3 个人的时候不会变成完熟芒果</span></span>",
-    "views": 188,
+    "views": 191,
     "forwards": 10,
     "media_group_id": 13975774948467493,
     "images": [
@@ -74074,7 +74074,7 @@
     "id": 5361,
     "date": "2025-05-12T10:29:34",
     "text": "来日本的前一天还在担心觉得自己会孤单没有朋友，结果没过一周就认识了好多朋友！从完熟芒果箱中毕业了",
-    "views": 166,
+    "views": 169,
     "forwards": 0,
     "reply": {
       "id": 5351,
@@ -74086,13 +74086,13 @@
     "id": 5362,
     "date": "2025-05-12T10:44:01",
     "text": "呜呜 实习第一天就被灵车创了\n\n拿到公司电脑 setup 好之后，想要像自己的电脑一样用 yubikey 解锁，安装了 yubikey login 软件，安装完重启之后登录不进去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n进安全模式或者重置都需要 bitlocker 恢复码，获得恢复码需要在另一个设备上登录，但是公司的 AD 设置不让在个人设备上登录...\n\n和 IT 说了，IT 说也不知道怎么找 bitlocker 恢复码需要 escalate... 寄 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 174,
+    "views": 175,
     "forwards": 0
   },
   {
     "id": 5363,
     "date": "2025-05-12T11:37:58",
-    "views": 171,
+    "views": 172,
     "forwards": 1,
     "images": [
       {
@@ -74111,7 +74111,7 @@
     "id": 5364,
     "date": "2025-05-12T16:25:17",
     "text": "刚刚回家 这是凌晨零点我的工位（因为想借用公司的显示器写研究生申请所以待到了凌晨 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为不能真的发工位照片所以让 CyberRealistic img2img 了一下\n\n回来的时候骑了共享电滑板... 好爽！这是上次自己买的电滑板被偷走之后第一次骑电滑板 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 想以后就电滑板上下班吧",
-    "views": 161,
+    "views": 166,
     "forwards": 1,
     "media_group_id": 13976536938894741,
     "images": [
@@ -74151,7 +74151,7 @@
     "id": 5367,
     "date": "2025-05-13T00:50:21",
     "text": "之前在多伦多不喜欢用共享电车赶路，因为共享电车车位是固定的并且有限，经常会在赶到了之后发现没有地方停还要绕远\n\n我发现这边 luup 完美解决了这个问题：在出发之前选好目的地，选要停哪里然后它会预留出停车空间",
-    "views": 143,
+    "views": 150,
     "forwards": 0,
     "reply": {
       "id": 5364,
@@ -74163,7 +74163,14 @@
     "id": 5368,
     "date": "2025-05-13T07:01:41",
     "text": "我乳糖不耐受的程度：早上从咖啡厅拿了九块奶香小饼干吃，然后拉肚子一整天",
-    "views": 87,
+    "views": 109,
     "forwards": 0
+  },
+  {
+    "id": 5369,
+    "date": "2025-05-13T11:39:03",
+    "text": "按下发送按钮怎么这么难\n按下发送按钮怎么这么难\n按下发送按钮怎么这么难",
+    "views": 60,
+    "forwards": 1
   }
 ]
