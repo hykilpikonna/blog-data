@@ -30569,7 +30569,7 @@
     "id": 2272,
     "date": "2023-06-12T03:46:26",
     "text": "<a href=\"##租房广告\">#租房广告</a>\n九月份多伦多北约克的两居公寓又空出一个房间了，想合租欢迎联系 <a href=\"https://t.me/hykilpikonna\">Azalea</a>！\n\n座标在 Wilson 地铁站旁边走路五分钟，价格大概 CA$950/mo，离 Costco 走路十五分钟。大概是图上那么大的房间，有两个小衣橱、书桌书架椅子、独立卫生间浴室、停车位，共享客厅和厨房。\n\n共享设施的话，有灶台烤箱洗碗机搅拌机洗衣机烘干机、有上下 1 Gbps 光纤 WiFi6、可以分配动态公网 IP 给服务器、可以用我们的两台 3D 打印机、焊接/手工工作台、电钢琴和吉他和 <del>DIY 马林巴琴</del>、电视、VR 头显和各种游戏机和音游手台 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n住在主卧的是 UofT 计算机系本科三年生 Azalea（<a href=\"https://github.com/hykilpikonna\">Github</a> | <a href=\"https://aza.moe/\">Blog</a>）和约克大学软件工程研究生 Lindsey（<a href=\"https://twitter.com/youquzhiji\">Twitter</a>），对室友的要求是 1. 支持 LGBTQ+ <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>，2. 是任意方面的 nerd（有感兴趣到能聊上一整天的东西就满足，比如开源项目/运维/心理/工程/音游/流行文化/铁道/游戏/etc）3. 和我们有越多交集越好\n\n总之想要合租欢迎联系哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 1046,
+    "views": 1047,
     "forwards": 22,
     "media_group_id": 13492332690096989,
     "images": [
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1323,
+    "views": 1324,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2287,
+    "views": 2288,
     "forwards": 28,
     "images": [
       {
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1642,
+    "views": 1644,
     "forwards": 50
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5285,
+    "views": 5293,
     "forwards": 143,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 523,
+    "views": 524,
     "forwards": 18,
     "media_group_id": 13969322433734669,
     "images": [
@@ -73457,7 +73457,7 @@
     "id": 5314,
     "date": "2025-05-07T04:48:40",
     "text": "<del>需要改水冷</del>",
-    "views": 261,
+    "views": 262,
     "forwards": 0,
     "images": [
       {
@@ -73476,7 +73476,7 @@
     "id": 5315,
     "date": "2025-05-07T10:41:07",
     "text": "在床上聊天聊起回忆，聊到小时候超级喜欢 Tron Legacy，当时买了 BD 光碟还刷了好多遍，但是不记得讲什么了只记得摩托车和丢飞盘很炫酷！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<span class=\"spoiler\"><span>（meanwhile 聊聊只看了两遍却能背出台词... 这就是记忆力的差距吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</span></span></i>\n\n不过我们上次看这部电影都已经是十几年前了，有点想知道以现在的审美看它会觉得怎么样，所以就即兴和聊聊重新看了一遍！结果就是... <span class=\"spoiler\"><span>现在依然觉得摩托车和丢飞盘很炫酷！</span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i>\n\n仔细想想的话，这部电影剧情叙事还是设定都有很大问题，看起来高科技也只是用计算机的名词讲了飞盘与魔法... 不过也正是这样无厘头的设定才能够让它所设想的世界可以这样炫酷，也没什么不好嘛<span class=\"spoiler\"><span>（真实的程序员/黑客工作画面很无聊的哦！</span></span>\n\n（以及真的超喜欢 daft punk 的配乐！原来我听的第一首 daft punk 在这里 qwq",
-    "views": 233,
+    "views": 234,
     "forwards": 2,
     "media_group_id": 13972915740570293,
     "images": [
@@ -73726,14 +73726,14 @@
     "id": 5332,
     "date": "2025-05-10T01:41:35",
     "text": "成功地在来日本之前提前把作息倒好了，第一天就有凌晨一点睡早上十点半起的健康（？）作息 qwq",
-    "views": 205,
+    "views": 206,
     "forwards": 0
   },
   {
     "id": 5333,
     "date": "2025-05-10T03:03:59",
     "text": "觉得关注频道的人太多了，踢掉了 52 个看上去像 bot 的帐号 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n满足以下任意两条的人都被踢掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n1. 没有简介/头像/名字\n2. 没有公开大群以外的共同群\n3. 没有信息输出（个人频道、博客外链、公开频道或者群里的讨论什么的都可以算）\n\n或者有用过开盒工具或者发过复制粘贴广告的人也被踢掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 210,
+    "views": 211,
     "forwards": 2,
     "images": [
       {
@@ -73920,7 +73920,7 @@
     "id": 5348,
     "date": "2025-05-10T12:25:56",
     "text": "好像买 CD 的时候不小心用了加拿大银行给我的超稀有两千元钞",
-    "views": 204,
+    "views": 205,
     "forwards": 5,
     "forwarded_from": {
       "name": "Azalea",
@@ -73964,7 +73964,7 @@
     "id": 5351,
     "date": "2025-05-11T13:57:48",
     "text": "今天下午约天文姐姐和 <a href=\"https://t.me/ArakawaHideki\">@ArakawaHideki</a> 和 <a href=\"https://t.me/petergu8022\">@petergu8022</a> 去逛了秋葉原，那里在举行两年一度的神田祭，超热闹！\n\n还一起逛了电子零件市场，感觉小学的回忆里中关村电子城衰落之前最繁华的时候就是这样的...好怀念。\n\n也理解了动画里那些天才工程师小孩子都不是夸大，有这些店在这里的话确实能很方便搓出想要的东西。比如如果我想买微动做街机手台的话，比起淘宝下单等三天送到再退，直接来店里摸实物确认手感真的方便太多太多\n\n然后看到了超大 fufu 合了影，进去买了一只 mafufu（面无表情的表情超可爱！！！\n\n晚上约了谦谦和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和 <a href=\"https://t.me/Dimensionlez\">@Dimensionlez</a> 也一起过来吃自助烧鸟，听他们六个人聊了一晚上学术和工作的事情感觉日本好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n（与此同时有一只完熟芒果因为不自量力地喝了鸡尾酒头晕去旁边躺躺了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> <span class=\"spoiler\"><span>小桂桂只有面 <3 个人的时候不会变成完熟芒果</span></span>",
-    "views": 187,
+    "views": 188,
     "forwards": 10,
     "media_group_id": 13975774948467493,
     "images": [
@@ -74086,13 +74086,13 @@
     "id": 5362,
     "date": "2025-05-12T10:44:01",
     "text": "呜呜 实习第一天就被灵车创了\n\n拿到公司电脑 setup 好之后，想要像自己的电脑一样用 yubikey 解锁，安装了 yubikey login 软件，安装完重启之后登录不进去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n进安全模式或者重置都需要 bitlocker 恢复码，获得恢复码需要在另一个设备上登录，但是公司的 AD 设置不让在个人设备上登录...\n\n和 IT 说了，IT 说也不知道怎么找 bitlocker 恢复码需要 escalate... 寄 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 0
   },
   {
     "id": 5363,
     "date": "2025-05-12T11:37:58",
-    "views": 170,
+    "views": 171,
     "forwards": 1,
     "images": [
       {
@@ -74111,7 +74111,7 @@
     "id": 5364,
     "date": "2025-05-12T16:25:17",
     "text": "刚刚回家 这是凌晨零点我的工位（因为想借用公司的显示器写研究生申请所以待到了凌晨 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为不能真的发工位照片所以让 CyberRealistic img2img 了一下\n\n回来的时候骑了共享电滑板... 好爽！这是上次自己买的电滑板被偷走之后第一次骑电滑板 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 想以后就电滑板上下班吧",
-    "views": 159,
+    "views": 161,
     "forwards": 1,
     "media_group_id": 13976536938894741,
     "images": [
@@ -74151,7 +74151,7 @@
     "id": 5367,
     "date": "2025-05-13T00:50:21",
     "text": "之前在多伦多不喜欢用共享电车赶路，因为共享电车车位是固定的并且有限，经常会在赶到了之后发现没有地方停还要绕远\n\n我发现这边 luup 完美解决了这个问题：在出发之前选好目的地，选要停哪里然后它会预留出停车空间",
-    "views": 138,
+    "views": 143,
     "forwards": 0,
     "reply": {
       "id": 5364,
@@ -74163,7 +74163,7 @@
     "id": 5368,
     "date": "2025-05-13T07:01:41",
     "text": "我乳糖不耐受的程度：早上从咖啡厅拿了九块奶香小饼干吃，然后拉肚子一整天",
-    "views": 71,
+    "views": 87,
     "forwards": 0
   }
 ]
