@@ -70929,7 +70929,7 @@
     "id": 5129,
     "date": "2025-04-05T04:41:26",
     "text": "还看到了一个很独特的海鸥，长着斑点，拍下来了它在一群海鸥中心向反方向看的样子简直帅爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 回家把照片做了一下高亮模糊感觉好棒\n\n以及在一片枯树枝中间看到了一根长了亮蓝色的果子的叶子，走进点发现是谁把假花放上去了，被骗了喵（不过谁放的创意不错 quq",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "media_group_id": 13950624695747709,
     "images": [
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 205,
+    "views": 206,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5037,
+    "views": 5038,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1664,
+    "views": 1665,
     "forwards": 50
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1072,
+    "views": 1073,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5364,
+    "views": 5366,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74218,7 +74218,7 @@
     "id": 5372,
     "date": "2025-05-14T12:36:57",
     "text": "发现野生的 Azalea (1/1) ✅",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13977809737130773,
     "images": [
@@ -74247,7 +74247,7 @@
   {
     "id": 5374,
     "date": "2025-05-14T13:16:50",
-    "views": 119,
+    "views": 121,
     "forwards": 1,
     "files": [
       {
