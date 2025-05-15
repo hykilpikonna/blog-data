@@ -45115,8 +45115,7 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480,
-        "thumb": "media/3328.webm_thumb.jpg"
+        "size": 39480
       }
     ]
   },
@@ -70680,7 +70679,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2313,
+    "views": 2314,
     "forwards": 28,
     "images": [
       {
@@ -72136,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5047,
+    "views": 5048,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5390,
+    "views": 5391,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73573,7 +73572,7 @@
     "id": 5322,
     "date": "2025-05-07T15:40:02",
     "text": "哇 见到了野生的福瑞！",
-    "views": 357,
+    "views": 358,
     "forwards": 2,
     "media_group_id": 13973059219682877,
     "images": [
@@ -74074,7 +74073,7 @@
     "id": 5361,
     "date": "2025-05-12T10:29:34",
     "text": "来日本的前一天还在担心觉得自己会孤单没有朋友，结果没过一周就认识了好多朋友！从完熟芒果箱中毕业了",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "reply": {
       "id": 5351,
@@ -74288,7 +74287,7 @@
     "id": 5375,
     "date": "2025-05-15T12:43:32",
     "text": "什么时候 chatgpt app 开始要求安卓 strong integrity 了...\n\nchatgpt 又不是什么怕被用户修改的 app 为什么这样啊？过不了认证的手机就直接不能用了，太过分了，相比银行 app 和谷歌钱包都只需要 basic/device integrity... \n\n立即卸载，换 gemini 了",
-    "views": 132,
+    "views": 134,
     "forwards": 1,
     "media_group_id": 13978504101065765,
     "images": [
@@ -74328,7 +74327,7 @@
     "id": 5378,
     "date": "2025-05-15T14:13:22",
     "text": "下班之后和 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 去了 <del>MyGO</del> サンシャイン水族館，看到了飞在空中的企鹅！🐧\n\n大概理解为什么高松灯会喜欢这个地方了——听着水流的白噪音、看着企鹅在天上飞，感觉心烦的事情一个个全都被企鹅叼走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n啊啊 超级想买年票，可惜这个地方离我太远了要一个小时才能到",
-    "views": 81,
+    "views": 83,
     "forwards": 1,
     "media_group_id": 13978547219980445,
     "images": [
@@ -74408,7 +74407,7 @@
     "id": 5385,
     "date": "2025-05-15T14:37:13",
     "text": "今天拍的更多可爱鱼鱼，好喜欢水族馆\n\n以及买了一个ニシキアナゴ抱き枕，小小只还会探头出来好可爱！",
-    "views": 68,
+    "views": 72,
     "forwards": 0,
     "media_group_id": 13978558671159965,
     "images": [
