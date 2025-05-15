@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5366,
+    "views": 5368,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74151,7 +74151,7 @@
     "id": 5367,
     "date": "2025-05-13T00:50:21",
     "text": "之前在多伦多不喜欢用共享电车赶路，因为共享电车车位是固定的并且有限，经常会在赶到了之后发现没有地方停还要绕远\n\n我发现这边 luup 完美解决了这个问题：在出发之前选好目的地，选要停哪里然后它会预留出停车空间",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "reply": {
       "id": 5364,
@@ -74163,21 +74163,21 @@
     "id": 5368,
     "date": "2025-05-13T07:01:41",
     "text": "我乳糖不耐受的程度：早上从咖啡厅拿了九块奶香小饼干吃，然后拉肚子一整天",
-    "views": 179,
+    "views": 180,
     "forwards": 0
   },
   {
     "id": 5369,
     "date": "2025-05-13T11:39:03",
     "text": "按下发送按钮怎么这么难\n按下发送按钮怎么这么难\n按下发送按钮怎么这么难",
-    "views": 181,
+    "views": 182,
     "forwards": 1
   },
   {
     "id": 5370,
     "date": "2025-05-13T15:48:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n深夜回家骑着车不知不觉开始哼歌，但是想不起来叫什么，回家找了找发现是苹果女王的「丸の内サディスティック」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>还好不记得歌词</del>",
-    "views": 164,
+    "views": 166,
     "forwards": 1,
     "files": [
       {
@@ -74199,7 +74199,7 @@
     "id": 5371,
     "date": "2025-05-14T08:42:00",
     "text": "不太聪明喵",
-    "views": 145,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -74218,7 +74218,7 @@
     "id": 5372,
     "date": "2025-05-14T12:36:57",
     "text": "发现野生的 Azalea (1/1) ✅",
-    "views": 129,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 13977809737130773,
     "images": [
@@ -74247,7 +74247,7 @@
   {
     "id": 5374,
     "date": "2025-05-14T13:16:50",
-    "views": 121,
+    "views": 123,
     "forwards": 1,
     "files": [
       {
