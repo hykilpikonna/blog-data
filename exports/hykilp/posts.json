@@ -42279,7 +42279,7 @@
     "id": 3132,
     "date": "2024-01-02T23:55:23",
     "text": "说起来把数据从 SQLite 迁移到 MariaDB 真的好麻烦...\n\n试了导出 SQL 直接执行因为方言不兼容全都是报错，试了用 Navicat 导出再导入也不行，试了 DBConvert 破解版没跑起来，试了用 IntelliJ/DataGrip 的迁移功能在转换日期时间戳的时候报错。\n\n最后试了 RebaseData，大部分都转换好了只不过跑起来的时候因为数据出界报错，然后发现它的类型推导居然会选能装下数据的最小类型，比如如果数据里只有 1, 2, 3 的话它就会写一个 tinyint(4)，如果只有 \"hello\" 的话它就会写 varchar(5) 🤯\n\n结果还是重新建数据库写一个脚本迁移了，为什么就没有好用的迁移工具...",
-    "views": 105,
+    "views": 106,
     "forwards": 1,
     "reply": {
       "id": 3131,
@@ -42302,14 +42302,14 @@
     "id": 3133,
     "date": "2024-01-03T10:39:57",
     "text": "玩博德之门不知不觉就天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 87,
+    "views": 88,
     "forwards": 0
   },
   {
     "id": 3134,
     "date": "2024-01-03T10:43:34",
     "text": "寄快递选保险感觉好坑，<del>在想能不能自己开一个保险账号代替商家的保险，比如需要买 ￥100 的保险的话就向里面投 ￥100 什么的，真的遇到问题再拿出来</del>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -42328,7 +42328,7 @@
     "id": 3135,
     "date": "2024-01-03T17:48:10",
     "text": "发现了大统华挂面便宜的秘密：同样都是 15 捆的友白髮素面但是每捆的面少了 24g (32%)，而且面也更粗",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "media_group_id": 13634432721819725,
     "images": [
@@ -42368,7 +42368,7 @@
     "id": 3138,
     "date": "2024-01-04T06:28:10",
     "text": "呜呜 这个游戏带入感好强，不知不觉又连续玩了 11h 脑袋晕晕，感觉自己要被传送到博德之门的世界了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "reply": {
       "id": 3133,
@@ -42379,7 +42379,7 @@
     "id": 3139,
     "date": "2024-01-04T07:19:28",
     "text": "呜呜 发现一个大问题。现在 MS365 要过期了，但是我和导师的沟通一直是在 Teams 上，可是如果迁移到 G Suite 的话就不能继续用 Teams 了，而且聊天记录没办法一起迁移... 怎么办呢？",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -42390,13 +42390,13 @@
     "id": 3140,
     "date": "2024-01-04T21:20:42",
     "text": "咦 发现今年好像还没出过门",
-    "views": 103,
+    "views": 104,
     "forwards": 0
   },
   {
     "id": 3141,
     "date": "2024-01-04T21:22:25",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "files": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5057,
+    "views": 5061,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5415,
+    "views": 5418,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74199,7 +74199,7 @@
     "id": 5371,
     "date": "2025-05-14T08:42:00",
     "text": "不太聪明喵",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "images": [
       {
@@ -74218,7 +74218,7 @@
     "id": 5372,
     "date": "2025-05-14T12:36:57",
     "text": "发现野生的 Azalea (1/1) ✅",
-    "views": 170,
+    "views": 172,
     "forwards": 0,
     "media_group_id": 13977809737130773,
     "images": [
@@ -74247,7 +74247,7 @@
   {
     "id": 5374,
     "date": "2025-05-14T13:16:50",
-    "views": 169,
+    "views": 171,
     "forwards": 2,
     "files": [
       {
@@ -74288,7 +74288,7 @@
     "id": 5375,
     "date": "2025-05-15T12:43:32",
     "text": "什么时候 chatgpt app 开始要求安卓 strong integrity 了...\n\nchatgpt 又不是什么怕被用户修改的 app 为什么这样啊？过不了认证的手机就直接不能用了，太过分了，相比银行 app 和谷歌钱包都只需要 basic/device integrity... \n\n立即卸载，换 gemini 了",
-    "views": 156,
+    "views": 158,
     "forwards": 2,
     "media_group_id": 13978504101065765,
     "images": [
@@ -74328,7 +74328,7 @@
     "id": 5378,
     "date": "2025-05-15T14:13:22",
     "text": "下班之后和 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 去了 <del>MyGO</del> サンシャイン水族館，看到了飞在空中的企鹅！🐧\n\n大概理解为什么高松灯会喜欢这个地方了——听着水流的白噪音、看着企鹅在天上飞，感觉心烦的事情一个个全都被企鹅叼走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n啊啊 超级想买年票，可惜这个地方离我太远了要一个小时才能到",
-    "views": 107,
+    "views": 109,
     "forwards": 1,
     "media_group_id": 13978547219980445,
     "images": [
@@ -74408,7 +74408,7 @@
     "id": 5385,
     "date": "2025-05-15T14:37:13",
     "text": "今天拍的更多可爱鱼鱼，好喜欢水族馆\n\n以及买了一个ニシキアナゴ抱き枕，小小只还会探头出来好可爱！",
-    "views": 98,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 13978558671159965,
     "images": [
