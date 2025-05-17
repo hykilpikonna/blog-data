@@ -66988,7 +66988,7 @@
     "id": 4857,
     "date": "2025-01-12T12:48:53",
     "text": "给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<del>原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便</del>",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "images": [
       {
@@ -67007,7 +67007,7 @@
     "id": 4858,
     "date": "2025-01-13T18:21:37",
     "text": "我发现虽然我分不清东南西北，但是比起东南西北我更能分清 NEWS 一点... 问 West 在哪我能下意识反应过来在 North 的左边，但是问西在哪我还要想一想 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么会这样呢",
-    "views": 178,
+    "views": 179,
     "forwards": 0
   },
   {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 2,
     "images": [
       {
@@ -67117,7 +67117,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "images": [
       {
@@ -67136,7 +67136,7 @@
     "id": 4867,
     "date": "2025-01-18T01:53:38",
     "text": "好累",
-    "views": 146,
+    "views": 147,
     "forwards": 0
   },
   {
@@ -67202,7 +67202,7 @@
     "id": 4872,
     "date": "2025-01-19T02:34:41",
     "text": "我警告你们.jpg <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不要买没有接地的电视，不然一手握住 hdmi 头另一手碰电脑会被电到...\n\n测了一下发现 HDMI 头那边原本应该是接地的地方在漏 +1.96V 的电，甚至够点亮 LED 灯了",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 13898032654839197,
     "images": [
@@ -70523,7 +70523,7 @@
     "id": 5102,
     "date": "2025-03-30T04:58:48",
     "text": "今天被朋友邀请去看了多伦多大 Allegro 中文合唱团的年度音乐会，好棒好棒！大家都好厉害\n\n之后和他一起去吃了烤串，聊了好多，开心开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n这个朋友是高中的同学，也是当时很好的朋友。记得高中的时候总是和他一起拿学校的 iPad 打音游（当时在玩 Arcaea 和 Cytus 2）还有放学偷偷去学校教堂弹那里的钢琴，好怀念。当时他钢琴弹得超厉害，相比我就只能弹一些安静的简单的曲子 quq\n\n他也是我唯一一个那个时候在现实中认识并且现在还有联系的朋友... 那时候我超社恐 > < 结果现在我不社恐了但是看他还像以前一样社恐<span class=\"spoiler\"><span>，今天邀请我来居然是真的在大学里没交到几个其他朋友 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 太可怜了</span></span>",
-    "views": 274,
+    "views": 275,
     "forwards": 0,
     "files": [
       {
@@ -70606,7 +70606,7 @@
     "id": 5108,
     "date": "2025-03-30T17:50:28",
     "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
-    "views": 166,
+    "views": 167,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -70628,7 +70628,7 @@
     "id": 5109,
     "date": "2025-03-31T16:56:23",
     "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 278,
+    "views": 279,
     "forwards": 1,
     "media_group_id": 13947521470139469,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2323,
+    "views": 2324,
     "forwards": 28,
     "images": [
       {
@@ -70748,7 +70748,7 @@
     "id": 5116,
     "date": "2025-04-03T22:30:25",
     "text": "北美的浪费真是越来越离谱了\n\n今天邮箱里收到了一本广告<em>书</em>，一本 905 页的，1.3kg 重的书，每页都是全彩广告...",
-    "views": 230,
+    "views": 231,
     "forwards": 3,
     "media_group_id": 13949755399931837,
     "images": [
@@ -71820,7 +71820,7 @@
     "id": 5199,
     "date": "2025-04-14T09:02:07",
     "text": "记得之前朋友和我说ta是靠唱歌学的日语（是麻薯还是蓝夏来着忘记了）所以我打算也试试 qwq\n\n...写写歌词发现果然不会写的中文汉字更多一点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 因为有十年没用纸笔写中文了，需要用中文的地方也只有打字和说话\n\n（不过正好中文也一起炼了",
-    "views": 261,
+    "views": 262,
     "forwards": 2,
     "images": [
       {
@@ -71839,7 +71839,7 @@
     "id": 5200,
     "date": "2025-04-14T10:37:13",
     "text": "...呜 结果不知不觉就又看到日出了还没睡，作息又坏掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n不过今天日出好好看",
-    "views": 294,
+    "views": 295,
     "forwards": 0,
     "images": [
       {
@@ -71858,14 +71858,14 @@
     "id": 5202,
     "date": "2025-04-15T02:39:32",
     "text": "这条消息里藏着一道谜题 谁先解出来有蛋糕哦 qwq󠀁󠀵󠁚󠁏󠁱󠀶󠁙󠁥󠁍󠀵󠁌󠁩󠁎󠀵󠁡󠀫󠀵󠀷󠀷󠁹󠁦󠁃󠁶󠁏󠁧󠁧󠁉󠁈󠁺󠁯󠁉󠁇󠁄󠀸󠀶󠁃󠁂󠁲󠀯󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁳󠁶󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠀰󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁋󠁈󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠀱󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁴󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁱󠁦󠁏󠁧󠁧󠁡󠁔󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁇󠁺󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁃󠀶󠀸󠀶󠁃󠁁󠁳󠀯󠁏󠁧󠁧󠁙󠁪󠁺󠁯󠁉󠁇󠁨󠀸󠀶󠁃󠁂󠁴󠁶󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠁴󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁯󠁦󠁏󠁧󠁧󠁡󠁶󠁺󠁯󠁉󠁇󠁬󠀸󠀶󠁃󠁁󠁯󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁴󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁷󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁌󠁲󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁲󠀯󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁃󠁵󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁱󠀯󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁒󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠁪󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠁮󠁺󠁯󠁉󠁇󠁉󠀸󠀶󠁃󠁂󠁪󠀯󠁏󠁧󠁧󠁚󠁪󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁵󠁶󠁏󠁧󠁧󠁚󠁮󠁺󠁯󠁉󠁇󠁕󠀸󠀶󠁃󠁂󠁬󠁶󠁏󠁧󠁧󠁡󠁺󠁺󠁯󠁉󠁇󠀯󠁿\n\n(提示: UTF-8",
-    "views": 346,
+    "views": 347,
     "forwards": 7
   },
   {
     "id": 5203,
     "date": "2025-04-15T04:06:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n发现牛肉面里面加上辣椒油味道好棒 qwq\n\n（然后把自己辣到了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 315,
+    "views": 316,
     "forwards": 1,
     "images": [
       {
@@ -71884,7 +71884,7 @@
     "id": 5204,
     "date": "2025-04-15T06:12:37",
     "text": "真 · 悬空打印\n\n(<a href=\"##AIGC\">#AIGC</a>)",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "images": [
       {
@@ -71903,7 +71903,7 @@
     "id": 5206,
     "date": "2025-04-15T18:56:18",
     "text": "因为要离开学校了，去办了一张新的学生卡更新一下照片 qwq\n\n和刚入学的时候的照片对比的话变化好大 > <",
-    "views": 256,
+    "views": 257,
     "forwards": 2,
     "media_group_id": 13957947024461093,
     "images": [
@@ -71933,7 +71933,7 @@
     "id": 5208,
     "date": "2025-04-15T20:19:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nこれが．．．ぎゅう、どん！\n\n这居然确实无疑是<del>牛顿</del>",
-    "views": 250,
+    "views": 251,
     "forwards": 0,
     "media_group_id": 13957987062717005,
     "images": [
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 273,
+    "views": 274,
     "forwards": 2,
     "media_group_id": 13958125648289765,
     "images": [
@@ -72017,7 +72017,7 @@
     "id": 5214,
     "date": "2025-04-16T06:06:38",
     "text": "说到旅行模拟器，之前一直在期待的那个 <a href=\"https://store.steampowered.com/app/1749860/Lushfoil_Photography_Sim/\">Lushfoil 摄影模拟器</a>今天发售了，立即买了一份进去转了转\n\n现在游戏已经可以把场景渲染得这么真实了，真不敢相信这些居然是一个人做出来的，各种方面都好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 262,
+    "views": 263,
     "forwards": 3,
     "media_group_id": 13958268786484477,
     "images": [
@@ -72112,7 +72112,7 @@
     "id": 5222,
     "date": "2025-04-16T06:29:11",
     "text": "居然真的能像在用相机一样拍长曝光哇",
-    "views": 286,
+    "views": 287,
     "forwards": 0,
     "reply": {
       "id": 5214,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5061,
+    "views": 5062,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72166,7 +72166,7 @@
     "id": 5225,
     "date": "2025-04-17T05:48:36",
     "text": "电车起火居然真的发生在我这个公寓里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 346,
+    "views": 347,
     "forwards": 0,
     "media_group_id": 13958951330103757,
     "images": [
@@ -72206,7 +72206,7 @@
     "id": 5228,
     "date": "2025-04-18T10:31:40",
     "text": "昨天看了电影《駒田蒸馏所へようこそ》，好喜欢这部电影对理想的呈现\n\n写了感想在<a href=\"https://aza.moe/blog?post=2025-04-18-Komada-Whiskey-Family\">这里</a>（剧透警告",
-    "views": 293,
+    "views": 294,
     "forwards": 2,
     "media_group_id": 13959778407339541,
     "images": [
@@ -72238,7 +72238,7 @@
     "id": 5230,
     "date": "2025-04-19T03:30:25",
     "text": "今天 Jun 来这里玩，穿了她的摩卡 kigurumi，超级可爱！！！ > <\n\n给她换装换上了我之前的女仆衣服，用她的相机拍了些照片（等待返图中）\n\n我也戴上试了一下头套，戴上的时候不太能看到外面感觉怪怪的（因为发穿着别人的脸的照片好像不太好所以打一下码）\n\n以及研究了一下 kig 头套的结构，比想象中要简单好多，我也好想试试 3D 打印一个",
-    "views": 266,
+    "views": 267,
     "forwards": 3,
     "images": [
       {
@@ -72257,7 +72257,7 @@
     "id": 5231,
     "date": "2025-04-20T04:15:54",
     "text": "Jamie 的大作业在研究无透镜的成像方式，今天来找我帮忙\n\n她带过来了一个 Pi Cam 原本想拆，但是看了一下觉得传感器好小不太能魔改，还是贡献了我闲置的 webcam，拆开镜头看到下面的传感器好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n决定好要用它之后帮忙 3D 打印了一个用来固定掩码薄膜的片片，以及帮忙把 LED 焊下去了（因为 LED 的位置可能影响传感器读到的颜色）\n\n希望接下来她的尝试顺利 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 13960980435002741,
     "images": [
@@ -72327,14 +72327,14 @@
     "id": 5237,
     "date": "2025-04-20T04:29:53",
     "text": "聊聊不太聪明喵\n\n今天一起做咖喱，首先是聊聊热锅烧油忘记开火，然后盛饭的时候还忘记了是拌饭结果用了只能装下饭的小碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 0
   },
   {
     "id": 5238,
     "date": "2025-04-20T06:38:19",
     "text": "头发又太长了，尝试自己剪头发结果大翻车 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n我剪前面能看到的地方然后侧边后面没有把握就交给聊聊了。剪了一圈发现左边比右边长一点，然后稍微修了一下左边，侧边让聊聊帮忙修一下结果剪多了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n照镜子看起来不太聪明喵\n\n没关系没关系 再等两周再修修吧",
-    "views": 239,
+    "views": 240,
     "forwards": 3,
     "media_group_id": 13961048792715885,
     "images": [
@@ -72377,7 +72377,7 @@
     "id": 5241,
     "date": "2025-04-20T18:27:58",
     "text": "好吧聊聊拿错香菜不是完全没有原因的，看了一下标签...\n\n“卷叶洋香菜”\n“直叶芫荽”\n“芫茜（芫荽）”\n\n聊聊应该是 match 了唯一一个有“香菜”两个字的，但是最后那个才是中餐常用的香菜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<del>相比之下我买菜完全不看字所以就不会掉进这个坑</del> 至少鼻子不会骗人 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "media_group_id": 13961389428273157,
     "images": [
@@ -72411,7 +72411,7 @@
     "id": 5243,
     "date": "2025-04-21T05:37:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>芒果寿司</del> 🍣\n\n感谢 Jamie 送了蛋糕，发现这次中超的蛋糕甜味正好呢，北美超市的蛋糕都太甜了",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "media_group_id": 13961710904473125,
     "images": [
@@ -72441,7 +72441,7 @@
     "id": 5245,
     "date": "2025-04-21T06:35:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n原本打算做午餐肉炒卷心菜 + 米饭，但是热锅烧油炒葱炒肉之后发现菜发霉了，不过正好这些食材也可以用来做炒饭所以就做了炒饭 qwq",
-    "views": 227,
+    "views": 228,
     "forwards": 0,
     "images": [
       {
@@ -72460,7 +72460,7 @@
     "id": 5246,
     "date": "2025-04-22T01:29:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nfish and... chips?",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "images": [
       {
@@ -72641,7 +72641,7 @@
     "id": 5261,
     "date": "2025-04-23T23:24:17",
     "text": "今天进城本来只是买东西交一下货，但是天气很好不太想回去，就在城里慢悠悠转来转去 qwq\n\n转进了一家批发商，似乎可以买到中餐馆常用的大面碗和打包盒，好奇妙，如果不是马上要离开了的话大概会买两个很好看的面碗回去",
-    "views": 223,
+    "views": 224,
     "forwards": 0,
     "media_group_id": 13963605258959221,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5423,
+    "views": 5424,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74170,14 +74170,14 @@
     "id": 5369,
     "date": "2025-05-13T11:39:03",
     "text": "按下发送按钮怎么这么难\n按下发送按钮怎么这么难\n按下发送按钮怎么这么难",
-    "views": 206,
+    "views": 207,
     "forwards": 1
   },
   {
     "id": 5370,
     "date": "2025-05-13T15:48:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n深夜回家骑着车不知不觉开始哼歌，但是想不起来叫什么，回家找了找发现是苹果女王的「丸の内サディスティック」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>还好不记得歌词</del>",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "files": [
       {
@@ -74288,7 +74288,7 @@
     "id": 5375,
     "date": "2025-05-15T12:43:32",
     "text": "什么时候 chatgpt app 开始要求安卓 strong integrity 了...\n\nchatgpt 又不是什么怕被用户修改的 app 为什么这样啊？过不了认证的手机就直接不能用了，太过分了，相比银行 app 和谷歌钱包都只需要 basic/device integrity... \n\n立即卸载，换 gemini 了",
-    "views": 159,
+    "views": 160,
     "forwards": 2,
     "media_group_id": 13978504101065765,
     "images": [
@@ -74328,7 +74328,7 @@
     "id": 5378,
     "date": "2025-05-15T14:13:22",
     "text": "下班之后和 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 去了 <del>MyGO</del> サンシャイン水族館，看到了飞在空中的企鹅！🐧\n\n大概理解为什么高松灯会喜欢这个地方了——听着水流的白噪音、看着企鹅在天上飞，感觉心烦的事情一个个全都被企鹅叼走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n啊啊 超级想买年票，可惜这个地方离我太远了要一个小时才能到",
-    "views": 111,
+    "views": 114,
     "forwards": 1,
     "media_group_id": 13978547219980445,
     "images": [
@@ -74408,7 +74408,7 @@
     "id": 5385,
     "date": "2025-05-15T14:37:13",
     "text": "今天拍的更多可爱鱼鱼，好喜欢水族馆\n\n以及买了一个ニシキアナゴ抱き枕，小小只还会探头出来好可爱！",
-    "views": 103,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13978558671159965,
     "images": [
@@ -74508,5 +74508,35 @@
       "text": "下班之后和 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 去了 <del>MyGO</del> サンシャイン水族館，看到了飞在空中的企鹅！🐧\n\n大概理解为什么高松灯会喜欢这个地方了——听着水流的白噪音、看着企鹅在天上飞，感觉心烦的事情一个个全都被企鹅叼走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n啊啊 超级想买年票，可惜这个地方离我太远了要一个小时才能到",
       "thumb": "media/5378.jpg_thumb.jpg"
     }
+  },
+  {
+    "id": 5394,
+    "date": "2025-05-17T00:05:52",
+    "text": "昨晚回家路上的夜景\n\n感觉每天都在公司待到凌晨回家是不是不太好（xx）",
+    "views": 17,
+    "forwards": 0,
+    "media_group_id": 13979522818187429,
+    "images": [
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2025-05-17T00:05:51",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-17_00-05-51.jpg",
+        "url": "media/5394.jpg",
+        "size": 115114,
+        "thumb": "media/5394.jpg_thumb.jpg"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2025-05-17T00:05:52",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-17_00-05-52.jpg",
+        "url": "media/5395.jpg",
+        "size": 194773,
+        "thumb": "media/5395.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
