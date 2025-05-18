@@ -55621,7 +55621,7 @@
   {
     "id": 4079,
     "date": "2024-06-29T13:31:37",
-    "views": 289,
+    "views": 290,
     "forwards": 12,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2380,
+    "views": 2382,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5080,
+    "views": 5081,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5474,
+    "views": 5480,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74074,7 +74074,7 @@
     "id": 5361,
     "date": "2025-05-12T10:29:34",
     "text": "来日本的前一天还在担心觉得自己会孤单没有朋友，结果没过一周就认识了好多朋友！从完熟芒果箱中毕业了",
-    "views": 235,
+    "views": 236,
     "forwards": 2,
     "reply": {
       "id": 5351,
@@ -74288,7 +74288,7 @@
     "id": 5375,
     "date": "2025-05-15T12:43:32",
     "text": "什么时候 chatgpt app 开始要求安卓 strong integrity 了...\n\nchatgpt 又不是什么怕被用户修改的 app 为什么这样啊？过不了认证的手机就直接不能用了，太过分了，相比银行 app 和谷歌钱包都只需要 basic/device integrity... \n\n立即卸载，换 gemini 了",
-    "views": 200,
+    "views": 201,
     "forwards": 2,
     "media_group_id": 13978504101065765,
     "images": [
@@ -74846,7 +74846,117 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 141,
+    "views": 143,
     "forwards": 2
+  },
+  {
+    "id": 5424,
+    "date": "2025-05-18T14:09:36",
+    "text": "今天和 <a href=\"https://t.me/magicxqq\">@magicxqq</a> 和 Lufthafen 去了箱根那边的「彫刻の森美術館」，遇到了超有新意的限时展览「<a href=\"https://www.hakone-oam.or.jp/specials/2025/mukiryokubakuhatsu/\">無気力爆発～絵と題名の世界～</a>」\n\n作品本身普普通通，既没有很好看的作画，记录的也是很平凡的事情... 但是它给作品的题名真的好独特好有趣，把乱涂乱画升华到了也许是某种人类观察日志\n\n「觉得这箱子说不定能派上用场而把它收起来的青年」\n「总觉得自己被乌鸦骂“笨蛋、笨蛋”的青年」\n「可能实际上真的在笑的女人」\n「一生中最喜欢的两个场面是“平凡中的不平凡”和“不平凡中的平凡”的青年」\n「瞒着恋人踏上旅程的女人和假装没察觉的春月」哇这个真是太浪漫了\n\n以及キンシオ的旅行相册也好有趣，在每张照片上用画笔画入自己真的太可爱了。\n\n总之很喜欢题名世界的艺术！偶然遇到了好开心。\n\n相比反而这个美术馆里的「其他的毕加索」展区是我觉得最无聊的，抽象得太刻板以至于可以拟合出抽象画应该是什么样就没意思了。",
+    "views": 19,
+    "forwards": 0,
+    "media_group_id": 13980619012379157,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-05-18T14:09:25",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-25.jpg",
+        "url": "media/5424.jpg",
+        "size": 611315,
+        "thumb": "media/5424.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1688,
+        "date": "2025-05-18T14:09:25",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-25.jpg",
+        "url": "media/5425.jpg",
+        "size": 529002,
+        "thumb": "media/5425.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1353,
+        "date": "2025-05-18T14:09:26",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-26.jpg",
+        "url": "media/5426.jpg",
+        "size": 273101,
+        "thumb": "media/5426.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1529,
+        "date": "2025-05-18T14:09:27",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-27.jpg",
+        "url": "media/5427.jpg",
+        "size": 315783,
+        "thumb": "media/5427.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1787,
+        "date": "2025-05-18T14:09:29",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-29.jpg",
+        "url": "media/5428.jpg",
+        "size": 555278,
+        "thumb": "media/5428.jpg_thumb.jpg"
+      },
+      {
+        "width": 2525,
+        "height": 1518,
+        "date": "2025-05-18T14:09:30",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-30.jpg",
+        "url": "media/5429.jpg",
+        "size": 704504,
+        "thumb": "media/5429.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1408,
+        "date": "2025-05-18T14:09:31",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-31.jpg",
+        "url": "media/5430.jpg",
+        "size": 449723,
+        "thumb": "media/5430.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-05-18T14:09:32",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-32.jpg",
+        "url": "media/5431.jpg",
+        "size": 406540,
+        "thumb": "media/5431.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-05-18T14:09:34",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-34.jpg",
+        "url": "media/5432.jpg",
+        "size": 638842,
+        "thumb": "media/5432.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-05-18T14:09:36",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-18_14-09-36.jpg",
+        "url": "media/5433.jpg",
+        "size": 739736,
+        "thumb": "media/5433.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
