@@ -42480,7 +42480,7 @@
     "id": 3146,
     "date": "2024-01-05T21:05:03",
     "text": "不喜欢命令行编辑器另一个原因是因为，无论是 vim 还是 nano 都没办法在保存的时候尝试 sudo 保存... 每次都是忘了 sudo 然后在保存的时候才发现没权限写不进去，然后就只能退出重新 sudo 启动编辑一遍再保存了 💢\n\n而 GUI 编辑器无论是 vscode 还是 gnome 自带的都会自动请求权限",
-    "views": 126,
+    "views": 127,
     "forwards": 1,
     "images": [
       {
@@ -42499,7 +42499,7 @@
     "id": 3147,
     "date": "2024-01-06T06:36:23",
     "text": "高中同学来玩，给我带了芒果蛋糕，好吃！开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "media_group_id": 13636183865706885,
     "files": [
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42624,7 +42624,7 @@
     "id": 3155,
     "date": "2024-01-09T06:04:56",
     "text": "哭 发现今年的六门课里只有两门有 recording，看来不能像上学期一样不去学校了...",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -42643,7 +42643,7 @@
     "id": 3156,
     "date": "2024-01-09T10:37:50",
     "text": "之前打博德之门 3 的时候在第三章从一个地洞出来真的梦回英雄无敌 3，然后今天在和聊聊重温英雄无敌 3 打教程关\n\n我：呜呜，这个游戏比我老了，99 年的\n聊聊：呜呜呜呜呜，这个游戏比我小啊",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2363,
+    "views": 2367,
     "forwards": 28,
     "images": [
       {
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 522,
+    "views": 523,
     "forwards": 6,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5449,
+    "views": 5450,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74656,7 +74656,7 @@
     "id": 5406,
     "date": "2025-05-17T14:29:02",
     "text": "接下来去了两个位置很近的神社\n\n一个是銭洗弁財天，入口是一个山洞还有点可怕的，不过进去之后风景很不错！我也学着投了硬币摇了铃铛。以及发现这个神社的图标是塞尔达三角力量的图标诶，创始人一定很喜欢塞尔达吧（雾）\n\n另一个是<span class=\"spoiler\"><span>佐助</span></span>稲荷神社，除了数不胜数的鳥居以外还有数不胜数的稲荷小狐狸雕像！每个雕像都是由一个不同的人捐的，大家齐心协力一个个小狐狸加起来就形成了眼前的狐狸大军... <span class=\"spoiler\"><span>人类能够达成分布式共识的时候真好呀</span></span>\n\n虽然之前在摄影模拟器那个游戏里赛博参观过伏見稲荷大社了，但是真的在眼前的时候规模给我的感受还是好不一样",
-    "views": 77,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 13979937141215781,
     "images": [
@@ -74766,7 +74766,7 @@
     "id": 5416,
     "date": "2025-05-17T14:46:48",
     "text": "一些彩蛋\n\n1. 赛钱「请不要赛人民币」\n2. 鳥(tori)屹立于鳥居(torii)之上\n3. 给三角力量奉献一束香\n4. 大狐狸 看着被打翻的小狐狸满脸生气\n5. 1000 million Dollars\n6. 天冷了，铁鸟鸟也要穿衣服\n7. 超小蜂巢",
-    "views": 75,
+    "views": 78,
     "forwards": 0,
     "media_group_id": 13979945664986901,
     "images": [
