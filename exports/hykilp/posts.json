@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1332,
+    "views": 1333,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2405,
+    "views": 2422,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5115,
+    "views": 5116,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5531,
+    "views": 5532,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74963,7 +74963,7 @@
     "id": 5434,
     "date": "2025-05-19T11:56:49",
     "text": "啊啊啊超尴尬\n\n我（看到拉面的牌子走进去）\n店员：几个人呢\n我：一个人\n店员：这里是居酒屋不是拉面哦\n\n然后旁边的人开始大声笑（好过分！）",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "media_group_id": 13981246475564749,
     "images": [
@@ -75003,7 +75003,7 @@
     "id": 5437,
     "date": "2025-05-20T04:18:15",
     "text": "搞什么...\n\n没有专门适配火狐也许有 bug 的话能理解，毕竟不是所有厂商都有余力适配每个平台... 直接在登录完被拦下也太过分了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nedit: 不是 ms365 本身不支持火狐，是公司的 ms365 policy 设置了只允许这两个浏览器",
-    "views": 131,
+    "views": 133,
     "forwards": 0,
     "images": [
       {
@@ -75022,7 +75022,7 @@
     "id": 5438,
     "date": "2025-05-20T04:44:23",
     "text": "办了银行卡，感谢谦谦帮忙...!\n\n总之发生了这样的事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n被绕圈圈，带了一份 offer 但是银行要给公司打电话确认这份文件的真实性，给他们看了我的 HR 的电话又没办法确认这个人是不是真的是公司的 HR，因为官网上没有这个号码... 但是公司又没有在官网上写公开手机号\n\n明明发一封验证邮件到我的公司邮箱就好了的事情，非要用电话验证就好麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 135,
+    "views": 137,
     "forwards": 3,
     "images": [
       {
