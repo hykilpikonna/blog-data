@@ -86,7 +86,7 @@
     "id": 14,
     "date": "2021-09-03T01:13:05",
     "text": "可爱的鸭鸭爪印w",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1233,
+    "views": 1235,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1046,
+    "views": 1047,
     "forwards": 7,
     "files": [
       {
@@ -69395,7 +69395,7 @@
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 332,
+    "views": 333,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 212,
+    "views": 213,
     "forwards": 2,
     "images": [
       {
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 203,
+    "views": 204,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69482,7 +69482,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -69494,7 +69494,7 @@
     "id": 5029,
     "date": "2025-03-16T11:15:53",
     "text": "前几天去宠物店看到了好可爱的一对鹦鹉 qwq\n\n感觉有点可怜，只能在可能没有两立方米大的鸟笼里活动感觉会很无聊... <del>不过好像两立方米按鸟的体积等比例缩放的话差不多已经是人类的一个小 studio 公寓了吧</del> 好像不能这样算 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好喜欢看鸟，在宠物店看了好久才走。想要养鸟但是又不想把他们一直关在笼子里... 好矛盾，如果有花园可以投喂野生的鸟就好了",
-    "views": 196,
+    "views": 197,
     "forwards": 0,
     "media_group_id": 13936990031689701,
     "images": [
@@ -69756,7 +69756,7 @@
     "id": 5046,
     "date": "2025-03-18T13:50:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听哭了... 好心疼灯灯 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> \n\n♪ 隔てられたガラスは檻じゃなかったよ\n（将我与他人隔开的玻璃并非牢笼）\n♪ 傷つく僕を守ってくれていたのに\n（而是一直在保护伤痕累累的我）\n\n刚走出独自一人的气泡、创造出幸福耀眼的回忆，就要看着它被结束，仿佛只是一场梦... <span class=\"spoiler\"><span>面对着无法挽回的失去，也许更希望自己不曾拥有。这样的话，隔开我与世界的屏障确实在保护着我</span></span>",
-    "views": 209,
+    "views": 210,
     "forwards": 1,
     "files": [
       {
@@ -69778,7 +69778,7 @@
     "id": 5047,
     "date": "2025-03-18T21:52:33",
     "text": "不愉快\n\n买了 Split Fiction，想和聊聊玩，但是聊聊想给大家直播然后录下来... <span class=\"spoiler\"><span>明明感觉身边的朋友都很忙直播了也不会有人看</span></span>，不过聊聊想播就试试好了，我也想把一起玩游戏的回忆记录下来 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>\n\n原本聊聊买的是 Xbox 版本，但是没有合适的捕捉卡... 有一个只有单向输入的捕捉卡，如果用它的话就只能在带延迟的捕捉画面里面玩了。配上一个 HDMI 交换机应该可以，但是需要额外两根 HDMI 线这里也没有\n\n所以我在 PC 上重新买了一份，在客厅里 AquaDX 的宿主机服务器上跑起来了，这里正好插了一张 1660S 勉强能带动 1080p60。因为蓝牙卡不太行，手柄接了一根很长的有线。然后还要接摄像头录视频和声音...\n\n现在一切都搭好了，好累好累。<span class=\"spoiler\"><span>一想到之后还要玩游戏就觉得更累了，明明两小时前想玩游戏只是其他事情做累了想要休息一下...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 244,
+    "views": 245,
     "forwards": 0,
     "images": [
       {
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 208,
+    "views": 209,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -71820,7 +71820,7 @@
     "id": 5199,
     "date": "2025-04-14T09:02:07",
     "text": "记得之前朋友和我说ta是靠唱歌学的日语（是麻薯还是蓝夏来着忘记了）所以我打算也试试 qwq\n\n...写写歌词发现果然不会写的中文汉字更多一点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 因为有十年没用纸笔写中文了，需要用中文的地方也只有打字和说话\n\n（不过正好中文也一起炼了",
-    "views": 263,
+    "views": 264,
     "forwards": 2,
     "images": [
       {
@@ -71839,7 +71839,7 @@
     "id": 5200,
     "date": "2025-04-14T10:37:13",
     "text": "...呜 结果不知不觉就又看到日出了还没睡，作息又坏掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n不过今天日出好好看",
-    "views": 296,
+    "views": 299,
     "forwards": 0,
     "images": [
       {
@@ -71858,14 +71858,14 @@
     "id": 5202,
     "date": "2025-04-15T02:39:32",
     "text": "这条消息里藏着一道谜题 谁先解出来有蛋糕哦 qwq󠀁󠀵󠁚󠁏󠁱󠀶󠁙󠁥󠁍󠀵󠁌󠁩󠁎󠀵󠁡󠀫󠀵󠀷󠀷󠁹󠁦󠁃󠁶󠁏󠁧󠁧󠁉󠁈󠁺󠁯󠁉󠁇󠁄󠀸󠀶󠁃󠁂󠁲󠀯󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁳󠁶󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠀰󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁋󠁈󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠀱󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁴󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁱󠁦󠁏󠁧󠁧󠁡󠁔󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁇󠁺󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁃󠀶󠀸󠀶󠁃󠁁󠁳󠀯󠁏󠁧󠁧󠁙󠁪󠁺󠁯󠁉󠁇󠁨󠀸󠀶󠁃󠁂󠁴󠁶󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠁴󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁯󠁦󠁏󠁧󠁧󠁡󠁶󠁺󠁯󠁉󠁇󠁬󠀸󠀶󠁃󠁁󠁯󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁴󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁷󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁌󠁲󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁲󠀯󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁃󠁵󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁱󠀯󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁒󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠁪󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠁮󠁺󠁯󠁉󠁇󠁉󠀸󠀶󠁃󠁂󠁪󠀯󠁏󠁧󠁧󠁚󠁪󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁵󠁶󠁏󠁧󠁧󠁚󠁮󠁺󠁯󠁉󠁇󠁕󠀸󠀶󠁃󠁂󠁬󠁶󠁏󠁧󠁧󠁡󠁺󠁺󠁯󠁉󠁇󠀯󠁿\n\n(提示: UTF-8",
-    "views": 349,
+    "views": 352,
     "forwards": 7
   },
   {
     "id": 5203,
     "date": "2025-04-15T04:06:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n发现牛肉面里面加上辣椒油味道好棒 qwq\n\n（然后把自己辣到了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 317,
+    "views": 320,
     "forwards": 1,
     "images": [
       {
@@ -71884,7 +71884,7 @@
     "id": 5204,
     "date": "2025-04-15T06:12:37",
     "text": "真 · 悬空打印\n\n(<a href=\"##AIGC\">#AIGC</a>)",
-    "views": 274,
+    "views": 275,
     "forwards": 0,
     "images": [
       {
@@ -71903,7 +71903,7 @@
     "id": 5206,
     "date": "2025-04-15T18:56:18",
     "text": "因为要离开学校了，去办了一张新的学生卡更新一下照片 qwq\n\n和刚入学的时候的照片对比的话变化好大 > <",
-    "views": 257,
+    "views": 258,
     "forwards": 2,
     "media_group_id": 13957947024461093,
     "images": [
@@ -71933,7 +71933,7 @@
     "id": 5208,
     "date": "2025-04-15T20:19:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nこれが．．．ぎゅう、どん！\n\n这居然确实无疑是<del>牛顿</del>",
-    "views": 251,
+    "views": 252,
     "forwards": 0,
     "media_group_id": 13957987062717005,
     "images": [
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 274,
+    "views": 275,
     "forwards": 2,
     "media_group_id": 13958125648289765,
     "images": [
@@ -72017,7 +72017,7 @@
     "id": 5214,
     "date": "2025-04-16T06:06:38",
     "text": "说到旅行模拟器，之前一直在期待的那个 <a href=\"https://store.steampowered.com/app/1749860/Lushfoil_Photography_Sim/\">Lushfoil 摄影模拟器</a>今天发售了，立即买了一份进去转了转\n\n现在游戏已经可以把场景渲染得这么真实了，真不敢相信这些居然是一个人做出来的，各种方面都好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 3,
     "media_group_id": 13958268786484477,
     "images": [
@@ -72112,7 +72112,7 @@
     "id": 5222,
     "date": "2025-04-16T06:29:11",
     "text": "居然真的能像在用相机一样拍长曝光哇",
-    "views": 287,
+    "views": 288,
     "forwards": 0,
     "reply": {
       "id": 5214,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5103,
+    "views": 5104,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72731,7 +72731,7 @@
     "id": 5268,
     "date": "2025-04-24T05:41:29",
     "text": "发现手术之后对疼痛耐受确实更强了，昨天拆机的时候不小心把食指划出血，但是完全没有感觉到痛\n\n如果是以前的话肯定这一两天都不会用这根手指了... 我握笔姿势的坏习惯最初就是因为某次大拇指受伤了不敢用它所以换了姿势 quq",
-    "views": 305,
+    "views": 306,
     "forwards": 1,
     "reply": {
       "id": 5254,
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1685,
+    "views": 1686,
     "forwards": 50
   },
   {
@@ -72940,7 +72940,7 @@
     "id": 5280,
     "date": "2025-04-27T10:07:17",
     "text": "整理了一下以前所有的乐谱开源出来了 qwq\n\n一个原因是因为 musescore 平台真的太过分，居然下载其他用户上传的谱子要收钱...\n\n另一个原因是，想要让项目文件不会丢失、让自己以后想得起来放在哪里的最好方法就是传到 GitHub 上，让世界帮我备份 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://github.com/hykilpikonna/Music\">GitHub 仓库在这里</a>",
-    "views": 629,
+    "views": 630,
     "forwards": 4,
     "images": [
       {
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 458,
+    "views": 459,
     "forwards": 1,
     "images": [
       {
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 545,
+    "views": 546,
     "forwards": 18,
     "media_group_id": 13969322433734669,
     "images": [
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 418,
+    "views": 419,
     "forwards": 3,
     "media_group_id": 13969779211072469,
     "images": [
@@ -73438,7 +73438,7 @@
     "id": 5313,
     "date": "2025-05-05T23:39:01",
     "text": "今生第二次错过毕业仪式",
-    "views": 346,
+    "views": 347,
     "forwards": 0,
     "images": [
       {
@@ -73457,7 +73457,7 @@
     "id": 5314,
     "date": "2025-05-07T04:48:40",
     "text": "<del>需要改水冷</del>",
-    "views": 278,
+    "views": 279,
     "forwards": 0,
     "images": [
       {
@@ -73476,7 +73476,7 @@
     "id": 5315,
     "date": "2025-05-07T10:41:07",
     "text": "在床上聊天聊起回忆，聊到小时候超级喜欢 Tron Legacy，当时买了 BD 光碟还刷了好多遍，但是不记得讲什么了只记得摩托车和丢飞盘很炫酷！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<span class=\"spoiler\"><span>（meanwhile 聊聊只看了两遍却能背出台词... 这就是记忆力的差距吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</span></span></i>\n\n不过我们上次看这部电影都已经是十几年前了，有点想知道以现在的审美看它会觉得怎么样，所以就即兴和聊聊重新看了一遍！结果就是... <span class=\"spoiler\"><span>现在依然觉得摩托车和丢飞盘很炫酷！</span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i>\n\n仔细想想的话，这部电影剧情叙事还是设定都有很大问题，看起来高科技也只是用计算机的名词讲了飞盘与魔法... 不过也正是这样无厘头的设定才能够让它所设想的世界可以这样炫酷，也没什么不好嘛<span class=\"spoiler\"><span>（真实的程序员/黑客工作画面很无聊的哦！</span></span>\n\n（以及真的超喜欢 daft punk 的配乐！原来我听的第一首 daft punk 在这里 qwq",
-    "views": 250,
+    "views": 251,
     "forwards": 2,
     "media_group_id": 13972915740570293,
     "images": [
@@ -73535,7 +73535,7 @@
   {
     "id": 5320,
     "date": "2025-05-07T11:05:20",
-    "views": 268,
+    "views": 269,
     "forwards": 0,
     "images": [
       {
@@ -73554,7 +73554,7 @@
     "id": 5321,
     "date": "2025-05-07T12:21:02",
     "text": "明明平时不觉得 Tim Hortons 很好吃的，但是想着马上就吃不到了就变得格外的好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 270,
+    "views": 271,
     "forwards": 0,
     "images": [
       {
@@ -73573,7 +73573,7 @@
     "id": 5322,
     "date": "2025-05-07T15:40:02",
     "text": "哇 见到了野生的福瑞！",
-    "views": 369,
+    "views": 370,
     "forwards": 2,
     "media_group_id": 13973059219682877,
     "images": [
@@ -73603,7 +73603,7 @@
     "id": 5324,
     "date": "2025-05-08T13:30:00",
     "text": "和多伦多的家说了再见 qwq",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "reply": {
       "id": 3615,
@@ -73614,7 +73614,7 @@
     "id": 5325,
     "date": "2025-05-08T15:20:44",
     "text": "分离焦虑.jpg ~ side 聊聊",
-    "views": 273,
+    "views": 274,
     "forwards": 3,
     "reply": {
       "id": 3618,
@@ -73637,7 +73637,7 @@
     "id": 5326,
     "date": "2025-05-08T16:22:58",
     "text": "以及 刚才安检的时候果然因为 edc27 被抽查了\n\n安检员：这是什么\n我：手电筒\n安检员：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6170273433318852395.webm\">🙄</i>\n我：你按一下开关\n安检员：还真是手电筒\n\n（还能是光剑吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 274,
+    "views": 275,
     "forwards": 2,
     "reply": {
       "id": 5325,
@@ -73648,7 +73648,7 @@
     "id": 5327,
     "date": "2025-05-09T09:22:23",
     "text": "日本に来ました!",
-    "views": 270,
+    "views": 271,
     "forwards": 3,
     "media_group_id": 13974260346591509,
     "images": [
@@ -73678,14 +73678,14 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 245,
+    "views": 246,
     "forwards": 3
   },
   {
     "id": 5330,
     "date": "2025-05-09T14:43:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n<del>馄饨邪恶</del>広州雲吞面\n\n以及见到了谦谦，开心！<del>感谢谦谦帮我补充了很多这边的常识</del>",
-    "views": 260,
+    "views": 262,
     "forwards": 2,
     "images": [
       {
@@ -73704,7 +73704,7 @@
     "id": 5331,
     "date": "2025-05-09T16:16:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ Why do the stars shine so bright in the sky\n♪ If most of the people are sleeping at night",
-    "views": 251,
+    "views": 252,
     "forwards": 1,
     "files": [
       {
@@ -73726,14 +73726,14 @@
     "id": 5332,
     "date": "2025-05-10T01:41:35",
     "text": "成功地在来日本之前提前把作息倒好了，第一天就有凌晨一点睡早上十点半起的健康（？）作息 qwq",
-    "views": 238,
+    "views": 239,
     "forwards": 0
   },
   {
     "id": 5333,
     "date": "2025-05-10T03:03:59",
     "text": "觉得关注频道的人太多了，踢掉了 52 个看上去像 bot 的帐号 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n满足以下任意两条的人都被踢掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n1. 没有简介/头像/名字\n2. 没有公开大群以外的共同群\n3. 没有信息输出（个人频道、博客外链、公开频道或者群里的讨论什么的都可以算）\n\n或者有用过开盒工具或者发过复制粘贴广告的人也被踢掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 254,
+    "views": 255,
     "forwards": 2,
     "images": [
       {
@@ -73751,7 +73751,7 @@
   {
     "id": 5334,
     "date": "2025-05-10T05:44:31",
-    "views": 241,
+    "views": 243,
     "forwards": 1,
     "images": [
       {
@@ -73770,7 +73770,7 @@
     "id": 5335,
     "date": "2025-05-10T08:27:33",
     "text": "<a href=\"##ガルクラ\">#ガルクラ</a> 圣地巡礼",
-    "views": 222,
+    "views": 224,
     "forwards": 0,
     "media_group_id": 13974925231723077,
     "images": [
@@ -73870,7 +73870,7 @@
     "id": 5344,
     "date": "2025-05-10T08:59:30",
     "text": "在 gbc 里最初 nina 和 mmk 见面的地方遇到了新的偶像团！<i class=\"custom-emoji\" emoji-src=\"emoji/6170373931258611261.webm\">✌</i>\n\n有被他们的活力打动，结束之后去买了一张 CD",
-    "views": 244,
+    "views": 245,
     "forwards": 2,
     "media_group_id": 13974940560178397,
     "images": [
@@ -73920,7 +73920,7 @@
     "id": 5348,
     "date": "2025-05-10T12:25:56",
     "text": "好像买 CD 的时候不小心用了加拿大银行给我的超稀有两千元钞",
-    "views": 252,
+    "views": 254,
     "forwards": 6,
     "forwarded_from": {
       "name": "Azalea",
@@ -73954,7 +73954,7 @@
     "id": 5350,
     "date": "2025-05-11T05:13:36",
     "text": "好耶 一天过去我现在已经可以不看地图走到地铁站了！",
-    "views": 238,
+    "views": 241,
     "forwards": 1,
     "reply": {
       "id": 5334
@@ -73964,7 +73964,7 @@
     "id": 5351,
     "date": "2025-05-11T13:57:48",
     "text": "今天下午约天文姐姐和 <a href=\"https://t.me/ArakawaHideki\">@ArakawaHideki</a> 和 <a href=\"https://t.me/petergu8022\">@petergu8022</a> 去逛了秋葉原，那里在举行两年一度的神田祭，超热闹！\n\n还一起逛了电子零件市场，感觉小学的回忆里中关村电子城衰落之前最繁华的时候就是这样的...好怀念。\n\n也理解了动画里那些天才工程师小孩子都不是夸大，有这些店在这里的话确实能很方便搓出想要的东西。比如如果我想买微动做街机手台的话，比起淘宝下单等三天送到再退，直接来店里摸实物确认手感真的方便太多太多\n\n然后看到了超大 fufu 合了影，进去买了一只 mafufu（面无表情的表情超可爱！！！\n\n晚上约了谦谦和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和 <a href=\"https://t.me/Dimensionlez\">@Dimensionlez</a> 也一起过来吃自助烧鸟，听他们六个人聊了一晚上学术和工作的事情感觉日本好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n（与此同时有一只完熟芒果因为不自量力地喝了鸡尾酒头晕去旁边躺躺了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> <span class=\"spoiler\"><span>小桂桂只有面 <3 个人的时候不会变成完熟芒果</span></span>",
-    "views": 241,
+    "views": 243,
     "forwards": 13,
     "media_group_id": 13975774948467493,
     "images": [
@@ -74074,7 +74074,7 @@
     "id": 5361,
     "date": "2025-05-12T10:29:34",
     "text": "来日本的前一天还在担心觉得自己会孤单没有朋友，结果没过一周就认识了好多朋友！从完熟芒果箱中毕业了",
-    "views": 241,
+    "views": 245,
     "forwards": 2,
     "reply": {
       "id": 5351,
@@ -74086,13 +74086,13 @@
     "id": 5362,
     "date": "2025-05-12T10:44:01",
     "text": "呜呜 实习第一天就被灵车创了\n\n拿到公司电脑 setup 好之后，想要像自己的电脑一样用 yubikey 解锁，安装了 yubikey login 软件，安装完重启之后登录不进去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n进安全模式或者重置都需要 bitlocker 恢复码，获得恢复码需要在另一个设备上登录，但是公司的 AD 设置不让在个人设备上登录...\n\n和 IT 说了，IT 说也不知道怎么找 bitlocker 恢复码需要 escalate... 寄 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 232,
+    "views": 236,
     "forwards": 0
   },
   {
     "id": 5363,
     "date": "2025-05-12T11:37:58",
-    "views": 241,
+    "views": 244,
     "forwards": 1,
     "images": [
       {
@@ -74111,7 +74111,7 @@
     "id": 5364,
     "date": "2025-05-12T16:25:17",
     "text": "刚刚回家 这是凌晨零点我的工位（因为想借用公司的显示器写研究生申请所以待到了凌晨 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为不能真的发工位照片所以让 CyberRealistic img2img 了一下\n\n回来的时候骑了共享电滑板... 好爽！这是上次自己买的电滑板被偷走之后第一次骑电滑板 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 想以后就电滑板上下班吧",
-    "views": 224,
+    "views": 227,
     "forwards": 2,
     "media_group_id": 13976536938894741,
     "images": [
@@ -74151,7 +74151,7 @@
     "id": 5367,
     "date": "2025-05-13T00:50:21",
     "text": "之前在多伦多不喜欢用共享电车赶路，因为共享电车车位是固定的并且有限，经常会在赶到了之后发现没有地方停还要绕远\n\n我发现这边 luup 完美解决了这个问题：在出发之前选好目的地，选要停哪里然后它会预留出停车空间",
-    "views": 232,
+    "views": 235,
     "forwards": 0,
     "reply": {
       "id": 5364,
@@ -74163,21 +74163,21 @@
     "id": 5368,
     "date": "2025-05-13T07:01:41",
     "text": "我乳糖不耐受的程度：早上从咖啡厅拿了九块奶香小饼干吃，然后拉肚子一整天",
-    "views": 229,
+    "views": 232,
     "forwards": 0
   },
   {
     "id": 5369,
     "date": "2025-05-13T11:39:03",
     "text": "按下发送按钮怎么这么难\n按下发送按钮怎么这么难\n按下发送按钮怎么这么难",
-    "views": 238,
+    "views": 240,
     "forwards": 1
   },
   {
     "id": 5370,
     "date": "2025-05-13T15:48:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n深夜回家骑着车不知不觉开始哼歌，但是想不起来叫什么，回家找了找发现是苹果女王的「丸の内サディスティック」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>还好不记得歌词</del>",
-    "views": 231,
+    "views": 233,
     "forwards": 1,
     "files": [
       {
@@ -74199,7 +74199,7 @@
     "id": 5371,
     "date": "2025-05-14T08:42:00",
     "text": "不太聪明喵",
-    "views": 225,
+    "views": 230,
     "forwards": 0,
     "images": [
       {
@@ -74218,7 +74218,7 @@
     "id": 5372,
     "date": "2025-05-14T12:36:57",
     "text": "发现野生的 Azalea (1/1) ✅",
-    "views": 216,
+    "views": 221,
     "forwards": 1,
     "media_group_id": 13977809737130773,
     "images": [
@@ -74247,7 +74247,7 @@
   {
     "id": 5374,
     "date": "2025-05-14T13:16:50",
-    "views": 222,
+    "views": 227,
     "forwards": 2,
     "files": [
       {
@@ -74288,7 +74288,7 @@
     "id": 5375,
     "date": "2025-05-15T12:43:32",
     "text": "什么时候 chatgpt app 开始要求安卓 strong integrity 了...\n\nchatgpt 又不是什么怕被用户修改的 app 为什么这样啊？过不了认证的手机就直接不能用了，太过分了，相比银行 app 和谷歌钱包都只需要 basic/device integrity... \n\n立即卸载，换 gemini 了",
-    "views": 211,
+    "views": 215,
     "forwards": 2,
     "media_group_id": 13978504101065765,
     "images": [
@@ -74328,7 +74328,7 @@
     "id": 5378,
     "date": "2025-05-15T14:13:22",
     "text": "下班之后和 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 去了 <del>MyGO</del> サンシャイン水族館，看到了飞在空中的企鹅！🐧\n\n大概理解为什么高松灯会喜欢这个地方了——听着水流的白噪音、看着企鹅在天上飞，感觉心烦的事情一个个全都被企鹅叼走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n啊啊 超级想买年票，可惜这个地方离我太远了要一个小时才能到",
-    "views": 174,
+    "views": 178,
     "forwards": 1,
     "media_group_id": 13978547219980445,
     "images": [
@@ -74408,7 +74408,7 @@
     "id": 5385,
     "date": "2025-05-15T14:37:13",
     "text": "今天拍的更多可爱鱼鱼，好喜欢水族馆\n\n以及买了一个ニシキアナゴ抱き枕，小小只还会探头出来好可爱！",
-    "views": 171,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 13978558671159965,
     "images": [
@@ -74513,7 +74513,7 @@
     "id": 5394,
     "date": "2025-05-17T00:05:52",
     "text": "昨晚回家路上的夜景\n\n感觉每天都在公司待到凌晨回家是不是不太好（xx）",
-    "views": 166,
+    "views": 172,
     "forwards": 1,
     "media_group_id": 13979522818187429,
     "images": [
@@ -74543,7 +74543,7 @@
     "id": 5396,
     "date": "2025-05-17T13:57:50",
     "text": "按投票结果今天去了鎌倉和江の島！\n\n因为是下雨天，首先去了報国寺，感觉竹林和庭院在雨天的气氛反而超治愈！\n\n在休息亭喝了一杯抹茶，原来不加糖的抹茶这么苦... 还是更喜欢甜的抹茶拿铁，早知道带上糖和豆奶了。\n\n接下来去了鶴岡八幡宮反而觉得比较无聊，就是一个很大的神殿而已，感觉比起这种很威严庄重的建筑更喜欢休闲随意的风格",
-    "views": 133,
+    "views": 140,
     "forwards": 0,
     "media_group_id": 13979922163569973,
     "images": [
@@ -74656,7 +74656,7 @@
     "id": 5406,
     "date": "2025-05-17T14:29:02",
     "text": "接下来去了两个位置很近的神社\n\n一个是銭洗弁財天，入口是一个山洞还有点可怕的，不过进去之后风景很不错！我也学着投了硬币摇了铃铛。以及发现这个神社的图标是塞尔达三角力量的图标诶，创始人一定很喜欢塞尔达吧（雾）\n\n另一个是<span class=\"spoiler\"><span>佐助</span></span>稲荷神社，除了数不胜数的鳥居以外还有数不胜数的稲荷小狐狸雕像！每个雕像都是由一个不同的人捐的，大家齐心协力一个个小狐狸加起来就形成了眼前的狐狸大军... <span class=\"spoiler\"><span>人类能够达成分布式共识的时候真好呀</span></span>\n\n虽然之前在摄影模拟器那个游戏里赛博参观过伏見稲荷大社了，但是真的在眼前的时候规模给我的感受还是好不一样",
-    "views": 140,
+    "views": 147,
     "forwards": 0,
     "media_group_id": 13979937141215781,
     "images": [
@@ -74766,7 +74766,7 @@
     "id": 5416,
     "date": "2025-05-17T14:46:48",
     "text": "一些彩蛋\n\n1. 赛钱「请不要赛人民币」\n2. 鳥(tori)屹立于鳥居(torii)之上\n3. 给三角力量奉献一束香\n4. 大狐狸 看着被打翻的小狐狸满脸生气\n5. 1000 million Dollars\n6. 天冷了，铁鸟鸟也要穿衣服\n7. 超小蜂巢",
-    "views": 141,
+    "views": 147,
     "forwards": 0,
     "media_group_id": 13979945664986901,
     "images": [
@@ -74846,14 +74846,14 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 184,
+    "views": 193,
     "forwards": 2
   },
   {
     "id": 5424,
     "date": "2025-05-18T14:09:36",
     "text": "今天和 <a href=\"https://t.me/magicxqq\">@magicxqq</a> 和 Lufthafen 去了箱根那边的「彫刻の森美術館」，遇到了超有新意的限时展览「<a href=\"https://www.hakone-oam.or.jp/specials/2025/mukiryokubakuhatsu/\">無気力爆発～絵と題名の世界～</a>」\n\n作品本身普普通通，既没有很好看的作画，记录的也是很平凡的事情... 但是它给作品的题名真的好独特好有趣，把乱涂乱画升华到了也许是某种人类观察日志\n\n「觉得这箱子说不定能派上用场而把它收起来的青年」\n「总觉得自己被乌鸦骂“笨蛋、笨蛋”的青年」\n「可能实际上真的在笑的女人」\n「一生中最喜欢的两个场面是“平凡中的不平凡”和“不平凡中的平凡”的青年」\n「瞒着恋人踏上旅程的女人和假装没察觉的春月」哇这个真是太浪漫了\n\n以及キンシオ的旅行相册也好有趣，在每张照片上用画笔画入自己真的太可爱了。\n\n总之很喜欢题名世界的艺术！偶然遇到了好开心。\n\n相比反而这个美术馆里的「其他的毕加索」展区是我觉得最无聊的，抽象得太刻板以至于可以拟合出抽象画应该是什么样就没意思了。",
-    "views": 127,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 13980619012379157,
     "images": [
@@ -74963,7 +74963,7 @@
     "id": 5434,
     "date": "2025-05-19T11:56:49",
     "text": "啊啊啊超尴尬\n\n我（看到拉面的牌子走进去）\n店员：几个人呢\n我：一个人\n店员：这里是居酒屋不是拉面哦\n\n然后旁边的人开始大声笑（好过分！）",
-    "views": 107,
+    "views": 137,
     "forwards": 1,
     "media_group_id": 13981246475564749,
     "images": [
@@ -74996,6 +74996,44 @@
         "url": "media/5436.jpg",
         "size": 207670,
         "thumb": "media/5436.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5437,
+    "date": "2025-05-20T04:18:15",
+    "text": "搞什么...\n\n没有专门适配火狐也许有 bug 的话能理解，毕竟不是所有厂商都有余力适配每个平台... 直接在登录完被拦下也太过分了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nedit: 不是 ms365 本身不支持火狐，是公司的 ms365 policy 设置了只允许这两个浏览器",
+    "views": 99,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 640,
+        "height": 1165,
+        "date": "2025-05-20T04:18:14",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-20_04-18-14.jpg",
+        "url": "media/5437.jpg",
+        "size": 54531,
+        "thumb": "media/5437.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5438,
+    "date": "2025-05-20T04:44:23",
+    "text": "办了银行卡，感谢谦谦帮忙...!\n\n总之发生了这样的事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n被绕圈圈，带了一份 offer 但是银行要给公司打电话确认这份文件的真实性，给他们看了我的 HR 的电话又没办法确认这个人是不是真的是公司的 HR，因为官网上没有这个号码... 但是公司又没有在官网上写公开手机号\n\n明明发一封验证邮件到我的公司邮箱就好了的事情，非要用电话验证就好麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
+    "views": 93,
+    "forwards": 2,
+    "images": [
+      {
+        "width": 583,
+        "height": 915,
+        "date": "2025-05-20T04:44:23",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-20_04-44-23.jpg",
+        "url": "media/5438.jpg",
+        "size": 155334,
+        "thumb": "media/5438.jpg_thumb.jpg"
       }
     ]
   }
