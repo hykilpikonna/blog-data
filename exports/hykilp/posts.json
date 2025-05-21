@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7330,
+    "views": 7331,
     "forwards": 179,
     "media_group_id": 13340239729731381,
     "images": [
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1403,
+    "views": 1404,
     "forwards": 9,
     "files": [
       {
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1138,
+    "views": 1141,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70523,7 +70523,7 @@
     "id": 5102,
     "date": "2025-03-30T04:58:48",
     "text": "今天被朋友邀请去看了多伦多大 Allegro 中文合唱团的年度音乐会，好棒好棒！大家都好厉害\n\n之后和他一起去吃了烤串，聊了好多，开心开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n这个朋友是高中的同学，也是当时很好的朋友。记得高中的时候总是和他一起拿学校的 iPad 打音游（当时在玩 Arcaea 和 Cytus 2）还有放学偷偷去学校教堂弹那里的钢琴，好怀念。当时他钢琴弹得超厉害，相比我就只能弹一些安静的简单的曲子 quq\n\n他也是我唯一一个那个时候在现实中认识并且现在还有联系的朋友... 那时候我超社恐 > < 结果现在我不社恐了但是看他还像以前一样社恐<span class=\"spoiler\"><span>，今天邀请我来居然是真的在大学里没交到几个其他朋友 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 太可怜了</span></span>",
-    "views": 279,
+    "views": 280,
     "forwards": 0,
     "files": [
       {
@@ -70658,7 +70658,7 @@
     "id": 5111,
     "date": "2025-04-01T00:40:47",
     "text": "通关了中二节奏「<a href=\"##イロドリミドリ幻想VII\">#イロドリミドリ幻想VII</a> 国际版」愚人节小游戏 qwq\n\n总共花了5分7秒8回合，没想到和 syama 一起四周目就打通了，好玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n游玩链接在这里 <a href=\"https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/\">https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/</a>",
-    "views": 306,
+    "views": 307,
     "forwards": 0,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2435,
+    "views": 2436,
     "forwards": 29,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "images": [
       {
@@ -70718,7 +70718,7 @@
     "id": 5114,
     "date": "2025-04-02T07:48:08",
     "text": "这个网页做得好安全，从弹窗里打开 devtools 完全找不到游戏的 js 代码... 脚本似乎是通过弹窗加载之后回调给主窗口然后主窗口注入进来的，奇妙\n\n弹窗里无论断点打在哪里都没办法暂停进 js 源码，因为这个窗口里没有源码，主窗口里有源码但是又没办法通过断点很方便地找到调用的地方... 这样反调试好聪明\n\n最后找到了存档位置（是 localStorage.ClickerGameStore）然后通过改存档通关了 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（以及发现 discord 客户端居然把 localStorage 全局变量删掉了... 确实能防止其他脚本读到 localStorage，私货好多啊",
-    "views": 266,
+    "views": 267,
     "forwards": 2,
     "reply": {
       "id": 5113,
@@ -70830,7 +70830,7 @@
     "id": 5121,
     "date": "2025-04-04T13:32:11",
     "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "images": [
       {
@@ -70849,7 +70849,7 @@
     "id": 5122,
     "date": "2025-04-05T04:26:43",
     "text": "因为驾照要过期了，约了 G 牌驾考，为此租了一辆车练习考试... 但是又觉得只是练车太浪费了，就临时计划了一次「练车旅行」——有了车就去一些平时的公共交通去不到的地方吧 qwq\n\n今天拿到了车，接上 Henry、豆腐、猫猫球一起去了沙滩。气氛好棒，好久没有这么放松了，什么都不用想不用做只要在湖风中散步就很开心... 如果我有车肯定每天都会来\n\n见到了超大只鹅🦢（身上带着标签，可能是研究样本吗）还拍了很多也许可以捕捉心情的照片",
-    "views": 203,
+    "views": 204,
     "forwards": 0,
     "media_group_id": 13950617626814517,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5118,
+    "views": 5120,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5540,
+    "views": 5544,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 547,
+    "views": 548,
     "forwards": 18,
     "media_group_id": 13969322433734669,
     "images": [
@@ -74074,7 +74074,7 @@
     "id": 5361,
     "date": "2025-05-12T10:29:34",
     "text": "来日本的前一天还在担心觉得自己会孤单没有朋友，结果没过一周就认识了好多朋友！从完熟芒果箱中毕业了",
-    "views": 251,
+    "views": 253,
     "forwards": 2,
     "reply": {
       "id": 5351,
@@ -74086,13 +74086,13 @@
     "id": 5362,
     "date": "2025-05-12T10:44:01",
     "text": "呜呜 实习第一天就被灵车创了\n\n拿到公司电脑 setup 好之后，想要像自己的电脑一样用 yubikey 解锁，安装了 yubikey login 软件，安装完重启之后登录不进去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n进安全模式或者重置都需要 bitlocker 恢复码，获得恢复码需要在另一个设备上登录，但是公司的 AD 设置不让在个人设备上登录...\n\n和 IT 说了，IT 说也不知道怎么找 bitlocker 恢复码需要 escalate... 寄 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 241,
+    "views": 242,
     "forwards": 0
   },
   {
     "id": 5363,
     "date": "2025-05-12T11:37:58",
-    "views": 251,
+    "views": 252,
     "forwards": 1,
     "images": [
       {
@@ -74111,7 +74111,7 @@
     "id": 5364,
     "date": "2025-05-12T16:25:17",
     "text": "刚刚回家 这是凌晨零点我的工位（因为想借用公司的显示器写研究生申请所以待到了凌晨 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为不能真的发工位照片所以让 CyberRealistic img2img 了一下\n\n回来的时候骑了共享电滑板... 好爽！这是上次自己买的电滑板被偷走之后第一次骑电滑板 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 想以后就电滑板上下班吧",
-    "views": 234,
+    "views": 235,
     "forwards": 2,
     "media_group_id": 13976536938894741,
     "images": [
@@ -74151,7 +74151,7 @@
     "id": 5367,
     "date": "2025-05-13T00:50:21",
     "text": "之前在多伦多不喜欢用共享电车赶路，因为共享电车车位是固定的并且有限，经常会在赶到了之后发现没有地方停还要绕远\n\n我发现这边 luup 完美解决了这个问题：在出发之前选好目的地，选要停哪里然后它会预留出停车空间",
-    "views": 242,
+    "views": 243,
     "forwards": 0,
     "reply": {
       "id": 5364,
@@ -74163,14 +74163,14 @@
     "id": 5368,
     "date": "2025-05-13T07:01:41",
     "text": "我乳糖不耐受的程度：早上从咖啡厅拿了九块奶香小饼干吃，然后拉肚子一整天",
-    "views": 240,
+    "views": 241,
     "forwards": 0
   },
   {
     "id": 5369,
     "date": "2025-05-13T11:39:03",
     "text": "按下发送按钮怎么这么难\n按下发送按钮怎么这么难\n按下发送按钮怎么这么难",
-    "views": 248,
+    "views": 249,
     "forwards": 1
   },
   {
@@ -74218,7 +74218,7 @@
     "id": 5372,
     "date": "2025-05-14T12:36:57",
     "text": "发现野生的 Azalea (1/1) ✅",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "media_group_id": 13977809737130773,
     "images": [
@@ -74247,7 +74247,7 @@
   {
     "id": 5374,
     "date": "2025-05-14T13:16:50",
-    "views": 236,
+    "views": 239,
     "forwards": 2,
     "files": [
       {
@@ -74288,7 +74288,7 @@
     "id": 5375,
     "date": "2025-05-15T12:43:32",
     "text": "什么时候 chatgpt app 开始要求安卓 strong integrity 了...\n\nchatgpt 又不是什么怕被用户修改的 app 为什么这样啊？过不了认证的手机就直接不能用了，太过分了，相比银行 app 和谷歌钱包都只需要 basic/device integrity... \n\n立即卸载，换 gemini 了",
-    "views": 224,
+    "views": 227,
     "forwards": 2,
     "media_group_id": 13978504101065765,
     "images": [
@@ -74328,7 +74328,7 @@
     "id": 5378,
     "date": "2025-05-15T14:13:22",
     "text": "下班之后和 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 去了 <del>MyGO</del> サンシャイン水族館，看到了飞在空中的企鹅！🐧\n\n大概理解为什么高松灯会喜欢这个地方了——听着水流的白噪音、看着企鹅在天上飞，感觉心烦的事情一个个全都被企鹅叼走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n啊啊 超级想买年票，可惜这个地方离我太远了要一个小时才能到",
-    "views": 188,
+    "views": 192,
     "forwards": 1,
     "media_group_id": 13978547219980445,
     "images": [
@@ -74408,7 +74408,7 @@
     "id": 5385,
     "date": "2025-05-15T14:37:13",
     "text": "今天拍的更多可爱鱼鱼，好喜欢水族馆\n\n以及买了一个ニシキアナゴ抱き枕，小小只还会探头出来好可爱！",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 13978558671159965,
     "images": [
@@ -74513,7 +74513,7 @@
     "id": 5394,
     "date": "2025-05-17T00:05:52",
     "text": "昨晚回家路上的夜景\n\n感觉每天都在公司待到凌晨回家是不是不太好（xx）",
-    "views": 184,
+    "views": 185,
     "forwards": 1,
     "media_group_id": 13979522818187429,
     "images": [
@@ -74543,7 +74543,7 @@
     "id": 5396,
     "date": "2025-05-17T13:57:50",
     "text": "按投票结果今天去了鎌倉和江の島！\n\n因为是下雨天，首先去了報国寺，感觉竹林和庭院在雨天的气氛反而超治愈！\n\n在休息亭喝了一杯抹茶，原来不加糖的抹茶这么苦... 还是更喜欢甜的抹茶拿铁，早知道带上糖和豆奶了。\n\n接下来去了鶴岡八幡宮反而觉得比较无聊，就是一个很大的神殿而已，感觉比起这种很威严庄重的建筑更喜欢休闲随意的风格",
-    "views": 155,
+    "views": 156,
     "forwards": 0,
     "media_group_id": 13979922163569973,
     "images": [
@@ -74656,7 +74656,7 @@
     "id": 5406,
     "date": "2025-05-17T14:29:02",
     "text": "接下来去了两个位置很近的神社\n\n一个是銭洗弁財天，入口是一个山洞还有点可怕的，不过进去之后风景很不错！我也学着投了硬币摇了铃铛。以及发现这个神社的图标是塞尔达三角力量的图标诶，创始人一定很喜欢塞尔达吧（雾）\n\n另一个是<span class=\"spoiler\"><span>佐助</span></span>稲荷神社，除了数不胜数的鳥居以外还有数不胜数的稲荷小狐狸雕像！每个雕像都是由一个不同的人捐的，大家齐心协力一个个小狐狸加起来就形成了眼前的狐狸大军... <span class=\"spoiler\"><span>人类能够达成分布式共识的时候真好呀</span></span>\n\n虽然之前在摄影模拟器那个游戏里赛博参观过伏見稲荷大社了，但是真的在眼前的时候规模给我的感受还是好不一样",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "media_group_id": 13979937141215781,
     "images": [
@@ -74766,7 +74766,7 @@
     "id": 5416,
     "date": "2025-05-17T14:46:48",
     "text": "一些彩蛋\n\n1. 赛钱「请不要赛人民币」\n2. 鳥(tori)屹立于鳥居(torii)之上\n3. 给三角力量奉献一束香\n4. 大狐狸 看着被打翻的小狐狸满脸生气\n5. 1000 million Dollars\n6. 天冷了，铁鸟鸟也要穿衣服\n7. 超小蜂巢",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "media_group_id": 13979945664986901,
     "images": [
@@ -74846,14 +74846,14 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 210,
+    "views": 211,
     "forwards": 2
   },
   {
     "id": 5424,
     "date": "2025-05-18T14:09:36",
     "text": "今天和 <a href=\"https://t.me/magicxqq\">@magicxqq</a> 和 Lufthafen 去了箱根那边的「彫刻の森美術館」，遇到了超有新意的限时展览「<a href=\"https://www.hakone-oam.or.jp/specials/2025/mukiryokubakuhatsu/\">無気力爆発～絵と題名の世界～</a>」\n\n作品本身普普通通，既没有很好看的作画，记录的也是很平凡的事情... 但是它给作品的题名真的好独特好有趣，把乱涂乱画升华到了也许是某种人类观察日志\n\n「觉得这箱子说不定能派上用场而把它收起来的青年」\n「总觉得自己被乌鸦骂“笨蛋、笨蛋”的青年」\n「可能实际上真的在笑的女人」\n「一生中最喜欢的两个场面是“平凡中的不平凡”和“不平凡中的平凡”的青年」\n「瞒着恋人踏上旅程的女人和假装没察觉的春月」哇这个真是太浪漫了\n\n以及キンシオ的旅行相册也好有趣，在每张照片上用画笔画入自己真的太可爱了。\n\n总之很喜欢题名世界的艺术！偶然遇到了好开心。\n\n相比反而这个美术馆里的「其他的毕加索」展区是我觉得最无聊的，抽象得太刻板以至于可以拟合出抽象画应该是什么样就没意思了。",
-    "views": 163,
+    "views": 165,
     "forwards": 0,
     "media_group_id": 13980619012379157,
     "images": [
@@ -74963,7 +74963,7 @@
     "id": 5434,
     "date": "2025-05-19T11:56:49",
     "text": "啊啊啊超尴尬\n\n我（看到拉面的牌子走进去）\n店员：几个人呢\n我：一个人\n店员：这里是居酒屋不是拉面哦\n\n然后旁边的人开始大声笑（好过分！）",
-    "views": 163,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 13981246475564749,
     "images": [
@@ -75003,7 +75003,7 @@
     "id": 5437,
     "date": "2025-05-20T04:18:15",
     "text": "搞什么...\n\n没有专门适配火狐也许有 bug 的话能理解，毕竟不是所有厂商都有余力适配每个平台... 直接在登录完被拦下也太过分了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nedit: 不是 ms365 本身不支持火狐，是公司的 ms365 policy 设置了只允许这两个浏览器",
-    "views": 161,
+    "views": 167,
     "forwards": 0,
     "images": [
       {
@@ -75022,7 +75022,7 @@
     "id": 5438,
     "date": "2025-05-20T04:44:23",
     "text": "办了银行卡，感谢谦谦帮忙...!\n\n总之发生了这样的事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n被绕圈圈，带了一份 offer 但是银行要给公司打电话确认这份文件的真实性，给他们看了我的 HR 的电话又没办法确认这个人是不是真的是公司的 HR，因为官网上没有这个号码... 但是公司又没有在官网上写公开手机号\n\n明明发一封验证邮件到我的公司邮箱就好了的事情，非要用电话验证就好麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 164,
+    "views": 172,
     "forwards": 3,
     "images": [
       {
@@ -75041,7 +75041,7 @@
     "id": 5439,
     "date": "2025-05-20T19:29:53",
     "text": "每天回家的路上都会遇到东京塔，好像有时候灯光还会不一样，奇妙\n\n以及今天回家走了平时少走的路，遇到了一个在城市角落的小神社 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> <del>好了现在我也去过伏見稲荷了</del>",
-    "views": 104,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 13982155145756765,
     "images": [
@@ -75086,7 +75086,7 @@
     "id": 5442,
     "date": "2025-05-20T22:05:49",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 92,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -75105,7 +75105,7 @@
     "id": 5443,
     "date": "2025-05-21T02:26:05",
     "text": "？Copilot 你想干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</i>",
-    "views": 40,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
