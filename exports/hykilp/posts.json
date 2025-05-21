@@ -51517,7 +51517,7 @@
     "id": 3780,
     "date": "2024-05-18T07:07:04",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n买了两个喇叭碗做面更有ラーメン的感觉了！\n\n不过厨房太小了没办法放下四个这么大的碗，呜呜 quq",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "media_group_id": 13728128199122989,
     "images": [
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1141,
+    "views": 1143,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2436,
+    "views": 2443,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5120,
+    "views": 5121,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1689,
+    "views": 1690,
     "forwards": 50
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5544,
+    "views": 5547,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74656,7 +74656,7 @@
     "id": 5406,
     "date": "2025-05-17T14:29:02",
     "text": "接下来去了两个位置很近的神社\n\n一个是銭洗弁財天，入口是一个山洞还有点可怕的，不过进去之后风景很不错！我也学着投了硬币摇了铃铛。以及发现这个神社的图标是塞尔达三角力量的图标诶，创始人一定很喜欢塞尔达吧（雾）\n\n另一个是<span class=\"spoiler\"><span>佐助</span></span>稲荷神社，除了数不胜数的鳥居以外还有数不胜数的稲荷小狐狸雕像！每个雕像都是由一个不同的人捐的，大家齐心协力一个个小狐狸加起来就形成了眼前的狐狸大军... <span class=\"spoiler\"><span>人类能够达成分布式共识的时候真好呀</span></span>\n\n虽然之前在摄影模拟器那个游戏里赛博参观过伏見稲荷大社了，但是真的在眼前的时候规模给我的感受还是好不一样",
-    "views": 164,
+    "views": 165,
     "forwards": 0,
     "media_group_id": 13979937141215781,
     "images": [
@@ -74766,7 +74766,7 @@
     "id": 5416,
     "date": "2025-05-17T14:46:48",
     "text": "一些彩蛋\n\n1. 赛钱「请不要赛人民币」\n2. 鳥(tori)屹立于鳥居(torii)之上\n3. 给三角力量奉献一束香\n4. 大狐狸 看着被打翻的小狐狸满脸生气\n5. 1000 million Dollars\n6. 天冷了，铁鸟鸟也要穿衣服\n7. 超小蜂巢",
-    "views": 162,
+    "views": 164,
     "forwards": 0,
     "media_group_id": 13979945664986901,
     "images": [
@@ -74853,7 +74853,7 @@
     "id": 5424,
     "date": "2025-05-18T14:09:36",
     "text": "今天和 <a href=\"https://t.me/magicxqq\">@magicxqq</a> 和 Lufthafen 去了箱根那边的「彫刻の森美術館」，遇到了超有新意的限时展览「<a href=\"https://www.hakone-oam.or.jp/specials/2025/mukiryokubakuhatsu/\">無気力爆発～絵と題名の世界～</a>」\n\n作品本身普普通通，既没有很好看的作画，记录的也是很平凡的事情... 但是它给作品的题名真的好独特好有趣，把乱涂乱画升华到了也许是某种人类观察日志\n\n「觉得这箱子说不定能派上用场而把它收起来的青年」\n「总觉得自己被乌鸦骂“笨蛋、笨蛋”的青年」\n「可能实际上真的在笑的女人」\n「一生中最喜欢的两个场面是“平凡中的不平凡”和“不平凡中的平凡”的青年」\n「瞒着恋人踏上旅程的女人和假装没察觉的春月」哇这个真是太浪漫了\n\n以及キンシオ的旅行相册也好有趣，在每张照片上用画笔画入自己真的太可爱了。\n\n总之很喜欢题名世界的艺术！偶然遇到了好开心。\n\n相比反而这个美术馆里的「其他的毕加索」展区是我觉得最无聊的，抽象得太刻板以至于可以拟合出抽象画应该是什么样就没意思了。",
-    "views": 165,
+    "views": 166,
     "forwards": 0,
     "media_group_id": 13980619012379157,
     "images": [
@@ -74963,7 +74963,7 @@
     "id": 5434,
     "date": "2025-05-19T11:56:49",
     "text": "啊啊啊超尴尬\n\n我（看到拉面的牌子走进去）\n店员：几个人呢\n我：一个人\n店员：这里是居酒屋不是拉面哦\n\n然后旁边的人开始大声笑（好过分！）",
-    "views": 165,
+    "views": 166,
     "forwards": 1,
     "media_group_id": 13981246475564749,
     "images": [
@@ -75003,7 +75003,7 @@
     "id": 5437,
     "date": "2025-05-20T04:18:15",
     "text": "搞什么...\n\n没有专门适配火狐也许有 bug 的话能理解，毕竟不是所有厂商都有余力适配每个平台... 直接在登录完被拦下也太过分了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nedit: 不是 ms365 本身不支持火狐，是公司的 ms365 policy 设置了只允许这两个浏览器",
-    "views": 167,
+    "views": 170,
     "forwards": 0,
     "images": [
       {
@@ -75022,7 +75022,7 @@
     "id": 5438,
     "date": "2025-05-20T04:44:23",
     "text": "办了银行卡，感谢谦谦帮忙...!\n\n总之发生了这样的事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n被绕圈圈，带了一份 offer 但是银行要给公司打电话确认这份文件的真实性，给他们看了我的 HR 的电话又没办法确认这个人是不是真的是公司的 HR，因为官网上没有这个号码... 但是公司又没有在官网上写公开手机号\n\n明明发一封验证邮件到我的公司邮箱就好了的事情，非要用电话验证就好麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 172,
+    "views": 176,
     "forwards": 3,
     "images": [
       {
@@ -75041,7 +75041,7 @@
     "id": 5439,
     "date": "2025-05-20T19:29:53",
     "text": "每天回家的路上都会遇到东京塔，好像有时候灯光还会不一样，奇妙\n\n以及今天回家走了平时少走的路，遇到了一个在城市角落的小神社 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> <del>好了现在我也去过伏見稲荷了</del>",
-    "views": 126,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 13982155145756765,
     "images": [
@@ -75086,7 +75086,7 @@
     "id": 5442,
     "date": "2025-05-20T22:05:49",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 115,
+    "views": 131,
     "forwards": 0,
     "images": [
       {
@@ -75105,7 +75105,7 @@
     "id": 5443,
     "date": "2025-05-21T02:26:05",
     "text": "？Copilot 你想干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</i>",
-    "views": 82,
+    "views": 110,
     "forwards": 0,
     "images": [
       {
