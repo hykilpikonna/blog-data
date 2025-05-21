@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2449,
+    "views": 2451,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5126,
+    "views": 5127,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1690,
+    "views": 1691,
     "forwards": 50
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5553,
+    "views": 5554,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74846,7 +74846,7 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 2
   },
   {
@@ -75041,7 +75041,7 @@
     "id": 5439,
     "date": "2025-05-20T19:29:53",
     "text": "每天回家的路上都会遇到东京塔，好像有时候灯光还会不一样，奇妙\n\n以及今天回家走了平时少走的路，遇到了一个在城市角落的小神社 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> <del>好了现在我也去过伏見稲荷了</del>",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 13982155145756765,
     "images": [
@@ -75086,7 +75086,7 @@
     "id": 5442,
     "date": "2025-05-20T22:05:49",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "images": [
       {
@@ -75105,7 +75105,7 @@
     "id": 5443,
     "date": "2025-05-21T02:26:05",
     "text": "？Copilot 你想干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</i>",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "images": [
       {
@@ -75124,7 +75124,7 @@
     "id": 5444,
     "date": "2025-05-21T10:12:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n\"Authentic\" 照り焼き汉堡！\n\n看公司旁边有一个评价不错的汉堡店就去了，这家店叫做 Authentic，但是众所周知每个地方甚至每家店的汉堡都不一样——有些店用速冻肉饼有些店手搓、肉饼薄厚、铁板煎还是烤箱加热还是明火碳烤、用什么酱料什么配菜都有区别...\n\n那这家店是 Authentic 的哪里的汉堡呢？答：Authentic Akasaka 🌚\n\n<del>是不是可以说麦当劳才是 authentic 北美汉堡，毕竟北美基本上没人没吃过麦当劳</del>",
-    "views": 63,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 13982578672870141,
     "images": [
