@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5557,
+    "views": 5561,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75086,7 +75086,7 @@
     "id": 5442,
     "date": "2025-05-20T22:05:49",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 171,
+    "views": 173,
     "forwards": 0,
     "images": [
       {
@@ -75105,7 +75105,7 @@
     "id": 5443,
     "date": "2025-05-21T02:26:05",
     "text": "？Copilot 你想干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</i>",
-    "views": 166,
+    "views": 168,
     "forwards": 0,
     "images": [
       {
@@ -75124,7 +75124,7 @@
     "id": 5444,
     "date": "2025-05-21T10:12:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n\"Authentic\" 照り焼き汉堡！\n\n看公司旁边有一个评价不错的汉堡店就去了，这家店叫做 Authentic，但是众所周知每个地方甚至每家店的汉堡都不一样——有些店用速冻肉饼有些店手搓、肉饼薄厚、铁板煎还是烤箱加热还是明火碳烤、用什么酱料什么配菜都有区别...\n\n那这家店是 Authentic 的哪里的汉堡呢？答：Authentic Akasaka 🌚\n\n<del>是不是可以说麦当劳才是 authentic 北美汉堡，毕竟北美基本上没人没吃过麦当劳</del>",
-    "views": 148,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 13982578672870141,
     "images": [
@@ -75174,7 +75174,7 @@
     "id": 5448,
     "date": "2025-05-21T14:32:33",
     "text": "来发明一下中文片假名，就用台湾注音吧\n\nFallback: ㄈㄡㄅㄟㄎ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n“万一运营商断网了可以ㄈㄡㄅㄟㄎ到流量”",
-    "views": 133,
+    "views": 144,
     "forwards": 2,
     "images": [
       {
