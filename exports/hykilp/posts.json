@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 163,
+    "views": 164,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1235,
+    "views": 1236,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1047,
+    "views": 1048,
     "forwards": 7,
     "files": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5136,
+    "views": 5138,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5561,
+    "views": 5563,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74846,7 +74846,7 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 2
   },
   {
@@ -75086,7 +75086,7 @@
     "id": 5442,
     "date": "2025-05-20T22:05:49",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 184,
+    "views": 186,
     "forwards": 0,
     "images": [
       {
@@ -75105,7 +75105,7 @@
     "id": 5443,
     "date": "2025-05-21T02:26:05",
     "text": "？Copilot 你想干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</i>",
-    "views": 182,
+    "views": 184,
     "forwards": 0,
     "images": [
       {
@@ -75124,7 +75124,7 @@
     "id": 5444,
     "date": "2025-05-21T10:12:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n\"Authentic\" 照り焼き汉堡！\n\n看公司旁边有一个评价不错的汉堡店就去了，这家店叫做 Authentic，但是众所周知每个地方甚至每家店的汉堡都不一样——有些店用速冻肉饼有些店手搓、肉饼薄厚、铁板煎还是烤箱加热还是明火碳烤、用什么酱料什么配菜都有区别...\n\n那这家店是 Authentic 的哪里的汉堡呢？答：Authentic Akasaka 🌚\n\n<del>是不是可以说麦当劳才是 authentic 北美汉堡，毕竟北美基本上没人没吃过麦当劳</del>",
-    "views": 186,
+    "views": 191,
     "forwards": 0,
     "media_group_id": 13982578672870141,
     "images": [
@@ -75174,8 +75174,8 @@
     "id": 5448,
     "date": "2025-05-21T14:32:33",
     "text": "来发明一下中文片假名，就用台湾注音吧\n\nFallback: ㄈㄡㄅㄟㄎ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n“万一运营商断网了可以ㄈㄡㄅㄟㄎ到流量”",
-    "views": 197,
-    "forwards": 2,
+    "views": 204,
+    "forwards": 3,
     "images": [
       {
         "width": 735,
