@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 393,
+    "views": 394,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5142,
+    "views": 5145,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72166,7 +72166,7 @@
     "id": 5225,
     "date": "2025-04-17T05:48:36",
     "text": "电车起火居然真的发生在我这个公寓里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 349,
+    "views": 350,
     "forwards": 0,
     "media_group_id": 13958951330103757,
     "images": [
@@ -72206,7 +72206,7 @@
     "id": 5228,
     "date": "2025-04-18T10:31:40",
     "text": "昨天看了电影《駒田蒸馏所へようこそ》，好喜欢这部电影对理想的呈现\n\n写了感想在<a href=\"https://aza.moe/blog?post=2025-04-18-Komada-Whiskey-Family\">这里</a>（剧透警告",
-    "views": 296,
+    "views": 297,
     "forwards": 2,
     "media_group_id": 13959778407339541,
     "images": [
@@ -72238,7 +72238,7 @@
     "id": 5230,
     "date": "2025-04-19T03:30:25",
     "text": "今天 Jun 来这里玩，穿了她的摩卡 kigurumi，超级可爱！！！ > <\n\n给她换装换上了我之前的女仆衣服，用她的相机拍了些照片（等待返图中）\n\n我也戴上试了一下头套，戴上的时候不太能看到外面感觉怪怪的（因为发穿着别人的脸的照片好像不太好所以打一下码）\n\n以及研究了一下 kig 头套的结构，比想象中要简单好多，我也好想试试 3D 打印一个",
-    "views": 269,
+    "views": 270,
     "forwards": 3,
     "images": [
       {
@@ -72257,7 +72257,7 @@
     "id": 5231,
     "date": "2025-04-20T04:15:54",
     "text": "Jamie 的大作业在研究无透镜的成像方式，今天来找我帮忙\n\n她带过来了一个 Pi Cam 原本想拆，但是看了一下觉得传感器好小不太能魔改，还是贡献了我闲置的 webcam，拆开镜头看到下面的传感器好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n决定好要用它之后帮忙 3D 打印了一个用来固定掩码薄膜的片片，以及帮忙把 LED 焊下去了（因为 LED 的位置可能影响传感器读到的颜色）\n\n希望接下来她的尝试顺利 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "media_group_id": 13960980435002741,
     "images": [
@@ -72377,7 +72377,7 @@
     "id": 5241,
     "date": "2025-04-20T18:27:58",
     "text": "好吧聊聊拿错香菜不是完全没有原因的，看了一下标签...\n\n“卷叶洋香菜”\n“直叶芫荽”\n“芫茜（芫荽）”\n\n聊聊应该是 match 了唯一一个有“香菜”两个字的，但是最后那个才是中餐常用的香菜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<del>相比之下我买菜完全不看字所以就不会掉进这个坑</del> 至少鼻子不会骗人 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 1,
     "media_group_id": 13961389428273157,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5568,
+    "views": 5570,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75105,7 +75105,7 @@
     "id": 5443,
     "date": "2025-05-21T02:26:05",
     "text": "？Copilot 你想干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</i>",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "images": [
       {
@@ -75124,7 +75124,7 @@
     "id": 5444,
     "date": "2025-05-21T10:12:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n\"Authentic\" 照り焼き汉堡！\n\n看公司旁边有一个评价不错的汉堡店就去了，这家店叫做 Authentic，但是众所周知每个地方甚至每家店的汉堡都不一样——有些店用速冻肉饼有些店手搓、肉饼薄厚、铁板煎还是烤箱加热还是明火碳烤、用什么酱料什么配菜都有区别...\n\n那这家店是 Authentic 的哪里的汉堡呢？答：Authentic Akasaka 🌚\n\n<del>是不是可以说麦当劳才是 authentic 北美汉堡，毕竟北美基本上没人没吃过麦当劳</del>",
-    "views": 206,
+    "views": 208,
     "forwards": 0,
     "media_group_id": 13982578672870141,
     "images": [
@@ -75174,7 +75174,7 @@
     "id": 5448,
     "date": "2025-05-21T14:32:33",
     "text": "来发明一下中文片假名，就用台湾注音吧\n\nFallback: ㄈㄡㄅㄟㄎ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n“万一运营商断网了可以ㄈㄡㄅㄟㄎ到流量”",
-    "views": 229,
+    "views": 232,
     "forwards": 3,
     "images": [
       {
@@ -75193,7 +75193,7 @@
     "id": 5449,
     "date": "2025-05-22T16:42:30",
     "text": "在东京第一次凌晨一点半回家\n\n运气比较差，想坐的环线正方向坏掉了，只能坐反方向，但是反方向末班到不了家...\n\n结果坐到末班终点站之后租电滑板骑回家了，路上拍到了睡着的电车 🚃💤\n\n虽然到家累累，但是即使末班结束也自己回到家了还是很开心，<del>证明自己已经不再是路痴型迷子了</del>",
-    "views": 63,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 13983457204795525,
     "images": [
