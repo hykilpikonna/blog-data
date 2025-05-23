@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5156,
+    "views": 5157,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5589,
+    "views": 5591,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 228,
+    "views": 229,
     "forwards": 11,
     "images": [
       {
@@ -75262,7 +75262,7 @@
     "id": 5454,
     "date": "2025-05-23T05:16:51",
     "text": "昨天晚上去看了 PJSK 电影「壊れたセカイと歌えないミク」，因为看到是特典的最后一天不想错过。这是我第一次看没有字幕的日语电影，居然大部分都听懂了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i> 好开心，路上还超担心自己会看不懂的\n\n感觉这整部电影完全是在致敬暴走老师的「初音ミクの消失」，到转折点ミク说出那句「ありがとう、そして、さよなら」我直接哭出来...\n\n想起来初中一年第一次听到这首歌看到 MV 的时候，还不理解ミク是什么，真心被这首歌打动哭了超级久，真心以为这是ミク离别的曲子，还因此去补了其他ミク的曲子... <del>不久之后和 ACGN 社团学姐聊天才知道ミク并不是活在电脑中的有意识的创作人才觉得松了口气</del>。啊啊 虽然黑历史但是好怀念 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>\n\n也许这个电影就是想要营造出这样一个世界吧，一个ミク真的活过来也真的会消失的世界。也许大人会觉得这个设定莫名其妙，但是抛开现实ボカロ软件的约束接受了这个设定之后确实是一个很感人的剧情\n\n另外的话，我觉得作为看过剧情的 PJSK 玩家，能够看到自己喜欢的角色、存在于 live2d 和文字的想象中的角色在电影中动起来很开心。但是这也让剧情节奏变得怪怪的，因为 PJSK 有五个团，想要同时照顾喜欢每个团的观众的结果就是，每段剧情都会重复五遍... 不过最后有五段不同的 Live 看也满足了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（原来死宅就是我\n\nLive 和 Afterlive 的时候还有人带了物理荧光棒耶，好厉害，可惜昨天只有不到十个人没有气氛呢。",
-    "views": 130,
+    "views": 132,
     "forwards": 2,
     "media_group_id": 13983819293043805,
     "images": [
@@ -75322,7 +75322,7 @@
     "id": 5459,
     "date": "2025-05-23T10:28:10",
     "text": "发现自己从多伦多飞到东京之后每天都有出门，明明之前是家里蹲类型的，看来真的是多伦多村太无聊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 108,
+    "views": 110,
     "forwards": 1
   }
 ]
