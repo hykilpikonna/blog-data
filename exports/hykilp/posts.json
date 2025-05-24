@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 394,
+    "views": 395,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5591,
+    "views": 5593,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73169,14 +73169,14 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 470,
+    "views": 471,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 425,
+    "views": 426,
     "forwards": 1,
     "media_group_id": 13968493560159205,
     "images": [
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 550,
+    "views": 551,
     "forwards": 18,
     "media_group_id": 13969322433734669,
     "images": [
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 421,
+    "views": 422,
     "forwards": 3,
     "media_group_id": 13969779211072469,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 229,
+    "views": 230,
     "forwards": 11,
     "images": [
       {
@@ -75322,7 +75322,7 @@
     "id": 5459,
     "date": "2025-05-23T10:28:10",
     "text": "发现自己从多伦多飞到东京之后每天都有出门，明明之前是家里蹲类型的，看来真的是多伦多村太无聊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 1
   }
 ]
