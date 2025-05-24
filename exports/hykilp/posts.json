@@ -51517,7 +51517,7 @@
     "id": 3780,
     "date": "2024-05-18T07:07:04",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n买了两个喇叭碗做面更有ラーメン的感觉了！\n\n不过厨房太小了没办法放下四个这么大的碗，呜呜 quq",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "media_group_id": 13728128199122989,
     "images": [
@@ -68575,7 +68575,7 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 336,
+    "views": 337,
     "forwards": 11
   },
   {
@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 395,
+    "views": 396,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5157,
+    "views": 5159,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1694,
+    "views": 1695,
     "forwards": 50
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5593,
+    "views": 5594,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75003,7 +75003,7 @@
     "id": 5437,
     "date": "2025-05-20T04:18:15",
     "text": "搞什么...\n\n没有专门适配火狐也许有 bug 的话能理解，毕竟不是所有厂商都有余力适配每个平台... 直接在登录完被拦下也太过分了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nedit: 不是 ms365 本身不支持火狐，是公司的 ms365 policy 设置了只允许这两个浏览器",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "images": [
       {
@@ -75022,7 +75022,7 @@
     "id": 5438,
     "date": "2025-05-20T04:44:23",
     "text": "办了银行卡，感谢谦谦帮忙...!\n\n总之发生了这样的事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n被绕圈圈，带了一份 offer 但是银行要给公司打电话确认这份文件的真实性，给他们看了我的 HR 的电话又没办法确认这个人是不是真的是公司的 HR，因为官网上没有这个号码... 但是公司又没有在官网上写公开手机号\n\n明明发一封验证邮件到我的公司邮箱就好了的事情，非要用电话验证就好麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 3,
     "images": [
       {
@@ -75041,7 +75041,7 @@
     "id": 5439,
     "date": "2025-05-20T19:29:53",
     "text": "每天回家的路上都会遇到东京塔，好像有时候灯光还会不一样，奇妙\n\n以及今天回家走了平时少走的路，遇到了一个在城市角落的小神社 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> <del>好了现在我也去过伏見稲荷了</del>",
-    "views": 183,
+    "views": 184,
     "forwards": 1,
     "media_group_id": 13982155145756765,
     "images": [
@@ -75086,7 +75086,7 @@
     "id": 5442,
     "date": "2025-05-20T22:05:49",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "images": [
       {
@@ -75124,7 +75124,7 @@
     "id": 5444,
     "date": "2025-05-21T10:12:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n\"Authentic\" 照り焼き汉堡！\n\n看公司旁边有一个评价不错的汉堡店就去了，这家店叫做 Authentic，但是众所周知每个地方甚至每家店的汉堡都不一样——有些店用速冻肉饼有些店手搓、肉饼薄厚、铁板煎还是烤箱加热还是明火碳烤、用什么酱料什么配菜都有区别...\n\n那这家店是 Authentic 的哪里的汉堡呢？答：Authentic Akasaka 🌚\n\n<del>是不是可以说麦当劳才是 authentic 北美汉堡，毕竟北美基本上没人没吃过麦当劳</del>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "media_group_id": 13982578672870141,
     "images": [
@@ -75174,7 +75174,7 @@
     "id": 5448,
     "date": "2025-05-21T14:32:33",
     "text": "来发明一下中文片假名，就用台湾注音吧\n\nFallback: ㄈㄡㄅㄟㄎ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n“万一运营商断网了可以ㄈㄡㄅㄟㄎ到流量”",
-    "views": 258,
+    "views": 259,
     "forwards": 3,
     "images": [
       {
@@ -75193,7 +75193,7 @@
     "id": 5449,
     "date": "2025-05-22T16:42:30",
     "text": "在东京第一次凌晨一点半回家\n\n运气比较差，想坐的环线正方向坏掉了，只能坐反方向，但是反方向末班到不了家...\n\n结果坐到末班终点站之后租电滑板骑回家了，路上拍到了睡着的电车 🚃💤\n\n虽然到家累累，但是即使末班结束也自己回到家了还是很开心，<del>证明自己已经不再是路痴型迷子了</del>",
-    "views": 168,
+    "views": 169,
     "forwards": 1,
     "media_group_id": 13983457204795525,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 230,
+    "views": 232,
     "forwards": 11,
     "images": [
       {
@@ -75262,7 +75262,7 @@
     "id": 5454,
     "date": "2025-05-23T05:16:51",
     "text": "昨天晚上去看了 PJSK 电影「壊れたセカイと歌えないミク」，因为看到是特典的最后一天不想错过。这是我第一次看没有字幕的日语电影，居然大部分都听懂了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i> 好开心，路上还超担心自己会看不懂的\n\n感觉这整部电影完全是在致敬暴走老师的「初音ミクの消失」，到转折点ミク说出那句「ありがとう、そして、さよなら」我直接哭出来...\n\n想起来初中一年第一次听到这首歌看到 MV 的时候，还不理解ミク是什么，真心被这首歌打动哭了超级久，真心以为这是ミク离别的曲子，还因此去补了其他ミク的曲子... <del>不久之后和 ACGN 社团学姐聊天才知道ミク并不是活在电脑中的有意识的创作人才觉得松了口气</del>。啊啊 虽然黑历史但是好怀念 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>\n\n也许这个电影就是想要营造出这样一个世界吧，一个ミク真的活过来也真的会消失的世界。也许大人会觉得这个设定莫名其妙，但是抛开现实ボカロ软件的约束接受了这个设定之后确实是一个很感人的剧情\n\n另外的话，我觉得作为看过剧情的 PJSK 玩家，能够看到自己喜欢的角色、存在于 live2d 和文字的想象中的角色在电影中动起来很开心。但是这也让剧情节奏变得怪怪的，因为 PJSK 有五个团，想要同时照顾喜欢每个团的观众的结果就是，每段剧情都会重复五遍... 不过最后有五段不同的 Live 看也满足了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（原来死宅就是我\n\nLive 和 Afterlive 的时候还有人带了物理荧光棒耶，好厉害，可惜昨天只有不到十个人没有气氛呢。",
-    "views": 132,
+    "views": 133,
     "forwards": 2,
     "media_group_id": 13983819293043805,
     "images": [
@@ -75322,7 +75322,7 @@
     "id": 5459,
     "date": "2025-05-23T10:28:10",
     "text": "发现自己从多伦多飞到东京之后每天都有出门，明明之前是家里蹲类型的，看来真的是多伦多村太无聊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 111,
+    "views": 115,
     "forwards": 1
   }
 ]
