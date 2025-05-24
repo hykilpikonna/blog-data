@@ -69358,7 +69358,7 @@
     "id": 5020,
     "date": "2025-03-13T05:32:56",
     "text": "至少 AquaDX 在用的这套 JVM 老框架没有在 Hello world 吞吐量上输给 Bun JS...",
-    "views": 284,
+    "views": 285,
     "forwards": 0,
     "media_group_id": 13934751814323477,
     "images": [
@@ -69388,14 +69388,14 @@
     "id": 5022,
     "date": "2025-03-14T18:48:15",
     "text": "syama: 最近一个节日是什么，要不要加一些节日彩蛋\n我: 清明节 🌚",
-    "views": 228,
+    "views": 229,
     "forwards": 0
   },
   {
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 334,
+    "views": 335,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 213,
+    "views": 214,
     "forwards": 2,
     "images": [
       {
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69494,7 +69494,7 @@
     "id": 5029,
     "date": "2025-03-16T11:15:53",
     "text": "前几天去宠物店看到了好可爱的一对鹦鹉 qwq\n\n感觉有点可怜，只能在可能没有两立方米大的鸟笼里活动感觉会很无聊... <del>不过好像两立方米按鸟的体积等比例缩放的话差不多已经是人类的一个小 studio 公寓了吧</del> 好像不能这样算 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好喜欢看鸟，在宠物店看了好久才走。想要养鸟但是又不想把他们一直关在笼子里... 好矛盾，如果有花园可以投喂野生的鸟就好了",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 13936990031689701,
     "images": [
@@ -69544,7 +69544,7 @@
     "id": 5033,
     "date": "2025-03-16T13:07:14",
     "text": "AquaDX 真的被 DDoS 了... 抓包看似乎是用 SSDP 放大在打 8443 Billing 端口，被打的时候局域网 ping 路由器都有 2000ms 延迟\n\n服务器系统上有 ufw 可以屏蔽 1900 端口进来，但是似乎在流量进到系统之前家里的路由器就先撑不住了...\n\n不知道怎么办，在线求助 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 238,
+    "views": 239,
     "forwards": 3,
     "media_group_id": 13937043478141885,
     "images": [
@@ -70262,7 +70262,7 @@
     "id": 5082,
     "date": "2025-03-27T11:37:31",
     "text": "相信前几天<a href=\"https://github.com/langgenius/dify/pull/16819\">某个 dify PR</a> 大家肯定听说了。改图标把私钥推上去还给上游开 pr 确实离谱，但是我觉得评论区里这 106 个发评论炒作凑热闹的人更离谱...\n\n这种 pr 明明是 github 上天天都在发生的家常事，在同一个仓库搜索 <code>is:closed is:unmerged</code> 就会发现<a href=\"https://github.com/langgenius/dify/pull/16000\">差不多的事情</a>这两周里已经发生了五六次了...\n\n感觉会不小心把部署文件 pr 上来更多是 github 的 ux 设计问题，叉仓库的时候默认就假设了你想给上游做贡献而不是自己用。一个大黄框里摆一个超显眼的 pr 按钮的话，谁看到都会觉得应该点吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 209,
+    "views": 210,
     "forwards": 1,
     "media_group_id": 13944603614114381,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2464,
+    "views": 2465,
     "forwards": 29,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 261,
+    "views": 262,
     "forwards": 0,
     "images": [
       {
@@ -73614,7 +73614,7 @@
     "id": 5325,
     "date": "2025-05-08T15:20:44",
     "text": "分离焦虑.jpg ~ side 聊聊",
-    "views": 280,
+    "views": 281,
     "forwards": 3,
     "reply": {
       "id": 3618,
@@ -73637,7 +73637,7 @@
     "id": 5326,
     "date": "2025-05-08T16:22:58",
     "text": "以及 刚才安检的时候果然因为 edc27 被抽查了\n\n安检员：这是什么\n我：手电筒\n安检员：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6170273433318852395.webm\">🙄</i>\n我：你按一下开关\n安检员：还真是手电筒\n\n（还能是光剑吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 283,
+    "views": 284,
     "forwards": 2,
     "reply": {
       "id": 5325,
@@ -73648,7 +73648,7 @@
     "id": 5327,
     "date": "2025-05-09T09:22:23",
     "text": "日本に来ました!",
-    "views": 278,
+    "views": 279,
     "forwards": 3,
     "media_group_id": 13974260346591509,
     "images": [
@@ -73678,14 +73678,14 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 252,
+    "views": 253,
     "forwards": 3
   },
   {
     "id": 5330,
     "date": "2025-05-09T14:43:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n<del>馄饨邪恶</del>広州雲吞面\n\n以及见到了谦谦，开心！<del>感谢谦谦帮我补充了很多这边的常识</del>",
-    "views": 270,
+    "views": 271,
     "forwards": 2,
     "images": [
       {
@@ -73704,7 +73704,7 @@
     "id": 5331,
     "date": "2025-05-09T16:16:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ Why do the stars shine so bright in the sky\n♪ If most of the people are sleeping at night",
-    "views": 262,
+    "views": 263,
     "forwards": 1,
     "files": [
       {
@@ -75003,7 +75003,7 @@
     "id": 5437,
     "date": "2025-05-20T04:18:15",
     "text": "搞什么...\n\n没有专门适配火狐也许有 bug 的话能理解，毕竟不是所有厂商都有余力适配每个平台... 直接在登录完被拦下也太过分了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nedit: 不是 ms365 本身不支持火狐，是公司的 ms365 policy 设置了只允许这两个浏览器",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "images": [
       {
@@ -75174,7 +75174,7 @@
     "id": 5448,
     "date": "2025-05-21T14:32:33",
     "text": "来发明一下中文片假名，就用台湾注音吧\n\nFallback: ㄈㄡㄅㄟㄎ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n“万一运营商断网了可以ㄈㄡㄅㄟㄎ到流量”",
-    "views": 259,
+    "views": 260,
     "forwards": 3,
     "images": [
       {
@@ -75193,7 +75193,7 @@
     "id": 5449,
     "date": "2025-05-22T16:42:30",
     "text": "在东京第一次凌晨一点半回家\n\n运气比较差，想坐的环线正方向坏掉了，只能坐反方向，但是反方向末班到不了家...\n\n结果坐到末班终点站之后租电滑板骑回家了，路上拍到了睡着的电车 🚃💤\n\n虽然到家累累，但是即使末班结束也自己回到家了还是很开心，<del>证明自己已经不再是路痴型迷子了</del>",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "media_group_id": 13983457204795525,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 232,
+    "views": 236,
     "forwards": 11,
     "images": [
       {
@@ -75262,7 +75262,7 @@
     "id": 5454,
     "date": "2025-05-23T05:16:51",
     "text": "昨天晚上去看了 PJSK 电影「壊れたセカイと歌えないミク」，因为看到是特典的最后一天不想错过。这是我第一次看没有字幕的日语电影，居然大部分都听懂了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i> 好开心，路上还超担心自己会看不懂的\n\n感觉这整部电影完全是在致敬暴走老师的「初音ミクの消失」，到转折点ミク说出那句「ありがとう、そして、さよなら」我直接哭出来...\n\n想起来初中一年第一次听到这首歌看到 MV 的时候，还不理解ミク是什么，真心被这首歌打动哭了超级久，真心以为这是ミク离别的曲子，还因此去补了其他ミク的曲子... <del>不久之后和 ACGN 社团学姐聊天才知道ミク并不是活在电脑中的有意识的创作人才觉得松了口气</del>。啊啊 虽然黑历史但是好怀念 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>\n\n也许这个电影就是想要营造出这样一个世界吧，一个ミク真的活过来也真的会消失的世界。也许大人会觉得这个设定莫名其妙，但是抛开现实ボカロ软件的约束接受了这个设定之后确实是一个很感人的剧情\n\n另外的话，我觉得作为看过剧情的 PJSK 玩家，能够看到自己喜欢的角色、存在于 live2d 和文字的想象中的角色在电影中动起来很开心。但是这也让剧情节奏变得怪怪的，因为 PJSK 有五个团，想要同时照顾喜欢每个团的观众的结果就是，每段剧情都会重复五遍... 不过最后有五段不同的 Live 看也满足了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（原来死宅就是我\n\nLive 和 Afterlive 的时候还有人带了物理荧光棒耶，好厉害，可惜昨天只有不到十个人没有气氛呢。",
-    "views": 133,
+    "views": 141,
     "forwards": 2,
     "media_group_id": 13983819293043805,
     "images": [
@@ -75322,7 +75322,30 @@
     "id": 5459,
     "date": "2025-05-23T10:28:10",
     "text": "发现自己从多伦多飞到东京之后每天都有出门，明明之前是家里蹲类型的，看来真的是多伦多村太无聊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 115,
-    "forwards": 1
+    "views": 128,
+    "forwards": 2
+  },
+  {
+    "id": 5460,
+    "date": "2025-05-24T03:58:52",
+    "text": "？为什么是女的就觉得会对 BL 感兴趣啊",
+    "views": 52,
+    "forwards": 1,
+    "forwarded_from": {
+      "name": "Azalea",
+      "url": "https://t.me/hykilpikonna"
+    },
+    "images": [
+      {
+        "width": 1280,
+        "height": 832,
+        "date": "2025-05-22T11:51:43",
+        "media_type": "photo",
+        "original_name": "photo_2025-05-22_11-51-43.jpg",
+        "url": "media/5460.jpg",
+        "size": 62666,
+        "thumb": "media/5460.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
