@@ -69310,7 +69310,7 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 750,
+    "views": 751,
     "forwards": 9
   },
   {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5569,
+    "views": 5570,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6112,
+    "views": 6114,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73964,7 +73964,7 @@
     "id": 5351,
     "date": "2025-05-11T13:57:48",
     "text": "今天下午约天文姐姐和 <a href=\"https://t.me/ArakawaHideki\">@ArakawaHideki</a> 和 <a href=\"https://t.me/petergu8022\">@petergu8022</a> 去逛了秋葉原，那里在举行两年一度的神田祭，超热闹！\n\n还一起逛了电子零件市场，感觉小学的回忆里中关村电子城衰落之前最繁华的时候就是这样的...好怀念。\n\n也理解了动画里那些天才工程师小孩子都不是夸大，有这些店在这里的话确实能很方便搓出想要的东西。比如如果我想买微动做街机手台的话，比起淘宝下单等三天送到再退，直接来店里摸实物确认手感真的方便太多太多\n\n然后看到了超大 fufu 合了影，进去买了一只 mafufu（面无表情的表情超可爱！！！\n\n晚上约了谦谦和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和 <a href=\"https://t.me/Dimensionlez\">@Dimensionlez</a> 也一起过来吃自助烧鸟，听他们六个人聊了一晚上学术和工作的事情感觉日本好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n（与此同时有一只完熟芒果因为不自量力地喝了鸡尾酒头晕去旁边躺躺了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> <span class=\"spoiler\"><span>小桂桂只有面 <3 个人的时候不会变成完熟芒果</span></span>",
-    "views": 316,
+    "views": 317,
     "forwards": 16,
     "media_group_id": 13975774948467493,
     "images": [
@@ -74074,7 +74074,7 @@
     "id": 5361,
     "date": "2025-05-12T10:29:34",
     "text": "来日本的前一天还在担心觉得自己会孤单没有朋友，结果没过一周就认识了好多朋友！从完熟芒果箱中毕业了",
-    "views": 297,
+    "views": 298,
     "forwards": 2,
     "reply": {
       "id": 5351,
@@ -74086,13 +74086,13 @@
     "id": 5362,
     "date": "2025-05-12T10:44:01",
     "text": "呜呜 实习第一天就被灵车创了\n\n拿到公司电脑 setup 好之后，想要像自己的电脑一样用 yubikey 解锁，安装了 yubikey login 软件，安装完重启之后登录不进去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n进安全模式或者重置都需要 bitlocker 恢复码，获得恢复码需要在另一个设备上登录，但是公司的 AD 设置不让在个人设备上登录...\n\n和 IT 说了，IT 说也不知道怎么找 bitlocker 恢复码需要 escalate... 寄 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 287,
+    "views": 288,
     "forwards": 0
   },
   {
     "id": 5363,
     "date": "2025-05-12T11:37:58",
-    "views": 299,
+    "views": 300,
     "forwards": 1,
     "images": [
       {
@@ -74111,7 +74111,7 @@
     "id": 5364,
     "date": "2025-05-12T16:25:17",
     "text": "刚刚回家 这是凌晨零点我的工位（因为想借用公司的显示器写研究生申请所以待到了凌晨 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为不能真的发工位照片所以让 CyberRealistic img2img 了一下\n\n回来的时候骑了共享电滑板... 好爽！这是上次自己买的电滑板被偷走之后第一次骑电滑板 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 想以后就电滑板上下班吧",
-    "views": 285,
+    "views": 286,
     "forwards": 2,
     "media_group_id": 13976536938894741,
     "images": [
@@ -74151,7 +74151,7 @@
     "id": 5367,
     "date": "2025-05-13T00:50:21",
     "text": "之前在多伦多不喜欢用共享电车赶路，因为共享电车车位是固定的并且有限，经常会在赶到了之后发现没有地方停还要绕远\n\n我发现这边 luup 完美解决了这个问题：在出发之前选好目的地，选要停哪里然后它会预留出停车空间",
-    "views": 289,
+    "views": 290,
     "forwards": 0,
     "reply": {
       "id": 5364,
@@ -74163,21 +74163,21 @@
     "id": 5368,
     "date": "2025-05-13T07:01:41",
     "text": "我乳糖不耐受的程度：早上从咖啡厅拿了九块奶香小饼干吃，然后拉肚子一整天",
-    "views": 291,
+    "views": 292,
     "forwards": 0
   },
   {
     "id": 5369,
     "date": "2025-05-13T11:39:03",
     "text": "按下发送按钮怎么这么难\n按下发送按钮怎么这么难\n按下发送按钮怎么这么难",
-    "views": 299,
+    "views": 300,
     "forwards": 1
   },
   {
     "id": 5370,
     "date": "2025-05-13T15:48:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n深夜回家骑着车不知不觉开始哼歌，但是想不起来叫什么，回家找了找发现是苹果女王的「丸の内サディスティック」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>还好不记得歌词</del>",
-    "views": 295,
+    "views": 296,
     "forwards": 1,
     "files": [
       {
@@ -84030,7 +84030,7 @@
     "id": 6143,
     "date": "2025-08-11T17:01:30",
     "text": "呜呜，买了廉航 Jetstar 很晚的航班结果翻车了...\n\n延误一小时，直接错过回家的末班电车。我前面的航班甚至直接取消了。\n\n不过已经到家啦，感谢 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 接我回家，得救了 qwq",
-    "views": 167,
+    "views": 168,
     "forwards": 0,
     "images": [
       {
@@ -84049,7 +84049,7 @@
     "id": 6144,
     "date": "2025-08-12T00:52:38",
     "text": "又来一个\n\n这次藏都不藏了，直接从服务器上拉脚本运行... 服务器可以知道你的 IP 地址并且执行任意脚本，恐怖\n\n想要以后安装插件之前都至少读一遍源码，但是也没有这种时间... 不知道怎么办",
-    "views": 161,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 14039679666701869,
     "images": [
@@ -84164,7 +84164,7 @@
     "id": 6153,
     "date": "2025-08-12T15:25:16",
     "text": "如果不能重新定义自拍，至少能重新定义手机壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n去室蘭遇到了一朵特别好看的被夕阳点亮的云，然后就绕着这朵云拍到了天黑 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<del>这个 18-300 镜头真的买的太值了，光圈小什么的都是挑刺，我直接不换镜头从地球岬拉到月球</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 2,
     "media_group_id": 14040098532878845,
     "images": [
@@ -84274,7 +84274,7 @@
     "id": 6163,
     "date": "2025-08-13T02:25:41",
     "text": "拿到了新手机一加 13，用了一周 ColorOS 15，写写体验\n\n比 MIUI 14 好用的地方：\n- GMS 开箱就能用\n- 解锁 BL 毫无困难\n- 安装梯子不会报诈骗软件\n- 换启动器可以保留手势 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n- 可以卸载很多系统应用比如视频和钱包和主题商店\n\n比 Pixel UI 好用的地方：\n- 动态锁屏很好看！\n- 有更多很有用的小功能，比如指纹快速启动、熄屏手势、侧边栏、流体云\n\n不好用的地方：\n- 从 Pixel 转移没法转移应用数据\n- 快捷键设置不灵活，没办法让双击电源打开相机，只能选打开卡包还是刷卡页。长按电源只能选语音助手还是关机\n- 广告（虽然没有小米多）\n- 开启开发者模式之后永远会有一条通知说开发者模式已开启\n\n所以试着刷了 OxygenOS，刷完之后所有不满意的地方都解决了！能用 Android auto，修好 Play Integrity 之后甚至能用 Google pay。\n\n之前听朋友说 Oxygen 是 Color 套壳我还有点害怕的，但是实际用起来真的非常原生，而且还保留了 Color 那些有用的小功能，总之就是非常满意 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 108,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 14040415534348789,
     "images": [
@@ -84348,7 +84348,7 @@
     "id": 6169,
     "date": "2025-08-13T02:39:08",
     "text": "以及定制的手机壳也到手了！效果还不错\n\n订了两个版本，一个玻璃壳包住镜头、一个彩银壳绕开镜头\n\n感觉玻璃壳印刷质量更好但是手感更差，而且第一次尝试摘下来就碎掉了... 反而彩银壳各方面都更好一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 113,
+    "views": 114,
     "forwards": 1,
     "media_group_id": 14040421984151037,
     "images": [
@@ -84423,7 +84423,7 @@
     "id": 6175,
     "date": "2025-08-13T15:50:21",
     "text": "佛：探头 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n有时候觉得日本人对宗教真的好宽容，这一个灵园里同时有摩艾像🗿、大佛像、观音像、日式花园、巨石阵、鹿🦌... 来自各种不同信仰的标志混搭在一起也不会觉得信仰冲突真好呀\n\n不过说起来，好像在日本就没有见到过那种非常刻意的传教行为，相比在多伦多人多的地方天天都会有人大喇叭传基督教要被烦死了...\n\n可能日本大家都不太在意别人信什么甚至自己信什么吧——虽然我去神社也会行礼洗手赛钱许愿集御朱印，但是其实比起信仰更多只是觉得仪式感很浪漫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 104,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 14040801773510981,
     "images": [
@@ -84503,7 +84503,7 @@
     "id": 6182,
     "date": "2025-08-13T16:13:10",
     "text": "白色恋人公园（实际上是饼干工厂）\n\n...给一个不到十个员工的小饼干生产线建一座城堡和一个公园好浪漫！想起来自己高中的时候写一个小脚本也要包装一个好看的 GUI/TUI... 现在反而更实用主义了，大部分时候都只是直接把 LLM 的产出打进命令行里跑。好想把以前的习惯找回来呀\n\n以及工厂机器真的好高自动化，看员工的工作似乎只是 QC 一样的盯着生产线，时不时戳戳躺歪了的饼干，奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n会不会以后所有人类工作都变成这样呢？变成盯着 AI 工作然后时不时戳戳它让它回到正轨... <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 149,
+    "views": 155,
     "forwards": 2,
     "media_group_id": 14040812722989669,
     "images": [
@@ -84563,7 +84563,7 @@
     "id": 6187,
     "date": "2025-08-14T11:32:59",
     "text": "呜呜 刚买了一加，一加就缩紧 BL 解锁条件了... 好讨厌。",
-    "views": 79,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 6163,
@@ -84575,7 +84575,7 @@
     "id": 6188,
     "date": "2025-08-14T13:22:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煮露营面！",
-    "views": 43,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 14041422141888677,
     "images": [
@@ -84618,6 +84618,36 @@
         "url": "media/6191.jpg",
         "size": 264557,
         "thumb": "media/6191.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6192,
+    "date": "2025-08-14T14:38:22",
+    "text": "刚去静岡露营静岡就地震...\n\n虽然三级地震躺在帐篷里的充气床垫上完全没感觉到\n\n摇 曳 露 营（物理）",
+    "views": 67,
+    "forwards": 0,
+    "media_group_id": 14041458422293037,
+    "images": [
+      {
+        "width": 1080,
+        "height": 2376,
+        "date": "2025-08-14T14:38:22",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-14_14-38-22.jpg",
+        "url": "media/6192.jpg",
+        "size": 172448,
+        "thumb": "media/6192.jpg_thumb.jpg"
+      },
+      {
+        "width": 1079,
+        "height": 911,
+        "date": "2025-08-14T14:38:22",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-14_14-38-22.jpg",
+        "url": "media/6193.jpg",
+        "size": 78450,
+        "thumb": "media/6193.jpg_thumb.jpg"
       }
     ]
   }
