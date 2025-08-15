@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5573,
+    "views": 5574,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -83578,7 +83578,7 @@
     "id": 6108,
     "date": "2025-08-06T22:15:53",
     "text": "好喜欢这里\n\n可惜并不安静，外面的嘈杂依然能够传进来",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -83612,7 +83612,7 @@
     "id": 6110,
     "date": "2025-08-07T01:09:53",
     "text": "出道了",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "images": [
       {
@@ -83631,7 +83631,7 @@
     "id": 6111,
     "date": "2025-08-07T01:26:39",
     "text": "新千岁命令行构建指南",
-    "views": 227,
+    "views": 228,
     "forwards": 2,
     "images": [
       {
@@ -83650,7 +83650,7 @@
     "id": 6112,
     "date": "2025-08-08T13:46:36",
     "text": "花火大会！\n\n拍照大不会。\n\n拍了 78 张，只有个位数张相机拿稳了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>（禁止在桂桂拍照的时候摇桂桂）\n\n不过大概找到了拍花火的秘诀：快门优先模式，等一个烟花用来自动对焦好之后切手动锁定这个对焦，然后快门调到 2-3s 等看到轨迹的时候按下快门然后不要抖就好啦",
-    "views": 218,
+    "views": 219,
     "forwards": 4,
     "media_group_id": 14037286375648861,
     "images": [
@@ -84655,7 +84655,7 @@
     "id": 6194,
     "date": "2025-08-14T23:11:05",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面和露营炒菜！",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "media_group_id": 14041704522429797,
     "images": [
@@ -84735,7 +84735,7 @@
     "id": 6201,
     "date": "2025-08-15T01:00:32",
     "text": "\"Trans Fluid\" <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>",
-    "views": 164,
+    "views": 166,
     "forwards": 2,
     "images": [
       {
@@ -84754,7 +84754,7 @@
     "id": 6202,
     "date": "2025-08-15T05:41:28",
     "text": "500ms 延迟战士",
-    "views": 116,
+    "views": 119,
     "forwards": 0,
     "files": [
       {
@@ -84775,7 +84775,7 @@
     "id": 6203,
     "date": "2025-08-15T16:21:53",
     "text": "到了浜松，迎接我的是黑白猫猫和夜晚的霓虹街道\n\n买了些猫零食喂猫，这两只好怕人，我们走了之后才过去吃",
-    "views": 56,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 14042199310333165,
     "images": [
