@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5571,
+    "views": 5572,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 686,
+    "views": 687,
     "forwards": 9
   },
   {
@@ -84625,7 +84625,7 @@
     "id": 6192,
     "date": "2025-08-14T14:38:22",
     "text": "刚去静岡露营静岡就地震...\n\n虽然三级地震躺在帐篷里的充气床垫上完全没感觉到\n\n摇 曳 露 营（物理）",
-    "views": 129,
+    "views": 132,
     "forwards": 0,
     "media_group_id": 14041458422293037,
     "images": [
@@ -84655,7 +84655,7 @@
     "id": 6194,
     "date": "2025-08-14T23:11:05",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面和露营炒菜！",
-    "views": 116,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 14041704522429797,
     "images": [
@@ -84735,7 +84735,7 @@
     "id": 6201,
     "date": "2025-08-15T01:00:32",
     "text": "\"Trans Fluid\" <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>",
-    "views": 143,
+    "views": 147,
     "forwards": 2,
     "images": [
       {
@@ -84754,7 +84754,7 @@
     "id": 6202,
     "date": "2025-08-15T05:41:28",
     "text": "500ms 延迟战士",
-    "views": 78,
+    "views": 87,
     "forwards": 0,
     "files": [
       {
