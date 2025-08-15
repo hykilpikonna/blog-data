@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1261,
+    "views": 1262,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1810,
+    "views": 1811,
     "forwards": 51
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1123,
+    "views": 1124,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 686,
+    "views": 687,
     "forwards": 2,
     "images": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 922,
+    "views": 923,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1160,
+    "views": 1161,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6114,
+    "views": 6115,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -82960,7 +82960,7 @@
     "id": 6068,
     "date": "2025-07-29T06:30:13",
     "text": "翻翻 one among us 邮箱里收到的不太聪明垃圾邮件",
-    "views": 239,
+    "views": 240,
     "forwards": 1,
     "media_group_id": 14030164905103125,
     "images": [
@@ -83578,7 +83578,7 @@
     "id": 6108,
     "date": "2025-08-06T22:15:53",
     "text": "好喜欢这里\n\n可惜并不安静，外面的嘈杂依然能够传进来",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -83806,7 +83806,7 @@
     "id": 6125,
     "date": "2025-08-10T13:10:27",
     "text": "小狐狸！\n\n我：哇有小狐狸（一脚急刹车从 90 刹到 0）\n🦊：（躲进🌱里）\n我：盯——\n🦊：👀\n我：盯——\n🦊：👀\n我：盯——\n🦊：（钻出来，用头点点地板）\n好可爱 我死了\n\n可惜感觉在车道上喂小狐狸不太好，要是小狐狸觉得车车能给它食物到路上送死就不好了。",
-    "views": 205,
+    "views": 206,
     "forwards": 2,
     "media_group_id": 14038651420384293,
     "images": [
@@ -83846,7 +83846,7 @@
     "id": 6128,
     "date": "2025-08-10T13:42:43",
     "text": "暴カ団 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>\n\n暴カ団子大家族 🍡",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "images": [
       {
@@ -83865,7 +83865,7 @@
     "id": 6129,
     "date": "2025-08-11T10:20:14",
     "text": "坐上猫猫巴士飞向夕阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n<a href=\"##北海道\">#北海道</a>",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "media_group_id": 14039260915406805,
     "images": [
@@ -84423,7 +84423,7 @@
     "id": 6175,
     "date": "2025-08-13T15:50:21",
     "text": "佛：探头 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n有时候觉得日本人对宗教真的好宽容，这一个灵园里同时有摩艾像🗿、大佛像、观音像、日式花园、巨石阵、鹿🦌... 来自各种不同信仰的标志混搭在一起也不会觉得信仰冲突真好呀\n\n不过说起来，好像在日本就没有见到过那种非常刻意的传教行为，相比在多伦多人多的地方天天都会有人大喇叭传基督教要被烦死了...\n\n可能日本大家都不太在意别人信什么甚至自己信什么吧——虽然我去神社也会行礼洗手赛钱许愿集御朱印，但是其实比起信仰更多只是觉得仪式感很浪漫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 14040801773510981,
     "images": [
@@ -84563,7 +84563,7 @@
     "id": 6187,
     "date": "2025-08-14T11:32:59",
     "text": "呜呜 刚买了一加，一加就缩紧 BL 解锁条件了... 好讨厌。",
-    "views": 134,
+    "views": 136,
     "forwards": 0,
     "reply": {
       "id": 6163,
@@ -84575,7 +84575,7 @@
     "id": 6188,
     "date": "2025-08-14T13:22:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煮露营面！",
-    "views": 128,
+    "views": 130,
     "forwards": 0,
     "media_group_id": 14041422141888677,
     "images": [
@@ -84625,7 +84625,7 @@
     "id": 6192,
     "date": "2025-08-14T14:38:22",
     "text": "刚去静岡露营静岡就地震...\n\n虽然三级地震躺在帐篷里的充气床垫上完全没感觉到\n\n摇 曳 露 营（物理）",
-    "views": 127,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14041458422293037,
     "images": [
@@ -84655,7 +84655,7 @@
     "id": 6194,
     "date": "2025-08-14T23:11:05",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面和露营炒菜！",
-    "views": 112,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 14041704522429797,
     "images": [
@@ -84735,7 +84735,7 @@
     "id": 6201,
     "date": "2025-08-15T01:00:32",
     "text": "\"Trans Fluid\" <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>",
-    "views": 137,
+    "views": 143,
     "forwards": 2,
     "images": [
       {
@@ -84754,7 +84754,7 @@
     "id": 6202,
     "date": "2025-08-15T05:41:28",
     "text": "500ms 延迟战士",
-    "views": 69,
+    "views": 78,
     "forwards": 0,
     "files": [
       {
