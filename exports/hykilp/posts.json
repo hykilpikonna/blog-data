@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "images": [
       {
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 144,
+    "views": 145,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6115,
+    "views": 6116,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75352,7 +75352,7 @@
     "id": 5461,
     "date": "2025-05-24T16:29:22",
     "text": "今天去了 PJSK 游戏里的唱片店！（变成了豆腐？）\n\n买了好多好多 CD，好贵... -$300 钱包疼疼。不过不是为了听啦，只是支持一下之前一直特别喜欢的作者，听反而网易云上面都有\n\n宇多田光、ハンバートハンバート、青葉市子、LAMP、椎名もた... 货架上椎名もた那一栏空出来了好伤心，不知道是不是故意空出来的。不过问店员帮我找到了放在其他地方展示的一张「夢のまにまに」\n\n动画相关的话，PJSK 的 25 时、GBC 的有刺无刺、MyGO、孤独摇滚的结束乐队都买了。",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "media_group_id": 13984833298291445,
     "images": [
@@ -75422,7 +75422,7 @@
     "id": 5467,
     "date": "2025-05-25T01:46:59",
     "text": "昨晚和天文姐姐和谦谦去看了星星 <i class=\"custom-emoji\" emoji-src=\"emoji/5217818964612108191.tgs\">✨</i>\n\n其实不是真的星星啦，是去了 MyGO 高松灯喜欢去的池袋那家「满天」看到了投影的星星。这个投影设备好厉害，效果就像真的有满天星星一样 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> \n\n看星星好治愈！决定给之后北海道的行程加上「看星星」\n\n以及发现星座的定义好随意，感觉想要看出星座描述里的东西真的需要很大想象力<del>（高情商）</del><i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 在想有没有办法做一个算法，输入一个图形然后连接任意的星星找到最接近的形状\n\n回家路上看到了东京唯一一条轻轨樱花线 <i class=\"custom-emoji\" emoji-src=\"emoji/6132038041016993493.webp\">🚉</i> 奇妙",
-    "views": 296,
+    "views": 297,
     "forwards": 2,
     "media_group_id": 13985100958430453,
     "images": [
@@ -82438,7 +82438,7 @@
   {
     "id": 6026,
     "date": "2025-07-27T04:41:12",
-    "views": 440,
+    "views": 441,
     "forwards": 7,
     "reply": {
       "id": 5976,
@@ -83160,7 +83160,7 @@
     "id": 6080,
     "date": "2025-08-01T16:13:45",
     "text": "和聊聊试了试玩战锤 40k 桌游，有点被无聊到（x） \n\n之前玩 DnD 的话比较喜欢的是剧情的灵活性，但是这里只有战斗。而且作为战斗桌游也不是很好玩，因为感觉战略性太弱了还是很依赖运气...\n\n不知道剧情向的玩法会不会好一点",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "images": [
       {
@@ -83865,7 +83865,7 @@
     "id": 6129,
     "date": "2025-08-11T10:20:14",
     "text": "坐上猫猫巴士飞向夕阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n<a href=\"##北海道\">#北海道</a>",
-    "views": 153,
+    "views": 154,
     "forwards": 0,
     "media_group_id": 14039260915406805,
     "images": [
@@ -84030,7 +84030,7 @@
     "id": 6143,
     "date": "2025-08-11T17:01:30",
     "text": "呜呜，买了廉航 Jetstar 很晚的航班结果翻车了...\n\n延误一小时，直接错过回家的末班电车。我前面的航班甚至直接取消了。\n\n不过已经到家啦，感谢 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 接我回家，得救了 qwq",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "images": [
       {
@@ -84049,7 +84049,7 @@
     "id": 6144,
     "date": "2025-08-12T00:52:38",
     "text": "又来一个\n\n这次藏都不藏了，直接从服务器上拉脚本运行... 服务器可以知道你的 IP 地址并且执行任意脚本，恐怖\n\n想要以后安装插件之前都至少读一遍源码，但是也没有这种时间... 不知道怎么办",
-    "views": 169,
+    "views": 170,
     "forwards": 2,
     "media_group_id": 14039679666701869,
     "images": [
@@ -84084,7 +84084,7 @@
     "id": 6146,
     "date": "2025-08-12T15:01:35",
     "text": "（整理照片）\n\n这次和妈妈去北海道，拍了很多妈妈的照片，发现给别人拍出好看照片好像很开心...！\n\n唉，好想多给别人拍照，可惜感觉身边的人都不太自信没有很喜欢被拍照片的样子 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i>\n\n也许应该买一个随身打印机，给路人拍照然后打印出来发無料 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 143,
+    "views": 145,
     "forwards": 1,
     "media_group_id": 14040087162569933,
     "images": [
@@ -84164,7 +84164,7 @@
     "id": 6153,
     "date": "2025-08-12T15:25:16",
     "text": "如果不能重新定义自拍，至少能重新定义手机壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n去室蘭遇到了一朵特别好看的被夕阳点亮的云，然后就绕着这朵云拍到了天黑 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<del>这个 18-300 镜头真的买的太值了，光圈小什么的都是挑刺，我直接不换镜头从地球岬拉到月球</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 130,
+    "views": 132,
     "forwards": 2,
     "media_group_id": 14040098532878845,
     "images": [
@@ -84274,7 +84274,7 @@
     "id": 6163,
     "date": "2025-08-13T02:25:41",
     "text": "拿到了新手机一加 13，用了一周 ColorOS 15，写写体验\n\n比 MIUI 14 好用的地方：\n- GMS 开箱就能用\n- 解锁 BL 毫无困难\n- 安装梯子不会报诈骗软件\n- 换启动器可以保留手势 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n- 可以卸载很多系统应用比如视频和钱包和主题商店\n\n比 Pixel UI 好用的地方：\n- 动态锁屏很好看！\n- 有更多很有用的小功能，比如指纹快速启动、熄屏手势、侧边栏、流体云\n\n不好用的地方：\n- 从 Pixel 转移没法转移应用数据\n- 快捷键设置不灵活，没办法让双击电源打开相机，只能选打开卡包还是刷卡页。长按电源只能选语音助手还是关机\n- 广告（虽然没有小米多）\n- 开启开发者模式之后永远会有一条通知说开发者模式已开启\n\n所以试着刷了 OxygenOS，刷完之后所有不满意的地方都解决了！能用 Android auto，修好 Play Integrity 之后甚至能用 Google pay。\n\n之前听朋友说 Oxygen 是 Color 套壳我还有点害怕的，但是实际用起来真的非常原生，而且还保留了 Color 那些有用的小功能，总之就是非常满意 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 122,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 14040415534348789,
     "images": [
@@ -84348,7 +84348,7 @@
     "id": 6169,
     "date": "2025-08-13T02:39:08",
     "text": "以及定制的手机壳也到手了！效果还不错\n\n订了两个版本，一个玻璃壳包住镜头、一个彩银壳绕开镜头\n\n感觉玻璃壳印刷质量更好但是手感更差，而且第一次尝试摘下来就碎掉了... 反而彩银壳各方面都更好一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 130,
+    "views": 133,
     "forwards": 1,
     "media_group_id": 14040421984151037,
     "images": [
@@ -84423,7 +84423,7 @@
     "id": 6175,
     "date": "2025-08-13T15:50:21",
     "text": "佛：探头 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n有时候觉得日本人对宗教真的好宽容，这一个灵园里同时有摩艾像🗿、大佛像、观音像、日式花园、巨石阵、鹿🦌... 来自各种不同信仰的标志混搭在一起也不会觉得信仰冲突真好呀\n\n不过说起来，好像在日本就没有见到过那种非常刻意的传教行为，相比在多伦多人多的地方天天都会有人大喇叭传基督教要被烦死了...\n\n可能日本大家都不太在意别人信什么甚至自己信什么吧——虽然我去神社也会行礼洗手赛钱许愿集御朱印，但是其实比起信仰更多只是觉得仪式感很浪漫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 132,
+    "views": 135,
     "forwards": 0,
     "media_group_id": 14040801773510981,
     "images": [
@@ -84503,7 +84503,7 @@
     "id": 6182,
     "date": "2025-08-13T16:13:10",
     "text": "白色恋人公园（实际上是饼干工厂）\n\n...给一个不到十个员工的小饼干生产线建一座城堡和一个公园好浪漫！想起来自己高中的时候写一个小脚本也要包装一个好看的 GUI/TUI... 现在反而更实用主义了，大部分时候都只是直接把 LLM 的产出打进命令行里跑。好想把以前的习惯找回来呀\n\n以及工厂机器真的好高自动化，看员工的工作似乎只是 QC 一样的盯着生产线，时不时戳戳躺歪了的饼干，奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n会不会以后所有人类工作都变成这样呢？变成盯着 AI 工作然后时不时戳戳它让它回到正轨... <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 182,
+    "views": 185,
     "forwards": 2,
     "media_group_id": 14040812722989669,
     "images": [
@@ -84563,7 +84563,7 @@
     "id": 6187,
     "date": "2025-08-14T11:32:59",
     "text": "呜呜 刚买了一加，一加就缩紧 BL 解锁条件了... 好讨厌。",
-    "views": 144,
+    "views": 147,
     "forwards": 0,
     "reply": {
       "id": 6163,
@@ -84575,7 +84575,7 @@
     "id": 6188,
     "date": "2025-08-14T13:22:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煮露营面！",
-    "views": 140,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 14041422141888677,
     "images": [
@@ -84625,7 +84625,7 @@
     "id": 6192,
     "date": "2025-08-14T14:38:22",
     "text": "刚去静岡露营静岡就地震...\n\n虽然三级地震躺在帐篷里的充气床垫上完全没感觉到\n\n摇 曳 露 营（物理）",
-    "views": 145,
+    "views": 147,
     "forwards": 0,
     "media_group_id": 14041458422293037,
     "images": [
@@ -84655,7 +84655,7 @@
     "id": 6194,
     "date": "2025-08-14T23:11:05",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面和露营炒菜！",
-    "views": 142,
+    "views": 144,
     "forwards": 0,
     "media_group_id": 14041704522429797,
     "images": [
@@ -84735,7 +84735,7 @@
     "id": 6201,
     "date": "2025-08-15T01:00:32",
     "text": "\"Trans Fluid\" <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>",
-    "views": 183,
+    "views": 185,
     "forwards": 2,
     "images": [
       {
@@ -84754,7 +84754,7 @@
     "id": 6202,
     "date": "2025-08-15T05:41:28",
     "text": "500ms 延迟战士",
-    "views": 138,
+    "views": 140,
     "forwards": 0,
     "files": [
       {
@@ -84775,7 +84775,7 @@
     "id": 6203,
     "date": "2025-08-15T16:21:53",
     "text": "到了浜松，迎接我的是黑白猫猫和夜晚的霓虹街道\n\n买了些猫零食喂猫，这两只好怕人，我们走了之后才过去吃",
-    "views": 116,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 14042199310333165,
     "images": [
@@ -84845,7 +84845,7 @@
     "id": 6209,
     "date": "2025-08-16T04:00:02",
     "text": "去浜松乐器博物馆\n\n乐器：🥸🤐😩😐😛😰",
-    "views": 96,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 14042534422487837,
     "images": [
@@ -84908,6 +84908,25 @@
         "url": "media/6214.jpg",
         "size": 220301,
         "thumb": "media/6214.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6215,
+    "date": "2025-08-16T16:12:34",
+    "text": "JPEG XL, zstd, AV1, opus <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
+    "views": 14,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1136,
+        "height": 803,
+        "date": "2025-08-16T16:12:34",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-16_16-12-34.jpg",
+        "url": "media/6215.jpg",
+        "size": 42143,
+        "thumb": "media/6215.jpg_thumb.jpg"
       }
     ]
   }
