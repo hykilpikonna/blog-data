@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5574,
+    "views": 5575,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -80763,14 +80763,14 @@
     "id": 5894,
     "date": "2025-07-13T19:33:56",
     "text": "不知道从什么时候开始谷歌地图不显示评论和照片了\n\n今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...\n\n<del>怕中国人靠发照片评论到处放原神地标吗</del>",
-    "views": 218,
+    "views": 219,
     "forwards": 2
   },
   {
     "id": 5895,
     "date": "2025-07-14T06:45:37",
     "text": "周日进行了一些烤肉和日间露营！总共来了八个人，变成了群友见面会吗\n\n第一次露营/烧烤踩了好多坑：\n1. 碳真的很难烧！两个小时过去了还没完全烧起来\n2. 一罐燃气瓶真的很多，我怕不够用带了六罐，结果半罐都没用完\n3. 夏天中午露天烧烤真的很热... 感觉头晕有点要中暑去帐篷里躺了一会。下次还是深夜烤肉好了\n4. 原本说每人至少要买自己吃的食材，结果每个人都买多了，然后就剩了很多食材吃不完\n5. 第一次搭帐篷，很简单，像撑伞一样一下子就搭好了。不过收起来好难，三个人花了好大力气才收好...\n\n总之希望下次能少踩一些坑 quq",
-    "views": 195,
+    "views": 196,
     "forwards": 2,
     "media_group_id": 14019804296208941,
     "images": [
@@ -80850,7 +80850,7 @@
     "id": 5902,
     "date": "2025-07-14T14:53:25",
     "text": "终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用\n\n首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 <a href=\"https://github.com/AndroPlus-org/magisk-module-miui-cn2global\">miui-cn2global</a> (v15) 用来解锁一些谷歌地区锁和 <a href=\"https://github.com/AndroPlus-org/magisk-module-androidauto\">androidauto</a> 模块，重启之后 play 更新 Auto 应用就好啦\n\n以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前<a href=\"https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/\">某 XDA 帖子</a>发了一个应用 <a href=\"https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK\">Any Auto Audio</a> 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "media_group_id": 14020038444239989,
     "images": [
@@ -84348,7 +84348,7 @@
     "id": 6169,
     "date": "2025-08-13T02:39:08",
     "text": "以及定制的手机壳也到手了！效果还不错\n\n订了两个版本，一个玻璃壳包住镜头、一个彩银壳绕开镜头\n\n感觉玻璃壳印刷质量更好但是手感更差，而且第一次尝试摘下来就碎掉了... 反而彩银壳各方面都更好一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 1,
     "media_group_id": 14040421984151037,
     "images": [
@@ -84423,7 +84423,7 @@
     "id": 6175,
     "date": "2025-08-13T15:50:21",
     "text": "佛：探头 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n有时候觉得日本人对宗教真的好宽容，这一个灵园里同时有摩艾像🗿、大佛像、观音像、日式花园、巨石阵、鹿🦌... 来自各种不同信仰的标志混搭在一起也不会觉得信仰冲突真好呀\n\n不过说起来，好像在日本就没有见到过那种非常刻意的传教行为，相比在多伦多人多的地方天天都会有人大喇叭传基督教要被烦死了...\n\n可能日本大家都不太在意别人信什么甚至自己信什么吧——虽然我去神社也会行礼洗手赛钱许愿集御朱印，但是其实比起信仰更多只是觉得仪式感很浪漫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 14040801773510981,
     "images": [
@@ -84563,7 +84563,7 @@
     "id": 6187,
     "date": "2025-08-14T11:32:59",
     "text": "呜呜 刚买了一加，一加就缩紧 BL 解锁条件了... 好讨厌。",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "reply": {
       "id": 6163,
@@ -84575,7 +84575,7 @@
     "id": 6188,
     "date": "2025-08-14T13:22:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煮露营面！",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "media_group_id": 14041422141888677,
     "images": [
@@ -84625,7 +84625,7 @@
     "id": 6192,
     "date": "2025-08-14T14:38:22",
     "text": "刚去静岡露营静岡就地震...\n\n虽然三级地震躺在帐篷里的充气床垫上完全没感觉到\n\n摇 曳 露 营（物理）",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "media_group_id": 14041458422293037,
     "images": [
@@ -84735,7 +84735,7 @@
     "id": 6201,
     "date": "2025-08-15T01:00:32",
     "text": "\"Trans Fluid\" <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 2,
     "images": [
       {
@@ -84754,7 +84754,7 @@
     "id": 6202,
     "date": "2025-08-15T05:41:28",
     "text": "500ms 延迟战士",
-    "views": 125,
+    "views": 130,
     "forwards": 0,
     "files": [
       {
@@ -84775,7 +84775,7 @@
     "id": 6203,
     "date": "2025-08-15T16:21:53",
     "text": "到了浜松，迎接我的是黑白猫猫和夜晚的霓虹街道\n\n买了些猫零食喂猫，这两只好怕人，我们走了之后才过去吃",
-    "views": 79,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 14042199310333165,
     "images": [
@@ -84838,6 +84838,76 @@
         "url": "media/6208.jpg",
         "size": 253016,
         "thumb": "media/6208.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6209,
+    "date": "2025-08-16T04:00:02",
+    "text": "去浜松乐器博物馆\n\n乐器：🥸🤐😩😐😛😰",
+    "views": 35,
+    "forwards": 0,
+    "media_group_id": 14042534422487837,
+    "images": [
+      {
+        "width": 1616,
+        "height": 1080,
+        "date": "2025-08-16T04:00:00",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-16_04-00-00.jpg",
+        "url": "media/6209.jpg",
+        "size": 388463,
+        "thumb": "media/6209.jpg_thumb.jpg"
+      },
+      {
+        "width": 1616,
+        "height": 1080,
+        "date": "2025-08-16T04:00:00",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-16_04-00-00.jpg",
+        "url": "media/6210.jpg",
+        "size": 292424,
+        "thumb": "media/6210.jpg_thumb.jpg"
+      },
+      {
+        "width": 1616,
+        "height": 1080,
+        "date": "2025-08-16T04:00:01",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-16_04-00-01.jpg",
+        "url": "media/6211.jpg",
+        "size": 254413,
+        "thumb": "media/6211.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-16T04:00:01",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-16_04-00-01.jpg",
+        "url": "media/6212.jpg",
+        "size": 667768,
+        "thumb": "media/6212.jpg_thumb.jpg"
+      },
+      {
+        "width": 1616,
+        "height": 1080,
+        "date": "2025-08-16T04:00:01",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-16_04-00-01.jpg",
+        "url": "media/6213.jpg",
+        "size": 187443,
+        "thumb": "media/6213.jpg_thumb.jpg"
+      },
+      {
+        "width": 1616,
+        "height": 1080,
+        "date": "2025-08-16T04:00:02",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-16_04-00-02.jpg",
+        "url": "media/6214.jpg",
+        "size": 220301,
+        "thumb": "media/6214.jpg_thumb.jpg"
       }
     ]
   }
