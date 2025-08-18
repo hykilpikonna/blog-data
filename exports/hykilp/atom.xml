@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-18T04:28:11.452768+00:00</updated>
+  <updated>2025-08-18T06:15:30.969839+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6255</id>
+    <title>小桂桂的回忆录 📒 #6255</title>
+    <updated>2025-08-18T04:50:47+00:00</updated>
+    <content>&lt;p&gt;clash-verge-rev 还有后续 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;翻了一下源码，发现这个问题三周前&lt;a href="https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f"&gt;在代码里修复了&lt;/a&gt;，但是目前还没有发布带修复的正式版本。&lt;/p&gt;
+&lt;p&gt;只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装&lt;a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild"&gt;预览版 2.4.0-autobuild&lt;/a&gt; 再卸载就不会有问题了 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;（感谢 &lt;a href="https://t.me/baked_3c"&gt;@baked_3c&lt;/a&gt; 投稿&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6255" rel="alternate"/>
+  </entry>
   <entry>
     <id>6254</id>
     <title>小桂桂的回忆录 📒 #6254</title>
