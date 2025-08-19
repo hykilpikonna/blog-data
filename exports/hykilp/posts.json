@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5589,
+    "views": 5590,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85268,7 +85268,7 @@
     "id": 6244,
     "date": "2025-08-17T16:23:37",
     "text": "趁着お盆跟桂桂实验性⛺️了一次 发现照明、帐篷都有问题\n\n照明别的营地都是起手3种灯: 架子挂灯 桌子氛围灯 天幕挂灯; 我们就没有(草): 我なでしこ同款灯忘了带气 晚上吃饭时是手机闪光灯打到矿泉水桶上\n然后帐篷, 之前跟老两位一起买的那个隧道帐篷有些痛点 没外帐防不了雨、且少人数設営困难(过大过重, 人手够的话設営会非常简单 而且流程走过一遍后就掌握了); 感觉大天幕+ 小帐篷模块化一些会更好\n运输上虽然不用走把东西控制在原付就能装下的困难路线 但像アクア类似的小车带目前这套装备+俩人少量行李会把后备箱+后座几乎占满, 这还是没上复杂的料理道具 + 焚火台的情况\n\n夏天露营也挺难受的 夜里即便凉快空气也很潮, 晚上睡一半醒了发现我后背跟垫子接触的地方在出汗 但上面又阴冷 (听桂桂说夜里地震了 就我睡得很浅也完全没感受到草)\n另外就是娱乐活动 可以预见的不是所有人都对探险感兴趣(这次🏕️附近有的隧道 可以通到附近的水坝) 晚上除了聊天吃完饭感觉可以整点什么经典老番一起鉴赏 应该还蛮有趣的\n\n虽然各种没准备好但还是很开心-不仅是露营本身 就跟ゆるキャン△一样露营前后也在探索周边有趣的地方 (偷了桂桂好多图) 总结下经验下次继续⛺️",
-    "views": 325,
+    "views": 326,
     "forwards": 2,
     "forwarded_from": {
       "name": "マモル’s channel"
@@ -85381,7 +85381,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 668,
+    "views": 675,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85393,8 +85393,8 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 4989,
-    "forwards": 144,
+    "views": 5057,
+    "forwards": 145,
     "media_group_id": 14043941176651549,
     "images": [
       {
@@ -85438,7 +85438,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 220,
+    "views": 229,
     "forwards": 0,
     "media_group_id": 14044254560493069,
     "images": [
@@ -85538,7 +85538,7 @@
     "id": 6267,
     "date": "2025-08-18T16:13:28",
     "text": "离开之后还遇到乐队成员了\n\n具体是，我们看完去旁边的商场吃面，然后这位拉着一个舞台摆饰叶子伸出一半的行李箱在我旁边坐下来...\n\n...并没有敢搭话 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（更多是不想打扰到别人的生活啦）",
-    "views": 197,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14044268870693797,
     "images": [
@@ -85593,7 +85593,7 @@
     "id": 6274,
     "date": "2025-08-18T16:53:56",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n一些超喜欢并且这次演唱会上听到了的青葉市子的曲子 qwq\n\n之前一直好奇 mazamun 这首的乐器是什么，还以为是钟琴，看了演出才知道这是 reface CP 的音色，太梦幻了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 177,
+    "views": 184,
     "forwards": 1,
     "media_group_id": 14044288287002853,
     "files": [
@@ -85647,7 +85647,7 @@
     "id": 6275,
     "date": "2025-08-19T05:12:45",
     "text": "整理了一下在浜松乐器博物馆看到的奇妙乐器做了一个九(?)宫格 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 125,
+    "views": 136,
     "forwards": 0,
     "reply": {
       "id": 6209,
@@ -85671,7 +85671,7 @@
     "id": 6277,
     "date": "2025-08-19T08:19:20",
     "text": "看，飞机！<i class=\"custom-emoji\" emoji-src=\"emoji/6170258254904428156.webm\">🤩</i>",
-    "views": 86,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 14044732480768373,
     "images": [
