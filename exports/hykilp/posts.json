@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6164,
+    "views": 6165,
     "forwards": 145,
     "media_group_id": 13966976157341773,
     "images": [
@@ -81300,7 +81300,7 @@
     "id": 5928,
     "date": "2025-07-19T01:38:48",
     "text": "前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊\n\n没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了",
-    "views": 256,
+    "views": 257,
     "forwards": 1,
     "media_group_id": 14023113027725101,
     "images": [
@@ -81473,7 +81473,7 @@
     "id": 5939,
     "date": "2025-07-24T12:03:51",
     "text": "周末三连休和谦谦和半喵和マモル从东京开车去了金沢和能登半岛！\n\n因为距离远日程排得太满导致大家回家都累累，今天才有力气整理照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 下次不排这么满了\n\n这次旅程的第一件事是开车... 和谦谦轮换着开车单程八小时竖跨整个日本，三天下来总共开了 1400km，加了 92.6L 油 <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n不过还好白天开车风景不错，而且都外大部分路段车也挺少的不太需要被堵车折磨。<del>而且选的这条路测速少可以体验 180kmh 飙车（不）</del>总之并没有很无聊啦\n\n发一些往返拍得比较好看的公路照片 qwq",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "media_group_id": 14026869051925621,
     "images": [
@@ -81588,7 +81588,7 @@
     "id": 5949,
     "date": "2025-07-24T12:43:39",
     "text": "第一站是<del>拙政园</del>（兼六園）\n\n刚开了八小时车走进园林马上就放松下来了！\n\n感觉来到这里现在才终于理解「侘び寂び」的美，在这里每个石灯路牌都摆的很随意、没有一条路一条河是直的、没有一根树枝是整齐的（甚至有些树太弯弯曲曲了需要用其他树的尸体来支撑自己的树枝）但是这些不完美这些随机感加起来却正好造就了这个完美的风景... 反而是追求完美规整的过程中得不到的\n<del>\n所以我家里乱其实也是（被打</del>\n\n以及拍到了好看鸟，相机大满足！还有一个 NHK 1933 年在这里建的小电视信号亭子，风格和这个园林好搭",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "media_group_id": 14026888154777789,
     "images": [
@@ -85063,7 +85063,7 @@
     "id": 6227,
     "date": "2025-08-17T10:21:11",
     "text": "以及看到了很多超厉害的 cosplay！\n\n都好厉害，很多完全看不出破绽耶，感觉上像是动画角色真的站在那里一样。\n\n决定了，下次去 CM 一定要自己出 cos <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 2,
     "media_group_id": 14043408574049349,
     "images": [
@@ -85173,7 +85173,7 @@
     "id": 6237,
     "date": "2025-08-17T10:25:37",
     "text": "还有些整活\n\ncosplay <a href=\"https://ja.wikipedia.org/wiki/%E7%99%BD%E3%83%9D%E3%82%B9%E3%83%88\">白投递箱</a>真是太草了「请把不想让孩子看到的本本投进这个投递箱里」<i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "media_group_id": 14043410698122829,
     "images": [
@@ -85381,7 +85381,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 714,
+    "views": 715,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 5565,
+    "views": 5591,
     "forwards": 156,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85438,7 +85438,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 276,
+    "views": 277,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -85671,7 +85671,7 @@
     "id": 6277,
     "date": "2025-08-19T08:19:20",
     "text": "看，飞机！<i class=\"custom-emoji\" emoji-src=\"emoji/6170258254904428156.webm\">🤩</i>",
-    "views": 176,
+    "views": 177,
     "forwards": 0,
     "media_group_id": 14044732480768373,
     "images": [
@@ -85701,7 +85701,7 @@
     "id": 6278,
     "date": "2025-08-19T15:58:07",
     "text": "受不了一次次更新叠加出来的各种小问题了，决定买一块新 SSD 重装一次\n\n上次重装是直接把 AppData 拷到新盘了来着，但是这次想让系统干净一点所以只拷了小部分应用的数据（分别找到每个应用数据存在哪里好费时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 累累\n\n不过重装确实修好了之前拔掉电源会蓝屏的问题，还把之前更新坏的开始菜单修好了，PowerToys 复制到剪切板也不再会报错了...",
-    "views": 132,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 14044952697720893,
     "images": [
