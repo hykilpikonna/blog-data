@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6160,
+    "views": 6161,
     "forwards": 145,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 578,
+    "views": 579,
     "forwards": 1,
     "images": [
       {
@@ -73320,7 +73320,7 @@
     "id": 5306,
     "date": "2025-05-04T02:09:28",
     "text": "<a href=\"##TIL\">#TIL</a> 我居然写了七八年前端，今天才知道原来 <code><div/></code> 和 <code><div></div></code> 是不一样的...\n\n其实应该说，在原生 HTML 里这两个不一样，但是在 Svelte 里面是一样的。原生会直接忽略掉 <code>/></code> 变成一个只有开没有关的 div，但是 Svelte 会像上面那样把它按照 XML 解析成开了之后马上关上\n\n...所以今天的另一个 <a href=\"##TIL\">#TIL</a> 是 Svelte 的 HTML 语法居然和原生不一样，即使区别很微妙而且大部分人不会注意到，但是也有被震撼",
-    "views": 505,
+    "views": 506,
     "forwards": 6,
     "images": [
       {
@@ -73339,7 +73339,7 @@
     "id": 5307,
     "date": "2025-05-04T20:46:08",
     "text": "发现自己体力好差...\n\n今天想去附近的一家餐厅，打车 $8 好贵，走路 18 分钟又觉得太慢了，所以决定试试骑车去。手术之前骑 15km 都没什么的话，现在骑 1.5km 也不会有事的吧\n\n刚开始还好，但是快到的时候下车突然头晕想吐感觉要晕过去了，和刚手术完缺血的时候脑缺氧的感觉一样... 原地坐了一会才勉强能推着车继续走\n\n明明已经过了四个月了... 什么时候体力才能恢复呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 404,
+    "views": 405,
     "forwards": 1,
     "media_group_id": 13971132545872317,
     "images": [
@@ -73369,7 +73369,7 @@
     "id": 5309,
     "date": "2025-05-05T03:03:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nは蜜瓜\n\n（超甘い!",
-    "views": 435,
+    "views": 436,
     "forwards": 0,
     "images": [
       {
@@ -73388,7 +73388,7 @@
     "id": 5310,
     "date": "2025-05-05T04:13:26",
     "text": "看<a href=\"https://t.me/rynif/36626\">隔壁频道</a>填了这个游戏喜好表我也来填一下，尽力用了最近玩过或者记忆依然很清楚的游戏，也尽力没有重复... 有太多很好的选择了填表好费力 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n记得超级久之前填过一次，但是找不到了，这两次的答案肯定很不一样吧",
-    "views": 466,
+    "views": 467,
     "forwards": 3,
     "images": [
       {
@@ -73407,14 +73407,14 @@
     "id": 5311,
     "date": "2025-05-05T04:35:40",
     "text": "聊聊：桂桂为什么会在说话的时候像扇翅膀一样挥胳膊\n我：我前世大概是鸟吧\n聊聊：太好了，猫吃鸟（/吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n我：<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 但是飞行系克草耶",
-    "views": 396,
+    "views": 397,
     "forwards": 0
   },
   {
     "id": 5312,
     "date": "2025-05-05T23:28:26",
     "text": "今天也骑车去了，但是今天没有晕过去！看来还是需要更多运动才能习惯呢 quq\n\n（今天吃了烤肉肉三明治",
-    "views": 392,
+    "views": 393,
     "forwards": 0,
     "reply": {
       "id": 5307,
@@ -73438,7 +73438,7 @@
     "id": 5313,
     "date": "2025-05-05T23:39:01",
     "text": "今生第二次错过毕业仪式",
-    "views": 397,
+    "views": 398,
     "forwards": 0,
     "images": [
       {
@@ -85063,7 +85063,7 @@
     "id": 6227,
     "date": "2025-08-17T10:21:11",
     "text": "以及看到了很多超厉害的 cosplay！\n\n都好厉害，很多完全看不出破绽耶，感觉上像是动画角色真的站在那里一样。\n\n决定了，下次去 CM 一定要自己出 cos <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 210,
+    "views": 211,
     "forwards": 2,
     "media_group_id": 14043408574049349,
     "images": [
@@ -85173,7 +85173,7 @@
     "id": 6237,
     "date": "2025-08-17T10:25:37",
     "text": "还有些整活\n\ncosplay <a href=\"https://ja.wikipedia.org/wiki/%E7%99%BD%E3%83%9D%E3%82%B9%E3%83%88\">白投递箱</a>真是太草了「请把不想让孩子看到的本本投进这个投递箱里」<i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "media_group_id": 14043410698122829,
     "images": [
@@ -85213,7 +85213,7 @@
     "id": 6240,
     "date": "2025-08-17T13:02:13",
     "text": "啊啊啊 真的好讨厌推特...\n\n原来不登录推特没法看到别人的最新推文，只能看到互动多的旧推文... 所以我刚刚重新登上推特才发现原来昨天在找喜欢的画师的时候很多我以为「很久没更新动态的人」实际上都有参加 C106 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n可惜已经错过了。",
-    "views": 288,
+    "views": 289,
     "forwards": 2,
     "media_group_id": 14043485866021357,
     "images": [
@@ -85268,7 +85268,7 @@
     "id": 6244,
     "date": "2025-08-17T16:23:37",
     "text": "趁着お盆跟桂桂实验性⛺️了一次 发现照明、帐篷都有问题\n\n照明别的营地都是起手3种灯: 架子挂灯 桌子氛围灯 天幕挂灯; 我们就没有(草): 我なでしこ同款灯忘了带气 晚上吃饭时是手机闪光灯打到矿泉水桶上\n然后帐篷, 之前跟老两位一起买的那个隧道帐篷有些痛点 没外帐防不了雨、且少人数設営困难(过大过重, 人手够的话設営会非常简单 而且流程走过一遍后就掌握了); 感觉大天幕+ 小帐篷模块化一些会更好\n运输上虽然不用走把东西控制在原付就能装下的困难路线 但像アクア类似的小车带目前这套装备+俩人少量行李会把后备箱+后座几乎占满, 这还是没上复杂的料理道具 + 焚火台的情况\n\n夏天露营也挺难受的 夜里即便凉快空气也很潮, 晚上睡一半醒了发现我后背跟垫子接触的地方在出汗 但上面又阴冷 (听桂桂说夜里地震了 就我睡得很浅也完全没感受到草)\n另外就是娱乐活动 可以预见的不是所有人都对探险感兴趣(这次🏕️附近有的隧道 可以通到附近的水坝) 晚上除了聊天吃完饭感觉可以整点什么经典老番一起鉴赏 应该还蛮有趣的\n\n虽然各种没准备好但还是很开心-不仅是露营本身 就跟ゆるキャン△一样露营前后也在探索周边有趣的地方 (偷了桂桂好多图) 总结下经验下次继续⛺️",
-    "views": 338,
+    "views": 340,
     "forwards": 2,
     "forwarded_from": {
       "name": "マモル’s channel"
@@ -85381,7 +85381,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 700,
+    "views": 703,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85393,8 +85393,8 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 5419,
-    "forwards": 151,
+    "views": 5449,
+    "forwards": 152,
     "media_group_id": 14043941176651549,
     "images": [
       {
@@ -85438,7 +85438,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 259,
+    "views": 262,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -85538,7 +85538,7 @@
     "id": 6267,
     "date": "2025-08-18T16:13:28",
     "text": "离开之后还遇到乐队成员了\n\n具体是，我们看完去旁边的商场吃面，然后这位拉着一个舞台摆饰叶子伸出一半的行李箱在我旁边坐下来...\n\n...并没有敢搭话 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（更多是不想打扰到别人的生活啦）",
-    "views": 232,
+    "views": 233,
     "forwards": 0,
     "media_group_id": 14044268870693797,
     "images": [
@@ -85593,7 +85593,7 @@
     "id": 6274,
     "date": "2025-08-18T16:53:56",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n一些超喜欢并且这次演唱会上听到了的青葉市子的曲子 qwq\n\n之前一直好奇 mazamun 这首的乐器是什么，还以为是钟琴，看了演出才知道这是 reface CP 的音色，太梦幻了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 1,
     "media_group_id": 14044288287002853,
     "files": [
@@ -85647,7 +85647,7 @@
     "id": 6275,
     "date": "2025-08-19T05:12:45",
     "text": "整理了一下在浜松乐器博物馆看到的奇妙乐器做了一个九(?)宫格 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 178,
+    "views": 179,
     "forwards": 1,
     "reply": {
       "id": 6209,
@@ -85671,7 +85671,7 @@
     "id": 6277,
     "date": "2025-08-19T08:19:20",
     "text": "看，飞机！<i class=\"custom-emoji\" emoji-src=\"emoji/6170258254904428156.webm\">🤩</i>",
-    "views": 162,
+    "views": 164,
     "forwards": 0,
     "media_group_id": 14044732480768373,
     "images": [
@@ -85701,7 +85701,7 @@
     "id": 6278,
     "date": "2025-08-19T15:58:07",
     "text": "受不了一次次更新叠加出来的各种小问题了，决定买一块新 SSD 重装一次\n\n上次重装是直接把 AppData 拷到新盘了来着，但是这次想让系统干净一点所以只拷了小部分应用的数据（分别找到每个应用数据存在哪里好费时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 累累\n\n不过重装确实修好了之前拔掉电源会蓝屏的问题，还把之前更新坏的开始菜单修好了，PowerToys 复制到剪切板也不再会报错了...",
-    "views": 112,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 14044952697720893,
     "images": [
