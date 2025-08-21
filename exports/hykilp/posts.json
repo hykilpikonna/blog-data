@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 273,
+    "views": 274,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 200,
+    "views": 201,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 167,
+    "views": 168,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -60548,7 +60548,7 @@
     "id": 4422,
     "date": "2024-09-11T02:09:00",
     "text": "幻视",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "images": [
       {
@@ -60567,7 +60567,7 @@
     "id": 4423,
     "date": "2024-09-12T02:52:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n焦碳\n\nadhd 开始炖的时候忘记关小火了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 1,
     "images": [
       {
@@ -61208,7 +61208,7 @@
     "id": 4467,
     "date": "2024-09-22T06:01:27",
     "text": "我的时间管理习惯是每做完每件事情之后把这件事情在谷歌日历中记录下来，这样就可以看到每件事情的效率以及时间浪费在哪里了\n\n我 ADHD 很擅长随着现在的心情选事情做，所以反而不喜欢提前把事情计划好，<del>况且也没有提前计划需要的规律作息</del>\n\n但是时间记录这件事本身就比较困难，因为 ADHD 有时候会忘记记录，回想也想不起来时间都花在了哪里，<del>而且谷歌日历手机客户端真的非常难用</del> 💢 基本上只有在电脑前的时间能精确记录上\n\n所以我好想要一个时间记录 app 或者 tg bot，能够让我很方便记录下来上一件事情用的时间，也可以用 AI 给它自动分类（现在用谷歌日历是手动分类）<del>或者让 AI 看我的屏幕自动记录我在做什么</del>\n\n可惜似乎没有人做过这种 app",
-    "views": 132,
+    "views": 133,
     "forwards": 4,
     "reply": {
       "id": 4465,
@@ -61232,7 +61232,7 @@
     "id": 4468,
     "date": "2024-09-22T06:31:03",
     "text": "开坑\n\n<del>开坑第一件事当然是起一个不会让我两年之后后悔的名字</del>",
-    "views": 132,
+    "views": 133,
     "forwards": 0,
     "reply": {
       "id": 4467,
@@ -61255,14 +61255,14 @@
     "id": 4469,
     "date": "2024-09-22T17:18:21",
     "text": "朋友在多伦多开的机厅快要正式开业了，想哪天去看看 qwq\n\n唉 今天才真正意识到开机厅的人多么有钱，maimai DX 框在这边一直是五位数 USD 价格都很难拿到货，然后他告诉我他们买了两台，第二台还在海上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n再看看我为了省一两千 USD 自己造 Wacca 框，为了省一千 CAD 运 ADX 框的时候自己找渠道走了海运没走空运... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 133,
+    "views": 134,
     "forwards": 2
   },
   {
     "id": 4470,
     "date": "2024-09-22T23:11:06",
     "text": "去一趟机厅赚了 $172 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（好吧其实并没有赚，只是把他们从我这里订的 Wacca LED 替换板卖给他们了 quq",
-    "views": 127,
+    "views": 128,
     "forwards": 2,
     "media_group_id": 13816373334825989,
     "images": [
@@ -61316,7 +61316,7 @@
     "id": 4474,
     "date": "2024-09-22T23:28:08",
     "text": "他们那家店里面的样子，目前有 Wacca Plus, maimai DX, 中二, DIVA, SDVX, IIDX, 还有一些一般街机比如舰 C\n\n真的好厉害，今年三月的时候他们刚开始准备，居然现在就已经在准备开业了还有这么多劲爆机器... 真好啊，希望他们能回本 quq\n\n今天去的时候就很热闹了，有几个认识的人来玩，还有 discord 上一直觉得很厉害的店员在修路由器装修房间，也认识了一些新朋友 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>（不过感觉我认出来的人还是少数，虽然 discord 上都认识但是线下完全猜不出谁是谁——唉感觉是很多群友同时见面难免会遇到的问题",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 13816381504337565,
     "images": [
@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 341,
+    "views": 342,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 369,
+    "views": 370,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 293,
+    "views": 294,
     "forwards": 1,
     "images": [
       {
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 205,
+    "views": 206,
     "forwards": 0,
     "images": [
       {
@@ -71629,14 +71629,14 @@
     "id": 5181,
     "date": "2025-04-12T04:42:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://www.youtube.com/watch?v=gz9BRl7DVSM\">OK Go - Love (Official Video)</a>\n\n太炫酷了",
-    "views": 236,
+    "views": 237,
     "forwards": 0
   },
   {
     "id": 5182,
     "date": "2025-04-13T01:59:15",
     "text": "打算继续直播 Split Fiction\n\n这次换上了 RTX 2080 希望不会像之前那样全损画质还只有 20fps（x）\n\n以及因为 tg 网络灵车，除了频道以外也会同时推到其他地方啦:\n* 自搭直播间: <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>\n* YouTube: （结束了）",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "reply": {
       "id": 5054,
@@ -71653,7 +71653,7 @@
     "id": 5184,
     "date": "2025-04-13T02:11:17",
     "text": "技术问题解决了，大家想发评论在这里发w",
-    "views": 242,
+    "views": 243,
     "forwards": 0,
     "reply": {
       "id": 5182,
@@ -71670,7 +71670,7 @@
     "id": 5186,
     "date": "2025-04-14T01:30:39",
     "text": "今天尝试用 3D 打印机的时候发现打印效果非常差，分层的地方多出来了好多洞洞，查了一下发现是挤出不足的问题\n\n然后猫猫球教我校准了挤出量——在耗材上离入口 200mm 的位置做好记号，打开串口终端命令它挤 200mm，然后测量实际上挤了多少，最后再算出正确的挤出量写进打印机记忆里 qwq\n\n校准了然后顺便换了挤出头，重新打了一次质量差距居然这么大哇 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢猫猫球）",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "media_group_id": 13956753914018021,
     "images": [
@@ -71750,7 +71750,7 @@
     "id": 5193,
     "date": "2025-04-14T05:57:16",
     "text": "<a href=\"##新番\">#新番</a> 看了《杂旅》的第一集，感觉完全是旅行模拟器了，无论是画面还是经历都好真实\n\n...好想去日本旅游 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 如果哪天有机会去的话，也许可以跟着杂旅的路线吗 quq",
-    "views": 254,
+    "views": 255,
     "forwards": 0,
     "media_group_id": 13956881890784125,
     "images": [
@@ -71820,7 +71820,7 @@
     "id": 5199,
     "date": "2025-04-14T09:02:07",
     "text": "记得之前朋友和我说ta是靠唱歌学的日语（是麻薯还是蓝夏来着忘记了）所以我打算也试试 qwq\n\n...写写歌词发现果然不会写的中文汉字更多一点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 因为有十年没用纸笔写中文了，需要用中文的地方也只有打字和说话\n\n（不过正好中文也一起炼了",
-    "views": 345,
+    "views": 346,
     "forwards": 2,
     "images": [
       {
@@ -71839,7 +71839,7 @@
     "id": 5200,
     "date": "2025-04-14T10:37:13",
     "text": "...呜 结果不知不觉就又看到日出了还没睡，作息又坏掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n不过今天日出好好看",
-    "views": 423,
+    "views": 424,
     "forwards": 0,
     "images": [
       {
@@ -71858,14 +71858,14 @@
     "id": 5202,
     "date": "2025-04-15T02:39:32",
     "text": "这条消息里藏着一道谜题 谁先解出来有蛋糕哦 qwq󠀁󠀵󠁚󠁏󠁱󠀶󠁙󠁥󠁍󠀵󠁌󠁩󠁎󠀵󠁡󠀫󠀵󠀷󠀷󠁹󠁦󠁃󠁶󠁏󠁧󠁧󠁉󠁈󠁺󠁯󠁉󠁇󠁄󠀸󠀶󠁃󠁂󠁲󠀯󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁳󠁶󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠀰󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁋󠁈󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠀱󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁴󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁱󠁦󠁏󠁧󠁧󠁡󠁔󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁇󠁺󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁃󠀶󠀸󠀶󠁃󠁁󠁳󠀯󠁏󠁧󠁧󠁙󠁪󠁺󠁯󠁉󠁇󠁨󠀸󠀶󠁃󠁂󠁴󠁶󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠁴󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁯󠁦󠁏󠁧󠁧󠁡󠁶󠁺󠁯󠁉󠁇󠁬󠀸󠀶󠁃󠁁󠁯󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁴󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁷󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁌󠁲󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁲󠀯󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁃󠁵󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁱󠀯󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁒󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠁪󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠁮󠁺󠁯󠁉󠁇󠁉󠀸󠀶󠁃󠁂󠁪󠀯󠁏󠁧󠁧󠁚󠁪󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁵󠁶󠁏󠁧󠁧󠁚󠁮󠁺󠁯󠁉󠁇󠁕󠀸󠀶󠁃󠁂󠁬󠁶󠁏󠁧󠁧󠁡󠁺󠁺󠁯󠁉󠁇󠀯󠁿\n\n(提示: UTF-8",
-    "views": 514,
+    "views": 515,
     "forwards": 11
   },
   {
     "id": 5203,
     "date": "2025-04-15T04:06:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n发现牛肉面里面加上辣椒油味道好棒 qwq\n\n（然后把自己辣到了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 448,
+    "views": 449,
     "forwards": 1,
     "images": [
       {
@@ -71884,7 +71884,7 @@
     "id": 5204,
     "date": "2025-04-15T06:12:37",
     "text": "真 · 悬空打印\n\n(<a href=\"##AIGC\">#AIGC</a>)",
-    "views": 330,
+    "views": 331,
     "forwards": 0,
     "images": [
       {
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 340,
+    "views": 341,
     "forwards": 2,
     "media_group_id": 13958125648289765,
     "images": [
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 696,
+    "views": 697,
     "forwards": 9
   },
   {
@@ -82438,7 +82438,7 @@
   {
     "id": 6026,
     "date": "2025-07-27T04:41:12",
-    "views": 444,
+    "views": 445,
     "forwards": 7,
     "reply": {
       "id": 5976,
@@ -85213,7 +85213,7 @@
     "id": 6240,
     "date": "2025-08-17T13:02:13",
     "text": "啊啊啊 真的好讨厌推特...\n\n原来不登录推特没法看到别人的最新推文，只能看到互动多的旧推文... 所以我刚刚重新登上推特才发现原来昨天在找喜欢的画师的时候很多我以为「很久没更新动态的人」实际上都有参加 C106 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n可惜已经错过了。",
-    "views": 301,
+    "views": 302,
     "forwards": 2,
     "media_group_id": 14043485866021357,
     "images": [
@@ -85381,7 +85381,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 734,
+    "views": 736,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 5919,
+    "views": 5949,
     "forwards": 157,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85438,7 +85438,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 313,
+    "views": 314,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -85538,7 +85538,7 @@
     "id": 6267,
     "date": "2025-08-18T16:13:28",
     "text": "离开之后还遇到乐队成员了\n\n具体是，我们看完去旁边的商场吃面，然后这位拉着一个舞台摆饰叶子伸出一半的行李箱在我旁边坐下来...\n\n...并没有敢搭话 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（更多是不想打扰到别人的生活啦）",
-    "views": 271,
+    "views": 274,
     "forwards": 0,
     "media_group_id": 14044268870693797,
     "images": [
@@ -85593,7 +85593,7 @@
     "id": 6274,
     "date": "2025-08-18T16:53:56",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n一些超喜欢并且这次演唱会上听到了的青葉市子的曲子 qwq\n\n之前一直好奇 mazamun 这首的乐器是什么，还以为是钟琴，看了演出才知道这是 reface CP 的音色，太梦幻了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 253,
+    "views": 254,
     "forwards": 2,
     "media_group_id": 14044288287002853,
     "files": [
@@ -85647,7 +85647,7 @@
     "id": 6275,
     "date": "2025-08-19T05:12:45",
     "text": "整理了一下在浜松乐器博物馆看到的奇妙乐器做了一个九(?)宫格 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 221,
+    "views": 223,
     "forwards": 1,
     "reply": {
       "id": 6209,
@@ -85671,7 +85671,7 @@
     "id": 6277,
     "date": "2025-08-19T08:19:20",
     "text": "看，飞机！<i class=\"custom-emoji\" emoji-src=\"emoji/6170258254904428156.webm\">🤩</i>",
-    "views": 212,
+    "views": 214,
     "forwards": 0,
     "media_group_id": 14044732480768373,
     "images": [
@@ -85701,7 +85701,7 @@
     "id": 6278,
     "date": "2025-08-19T15:58:07",
     "text": "受不了一次次更新叠加出来的各种小问题了，决定买一块新 SSD 重装一次\n\n上次重装是直接把 AppData 拷到新盘了来着，但是这次想让系统干净一点所以只拷了小部分应用的数据（分别找到每个应用数据存在哪里好费时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 累累\n\n不过重装确实修好了之前拔掉电源会蓝屏的问题，还把之前更新坏的开始菜单修好了，PowerToys 复制到剪切板也不再会报错了...",
-    "views": 184,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 14044952697720893,
     "images": [
@@ -85741,7 +85741,7 @@
     "id": 6281,
     "date": "2025-08-20T12:51:17",
     "text": "（继续整理照片）\n\n这次去静岡除了露营还走了很多摇曳吊桥！是摇曳露营第三季的圣桥\n\n其实一个月前豆腐推荐我去看吊桥的时候还因为恐高很害怕，但是前几次坐露天缆车发现也不是那么可怕，决定想走吊桥克服一下恐高 qwq\n\n结果真的每个吊桥都成功走过去了！虽然这么高还晃来晃去本能地非常害怕，但是走过去之后走回来的路上就没那么害怕了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n走过五六个吊桥之后感觉我真的有信心说自己不再恐高了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 147,
+    "views": 149,
     "forwards": 1,
     "media_group_id": 14045554217018765,
     "images": [
@@ -85856,7 +85856,7 @@
     "id": 6291,
     "date": "2025-08-20T21:46:20",
     "text": "新手机续航好不错，看了一下发现这几天从来没有用超过 50% 过 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n出门不用担心手机会没电真好呀（虽然还是会习惯性带上充电宝，但是几乎从来没用过...）",
-    "views": 144,
+    "views": 146,
     "forwards": 0,
     "images": [
       {
@@ -85875,7 +85875,7 @@
     "id": 6292,
     "date": "2025-08-21T02:07:56",
     "text": "想要 Google AI 的强大功能触手 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 136,
+    "views": 138,
     "forwards": 3,
     "images": [
       {
@@ -85894,7 +85894,7 @@
     "id": 6293,
     "date": "2025-08-21T04:16:47",
     "text": "除了吊桥还探了很多隧道！\n\n有遇到国道上完全没灯的车隧道、露营场旁边的恐怖隧道、吊桥旁边已经塌掉被拦起来的隧道、还有日本第一条收费隧道「明治隧道」\n\n明治隧道真的是最被低估的景点，隧道本身还是周围的建筑气氛都超级复古，像是坐时光机回到了明治时期一样 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n这里似乎不是很热门，我们去的时候除了我们就几乎没有别人了。不过也是好事，人多了也许就没有这么好的气氛了吧",
-    "views": 91,
+    "views": 94,
     "forwards": 1,
     "media_group_id": 14045998458602901,
     "images": [
@@ -86009,7 +86009,7 @@
     "id": 6303,
     "date": "2025-08-21T04:56:42",
     "text": "晚上去浜松的路上下小雨大雾，可见度归零 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>\n\n不过我好喜欢大雾气氛，感觉大雾有让大热夏天变得凉爽清静。也是第一次用相机拍大雾照片，不知道有没有把气氛拍出来呢",
-    "views": 72,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 14046017623134653,
     "images": [
@@ -86094,7 +86094,7 @@
     "id": 6310,
     "date": "2025-08-21T05:00:44",
     "text": "“你来想一个地名吧”\n“就叫「地名」好了” <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 72,
+    "views": 77,
     "forwards": 1,
     "images": [
       {
@@ -86113,7 +86113,7 @@
     "id": 6311,
     "date": "2025-08-21T05:17:36",
     "text": "经过野守的时候看到他们在举办野守祭り，就去凑凑热闹，看到了比上次更大规模的花火大会！\n\n拍到了更好看的照片，还有一张手抖出奇迹 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n不过真的在考虑下次去花火大会不带相机了...这两次太在意拍照片，结果看到的花火全都是透过相机的画幅看到的，自己反而什么都没看到 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 70,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 14046027654578013,
     "images": [
