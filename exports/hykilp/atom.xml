@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-23T06:16:07.384014+00:00</updated>
+  <updated>2025-08-23T08:15:01.911503+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6334</id>
+    <title>小桂桂的回忆录 📒 #6334</title>
+    <updated>2025-08-23T06:59:41+00:00</updated>
+    <content>&lt;p&gt;去世... &lt;i class="custom-emoji" emoji-src="emoji/6170358057059485759.webm"&gt;😪&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;我首先是 &lt;code&gt;code ~/.pypirc&lt;/code&gt; 然后发现 powershell 命令行没有把 &lt;code&gt;~&lt;/code&gt; 解析成家目录，而是在当前目录创建了一个叫 &lt;code&gt;~&lt;/code&gt; 的文件夹&lt;/p&gt;
+&lt;p&gt;然后我想删除这个叫 &lt;code&gt;~&lt;/code&gt; 的文件夹，打了 &lt;code&gt;rm ~&lt;/code&gt; 我以为它和之前一样不会把 &lt;code&gt;~&lt;/code&gt; 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;不知道有没有办法找到它删了哪些东西&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6334" rel="alternate"/>
+  </entry>
   <entry>
     <id>6327</id>
     <title>小桂桂的回忆录 📒 #6327</title>
