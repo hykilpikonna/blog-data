@@ -65575,7 +65575,7 @@
     "id": 4765,
     "date": "2024-12-16T05:56:07",
     "text": "<a href=\"##谜题\">#谜题</a> 第一次解出 weekly 30*40 的数回，花了 36 min 好难好难 quq",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "files": [
       {
@@ -65597,7 +65597,7 @@
     "id": 4766,
     "date": "2024-12-16T23:09:11",
     "text": "<a href=\"##预告\">#预告</a> 在做一些奇妙东西",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "images": [
       {
@@ -65738,7 +65738,7 @@
     "id": 4775,
     "date": "2024-12-19T22:15:58",
     "text": "在<a href=\"https://github.com/hykilpikonna/colorful-link\">仓库</a> readme 上写了用编辑器创建一个谜题的教程 qwq",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65761,7 +65761,7 @@
     "id": 4776,
     "date": "2024-12-20T08:02:41",
     "text": "过年了.jpg\n\nA112 <i class=\"custom-emoji\" emoji-src=\"emoji/6071087292536065387.webp\">✅</i> 感谢理科",
-    "views": 120,
+    "views": 121,
     "forwards": 1,
     "media_group_id": 13877454094731965,
     "images": [
@@ -65801,7 +65801,7 @@
     "id": 4779,
     "date": "2024-12-20T14:37:36",
     "text": "进行了一些 java 代码的 kotlin 重构，用各种宏把代码长度缩短了 -1600%\n\n原本每个 API 节点要 >50 行，重构之后同样的逻辑只用了 3 行 🌚",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -65820,7 +65820,7 @@
     "id": 4780,
     "date": "2024-12-21T04:28:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n煎三文鱼干！\n\n看到超市三文鱼打巨大折直接半价了就一下子买了 3kg 三文鱼，学会了给三文鱼去皮，把刺身冻起来做拌饭或者寿司🍣，然后把剩下的 700g 鱼皮煎成小鱼干了 qwq（还煎出来 112g 油 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 13878042482099997,
     "images": [
@@ -65979,7 +65979,7 @@
     "id": 4790,
     "date": "2024-12-22T13:44:03",
     "text": "今天通宵把 HyFetch Rust 的二进制包打好了，原本以为是一两个小时的事情结果花了八个小时才打完... 累累<i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n现在可以通过 pip 安装 HyFetch rust 版的二进制了！打算到各种机器上测试一下没问题再发正式 2.0.0 版本\n\n踩了超级多坑，最后的解决方案是<span class=\"spoiler\"><span>用 debian docker 编译 musl-gcc 然后用其跨架构编译 musl 的 x86、arm64/v7l、rv64 静态链接二进制，再用 alpine docker + osxcross 编译 macOS 的 x86 和 arm64 二进制，编完丢进对应的 PyPI wheel 里面</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n为什么不直接让用户用 cargo 从源码编译安装呢？因为 cargo 没办法像 pypi 那样把自己程序以外的其他资源一起打包进去，用户需要自己下依赖，那样就不是一键安装了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n好累 睡睡",
-    "views": 175,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 13879000348755317,
     "images": [
@@ -66009,7 +66009,7 @@
     "id": 4792,
     "date": "2024-12-23T00:40:54",
     "text": "今天公寓火警铃响了快半个小时，火警赶来了发现好像没有真的着火然后走了\n\n然后发现我的服务器现在因为刚搬完数据还没把备份开回来反而做不到拔盘就走了... 跑下楼看了一眼是真的有🚒之后再跑上楼关机拆开机箱拔完盘已经结束了，感觉如果是真的着火了这个速度肯定不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及感觉火警误报太多大家都不当一回事的样子，我跑下楼看的时候只遇到了一两个人，明明这个公寓还很大的... 但是也能理解，毕竟目前为止 100% 的火警都是误报\n\n如果有 > 1 bit 的火警信息就好了，比如之前在学校宿舍的时候真的有 🔥 的那次是直接接上麦克风广播了，可惜这个公寓的警报设施没有这样的功能",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "images": [
       {
@@ -66596,7 +66596,7 @@
     "id": 4832,
     "date": "2025-01-03T15:25:20",
     "text": "欣赏一下小桂桂昏睡代码\n\n（超过 1000 直接 NaN",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "media_group_id": 13887343362282373,
     "images": [
@@ -66626,14 +66626,14 @@
     "id": 4834,
     "date": "2025-01-03T17:56:19",
     "text": "聊聊：你有 portal2 吗\n我：有呀 怎么啦\n聊聊：我也有 portal2\n我：那我们可以连一个从你的 portal2 portal<span class=\"spoiler\"><span>(v.)</span></span> 到我的 portal2 的 portal <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 174,
+    "views": 175,
     "forwards": 0
   },
   {
     "id": 4835,
     "date": "2025-01-03T19:57:56",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢很 funky 的曲子 qwq\n\n<a href=\"https://www.youtube.com/watch?v=Nph6Qlmh66c\">Youtube MV</a>",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "files": [
       {
@@ -66655,7 +66655,7 @@
     "id": 4836,
     "date": "2025-01-03T20:00:35",
     "text": "「感觉这个功能以后会用到诶，可以写一个宏」\n「啊 原来之前已经写过了」\nKotlin 日常 🌚",
-    "views": 190,
+    "views": 191,
     "forwards": 0,
     "images": [
       {
@@ -66674,7 +66674,7 @@
     "id": 4837,
     "date": "2025-01-04T02:38:14",
     "text": "听听中二企鹅在说什么：\n<span class=\"spoiler\"><span>gay gay gay ........ gay!</span></span>\ngood job",
-    "views": 193,
+    "views": 194,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -66791,7 +66791,7 @@
     "id": 4843,
     "date": "2025-01-07T03:23:59",
     "text": "<a href=\"##TIL\">#TIL</a> 語呂合わせ和数字言葉好奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n过分简化的概要就是，这是一个可以用每个数字的各种不同语境下的读音（真的很多！）来拼出不同的词，这样就可以用数字隐写文字或者反过来做出一些只有在某个 context 下才能读出来的加密通话了！\n\n比如 Azalea アザレア 就可以写成 \"1301\" 什么的（完了我是不是像一个日本十岁小孩\n\n哈哈哈哈我终于知道为什么 maimai 的联机接收端口是 50101 了，因为这个东西读出来是 \"gomaimai\" <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 2,
     "media_group_id": 13889761917466933,
     "images": [
@@ -66828,7 +66828,7 @@
     "id": 4846,
     "date": "2025-01-08T17:53:31",
     "text": "每次想玩中二的时候群里都会有人一起玩好开心 qwq",
-    "views": 179,
+    "views": 180,
     "forwards": 0,
     "reply": {
       "id": 4841,
@@ -66839,7 +66839,7 @@
     "id": 4847,
     "date": "2025-01-09T00:54:09",
     "text": "猫脑过载",
-    "views": 169,
+    "views": 170,
     "forwards": 3,
     "images": [
       {
@@ -66858,7 +66858,7 @@
     "id": 4848,
     "date": "2025-01-09T02:26:12",
     "text": "每次去谷歌搜一个问题，答案里必然有人回 \"just google it\" 💢",
-    "views": 168,
+    "views": 169,
     "forwards": 2
   },
   {
@@ -66987,7 +66987,7 @@
     "id": 4857,
     "date": "2025-01-12T12:48:53",
     "text": "给 AquaDX 写了一个谱面推荐系统，现在可以根据历史玩过的曲子推荐你可能会喜欢的曲子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一次写推荐系统居然不到一个小时就写完了 PoC，用了 python implicit 库的 ALS（虽然之后集成部署又用了两个小时，因为没办法在 cpu 服务器上跑需要 gpu 的东西所以需要单独部署还有点麻烦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<del>原本考虑了一下要不要用 kotlin 搓，最后决定果然写这种东西还是 python 直接 import solution 比较方便</del>",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "images": [
       {
@@ -67006,7 +67006,7 @@
     "id": 4858,
     "date": "2025-01-13T18:21:37",
     "text": "我发现虽然我分不清东南西北，但是比起东南西北我更能分清 NEWS 一点... 问 West 在哪我能下意识反应过来在 North 的左边，但是问西在哪我还要想一想 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么会这样呢",
-    "views": 184,
+    "views": 185,
     "forwards": 0
   },
   {
@@ -67142,7 +67142,7 @@
     "id": 4868,
     "date": "2025-01-18T02:17:14",
     "text": "PRiSM 新更新的游戏内容是这个万花镜挑战模式，叫做「KaleidxScope」...\n\n玩法是，一般游戏打完某个地图之后解锁这个模式并且提示你需要找到钥匙，然后打通所有区域曲目之后拿到钥匙就可以开始挑战了。挑战难度是全服同步的，最开始是 1 血（必须三首歌都 AP 才能通关），有一个人打通之后难度降到 10 血，有 10 个人打通之后降到 50 血，以此类推\n\n今天因为新版本漏了，被催着给服务器加适配就随便写了一个看上去没问题的实现方法，然后我还没拿到数据还没有测试就部署上去了... 结果完全搞错了，地图跑完了模式解锁存不上，修了之后发现打完所有歌钥匙拿不到，又修了之后发现难度锁定在了 1 血的难度... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 可能这个服务器再过一年也不会有人打通 1 血难度",
-    "views": 152,
+    "views": 153,
     "forwards": 2,
     "media_group_id": 13897333072213493,
     "images": [
@@ -84502,7 +84502,7 @@
     "id": 6182,
     "date": "2025-08-13T16:13:10",
     "text": "白色恋人公园（实际上是饼干工厂）\n\n...给一个不到十个员工的小饼干生产线建一座城堡和一个公园好浪漫！想起来自己高中的时候写一个小脚本也要包装一个好看的 GUI/TUI... 现在反而更实用主义了，大部分时候都只是直接把 LLM 的产出打进命令行里跑。好想把以前的习惯找回来呀\n\n以及工厂机器真的好高自动化，看员工的工作似乎只是 QC 一样的盯着生产线，时不时戳戳躺歪了的饼干，奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n会不会以后所有人类工作都变成这样呢？变成盯着 AI 工作然后时不时戳戳它让它回到正轨... <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 238,
+    "views": 239,
     "forwards": 2,
     "media_group_id": 14040812722989669,
     "images": [
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 6735,
+    "views": 6738,
     "forwards": 162,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85437,7 +85437,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 367,
+    "views": 368,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -86674,7 +86674,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 182,
+    "views": 183,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -86714,7 +86714,7 @@
     "id": 6355,
     "date": "2025-08-24T15:38:18",
     "text": "有点想做一个拉面排行榜 / tier list 之类的 qwq",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "reply": {
       "id": 6352,
@@ -86726,7 +86726,7 @@
     "id": 6358,
     "date": "2025-08-25T16:47:41",
     "text": "工作要和同事抢计算资源好累...\n\n现在人多了，本社 lab 上一个月里可能只有几个小时会有空闲 gpu，社外集群里本组分区排满了队，共享分区跑几分钟就被 preempt...\n\n这要怎么做事情嘛",
-    "views": 152,
+    "views": 154,
     "forwards": 1,
     "images": [
       {
@@ -86745,7 +86745,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 166,
+    "views": 168,
     "forwards": 3,
     "images": [
       {
@@ -86764,7 +86764,7 @@
     "id": 6360,
     "date": "2025-08-26T13:20:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n达成成就：参加居酒派对（飲み会）完全没有喝酒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<del>达成成就：明明餐桌上有吃不完的食物结果因为一直在聊天没吃饱回家之后又买了鯛焼</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 119,
+    "views": 128,
     "forwards": 1,
     "media_group_id": 14049715294488173,
     "images": [
@@ -86844,7 +86844,7 @@
     "id": 6368,
     "date": "2025-08-26T14:41:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鯛焼！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 98,
+    "views": 108,
     "forwards": 1,
     "media_group_id": 14049754386902813,
     "images": [
@@ -86874,8 +86874,8 @@
     "id": 6369,
     "date": "2025-08-26T15:49:49",
     "text": "以及 听做 AI 的同事用各种 AI 术语讲他们刚生下来和还没生下来的孩子感觉怪怪的\n\n还有人和大家讲在教他的两三岁小孩 markov chain，好可怕\n\n所以我依然是整个房间里最小的... 他们在讨论让孩子从很小开始学英语会不会让日语说不好，<del>然后我和他们聊因为被从小教英语而中文说不好的亲身经历</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及还见到了之前 telegram 上和我搭话还打 maimai 的神秘同事！世界好小",
-    "views": 110,
-    "forwards": 4,
+    "views": 124,
+    "forwards": 6,
     "reply": {
       "id": 6360,
       "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n达成成就：参加居酒派对（飲み会）完全没有喝酒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<del>达成成就：明明餐桌上有吃不完的食物结果因为一直在聊天没吃饱回家之后又买了鯛焼</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
@@ -86886,7 +86886,7 @@
     "id": 6370,
     "date": "2025-08-26T16:56:31",
     "text": "syama 捡了一只猫回家，但是毫无准备，所以我赶快美团买了些零食和工具送过去，现在猫猫看起来还不错，不知道猫怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 68,
+    "views": 88,
     "forwards": 3,
     "media_group_id": 14049819133094989,
     "images": [
@@ -86935,7 +86935,7 @@
   {
     "id": 6374,
     "date": "2025-08-26T18:04:42",
-    "views": 32,
+    "views": 60,
     "forwards": 0,
     "files": [
       {
@@ -86957,7 +86957,7 @@
     "id": 6375,
     "date": "2025-08-26T18:06:50",
     "text": "和猫打电话.gif\n\n完了感觉要变成云养猫频道了",
-    "views": 29,
+    "views": 58,
     "forwards": 0,
     "files": [
       {
