@@ -63453,7 +63453,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 186,
+    "views": 187,
     "forwards": 5,
     "media_group_id": 13846263111521349,
     "images": [
@@ -83047,7 +83047,7 @@
     "id": 6074,
     "date": "2025-07-31T16:04:35",
     "text": "为什么每次看到自己代码库里超级无敌蠢猫代码想要知道是哪个蠢猫写的进行 git blame 的时候都会 blame 到我自己 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 246,
+    "views": 247,
     "forwards": 2
   },
   {
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 6712,
+    "views": 6721,
     "forwards": 162,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86292,7 +86292,7 @@
     "id": 6324,
     "date": "2025-08-22T16:28:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n前几天开车回家的路上下暴雨堵车，打开了高速情报，发现我真的好喜欢好喜欢高速情报的声音，也好喜欢信号不稳定的时候的噪声，所以录了一段 qwq\n\n好想加点音乐做成一首曲子...",
-    "views": 199,
+    "views": 200,
     "forwards": 2,
     "files": [
       {
@@ -86313,7 +86313,7 @@
     "id": 6325,
     "date": "2025-08-22T17:10:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n刚才发了那个录音之后幽灵灵找到了这首曲子，好棒！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢幽灵灵）\n\n真的完美还原了那天晚上开着车在灯光和暴雨中漂流的气氛\n\n<a href=\"https://www.youtube.com/watch?v=coDqPuZXS9c\">YouTube MV</a>",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "reply": {
       "id": 6324,
@@ -86446,7 +86446,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 213,
+    "views": 214,
     "forwards": 3,
     "images": [
       {
@@ -86465,7 +86465,7 @@
     "id": 6335,
     "date": "2025-08-23T13:31:12",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n之前去静岡「茶の都」体验了磨抹茶，把一小袋茶叶放在这个石头工具的中心转圈圈磨成了抹茶粉\n\n今天买冰淇淋做了 DIY 抹茶冰淇淋！超好吃 qwq",
-    "views": 179,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 14047646978062029,
     "images": [
@@ -86545,7 +86545,7 @@
     "id": 6342,
     "date": "2025-08-24T00:01:54",
     "text": "给 oau 后端机器人写了一个 gpt5 早安 bot！（想法其实来源于每天早九的定时重启消息hhh）\n\n实现起来比预想要难，感觉想开启 gpt5 的脑洞让它输出随机无厘头的文字绕了好多圈圈。\n\n写了篇 <a href=\"https://aza.moe/blog?post=2025-08-24-%E6%97%A9%E5%AE%89%E6%9C%BA%E5%99%A8%E4%BA%BA\">writeup</a>，感兴趣欢迎读读",
-    "views": 179,
+    "views": 180,
     "forwards": 2,
     "media_group_id": 14047949714238109,
     "images": [
@@ -86585,7 +86585,7 @@
     "id": 6345,
     "date": "2025-08-24T10:29:38",
     "text": "打开了之前在冲绳水族馆买的气泡饮料，海蓝色的好好看（包装也好好看）\n\n喝起来味道像 ramune",
-    "views": 164,
+    "views": 166,
     "forwards": 0,
     "images": [
       {
@@ -86604,7 +86604,7 @@
     "id": 6346,
     "date": "2025-08-24T10:39:45",
     "text": "介绍一下我的新室友",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "images": [
       {
@@ -86624,7 +86624,7 @@
     "id": 6348,
     "date": "2025-08-24T10:51:00",
     "text": "一些东京港区日常的景色\n\n（第一次开 hdr 给图片调色，不知道在非 hdr 设备上看会不会怪怪的）",
-    "views": 167,
+    "views": 168,
     "forwards": 1,
     "media_group_id": 14048261284535165,
     "images": [
@@ -86674,7 +86674,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 176,
+    "views": 177,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -86714,7 +86714,7 @@
     "id": 6355,
     "date": "2025-08-24T15:38:18",
     "text": "有点想做一个拉面排行榜 / tier list 之类的 qwq",
-    "views": 177,
+    "views": 179,
     "forwards": 0,
     "reply": {
       "id": 6352,
@@ -86726,7 +86726,7 @@
     "id": 6358,
     "date": "2025-08-25T16:47:41",
     "text": "工作要和同事抢计算资源好累...\n\n现在人多了，本社 lab 上一个月里可能只有几个小时会有空闲 gpu，社外集群里本组分区排满了队，共享分区跑几分钟就被 preempt...\n\n这要怎么做事情嘛",
-    "views": 139,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -86745,8 +86745,8 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 140,
-    "forwards": 2,
+    "views": 152,
+    "forwards": 3,
     "images": [
       {
         "width": 1616,
@@ -86764,7 +86764,7 @@
     "id": 6360,
     "date": "2025-08-26T13:20:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n达成成就：参加居酒派对（飲み会）完全没有喝酒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<del>达成成就：明明餐桌上有吃不完的食物结果因为一直在聊天没吃饱回家之后又买了鯛焼</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 59,
+    "views": 86,
     "forwards": 1,
     "media_group_id": 14049715294488173,
     "images": [
@@ -86839,5 +86839,47 @@
         "thumb": "media/6366.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 6368,
+    "date": "2025-08-26T14:41:38",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鯛焼！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
+    "views": 61,
+    "forwards": 1,
+    "media_group_id": 14049754386902813,
+    "images": [
+      {
+        "width": 491,
+        "height": 418,
+        "date": "2025-08-26T14:41:38",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-26_14-41-38.jpg",
+        "url": "media/6367.jpg",
+        "size": 63252,
+        "thumb": "media/6367.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-26T13:34:15",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-26_13-34-15.jpg",
+        "url": "media/6368.jpg",
+        "size": 411459,
+        "thumb": "media/6368.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6369,
+    "date": "2025-08-26T15:49:49",
+    "text": "以及 听做 AI 的同事用各种 AI 术语讲他们刚生下来和还没生下来的孩子感觉怪怪的\n\n还有人和大家讲在教他的两三岁小孩 markov chain，好可怕\n\n所以我依然是整个房间里最小的... 他们在讨论让孩子从很小开始学英语会不会让日语说不好，<del>然后我和他们聊因为被从小教英语而中文说不好的亲身经历</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及还见到了之前 telegram 上和我搭话还打 maimai 的神秘同事！世界好小",
+    "views": 52,
+    "forwards": 2,
+    "reply": {
+      "id": 6360,
+      "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n达成成就：参加居酒派对（飲み会）完全没有喝酒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<del>达成成就：明明餐桌上有吃不完的食物结果因为一直在聊天没吃饱回家之后又买了鯛焼</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
+      "thumb": "media/6360.jpg_thumb.jpg"
+    }
   }
 ]
