@@ -65635,7 +65635,7 @@
     "id": 4768,
     "date": "2024-12-17T10:44:01",
     "text": "写了一个全彩的数回 web 游戏，可以用数回的线条画像素画了！到现在一共设计了四个谜题：\n\n7x7 <a href=\"https://slither.hydev.org/?puzzle=heart\">心心</a>\n16x16 <a href=\"https://slither.hydev.org/?puzzle=blahaj\">鲨鲨</a>\n40x40 魔法猫猫 ( <a href=\"https://slither.hydev.org/?puzzle=meow\">一般</a> | <a href=\"https://slither.hydev.org/?puzzle=meow-hardcore\">硬核</a> )\n\n控制难度比想象中的难好多，其实设计出来的第一个谜题是硬核猫猫，写题的时候觉得这里那里都想删，dfs 能解出来就行了吧... 结果发现自己解不出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 还是重新做了（然后好像又太简单了 悲\n\n总之欢迎来玩欢迎反馈喵，也可以用<a href=\"https://slither.hydev.org/?edit=1&size=20\">编辑器</a>设计上传自己的数回哦 qwq <a href=\"##谜题\">#谜题</a>",
-    "views": 158,
+    "views": 159,
     "forwards": 6,
     "reply": {
       "id": 4766,
@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5599,
+    "views": 5600,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85380,7 +85380,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 769,
+    "views": 770,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 6691,
+    "views": 6696,
     "forwards": 162,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85437,7 +85437,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 363,
+    "views": 364,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -85537,7 +85537,7 @@
     "id": 6267,
     "date": "2025-08-18T16:13:28",
     "text": "离开之后还遇到乐队成员了\n\n具体是，我们看完去旁边的商场吃面，然后这位拉着一个舞台摆饰叶子伸出一半的行李箱在我旁边坐下来...\n\n...并没有敢搭话 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（更多是不想打扰到别人的生活啦）",
-    "views": 315,
+    "views": 316,
     "forwards": 0,
     "media_group_id": 14044268870693797,
     "images": [
@@ -85874,7 +85874,7 @@
     "id": 6292,
     "date": "2025-08-21T02:07:56",
     "text": "想要 Google AI 的强大功能触手 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 217,
+    "views": 219,
     "forwards": 4,
     "images": [
       {
@@ -86674,7 +86674,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 171,
+    "views": 172,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -86714,7 +86714,7 @@
     "id": 6355,
     "date": "2025-08-24T15:38:18",
     "text": "有点想做一个拉面排行榜 / tier list 之类的 qwq",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "reply": {
       "id": 6352,
@@ -86726,7 +86726,7 @@
     "id": 6358,
     "date": "2025-08-25T16:47:41",
     "text": "工作要和同事抢计算资源好累...\n\n现在人多了，本社 lab 上一个月里可能只有几个小时会有空闲 gpu，社外集群里本组分区排满了队，共享分区跑几分钟就被 preempt...\n\n这要怎么做事情嘛",
-    "views": 130,
+    "views": 132,
     "forwards": 1,
     "images": [
       {
@@ -86745,7 +86745,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 113,
+    "views": 121,
     "forwards": 2,
     "images": [
       {
