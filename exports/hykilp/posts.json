@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5601,
+    "views": 5602,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85380,7 +85380,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 774,
+    "views": 775,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 6796,
+    "views": 6805,
     "forwards": 162,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85437,7 +85437,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 371,
+    "views": 372,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -85537,7 +85537,7 @@
     "id": 6267,
     "date": "2025-08-18T16:13:28",
     "text": "离开之后还遇到乐队成员了\n\n具体是，我们看完去旁边的商场吃面，然后这位拉着一个舞台摆饰叶子伸出一半的行李箱在我旁边坐下来...\n\n...并没有敢搭话 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（更多是不想打扰到别人的生活啦）",
-    "views": 320,
+    "views": 321,
     "forwards": 0,
     "media_group_id": 14044268870693797,
     "images": [
@@ -86112,7 +86112,7 @@
     "id": 6311,
     "date": "2025-08-21T05:17:36",
     "text": "经过野守的时候看到他们在举办野守祭り，就去凑凑热闹，看到了比上次更大规模的花火大会！\n\n拍到了更好看的照片，还有一张手抖出奇迹 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n不过真的在考虑下次去花火大会不带相机了...这两次太在意拍照片，结果看到的花火全都是透过相机的画幅看到的，自己反而什么都没看到 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 14046027654578013,
     "images": [
@@ -86227,7 +86227,7 @@
     "id": 6321,
     "date": "2025-08-21T17:07:32",
     "text": "发布了 hyfetch 第一个 rust 重写之后的正式版本！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n（感谢 <a href=\"https://github.com/teohhanhui\">@teohhanhui</a> 帮忙 RIIR！）",
-    "views": 289,
+    "views": 290,
     "forwards": 5,
     "reply": {
       "id": 4790,
@@ -86446,7 +86446,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 232,
+    "views": 233,
     "forwards": 3,
     "images": [
       {
@@ -86465,7 +86465,7 @@
     "id": 6335,
     "date": "2025-08-23T13:31:12",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n之前去静岡「茶の都」体验了磨抹茶，把一小袋茶叶放在这个石头工具的中心转圈圈磨成了抹茶粉\n\n今天买冰淇淋做了 DIY 抹茶冰淇淋！超好吃 qwq",
-    "views": 200,
+    "views": 201,
     "forwards": 0,
     "media_group_id": 14047646978062029,
     "images": [
@@ -86545,7 +86545,7 @@
     "id": 6342,
     "date": "2025-08-24T00:01:54",
     "text": "给 oau 后端机器人写了一个 gpt5 早安 bot！（想法其实来源于每天早九的定时重启消息hhh）\n\n实现起来比预想要难，感觉想开启 gpt5 的脑洞让它输出随机无厘头的文字绕了好多圈圈。\n\n写了篇 <a href=\"https://aza.moe/blog?post=2025-08-24-%E6%97%A9%E5%AE%89%E6%9C%BA%E5%99%A8%E4%BA%BA\">writeup</a>，感兴趣欢迎读读",
-    "views": 201,
+    "views": 202,
     "forwards": 2,
     "media_group_id": 14047949714238109,
     "images": [
@@ -86585,7 +86585,7 @@
     "id": 6345,
     "date": "2025-08-24T10:29:38",
     "text": "打开了之前在冲绳水族馆买的气泡饮料，海蓝色的好好看（包装也好好看）\n\n喝起来味道像 ramune",
-    "views": 180,
+    "views": 181,
     "forwards": 0,
     "images": [
       {
@@ -86674,7 +86674,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 194,
+    "views": 195,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -86714,7 +86714,7 @@
     "id": 6355,
     "date": "2025-08-24T15:38:18",
     "text": "有点想做一个拉面排行榜 / tier list 之类的 qwq",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "reply": {
       "id": 6352,
@@ -86726,7 +86726,7 @@
     "id": 6358,
     "date": "2025-08-25T16:47:41",
     "text": "工作要和同事抢计算资源好累...\n\n现在人多了，本社 lab 上一个月里可能只有几个小时会有空闲 gpu，社外集群里本组分区排满了队，共享分区跑几分钟就被 preempt...\n\n这要怎么做事情嘛",
-    "views": 170,
+    "views": 171,
     "forwards": 1,
     "images": [
       {
@@ -86844,7 +86844,7 @@
     "id": 6368,
     "date": "2025-08-26T14:41:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鯛焼！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "media_group_id": 14049754386902813,
     "images": [
@@ -86874,7 +86874,7 @@
     "id": 6369,
     "date": "2025-08-26T15:49:49",
     "text": "以及 听做 AI 的同事用各种 AI 术语讲他们刚生下来和还没生下来的孩子感觉怪怪的\n\n还有人和大家讲在教他的两三岁小孩 markov chain，好可怕\n\n所以我依然是整个房间里最小的... 他们在讨论让孩子从很小开始学英语会不会让日语说不好，<del>然后我和他们聊因为被从小教英语而中文说不好的亲身经历</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及还见到了之前 telegram 上和我搭话还打 maimai 的神秘同事！世界好小",
-    "views": 189,
+    "views": 190,
     "forwards": 6,
     "reply": {
       "id": 6360,
@@ -86885,8 +86885,8 @@
   {
     "id": 6370,
     "date": "2025-08-26T16:56:31",
-    "text": "syama 捡了一只猫回家，但是毫无准备，所以我赶快美团买了些零食和工具送过去，现在猫猫看起来还不错，不知道猫怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 171,
+    "text": "syama 捡了一只猫回家，但是毫无准备，所以我赶快美团买了些零食和工具送过去，现在猫猫看起来还不错，不知道猫怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> <a href=\"##猫\">#猫</a>",
+    "views": 173,
     "forwards": 4,
     "media_group_id": 14049819133094989,
     "images": [
@@ -86935,7 +86935,8 @@
   {
     "id": 6374,
     "date": "2025-08-26T18:04:42",
-    "views": 155,
+    "text": "<a href=\"##猫\">#猫</a>",
+    "views": 158,
     "forwards": 1,
     "files": [
       {
@@ -86956,8 +86957,8 @@
   {
     "id": 6375,
     "date": "2025-08-26T18:06:50",
-    "text": "和猫打电话.gif\n\n完了感觉要变成云养猫频道了",
-    "views": 167,
+    "text": "和猫打电话.gif\n\n完了感觉要变成云养猫频道了 <a href=\"##猫\">#猫</a>",
+    "views": 170,
     "forwards": 1,
     "files": [
       {
@@ -86979,7 +86980,7 @@
     "id": 6377,
     "date": "2025-08-27T01:28:01",
     "text": "……然后谷歌前几天<a href=\"https://android.googleapis.com/attestation/status\">又撤销了一批公开 keybox</a>，现在 play integrity 又过不去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过买手机的时候也没有期待可以过啦，至少现在还没有需要 play integrity 的 app 是不能被平替的",
-    "views": 158,
+    "views": 164,
     "forwards": 2,
     "reply": {
       "id": 6163,
@@ -86991,7 +86992,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 152,
+    "views": 173,
     "forwards": 3,
     "images": [
       {
@@ -87003,6 +87004,56 @@
         "url": "media/6378.jpg",
         "size": 233449,
         "thumb": "media/6378.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6379,
+    "date": "2025-08-27T14:08:29",
+    "text": "让 syama 给猫猫进行了体检，看着视频我都好害怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n-CN￥300，比想象中便宜，不过之后还要打疫苗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n以及知道了是只很小的男猫，预估年龄两个月 qwq",
+    "views": 26,
+    "forwards": 0,
+    "media_group_id": 14050429674378829,
+    "images": [
+      {
+        "width": 1829,
+        "height": 1080,
+        "date": "2025-08-27T14:08:28",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-27_14-08-28.jpg",
+        "url": "media/6379.jpg",
+        "size": 137106,
+        "thumb": "media/6379.jpg_thumb.jpg"
+      },
+      {
+        "width": 1846,
+        "height": 1080,
+        "date": "2025-08-27T14:08:28",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-27_14-08-28.jpg",
+        "url": "media/6380.jpg",
+        "size": 144022,
+        "thumb": "media/6380.jpg_thumb.jpg"
+      },
+      {
+        "width": 960,
+        "height": 1110,
+        "date": "2025-08-27T14:08:28",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-27_14-08-28.jpg",
+        "url": "media/6381.jpg",
+        "size": 170532,
+        "thumb": "media/6381.jpg_thumb.jpg"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2025-08-27T14:08:28",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-27_14-08-28.jpg",
+        "url": "media/6382.jpg",
+        "size": 148665,
+        "thumb": "media/6382.jpg_thumb.jpg"
       }
     ]
   }
