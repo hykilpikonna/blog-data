@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5603,
+    "views": 5604,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -83845,7 +83845,7 @@
     "id": 6128,
     "date": "2025-08-10T13:42:43",
     "text": "暴カ団 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>\n\n暴カ団子大家族 🍡",
-    "views": 218,
+    "views": 220,
     "forwards": 1,
     "images": [
       {
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 6906,
+    "views": 6911,
     "forwards": 164,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86227,7 +86227,7 @@
     "id": 6321,
     "date": "2025-08-21T17:07:32",
     "text": "发布了 hyfetch 第一个 rust 重写之后的正式版本！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n（感谢 <a href=\"https://github.com/teohhanhui\">@teohhanhui</a> 帮忙 RIIR！）",
-    "views": 292,
+    "views": 293,
     "forwards": 5,
     "reply": {
       "id": 4790,
@@ -86992,7 +86992,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 255,
+    "views": 259,
     "forwards": 3,
     "images": [
       {
@@ -87011,7 +87011,7 @@
     "id": 6379,
     "date": "2025-08-27T14:08:29",
     "text": "让 syama 给猫猫进行了体检，看着视频我都好害怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n-CN￥300，比想象中便宜，不过之后还要打疫苗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n以及知道了是只很小的男猫，预估年龄两个月 qwq",
-    "views": 152,
+    "views": 153,
     "forwards": 1,
     "media_group_id": 14050429674378829,
     "images": [
@@ -87061,7 +87061,7 @@
     "id": 6383,
     "date": "2025-08-28T10:16:29",
     "text": "一些 out of context 好看照片 📷",
-    "views": 101,
+    "views": 109,
     "forwards": 1,
     "media_group_id": 14051009513327653,
     "images": [
@@ -87171,7 +87171,7 @@
     "id": 6393,
     "date": "2025-08-28T10:42:43",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n之前那个宝可梦x初音ミク Project Voltage 的曲子里面最喜欢的果然还是 sasakure 老师的\n\n<a href=\"https://www.youtube.com/watch?v=pykE4kMhUUU\">Youtube MV</a>",
-    "views": 90,
+    "views": 96,
     "forwards": 1,
     "files": [
       {
@@ -87193,7 +87193,7 @@
     "id": 6394,
     "date": "2025-08-28T14:23:47",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n网易云随机到了小时候特别喜欢的曲子《アヤノの幸福理論》现在看着 MV 依然会哭\n\n♪ 思い出してみよう あの好きだった言葉\n♪ 幸せってなんだか不思議\n♪ 明日のこと、好きになれる\n\n小学初中的时候好喜欢阳炎 project 的，动画还是音乐 MV 还是人设都好喜欢，还画过某エネミク二创（翻不到了）\n\n记得期待过阳炎 reboot，但是似乎因为角色的版权被发行商收走，じん拿不回来版权就没有继续下去了，真是太可惜了... <span class=\"spoiler\"><span>大人的世界真的好无情</span></span>\n\n<a href=\"https://youtu.be/pLYKKC-EpjA\">Youtube MV</a> | <a href=\"https://www.bilibili.com/video/av545040/\">Bilibili 熟肉</a>",
-    "views": 66,
+    "views": 78,
     "forwards": 1,
     "files": [
       {
