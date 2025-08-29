@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 6948,
+    "views": 6956,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86446,7 +86446,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 256,
+    "views": 257,
     "forwards": 5,
     "images": [
       {
@@ -87171,7 +87171,7 @@
     "id": 6393,
     "date": "2025-08-28T10:42:43",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n之前那个宝可梦x初音ミク Project Voltage 的曲子里面最喜欢的果然还是 sasakure 老师的\n\n<a href=\"https://www.youtube.com/watch?v=pykE4kMhUUU\">Youtube MV</a>",
-    "views": 103,
+    "views": 104,
     "forwards": 1,
     "files": [
       {
@@ -87193,7 +87193,7 @@
     "id": 6394,
     "date": "2025-08-28T14:23:47",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n网易云随机到了小时候特别喜欢的曲子《アヤノの幸福理論》现在看着 MV 依然会哭\n\n♪ 思い出してみよう あの好きだった言葉\n♪ 幸せってなんだか不思議\n♪ 明日のこと、好きになれる\n\n小学初中的时候好喜欢阳炎 project 的，动画还是音乐 MV 还是人设都好喜欢，还画过某エネミク二创（翻不到了）\n\n记得期待过阳炎 reboot，但是似乎因为角色的版权被发行商收走，じん拿不回来版权就没有继续下去了，真是太可惜了... <span class=\"spoiler\"><span>大人的世界真的好无情</span></span>\n\n<a href=\"https://youtu.be/pLYKKC-EpjA\">Youtube MV</a> | <a href=\"https://www.bilibili.com/video/av545040/\">Bilibili 熟肉</a>",
-    "views": 88,
+    "views": 90,
     "forwards": 1,
     "files": [
       {
