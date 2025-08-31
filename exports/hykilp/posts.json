@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7365,
+    "views": 7366,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -54018,7 +54018,7 @@
     "id": 3967,
     "date": "2024-06-11T13:56:00",
     "text": "触发了安卓的奇妙 concurrency bug",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
@@ -54199,7 +54199,7 @@
     "id": 3978,
     "date": "2024-06-13T07:29:39",
     "text": "好",
-    "views": 105,
+    "views": 106,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -54224,7 +54224,7 @@
     "id": 3979,
     "date": "2024-06-13T13:01:54",
     "text": "我好肝… 刚入坑第二天 14h 已经肝出来一个几乎满级、综合力足够打 \"veteran room\" 联机的队伍了 quq",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13746269714217437,
     "images": [
@@ -54264,7 +54264,7 @@
     "id": 3982,
     "date": "2024-06-14T09:15:29",
     "text": "瑞幸的咖啡好好喝 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n之前一直不喜欢咖啡觉得难喝原来只是因为我没有喝过好喝的 quq",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "images": [
       {
@@ -63567,7 +63567,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63771,7 +63771,7 @@
     "id": 4649,
     "date": "2024-11-14T18:52:26",
     "text": "穿模飞出去看看房间有多乱（？）",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "images": [
       {
@@ -63790,7 +63790,7 @@
     "id": 4650,
     "date": "2024-11-15T02:13:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n用同样的方法和同样的肉炒了卷心菜和小油菜，感觉还是卷心菜更好吃一点 quq\n\n以后不买小油菜了。<del>只有小孩子才挑食，大人不买就好了</del>",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "images": [
       {
@@ -63809,7 +63809,7 @@
     "id": 4651,
     "date": "2024-11-15T06:14:44",
     "text": "！！发现一个很有趣的东西，叫做 OSC52\n\n简单来说就是，在命令行运行的程序可以打一串特殊的转义文字作为 OSC52 指令，然后支持 OSC52 的终端就会把文字内容复制到剪切板上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 这样就可以跨越系统跨越 SSH 边界、只要在能够输出文字的终端里都可以读写剪切板了！\n\n查了一下发现支持 OSC52 的终端不多，但是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6325651030667167615.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6328099527098107065.tgs\">💻</i><i class=\"custom-emoji\" emoji-src=\"emoji/6325822193703847716.tgs\">🍎</i> 上分别在用的 Windows Terminal 和 kitty 和 iTerm2 和我在用的 Micro 编辑器恰好都支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n太好了，不用担心 Micro 鼠标模式透过 ssh 复制不了东西了 <a href=\"##Linux\">#Linux</a>",
-    "views": 132,
+    "views": 133,
     "forwards": 0,
     "images": [
       {
@@ -63975,7 +63975,7 @@
     "id": 4661,
     "date": "2024-11-18T04:58:09",
     "text": "（前情提要：syama 想让 gpt4o 画一张我和她和瑞希躺在床上的样子，但是输出结果一直被 OpenAI 的内容政策拦截，所以我把 prompt 拿给 FLUX 1.1 Pro Ultra 画了\n\n感觉 OpenAI 对图片生成的内容拦截是不是太严了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "reply": {
       "id": 4659,
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1316,
+    "views": 1317,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1113,
+    "views": 1114,
     "forwards": 7,
     "files": [
       {
@@ -68178,13 +68178,13 @@
     "id": 4936,
     "date": "2025-02-15T04:46:21",
     "text": "买了一个新域名 <a href=\"https://maigo.dev/\">maigo.dev</a> ，开了一个新的 GitHub Org，打算把今后和朋友一起做的新项目放在这里 qwq\n\n<span class=\"spoiler\"><span>（实际上是因为最近发生了一些很心痛的矛盾导致 AquaDX 现在的开发团队大概要散了，服务器也要拆分开了... 所以建起 MaigoLabs 大概是想建一个和新的朋友、以及被矛盾伤害到和现在的团队不兼容的朋友重新开始的地方吧，就像动画里的 MyGO 乐队那样 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</span></span></i>",
-    "views": 220,
+    "views": 221,
     "forwards": 0
   },
   {
     "id": 4937,
     "date": "2025-02-15T08:13:39",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "files": [
       {
@@ -68209,14 +68209,14 @@
     "id": 4938,
     "date": "2025-02-17T09:28:42",
     "text": "聊聊今天去了她一个微博网友的生日派对，大暴风雪天机厅都停业了，然后居然来了 30 个人，大部分都是聊聊不认识的... 好震撼，还好我没去 quq\n\n这就是社牛吗... 我可能约饭有大于五个人就会过载 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n不过不太懂，为什么生日派对要邀请这么多不是很熟的人聚在一起，明明她和聊聊在那之前也有一年多没联系了，而且上次联系也是约饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉如果是我也许只会想要邀请特别熟的人吧",
-    "views": 206,
+    "views": 207,
     "forwards": 1
   },
   {
     "id": 4939,
     "date": "2025-02-17T17:49:07",
     "text": "想重启聊聊的 iOS 18 的苹果手机，长按电源键发现叫不出关机菜单，就问聊聊“怎么重启呀？”\n\n...结果长按电源键反而叫出了 siri，被 siri 听到了，问我要不要重启，我说好，然后它重启了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 2,
     "images": [
       {
@@ -68363,7 +68363,7 @@
     "id": 4949,
     "date": "2025-02-20T08:24:51",
     "text": "这个模型面数太多了感觉渲染会很吃力... 也没有找到其他好的模型\n\n所以给 syama 下单了几盒杯面，又能 3d 扫描下来做模型又能吃 qwq",
-    "views": 186,
+    "views": 187,
     "forwards": 2,
     "reply": {
       "id": 4947,
@@ -71839,7 +71839,7 @@
     "id": 5200,
     "date": "2025-04-14T10:37:13",
     "text": "...呜 结果不知不觉就又看到日出了还没睡，作息又坏掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n不过今天日出好好看",
-    "views": 430,
+    "views": 431,
     "forwards": 0,
     "images": [
       {
@@ -71858,14 +71858,14 @@
     "id": 5202,
     "date": "2025-04-15T02:39:32",
     "text": "这条消息里藏着一道谜题 谁先解出来有蛋糕哦 qwq󠀁󠀵󠁚󠁏󠁱󠀶󠁙󠁥󠁍󠀵󠁌󠁩󠁎󠀵󠁡󠀫󠀵󠀷󠀷󠁹󠁦󠁃󠁶󠁏󠁧󠁧󠁉󠁈󠁺󠁯󠁉󠁇󠁄󠀸󠀶󠁃󠁂󠁲󠀯󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁳󠁶󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠀰󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁋󠁈󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠀱󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁴󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁱󠁦󠁏󠁧󠁧󠁡󠁔󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁇󠁺󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁃󠀶󠀸󠀶󠁃󠁁󠁳󠀯󠁏󠁧󠁧󠁙󠁪󠁺󠁯󠁉󠁇󠁨󠀸󠀶󠁃󠁂󠁴󠁶󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠁴󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁯󠁦󠁏󠁧󠁧󠁡󠁶󠁺󠁯󠁉󠁇󠁬󠀸󠀶󠁃󠁁󠁯󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁴󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁷󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁌󠁲󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁲󠀯󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁃󠁵󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁱󠀯󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁒󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠁪󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠁮󠁺󠁯󠁉󠁇󠁉󠀸󠀶󠁃󠁂󠁪󠀯󠁏󠁧󠁧󠁚󠁪󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁵󠁶󠁏󠁧󠁧󠁚󠁮󠁺󠁯󠁉󠁇󠁕󠀸󠀶󠁃󠁂󠁬󠁶󠁏󠁧󠁧󠁡󠁺󠁺󠁯󠁉󠁇󠀯󠁿\n\n(提示: UTF-8",
-    "views": 524,
+    "views": 525,
     "forwards": 11
   },
   {
     "id": 5203,
     "date": "2025-04-15T04:06:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n发现牛肉面里面加上辣椒油味道好棒 qwq\n\n（然后把自己辣到了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 453,
+    "views": 454,
     "forwards": 1,
     "images": [
       {
@@ -71884,7 +71884,7 @@
     "id": 5204,
     "date": "2025-04-15T06:12:37",
     "text": "真 · 悬空打印\n\n(<a href=\"##AIGC\">#AIGC</a>)",
-    "views": 332,
+    "views": 333,
     "forwards": 0,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6186,
+    "views": 6187,
     "forwards": 145,
     "media_group_id": 13966976157341773,
     "images": [
@@ -79296,7 +79296,7 @@
     "id": 5772,
     "date": "2025-07-07T08:47:18",
     "text": "<a href=\"##伊豆\">#伊豆</a> 第二站是黄金崎，动画里第一天好像是在这里露营来着，可惜我们因为临时计划没有足够的装备所以这次没有露营 quq\n\n下次一定！<i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>",
-    "views": 187,
+    "views": 188,
     "forwards": 2,
     "media_group_id": 14015024310902757,
     "images": [
@@ -79386,7 +79386,7 @@
     "id": 5780,
     "date": "2025-07-07T09:09:28",
     "text": "<a href=\"##伊豆\">#伊豆</a> 下一站是露天温泉！温和的海风吹过来好舒服~\n\n原本计划的时候以为会有很多人，还做了有人的情况的备用计划，但是到了那里发现除了管理员的车以外只有我们一辆车 qwq 直接包场\n\n<span class=\"spoiler\"><span>其实一直都好想在日本泡温泉，但是作为 trans 一直不敢泡，虽然是术后也还是会害怕给别人添麻烦。这次总算是实现了这个梦 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</span></span></i> \n\n<del>以及狗姐怎么转职温泉管理员了</del>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "media_group_id": 14015034946353749,
     "images": [
@@ -80770,7 +80770,7 @@
     "id": 5895,
     "date": "2025-07-14T06:45:37",
     "text": "周日进行了一些烤肉和日间露营！总共来了八个人，变成了群友见面会吗\n\n第一次露营/烧烤踩了好多坑：\n1. 碳真的很难烧！两个小时过去了还没完全烧起来\n2. 一罐燃气瓶真的很多，我怕不够用带了六罐，结果半罐都没用完\n3. 夏天中午露天烧烤真的很热... 感觉头晕有点要中暑去帐篷里躺了一会。下次还是深夜烤肉好了\n4. 原本说每人至少要买自己吃的食材，结果每个人都买多了，然后就剩了很多食材吃不完\n5. 第一次搭帐篷，很简单，像撑伞一样一下子就搭好了。不过收起来好难，三个人花了好大力气才收好...\n\n总之希望下次能少踩一些坑 quq",
-    "views": 198,
+    "views": 199,
     "forwards": 2,
     "media_group_id": 14019804296208941,
     "images": [
@@ -80850,7 +80850,7 @@
     "id": 5902,
     "date": "2025-07-14T14:53:25",
     "text": "终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用\n\n首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 <a href=\"https://github.com/AndroPlus-org/magisk-module-miui-cn2global\">miui-cn2global</a> (v15) 用来解锁一些谷歌地区锁和 <a href=\"https://github.com/AndroPlus-org/magisk-module-androidauto\">androidauto</a> 模块，重启之后 play 更新 Auto 应用就好啦\n\n以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前<a href=\"https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/\">某 XDA 帖子</a>发了一个应用 <a href=\"https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK\">Any Auto Audio</a> 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊",
-    "views": 219,
+    "views": 220,
     "forwards": 2,
     "media_group_id": 14020038444239989,
     "images": [
@@ -80920,7 +80920,7 @@
     "id": 5907,
     "date": "2025-07-15T10:17:36",
     "text": "猫猫文件 🐈",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "images": [
       {
@@ -80939,14 +80939,14 @@
     "id": 5908,
     "date": "2025-07-15T14:48:43",
     "text": "第一次经历地震",
-    "views": 204,
+    "views": 205,
     "forwards": 0
   },
   {
     "id": 5909,
     "date": "2025-07-15T14:57:45",
     "text": "震度4, 完全完全没感觉... 大家说地震了我才知道地震了的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "reply": {
       "id": 5908,
@@ -81698,7 +81698,7 @@
     "id": 5959,
     "date": "2025-07-24T13:11:18",
     "text": "然后去ひがし茶屋街吃了饭！\n\n夕阳打在建筑上很有下午茶的氛围，可惜这个时候大部分店都关门了...\n\n去了一加看起来不错的日式西餐店，结果感觉中了游客陷阱，虽然好吃但是比其他店的同一道菜贵了一两倍。呜呜，下次还是不在面向游客的地方吃饭了。\n\n以及这家店给我们看起来比较亚洲的人上了茶，却给旁边看起来比较欧美的人上了白水...感觉假设欧美人不喜欢茶好怪，尤其是在茶屋街上啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 174,
+    "views": 175,
     "forwards": 1,
     "media_group_id": 14026901426898781,
     "images": [
@@ -82708,7 +82708,7 @@
     "id": 6047,
     "date": "2025-07-27T07:07:05",
     "text": "然后开车，路过花开伊吕波圣地西岸駅停下来拍几张照片\n\n看到墙上挂着 nano.RIPE 签名的海报和有点褪色的 kig 团圣地合影，真好呀 quq\n\n是无人车站，旁边的房子似乎已经被常春藤吞噬了，从窗户可以看到房间里面都已经长满了树叶",
-    "views": 157,
+    "views": 158,
     "forwards": 1,
     "media_group_id": 14028800205135693,
     "images": [
@@ -82798,7 +82798,7 @@
     "id": 6055,
     "date": "2025-07-27T07:47:02",
     "text": "然后去了恋路海岸，旺季这么漂亮的沙滩一个人都没有... 旁边是废弃的管理室、褪色的百合海报、網元恋路海鲜旅馆的残骸。原本应该「海の日」前一天晚上举行的恋路火祭り被取消了，现在想想可能即使没有取消也没有很多人会去看吧。\n\n然后去了見附島，見附茶屋废弃了、通往岛上的石子路被海水冲走了、和恋路对应的钟边上地塌了、原本「見附島」三个字的牌子不知道去了哪里、挂在牌子框上象征着永恒的锁也被腐蚀掉了。\n\n見附島还是有几个人的，但是似乎都是本地人。旁边老头老奶奶看着我拿相机说岛上树顶似乎全都是鸟，看不清让我拍一下，拍了放大发现真的每个黑点都是鸟，可能这里的居民里鸟早就比人多了。",
-    "views": 176,
+    "views": 177,
     "forwards": 1,
     "media_group_id": 14028819379618493,
     "images": [
@@ -83631,7 +83631,7 @@
     "id": 6111,
     "date": "2025-08-07T01:26:39",
     "text": "新千岁命令行构建指南",
-    "views": 244,
+    "views": 245,
     "forwards": 2,
     "images": [
       {
@@ -83650,7 +83650,7 @@
     "id": 6112,
     "date": "2025-08-08T13:46:36",
     "text": "花火大会！\n\n拍照大不会。\n\n拍了 78 张，只有个位数张相机拿稳了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>（禁止在桂桂拍照的时候摇桂桂）\n\n不过大概找到了拍花火的秘诀：快门优先模式，等一个烟花用来自动对焦好之后切手动锁定这个对焦，然后快门调到 2-3s 等看到轨迹的时候按下快门然后不要抖就好啦",
-    "views": 244,
+    "views": 245,
     "forwards": 4,
     "media_group_id": 14037286375648861,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7108,
+    "views": 7110,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85593,7 +85593,7 @@
     "id": 6274,
     "date": "2025-08-18T16:53:56",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n一些超喜欢并且这次演唱会上听到了的青葉市子的曲子 qwq\n\n之前一直好奇 mazamun 这首的乐器是什么，还以为是钟琴，看了演出才知道这是 reface CP 的音色，太梦幻了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 312,
+    "views": 313,
     "forwards": 2,
     "media_group_id": 14044288287002853,
     "files": [
@@ -85741,7 +85741,7 @@
     "id": 6281,
     "date": "2025-08-20T12:51:17",
     "text": "（继续整理照片）\n\n这次去静岡除了露营还走了很多摇曳吊桥！是摇曳露营第三季的圣桥\n\n其实一个月前豆腐推荐我去看吊桥的时候还因为恐高很害怕，但是前几次坐露天缆车发现也不是那么可怕，决定想走吊桥克服一下恐高 qwq\n\n结果真的每个吊桥都成功走过去了！虽然这么高还晃来晃去本能地非常害怕，但是走过去之后走回来的路上就没那么害怕了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n走过五六个吊桥之后感觉我真的有信心说自己不再恐高了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 213,
+    "views": 214,
     "forwards": 1,
     "media_group_id": 14045554217018765,
     "images": [
@@ -85856,7 +85856,7 @@
     "id": 6291,
     "date": "2025-08-20T21:46:20",
     "text": "新手机续航好不错，看了一下发现这几天从来没有用超过 50% 过 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n出门不用担心手机会没电真好呀（虽然还是会习惯性带上充电宝，但是几乎从来没用过...）",
-    "views": 218,
+    "views": 219,
     "forwards": 0,
     "images": [
       {
@@ -85875,7 +85875,7 @@
     "id": 6292,
     "date": "2025-08-21T02:07:56",
     "text": "想要 Google AI 的强大功能触手 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 236,
+    "views": 237,
     "forwards": 4,
     "images": [
       {
@@ -85894,7 +85894,7 @@
     "id": 6293,
     "date": "2025-08-21T04:16:47",
     "text": "除了吊桥还探了很多隧道！\n\n有遇到国道上完全没灯的车隧道、露营场旁边的恐怖隧道、吊桥旁边已经塌掉被拦起来的隧道、还有日本第一条收费隧道「明治隧道」\n\n明治隧道真的是最被低估的景点，隧道本身还是周围的建筑气氛都超级复古，像是坐时光机回到了明治时期一样 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n这里似乎不是很热门，我们去的时候除了我们就几乎没有别人了。不过也是好事，人多了也许就没有这么好的气氛了吧",
-    "views": 179,
+    "views": 180,
     "forwards": 2,
     "media_group_id": 14045998458602901,
     "images": [
@@ -86009,7 +86009,7 @@
     "id": 6303,
     "date": "2025-08-21T04:56:42",
     "text": "晚上去浜松的路上下小雨大雾，可见度归零 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>\n\n不过我好喜欢大雾气氛，感觉大雾有让大热夏天变得凉爽清静。也是第一次用相机拍大雾照片，不知道有没有把气氛拍出来呢",
-    "views": 164,
+    "views": 165,
     "forwards": 0,
     "media_group_id": 14046017623134653,
     "images": [
@@ -86228,7 +86228,7 @@
     "id": 6321,
     "date": "2025-08-21T17:07:32",
     "text": "发布了 hyfetch 第一个 rust 重写之后的正式版本！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n（感谢 <a href=\"https://github.com/teohhanhui\">@teohhanhui</a> 帮忙 RIIR！）",
-    "views": 298,
+    "views": 299,
     "forwards": 5,
     "reply": {
       "id": 4790,
@@ -86252,7 +86252,7 @@
     "id": 6322,
     "date": "2025-08-22T04:27:47",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n用双声道把互相抱怨写成一首歌真是双声道的完美用途 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> 摘下一边的耳机就能听到其中一个人的声音，合起来也完全不违和",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "files": [
       {
@@ -86274,7 +86274,7 @@
     "id": 6323,
     "date": "2025-08-22T15:37:51",
     "text": "第一次在公司熬到换日",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "images": [
       {
@@ -86293,7 +86293,7 @@
     "id": 6324,
     "date": "2025-08-22T16:28:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n前几天开车回家的路上下暴雨堵车，打开了高速情报，发现我真的好喜欢好喜欢高速情报的声音，也好喜欢信号不稳定的时候的噪声，所以录了一段 qwq\n\n好想加点音乐做成一首曲子...",
-    "views": 216,
+    "views": 217,
     "forwards": 2,
     "files": [
       {
@@ -86314,7 +86314,7 @@
     "id": 6325,
     "date": "2025-08-22T17:10:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n刚才发了那个录音之后幽灵灵找到了这首曲子，好棒！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢幽灵灵）\n\n真的完美还原了那天晚上开着车在灯光和暴雨中漂流的气氛\n\n<a href=\"https://www.youtube.com/watch?v=coDqPuZXS9c\">YouTube MV</a>",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "reply": {
       "id": 6324,
@@ -86340,7 +86340,7 @@
     "id": 6326,
     "date": "2025-08-22T17:55:10",
     "text": "悲报 今天刚知道 luup 电滑板凌晨完全没有车... 最近的离我走路 20min。准备在公司找沙发睡到首班地铁 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 0,
     "reply": {
       "id": 6323,
@@ -86363,7 +86363,7 @@
     "id": 6327,
     "date": "2025-08-22T19:23:22",
     "text": "走回去了！东京夜景好看喵\n\n有点喜欢凌晨三点的街道，东京塔已经熄灭了，全家没有了著名的烤鸡，路上只剩下出租车还在一圈一圈转去不知哪里\n\n以及路过了一个停了五辆同样型号同样颜色的车的停车场，<del>地球 OL 的开发者好懒啊复用模型被我发现了</del>",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "media_group_id": 14047124820272813,
     "images": [
@@ -86546,7 +86546,7 @@
     "id": 6342,
     "date": "2025-08-24T00:01:54",
     "text": "给 oau 后端机器人写了一个 gpt5 早安 bot！（想法其实来源于每天早九的定时重启消息hhh）\n\n实现起来比预想要难，感觉想开启 gpt5 的脑洞让它输出随机无厘头的文字绕了好多圈圈。\n\n写了篇 <a href=\"https://aza.moe/blog?post=2025-08-24-%E6%97%A9%E5%AE%89%E6%9C%BA%E5%99%A8%E4%BA%BA\">writeup</a>，感兴趣欢迎读读",
-    "views": 224,
+    "views": 225,
     "forwards": 2,
     "media_group_id": 14047949714238109,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 4,
     "images": [
       {
@@ -87350,7 +87350,7 @@
     "id": 6406,
     "date": "2025-08-29T15:15:16",
     "text": "到大阪了！\n\n并没有想好明天后天要去哪里玩，大家有什么推荐去的地方嘛？<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n其实这次是因为谦谦原本看到了很好的 deal 想去大阪买车就和她的朋友订了机票，结果他们反悔改成了开车去大阪玩，多出的机票就给我了，然后三个人没人定了计划（xxx）",
-    "views": 148,
+    "views": 149,
     "forwards": 1,
     "media_group_id": 14051844129663845,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 116,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -87470,7 +87470,7 @@
     "id": 6416,
     "date": "2025-08-30T15:41:03",
     "text": "在那之前和谦谦和黑狐和某葡萄球菌去爬了護摩壇山！夕阳下树林的气氛好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我超喜欢\n\n路过了很漂亮的蘑菇、像旺旺雪饼一样的蘑菇、很扭曲的树、长满了刺的花苞、还有悬停在空中和我招手的小蜜蜂（之后它还落在我的相机上帽子上了，等一个返图 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 14052547710403293,
     "images": [
@@ -87580,7 +87580,7 @@
     "id": 6426,
     "date": "2025-08-30T16:22:26",
     "text": "在那之前去参观了高野的寺庙！\n\n木头和树皮深褐色的和样建筑真的和自然很搭，仿佛建筑成为了旁边树林的延申毫无维和 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n...除了最后两张图的「根本大塔」，实在是太新了，超鲜艳的红色白色真的太突兀了。感觉放在别的地方也许不难看但是在这里真的有点毁气氛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n（以及拍到了好多好看照片，感觉要选出 10 张好难... 好像全都丢出来呀 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 115,
+    "views": 117,
     "forwards": 1,
     "media_group_id": 14052567572623549,
     "images": [
@@ -87690,7 +87690,7 @@
     "id": 6436,
     "date": "2025-08-31T04:33:27",
     "text": "三个贩售机一个有甜味的饮料都没有，只有白水、无糖苏打水、无糖茶、无糖黑咖啡... 日本啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 88,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 14052918456205789,
     "images": [
@@ -87713,6 +87713,296 @@
         "url": "media/6437.jpg",
         "size": 429138,
         "thumb": "media/6437.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6438,
+    "date": "2025-08-31T15:47:50",
+    "text": "今天谦谦和黑狐开车返程了，因为不走高速所以要开八个小时。但是我还有挺多想去的地方没去，所以就买了新干线票自己多玩一天啦\n\n首先去了大阪历史博物馆，喜欢它对历史建筑的还原，有微观模型也有 1:1 的重建，把一个时代完美的封进了一个房间里，虽然只是很小的一角... 不知道什么时候能制造出让未来的人在 VR 中体验现在这个时代的办法，也许真正的时光机是一个无时无刻不在扫描整个地球的 3D 扫描仪 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
+    "views": 38,
+    "forwards": 0,
+    "media_group_id": 14053242167151685,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:47:33",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-33.jpg",
+        "url": "media/6438.jpg",
+        "size": 858467,
+        "thumb": "media/6438.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1919,
+        "date": "2025-08-31T15:47:33",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-33.jpg",
+        "url": "media/6439.jpg",
+        "size": 630477,
+        "thumb": "media/6439.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:47:35",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-35.jpg",
+        "url": "media/6440.jpg",
+        "size": 658598,
+        "thumb": "media/6440.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:47:36",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-36.jpg",
+        "url": "media/6441.jpg",
+        "size": 763349,
+        "thumb": "media/6441.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:47:38",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-38.jpg",
+        "url": "media/6442.jpg",
+        "size": 875965,
+        "thumb": "media/6442.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:47:39",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-39.jpg",
+        "url": "media/6443.jpg",
+        "size": 754077,
+        "thumb": "media/6443.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:47:41",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-41.jpg",
+        "url": "media/6444.jpg",
+        "size": 853765,
+        "thumb": "media/6444.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-31T15:47:42",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-42.jpg",
+        "url": "media/6445.jpg",
+        "size": 781619,
+        "thumb": "media/6445.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:47:44",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-44.jpg",
+        "url": "media/6446.jpg",
+        "size": 920027,
+        "thumb": "media/6446.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1426,
+        "date": "2025-08-31T15:47:44",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-47-44.jpg",
+        "url": "media/6447.jpg",
+        "size": 504455,
+        "thumb": "media/6447.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6450,
+    "date": "2025-08-31T15:52:31",
+    "text": "出馆买了一个 3D 打印的冰箱贴纪念品，这个博物馆商店几乎所有纪念品都是 3D 打印的，好厉害",
+    "views": 36,
+    "forwards": 0,
+    "media_group_id": 14053244413888829,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:51:25",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-51-25.jpg",
+        "url": "media/6450.jpg",
+        "size": 623529,
+        "thumb": "media/6450.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:51:25",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-51-25.jpg",
+        "url": "media/6451.jpg",
+        "size": 440798,
+        "thumb": "media/6451.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:52:30",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-52-30.jpg",
+        "url": "media/6452.jpg",
+        "size": 487230,
+        "thumb": "media/6452.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T15:52:31",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_15-52-31.jpg",
+        "url": "media/6453.jpg",
+        "size": 678909,
+        "thumb": "media/6453.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6454,
+    "date": "2025-08-31T16:07:45",
+    "text": "一些看到的有趣的东西\n1. 明治时期的 JK 校服，看起来好成熟稳重\n2. <del>早期 live2d</del> 歌剧人偶\n3. 没去万博 25 来看万博 70 周边了\n4. 祈母乳用的絵馬",
+    "views": 17,
+    "forwards": 0,
+    "media_group_id": 14053251721690701,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-31T16:07:39",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-07-39.jpg",
+        "url": "media/6454.jpg",
+        "size": 866633,
+        "thumb": "media/6454.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-31T16:07:40",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-07-40.jpg",
+        "url": "media/6455.jpg",
+        "size": 520121,
+        "thumb": "media/6455.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T16:07:42",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-07-42.jpg",
+        "url": "media/6456.jpg",
+        "size": 1048800,
+        "thumb": "media/6456.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T16:07:43",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-07-43.jpg",
+        "url": "media/6457.jpg",
+        "size": 1048217,
+        "thumb": "media/6457.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6458,
+    "date": "2025-08-31T16:11:26",
+    "text": "之后去旁边的大阪城转了一圈，因为天气太热了并没有进去啦。不过在历史博物馆楼上隔着玻璃窗也看到了很棒的大阪城全景！\n\n博物馆这栋楼的视野真好呀，一边能看到大阪城，另一边能看到難波宮的遗迹，<del>而且很平常 400 円的价格就能看到这些，mori 那些资本家肯定馋疯了</del>",
+    "views": 9,
+    "forwards": 0,
+    "media_group_id": 14053253494146901,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T16:11:14",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-11-14.jpg",
+        "url": "media/6458.jpg",
+        "size": 1341016,
+        "thumb": "media/6458.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T16:11:16",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-11-16.jpg",
+        "url": "media/6459.jpg",
+        "size": 1341772,
+        "thumb": "media/6459.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-31T16:11:18",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-11-18.jpg",
+        "url": "media/6460.jpg",
+        "size": 1517418,
+        "thumb": "media/6460.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T16:11:21",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-11-21.jpg",
+        "url": "media/6461.jpg",
+        "size": 1428563,
+        "thumb": "media/6461.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-08-31T16:11:22",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-11-22.jpg",
+        "url": "media/6462.jpg",
+        "size": 1066375,
+        "thumb": "media/6462.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-08-31T16:11:24",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-11-24.jpg",
+        "url": "media/6463.jpg",
+        "size": 849270,
+        "thumb": "media/6463.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-08-31T16:11:26",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-31_16-11-26.jpg",
+        "url": "media/6464.jpg",
+        "size": 813073,
+        "thumb": "media/6464.jpg_thumb.jpg"
       }
     ]
   }
