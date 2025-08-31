@@ -64436,7 +64436,7 @@
     "id": 4687,
     "date": "2024-11-26T03:11:41",
     "text": "\"hey, who does sudo report these 'incidents' to?\"\n\"you know, I've never checked.\"\n<a href=\"https://xkcd.com/838/\">xkcd#838</a>",
-    "views": 323,
+    "views": 324,
     "forwards": 4,
     "images": [
       {
@@ -64971,7 +64971,7 @@
     "id": 4722,
     "date": "2024-12-07T09:41:40",
     "text": "哭哭 Notion 为什么要把「创建 latex 公式」的快捷键绑定到 ctrl + alt + e 还不能改... 总是会不小心按到 ctrl + alt + w 把窗口关了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 1
   },
   {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5608,
+    "views": 5609,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7089,
+    "views": 7097,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86981,7 +86981,7 @@
     "id": 6377,
     "date": "2025-08-27T01:28:01",
     "text": "……然后谷歌前几天<a href=\"https://android.googleapis.com/attestation/status\">又撤销了一批公开 keybox</a>，现在 play integrity 又过不去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过买手机的时候也没有期待可以过啦，至少现在还没有需要 play integrity 的 app 是不能被平替的",
-    "views": 216,
+    "views": 217,
     "forwards": 2,
     "reply": {
       "id": 6163,
@@ -86993,7 +86993,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 310,
+    "views": 312,
     "forwards": 3,
     "images": [
       {
@@ -87216,7 +87216,7 @@
     "id": 6395,
     "date": "2025-08-29T07:59:49",
     "text": "我活了",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 14051635113085557,
     "images": [
@@ -87260,7 +87260,7 @@
     "id": 6398,
     "date": "2025-08-29T09:24:20",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 14051675682679829,
     "images": [
@@ -87310,7 +87310,7 @@
     "id": 6402,
     "date": "2025-08-29T11:43:39",
     "text": "富士山！\n\n没想到在日本拍到的最完整的富士山会是在飞机上拍到的 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 14051742558789213,
     "images": [
@@ -87350,7 +87350,7 @@
     "id": 6406,
     "date": "2025-08-29T15:15:16",
     "text": "到大阪了！\n\n并没有想好明天后天要去哪里玩，大家有什么推荐去的地方嘛？<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n其实这次是因为谦谦原本看到了很好的 deal 想去大阪买车就和她的朋友订了机票，结果他们反悔改成了开车去大阪玩，多出的机票就给我了，然后三个人没人定了计划（xxx）",
-    "views": 147,
+    "views": 148,
     "forwards": 1,
     "media_group_id": 14051844129663845,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -87470,7 +87470,7 @@
     "id": 6416,
     "date": "2025-08-30T15:41:03",
     "text": "在那之前和谦谦和黑狐和某葡萄球菌去爬了護摩壇山！夕阳下树林的气氛好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我超喜欢\n\n路过了很漂亮的蘑菇、像旺旺雪饼一样的蘑菇、很扭曲的树、长满了刺的花苞、还有悬停在空中和我招手的小蜜蜂（之后它还落在我的相机上帽子上了，等一个返图 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "media_group_id": 14052547710403293,
     "images": [
@@ -87580,7 +87580,7 @@
     "id": 6426,
     "date": "2025-08-30T16:22:26",
     "text": "在那之前去参观了高野的寺庙！\n\n木头和树皮深褐色的和样建筑真的和自然很搭，仿佛建筑成为了旁边树林的延申毫无维和 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n...除了最后两张图的「根本大塔」，实在是太新了，超鲜艳的红色白色真的太突兀了。感觉放在别的地方也许不难看但是在这里真的有点毁气氛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n（以及拍到了好多好看照片，感觉要选出 10 张好难... 好像全都丢出来呀 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 109,
+    "views": 112,
     "forwards": 1,
     "media_group_id": 14052567572623549,
     "images": [
@@ -87690,7 +87690,7 @@
     "id": 6436,
     "date": "2025-08-31T04:33:27",
     "text": "三个贩售机一个有甜味的饮料都没有，只有白水、无糖苏打水、无糖茶、无糖黑咖啡... 日本啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 65,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 14052918456205789,
     "images": [
