@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7366,
+    "views": 7367,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -54283,7 +54283,7 @@
     "id": 3983,
     "date": "2024-06-14T09:24:44",
     "text": "发一下最近琐碎照片\n\n1. 把我折的 pjsk 豆腐装在盒子里带去杭州，盒子里的奇妙景象 ///\n2. 看起来像粽子的螃蟹\n3. 自动贴膜切割机\n4. 用针线把 syama 的裤子修好了（线口超级乱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n5. 去理发店修了一下姬切顺便做了护发\n6. 看到理发店里师傅在给假人理头发 quq",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 13746856678301333,
     "images": [
@@ -54353,7 +54353,7 @@
     "id": 3989,
     "date": "2024-06-14T16:34:24",
     "text": "今天 syama 染了粉色挑染，穿上 mzk 的衣服出了一张 「ボクだから言えること」 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n真的好好看，我拍下来当场进行了一个 P 图把 syama 放进了原画里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> Photoshop 有 AI 功能之后 P 图体验真的是完全不一样了，现在完全是 AI 流 qwq\n\n先用 AI 补全背景把卡面的 mzk 去掉，然后 AI 抠图把 syama 抠出来，AI 补全帽子，用 liquify 改一个微笑的嘴型，放在一起，再用 liquify 旋转改一下手的位置，AI style transfer 调色，AI 补伞柄，最后手动把伞抠出来复制到图层最前面做透明效果，画一些雨滴、补一下右下角的红色光效... 就完成了！",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 13747062914922717,
     "images": [
@@ -54416,7 +54416,7 @@
     "id": 3994,
     "date": "2024-06-15T07:36:41",
     "text": "更多昨天的照片 qwq",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "media_group_id": 13747496008825173,
     "images": [
@@ -55127,7 +55127,7 @@
     "id": 4046,
     "date": "2024-06-23T02:04:15",
     "text": "AI 筷子",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "images": [
       {
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1274,
+    "views": 1275,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 298,
+    "views": 299,
     "forwards": 4,
     "images": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7125,
+    "views": 7137,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85538,7 +85538,7 @@
     "id": 6267,
     "date": "2025-08-18T16:13:28",
     "text": "离开之后还遇到乐队成员了\n\n具体是，我们看完去旁边的商场吃面，然后这位拉着一个舞台摆饰叶子伸出一半的行李箱在我旁边坐下来...\n\n...并没有敢搭话 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（更多是不想打扰到别人的生活啦）",
-    "views": 328,
+    "views": 329,
     "forwards": 0,
     "media_group_id": 14044268870693797,
     "images": [
@@ -85593,7 +85593,7 @@
     "id": 6274,
     "date": "2025-08-18T16:53:56",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n一些超喜欢并且这次演唱会上听到了的青葉市子的曲子 qwq\n\n之前一直好奇 mazamun 这首的乐器是什么，还以为是钟琴，看了演出才知道这是 reface CP 的音色，太梦幻了 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 313,
+    "views": 314,
     "forwards": 2,
     "media_group_id": 14044288287002853,
     "files": [
@@ -85647,7 +85647,7 @@
     "id": 6275,
     "date": "2025-08-19T05:12:45",
     "text": "整理了一下在浜松乐器博物馆看到的奇妙乐器做了一个九(?)宫格 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 281,
+    "views": 282,
     "forwards": 1,
     "reply": {
       "id": 6209,
@@ -86009,7 +86009,7 @@
     "id": 6303,
     "date": "2025-08-21T04:56:42",
     "text": "晚上去浜松的路上下小雨大雾，可见度归零 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>\n\n不过我好喜欢大雾气氛，感觉大雾有让大热夏天变得凉爽清静。也是第一次用相机拍大雾照片，不知道有没有把气氛拍出来呢",
-    "views": 165,
+    "views": 166,
     "forwards": 0,
     "media_group_id": 14046017623134653,
     "images": [
@@ -86447,7 +86447,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 270,
+    "views": 271,
     "forwards": 5,
     "images": [
       {
@@ -86466,7 +86466,7 @@
     "id": 6335,
     "date": "2025-08-23T13:31:12",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n之前去静岡「茶の都」体验了磨抹茶，把一小袋茶叶放在这个石头工具的中心转圈圈磨成了抹茶粉\n\n今天买冰淇淋做了 DIY 抹茶冰淇淋！超好吃 qwq",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14047646978062029,
     "images": [
@@ -86546,7 +86546,7 @@
     "id": 6342,
     "date": "2025-08-24T00:01:54",
     "text": "给 oau 后端机器人写了一个 gpt5 早安 bot！（想法其实来源于每天早九的定时重启消息hhh）\n\n实现起来比预想要难，感觉想开启 gpt5 的脑洞让它输出随机无厘头的文字绕了好多圈圈。\n\n写了篇 <a href=\"https://aza.moe/blog?post=2025-08-24-%E6%97%A9%E5%AE%89%E6%9C%BA%E5%99%A8%E4%BA%BA\">writeup</a>，感兴趣欢迎读读",
-    "views": 226,
+    "views": 227,
     "forwards": 2,
     "media_group_id": 14047949714238109,
     "images": [
@@ -86586,7 +86586,7 @@
     "id": 6345,
     "date": "2025-08-24T10:29:38",
     "text": "打开了之前在冲绳水族馆买的气泡饮料，海蓝色的好好看（包装也好好看）\n\n喝起来味道像 ramune",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "images": [
       {
@@ -86605,7 +86605,7 @@
     "id": 6346,
     "date": "2025-08-24T10:39:45",
     "text": "介绍一下我的新室友",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "images": [
       {
@@ -86625,7 +86625,7 @@
     "id": 6348,
     "date": "2025-08-24T10:51:00",
     "text": "一些东京港区日常的景色\n\n（第一次开 hdr 给图片调色，不知道在非 hdr 设备上看会不会怪怪的）",
-    "views": 202,
+    "views": 203,
     "forwards": 1,
     "media_group_id": 14048261284535165,
     "images": [
@@ -86675,7 +86675,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -86715,7 +86715,7 @@
     "id": 6355,
     "date": "2025-08-24T15:38:18",
     "text": "有点想做一个拉面排行榜 / tier list 之类的 qwq",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "reply": {
       "id": 6352,
@@ -86727,7 +86727,7 @@
     "id": 6358,
     "date": "2025-08-25T16:47:41",
     "text": "工作要和同事抢计算资源好累...\n\n现在人多了，本社 lab 上一个月里可能只有几个小时会有空闲 gpu，社外集群里本组分区排满了队，共享分区跑几分钟就被 preempt...\n\n这要怎么做事情嘛",
-    "views": 198,
+    "views": 199,
     "forwards": 1,
     "images": [
       {
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 244,
+    "views": 246,
     "forwards": 4,
     "images": [
       {
@@ -86765,7 +86765,7 @@
     "id": 6360,
     "date": "2025-08-26T13:20:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n达成成就：参加居酒派对（飲み会）完全没有喝酒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<del>达成成就：明明餐桌上有吃不完的食物结果因为一直在聊天没吃饱回家之后又买了鯛焼</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 204,
+    "views": 205,
     "forwards": 1,
     "media_group_id": 14049715294488173,
     "images": [
@@ -86845,7 +86845,7 @@
     "id": 6368,
     "date": "2025-08-26T14:41:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鯛焼！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 184,
+    "views": 185,
     "forwards": 1,
     "media_group_id": 14049754386902813,
     "images": [
@@ -86875,7 +86875,7 @@
     "id": 6369,
     "date": "2025-08-26T15:49:49",
     "text": "以及 听做 AI 的同事用各种 AI 术语讲他们刚生下来和还没生下来的孩子感觉怪怪的\n\n还有人和大家讲在教他的两三岁小孩 markov chain，好可怕\n\n所以我依然是整个房间里最小的... 他们在讨论让孩子从很小开始学英语会不会让日语说不好，<del>然后我和他们聊因为被从小教英语而中文说不好的亲身经历</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及还见到了之前 telegram 上和我搭话还打 maimai 的神秘同事！世界好小",
-    "views": 226,
+    "views": 227,
     "forwards": 6,
     "reply": {
       "id": 6360,
@@ -86887,7 +86887,7 @@
     "id": 6370,
     "date": "2025-08-26T16:56:31",
     "text": "syama 捡了一只猫回家，但是毫无准备，所以我赶快美团买了些零食和工具送过去，现在猫猫看起来还不错，不知道猫怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> <a href=\"##猫\">#猫</a>",
-    "views": 212,
+    "views": 213,
     "forwards": 4,
     "media_group_id": 14049819133094989,
     "images": [
@@ -86937,7 +86937,7 @@
     "id": 6374,
     "date": "2025-08-26T18:04:42",
     "text": "<a href=\"##猫\">#猫</a>",
-    "views": 195,
+    "views": 196,
     "forwards": 1,
     "files": [
       {
@@ -86959,7 +86959,7 @@
     "id": 6375,
     "date": "2025-08-26T18:06:50",
     "text": "和猫打电话.gif\n\n完了感觉要变成云养猫频道了 <a href=\"##猫\">#猫</a>",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "files": [
       {
@@ -86981,7 +86981,7 @@
     "id": 6377,
     "date": "2025-08-27T01:28:01",
     "text": "……然后谷歌前几天<a href=\"https://android.googleapis.com/attestation/status\">又撤销了一批公开 keybox</a>，现在 play integrity 又过不去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过买手机的时候也没有期待可以过啦，至少现在还没有需要 play integrity 的 app 是不能被平替的",
-    "views": 220,
+    "views": 221,
     "forwards": 2,
     "reply": {
       "id": 6163,
@@ -86993,7 +86993,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 317,
+    "views": 318,
     "forwards": 3,
     "images": [
       {
@@ -87012,7 +87012,7 @@
     "id": 6379,
     "date": "2025-08-27T14:08:29",
     "text": "让 syama 给猫猫进行了体检，看着视频我都好害怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n-CN￥300，比想象中便宜，不过之后还要打疫苗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n以及知道了是只很小的男猫，预估年龄两个月 qwq",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "media_group_id": 14050429674378829,
     "images": [
@@ -87062,7 +87062,7 @@
     "id": 6383,
     "date": "2025-08-28T10:16:29",
     "text": "一些 out of context 好看照片 📷",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 14051009513327653,
     "images": [
@@ -87172,7 +87172,7 @@
     "id": 6393,
     "date": "2025-08-28T10:42:43",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n之前那个宝可梦x初音ミク Project Voltage 的曲子里面最喜欢的果然还是 sasakure 老师的\n\n<a href=\"https://www.youtube.com/watch?v=pykE4kMhUUU\">Youtube MV</a>",
-    "views": 167,
+    "views": 168,
     "forwards": 1,
     "files": [
       {
@@ -87194,7 +87194,7 @@
     "id": 6394,
     "date": "2025-08-28T14:23:47",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n网易云随机到了小时候特别喜欢的曲子《アヤノの幸福理論》现在看着 MV 依然会哭\n\n♪ 思い出してみよう あの好きだった言葉\n♪ 幸せってなんだか不思議\n♪ 明日のこと、好きになれる\n\n小学初中的时候好喜欢阳炎 project 的，动画还是音乐 MV 还是人设都好喜欢，还画过某エネミク二创（翻不到了）\n\n记得期待过阳炎 reboot，但是似乎因为角色的版权被发行商收走，じん拿不回来版权就没有继续下去了，真是太可惜了... <span class=\"spoiler\"><span>大人的世界真的好无情</span></span>\n\n<a href=\"https://youtu.be/pLYKKC-EpjA\">Youtube MV</a> | <a href=\"https://www.bilibili.com/video/av545040/\">Bilibili 熟肉</a>",
-    "views": 171,
+    "views": 172,
     "forwards": 1,
     "files": [
       {
@@ -87216,7 +87216,7 @@
     "id": 6395,
     "date": "2025-08-29T07:59:49",
     "text": "我活了",
-    "views": 157,
+    "views": 158,
     "forwards": 0,
     "media_group_id": 14051635113085557,
     "images": [
@@ -87260,7 +87260,7 @@
     "id": 6398,
     "date": "2025-08-29T09:24:20",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "media_group_id": 14051675682679829,
     "images": [
@@ -87310,7 +87310,7 @@
     "id": 6402,
     "date": "2025-08-29T11:43:39",
     "text": "富士山！\n\n没想到在日本拍到的最完整的富士山会是在飞机上拍到的 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 14051742558789213,
     "images": [
@@ -87350,7 +87350,7 @@
     "id": 6406,
     "date": "2025-08-29T15:15:16",
     "text": "到大阪了！\n\n并没有想好明天后天要去哪里玩，大家有什么推荐去的地方嘛？<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n其实这次是因为谦谦原本看到了很好的 deal 想去大阪买车就和她的朋友订了机票，结果他们反悔改成了开车去大阪玩，多出的机票就给我了，然后三个人没人定了计划（xxx）",
-    "views": 153,
+    "views": 154,
     "forwards": 1,
     "media_group_id": 14051844129663845,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -87470,7 +87470,7 @@
     "id": 6416,
     "date": "2025-08-30T15:41:03",
     "text": "在那之前和谦谦和黑狐和某葡萄球菌去爬了護摩壇山！夕阳下树林的气氛好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我超喜欢\n\n路过了很漂亮的蘑菇、像旺旺雪饼一样的蘑菇、很扭曲的树、长满了刺的花苞、还有悬停在空中和我招手的小蜜蜂（之后它还落在我的相机上帽子上了，等一个返图 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 14052547710403293,
     "images": [
@@ -87580,7 +87580,7 @@
     "id": 6426,
     "date": "2025-08-30T16:22:26",
     "text": "在那之前去参观了高野的寺庙！\n\n木头和树皮深褐色的和样建筑真的和自然很搭，仿佛建筑成为了旁边树林的延申毫无维和 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n...除了最后两张图的「根本大塔」，实在是太新了，超鲜艳的红色白色真的太突兀了。感觉放在别的地方也许不难看但是在这里真的有点毁气氛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n（以及拍到了好多好看照片，感觉要选出 10 张好难... 好像全都丢出来呀 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 127,
+    "views": 129,
     "forwards": 1,
     "media_group_id": 14052567572623549,
     "images": [
@@ -87690,7 +87690,7 @@
     "id": 6436,
     "date": "2025-08-31T04:33:27",
     "text": "三个贩售机一个有甜味的饮料都没有，只有白水、无糖苏打水、无糖茶、无糖黑咖啡... 日本啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 115,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 14052918456205789,
     "images": [
@@ -87720,7 +87720,7 @@
     "id": 6438,
     "date": "2025-08-31T15:47:50",
     "text": "今天谦谦和黑狐开车返程了，因为不走高速所以要开八个小时。但是我还有挺多想去的地方没去，所以就买了新干线票自己多玩一天啦\n\n首先去了大阪历史博物馆，喜欢它对历史建筑的还原，有微观模型也有 1:1 的重建，把一个时代完美的封进了一个房间里，虽然只是很小的一角... 不知道什么时候能制造出让未来的人在 VR 中体验现在这个时代的办法，也许真正的时光机是一个无时无刻不在扫描整个地球的 3D 扫描仪 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 73,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 14053242167151685,
     "images": [
@@ -87830,7 +87830,7 @@
     "id": 6450,
     "date": "2025-08-31T15:52:31",
     "text": "出馆买了一个 3D 打印的冰箱贴纪念品，这个博物馆商店几乎所有纪念品都是 3D 打印的，好厉害",
-    "views": 70,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 14053244413888829,
     "images": [
@@ -87880,7 +87880,7 @@
     "id": 6454,
     "date": "2025-08-31T16:07:45",
     "text": "一些看到的有趣的东西\n1. 明治时期的 JK 校服，看起来好成熟稳重\n2. <del>早期 live2d</del> 歌剧人偶\n3. 没去万博 25 来看万博 70 周边了\n4. 祈母乳用的絵馬",
-    "views": 64,
+    "views": 72,
     "forwards": 1,
     "media_group_id": 14053251721690701,
     "images": [
@@ -87930,7 +87930,7 @@
     "id": 6458,
     "date": "2025-08-31T16:11:26",
     "text": "之后去旁边的大阪城转了一圈，因为天气太热了并没有进去啦。不过在历史博物馆楼上隔着玻璃窗也看到了很棒的大阪城全景！\n\n博物馆这栋楼的视野真好呀，一边能看到大阪城，另一边能看到難波宮的遗迹，<del>而且很平常 400 円的价格就能看到这些，mori 那些资本家肯定馋疯了</del>",
-    "views": 60,
+    "views": 67,
     "forwards": 0,
     "media_group_id": 14053253494146901,
     "images": [
@@ -88010,7 +88010,7 @@
     "id": 6465,
     "date": "2025-08-31T16:29:14",
     "text": "之后去了大阪城旁边的海洋堂手办博物馆，机甲厨特摄厨狂喜（虽然我不是）\n\n这个时候就会想「如果聊聊在就好了」，看到了好多聊聊会喜欢的手办，还有聊聊摆在家里柜子上的同款...\n\n博物馆本身的话，感觉对作品的选择比较随意，每个角落都有 Eva 却完全没有 Ghibli 有点过分了。以及布展也比较随便，就只是把手办按动画分类然后按题材分类全都摆出来了，每个题材分区再写一些车轱辘话而已，明明有很多更有趣的布展方式。\n\n如果我有这么多手办，也许会做成「机甲特摄历史展」或者「动画角色历史展」吧，顺便讲些动画本身或者手办生产过程的发展之类的",
-    "views": 65,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 14053262035082221,
     "images": [
@@ -88120,7 +88120,7 @@
     "id": 6475,
     "date": "2025-08-31T16:36:17",
     "text": "小插曲，坐电车注意到大阪电车好炫酷 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 即使不是铁道厨也停下来拍拍照\n\n这个八边形车头感觉已经可以开进科幻电影了",
-    "views": 66,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 14053265418809893,
     "images": [
@@ -88160,7 +88160,7 @@
     "id": 6478,
     "date": "2025-08-31T16:48:58",
     "text": "以及发现我真的很选择恐惧症，平时一般是别人选，但是只有自己的时候就... 今天选择去哪里吃饭犹豫了一个小时，去贡茶点了杯饮料拿出电脑调查附近的各种餐厅，结果等我选完走过去之后已经太晚了，时间已经不够排队了... 结果去了对面不排队的餐厅，虽然也很不错就是\n\n吃了这家烤肉，因为我食量小只点了一道肉和炒乌冬和章鱼小丸子，店铺要求必须点饮料所以又加了葡萄汁（最后只喝掉了 10%）",
-    "views": 57,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 14053271510725653,
     "images": [
@@ -88240,7 +88240,7 @@
     "id": 6489,
     "date": "2025-08-31T17:05:31",
     "text": "最后去了 teamLab 公园，只是简单的灯光打在树上就让气氛变得好迷幻。树木旁边的玻璃蛋也好好看，纹理像星空一样\n\n原本应该是一个安静治愈的公园，可惜我在这里只能停留半个小时所以并没有时间让心情静下来，急急忙忙走完一圈就赶回地铁站了\n\n总之在日本第一次独自旅行还算很顺利！感觉单人旅行很不一样。优点是也许更放松了，不用做很多提前计划、闹钟响了还困的时候可以让自己再睡一会、遇到自己感兴趣的事物可以多停留一会，什么的什么的。缺点是一个人的时候心情能量也许没有和大家一起的时候高，也有点孤单，总是会遇到想和别人分享的事情然后觉得「如果谁谁在就好了」... 也许还是更喜欢和大家一起旅行 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 61,
+    "views": 73,
     "forwards": 0,
     "media_group_id": 14053279449279493,
     "images": [
