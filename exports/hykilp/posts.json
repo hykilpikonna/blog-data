@@ -41597,7 +41597,7 @@
     "id": 3081,
     "date": "2023-12-27T11:37:15",
     "text": "今年的 boxing day 花了六个小时给聊聊挑新的笔记本\n\n写了三个爬虫，分别爬 CanadaComputers 笔记本价格数据、让 GPT3.5 从商品名里面解析清理型号、爬 NotebookCheck CPU 信息和 GPU 跑分、爬 Passmark CPU 跑分，爬下来处理完最终生成出了<a href=\"https://hw.hydev.org/PCData/\">这个网页</a>！（源码在<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/PCData\">这里</a>！\n\n它可以按各种需求计算出 100% 性价比最高的笔记本，比如如果需要游戏本就看 gpu 比例高的列表，需要轻薄本就看 cpu 比例高的列表。\n\n和聊聊聊聊之后打算买 IdeaPad 3 啦，因为聊聊需要轻薄也不需要用笔记本打游戏。轻 1.6kg 15\"，Ryzen 5825U，SSD 内存都能换，看拆机视频可维修性超高，感觉还不错 qwq",
-    "views": 104,
+    "views": 105,
     "forwards": 2,
     "media_group_id": 13629416286353677,
     "images": [
@@ -41637,7 +41637,7 @@
     "id": 3084,
     "date": "2023-12-27T15:44:02",
     "text": "拿到了！是展示机（这也算 open box 的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 3081,
@@ -41757,7 +41757,7 @@
     "id": 3094,
     "date": "2023-12-29T03:06:42",
     "text": "哭哭 感觉有点亏... 花了 $50 升 SSD，花了 $70 升 40GB 内存，然后发现这个屏幕是 TN 屏看着好难受想再花 $50 从国内买替换屏幕... 但是那样加起来就 $690 了，感觉还不如退掉从国内买机械革命无界 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "reply": {
       "id": 3085,
@@ -68424,7 +68424,7 @@
     "id": 4953,
     "date": "2025-02-22T03:57:20",
     "text": "可惜太贵了",
-    "views": 286,
+    "views": 287,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -68447,14 +68447,14 @@
     "id": 4954,
     "date": "2025-02-23T01:44:03",
     "text": "时隔好久又贴到猫猫球了，猫猫球好可爱，开心 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 1
   },
   {
     "id": 4955,
     "date": "2025-02-23T21:29:32",
     "text": "我居然在 2025 年在一个现代 c# 项目里看到了 goto <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "images": [
       {
@@ -68546,7 +68546,7 @@
     "id": 4962,
     "date": "2025-02-25T12:39:50",
     "text": "唉 感觉一般人对大模型的 scale 都有很大误解...\n\n不知道多少次和别人聊天听到别人觉得「671B 的 DeepSeek R1 是可以随便跑的」还有「distil 小模型效果和大模型差不多」\n\n实际上我的那台 GPU 服务器即使是插满四张 V100 也只能跑 32B 这种量级的模型，一般家里的机器也就最多跑跑 7B 1.5B 吧... 虽然确实有方案在小内存小显存的机器上跑大模型，比如显存不够的话可以在内存和显存之间搬来搬去，内存不够的话可以在内存和硬盘之间搬来搬去，<del>但是那样可能几个小时都回答不上你一个问题了</del>",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "reply": {
       "id": 4961,
@@ -68556,7 +68556,7 @@
   {
     "id": 4963,
     "date": "2025-02-25T15:43:48",
-    "views": 250,
+    "views": 251,
     "forwards": 0,
     "images": [
       {
@@ -68575,21 +68575,21 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 354,
+    "views": 355,
     "forwards": 11
   },
   {
     "id": 4965,
     "date": "2025-02-26T03:29:56",
     "text": "聊聊去超市买了三次香菜都没买对，今天一起去的时候让聊聊帮忙拿香菜（因为太远了我走不动）然后聊聊给我拿了 curly parsley <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 238,
+    "views": 239,
     "forwards": 0
   },
   {
     "id": 4966,
     "date": "2025-02-26T11:56:44",
     "text": "因为 Quest 3 也是安卓，试了一下在 VR 里面装 KanadeDX，还真的能带得动\n\n<a href=\"https://www.youtube.com/watch?v=o6VLNAwER2E\">https://www.youtube.com/watch?v=o6VLNAwER2E</a>\n\n虽然手指追踪不是很行，因为是原生安卓应用不是 VR 应用所以只有食指的触摸可以被识别到，真的变成多拉A梦了\n\n（打 Lv9 红谱打了一个 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 1,
     "reply": {
       "id": 4964,
@@ -68600,7 +68600,7 @@
     "id": 4967,
     "date": "2025-02-26T19:57:20",
     "text": "恭喜 sega 发现了 scunthrope problem <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "images": [
       {
@@ -68619,7 +68619,7 @@
     "id": 4968,
     "date": "2025-02-26T21:18:48",
     "text": "呜呜呜 电脑突然这样子我被吓死了...",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "files": [
       {
@@ -68697,7 +68697,7 @@
     "id": 4974,
     "date": "2025-03-02T03:00:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n超大号寿司！🍣",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "images": [
       {
@@ -68716,14 +68716,14 @@
     "id": 4975,
     "date": "2025-03-02T05:09:10",
     "text": "世界好小\n\n今天 AquaDX 群开发者日常闲聊，一个刚加入的开发者说他在机厅工作，然后发现另一位居然去过那家机厅，甚至和他见过面说过话... <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 252,
+    "views": 253,
     "forwards": 0
   },
   {
     "id": 4976,
     "date": "2025-03-02T10:59:14",
     "text": "人生就是 花了一个小时 debug 跨平台应用上只在 iOS 出现的问题，逐行 debug 一个六百行的函数，然后发现错误原因在一个字符的大小写...",
-    "views": 230,
+    "views": 231,
     "forwards": 0
   },
   {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7214,
+    "views": 7216,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86993,7 +86993,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 327,
+    "views": 328,
     "forwards": 3,
     "images": [
       {
@@ -87012,7 +87012,7 @@
     "id": 6379,
     "date": "2025-08-27T14:08:29",
     "text": "让 syama 给猫猫进行了体检，看着视频我都好害怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n-CN￥300，比想象中便宜，不过之后还要打疫苗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n以及知道了是只很小的男猫，预估年龄两个月 qwq",
-    "views": 197,
+    "views": 198,
     "forwards": 1,
     "media_group_id": 14050429674378829,
     "images": [
@@ -87062,7 +87062,7 @@
     "id": 6383,
     "date": "2025-08-28T10:16:29",
     "text": "一些 out of context 好看照片 📷",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "media_group_id": 14051009513327653,
     "images": [
@@ -87350,7 +87350,7 @@
     "id": 6406,
     "date": "2025-08-29T15:15:16",
     "text": "到大阪了！\n\n并没有想好明天后天要去哪里玩，大家有什么推荐去的地方嘛？<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n其实这次是因为谦谦原本看到了很好的 deal 想去大阪买车就和她的朋友订了机票，结果他们反悔改成了开车去大阪玩，多出的机票就给我了，然后三个人没人定了计划（xxx）",
-    "views": 166,
+    "views": 167,
     "forwards": 1,
     "media_group_id": 14051844129663845,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -87880,8 +87880,8 @@
     "id": 6454,
     "date": "2025-08-31T16:07:45",
     "text": "一些看到的有趣的东西\n1. 明治时期的 JK 校服，看起来好成熟稳重\n2. <del>早期 live2d</del> 歌剧人偶\n3. 没去万博 25 来看万博 70 周边了\n4. 祈母乳用的絵馬",
-    "views": 104,
-    "forwards": 1,
+    "views": 105,
+    "forwards": 2,
     "media_group_id": 14053251721690701,
     "images": [
       {
@@ -87930,7 +87930,7 @@
     "id": 6458,
     "date": "2025-08-31T16:11:26",
     "text": "之后去旁边的大阪城转了一圈，因为天气太热了并没有进去啦。不过在历史博物馆楼上隔着玻璃窗也看到了很棒的大阪城全景！\n\n博物馆这栋楼的视野真好呀，一边能看到大阪城，另一边能看到難波宮的遗迹，<del>而且很平常 400 円的价格就能看到这些，mori 那些资本家肯定馋疯了</del>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 14053253494146901,
     "images": [
@@ -88350,7 +88350,7 @@
     "id": 6499,
     "date": "2025-09-01T16:02:23",
     "text": "蓝夏和ゆり来日本玩，真是好久没见了，上次一起玩还是两年前在西雅图（ref: <a href=\"https://t.me/azaneko/2194\">回忆1</a> | <a href=\"https://t.me/azaneko/2538\">回忆2</a>）\n\n下午一起去了龍Q館，是电视上的超级炫酷的防灾地下神殿！实际上是用来调水压的洪水防御设施，是在东京湾上流春日<span class=\"spoiler\"><span>部</span></span>洪水多发区域防止洪水快速流向下流的调压水槽，有一个足球场大（它地上的部分 literally 是一个足球场 🌚）\n\n除了这个大水库以外还有五个立坑连接五条河流，中间通过四条隧道相连，总共可以缓冲 670,000,000L 的水，这么恐怖的规模，花了 2300 亿円造价，居然还只是首都圈外郭放水路的一小部分...\n\n不过虽然规模这么大，作用域反而挺有限的。它只解决了长时间大范围降雨导致的上流河流泛滥这一个特定的问题，反而对短时间市内极大暴雨或者海啸完全无效... 第一次觉得天气真的好恐怖 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 122,
+    "views": 124,
     "forwards": 0,
     "media_group_id": 14053940350744301,
     "images": [
@@ -88460,7 +88460,7 @@
     "id": 6509,
     "date": "2025-09-02T09:11:29",
     "text": "我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<span class=\"spoiler\"><span>好吧其实是写 paper 想测试一下 iPad 上的笔记软件能不能画 figure 然后导出无背景的 svg，发现直接复制粘贴到 tg 上就可以</span></span>",
-    "views": 110,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
