@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7272,
+    "views": 7274,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86447,7 +86447,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 284,
+    "views": 285,
     "forwards": 5,
     "images": [
       {
@@ -86993,7 +86993,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 342,
+    "views": 343,
     "forwards": 3,
     "images": [
       {
@@ -88479,7 +88479,7 @@
     "id": 6510,
     "date": "2025-09-03T03:51:41",
     "text": "\"本次更新修改了软件名称，可能导致不可预期的 BUG\" <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n改名字不提前一个版本改更新包 URL 是吗\n\n（前情提要：Mihomo Party 改名为 Clash Party 了，发布的安装包文件名也从 <code>mihomo-party-{}</code> 改成 <code>clash-party-{}</code> 了，但是因为更新 URL 还是 <code>clash-party-{}</code> 所以会更新失败）",
-    "views": 127,
+    "views": 128,
     "forwards": 1,
     "media_group_id": 14054972008063501,
     "images": [
@@ -88509,7 +88509,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 117,
+    "views": 118,
     "forwards": 1,
     "reply": {
       "id": 6510,
