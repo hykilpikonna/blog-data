@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7369,
+    "views": 7370,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5618,
+    "views": 5619,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -88479,7 +88479,7 @@
     "id": 6510,
     "date": "2025-09-03T03:51:41",
     "text": "\"本次更新修改了软件名称，可能导致不可预期的 BUG\" <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n改名字不提前一个版本改更新包 URL 是吗\n\n（前情提要：Mihomo Party 改名为 Clash Party 了，发布的安装包文件名也从 <code>mihomo-party-{}</code> 改成 <code>clash-party-{}</code> 了，但是因为更新 URL 还是 <code>clash-party-{}</code> 所以会更新失败）",
-    "views": 128,
+    "views": 129,
     "forwards": 1,
     "media_group_id": 14054972008063501,
     "images": [
@@ -88509,7 +88509,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 1,
     "reply": {
       "id": 6510,
