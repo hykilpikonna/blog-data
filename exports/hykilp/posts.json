@@ -40875,7 +40875,7 @@
     "id": 3027,
     "date": "2023-12-17T06:19:45",
     "text": "家里的 VPS 服务器框架终于搭好了！宿主机用了 ArchLinux + VirtualBox，今天写了一个管理 VPS 的 bot，可以用来管理端口映射、自动更新 CloudFlare DDNS、进行一些蠢蠢的 PPPoE IP 转发、还有基础操作比如重启什么的\n\n现在一共有三个人预订了，目前正在稳定性测试阶段，打算圣诞节开始正式出租 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "media_group_id": 13622351883298733,
     "images": [
@@ -40915,7 +40915,7 @@
     "id": 3030,
     "date": "2023-12-17T17:03:00",
     "text": "<a href=\"##TIL\">#TIL</a> 今天学到了原来 TTL、Serial、UART、RS232、RS485 都是不同的东西\n\nTTL 是一种用 0~Vcc 正电压表示 bit 的方式，UART 指的是有 Rx 和 Tx 线对接的硬件传输协议，Serial 是软件协议，RS232 是一种用 -Vcc 到 Vcc 的正负电压的硬件传输协议，RS485 是一种用正负差分线的硬件传输协议\n\n<a href=\"##TIL\">#TIL</a> #2 原来 ESP32 即使支持 Serial 支持 CAN bus，收发 RS232、RS485、CAN 也都是需要单独的 transceiver ic 的",
-    "views": 147,
+    "views": 148,
     "forwards": 1,
     "images": [
       {
@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 176,
+    "views": 177,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41194,7 +41194,7 @@
     "id": 3050,
     "date": "2023-12-20T18:53:08",
     "text": "聊聊买了一个这个鼓，没有压感感觉接上 garageband 的音源也救不了它...",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "images": [
       {
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 280,
+    "views": 281,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 203,
+    "views": 204,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -42214,7 +42214,7 @@
     "id": 3127,
     "date": "2024-01-01T22:16:35",
     "text": "早上做了面用了一个新的汤底，然后发现它里面含虾赶快吃了一些 dph，然后睡到了现在 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n感觉 dph 比起抗过敏更适合做安眠药",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "reply": {
       "id": 2957,
@@ -42225,7 +42225,7 @@
     "id": 3129,
     "date": "2024-01-02T08:57:38",
     "text": "把家里的 VPS 网络修好了！infra 全面重构 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n虚拟器从 VirtualBox 换到了 VMWare，然后 PPPoE 网络映射和 DDNS 管理从之前的宿主机 bot 脚本换成了给每个用户开一个 OpenWRT。终于把 IPv4 外网没办法访问的问题解决啦 qwq\n\n新方案里每人的 OpenWRT 有两根线，一根是 bridge 用来 PPPoE，一根连到那个人的 VM 上做 LAN NAT，WRT 给 VM 分配 IP 然后把所有外来端口转发到那个 IP 上，然后 WRT 里面还有一个 crontab 来实时更新自己的 DDNS（总之就是像图上那样啦）",
-    "views": 117,
+    "views": 118,
     "forwards": 3,
     "images": [
       {
@@ -42244,7 +42244,7 @@
     "id": 3130,
     "date": "2024-01-02T19:00:08",
     "text": "还有七天开学，todo 只剩 3/7 了说不定可以做完 qwq",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 3059,
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 388,
+    "views": 390,
     "forwards": 3,
     "files": [
       {
@@ -84164,7 +84164,7 @@
     "id": 6153,
     "date": "2025-08-12T15:25:16",
     "text": "如果不能重新定义自拍，至少能重新定义手机壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n去室蘭遇到了一朵特别好看的被夕阳点亮的云，然后就绕着这朵云拍到了天黑 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<del>这个 18-300 镜头真的买的太值了，光圈小什么的都是挑刺，我直接不换镜头从地球岬拉到月球</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 179,
+    "views": 180,
     "forwards": 2,
     "media_group_id": 14040098532878845,
     "images": [
@@ -84274,7 +84274,7 @@
     "id": 6163,
     "date": "2025-08-13T02:25:41",
     "text": "拿到了新手机一加 13，用了一周 ColorOS 15，写写体验\n\n比 MIUI 14 好用的地方：\n- GMS 开箱就能用\n- 解锁 BL 毫无困难\n- 安装梯子不会报诈骗软件\n- 换启动器可以保留手势 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n- 可以卸载很多系统应用比如视频和钱包和主题商店\n\n比 Pixel UI 好用的地方：\n- 动态锁屏很好看！\n- 有更多很有用的小功能，比如指纹快速启动、熄屏手势、侧边栏、流体云\n\n不好用的地方：\n- 从 Pixel 转移没法转移应用数据\n- 快捷键设置不灵活，没办法让双击电源打开相机，只能选打开卡包还是刷卡页。长按电源只能选语音助手还是关机\n- 广告（虽然没有小米多）\n- 开启开发者模式之后永远会有一条通知说开发者模式已开启\n\n所以试着刷了 OxygenOS，刷完之后所有不满意的地方都解决了！能用 Android auto，修好 Play Integrity 之后甚至能用 Google pay。\n\n之前听朋友说 Oxygen 是 Color 套壳我还有点害怕的，但是实际用起来真的非常原生，而且还保留了 Color 那些有用的小功能，总之就是非常满意 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 3,
     "media_group_id": 14040415534348789,
     "images": [
@@ -84348,7 +84348,7 @@
     "id": 6169,
     "date": "2025-08-13T02:39:08",
     "text": "以及定制的手机壳也到手了！效果还不错\n\n订了两个版本，一个玻璃壳包住镜头、一个彩银壳绕开镜头\n\n感觉玻璃壳印刷质量更好但是手感更差，而且第一次尝试摘下来就碎掉了... 反而彩银壳各方面都更好一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 14040421984151037,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7264,
+    "views": 7266,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86937,7 +86937,7 @@
     "id": 6374,
     "date": "2025-08-26T18:04:42",
     "text": "<a href=\"##猫\">#猫</a>",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "files": [
       {
@@ -86959,7 +86959,7 @@
     "id": 6375,
     "date": "2025-08-26T18:06:50",
     "text": "和猫打电话.gif\n\n完了感觉要变成云养猫频道了 <a href=\"##猫\">#猫</a>",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "files": [
       {
@@ -86981,7 +86981,7 @@
     "id": 6377,
     "date": "2025-08-27T01:28:01",
     "text": "……然后谷歌前几天<a href=\"https://android.googleapis.com/attestation/status\">又撤销了一批公开 keybox</a>，现在 play integrity 又过不去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过买手机的时候也没有期待可以过啦，至少现在还没有需要 play integrity 的 app 是不能被平替的",
-    "views": 231,
+    "views": 232,
     "forwards": 2,
     "reply": {
       "id": 6163,
@@ -86993,7 +86993,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 340,
+    "views": 341,
     "forwards": 3,
     "images": [
       {
