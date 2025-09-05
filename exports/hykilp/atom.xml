@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-09-05T10:14:53.975439+00:00</updated>
+  <updated>2025-09-05T12:15:14.284574+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6515</id>
+    <title>小桂桂的回忆录 📒 #6515</title>
+    <updated>2025-09-05T10:50:18+00:00</updated>
+    <content>&lt;p&gt;原本想这次写纸试试用 typst，结果遇到问题还是需要换回 latex 了... &lt;i class="custom-emoji" emoji-src="emoji/6170358057059485759.webm"&gt;😪&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;感觉还是这个问题：用 latex 出问题的时候不会有上司问你为什么要用 latex，但是用 typst 出一点问题就绝对会被问为什么要用 typst&lt;/p&gt;
+&lt;p&gt;除了 CLRF 的问题以外还有公式格式前面没有编号的问题，毕竟这个 ieee.typ 模板是 typst 开发者做的而不是 IEEE 官方做的，用它写的话会有被因为格式拒稿的风险... 所以还是准备换回 latex 了 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6515" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>6513</id>
+    <title>小桂桂的回忆录 📒 #6513</title>
+    <updated>2025-09-05T10:40:44+00:00</updated>
+    <content>&lt;p&gt;Typst 好草台啊&lt;/p&gt;
+&lt;p&gt;写纸，我把纸同步到 github 上，在&lt;i class="custom-emoji" emoji-src="emoji/6327609909416298142.tgs"&gt;💻&lt;/i&gt;上编辑完之后传了一个 CRLF 的文件上去，然后 everything explodes &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/typst/webapp-issues/issues/713"&gt;提了 issue&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6513" rel="alternate"/>
+  </entry>
   <entry>
     <id>6512</id>
     <title>小桂桂的回忆录 📒 #6512</title>
