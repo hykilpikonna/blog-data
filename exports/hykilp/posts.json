@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5619,
+    "views": 5620,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -88619,7 +88619,7 @@
     "id": 6518,
     "date": "2025-09-06T02:55:34",
     "text": "\"what do you mean? of course I have free will!\"\n\n…a few moments later…\n\n\"okay google what do I eat for breakfast?\"",
-    "views": 131,
+    "views": 132,
     "forwards": 3,
     "images": [
       {
@@ -88638,7 +88638,7 @@
     "id": 6519,
     "date": "2025-09-06T13:52:59",
     "text": "皇居前的野生乌龟！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "media_group_id": 14057334235122309,
     "images": [
@@ -88678,7 +88678,7 @@
     "id": 6522,
     "date": "2025-09-06T14:41:16",
     "text": "今天去了 <a href=\"https://nt-tokyo.org/\">NT 東京</a>，是一个 DIY 科技展，全称「なんか作ってみた」翻译过来的话就是「随便做了点什么」展，简直是天堂 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n整理几个最喜欢的吧\n\n1. 一个 3D RGB 矩阵\n2. 点餐乐器，每个点餐按钮都是一个乐器音色\n3. 能用一只尖角独立的方块机器人\n4. 盲文 LED 数显（有什么用啊！\n5. LED 树\n6. 很可爱的电动人偶\n7. 用铜线做的立体电路表\n8. 时针控制的迷你合成器\n9. 超炫酷盔甲（还有会发光的刀！\n10. 超迷你的合法摩托车\n\n我真的超喜欢这些除了炫酷没有别的意义的电子手工，不用考虑 funding 不用考虑 scalability 才能做出世界独一无二的东西啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 84,
+    "views": 87,
     "forwards": 0,
     "media_group_id": 14057357408743357,
     "images": [
@@ -88788,7 +88788,7 @@
     "id": 6532,
     "date": "2025-09-06T16:14:32",
     "text": "「音游人」\n\n<span class=\"spoiler\"><span>（当然不是音乐游戏的意思</span></span>",
-    "views": 67,
+    "views": 73,
     "forwards": 1,
     "images": [
       {
