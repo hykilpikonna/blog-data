@@ -71419,7 +71419,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 226,
+    "views": 227,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -83501,7 +83501,7 @@
     "id": 6101,
     "date": "2025-08-06T17:33:56",
     "text": "今天去优衣库买了两件 UT\n\n原本想买睡衣的，但是看打折 UT 只要 ￥500 甚至比睡衣便宜而且设计还很不错就买 UT 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n虽然并不是很喜欢水星的魔女（除了百合部分当然很喜欢）也并没有看过攻壳机动队",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "images": [
       {
@@ -83520,14 +83520,14 @@
     "id": 6103,
     "date": "2025-08-06T18:12:50",
     "text": "每次旅行出发前一天晚上都睡不着... 平时褪黑素 / 酒 / Lemborexant 任何一样都能让我立刻昏睡，现在全都叠起来也依然睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6291657562815205715.webm\">😖</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 0
   },
   {
     "id": 6104,
     "date": "2025-08-06T20:43:13",
     "text": "起猛了，所有人都消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 2,
     "media_group_id": 14036103945877141,
     "images": [
@@ -83577,7 +83577,7 @@
     "id": 6108,
     "date": "2025-08-06T22:15:53",
     "text": "好喜欢这里\n\n可惜并不安静，外面的嘈杂依然能够传进来",
-    "views": 253,
+    "views": 254,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -83611,7 +83611,7 @@
     "id": 6110,
     "date": "2025-08-07T01:09:53",
     "text": "出道了",
-    "views": 232,
+    "views": 233,
     "forwards": 0,
     "images": [
       {
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7396,
+    "views": 7397,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -88936,7 +88936,7 @@
     "id": 6541,
     "date": "2025-09-07T17:52:42",
     "text": "月亮移动得好快",
-    "views": 128,
+    "views": 130,
     "forwards": 0,
     "images": [
       {
@@ -88955,7 +88955,7 @@
     "id": 6542,
     "date": "2025-09-07T18:37:27",
     "text": "月食照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n真的有点委屈这个镜头... 本以为曝光时间长一点能够弥补镜头长焦段光圈小到只有 F/6.3 的问题，结果发现月亮移动真的很快，曝光 >1 秒月亮就已经移动太多会让画面变糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 所以只好调高 ISO，有噪点也没办法了\n\n以及尝试拍一段月亮轨迹，然后发现东京的光污染实在是太亮了，ISO50 曝光五分钟就直接是灰白色了... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 133,
+    "views": 135,
     "forwards": 2,
     "media_group_id": 14058161982295197,
     "images": [
@@ -89025,7 +89025,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 189,
+    "views": 194,
     "forwards": 2,
     "files": [
       {
@@ -89048,7 +89048,7 @@
     "id": 6549,
     "date": "2025-09-07T21:08:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 120,
+    "views": 122,
     "forwards": 1,
     "files": [
       {
@@ -89070,7 +89070,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 115,
+    "views": 119,
     "forwards": 5,
     "files": [
       {
