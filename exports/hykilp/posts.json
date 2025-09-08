@@ -41597,7 +41597,7 @@
     "id": 3081,
     "date": "2023-12-27T11:37:15",
     "text": "今年的 boxing day 花了六个小时给聊聊挑新的笔记本\n\n写了三个爬虫，分别爬 CanadaComputers 笔记本价格数据、让 GPT3.5 从商品名里面解析清理型号、爬 NotebookCheck CPU 信息和 GPU 跑分、爬 Passmark CPU 跑分，爬下来处理完最终生成出了<a href=\"https://hw.hydev.org/PCData/\">这个网页</a>！（源码在<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/PCData\">这里</a>！\n\n它可以按各种需求计算出 100% 性价比最高的笔记本，比如如果需要游戏本就看 gpu 比例高的列表，需要轻薄本就看 cpu 比例高的列表。\n\n和聊聊聊聊之后打算买 IdeaPad 3 啦，因为聊聊需要轻薄也不需要用笔记本打游戏。轻 1.6kg 15\"，Ryzen 5825U，SSD 内存都能换，看拆机视频可维修性超高，感觉还不错 qwq",
-    "views": 105,
+    "views": 106,
     "forwards": 2,
     "media_group_id": 13629416286353677,
     "images": [
@@ -41637,7 +41637,7 @@
     "id": 3084,
     "date": "2023-12-27T15:44:02",
     "text": "拿到了！是展示机（这也算 open box 的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "reply": {
       "id": 3081,
@@ -41649,7 +41649,7 @@
     "id": 3085,
     "date": "2023-12-27T17:56:31",
     "text": "买回来立即升级了 SSD 和内存，不过第一次见 15 寸这么大的笔记本里面居然这么空，<del>说不定能塞一些魔改进去，感觉空间这么大可以放一个 rf 写卡器了</del>",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "reply": {
       "id": 3084,
@@ -41672,7 +41672,7 @@
     "id": 3086,
     "date": "2023-12-28T04:55:50",
     "text": "+ maimai DX！\n\n它真的好大好重！送到的时候是一个大卡车开过来司机专门打电话联系我了，送上楼还被公寓物业骂了说需要申请货物电梯，然后三个人一起才把它搬上来拼好（感谢 Celestium 帮忙 qwq\n\n用了一段时间把软件调好啦，感谢蓝夏的魔改！现在还缺读卡器和自起脚本，私服似乎也已经兼容了 1.40 的样子（虽然没有做修改，可能是这两个版本之间 API 本身就没有改动吧）\n\n总之明天再继续折腾了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 251,
+    "views": 252,
     "forwards": 5,
     "media_group_id": 13629914800119629,
     "images": [
@@ -41779,7 +41779,7 @@
     "id": 3096,
     "date": "2023-12-29T04:00:11",
     "text": "读卡器和开机自起都做好啦！用 Windows Task Scheduler 加了两个服务，一个是登录自动启动读卡器和 maimai，另一个是断电的时候自动关机，然后用 sysinternals 设了开机自动登录\n\n从开机到能玩只要两分半！",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 3086,
@@ -41806,7 +41806,7 @@
     "id": 3097,
     "date": "2023-12-29T04:51:40",
     "text": "聊聊在拼天坛\n我：这个亭子怎么这么和风🇯🇵\n聊聊（沉默）\n\n...但是它看起来确实很🇯🇵！<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -41825,7 +41825,7 @@
     "id": 3098,
     "date": "2023-12-29T08:47:34",
     "text": "<del>年度总结：今年睡了 8761h</del>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42558,7 +42558,7 @@
     "id": 3150,
     "date": "2024-01-06T19:16:25",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "images": [
       {
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 105,
+    "views": 106,
     "forwards": 2,
     "files": [
       {
@@ -43346,14 +43346,14 @@
     "id": 3206,
     "date": "2024-01-18T18:45:12",
     "text": "出门了，逐渐变成冰淇淋 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 0
   },
   {
     "id": 3207,
     "date": "2024-01-18T21:25:17",
     "text": "边写作业边和聊聊吃孤独烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "images": [
       {
@@ -43372,7 +43372,7 @@
     "id": 3208,
     "date": "2024-01-18T21:55:48",
     "text": "买了几个 dc 接头花了 $8... 好贵",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -43498,7 +43498,7 @@
     "id": 3217,
     "date": "2024-01-19T06:15:12",
     "text": "我：快睡着快睡着\n脑子：🎵Don’t stop me now I’m having such a good time🎵\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "files": [
       {
@@ -43520,7 +43520,7 @@
     "id": 3218,
     "date": "2024-01-19T15:10:19",
     "text": "草 洗这个拖鞋会让拖鞋缩小",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
@@ -71379,7 +71379,7 @@
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 4,
     "media_group_id": 13953043115908261,
     "images": [
@@ -79024,14 +79024,14 @@
     "id": 5750,
     "date": "2025-06-29T03:50:15",
     "text": "...回到家之后在 25.5h 的时间里总共睡了 22h，我真能睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5470101637022358666.webp\">😵</i><i class=\"custom-emoji\" emoji-src=\"emoji/5469635259408587569.webp\">🙃</i><i class=\"custom-emoji\" emoji-src=\"emoji/5470023348358488780.webp\">😵</i><i class=\"custom-emoji\" emoji-src=\"emoji/5469815716754497752.webp\">😶</i>",
-    "views": 244,
+    "views": 245,
     "forwards": 0
   },
   {
     "id": 5751,
     "date": "2025-06-29T14:31:12",
     "text": "见到了 Hanako 和 k<span class=\"spoiler\"><span>s</span></span>y<span class=\"spoiler\"><span>x</span></span>\n\n一起去了某 happy sugar life 十周年活动，想起来我第一次看这部番的时候是和前前任子兰看的，当时真的有投入感情进去也真的有被结局伤害到...\n\n还去了某百合 lgbt bar，有一整墙百合漫画，可惜改成只有中午可以借漫画读了。以及因为是二维码点餐所以不知道大家都点了什么... 饮料上来发现居然只有我点了酒，感觉有被背叛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "media_group_id": 14009659780263989,
     "images": [
@@ -79091,7 +79091,7 @@
     "id": 5756,
     "date": "2025-06-30T19:46:21",
     "text": "下单了我的第一台相机\n\n两年前想要买相机的时候觉得相机太重了大概率会吃灰... 所以当时买了一个摄影还不错的手机 Mi 11 Ultra，主要因为有全能的三个焦段和背屏预览，也是当时少数有等效 120mm 长焦和大传感器的手机，但是最近感觉经常碰到手机的瓶颈...\n\n比如因为实际焦距短没有背景模糊，之前<a href=\"https://t.me/azaneko/5671\">千本鸟居前面拍 menci</a> 的时候背景模糊其实是后期手动用 AI 加上的... 首先不好看，其次看边缘一眼就能看出破绽 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n又或者是<a href=\"https://t.me/azaneko/5641\">拍星空的时候</a>即使低 ISO 长曝光也有奇怪噪点。旁边マモルさん用最新最热 iPhone 16 Pro 长曝光还出现了奇怪色块的问题，所以感觉并不是换一个拍照更好的手机可以解决的...\n\n不过作为第一款相机，比起画质还是更想要不太贵、不太重、焦距万能，所以选择了 APSC 的索尼 a6700 和大变焦头 Tamron 18-300mm F/3.5-6.3 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> \n\n...虽然知道作为变焦头锐度会差光圈也小，但是打算尝试了不同的构图看看自己最喜欢哪个焦距怎样拍再买一个画质更好的定焦头 qwq",
-    "views": 253,
+    "views": 254,
     "forwards": 3,
     "media_group_id": 14010502253458053,
     "images": [
@@ -79145,7 +79145,7 @@
     "id": 5761,
     "date": "2025-07-03T09:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ Don't you tell me that it wasn't meant to be\n♪ Call it quits, call it destiny\n♪ Just because it won't come easily\n♪ Doesn't mean we shouldn't try\n<i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 302,
+    "views": 303,
     "forwards": 1,
     "files": [
       {
@@ -79167,7 +79167,7 @@
     "id": 5762,
     "date": "2025-07-03T12:57:48",
     "text": "买酒精汽水没有被查 ID 才真的感受到自己又长大了一岁",
-    "views": 337,
+    "views": 338,
     "forwards": 1,
     "images": [
       {
@@ -79186,7 +79186,7 @@
     "id": 5763,
     "date": "2025-07-07T08:09:47",
     "text": "赛博拨号",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "images": [
       {
@@ -79205,7 +79205,7 @@
     "id": 5764,
     "date": "2025-07-07T08:34:48",
     "text": "<a href=\"##伊豆\">#伊豆</a> 周末和谦谦和新的朋友泉野咲 <a href=\"https://t.me/izmnchan\">@izmnchan</a> 和小魏 <a href=\"https://t.me/Mcxiaowei\">@Mcxiaowei</a> 一起去了伊豆！\n\n是两天的即兴旅行，周五晚上六点决定要去之后马上租车订旅店计划行程然后第二天早上就出发了 qwq\n\n不过因为前几天刚看完摇曳露营第二季，计划做着做着就变成了圣地巡旅（？）<del>不过 tbf 好像伊豆也没几个景点是没有在摇曳露营里出现过</del>\n\n第一站是出逢い岬 & 御浜岬公園 qwq",
-    "views": 252,
+    "views": 253,
     "forwards": 4,
     "media_group_id": 14015018305103805,
     "images": [
@@ -80879,7 +80879,7 @@
     "id": 5904,
     "date": "2025-07-15T04:15:41",
     "text": "从中国买的新滤镜送到了！但是有点翻车\n\n买了这些：\n* UV 用来防紫外、防镜片落灰或者刮伤\n* CPL 用来去除玻璃/水面上的光反射、过滤掉电子设备屏幕的光\n* ND1000 用来降低进入镜头的光量，用来白天拍长曝光\n\n原本打算一直挂着 UV，需要的时候把其他的叠到 UV 上面... 但是发现并不是很行，因为滤镜太厚了，同时叠了两个的时候广角的角上会有黑边...\n\n不太知道怎么办... 裁剪的话本来就很小的 APSC 画幅就更窄了。每次先摘下 UV 再拧其他的滤镜的话对镜头也不太好，不知道镜头上的螺纹寿命能换多少次滤镜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 14020423530192701,
     "images": [
@@ -80919,7 +80919,7 @@
     "id": 5907,
     "date": "2025-07-15T10:17:36",
     "text": "猫猫文件 🐈",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "images": [
       {
@@ -80938,14 +80938,14 @@
     "id": 5908,
     "date": "2025-07-15T14:48:43",
     "text": "第一次经历地震",
-    "views": 206,
+    "views": 207,
     "forwards": 0
   },
   {
     "id": 5909,
     "date": "2025-07-15T14:57:45",
     "text": "震度4, 完全完全没感觉... 大家说地震了我才知道地震了的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "reply": {
       "id": 5908,
@@ -80968,7 +80968,7 @@
     "id": 5910,
     "date": "2025-07-15T16:21:21",
     "text": "今天要把数据挪到新的计算集群上，但是这个集群已经快没空间了，210TB 的全闪被用到只剩 4.3TB... 还有机器人天天在群里报警提醒大家删东西\n\n所以我不太想把 400GB 的数据加进去，但是导师说也没办法啊你需要写的话只能写进去了 🌚\n\n感觉我已经能预见到存储挤满整个服务器爆炸的那一天了",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "images": [
       {
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7394,
+    "views": 7396,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -88009,7 +88009,7 @@
     "id": 6465,
     "date": "2025-08-31T16:29:14",
     "text": "之后去了大阪城旁边的海洋堂手办博物馆，机甲厨特摄厨狂喜（虽然我不是）\n\n这个时候就会想「如果聊聊在就好了」，看到了好多聊聊会喜欢的手办，还有聊聊摆在家里柜子上的同款...\n\n博物馆本身的话，感觉对作品的选择比较随意，每个角落都有 Eva 却完全没有 Ghibli 有点过分了。以及布展也比较随便，就只是把手办按动画分类然后按题材分类全都摆出来了，每个题材分区再写一些车轱辘话而已，明明有很多更有趣的布展方式。\n\n如果我有这么多手办，也许会做成「机甲特摄历史展」或者「动画角色历史展」吧，顺便讲些动画本身或者手办生产过程的发展之类的",
-    "views": 134,
+    "views": 135,
     "forwards": 0,
     "media_group_id": 14053262035082221,
     "images": [
@@ -88119,7 +88119,7 @@
     "id": 6475,
     "date": "2025-08-31T16:36:17",
     "text": "小插曲，坐电车注意到大阪电车好炫酷 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 即使不是铁道厨也停下来拍拍照\n\n这个八边形车头感觉已经可以开进科幻电影了",
-    "views": 136,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 14053265418809893,
     "images": [
@@ -88159,7 +88159,7 @@
     "id": 6478,
     "date": "2025-08-31T16:48:58",
     "text": "以及发现我真的很选择恐惧症，平时一般是别人选，但是只有自己的时候就... 今天选择去哪里吃饭犹豫了一个小时，去贡茶点了杯饮料拿出电脑调查附近的各种餐厅，结果等我选完走过去之后已经太晚了，时间已经不够排队了... 结果去了对面不排队的餐厅，虽然也很不错就是\n\n吃了这家烤肉，因为我食量小只点了一道肉和炒乌冬和章鱼小丸子，店铺要求必须点饮料所以又加了葡萄汁（最后只喝掉了 10%）",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "media_group_id": 14053271510725653,
     "images": [
@@ -88239,7 +88239,7 @@
     "id": 6489,
     "date": "2025-08-31T17:05:31",
     "text": "最后去了 teamLab 公园，只是简单的灯光打在树上就让气氛变得好迷幻。树木旁边的玻璃蛋也好好看，纹理像星空一样\n\n原本应该是一个安静治愈的公园，可惜我在这里只能停留半个小时所以并没有时间让心情静下来，急急忙忙走完一圈就赶回地铁站了\n\n总之在日本第一次独自旅行还算很顺利！感觉单人旅行很不一样。优点是也许更放松了，不用做很多提前计划、闹钟响了还困的时候可以让自己再睡一会、遇到自己感兴趣的事物可以多停留一会，什么的什么的。缺点是一个人的时候心情能量也许没有和大家一起的时候高，也有点孤单，总是会遇到想和别人分享的事情然后觉得「如果谁谁在就好了」... 也许还是更喜欢和大家一起旅行 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 159,
+    "views": 160,
     "forwards": 0,
     "media_group_id": 14053279449279493,
     "images": [
@@ -88349,7 +88349,7 @@
     "id": 6499,
     "date": "2025-09-01T16:02:23",
     "text": "蓝夏和ゆり来日本玩，真是好久没见了，上次一起玩还是两年前在西雅图（ref: <a href=\"https://t.me/azaneko/2194\">回忆1</a> | <a href=\"https://t.me/azaneko/2538\">回忆2</a>）\n\n下午一起去了龍Q館，是电视上的超级炫酷的防灾地下神殿！实际上是用来调水压的洪水防御设施，是在东京湾上流春日<span class=\"spoiler\"><span>部</span></span>洪水多发区域防止洪水快速流向下流的调压水槽，有一个足球场大（它地上的部分 literally 是一个足球场 🌚）\n\n除了这个大水库以外还有五个立坑连接五条河流，中间通过四条隧道相连，总共可以缓冲 670,000,000L 的水，这么恐怖的规模，花了 2300 亿円造价，居然还只是首都圈外郭放水路的一小部分...\n\n不过虽然规模这么大，作用域反而挺有限的。它只解决了长时间大范围降雨导致的上流河流泛滥这一个特定的问题，反而对短时间市内极大暴雨或者海啸完全无效... 第一次觉得天气真的好恐怖 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 179,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 14053940350744301,
     "images": [
@@ -88459,7 +88459,7 @@
     "id": 6509,
     "date": "2025-09-02T09:11:29",
     "text": "我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<span class=\"spoiler\"><span>好吧其实是写 paper 想测试一下 iPad 上的笔记软件能不能画 figure 然后导出无背景的 svg，发现直接复制粘贴到 tg 上就可以</span></span>",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "images": [
       {
@@ -88478,7 +88478,7 @@
     "id": 6510,
     "date": "2025-09-03T03:51:41",
     "text": "\"本次更新修改了软件名称，可能导致不可预期的 BUG\" <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n改名字不提前一个版本改更新包 URL 是吗\n\n（前情提要：Mihomo Party 改名为 Clash Party 了，发布的安装包文件名也从 <code>mihomo-party-{}</code> 改成 <code>clash-party-{}</code> 了，但是因为更新 URL 还是 <code>clash-party-{}</code> 所以会更新失败）",
-    "views": 187,
+    "views": 188,
     "forwards": 1,
     "media_group_id": 14054972008063501,
     "images": [
@@ -88508,7 +88508,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "reply": {
       "id": 6510,
@@ -88532,7 +88532,7 @@
     "id": 6513,
     "date": "2025-09-05T10:40:44",
     "text": "Typst 好草台啊\n\n写纸，我把纸同步到 github 上，在<i class=\"custom-emoji\" emoji-src=\"emoji/6327609909416298142.tgs\">💻</i>上编辑完之后传了一个 CRLF 的文件上去，然后 everything explodes <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n<a href=\"https://github.com/typst/webapp-issues/issues/713\">提了 issue</a>",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "media_group_id": 14056550757339653,
     "images": [
@@ -88562,14 +88562,14 @@
     "id": 6515,
     "date": "2025-09-05T10:50:18",
     "text": "原本想这次写纸试试用 typst，结果遇到问题还是需要换回 latex 了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n感觉还是这个问题：用 latex 出问题的时候不会有上司问你为什么要用 latex，但是用 typst 出一点问题就绝对会被问为什么要用 typst\n\n除了 CLRF 的问题以外还有公式格式前面没有编号的问题，毕竟这个 ieee.typ 模板是 typst 开发者做的而不是 IEEE 官方做的，用它写的话会有被因为格式拒稿的风险... 所以还是准备换回 latex 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 0
   },
   {
     "id": 6516,
     "date": "2025-09-05T13:28:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \nlain 的 OP 真好听啊\n\n♪ And you don't seem to understand\n\n<del>开口雷击，别骂了我确实没看懂上一集讲了啥</del>\n\n<a href=\"https://www.nicovideo.jp/watch/sm29904947\">MV</a>",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "files": [
       {
@@ -88591,7 +88591,7 @@
     "id": 6517,
     "date": "2025-09-05T17:55:35",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n「Fluquor」- onoken\n\n不知道为什么想起来 deemo，就打开 deemo 玩了一会小学初中喜欢的曲子，好怀念 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n（AV1 编码警告，旧设备去 <a href=\"https://www.youtube.com/watch?v=myEnoq8VERY\">YouTube</a>）",
-    "views": 157,
+    "views": 158,
     "forwards": 1,
     "reply": {
       "id": 46,
@@ -88806,7 +88806,7 @@
     "id": 6533,
     "date": "2025-09-07T06:27:44",
     "text": "还有一些之前没发的，没那么震撼但是也挺有趣的发现 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n「奇迹的面额是一百円」",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14057811715422517,
     "images": [
@@ -88955,7 +88955,7 @@
     "id": 6542,
     "date": "2025-09-07T18:37:27",
     "text": "月食照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n真的有点委屈这个镜头... 本以为曝光时间长一点能够弥补镜头长焦段光圈小到只有 F/6.3 的问题，结果发现月亮移动真的很快，曝光 >1 秒月亮就已经移动太多会让画面变糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 所以只好调高 ISO，有噪点也没办法了\n\n以及尝试拍一段月亮轨迹，然后发现东京的光污染实在是太亮了，ISO50 曝光五分钟就直接是灰白色了... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 132,
+    "views": 133,
     "forwards": 2,
     "media_group_id": 14058161982295197,
     "images": [
@@ -89025,7 +89025,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 186,
+    "views": 189,
     "forwards": 2,
     "files": [
       {
@@ -89048,7 +89048,7 @@
     "id": 6549,
     "date": "2025-09-07T21:08:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 118,
+    "views": 120,
     "forwards": 1,
     "files": [
       {
@@ -89070,8 +89070,8 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 100,
-    "forwards": 4,
+    "views": 115,
+    "forwards": 5,
     "files": [
       {
         "width": 1250,
