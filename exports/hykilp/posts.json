@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7397,
+    "views": 7398,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -88936,7 +88936,7 @@
     "id": 6541,
     "date": "2025-09-07T17:52:42",
     "text": "月亮移动得好快",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "images": [
       {
@@ -89025,7 +89025,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 194,
+    "views": 197,
     "forwards": 2,
     "files": [
       {
@@ -89048,7 +89048,7 @@
     "id": 6549,
     "date": "2025-09-07T21:08:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 122,
+    "views": 123,
     "forwards": 1,
     "files": [
       {
@@ -89070,7 +89070,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 119,
+    "views": 121,
     "forwards": 5,
     "files": [
       {
