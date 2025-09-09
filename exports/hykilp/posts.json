@@ -8895,7 +8895,7 @@
     "id": 765,
     "date": "2022-05-10T22:21:51",
     "text": "好想开餐厅... 先写一个菜单好了w\n\n（都是我做过的哦 qwq",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "images": [
       {
@@ -8914,7 +8914,7 @@
     "id": 766,
     "date": "2022-05-11T19:01:07",
     "text": "...结果现在麻辣鸡白汤这个味道已经停产了 🥲\n\n留着最后五杯什么时候逆向一下",
-    "views": 62,
+    "views": 63,
     "forwards": 0,
     "media_group_id": 13218365336161165,
     "images": [
@@ -8949,7 +8949,7 @@
     "id": 768,
     "date": "2022-05-11T21:59:27",
     "text": "...在二手网站上找到了自己的车",
-    "views": 76,
+    "views": 77,
     "forwards": 1,
     "media_group_id": 13218450936086565,
     "images": [
@@ -9056,7 +9056,7 @@
     "id": 774,
     "date": "2022-05-13T22:26:26",
     "text": "是豆梨花w",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "media_group_id": 13219846291933957,
     "images": [
@@ -9086,7 +9086,7 @@
     "id": 776,
     "date": "2022-05-14T02:08:27",
     "text": "凉快了ww\n\n...希望风扇晚上不会突然砸下来（x",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 13219952862963717,
     "images": [
@@ -42759,7 +42759,7 @@
     "id": 3164,
     "date": "2024-01-10T18:47:37",
     "text": "设计完了！分别是背面和键盘面。\n\n用了 maimai 的活动地图素材，然后用 real-esrgan upscayl 转高清，然后再用正版 Photoshop 的 AI Fill 功能把调完纵横比需要补的地方用 AI 生成补上就好了！",
-    "views": 167,
+    "views": 169,
     "forwards": 4,
     "media_group_id": 13639299659797525,
     "images": [
@@ -45115,7 +45115,8 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480
+        "size": 39480,
+        "thumb": "media/3328.webm_thumb.jpg"
       }
     ]
   },
@@ -85392,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7411,
+    "views": 7414,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -88890,7 +88891,7 @@
   {
     "id": 6540,
     "date": "2025-09-07T10:47:15",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "files": [
       {
@@ -89070,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 193,
+    "views": 196,
     "forwards": 5,
     "files": [
       {
@@ -89093,14 +89094,14 @@
     "id": 6551,
     "date": "2025-09-09T05:26:39",
     "text": "看到招财猫迷思：如果一家店养了一只猫我肯定会去看看，但是如果是摆了一个陶瓷招财猫反而会觉得老套不想去... 所以不招财的猫比招财猫更招财（？）\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 121,
+    "views": 125,
     "forwards": 0
   },
   {
     "id": 6552,
     "date": "2025-09-09T08:40:48",
     "text": "唉... 想起四年前在加拿大买到了一箱 Asahi 的麻辣鸡白汤泡粉条，然后因为它停产了还挺伤心的，留着最后五杯一直没有吃已经放过期了还想着什么时候逆向一下来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n现在到了日本发现停产真的是太常见了，每周都有新的种类发售，也有旧的种类停产，也许一个味道没办法在未来重现有点可惜，但是至少永远不会缺好吃的东西",
-    "views": 102,
+    "views": 108,
     "forwards": 0,
     "reply": {
       "id": 766,
