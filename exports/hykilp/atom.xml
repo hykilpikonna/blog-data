@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-09-11T00:18:43.377956+00:00</updated>
+  <updated>2025-09-11T02:41:57.996648+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6558</id>
+    <title>小桂桂的回忆录 📒 #6558</title>
+    <updated>2025-09-11T01:05:54+00:00</updated>
+    <content>&lt;p&gt;被自己蠢哭了&lt;/p&gt;
+&lt;p&gt;五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 &lt;code&gt;!!&lt;/code&gt; 来判断是否为空了&lt;/p&gt;
+&lt;p&gt;然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里&lt;/p&gt;
+&lt;p&gt;更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6558" rel="alternate"/>
+  </entry>
   <entry>
     <id>6557</id>
     <title>小桂桂的回忆录 📒 #6557</title>

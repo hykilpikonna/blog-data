@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Sep 2025 00:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 02:41:57 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #6558</title>
+      <link>https://aza.moe/life?post=6558</link>
+      <description>&lt;p&gt;被自己蠢哭了&lt;/p&gt;
+&lt;p&gt;五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 &lt;code&gt;!!&lt;/code&gt; 来判断是否为空了&lt;/p&gt;
+&lt;p&gt;然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里&lt;/p&gt;
+&lt;p&gt;更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6558</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #6557</title>
       <link>https://aza.moe/life?post=6557</link>
