@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7460,
+    "views": 7464,
     "forwards": 165,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86993,7 +86993,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 369,
+    "views": 370,
     "forwards": 3,
     "images": [
       {
@@ -87062,7 +87062,7 @@
     "id": 6383,
     "date": "2025-08-28T10:16:29",
     "text": "一些 out of context 好看照片 📷",
-    "views": 203,
+    "views": 204,
     "forwards": 1,
     "media_group_id": 14051009513327653,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -88350,7 +88350,7 @@
     "id": 6499,
     "date": "2025-09-01T16:02:23",
     "text": "蓝夏和ゆり来日本玩，真是好久没见了，上次一起玩还是两年前在西雅图（ref: <a href=\"https://t.me/azaneko/2194\">回忆1</a> | <a href=\"https://t.me/azaneko/2538\">回忆2</a>）\n\n下午一起去了龍Q館，是电视上的超级炫酷的防灾地下神殿！实际上是用来调水压的洪水防御设施，是在东京湾上流春日<span class=\"spoiler\"><span>部</span></span>洪水多发区域防止洪水快速流向下流的调压水槽，有一个足球场大（它地上的部分 literally 是一个足球场 🌚）\n\n除了这个大水库以外还有五个立坑连接五条河流，中间通过四条隧道相连，总共可以缓冲 670,000,000L 的水，这么恐怖的规模，花了 2300 亿円造价，居然还只是首都圈外郭放水路的一小部分...\n\n不过虽然规模这么大，作用域反而挺有限的。它只解决了长时间大范围降雨导致的上流河流泛滥这一个特定的问题，反而对短时间市内极大暴雨或者海啸完全无效... 第一次觉得天气真的好恐怖 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "media_group_id": 14053940350744301,
     "images": [
@@ -88460,7 +88460,7 @@
     "id": 6509,
     "date": "2025-09-02T09:11:29",
     "text": "我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<span class=\"spoiler\"><span>好吧其实是写 paper 想测试一下 iPad 上的笔记软件能不能画 figure 然后导出无背景的 svg，发现直接复制粘贴到 tg 上就可以</span></span>",
-    "views": 205,
+    "views": 206,
     "forwards": 0,
     "images": [
       {
@@ -88479,7 +88479,7 @@
     "id": 6510,
     "date": "2025-09-03T03:51:41",
     "text": "\"本次更新修改了软件名称，可能导致不可预期的 BUG\" <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n改名字不提前一个版本改更新包 URL 是吗\n\n（前情提要：Mihomo Party 改名为 Clash Party 了，发布的安装包文件名也从 <code>mihomo-party-{}</code> 改成 <code>clash-party-{}</code> 了，但是因为更新 URL 还是 <code>clash-party-{}</code> 所以会更新失败）",
-    "views": 201,
+    "views": 203,
     "forwards": 1,
     "media_group_id": 14054972008063501,
     "images": [
@@ -88509,7 +88509,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "reply": {
       "id": 6510,
@@ -88533,7 +88533,7 @@
     "id": 6513,
     "date": "2025-09-05T10:40:44",
     "text": "Typst 好草台啊\n\n写纸，我把纸同步到 github 上，在<i class=\"custom-emoji\" emoji-src=\"emoji/6327609909416298142.tgs\">💻</i>上编辑完之后传了一个 CRLF 的文件上去，然后 everything explodes <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n<a href=\"https://github.com/typst/webapp-issues/issues/713\">提了 issue</a>",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 14056550757339653,
     "images": [
@@ -88563,14 +88563,14 @@
     "id": 6515,
     "date": "2025-09-05T10:50:18",
     "text": "原本想这次写纸试试用 typst，结果遇到问题还是需要换回 latex 了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n感觉还是这个问题：用 latex 出问题的时候不会有上司问你为什么要用 latex，但是用 typst 出一点问题就绝对会被问为什么要用 typst\n\n除了 CLRF 的问题以外还有公式格式前面没有编号的问题，毕竟这个 ieee.typ 模板是 typst 开发者做的而不是 IEEE 官方做的，用它写的话会有被因为格式拒稿的风险... 所以还是准备换回 latex 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 0
   },
   {
     "id": 6516,
     "date": "2025-09-05T13:28:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \nlain 的 OP 真好听啊\n\n♪ And you don't seem to understand\n\n<del>开口雷击，别骂了我确实没看懂上一集讲了啥</del>\n\n<a href=\"https://www.nicovideo.jp/watch/sm29904947\">MV</a>",
-    "views": 214,
+    "views": 215,
     "forwards": 2,
     "files": [
       {
@@ -88592,7 +88592,7 @@
     "id": 6517,
     "date": "2025-09-05T17:55:35",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n「Fluquor」- onoken\n\n不知道为什么想起来 deemo，就打开 deemo 玩了一会小学初中喜欢的曲子，好怀念 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n（AV1 编码警告，旧设备去 <a href=\"https://www.youtube.com/watch?v=myEnoq8VERY\">YouTube</a>）",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "reply": {
       "id": 46,
@@ -88619,7 +88619,7 @@
     "id": 6518,
     "date": "2025-09-06T02:55:34",
     "text": "\"what do you mean? of course I have free will!\"\n\n…a few moments later…\n\n\"okay google what do I eat for breakfast?\"",
-    "views": 188,
+    "views": 189,
     "forwards": 3,
     "images": [
       {
@@ -88638,7 +88638,7 @@
     "id": 6519,
     "date": "2025-09-06T13:52:59",
     "text": "皇居前的野生乌龟！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "media_group_id": 14057334235122309,
     "images": [
@@ -88678,7 +88678,7 @@
     "id": 6522,
     "date": "2025-09-06T14:41:16",
     "text": "今天去了 <a href=\"https://nt-tokyo.org/\">NT 東京</a>，是一个 DIY 科技展，全称「なんか作ってみた」翻译过来的话就是「随便做了点什么」展，简直是天堂 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n整理几个最喜欢的吧\n\n1. 一个 3D RGB 矩阵\n2. 点餐乐器，每个点餐按钮都是一个乐器音色\n3. 能用一只尖角独立的方块机器人\n4. 盲文 LED 数显（有什么用啊！\n5. LED 树\n6. 很可爱的电动人偶\n7. 用铜线做的立体电路表\n8. 时针控制的迷你合成器\n9. 超炫酷盔甲（还有会发光的刀！\n10. 超迷你的合法摩托车\n\n我真的超喜欢这些除了炫酷没有别的意义的电子手工，不用考虑 funding 不用考虑 scalability 才能做出世界独一无二的东西啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 168,
+    "views": 169,
     "forwards": 2,
     "media_group_id": 14057357408743357,
     "images": [
@@ -88788,7 +88788,7 @@
     "id": 6532,
     "date": "2025-09-06T16:14:32",
     "text": "「音游人」\n\n<span class=\"spoiler\"><span>（当然不是音乐游戏的意思</span></span>",
-    "views": 178,
+    "views": 180,
     "forwards": 1,
     "images": [
       {
@@ -88807,7 +88807,7 @@
     "id": 6533,
     "date": "2025-09-07T06:27:44",
     "text": "还有一些之前没发的，没那么震撼但是也挺有趣的发现 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n「奇迹的面额是一百円」",
-    "views": 178,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 14057811715422517,
     "images": [
@@ -88891,7 +88891,7 @@
   {
     "id": 6540,
     "date": "2025-09-07T10:47:15",
-    "views": 180,
+    "views": 181,
     "forwards": 0,
     "files": [
       {
@@ -88937,7 +88937,7 @@
     "id": 6541,
     "date": "2025-09-07T17:52:42",
     "text": "月亮移动得好快",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "images": [
       {
@@ -88956,7 +88956,7 @@
     "id": 6542,
     "date": "2025-09-07T18:37:27",
     "text": "月食照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n真的有点委屈这个镜头... 本以为曝光时间长一点能够弥补镜头长焦段光圈小到只有 F/6.3 的问题，结果发现月亮移动真的很快，曝光 >1 秒月亮就已经移动太多会让画面变糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 所以只好调高 ISO，有噪点也没办法了\n\n以及尝试拍一段月亮轨迹，然后发现东京的光污染实在是太亮了，ISO50 曝光五分钟就直接是灰白色了... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 177,
+    "views": 178,
     "forwards": 2,
     "media_group_id": 14058161982295197,
     "images": [
@@ -89026,7 +89026,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 278,
+    "views": 280,
     "forwards": 3,
     "files": [
       {
@@ -89049,7 +89049,7 @@
     "id": 6549,
     "date": "2025-09-07T21:08:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 180,
+    "views": 181,
     "forwards": 1,
     "files": [
       {
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 246,
+    "views": 247,
     "forwards": 5,
     "files": [
       {
@@ -89094,14 +89094,14 @@
     "id": 6551,
     "date": "2025-09-09T05:26:39",
     "text": "看到招财猫迷思：如果一家店养了一只猫我肯定会去看看，但是如果是摆了一个陶瓷招财猫反而会觉得老套不想去... 所以不招财的猫比招财猫更招财（？）\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 0
   },
   {
     "id": 6552,
     "date": "2025-09-09T08:40:48",
     "text": "唉... 想起四年前在加拿大买到了一箱 Asahi 的麻辣鸡白汤泡粉条，然后因为它停产了还挺伤心的，留着最后五杯一直没有吃已经放过期了还想着什么时候逆向一下来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n现在到了日本发现停产真的是太常见了，每周都有新的种类发售，也有旧的种类停产，也许一个味道没办法在未来重现有点可惜，但是至少永远不会缺好吃的东西",
-    "views": 194,
+    "views": 196,
     "forwards": 0,
     "reply": {
       "id": 766,
@@ -89113,14 +89113,14 @@
     "id": 6553,
     "date": "2025-09-09T16:42:55",
     "text": "白天超级困，晚上睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 223,
+    "views": 227,
     "forwards": 2
   },
   {
     "id": 6554,
     "date": "2025-09-10T07:03:01",
     "text": "Typst 语言真的好科学... 作为程序语言已经比大部分程序语言都顺手了",
-    "views": 180,
+    "views": 184,
     "forwards": 1,
     "reply": {
       "id": 6515,
@@ -89143,14 +89143,14 @@
     "id": 6555,
     "date": "2025-09-10T13:13:46",
     "text": "很难想象，作为喜欢街机音游喜欢到在家里自己搭机器的人，来日本之后快四个月了总共只去了两次机厅，只登录了 1 次 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>\n\n可能真的是越难得到就越会让我感兴趣吧，随时都可以去反而就没意思了",
-    "views": 163,
+    "views": 168,
     "forwards": 0
   },
   {
     "id": 6556,
     "date": "2025-09-10T17:21:53",
     "text": "来日本之前觉得神社必须有鸟居有参道手水舍狛犬拜殿本殿幣殿社務所御神籤注連繩\n\n现在看过无数个神社之后总结发现以上这些全都可以没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> <del>在桌上摆一个迷你赛钱箱也可以是神社</del>",
-    "views": 160,
+    "views": 166,
     "forwards": 1,
     "images": [
       {
@@ -89169,7 +89169,7 @@
     "id": 6557,
     "date": "2025-09-10T17:51:36",
     "text": "迷你塞钱箱有人 get 到了",
-    "views": 160,
+    "views": 166,
     "forwards": 1,
     "reply": {
       "id": 6556,
@@ -89192,7 +89192,7 @@
     "id": 6558,
     "date": "2025-09-11T01:05:54",
     "text": "被自己蠢哭了\n\n五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 <code>!!</code> 来判断是否为空了\n\n然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里\n\n更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 175,
+    "views": 188,
     "forwards": 2,
     "media_group_id": 14060422032265693,
     "images": [
@@ -89222,8 +89222,8 @@
     "id": 6560,
     "date": "2025-09-11T03:09:55",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n去了一家评价超高的店，吃了感觉真的对得起这个评价。肉超软，而且只要 740 一碗肉乌冬好便宜，以及店里在放 beatles 的 let it be 专辑还有唱片挂在墙上<del>让乌冬更好吃了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n...吃完出来看门口排满了社畜，还好我来得早 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 96,
-    "forwards": 0,
+    "views": 112,
+    "forwards": 1,
     "media_group_id": 14060481561338693,
     "images": [
       {
@@ -89302,8 +89302,8 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 46,
-    "forwards": 0,
+    "views": 85,
+    "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
       {
