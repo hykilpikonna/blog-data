@@ -48722,7 +48722,7 @@
     "id": 3568,
     "date": "2024-04-08T19:33:19",
     "text": "好看！",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "media_group_id": 13700838399361029,
     "images": [
@@ -48752,7 +48752,7 @@
     "id": 3570,
     "date": "2024-04-08T19:56:45",
     "text": "和前任和现任和前任的现任一起去了！好热闹好开心",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13700849643192773,
     "images": [
@@ -48801,7 +48801,7 @@
   {
     "id": 3574,
     "date": "2024-04-10T20:58:11",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "files": [
       {
@@ -48826,7 +48826,7 @@
     "id": 3575,
     "date": "2024-04-12T13:46:41",
     "text": "刚刚起床看到了 Fabrice Bellard 新发布的 <a href=\"https://bellard.org/tsac\">TSAC</a> 音频编码，是一个用二进制语言重写、为了实际应用优化过的 <a href=\"https://arxiv.org/abs/2306.06546\">DAC</a> neural codec，真的没想到去年六月刚 preprint 的论文今年就能见到实际应用了！\n\n我去年的研究里还用到了 DAC 来着，当时这个东西几乎是所有向量模型里最重的一个，即是双通道、每帧尺寸和帧频率也都很大... 导致这一个模型存下来的矢量 npy 几乎和所有其他模型加起来一样大了（还存了一张加载矢量的时候非常壮观的 btop）\n\n不过看上去 TSAC 解决了很多它的问题，转 8bit 把模型权重减轻了不少，也不需要依赖复杂的 python 环境运行了。好期待哪天 Bellard 能把它整合进 ffmpeg qwq",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13703436811200701,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5628,
+    "views": 5629,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -81070,7 +81070,7 @@
     "id": 5917,
     "date": "2025-07-16T17:07:13",
     "text": "直播一个小时打通了！回放在<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">这里</a>\n\n这个游戏规则改得好过分！感觉也许国际象棋新手反而会玩得更好？感觉所有一般国际象棋上的定式都不通用了，所以反而按照肌肉记忆下棋会很吃瘪 quq（<span class=\"spoiler\"><span>所以我能这么快通关反而说明我国际象棋打得很菜吗</span></span>\n\n以及想出这么邪门的作弊和反击规则作者是恶魔吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不熟悉新的规则的时候对方乱走我都不知道是不是作弊，但是我作弊就 100% 会被抓到好不公平哇...\n\n第一周目对方作弊的时候利用反击很快就赢了，但是是坏结局。第二周目尝试不作弊赢棋真的好难好难，毕竟对方作弊的时候你发现了也没办法撤回去... 不过最后对面犯够多蠢让我赢了 qwq（感觉如果对面 AI 更聪明一点的话不反击完全就是不可能赢的\n\n<del>什么时候有 pvp 模式啊</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 265,
+    "views": 266,
     "forwards": 0,
     "media_group_id": 14021485066316709,
     "images": [
@@ -81104,7 +81104,7 @@
     "id": 5920,
     "date": "2025-07-17T03:41:01",
     "text": "速通！\n\n（居然正常通关 + 速通之后依然没有超过两小时退款期限）",
-    "views": 264,
+    "views": 265,
     "forwards": 0,
     "media_group_id": 14021789291254117,
     "files": [
@@ -87260,7 +87260,7 @@
     "id": 6398,
     "date": "2025-08-29T09:24:20",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 14051675682679829,
     "images": [
@@ -87310,7 +87310,7 @@
     "id": 6402,
     "date": "2025-08-29T11:43:39",
     "text": "富士山！\n\n没想到在日本拍到的最完整的富士山会是在飞机上拍到的 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14051742558789213,
     "images": [
@@ -87350,7 +87350,7 @@
     "id": 6406,
     "date": "2025-08-29T15:15:16",
     "text": "到大阪了！\n\n并没有想好明天后天要去哪里玩，大家有什么推荐去的地方嘛？<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n其实这次是因为谦谦原本看到了很好的 deal 想去大阪买车就和她的朋友订了机票，结果他们反悔改成了开车去大阪玩，多出的机票就给我了，然后三个人没人定了计划（xxx）",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 14051844129663845,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -87470,7 +87470,7 @@
     "id": 6416,
     "date": "2025-08-30T15:41:03",
     "text": "在那之前和谦谦和黑狐和某葡萄球菌去爬了護摩壇山！夕阳下树林的气氛好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我超喜欢\n\n路过了很漂亮的蘑菇、像旺旺雪饼一样的蘑菇、很扭曲的树、长满了刺的花苞、还有悬停在空中和我招手的小蜜蜂（之后它还落在我的相机上帽子上了，等一个返图 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14052547710403293,
     "images": [
@@ -88120,7 +88120,7 @@
     "id": 6475,
     "date": "2025-08-31T16:36:17",
     "text": "小插曲，坐电车注意到大阪电车好炫酷 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 即使不是铁道厨也停下来拍拍照\n\n这个八边形车头感觉已经可以开进科幻电影了",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 14053265418809893,
     "images": [
@@ -88350,7 +88350,7 @@
     "id": 6499,
     "date": "2025-09-01T16:02:23",
     "text": "蓝夏和ゆり来日本玩，真是好久没见了，上次一起玩还是两年前在西雅图（ref: <a href=\"https://t.me/azaneko/2194\">回忆1</a> | <a href=\"https://t.me/azaneko/2538\">回忆2</a>）\n\n下午一起去了龍Q館，是电视上的超级炫酷的防灾地下神殿！实际上是用来调水压的洪水防御设施，是在东京湾上流春日<span class=\"spoiler\"><span>部</span></span>洪水多发区域防止洪水快速流向下流的调压水槽，有一个足球场大（它地上的部分 literally 是一个足球场 🌚）\n\n除了这个大水库以外还有五个立坑连接五条河流，中间通过四条隧道相连，总共可以缓冲 670,000,000L 的水，这么恐怖的规模，花了 2300 亿円造价，居然还只是首都圈外郭放水路的一小部分...\n\n不过虽然规模这么大，作用域反而挺有限的。它只解决了长时间大范围降雨导致的上流河流泛滥这一个特定的问题，反而对短时间市内极大暴雨或者海啸完全无效... 第一次觉得天气真的好恐怖 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 14053940350744301,
     "images": [
@@ -88509,7 +88509,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 1,
     "reply": {
       "id": 6510,
@@ -88563,7 +88563,7 @@
     "id": 6515,
     "date": "2025-09-05T10:50:18",
     "text": "原本想这次写纸试试用 typst，结果遇到问题还是需要换回 latex 了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n感觉还是这个问题：用 latex 出问题的时候不会有上司问你为什么要用 latex，但是用 typst 出一点问题就绝对会被问为什么要用 typst\n\n除了 CLRF 的问题以外还有公式格式前面没有编号的问题，毕竟这个 ieee.typ 模板是 typst 开发者做的而不是 IEEE 官方做的，用它写的话会有被因为格式拒稿的风险... 所以还是准备换回 latex 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 0
   },
   {
@@ -89026,7 +89026,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 347,
+    "views": 348,
     "forwards": 4,
     "files": [
       {
@@ -89169,7 +89169,7 @@
     "id": 6557,
     "date": "2025-09-10T17:51:36",
     "text": "迷你塞钱箱有人 get 到了",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "reply": {
       "id": 6556,
@@ -89192,7 +89192,7 @@
     "id": 6558,
     "date": "2025-09-11T01:05:54",
     "text": "被自己蠢哭了\n\n五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 <code>!!</code> 来判断是否为空了\n\n然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里\n\n更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 282,
+    "views": 283,
     "forwards": 2,
     "media_group_id": 14060422032265693,
     "images": [
@@ -89302,7 +89302,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 223,
+    "views": 224,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 226,
+    "views": 227,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 169,
+    "views": 173,
     "forwards": 0,
     "images": [
       {
@@ -89400,7 +89400,7 @@
     "id": 6574,
     "date": "2025-09-15T11:05:18",
     "text": "蓝夏和 Yuri 回西雅图的前两天去和他们加上マモル一起露营了！去的是摇曳露营圣地本栖湖旁边的浩庵露营场\n\n第二次来这里了，不过上次只是熬夜开车过去看日出烧烧早饭，这次真的搭帐篷过夜了 qwq\n\n到了露营场之后还在多云下小雨，云多到富士山完全看不见（<del>所以是やまなし県吗</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>）雨天搭帐篷好累累，烧了火锅就睡觉啦。\n\n早上起来看日出，日出看到了完整的富士山还是很高兴的！拍些照片烧烧剩下的火锅又收了帐篷就送他们去机场啦。开心开心\n\n（结果因为没睡够今天睡了 13h 还困困... 还好是休息日 <i class=\"custom-emoji\" emoji-src=\"emoji/6170408965306844904.webm\">😾</i>）",
-    "views": 120,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 14063474545285581,
     "images": [
@@ -89510,7 +89510,7 @@
     "id": 6584,
     "date": "2025-09-15T11:31:19",
     "text": "众所周知富士山山顶白色的东西是云彩 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 113,
+    "views": 118,
     "forwards": 0,
     "images": [
       {
@@ -89529,7 +89529,7 @@
     "id": 6585,
     "date": "2025-09-15T12:03:16",
     "text": "晚上除了烧火锅还点了烟花！好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/5215638109068220476.tgs\">🎆</i>\n\n大概已经七八年没有自己点过烟花了，好怀念喜欢玩烟花的时候，可惜大部分地方都已经禁止烟花了...\n\n画了一些召唤晴天的魔法阵 <i class=\"custom-emoji\" emoji-src=\"emoji/5260426225599405269.tgs\">🪄</i>",
-    "views": 102,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 14063502369708773,
     "images": [
@@ -89639,7 +89639,7 @@
     "id": 6595,
     "date": "2025-09-15T16:58:54",
     "text": "Gemini 好不聪明喵\n\n我让它设一分钟闹钟，它设了“整数分钟 +1 分钟之后的闹钟”\n\n...然后现在是 1:42.59，它设了 1:43.00 的闹钟，设完立刻响了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 54,
+    "views": 71,
     "forwards": 0,
     "images": [
       {
