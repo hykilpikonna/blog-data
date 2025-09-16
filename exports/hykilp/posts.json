@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7549,
+    "views": 7550,
     "forwards": 169,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89192,7 +89192,7 @@
     "id": 6558,
     "date": "2025-09-11T01:05:54",
     "text": "被自己蠢哭了\n\n五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 <code>!!</code> 来判断是否为空了\n\n然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里\n\n更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 283,
+    "views": 284,
     "forwards": 2,
     "media_group_id": 14060422032265693,
     "images": [
@@ -89302,7 +89302,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 237,
+    "views": 238,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 229,
+    "views": 231,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 176,
+    "views": 179,
     "forwards": 0,
     "images": [
       {
@@ -89400,7 +89400,7 @@
     "id": 6574,
     "date": "2025-09-15T11:05:18",
     "text": "蓝夏和 Yuri 回西雅图的前两天去和他们加上マモル一起露营了！去的是摇曳露营圣地本栖湖旁边的浩庵露营场\n\n第二次来这里了，不过上次只是熬夜开车过去看日出烧烧早饭，这次真的搭帐篷过夜了 qwq\n\n到了露营场之后还在多云下小雨，云多到富士山完全看不见（<del>所以是やまなし県吗</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>）雨天搭帐篷好累累，烧了火锅就睡觉啦。\n\n早上起来看日出，日出看到了完整的富士山还是很高兴的！拍些照片烧烧剩下的火锅又收了帐篷就送他们去机场啦。开心开心\n\n（结果因为没睡够今天睡了 13h 还困困... 还好是休息日 <i class=\"custom-emoji\" emoji-src=\"emoji/6170408965306844904.webm\">😾</i>）",
-    "views": 130,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 14063474545285581,
     "images": [
@@ -89510,7 +89510,7 @@
     "id": 6584,
     "date": "2025-09-15T11:31:19",
     "text": "众所周知富士山山顶白色的东西是云彩 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 125,
+    "views": 129,
     "forwards": 0,
     "images": [
       {
@@ -89529,7 +89529,7 @@
     "id": 6585,
     "date": "2025-09-15T12:03:16",
     "text": "晚上除了烧火锅还点了烟花！好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/5215638109068220476.tgs\">🎆</i>\n\n大概已经七八年没有自己点过烟花了，好怀念喜欢玩烟花的时候，可惜大部分地方都已经禁止烟花了...\n\n画了一些召唤晴天的魔法阵 <i class=\"custom-emoji\" emoji-src=\"emoji/5260426225599405269.tgs\">🪄</i>",
-    "views": 124,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14063502369708773,
     "images": [
@@ -89639,7 +89639,7 @@
     "id": 6595,
     "date": "2025-09-15T16:58:54",
     "text": "Gemini 好不聪明喵\n\n我让它设一分钟闹钟，它设了“整数分钟 +1 分钟之后的闹钟”\n\n...然后现在是 1:42.59，它设了 1:43.00 的闹钟，设完立刻响了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 105,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
