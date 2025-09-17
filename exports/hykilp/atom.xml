@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-09-17T00:18:19.088015+00:00</updated>
+  <updated>2025-09-17T02:40:42.993223+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6602</id>
+    <title>小桂桂的回忆录 📒 #6602</title>
+    <updated>2025-09-17T01:57:29+00:00</updated>
+    <content>&lt;p&gt;menci 和我抱怨 kt 没有 [a, b] 和 {a: b} 的语法，每次都要写 mapOf(a to b) 好长好不顺手&lt;/p&gt;
+&lt;p&gt;我立即写宏实现了这个东西 qwq&lt;/p&gt;
+&lt;p&gt;我最喜欢 kt 就是因为它自由，如果有不喜欢的语法只要自己用宏定义新的语法就行了 &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6602" rel="alternate"/>
+  </entry>
   <entry>
     <id>6601</id>
     <title>小桂桂的回忆录 📒 #6601</title>
