@@ -11187,7 +11187,7 @@
             "data": "MQ=="
           }
         ],
-        "total_voter_count": 18,
+        "total_voter_count": 19,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -45547,7 +45547,7 @@
             "data": "NA=="
           }
         ],
-        "total_voter_count": 14,
+        "total_voter_count": 15,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7595,
+    "views": 7600,
     "forwards": 170,
     "media_group_id": 14043941176651549,
     "images": [
@@ -87830,7 +87830,7 @@
     "id": 6450,
     "date": "2025-08-31T15:52:31",
     "text": "出馆买了一个 3D 打印的冰箱贴纪念品，这个博物馆商店几乎所有纪念品都是 3D 打印的，好厉害",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "media_group_id": 14053244413888829,
     "images": [
@@ -87880,7 +87880,7 @@
     "id": 6454,
     "date": "2025-08-31T16:07:45",
     "text": "一些看到的有趣的东西\n1. 明治时期的 JK 校服，看起来好成熟稳重\n2. <del>早期 live2d</del> 歌剧人偶\n3. 没去万博 25 来看万博 70 周边了\n4. 祈母乳用的絵馬",
-    "views": 151,
+    "views": 152,
     "forwards": 2,
     "media_group_id": 14053251721690701,
     "images": [
@@ -87930,7 +87930,7 @@
     "id": 6458,
     "date": "2025-08-31T16:11:26",
     "text": "之后去旁边的大阪城转了一圈，因为天气太热了并没有进去啦。不过在历史博物馆楼上隔着玻璃窗也看到了很棒的大阪城全景！\n\n博物馆这栋楼的视野真好呀，一边能看到大阪城，另一边能看到難波宮的遗迹，<del>而且很平常 400 円的价格就能看到这些，mori 那些资本家肯定馋疯了</del>",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 14053253494146901,
     "images": [
@@ -88010,7 +88010,7 @@
     "id": 6465,
     "date": "2025-08-31T16:29:14",
     "text": "之后去了大阪城旁边的海洋堂手办博物馆，机甲厨特摄厨狂喜（虽然我不是）\n\n这个时候就会想「如果聊聊在就好了」，看到了好多聊聊会喜欢的手办，还有聊聊摆在家里柜子上的同款...\n\n博物馆本身的话，感觉对作品的选择比较随意，每个角落都有 Eva 却完全没有 Ghibli 有点过分了。以及布展也比较随便，就只是把手办按动画分类然后按题材分类全都摆出来了，每个题材分区再写一些车轱辘话而已，明明有很多更有趣的布展方式。\n\n如果我有这么多手办，也许会做成「机甲特摄历史展」或者「动画角色历史展」吧，顺便讲些动画本身或者手办生产过程的发展之类的",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "media_group_id": 14053262035082221,
     "images": [
@@ -88638,7 +88638,7 @@
     "id": 6519,
     "date": "2025-09-06T13:52:59",
     "text": "皇居前的野生乌龟！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 179,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 14057334235122309,
     "images": [
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 319,
+    "views": 320,
     "forwards": 7,
     "files": [
       {
@@ -89094,14 +89094,14 @@
     "id": 6551,
     "date": "2025-09-09T05:26:39",
     "text": "看到招财猫迷思：如果一家店养了一只猫我肯定会去看看，但是如果是摆了一个陶瓷招财猫反而会觉得老套不想去... 所以不招财的猫比招财猫更招财（？）\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 229,
+    "views": 231,
     "forwards": 0
   },
   {
     "id": 6552,
     "date": "2025-09-09T08:40:48",
     "text": "唉... 想起四年前在加拿大买到了一箱 Asahi 的麻辣鸡白汤泡粉条，然后因为它停产了还挺伤心的，留着最后五杯一直没有吃已经放过期了还想着什么时候逆向一下来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n现在到了日本发现停产真的是太常见了，每周都有新的种类发售，也有旧的种类停产，也许一个味道没办法在未来重现有点可惜，但是至少永远不会缺好吃的东西",
-    "views": 243,
+    "views": 245,
     "forwards": 0,
     "reply": {
       "id": 766,
@@ -89113,14 +89113,14 @@
     "id": 6553,
     "date": "2025-09-09T16:42:55",
     "text": "白天超级困，晚上睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 281,
+    "views": 282,
     "forwards": 2
   },
   {
     "id": 6554,
     "date": "2025-09-10T07:03:01",
     "text": "Typst 语言真的好科学... 作为程序语言已经比大部分程序语言都顺手了",
-    "views": 240,
+    "views": 242,
     "forwards": 1,
     "reply": {
       "id": 6515,
@@ -89143,14 +89143,14 @@
     "id": 6555,
     "date": "2025-09-10T13:13:46",
     "text": "很难想象，作为喜欢街机音游喜欢到在家里自己搭机器的人，来日本之后快四个月了总共只去了两次机厅，只登录了 1 次 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>\n\n可能真的是越难得到就越会让我感兴趣吧，随时都可以去反而就没意思了",
-    "views": 234,
+    "views": 236,
     "forwards": 0
   },
   {
     "id": 6556,
     "date": "2025-09-10T17:21:53",
     "text": "来日本之前觉得神社必须有鸟居有参道手水舍狛犬拜殿本殿幣殿社務所御神籤注連繩\n\n现在看过无数个神社之后总结发现以上这些全都可以没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> <del>在桌上摆一个迷你赛钱箱也可以是神社</del>",
-    "views": 242,
+    "views": 243,
     "forwards": 1,
     "images": [
       {
@@ -89302,7 +89302,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 268,
+    "views": 269,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 266,
+    "views": 268,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 220,
+    "views": 222,
     "forwards": 0,
     "images": [
       {
@@ -89400,7 +89400,7 @@
     "id": 6574,
     "date": "2025-09-15T11:05:18",
     "text": "蓝夏和 Yuri 回西雅图的前两天去和他们加上マモル一起露营了！去的是摇曳露营圣地本栖湖旁边的浩庵露营场\n\n第二次来这里了，不过上次只是熬夜开车过去看日出烧烧早饭，这次真的搭帐篷过夜了 qwq\n\n到了露营场之后还在多云下小雨，云多到富士山完全看不见（<del>所以是やまなし県吗</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>）雨天搭帐篷好累累，烧了火锅就睡觉啦。\n\n早上起来看日出，日出看到了完整的富士山还是很高兴的！拍些照片烧烧剩下的火锅又收了帐篷就送他们去机场啦。开心开心\n\n（结果因为没睡够今天睡了 13h 还困困... 还好是休息日 <i class=\"custom-emoji\" emoji-src=\"emoji/6170408965306844904.webm\">😾</i>）",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 14063474545285581,
     "images": [
@@ -89510,7 +89510,7 @@
     "id": 6584,
     "date": "2025-09-15T11:31:19",
     "text": "众所周知富士山山顶白色的东西是云彩 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 183,
+    "views": 186,
     "forwards": 0,
     "images": [
       {
@@ -89529,7 +89529,7 @@
     "id": 6585,
     "date": "2025-09-15T12:03:16",
     "text": "晚上除了烧火锅还点了烟花！好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/5215638109068220476.tgs\">🎆</i>\n\n大概已经七八年没有自己点过烟花了，好怀念喜欢玩烟花的时候，可惜大部分地方都已经禁止烟花了...\n\n画了一些召唤晴天的魔法阵 <i class=\"custom-emoji\" emoji-src=\"emoji/5260426225599405269.tgs\">🪄</i>",
-    "views": 186,
+    "views": 189,
     "forwards": 0,
     "media_group_id": 14063502369708773,
     "images": [
@@ -89639,7 +89639,7 @@
     "id": 6595,
     "date": "2025-09-15T16:58:54",
     "text": "Gemini 好不聪明喵\n\n我让它设一分钟闹钟，它设了“整数分钟 +1 分钟之后的闹钟”\n\n...然后现在是 1:42.59，它设了 1:43.00 的闹钟，设完立刻响了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "images": [
       {
@@ -89658,14 +89658,14 @@
     "id": 6596,
     "date": "2025-09-16T07:25:26",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://www.youtube.com/watch?v=Moa7vrXWKac\">「鮎川のしづく」- 青葉市子</a>\n\n是工作的时候会听的背景声音，因为太长就不传音频只放链接了。不知道为什么我好喜欢大自然的环境音，无论是放进曲子里做背景还是单独放出来都好治愈。\n\n前几天露营睡觉的时候还把手机放在外面录了六个小时的环境音来着，希望之后能用它做些曲子 qwq",
-    "views": 179,
+    "views": 181,
     "forwards": 2
   },
   {
     "id": 6597,
     "date": "2025-09-16T14:41:27",
     "text": "好讨厌好讨厌雅虎\n\n第一次想在雅虎拍买的时候无论如何都注册不上，安卓苹果 Win、各种浏览器、流量还是宽带都试了，没有一个可以让我注册。过了几个小时又试了一次还是不行，第二天早上也不行，第二天下午再试了一次才注册上，成功买到了东西\n\n这次买的东西贵了一点，结账没意识到选错卡了，选了一张没有余额的卡被拒绝了两次，换张卡尝试结账第三次的时候所有设备都被踢出登录然后直接不让我登录了... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 188,
+    "views": 190,
     "forwards": 1,
     "media_group_id": 14064269499050461,
     "images": [
@@ -89714,7 +89714,7 @@
   {
     "id": 6601,
     "date": "2025-09-16T17:42:45",
-    "views": 188,
+    "views": 190,
     "forwards": 1,
     "images": [
       {
@@ -89733,7 +89733,7 @@
     "id": 6602,
     "date": "2025-09-17T01:57:29",
     "text": "menci 和我抱怨 kt 没有 [a, b] 和 {a: b} 的语法，每次都要写 mapOf(a to b) 好长好不顺手\n\n我立即写宏实现了这个东西 qwq\n\n我最喜欢 kt 就是因为它自由，如果有不喜欢的语法只要自己用宏定义新的语法就行了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 193,
+    "views": 197,
     "forwards": 2,
     "images": [
       {
@@ -89752,13 +89752,13 @@
     "id": 6603,
     "date": "2025-09-17T04:38:59",
     "text": "安慰剂\n\n小学天天做眼保健操导致我到现在眼睛疼的时候第一反应还是做眼保健操...",
-    "views": 185,
+    "views": 190,
     "forwards": 0
   },
   {
     "id": 6604,
     "date": "2025-09-18T07:03:13",
-    "views": 163,
+    "views": 172,
     "forwards": 0,
     "files": [
       {
@@ -89783,7 +89783,7 @@
     "id": 6605,
     "date": "2025-09-18T09:51:37",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 144,
+    "views": 154,
     "forwards": 0,
     "images": [
       {
@@ -89802,7 +89802,7 @@
     "id": 6606,
     "date": "2025-09-18T11:35:42",
     "text": "写完纸终于有时间继续整理之前的照片啦\n\n上周末去露营之前还去了三鹰吉トカ美术馆！有很多想要记下来的事情，馆内不让拍照太可惜了...\n\n也许印象最深的是「映画の生まれる場所」，穿过超复古的工作房间，了解到了一部吉トカ动画从满墙草稿到一卷完整的电影胶片的过程。\n\n似乎是单独用水彩画背景前景，背景画在纸上、前景画在透明塑料片上，然后用机器移动前景的同时用相机录下来... 2023 年的「苍鹭与少年」也是这样画的，居然从 1984 到 2023 一直坚持在用这么 analog 的过程作画，好厉害！\n\n另一个很喜欢的房间是苍鹭与少年的特别展示，盯着明信片大的水彩背景画第一次觉得眼睛的分辨率不够用 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 134,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 14065562742699149,
     "images": [
@@ -89887,7 +89887,7 @@
     "id": 6613,
     "date": "2025-09-18T12:17:32",
     "text": "不过手画 + 胶片录制的好处就是完全看不到像素点，如果哪天开始流行 8k 480fps 电影了也能很轻松重制\n\n入场的时候送给我了三帧胶片，对着灯光按下快门依然无限清晰",
-    "views": 134,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 14065582820507829,
     "images": [
@@ -89932,7 +89932,7 @@
     "id": 6616,
     "date": "2025-09-18T14:53:18",
     "text": "⚡️ shocking! ⚡️",
-    "views": 126,
+    "views": 139,
     "forwards": 0,
     "images": [
       {
@@ -89944,6 +89944,36 @@
         "url": "media/6616.jpg",
         "size": 444423,
         "thumb": "media/6616.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6617,
+    "date": "2025-09-19T15:00:47",
+    "text": "想知道是谁... 是频道里的人的话可以出来自首吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
+    "views": 83,
+    "forwards": 1,
+    "media_group_id": 14066352377544325,
+    "images": [
+      {
+        "width": 1079,
+        "height": 1378,
+        "date": "2025-09-19T15:00:46",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-19_15-00-46.jpg",
+        "url": "media/6617.jpg",
+        "size": 183746,
+        "thumb": "media/6617.jpg_thumb.jpg"
+      },
+      {
+        "width": 1080,
+        "height": 956,
+        "date": "2025-09-19T15:00:46",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-19_15-00-46.jpg",
+        "url": "media/6618.jpg",
+        "size": 77723,
+        "thumb": "media/6618.jpg_thumb.jpg"
       }
     ]
   }
