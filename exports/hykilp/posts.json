@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 454,
+    "views": 455,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -71366,14 +71366,14 @@
     "id": 5163,
     "date": "2025-04-08T04:43:46",
     "text": "说起来 这次一起旅行的人都看了少女乐队，所以开车的时候就放少女乐队吧，然后差不多把大家看过的所有都放了一遍：MyGO, Crychic, Ave Mujica, トゲトゲ, 結束バンド, K-On, μ's（草\n\n...虽然都是少女乐队但是曲风都好不一样！感觉我最喜欢的还是 K-On",
-    "views": 221,
+    "views": 222,
     "forwards": 1
   },
   {
     "id": 5164,
     "date": "2025-04-08T09:43:40",
     "text": "<a href=\"##TIL\">#TIL</a> 本地跑了一些 txt2img 模型才发现，原来 flux1 和刚公开的 hidream i1 画不出 explicit nsfw 不是因为在线平台生成后有过滤，而是训练集里就没有... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 没见过就画不出来，<span class=\"spoiler\"><span>就像 virgin 画师画不好相反性别的○○一样</span></span>",
-    "views": 227,
+    "views": 228,
     "forwards": 0
   },
   {
@@ -71629,14 +71629,14 @@
     "id": 5181,
     "date": "2025-04-12T04:42:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://www.youtube.com/watch?v=gz9BRl7DVSM\">OK Go - Love (Official Video)</a>\n\n太炫酷了",
-    "views": 239,
+    "views": 240,
     "forwards": 0
   },
   {
     "id": 5182,
     "date": "2025-04-13T01:59:15",
     "text": "打算继续直播 Split Fiction\n\n这次换上了 RTX 2080 希望不会像之前那样全损画质还只有 20fps（x）\n\n以及因为 tg 网络灵车，除了频道以外也会同时推到其他地方啦:\n* 自搭直播间: <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>\n* YouTube: （结束了）",
-    "views": 237,
+    "views": 238,
     "forwards": 0,
     "reply": {
       "id": 5054,
@@ -71653,7 +71653,7 @@
     "id": 5184,
     "date": "2025-04-13T02:11:17",
     "text": "技术问题解决了，大家想发评论在这里发w",
-    "views": 244,
+    "views": 245,
     "forwards": 0,
     "reply": {
       "id": 5182,
@@ -71670,7 +71670,7 @@
     "id": 5186,
     "date": "2025-04-14T01:30:39",
     "text": "今天尝试用 3D 打印机的时候发现打印效果非常差，分层的地方多出来了好多洞洞，查了一下发现是挤出不足的问题\n\n然后猫猫球教我校准了挤出量——在耗材上离入口 200mm 的位置做好记号，打开串口终端命令它挤 200mm，然后测量实际上挤了多少，最后再算出正确的挤出量写进打印机记忆里 qwq\n\n校准了然后顺便换了挤出头，重新打了一次质量差距居然这么大哇 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢猫猫球）",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "media_group_id": 13956753914018021,
     "images": [
@@ -71820,7 +71820,7 @@
     "id": 5199,
     "date": "2025-04-14T09:02:07",
     "text": "记得之前朋友和我说ta是靠唱歌学的日语（是麻薯还是蓝夏来着忘记了）所以我打算也试试 qwq\n\n...写写歌词发现果然不会写的中文汉字更多一点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 因为有十年没用纸笔写中文了，需要用中文的地方也只有打字和说话\n\n（不过正好中文也一起炼了",
-    "views": 354,
+    "views": 355,
     "forwards": 2,
     "images": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7593,
+    "views": 7595,
     "forwards": 170,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89026,7 +89026,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 359,
+    "views": 360,
     "forwards": 4,
     "files": [
       {
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 318,
+    "views": 319,
     "forwards": 7,
     "files": [
       {
@@ -89887,7 +89887,7 @@
     "id": 6613,
     "date": "2025-09-18T12:17:32",
     "text": "不过手画 + 胶片录制的好处就是完全看不到像素点，如果哪天开始流行 8k 480fps 电影了也能很轻松重制\n\n入场的时候送给我了三帧胶片，对着灯光按下快门依然无限清晰",
-    "views": 132,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 14065582820507829,
     "images": [
@@ -89932,7 +89932,7 @@
     "id": 6616,
     "date": "2025-09-18T14:53:18",
     "text": "⚡️ shocking! ⚡️",
-    "views": 124,
+    "views": 126,
     "forwards": 0,
     "images": [
       {
