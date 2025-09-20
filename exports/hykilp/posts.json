@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2718,
+    "views": 2719,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5633,
+    "views": 5634,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1854,
+    "views": 1855,
     "forwards": 52
   },
   {
@@ -73388,7 +73388,7 @@
     "id": 5310,
     "date": "2025-05-05T04:13:26",
     "text": "看<a href=\"https://t.me/rynif/36626\">隔壁频道</a>填了这个游戏喜好表我也来填一下，尽力用了最近玩过或者记忆依然很清楚的游戏，也尽力没有重复... 有太多很好的选择了填表好费力 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n记得超级久之前填过一次，但是找不到了，这两次的答案肯定很不一样吧",
-    "views": 476,
+    "views": 477,
     "forwards": 3,
     "images": [
       {
@@ -73637,7 +73637,7 @@
     "id": 5326,
     "date": "2025-05-08T16:22:58",
     "text": "以及 刚才安检的时候果然因为 edc27 被抽查了\n\n安检员：这是什么\n我：手电筒\n安检员：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6170273433318852395.webm\">🙄</i>\n我：你按一下开关\n安检员：还真是手电筒\n\n（还能是光剑吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 332,
+    "views": 333,
     "forwards": 2,
     "reply": {
       "id": 5325,
@@ -73648,7 +73648,7 @@
     "id": 5327,
     "date": "2025-05-09T09:22:23",
     "text": "日本に来ました!",
-    "views": 324,
+    "views": 325,
     "forwards": 3,
     "media_group_id": 13974260346591509,
     "images": [
@@ -73678,14 +73678,14 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 305,
+    "views": 306,
     "forwards": 3
   },
   {
     "id": 5330,
     "date": "2025-05-09T14:43:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n<del>馄饨邪恶</del>広州雲吞面\n\n以及见到了谦谦，开心！<del>感谢谦谦帮我补充了很多这边的常识</del>",
-    "views": 323,
+    "views": 324,
     "forwards": 2,
     "images": [
       {
@@ -73704,7 +73704,7 @@
     "id": 5331,
     "date": "2025-05-09T16:16:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ Why do the stars shine so bright in the sky\n♪ If most of the people are sleeping at night",
-    "views": 316,
+    "views": 317,
     "forwards": 1,
     "files": [
       {
@@ -73726,7 +73726,7 @@
     "id": 5332,
     "date": "2025-05-10T01:41:35",
     "text": "成功地在来日本之前提前把作息倒好了，第一天就有凌晨一点睡早上十点半起的健康（？）作息 qwq",
-    "views": 299,
+    "views": 300,
     "forwards": 0
   },
   {
@@ -81140,7 +81140,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "images": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7620,
+    "views": 7622,
     "forwards": 170,
     "media_group_id": 14043941176651549,
     "images": [
@@ -88509,7 +88509,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 215,
+    "views": 216,
     "forwards": 1,
     "reply": {
       "id": 6510,
@@ -88533,7 +88533,7 @@
     "id": 6513,
     "date": "2025-09-05T10:40:44",
     "text": "Typst 好草台啊\n\n写纸，我把纸同步到 github 上，在<i class=\"custom-emoji\" emoji-src=\"emoji/6327609909416298142.tgs\">💻</i>上编辑完之后传了一个 CRLF 的文件上去，然后 everything explodes <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n<a href=\"https://github.com/typst/webapp-issues/issues/713\">提了 issue</a>",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14056550757339653,
     "images": [
@@ -89120,7 +89120,7 @@
     "id": 6554,
     "date": "2025-09-10T07:03:01",
     "text": "Typst 语言真的好科学... 作为程序语言已经比大部分程序语言都顺手了",
-    "views": 243,
+    "views": 245,
     "forwards": 1,
     "reply": {
       "id": 6515,
@@ -89150,7 +89150,7 @@
     "id": 6556,
     "date": "2025-09-10T17:21:53",
     "text": "来日本之前觉得神社必须有鸟居有参道手水舍狛犬拜殿本殿幣殿社務所御神籤注連繩\n\n现在看过无数个神社之后总结发现以上这些全都可以没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> <del>在桌上摆一个迷你赛钱箱也可以是神社</del>",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "images": [
       {
@@ -89169,7 +89169,7 @@
     "id": 6557,
     "date": "2025-09-10T17:51:36",
     "text": "迷你塞钱箱有人 get 到了",
-    "views": 251,
+    "views": 252,
     "forwards": 1,
     "reply": {
       "id": 6556,
@@ -89192,7 +89192,7 @@
     "id": 6558,
     "date": "2025-09-11T01:05:54",
     "text": "被自己蠢哭了\n\n五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 <code>!!</code> 来判断是否为空了\n\n然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里\n\n更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 306,
+    "views": 307,
     "forwards": 2,
     "media_group_id": 14060422032265693,
     "images": [
@@ -89222,7 +89222,7 @@
     "id": 6560,
     "date": "2025-09-11T03:09:55",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n去了一家评价超高的店，吃了感觉真的对得起这个评价。肉超软，而且只要 740 一碗肉乌冬好便宜，以及店里在放 beatles 的 let it be 专辑还有唱片挂在墙上<del>让乌冬更好吃了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n...吃完出来看门口排满了社畜，还好我来得早 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 1,
     "media_group_id": 14060481561338693,
     "images": [
@@ -89302,7 +89302,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 251,
+    "views": 252,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 274,
+    "views": 275,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 273,
+    "views": 274,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 231,
+    "views": 233,
     "forwards": 0,
     "images": [
       {
@@ -89400,7 +89400,7 @@
     "id": 6574,
     "date": "2025-09-15T11:05:18",
     "text": "蓝夏和 Yuri 回西雅图的前两天去和他们加上マモル一起露营了！去的是摇曳露营圣地本栖湖旁边的浩庵露营场\n\n第二次来这里了，不过上次只是熬夜开车过去看日出烧烧早饭，这次真的搭帐篷过夜了 qwq\n\n到了露营场之后还在多云下小雨，云多到富士山完全看不见（<del>所以是やまなし県吗</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>）雨天搭帐篷好累累，烧了火锅就睡觉啦。\n\n早上起来看日出，日出看到了完整的富士山还是很高兴的！拍些照片烧烧剩下的火锅又收了帐篷就送他们去机场啦。开心开心\n\n（结果因为没睡够今天睡了 13h 还困困... 还好是休息日 <i class=\"custom-emoji\" emoji-src=\"emoji/6170408965306844904.webm\">😾</i>）",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "media_group_id": 14063474545285581,
     "images": [
@@ -89510,7 +89510,7 @@
     "id": 6584,
     "date": "2025-09-15T11:31:19",
     "text": "众所周知富士山山顶白色的东西是云彩 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "images": [
       {
@@ -89529,7 +89529,7 @@
     "id": 6585,
     "date": "2025-09-15T12:03:16",
     "text": "晚上除了烧火锅还点了烟花！好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/5215638109068220476.tgs\">🎆</i>\n\n大概已经七八年没有自己点过烟花了，好怀念喜欢玩烟花的时候，可惜大部分地方都已经禁止烟花了...\n\n画了一些召唤晴天的魔法阵 <i class=\"custom-emoji\" emoji-src=\"emoji/5260426225599405269.tgs\">🪄</i>",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "media_group_id": 14063502369708773,
     "images": [
@@ -89639,7 +89639,7 @@
     "id": 6595,
     "date": "2025-09-15T16:58:54",
     "text": "Gemini 好不聪明喵\n\n我让它设一分钟闹钟，它设了“整数分钟 +1 分钟之后的闹钟”\n\n...然后现在是 1:42.59，它设了 1:43.00 的闹钟，设完立刻响了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "images": [
       {
@@ -89658,14 +89658,14 @@
     "id": 6596,
     "date": "2025-09-16T07:25:26",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://www.youtube.com/watch?v=Moa7vrXWKac\">「鮎川のしづく」- 青葉市子</a>\n\n是工作的时候会听的背景声音，因为太长就不传音频只放链接了。不知道为什么我好喜欢大自然的环境音，无论是放进曲子里做背景还是单独放出来都好治愈。\n\n前几天露营睡觉的时候还把手机放在外面录了六个小时的环境音来着，希望之后能用它做些曲子 qwq",
-    "views": 186,
+    "views": 187,
     "forwards": 2
   },
   {
     "id": 6597,
     "date": "2025-09-16T14:41:27",
     "text": "好讨厌好讨厌雅虎\n\n第一次想在雅虎拍买的时候无论如何都注册不上，安卓苹果 Win、各种浏览器、流量还是宽带都试了，没有一个可以让我注册。过了几个小时又试了一次还是不行，第二天早上也不行，第二天下午再试了一次才注册上，成功买到了东西\n\n这次买的东西贵了一点，结账没意识到选错卡了，选了一张没有余额的卡被拒绝了两次，换张卡尝试结账第三次的时候所有设备都被踢出登录然后直接不让我登录了... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 1,
     "media_group_id": 14064269499050461,
     "images": [
@@ -89714,7 +89714,7 @@
   {
     "id": 6601,
     "date": "2025-09-16T17:42:45",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "images": [
       {
@@ -89733,7 +89733,7 @@
     "id": 6602,
     "date": "2025-09-17T01:57:29",
     "text": "menci 和我抱怨 kt 没有 [a, b] 和 {a: b} 的语法，每次都要写 mapOf(a to b) 好长好不顺手\n\n我立即写宏实现了这个东西 qwq\n\n我最喜欢 kt 就是因为它自由，如果有不喜欢的语法只要自己用宏定义新的语法就行了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 213,
+    "views": 214,
     "forwards": 2,
     "images": [
       {
@@ -89752,13 +89752,13 @@
     "id": 6603,
     "date": "2025-09-17T04:38:59",
     "text": "安慰剂\n\n小学天天做眼保健操导致我到现在眼睛疼的时候第一反应还是做眼保健操...",
-    "views": 203,
+    "views": 204,
     "forwards": 0
   },
   {
     "id": 6604,
     "date": "2025-09-18T07:03:13",
-    "views": 186,
+    "views": 187,
     "forwards": 0,
     "files": [
       {
@@ -89783,7 +89783,7 @@
     "id": 6605,
     "date": "2025-09-18T09:51:37",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 178,
+    "views": 180,
     "forwards": 0,
     "images": [
       {
@@ -89802,7 +89802,7 @@
     "id": 6606,
     "date": "2025-09-18T11:35:42",
     "text": "写完纸终于有时间继续整理之前的照片啦\n\n上周末去露营之前还去了三鹰吉トカ美术馆！有很多想要记下来的事情，馆内不让拍照太可惜了...\n\n也许印象最深的是「映画の生まれる場所」，穿过超复古的工作房间，了解到了一部吉トカ动画从满墙草稿到一卷完整的电影胶片的过程。\n\n似乎是单独用水彩画背景前景，背景画在纸上、前景画在透明塑料片上，然后用机器移动前景的同时用相机录下来... 2023 年的「苍鹭与少年」也是这样画的，居然从 1984 到 2023 一直坚持在用这么 analog 的过程作画，好厉害！\n\n另一个很喜欢的房间是苍鹭与少年的特别展示，盯着明信片大的水彩背景画第一次觉得眼睛的分辨率不够用 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 170,
+    "views": 172,
     "forwards": 0,
     "media_group_id": 14065562742699149,
     "images": [
@@ -89887,7 +89887,7 @@
     "id": 6613,
     "date": "2025-09-18T12:17:32",
     "text": "不过手画 + 胶片录制的好处就是完全看不到像素点，如果哪天开始流行 8k 480fps 电影了也能很轻松重制\n\n入场的时候送给我了三帧胶片，对着灯光按下快门依然无限清晰",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14065582820507829,
     "images": [
@@ -89932,7 +89932,7 @@
     "id": 6616,
     "date": "2025-09-18T14:53:18",
     "text": "⚡️ shocking! ⚡️",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
@@ -89951,7 +89951,7 @@
     "id": 6617,
     "date": "2025-09-19T15:00:47",
     "text": "想知道是谁... 是频道里的人的话可以出来自首吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 1,
     "media_group_id": 14066352377544325,
     "images": [
@@ -89981,7 +89981,7 @@
     "id": 6619,
     "date": "2025-09-20T01:31:49",
     "text": "实习结束了。导师组织了离别派对（实际上是晚餐）\n\n每次都好不想要离开...",
-    "views": 133,
+    "views": 135,
     "forwards": 0,
     "media_group_id": 14066655278384837,
     "images": [
@@ -90061,7 +90061,7 @@
     "id": 6626,
     "date": "2025-09-20T01:40:06",
     "text": "见到 syama 了，syama 可爱喵",
-    "views": 132,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 14066659255534285,
     "images": [
@@ -90111,7 +90111,7 @@
     "id": 6631,
     "date": "2025-09-20T10:43:28",
     "text": "黑猫：盯——",
-    "views": 83,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -90130,7 +90130,7 @@
     "id": 6632,
     "date": "2025-09-20T11:21:35",
     "text": "来日本之后第一次旅行就去了这个高松灯圣地水族馆，今天因为 syama 住池袋旁边就又去了一趟，不过这次是在天上 qwq\n\n企鹅在天上飞，猫也在天上飞 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n以及展望台上有涂得超好看的钢琴，去弹了弹，可惜有点跑调...（唉感觉还是电钢琴适合放在公共区域，至少不会跑调）",
-    "views": 60,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 14066938361045525,
     "images": [
@@ -90245,7 +90245,7 @@
     "id": 6652,
     "date": "2025-09-20T11:47:57",
     "text": "逛街\n\n扭扭蛋，看到了一个「服务器 rack 扭蛋机」就扭了两个，然后发现需要集齐四个才能拼出整个 rack，感觉被骗了\n\n去机厅，第一次在机厅看到官方机器进 test menu（最然已经在家里见太多了）",
-    "views": 41,
+    "views": 51,
     "forwards": 0,
     "media_group_id": 14066951022026901,
     "images": [
