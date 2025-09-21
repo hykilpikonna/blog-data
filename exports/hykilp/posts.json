@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2719,
+    "views": 2720,
     "forwards": 29,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6234,
+    "views": 6235,
     "forwards": 147,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7637,
+    "views": 7638,
     "forwards": 171,
     "media_group_id": 14043941176651549,
     "images": [
@@ -88678,7 +88678,7 @@
     "id": 6522,
     "date": "2025-09-06T14:41:16",
     "text": "今天去了 <a href=\"https://nt-tokyo.org/\">NT 東京</a>，是一个 DIY 科技展，全称「なんか作ってみた」翻译过来的话就是「随便做了点什么」展，简直是天堂 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n整理几个最喜欢的吧\n\n1. 一个 3D RGB 矩阵\n2. 点餐乐器，每个点餐按钮都是一个乐器音色\n3. 能用一只尖角独立的方块机器人\n4. 盲文 LED 数显（有什么用啊！\n5. LED 树\n6. 很可爱的电动人偶\n7. 用铜线做的立体电路表\n8. 时针控制的迷你合成器\n9. 超炫酷盔甲（还有会发光的刀！\n10. 超迷你的合法摩托车\n\n我真的超喜欢这些除了炫酷没有别的意义的电子手工，不用考虑 funding 不用考虑 scalability 才能做出世界独一无二的东西啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 2,
     "media_group_id": 14057357408743357,
     "images": [
@@ -89113,7 +89113,7 @@
     "id": 6553,
     "date": "2025-09-09T16:42:55",
     "text": "白天超级困，晚上睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 284,
+    "views": 285,
     "forwards": 2
   },
   {
@@ -90111,7 +90111,7 @@
     "id": 6631,
     "date": "2025-09-20T10:43:28",
     "text": "黑猫：盯——",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
