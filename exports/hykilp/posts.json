@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 178,
+    "views": 179,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 286,
+    "views": 287,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 206,
+    "views": 207,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 349,
+    "views": 350,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 384,
+    "views": 385,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 300,
+    "views": 301,
     "forwards": 1,
     "images": [
       {
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 214,
+    "views": 215,
     "forwards": 0,
     "images": [
       {
@@ -69218,7 +69218,7 @@
     "id": 5011,
     "date": "2025-03-10T14:41:15",
     "text": "发现自己 Arch 上有好多没用到的包，所以写了一个 <a href=\"https://github.com/hykilpikonna/zshrc/blob/master/scripts/bin/pacman-clean-unused.py\">python 脚本</a> 列出所有没用的包然后一个个问我要不要删\n\n总共删掉了 239 个包清出来 1.7GB，其中包含七个版本的 electron... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 2,
     "images": [
       {
@@ -69237,7 +69237,7 @@
     "id": 5012,
     "date": "2025-03-11T04:50:09",
     "text": "好讨厌 Meta...\n\n今天拿起来 Quest 3 发现系统自动更新了，更新之后没办法打开第三方输入法了，打开微信输入法还会直接让系统卡死自动重启... 系统自带的输入法还不支持中文，不知道怎么办\n\n以及 UI 也被大改了... 主观觉得新 UI 的这个渐变像是十年前流行的设计",
-    "views": 287,
+    "views": 288,
     "forwards": 1,
     "reply": {
       "id": 4849,
@@ -69261,7 +69261,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 413,
+    "views": 414,
     "forwards": 3,
     "images": [
       {
@@ -69280,7 +69280,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 303,
+    "views": 305,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -69310,7 +69310,7 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 764,
+    "views": 765,
     "forwards": 9
   },
   {
@@ -71820,7 +71820,7 @@
     "id": 5199,
     "date": "2025-04-14T09:02:07",
     "text": "记得之前朋友和我说ta是靠唱歌学的日语（是麻薯还是蓝夏来着忘记了）所以我打算也试试 qwq\n\n...写写歌词发现果然不会写的中文汉字更多一点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 因为有十年没用纸笔写中文了，需要用中文的地方也只有打字和说话\n\n（不过正好中文也一起炼了",
-    "views": 355,
+    "views": 356,
     "forwards": 2,
     "images": [
       {
@@ -71839,7 +71839,7 @@
     "id": 5200,
     "date": "2025-04-14T10:37:13",
     "text": "...呜 结果不知不觉就又看到日出了还没睡，作息又坏掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n不过今天日出好好看",
-    "views": 434,
+    "views": 435,
     "forwards": 0,
     "images": [
       {
@@ -71858,14 +71858,14 @@
     "id": 5202,
     "date": "2025-04-15T02:39:32",
     "text": "这条消息里藏着一道谜题 谁先解出来有蛋糕哦 qwq󠀁󠀵󠁚󠁏󠁱󠀶󠁙󠁥󠁍󠀵󠁌󠁩󠁎󠀵󠁡󠀫󠀵󠀷󠀷󠁹󠁦󠁃󠁶󠁏󠁧󠁧󠁉󠁈󠁺󠁯󠁉󠁇󠁄󠀸󠀶󠁃󠁂󠁲󠀯󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁳󠁶󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠀰󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁋󠁈󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠀱󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁴󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁱󠁦󠁏󠁧󠁧󠁡󠁔󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁇󠁺󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁃󠀶󠀸󠀶󠁃󠁁󠁳󠀯󠁏󠁧󠁧󠁙󠁪󠁺󠁯󠁉󠁇󠁨󠀸󠀶󠁃󠁂󠁴󠁶󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠁴󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁯󠁦󠁏󠁧󠁧󠁡󠁶󠁺󠁯󠁉󠁇󠁬󠀸󠀶󠁃󠁁󠁯󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁴󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁷󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁌󠁲󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁲󠀯󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁃󠁵󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁱󠀯󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁒󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠁪󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠁮󠁺󠁯󠁉󠁇󠁉󠀸󠀶󠁃󠁂󠁪󠀯󠁏󠁧󠁧󠁚󠁪󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁵󠁶󠁏󠁧󠁧󠁚󠁮󠁺󠁯󠁉󠁇󠁕󠀸󠀶󠁃󠁂󠁬󠁶󠁏󠁧󠁧󠁡󠁺󠁺󠁯󠁉󠁇󠀯󠁿\n\n(提示: UTF-8",
-    "views": 535,
+    "views": 536,
     "forwards": 11
   },
   {
     "id": 5203,
     "date": "2025-04-15T04:06:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n发现牛肉面里面加上辣椒油味道好棒 qwq\n\n（然后把自己辣到了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 457,
+    "views": 458,
     "forwards": 1,
     "images": [
       {
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 345,
+    "views": 346,
     "forwards": 2,
     "media_group_id": 13958125648289765,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5634,
+    "views": 5635,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7630,
+    "views": 7633,
     "forwards": 170,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86447,7 +86447,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 302,
+    "views": 303,
     "forwards": 5,
     "images": [
       {
@@ -86466,7 +86466,7 @@
     "id": 6335,
     "date": "2025-08-23T13:31:12",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n之前去静岡「茶の都」体验了磨抹茶，把一小袋茶叶放在这个石头工具的中心转圈圈磨成了抹茶粉\n\n今天买冰淇淋做了 DIY 抹茶冰淇淋！超好吃 qwq",
-    "views": 245,
+    "views": 246,
     "forwards": 0,
     "media_group_id": 14047646978062029,
     "images": [
@@ -86546,7 +86546,7 @@
     "id": 6342,
     "date": "2025-08-24T00:01:54",
     "text": "给 oau 后端机器人写了一个 gpt5 早安 bot！（想法其实来源于每天早九的定时重启消息hhh）\n\n实现起来比预想要难，感觉想开启 gpt5 的脑洞让它输出随机无厘头的文字绕了好多圈圈。\n\n写了篇 <a href=\"https://aza.moe/blog?post=2025-08-24-%E6%97%A9%E5%AE%89%E6%9C%BA%E5%99%A8%E4%BA%BA\">writeup</a>，感兴趣欢迎读读",
-    "views": 261,
+    "views": 262,
     "forwards": 3,
     "media_group_id": 14047949714238109,
     "images": [
@@ -86586,7 +86586,7 @@
     "id": 6345,
     "date": "2025-08-24T10:29:38",
     "text": "打开了之前在冲绳水族馆买的气泡饮料，海蓝色的好好看（包装也好好看）\n\n喝起来味道像 ramune",
-    "views": 241,
+    "views": 242,
     "forwards": 0,
     "images": [
       {
@@ -86605,7 +86605,7 @@
     "id": 6346,
     "date": "2025-08-24T10:39:45",
     "text": "介绍一下我的新室友",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "images": [
       {
@@ -86675,7 +86675,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 242,
+    "views": 243,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -87350,7 +87350,7 @@
     "id": 6406,
     "date": "2025-08-29T15:15:16",
     "text": "到大阪了！\n\n并没有想好明天后天要去哪里玩，大家有什么推荐去的地方嘛？<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n其实这次是因为谦谦原本看到了很好的 deal 想去大阪买车就和她的朋友订了机票，结果他们反悔改成了开车去大阪玩，多出的机票就给我了，然后三个人没人定了计划（xxx）",
-    "views": 215,
+    "views": 216,
     "forwards": 1,
     "media_group_id": 14051844129663845,
     "images": [
@@ -90111,7 +90111,7 @@
     "id": 6631,
     "date": "2025-09-20T10:43:28",
     "text": "黑猫：盯——",
-    "views": 98,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -90130,7 +90130,7 @@
     "id": 6632,
     "date": "2025-09-20T11:21:35",
     "text": "来日本之后第一次旅行就去了这个高松灯圣地水族馆，今天因为 syama 住池袋旁边就又去了一趟，不过这次是在天上 qwq\n\n企鹅在天上飞，猫也在天上飞 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n以及展望台上有涂得超好看的钢琴，去弹了弹，可惜有点跑调...（唉感觉还是电钢琴适合放在公共区域，至少不会跑调）",
-    "views": 77,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 14066938361045525,
     "images": [
@@ -90245,7 +90245,7 @@
     "id": 6652,
     "date": "2025-09-20T11:47:57",
     "text": "逛街\n\n扭扭蛋，看到了一个「服务器 rack 扭蛋机」就扭了两个，然后发现需要集齐四个才能拼出整个 rack，感觉被骗了\n\n去机厅，第一次在机厅看到官方机器进 test menu（最然已经在家里见太多了）",
-    "views": 62,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 14066951022026901,
     "images": [
