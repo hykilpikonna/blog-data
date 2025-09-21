@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6235,
+    "views": 6236,
     "forwards": 147,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7638,
+    "views": 7639,
     "forwards": 171,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89951,7 +89951,7 @@
     "id": 6617,
     "date": "2025-09-19T15:00:47",
     "text": "想知道是谁... 是频道里的人的话可以出来自首吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "media_group_id": 14066352377544325,
     "images": [
@@ -89981,7 +89981,7 @@
     "id": 6619,
     "date": "2025-09-20T01:31:49",
     "text": "实习结束了。导师组织了离别派对（实际上是晚餐）\n\n每次都好不想要离开...",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "media_group_id": 14066655278384837,
     "images": [
@@ -90061,7 +90061,7 @@
     "id": 6626,
     "date": "2025-09-20T01:40:06",
     "text": "见到 syama 了，syama 可爱喵",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 14066659255534285,
     "images": [
@@ -90111,7 +90111,7 @@
     "id": 6631,
     "date": "2025-09-20T10:43:28",
     "text": "黑猫：盯——",
-    "views": 106,
+    "views": 109,
     "forwards": 0,
     "images": [
       {
@@ -90130,7 +90130,7 @@
     "id": 6632,
     "date": "2025-09-20T11:21:35",
     "text": "来日本之后第一次旅行就去了这个高松灯圣地水族馆，今天因为 syama 住池袋旁边就又去了一趟，不过这次是在天上 qwq\n\n企鹅在天上飞，猫也在天上飞 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n以及展望台上有涂得超好看的钢琴，去弹了弹，可惜有点跑调...（唉感觉还是电钢琴适合放在公共区域，至少不会跑调）",
-    "views": 89,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 14066938361045525,
     "images": [
@@ -90245,7 +90245,7 @@
     "id": 6652,
     "date": "2025-09-20T11:47:57",
     "text": "逛街\n\n扭扭蛋，看到了一个「服务器 rack 扭蛋机」就扭了两个，然后发现需要集齐四个才能拼出整个 rack，感觉被骗了\n\n去机厅，第一次在机厅看到官方机器进 test menu（最然已经在家里见太多了）",
-    "views": 76,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 14066951022026901,
     "images": [
