@@ -68575,7 +68575,7 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 356,
+    "views": 357,
     "forwards": 11
   },
   {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5639,
+    "views": 5640,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7672,
+    "views": 7677,
     "forwards": 171,
     "media_group_id": 14043941176651549,
     "images": [
@@ -88678,7 +88678,7 @@
     "id": 6522,
     "date": "2025-09-06T14:41:16",
     "text": "今天去了 <a href=\"https://nt-tokyo.org/\">NT 東京</a>，是一个 DIY 科技展，全称「なんか作ってみた」翻译过来的话就是「随便做了点什么」展，简直是天堂 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n整理几个最喜欢的吧\n\n1. 一个 3D RGB 矩阵\n2. 点餐乐器，每个点餐按钮都是一个乐器音色\n3. 能用一只尖角独立的方块机器人\n4. 盲文 LED 数显（有什么用啊！\n5. LED 树\n6. 很可爱的电动人偶\n7. 用铜线做的立体电路表\n8. 时针控制的迷你合成器\n9. 超炫酷盔甲（还有会发光的刀！\n10. 超迷你的合法摩托车\n\n我真的超喜欢这些除了炫酷没有别的意义的电子手工，不用考虑 funding 不用考虑 scalability 才能做出世界独一无二的东西啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 186,
+    "views": 187,
     "forwards": 2,
     "media_group_id": 14057357408743357,
     "images": [
@@ -89192,7 +89192,7 @@
     "id": 6558,
     "date": "2025-09-11T01:05:54",
     "text": "被自己蠢哭了\n\n五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 <code>!!</code> 来判断是否为空了\n\n然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里\n\n更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 308,
+    "views": 309,
     "forwards": 2,
     "media_group_id": 14060422032265693,
     "images": [
@@ -90111,7 +90111,7 @@
     "id": 6631,
     "date": "2025-09-20T10:43:28",
     "text": "黑猫：盯——",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "images": [
       {
@@ -90355,7 +90355,7 @@
     "id": 6662,
     "date": "2025-09-21T14:27:27",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ All of your joy is in a simulation\n♪ All of your hate is in a simulation\n♪ All of the world is in a simulation\n♪ All of your fate is in a simulation\n\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 1,
     "files": [
       {
@@ -90417,7 +90417,7 @@
     "id": 6666,
     "date": "2025-09-22T14:03:02",
     "text": "恭喜我拍了一万张照片，文件名计数重置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一万张照片是 <i class=\"custom-emoji\" emoji-src=\"emoji/6323368040800978611.webp\">👆</i>\n\n从买相机到拍一万张照片总共花了 81 天，<del>平均每天拍了 123.456 张照片</del>",
-    "views": 113,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 14068398259263453,
     "images": [
@@ -90447,7 +90447,7 @@
     "id": 6668,
     "date": "2025-09-22T15:41:44",
     "text": "今天和 syama 和 rastvas 去了 teamLab Borderless，绝对是我心中最喜欢的艺术馆\n\n首先是它真的好好看！是灯光与饱和度的盛宴，感觉快门完全没法捕捉出映入眼帘的震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 98,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 14068445633505293,
     "images": [
@@ -90557,7 +90557,7 @@
     "id": 6678,
     "date": "2025-09-22T15:58:01",
     "text": "更多好看照片（都好好看选不出来，全都发出来好了）",
-    "views": 89,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 14068453448472181,
     "images": [
@@ -90672,7 +90672,7 @@
     "id": 6688,
     "date": "2025-09-22T16:23:52",
     "text": "以及这个艺术馆技术力真的好强，几乎所有环境中的光源都是可互动的，仿佛身边的光是活着的生物一样\n\n像水一样的线条会沿着鞋子流下去、墙上的小鱼摸摸它会逃走、在桌上放一杯冰淇淋会长出树枝、放一杯抹茶会长出小花、坐下来冥想会出现灵气...\n\n完全是魔法了，居然可以覆盖这么大范围的可互动性，每个有光的地方都可以互动，不知道是怎样实现的（目前的猜测是可能是基于红外的视觉大模型...）\n\n还有一个相机完全没法捕捉的 3D 屏障也同样不知道是怎样实现的，路过的时候看起来完全就是一般的墙，直到看别人把手伸进去我才发现是投影（试着录了像但是发现回放完全没效果）",
-    "views": 84,
+    "views": 87,
     "forwards": 0,
     "media_group_id": 14068465863261549,
     "images": [
