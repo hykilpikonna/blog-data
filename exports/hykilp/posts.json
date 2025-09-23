@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2721,
+    "views": 2722,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5640,
+    "views": 5641,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -83289,7 +83289,7 @@
     "id": 6088,
     "date": "2025-08-03T14:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n聊聊看我发不喜欢的 Beatles 曲子不开心，那就发一首喜欢的 Beatles 曲子好了 qwq\n\n<em>Now And Then</em> 是 Beatles 的最后一首曲子，是 2023 年把解散之后 1990 年没发布的录音翻出来重新制作的曲子。\n\n虽然 Beatles 也许是历史上对音乐影响最大的乐队，在现在这个信息快速涌入的时代里也很难不被遗忘——即使知道自己会被遗忘，即使知道从前的粉丝们已经 move on，也会希望大家能时不时回来听听自己的曲子，也许这首歌就是这样的心情吧。\n\n♪ Oh, now and then\n♪ I want you to be there for me\n♪ Always to return to me\n♪ I know it's true\n♪ It's all because of you\n♪ And if you go away\n♪ I know you'll never stay",
-    "views": 265,
+    "views": 266,
     "forwards": 0,
     "files": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7677,
+    "views": 7678,
     "forwards": 171,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86466,7 +86466,7 @@
     "id": 6335,
     "date": "2025-08-23T13:31:12",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n之前去静岡「茶の都」体验了磨抹茶，把一小袋茶叶放在这个石头工具的中心转圈圈磨成了抹茶粉\n\n今天买冰淇淋做了 DIY 抹茶冰淇淋！超好吃 qwq",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "media_group_id": 14047646978062029,
     "images": [
@@ -86546,7 +86546,7 @@
     "id": 6342,
     "date": "2025-08-24T00:01:54",
     "text": "给 oau 后端机器人写了一个 gpt5 早安 bot！（想法其实来源于每天早九的定时重启消息hhh）\n\n实现起来比预想要难，感觉想开启 gpt5 的脑洞让它输出随机无厘头的文字绕了好多圈圈。\n\n写了篇 <a href=\"https://aza.moe/blog?post=2025-08-24-%E6%97%A9%E5%AE%89%E6%9C%BA%E5%99%A8%E4%BA%BA\">writeup</a>，感兴趣欢迎读读",
-    "views": 266,
+    "views": 267,
     "forwards": 3,
     "media_group_id": 14047949714238109,
     "images": [
@@ -86586,7 +86586,7 @@
     "id": 6345,
     "date": "2025-08-24T10:29:38",
     "text": "打开了之前在冲绳水族馆买的气泡饮料，海蓝色的好好看（包装也好好看）\n\n喝起来味道像 ramune",
-    "views": 244,
+    "views": 245,
     "forwards": 0,
     "images": [
       {
@@ -86605,7 +86605,7 @@
     "id": 6346,
     "date": "2025-08-24T10:39:45",
     "text": "介绍一下我的新室友",
-    "views": 223,
+    "views": 224,
     "forwards": 0,
     "images": [
       {
@@ -86625,7 +86625,7 @@
     "id": 6348,
     "date": "2025-08-24T10:51:00",
     "text": "一些东京港区日常的景色\n\n（第一次开 hdr 给图片调色，不知道在非 hdr 设备上看会不会怪怪的）",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "media_group_id": 14048261284535165,
     "images": [
@@ -86675,7 +86675,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 246,
+    "views": 247,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -86715,7 +86715,7 @@
     "id": 6355,
     "date": "2025-08-24T15:38:18",
     "text": "有点想做一个拉面排行榜 / tier list 之类的 qwq",
-    "views": 237,
+    "views": 238,
     "forwards": 0,
     "reply": {
       "id": 6352,
@@ -86727,7 +86727,7 @@
     "id": 6358,
     "date": "2025-08-25T16:47:41",
     "text": "工作要和同事抢计算资源好累...\n\n现在人多了，本社 lab 上一个月里可能只有几个小时会有空闲 gpu，社外集群里本组分区排满了队，共享分区跑几分钟就被 preempt...\n\n这要怎么做事情嘛",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "images": [
       {
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 276,
+    "views": 277,
     "forwards": 4,
     "images": [
       {
@@ -86765,7 +86765,7 @@
     "id": 6360,
     "date": "2025-08-26T13:20:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n达成成就：参加居酒派对（飲み会）完全没有喝酒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<del>达成成就：明明餐桌上有吃不完的食物结果因为一直在聊天没吃饱回家之后又买了鯛焼</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 234,
+    "views": 235,
     "forwards": 1,
     "media_group_id": 14049715294488173,
     "images": [
@@ -86845,7 +86845,7 @@
     "id": 6368,
     "date": "2025-08-26T14:41:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鯛焼！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "media_group_id": 14049754386902813,
     "images": [
@@ -86875,7 +86875,7 @@
     "id": 6369,
     "date": "2025-08-26T15:49:49",
     "text": "以及 听做 AI 的同事用各种 AI 术语讲他们刚生下来和还没生下来的孩子感觉怪怪的\n\n还有人和大家讲在教他的两三岁小孩 markov chain，好可怕\n\n所以我依然是整个房间里最小的... 他们在讨论让孩子从很小开始学英语会不会让日语说不好，<del>然后我和他们聊因为被从小教英语而中文说不好的亲身经历</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及还见到了之前 telegram 上和我搭话还打 maimai 的神秘同事！世界好小",
-    "views": 251,
+    "views": 252,
     "forwards": 6,
     "reply": {
       "id": 6360,
@@ -86887,7 +86887,7 @@
     "id": 6370,
     "date": "2025-08-26T16:56:31",
     "text": "syama 捡了一只猫回家，但是毫无准备，所以我赶快美团买了些零食和工具送过去，现在猫猫看起来还不错，不知道猫怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> <a href=\"##猫\">#猫</a>",
-    "views": 235,
+    "views": 236,
     "forwards": 4,
     "media_group_id": 14049819133094989,
     "images": [
@@ -86937,7 +86937,7 @@
     "id": 6374,
     "date": "2025-08-26T18:04:42",
     "text": "<a href=\"##猫\">#猫</a>",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "files": [
       {
@@ -86959,7 +86959,7 @@
     "id": 6375,
     "date": "2025-08-26T18:06:50",
     "text": "和猫打电话.gif\n\n完了感觉要变成云养猫频道了 <a href=\"##猫\">#猫</a>",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "files": [
       {
@@ -86981,7 +86981,7 @@
     "id": 6377,
     "date": "2025-08-27T01:28:01",
     "text": "……然后谷歌前几天<a href=\"https://android.googleapis.com/attestation/status\">又撤销了一批公开 keybox</a>，现在 play integrity 又过不去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过买手机的时候也没有期待可以过啦，至少现在还没有需要 play integrity 的 app 是不能被平替的",
-    "views": 256,
+    "views": 257,
     "forwards": 2,
     "reply": {
       "id": 6163,
@@ -86993,7 +86993,7 @@
     "id": 6378,
     "date": "2025-08-27T08:34:01",
     "text": "mzk 生日快乐喵",
-    "views": 384,
+    "views": 385,
     "forwards": 3,
     "images": [
       {
@@ -87012,7 +87012,7 @@
     "id": 6379,
     "date": "2025-08-27T14:08:29",
     "text": "让 syama 给猫猫进行了体检，看着视频我都好害怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n-CN￥300，比想象中便宜，不过之后还要打疫苗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n以及知道了是只很小的男猫，预估年龄两个月 qwq",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "media_group_id": 14050429674378829,
     "images": [
@@ -87062,7 +87062,7 @@
     "id": 6383,
     "date": "2025-08-28T10:16:29",
     "text": "一些 out of context 好看照片 📷",
-    "views": 213,
+    "views": 214,
     "forwards": 1,
     "media_group_id": 14051009513327653,
     "images": [
@@ -87172,7 +87172,7 @@
     "id": 6393,
     "date": "2025-08-28T10:42:43",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n之前那个宝可梦x初音ミク Project Voltage 的曲子里面最喜欢的果然还是 sasakure 老师的\n\n<a href=\"https://www.youtube.com/watch?v=pykE4kMhUUU\">Youtube MV</a>",
-    "views": 204,
+    "views": 205,
     "forwards": 1,
     "files": [
       {
@@ -87194,7 +87194,7 @@
     "id": 6394,
     "date": "2025-08-28T14:23:47",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n网易云随机到了小时候特别喜欢的曲子《アヤノの幸福理論》现在看着 MV 依然会哭\n\n♪ 思い出してみよう あの好きだった言葉\n♪ 幸せってなんだか不思議\n♪ 明日のこと、好きになれる\n\n小学初中的时候好喜欢阳炎 project 的，动画还是音乐 MV 还是人设都好喜欢，还画过某エネミク二创（翻不到了）\n\n记得期待过阳炎 reboot，但是似乎因为角色的版权被发行商收走，じん拿不回来版权就没有继续下去了，真是太可惜了... <span class=\"spoiler\"><span>大人的世界真的好无情</span></span>\n\n<a href=\"https://youtu.be/pLYKKC-EpjA\">Youtube MV</a> | <a href=\"https://www.bilibili.com/video/av545040/\">Bilibili 熟肉</a>",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "files": [
       {
@@ -87216,7 +87216,7 @@
     "id": 6395,
     "date": "2025-08-29T07:59:49",
     "text": "我活了",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14051635113085557,
     "images": [
@@ -87260,7 +87260,7 @@
     "id": 6398,
     "date": "2025-08-29T09:24:20",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 204,
+    "views": 205,
     "forwards": 0,
     "media_group_id": 14051675682679829,
     "images": [
@@ -87310,7 +87310,7 @@
     "id": 6402,
     "date": "2025-08-29T11:43:39",
     "text": "富士山！\n\n没想到在日本拍到的最完整的富士山会是在飞机上拍到的 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 14051742558789213,
     "images": [
@@ -87350,7 +87350,7 @@
     "id": 6406,
     "date": "2025-08-29T15:15:16",
     "text": "到大阪了！\n\n并没有想好明天后天要去哪里玩，大家有什么推荐去的地方嘛？<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n其实这次是因为谦谦原本看到了很好的 deal 想去大阪买车就和她的朋友订了机票，结果他们反悔改成了开车去大阪玩，多出的机票就给我了，然后三个人没人定了计划（xxx）",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "media_group_id": 14051844129663845,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 181,
+    "views": 182,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -89026,7 +89026,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 366,
+    "views": 367,
     "forwards": 4,
     "files": [
       {
@@ -89733,7 +89733,7 @@
     "id": 6602,
     "date": "2025-09-17T01:57:29",
     "text": "menci 和我抱怨 kt 没有 [a, b] 和 {a: b} 的语法，每次都要写 mapOf(a to b) 好长好不顺手\n\n我立即写宏实现了这个东西 qwq\n\n我最喜欢 kt 就是因为它自由，如果有不喜欢的语法只要自己用宏定义新的语法就行了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 2,
     "images": [
       {
@@ -89752,13 +89752,13 @@
     "id": 6603,
     "date": "2025-09-17T04:38:59",
     "text": "安慰剂\n\n小学天天做眼保健操导致我到现在眼睛疼的时候第一反应还是做眼保健操...",
-    "views": 214,
+    "views": 215,
     "forwards": 0
   },
   {
     "id": 6604,
     "date": "2025-09-18T07:03:13",
-    "views": 198,
+    "views": 200,
     "forwards": 0,
     "files": [
       {
@@ -89783,7 +89783,7 @@
     "id": 6605,
     "date": "2025-09-18T09:51:37",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 192,
+    "views": 195,
     "forwards": 0,
     "images": [
       {
@@ -89802,7 +89802,7 @@
     "id": 6606,
     "date": "2025-09-18T11:35:42",
     "text": "写完纸终于有时间继续整理之前的照片啦\n\n上周末去露营之前还去了三鹰吉トカ美术馆！有很多想要记下来的事情，馆内不让拍照太可惜了...\n\n也许印象最深的是「映画の生まれる場所」，穿过超复古的工作房间，了解到了一部吉トカ动画从满墙草稿到一卷完整的电影胶片的过程。\n\n似乎是单独用水彩画背景前景，背景画在纸上、前景画在透明塑料片上，然后用机器移动前景的同时用相机录下来... 2023 年的「苍鹭与少年」也是这样画的，居然从 1984 到 2023 一直坚持在用这么 analog 的过程作画，好厉害！\n\n另一个很喜欢的房间是苍鹭与少年的特别展示，盯着明信片大的水彩背景画第一次觉得眼睛的分辨率不够用 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 184,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 14065562742699149,
     "images": [
@@ -89887,7 +89887,7 @@
     "id": 6613,
     "date": "2025-09-18T12:17:32",
     "text": "不过手画 + 胶片录制的好处就是完全看不到像素点，如果哪天开始流行 8k 480fps 电影了也能很轻松重制\n\n入场的时候送给我了三帧胶片，对着灯光按下快门依然无限清晰",
-    "views": 187,
+    "views": 189,
     "forwards": 0,
     "media_group_id": 14065582820507829,
     "images": [
@@ -89932,7 +89932,7 @@
     "id": 6616,
     "date": "2025-09-18T14:53:18",
     "text": "⚡️ shocking! ⚡️",
-    "views": 189,
+    "views": 192,
     "forwards": 1,
     "images": [
       {
@@ -89951,7 +89951,7 @@
     "id": 6617,
     "date": "2025-09-19T15:00:47",
     "text": "想知道是谁... 是频道里的人的话可以出来自首吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 186,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 14066352377544325,
     "images": [
@@ -89981,7 +89981,7 @@
     "id": 6619,
     "date": "2025-09-20T01:31:49",
     "text": "实习结束了。导师组织了离别派对（实际上是晚餐）\n\n每次都好不想要离开...",
-    "views": 167,
+    "views": 170,
     "forwards": 0,
     "media_group_id": 14066655278384837,
     "images": [
@@ -90061,7 +90061,7 @@
     "id": 6626,
     "date": "2025-09-20T01:40:06",
     "text": "见到 syama 了，syama 可爱喵",
-    "views": 164,
+    "views": 168,
     "forwards": 0,
     "media_group_id": 14066659255534285,
     "images": [
@@ -90111,7 +90111,7 @@
     "id": 6631,
     "date": "2025-09-20T10:43:28",
     "text": "黑猫：盯——",
-    "views": 148,
+    "views": 151,
     "forwards": 0,
     "images": [
       {
@@ -90130,7 +90130,7 @@
     "id": 6632,
     "date": "2025-09-20T11:21:35",
     "text": "来日本之后第一次旅行就去了这个高松灯圣地水族馆，今天因为 syama 住池袋旁边就又去了一趟，不过这次是在天上 qwq\n\n企鹅在天上飞，猫也在天上飞 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n以及展望台上有涂得超好看的钢琴，去弹了弹，可惜有点跑调...（唉感觉还是电钢琴适合放在公共区域，至少不会跑调）",
-    "views": 134,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 14066938361045525,
     "images": [
@@ -90245,7 +90245,7 @@
     "id": 6652,
     "date": "2025-09-20T11:47:57",
     "text": "逛街\n\n扭扭蛋，看到了一个「服务器 rack 扭蛋机」就扭了两个，然后发现需要集齐四个才能拼出整个 rack，感觉被骗了\n\n去机厅，第一次在机厅看到官方机器进 test menu（最然已经在家里见太多了）",
-    "views": 131,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 14066951022026901,
     "images": [
@@ -90355,7 +90355,7 @@
     "id": 6662,
     "date": "2025-09-21T14:27:27",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ All of your joy is in a simulation\n♪ All of your hate is in a simulation\n♪ All of the world is in a simulation\n♪ All of your fate is in a simulation\n\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 143,
+    "views": 145,
     "forwards": 1,
     "files": [
       {
@@ -90377,7 +90377,7 @@
     "id": 6663,
     "date": "2025-09-22T02:50:09",
     "text": "去河口湖，因为有云没看到富士山\n\nsyama: 能不能让 AI 想象一个\nAI:",
-    "views": 133,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 14068075276096077,
     "images": [
@@ -90417,7 +90417,7 @@
     "id": 6666,
     "date": "2025-09-22T14:03:02",
     "text": "恭喜我拍了一万张照片，文件名计数重置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n第一万张照片是 <i class=\"custom-emoji\" emoji-src=\"emoji/6323368040800978611.webp\">👆</i>\n\n从买相机到拍一万张照片总共花了 81 天，<del>平均每天拍了 123.456 张照片</del>",
-    "views": 115,
+    "views": 124,
     "forwards": 0,
     "media_group_id": 14068398259263453,
     "images": [
@@ -90447,7 +90447,7 @@
     "id": 6668,
     "date": "2025-09-22T15:41:44",
     "text": "今天和 syama 和 rastvas 去了 teamLab Borderless，绝对是我心中最喜欢的艺术馆\n\n首先是它真的好好看！是灯光与饱和度的盛宴，感觉快门完全没法捕捉出映入眼帘的震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 100,
+    "views": 109,
     "forwards": 0,
     "media_group_id": 14068445633505293,
     "images": [
@@ -90557,7 +90557,7 @@
     "id": 6678,
     "date": "2025-09-22T15:58:01",
     "text": "更多好看照片（都好好看选不出来，全都发出来好了）",
-    "views": 92,
+    "views": 106,
     "forwards": 0,
     "media_group_id": 14068453448472181,
     "images": [
@@ -90672,7 +90672,7 @@
     "id": 6688,
     "date": "2025-09-22T16:23:52",
     "text": "以及这个艺术馆技术力真的好强，几乎所有环境中的光源都是可互动的，仿佛身边的光是活着的生物一样\n\n像水一样的线条会沿着鞋子流下去、墙上的小鱼摸摸它会逃走、在桌上放一杯冰淇淋会长出树枝、放一杯抹茶会长出小花、坐下来冥想会出现灵气...\n\n完全是魔法了，居然可以覆盖这么大范围的可互动性，每个有光的地方都可以互动，不知道是怎样实现的（目前的猜测是可能是基于红外的视觉大模型...）\n\n还有一个相机完全没法捕捉的 3D 屏障也同样不知道是怎样实现的，路过的时候看起来完全就是一般的墙，直到看别人把手伸进去我才发现是投影（试着录了像但是发现回放完全没效果）",
-    "views": 87,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 14068465863261549,
     "images": [
@@ -90745,6 +90745,55 @@
         "url": "media/6694.jpg",
         "size": 362645,
         "thumb": "media/6694.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6695,
+    "date": "2025-09-23T07:26:13",
+    "text": "奇妙福瑞车车",
+    "views": 60,
+    "forwards": 0,
+    "media_group_id": 14068898991257989,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-09-23T07:26:12",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-23_07-26-12.jpg",
+        "url": "media/6695.jpg",
+        "size": 552674,
+        "thumb": "media/6695.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6697,
+    "date": "2025-09-23T08:10:48",
+    "views": 22,
+    "forwards": 0,
+    "media_group_id": 14068920385209733,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-09-23T08:10:46",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-23_08-10-46.jpg",
+        "url": "media/6697.jpg",
+        "size": 756212,
+        "thumb": "media/6697.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-09-23T08:13:49",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-23_08-13-49.jpg",
+        "url": "media/6698.jpg",
+        "size": 925630,
+        "thumb": "media/6698.jpg_thumb.jpg"
       }
     ]
   }
