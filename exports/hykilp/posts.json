@@ -419,7 +419,7 @@
     "id": 39,
     "date": "2021-09-11T19:01:58",
     "text": "又睡过了最适合出门的下午时光w",
-    "views": 75,
+    "views": 76,
     "forwards": 1,
     "images": [
       {
@@ -520,7 +520,7 @@
     "id": 46,
     "date": "2021-09-14T03:12:02",
     "text": "说起来，我好喜欢一边听音乐一边读写文字，比如刚才读豪猪吉列姆词条的时候让我哭出来也有正在播放的 Nier Fluquor 的功劳——这首歌是 Deemo 里面梦境终结，告别时的背景音乐，如果共时事件有更深层的意义的话，或许这个时候出现在这里是在告诉我是时候走出这个梦了吧...",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "reply": {
       "id": 45
@@ -530,7 +530,7 @@
     "id": 47,
     "date": "2021-09-14T04:36:45",
     "text": "然而网易云并不是什么时候都准，刚才还想继续伤心的时候给我推了一首很吵的曲子。我如果读研的话想要试试做一个按心情/想法播放背景音乐的软件（记得听过有研究做出了可以在一个人主观做出选择三十秒前就通过电波准确预测这个选择的机器，说不定可以用这个机器预测心情的变化，然后切换到和心情最匹配的背景音乐w <a href=\"##想桃子\">#想桃子</a>",
-    "views": 70,
+    "views": 71,
     "forwards": 0,
     "reply": {
       "id": 46,
@@ -89094,14 +89094,14 @@
     "id": 6551,
     "date": "2025-09-09T05:26:39",
     "text": "看到招财猫迷思：如果一家店养了一只猫我肯定会去看看，但是如果是摆了一个陶瓷招财猫反而会觉得老套不想去... 所以不招财的猫比招财猫更招财（？）\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 235,
+    "views": 236,
     "forwards": 0
   },
   {
     "id": 6552,
     "date": "2025-09-09T08:40:48",
     "text": "唉... 想起四年前在加拿大买到了一箱 Asahi 的麻辣鸡白汤泡粉条，然后因为它停产了还挺伤心的，留着最后五杯一直没有吃已经放过期了还想着什么时候逆向一下来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n现在到了日本发现停产真的是太常见了，每周都有新的种类发售，也有旧的种类停产，也许一个味道没办法在未来重现有点可惜，但是至少永远不会缺好吃的东西",
-    "views": 249,
+    "views": 250,
     "forwards": 0,
     "reply": {
       "id": 766,
@@ -89113,14 +89113,14 @@
     "id": 6553,
     "date": "2025-09-09T16:42:55",
     "text": "白天超级困，晚上睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 290,
+    "views": 291,
     "forwards": 2
   },
   {
     "id": 6554,
     "date": "2025-09-10T07:03:01",
     "text": "Typst 语言真的好科学... 作为程序语言已经比大部分程序语言都顺手了",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "reply": {
       "id": 6515,
@@ -89143,14 +89143,14 @@
     "id": 6555,
     "date": "2025-09-10T13:13:46",
     "text": "很难想象，作为喜欢街机音游喜欢到在家里自己搭机器的人，来日本之后快四个月了总共只去了两次机厅，只登录了 1 次 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>\n\n可能真的是越难得到就越会让我感兴趣吧，随时都可以去反而就没意思了",
-    "views": 240,
+    "views": 241,
     "forwards": 0
   },
   {
     "id": 6556,
     "date": "2025-09-10T17:21:53",
     "text": "来日本之前觉得神社必须有鸟居有参道手水舍狛犬拜殿本殿幣殿社務所御神籤注連繩\n\n现在看过无数个神社之后总结发现以上这些全都可以没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> <del>在桌上摆一个迷你赛钱箱也可以是神社</del>",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "images": [
       {
@@ -89169,7 +89169,7 @@
     "id": 6557,
     "date": "2025-09-10T17:51:36",
     "text": "迷你塞钱箱有人 get 到了",
-    "views": 254,
+    "views": 255,
     "forwards": 1,
     "reply": {
       "id": 6556,
@@ -89192,7 +89192,7 @@
     "id": 6558,
     "date": "2025-09-11T01:05:54",
     "text": "被自己蠢哭了\n\n五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 <code>!!</code> 来判断是否为空了\n\n然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里\n\n更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 313,
+    "views": 314,
     "forwards": 2,
     "media_group_id": 14060422032265693,
     "images": [
@@ -89222,7 +89222,7 @@
     "id": 6560,
     "date": "2025-09-11T03:09:55",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n去了一家评价超高的店，吃了感觉真的对得起这个评价。肉超软，而且只要 740 一碗肉乌冬好便宜，以及店里在放 beatles 的 let it be 专辑还有唱片挂在墙上<del>让乌冬更好吃了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n...吃完出来看门口排满了社畜，还好我来得早 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "media_group_id": 14060481561338693,
     "images": [
@@ -89302,7 +89302,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 280,
+    "views": 281,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 280,
+    "views": 281,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 237,
+    "views": 238,
     "forwards": 0,
     "images": [
       {
@@ -89400,7 +89400,7 @@
     "id": 6574,
     "date": "2025-09-15T11:05:18",
     "text": "蓝夏和 Yuri 回西雅图的前两天去和他们加上マモル一起露营了！去的是摇曳露营圣地本栖湖旁边的浩庵露营场\n\n第二次来这里了，不过上次只是熬夜开车过去看日出烧烧早饭，这次真的搭帐篷过夜了 qwq\n\n到了露营场之后还在多云下小雨，云多到富士山完全看不见（<del>所以是やまなし県吗</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>）雨天搭帐篷好累累，烧了火锅就睡觉啦。\n\n早上起来看日出，日出看到了完整的富士山还是很高兴的！拍些照片烧烧剩下的火锅又收了帐篷就送他们去机场啦。开心开心\n\n（结果因为没睡够今天睡了 13h 还困困... 还好是休息日 <i class=\"custom-emoji\" emoji-src=\"emoji/6170408965306844904.webm\">😾</i>）",
-    "views": 207,
+    "views": 208,
     "forwards": 0,
     "media_group_id": 14063474545285581,
     "images": [
@@ -89510,7 +89510,7 @@
     "id": 6584,
     "date": "2025-09-15T11:31:19",
     "text": "众所周知富士山山顶白色的东西是云彩 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "images": [
       {
@@ -89529,7 +89529,7 @@
     "id": 6585,
     "date": "2025-09-15T12:03:16",
     "text": "晚上除了烧火锅还点了烟花！好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/5215638109068220476.tgs\">🎆</i>\n\n大概已经七八年没有自己点过烟花了，好怀念喜欢玩烟花的时候，可惜大部分地方都已经禁止烟花了...\n\n画了一些召唤晴天的魔法阵 <i class=\"custom-emoji\" emoji-src=\"emoji/5260426225599405269.tgs\">🪄</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 14063502369708773,
     "images": [
@@ -89639,7 +89639,7 @@
     "id": 6595,
     "date": "2025-09-15T16:58:54",
     "text": "Gemini 好不聪明喵\n\n我让它设一分钟闹钟，它设了“整数分钟 +1 分钟之后的闹钟”\n\n...然后现在是 1:42.59，它设了 1:43.00 的闹钟，设完立刻响了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 0,
     "images": [
       {
@@ -89658,7 +89658,7 @@
     "id": 6596,
     "date": "2025-09-16T07:25:26",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://www.youtube.com/watch?v=Moa7vrXWKac\">「鮎川のしづく」- 青葉市子</a>\n\n是工作的时候会听的背景声音，因为太长就不传音频只放链接了。不知道为什么我好喜欢大自然的环境音，无论是放进曲子里做背景还是单独放出来都好治愈。\n\n前几天露营睡觉的时候还把手机放在外面录了六个小时的环境音来着，希望之后能用它做些曲子 qwq",
-    "views": 202,
+    "views": 203,
     "forwards": 2
   },
   {
@@ -89981,7 +89981,7 @@
     "id": 6619,
     "date": "2025-09-20T01:31:49",
     "text": "实习结束了。导师组织了离别派对（实际上是晚餐）\n\n每次都好不想要离开...",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "media_group_id": 14066655278384837,
     "images": [
@@ -90769,39 +90769,10 @@
     ]
   },
   {
-    "id": 6697,
-    "date": "2025-09-23T08:10:48",
-    "views": 145,
-    "forwards": 0,
-    "media_group_id": 14068920385209733,
-    "images": [
-      {
-        "width": 1920,
-        "height": 2560,
-        "date": "2025-09-23T08:10:46",
-        "media_type": "photo",
-        "original_name": "photo_2025-09-23_08-10-46.jpg",
-        "url": "media/6697.jpg",
-        "size": 756212,
-        "thumb": "media/6697.jpg_thumb.jpg"
-      },
-      {
-        "width": 2560,
-        "height": 1920,
-        "date": "2025-09-23T08:13:49",
-        "media_type": "photo",
-        "original_name": "photo_2025-09-23_08-13-49.jpg",
-        "url": "media/6698.jpg",
-        "size": 925630,
-        "thumb": "media/6698.jpg_thumb.jpg"
-      }
-    ]
-  },
-  {
     "id": 6699,
     "date": "2025-09-23T12:32:26",
     "text": "和マモル去看了 girls band cry トゲトゲ的武道馆 live！（感谢マモル抽到票\n\n众所周知动画的 OP 是武道馆但是动画并没有演到武道馆，这次开场真的把 OP 原样还原了！结尾还放了动画的 ED... 好感动\n\n中场休息之后居然还为了一首伴奏摆了一个こたつ上去还原了 mmk 的家，弹完这首就撤了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n以及宣布了第二季和新游戏的制作决定诶！好期待\n\n不过真的感觉早换一个 mixing engineer 了，几首歌都混得人声完全被其他乐器盖过去听不到... 之前看动画就已经吐槽过动画里的 live 混音不行了，没想到真的现场更不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 135,
+    "views": 136,
     "forwards": 1,
     "media_group_id": 14069045974667685,
     "images": [
@@ -90881,7 +90852,7 @@
     "id": 6706,
     "date": "2025-09-24T12:06:51",
     "text": "决定以后不再推荐别人去坐浅草线了... 虽然省钱又直达，但是如果连台湾人都会坐错的话应该只有铁道厨能坐懂了。\n\n写脚本统计了一下，从宝町一个站出发的浅草线一个站台就有 20 个不同线路，算上反方向总共有 37 个不同线路...\n\n想象一下你在浅草线站台等车，经过的 37 辆同样写着「浅草线」的列车每辆都在以不同速度去往不同的目的地，中途在不同的站上停或者不停... 太恐怖了",
-    "views": 172,
+    "views": 174,
     "forwards": 5,
     "media_group_id": 14069724893261477,
     "images": [
@@ -90941,7 +90912,7 @@
     "id": 6711,
     "date": "2025-09-24T15:17:02",
     "text": "哇！人生第一次中 giveaway",
-    "views": 159,
+    "views": 160,
     "forwards": 0,
     "images": [
       {
@@ -90960,7 +90931,7 @@
     "id": 6712,
     "date": "2025-09-24T17:20:41",
     "text": "因为好奇，计算了一下「不太聪明猫从浅草站随便上一辆浅草线车有多大概率能到达某个车站」\n\n概率最高的是押上，每辆车都会到；成田机场只有 20% 会到；最低的是东成田，只有 0.8% 的车会在那里停（草，每天只有两辆车吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n所以就... 想坐浅草线一定要先看好是哪辆车 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n（以及 这次因为想要练习 rust 试了用 rust 写爬虫，把原本 python 二十分钟就能写完的事情写了五个小时... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 不过 rust 还是挺好玩的）",
-    "views": 150,
+    "views": 154,
     "forwards": 1,
     "reply": {
       "id": 6706,
@@ -90984,7 +90955,7 @@
     "id": 6713,
     "date": "2025-09-25T04:01:55",
     "text": "花盆装饰好可爱",
-    "views": 123,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14070183321785845,
     "images": [
@@ -91034,7 +91005,7 @@
     "id": 6717,
     "date": "2025-09-25T08:26:13",
     "text": "在日本比物理搬家更麻烦的是办搬家手续...\n\n物理搬家三四个小时就搬完了，办搬家手续从早上十点办到晚上五点还差一些因为关门了没办完需要明天办",
-    "views": 86,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -91053,8 +91024,8 @@
     "id": 6718,
     "date": "2025-09-25T09:51:52",
     "text": "一些东京的航拍（？）\n\n（其实是送 syama 去羽田机场的路上在东京<i class=\"custom-emoji\" emoji-src=\"emoji/6131921986705688808.webp\">🚉</i>单轨上拍的，来回车票花了 JP￥1200 好贵）\n\n好天气拍什么都好好看呀",
-    "views": 46,
-    "forwards": 1,
+    "views": 67,
+    "forwards": 2,
     "media_group_id": 14070351299313197,
     "images": [
       {
@@ -91163,7 +91134,7 @@
     "id": 6728,
     "date": "2025-09-25T10:00:18",
     "text": "以及在车上拍到了我的家、还有家旁边的田町駅！（虽然已经搬家搬走了）",
-    "views": 38,
+    "views": 62,
     "forwards": 1,
     "media_group_id": 14070355350621173,
     "images": [
@@ -91196,6 +91167,166 @@
         "url": "media/6730.jpg",
         "size": 1169717,
         "thumb": "media/6730.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6731,
+    "date": "2025-09-25T10:44:14",
+    "text": "最后一天和 syama 和 rastvas 去了上野公园，看到了东照宫\n\n好华丽的神社，整个神社到处都被镀上金还是挺少见的，授付所的建筑是很好看的现代风格，甚至御神籤都镀了金，<del>結び所上挂满了金色传说级厄运</del>\n\n御朱印也超级华丽还有镀金边（不过要 JP￥1000 好贵，一般神社都是 300~500，以及为什么写的是简体中文的「东」而不是「東」哇）",
+    "views": 41,
+    "forwards": 1,
+    "media_group_id": 14070376438114677,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:44:09",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-44-09.jpg",
+        "url": "media/6731.jpg",
+        "size": 616089,
+        "thumb": "media/6731.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:44:09",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-44-09.jpg",
+        "url": "media/6732.jpg",
+        "size": 620550,
+        "thumb": "media/6732.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:44:10",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-44-10.jpg",
+        "url": "media/6733.jpg",
+        "size": 561791,
+        "thumb": "media/6733.jpg_thumb.jpg"
+      },
+      {
+        "width": 1706,
+        "height": 2560,
+        "date": "2025-09-25T10:44:11",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-44-11.jpg",
+        "url": "media/6734.jpg",
+        "size": 792741,
+        "thumb": "media/6734.jpg_thumb.jpg"
+      },
+      {
+        "width": 1706,
+        "height": 2560,
+        "date": "2025-09-25T10:44:12",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-44-12.jpg",
+        "url": "media/6735.jpg",
+        "size": 1187176,
+        "thumb": "media/6735.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:44:13",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-44-13.jpg",
+        "url": "media/6736.jpg",
+        "size": 562860,
+        "thumb": "media/6736.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:44:14",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-44-14.jpg",
+        "url": "media/6737.jpg",
+        "size": 472489,
+        "thumb": "media/6737.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6738,
+    "date": "2025-09-25T10:49:13",
+    "text": "路过附近的一些其他神社的时候也去看了看：确实建在花园里的花园稲荷神社、还有只剩下一副脸的上野大佛",
+    "views": 35,
+    "forwards": 1,
+    "media_group_id": 14070378827853805,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:49:07",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-49-07.jpg",
+        "url": "media/6738.jpg",
+        "size": 608366,
+        "thumb": "media/6738.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:49:08",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-49-08.jpg",
+        "url": "media/6739.jpg",
+        "size": 833777,
+        "thumb": "media/6739.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:49:09",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-49-09.jpg",
+        "url": "media/6740.jpg",
+        "size": 1110296,
+        "thumb": "media/6740.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:49:09",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-49-09.jpg",
+        "url": "media/6741.jpg",
+        "size": 792010,
+        "thumb": "media/6741.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:49:10",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-49-10.jpg",
+        "url": "media/6742.jpg",
+        "size": 443545,
+        "thumb": "media/6742.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:49:11",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-49-11.jpg",
+        "url": "media/6743.jpg",
+        "size": 884092,
+        "thumb": "media/6743.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-09-25T10:49:12",
+        "media_type": "photo",
+        "original_name": "photo_2025-09-25_10-49-12.jpg",
+        "url": "media/6744.jpg",
+        "size": 873667,
+        "thumb": "media/6744.jpg_thumb.jpg"
       }
     ]
   }
