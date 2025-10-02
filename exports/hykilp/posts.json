@@ -57604,7 +57604,7 @@
     "id": 4223,
     "date": "2024-07-25T07:36:57",
     "text": "用键鼠玩 pjsk 是魔鬼吗",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
@@ -57623,7 +57623,7 @@
     "id": 4224,
     "date": "2024-07-25T10:30:44",
     "text": "V100！\n\n还没有装，但是把撕毁无效贴在防静电袋子上是什么鬼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "media_group_id": 13775227556405245,
     "images": [
@@ -57663,7 +57663,7 @@
     "id": 4227,
     "date": "2024-07-26T09:03:30",
     "text": "要骂人了... 画板子画到一半突然",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
@@ -57682,7 +57682,7 @@
     "id": 4228,
     "date": "2024-07-26T09:48:18",
     "text": "V100 Sxm2 需要四个 CPU 8Pin 电源，觉得买 ATX 电源太贵了就买了 CSPS 服务器电源，魔改了一下 FrostAutumn 的 CSPS 转接板\n\n希望不会翻车 quq",
-    "views": 130,
+    "views": 131,
     "forwards": 1,
     "media_group_id": 13775898389425533,
     "images": [
@@ -57747,7 +57747,7 @@
     "id": 4232,
     "date": "2024-07-26T23:49:24",
     "text": "要被蓝屏气疯了... 现在这个系统 uptime 不会超过 24h\n\n不过也是很老的系统了，之前从 Intel 1065G7 迁移到 AMD 7840HS，中间还有段时间在 AMD 3600 + GTX 1060 的机器上用过，所以三家的驱动全都装过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "reply": {
       "id": 4227,
@@ -57758,14 +57758,14 @@
     "id": 4233,
     "date": "2024-07-27T02:39:41",
     "text": "原本以为 SSD 恢复数据会和以前 HDD 一样简单，通电扫一下文件系统文件树就可以了嘛... 然而今天才发现 SSD TRIM 之后只要通着电很快就会被写满 0 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 1
   },
   {
     "id": 4234,
     "date": "2024-07-27T12:49:34",
     "text": "看着屏幕上的 /dev/sdb 读成了 SDGB 🌚\n\n玩魔改玩的",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "images": [
       {
@@ -57784,7 +57784,7 @@
     "id": 4235,
     "date": "2024-07-27T13:20:00",
     "text": "<a href=\"##ML\">#ML</a> 今天把 V100 插上了！踩了很多坑\n\n这是我第一次用 Sxm2 接口的计算卡，用了超微的 AOM-Sxm2 扩展板，它需要两个非标 PCIe x16 接口所以买了两根很贵的转接线。计算卡是像 CPU 一样卡到插槽里，拧螺丝固定然后涂硅脂安装散热。因为是给服务器用的散热所以并没有风扇，自己配了两个 120mm 风扇，不知道够不够呢\n\n第一启动的时候上电开机自检到 91 之后 FF 掉电，FF 是 CPU 没有供电的意思，debug 了超级久之后发现换一个 PCIe 口就好了... 为什么呢？因为这个主板是双路板，有两个 CPU，有四个 PCIe x16 每两个连着不同的 CPU... 必须连到同一个 CPU 上才能工作\n\n解决了这个问题之后启动发现识别了 PLX 设备但是没有识别 NVIDIA，发现插卡的顺序和标记是反的，要从 GPU4 开始插\n\n再次启动终于能在 lspci 里面看到 V100 了... 不过驱动还没调好，好累好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 120,
+    "views": 121,
     "forwards": 2,
     "media_group_id": 13776691202656413,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7838,
+    "views": 7842,
     "forwards": 172,
     "media_group_id": 14043941176651549,
     "images": [
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 339,
+    "views": 342,
     "forwards": 7,
     "media_group_id": 14073654712928549,
     "images": [
@@ -91880,7 +91880,7 @@
     "id": 6793,
     "date": "2025-09-30T17:03:27",
     "text": "居然是 mujin 本人亲手送给我的\n\n感觉比起收到了 $10，能够在两个不同平台上加到喜欢的 youtuber 的好友更让我心动 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 156,
+    "views": 157,
     "forwards": 1,
     "media_group_id": 14074014461477501,
     "images": [
@@ -91914,7 +91914,7 @@
     "id": 6795,
     "date": "2025-10-01T03:38:27",
     "text": "芝麻凛生日快乐！",
-    "views": 171,
+    "views": 172,
     "forwards": 3,
     "images": [
       {
@@ -91932,7 +91932,7 @@
   {
     "id": 6796,
     "date": "2025-10-01T03:38:43",
-    "views": 144,
+    "views": 145,
     "forwards": 1,
     "files": [
       {
@@ -91957,7 +91957,7 @@
     "id": 6797,
     "date": "2025-10-01T14:09:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nmenci 的朋友 dustella 和 acbox 来玩，我做了炖鸡 qwq\n\n有点好奇在中国在家做饭会不会比在外面吃便宜就统计一下价格：萝卜 1.34 + 葱 0.73 + 鸡腿 10.08 + 米 4.48 + 香菇 2.59 + 汤底 6.25 总共花了 ￥25\n\n算下来四个人的话每人 ￥6，还是比在外面吃便宜一点点的（不过 dustella 还买了肯德基就有点打败了目的",
-    "views": 128,
+    "views": 131,
     "forwards": 3,
     "media_group_id": 14074622072242941,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 408,
+    "views": 427,
     "forwards": 4,
     "images": [
       {
@@ -92036,7 +92036,7 @@
     "id": 6803,
     "date": "2025-10-02T05:09:14",
     "text": "过去一年我一直在等 Affinity 打折，结果现在被 Canva 收购了之后官网购买软件的入口直接消失了，取代它的是一个 soon™\n\n不知道是不是好消息，大概率不是，但是还是期待一下吧\n\n以及，iOS 版的 Affinity 软件现在免费了，不想错过的话去 app store 领一份哦",
-    "views": 92,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -92055,7 +92055,7 @@
     "id": 6804,
     "date": "2025-10-02T06:01:22",
     "text": "太炫酷了",
-    "views": 66,
+    "views": 74,
     "forwards": 0,
     "files": [
       {
