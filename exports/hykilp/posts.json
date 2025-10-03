@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7377,
+    "views": 7378,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1858,
+    "views": 1859,
     "forwards": 52
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6245,
+    "views": 6247,
     "forwards": 147,
     "media_group_id": 13966976157341773,
     "images": [
@@ -84953,7 +84953,7 @@
     "id": 6217,
     "date": "2025-08-17T10:11:36",
     "text": "第一次去 CM！这次是和マモル一起去的，排队排了快一个小时才进去。\n\n感觉自己还不够宅... 看别人都很有目的，排着队的时候就已经拿着地图在计划去哪个哪个摊子了，但是我完全没有找到自己想去的摊子。\n\n其实有试着找自己喜欢的同人本的作者有没有在 CM，然后发现所有自己喜欢的作者都没有参加这次 CM... 还有小部分也许是退坑几年没有更新动态了。所以就随便逛逛啦\n\n会场内容还挺多元的，除了本子还看到了 cos 自己本子角色的画师、技术向的科普新刊、学校都市传说文集、cos 小电影、DIY 手办、甚至还有神社过来写御朱印（？？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 奇妙",
-    "views": 250,
+    "views": 251,
     "forwards": 2,
     "media_group_id": 14043403970156157,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7850,
+    "views": 7851,
     "forwards": 172,
     "media_group_id": 14043941176651549,
     "images": [
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 352,
+    "views": 353,
     "forwards": 7,
     "media_group_id": 14073654712928549,
     "images": [
@@ -91800,7 +91800,7 @@
     "id": 6786,
     "date": "2025-09-30T09:27:56",
     "text": "拍飞机 <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 1,
     "media_group_id": 14073795810187485,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 491,
+    "views": 493,
     "forwards": 5,
     "images": [
       {
@@ -92036,7 +92036,7 @@
     "id": 6803,
     "date": "2025-10-02T05:09:14",
     "text": "过去一年我一直在等 Affinity 打折，结果现在被 Canva 收购了之后官网购买软件的入口直接消失了，取代它的是一个 soon™\n\n不知道是不是好消息，大概率不是，但是还是期待一下吧\n\n以及，iOS 版的 Affinity 软件现在免费了，不想错过的话去 app store 领一份哦",
-    "views": 145,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -92055,7 +92055,7 @@
     "id": 6804,
     "date": "2025-10-02T06:01:22",
     "text": "太炫酷了",
-    "views": 140,
+    "views": 142,
     "forwards": 0,
     "files": [
       {
@@ -92077,14 +92077,14 @@
     "id": 6805,
     "date": "2025-10-02T13:57:47",
     "text": "怀念 vposy 和 AdobeZii 的时代",
-    "views": 114,
+    "views": 116,
     "forwards": 0
   },
   {
     "id": 6806,
     "date": "2025-10-02T16:33:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 咲いた野の花よ\n♪ ああ どうか教えておくれ\n♪ 人は何故 傷つけあって\n♪ 争うのでしょう\n\n在飞机上看了《罪恶王冠》的前六七集，因为小时候很喜欢一直想找时间重新看一遍。这次重新看依然好喜欢这个设定，「人心编织而成的力量」造就了一些情感爆发的演出，不过也确实有点中二（",
-    "views": 90,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 5801,
@@ -92111,7 +92111,7 @@
     "id": 6807,
     "date": "2025-10-02T17:16:19",
     "text": "menci 新家有一套房东留下来的 5.1 音箱系统，但是已经很久没维护、线全都断掉/消失了\n\n今天重新做了线，把每个音箱连到了功放上把它修好啦 qwq\n\n功放还带了两个麦克风输入诶，插上去发现真的能用，所以就想要搭一个 karaoke 系统\n\n已经无数次想要搭 karaoke 系统了但是每次都不知道用什么软件好... 目前体验最好的也许是 Apple TV 所以下单了一个（还没收到）但是它也只能做到曲子 + 歌词 + 去人声。没有视频感觉还是缺点气氛？而且记得日语歌好像没法显示 furigana...",
-    "views": 96,
+    "views": 105,
     "forwards": 0,
     "media_group_id": 14075403032400501,
     "images": [
