@@ -52420,7 +52420,7 @@
     "id": 3850,
     "date": "2024-05-26T15:07:11",
     "text": "去凌莞家打 mai 并顺便把铝框抄了下来 <i class=\"custom-emoji\" emoji-src=\"emoji/5442858187017430341.tgs\">💻</i>",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13733888254408061,
     "images": [
@@ -52450,7 +52450,7 @@
     "id": 3852,
     "date": "2024-05-27T05:07:32",
     "text": "下雨天穿睡裙出门骑车好爽 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 13734291618777325,
     "images": [
@@ -52480,7 +52480,7 @@
     "id": 3854,
     "date": "2024-05-27T09:16:36",
     "text": "给 mai/wacca 装了一台二手 itx，总共花了 ~￥1500\n\n主板用的是「To Be Filled By O.E.M.」牌子的 AB350-ITX，CPU 白嫖了凌莞的 Ryzen 3600（感谢！），显卡 1060-3G，机箱鱼巢 T60，供电鱼巢 500W\n\n已经是第三次装这个布局的 itx 了，速通一个小时就装好了... 然后发现点不亮 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n开机之后过几秒就会自动关机... 试了用不同的内存条、只插一条都不行。上网查查看到遇到同样症状的人有人是 BIOS 太旧还不支持新的 CPU，但是我问了淘宝卖家他们说更新过。没办法了去楼下维修店让师傅看看，结果师傅擦擦内存金手指就亮了 🌚 原来金手指氧化真的会影响接触吗\n\n亮了之后发现 BIOS 设置没办法保存，每次进 BIOS 时间都会重置到 1/1/2017... 然后发现网卡识别不到，装了驱动也识别不到，甚至进 Linux lspci 完全没设备，dmesg 里也完全没有 wlan 相关的 log，下楼又去了一趟维修店借了一张已知好用的网卡换上去还是不识别 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>\n\n卖家说挡板拆封了就不能退了只能修，唉算了等笔记本修好送回去修吧，临时买了一个 USB 网卡凑合用了。感觉这次装机是大失败",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13734411171814173,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5658,
+    "views": 5659,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7863,
+    "views": 7864,
     "forwards": 172,
     "media_group_id": 14043941176651549,
     "images": [
@@ -91024,7 +91024,7 @@
     "id": 6718,
     "date": "2025-09-25T09:51:52",
     "text": "一些东京的航拍（？）\n\n（其实是送 syama 去羽田机场的路上在东京<i class=\"custom-emoji\" emoji-src=\"emoji/6131921986705688808.webp\">🚉</i>单轨上拍的，来回车票花了 JP￥1200 好贵）\n\n好天气拍什么都好好看呀",
-    "views": 168,
+    "views": 169,
     "forwards": 2,
     "media_group_id": 14070351299313197,
     "images": [
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 379,
+    "views": 381,
     "forwards": 7,
     "media_group_id": 14073654712928549,
     "images": [
@@ -91880,7 +91880,7 @@
     "id": 6793,
     "date": "2025-09-30T17:03:27",
     "text": "居然是 mujin 本人亲手送给我的\n\n感觉比起收到了 $10，能够在两个不同平台上加到喜欢的 youtuber 的好友更让我心动 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "media_group_id": 14074014461477501,
     "images": [
@@ -91914,7 +91914,7 @@
     "id": 6795,
     "date": "2025-10-01T03:38:27",
     "text": "芝麻凛生日快乐！",
-    "views": 198,
+    "views": 199,
     "forwards": 3,
     "images": [
       {
@@ -91932,7 +91932,7 @@
   {
     "id": 6796,
     "date": "2025-10-01T03:38:43",
-    "views": 168,
+    "views": 170,
     "forwards": 1,
     "files": [
       {
@@ -91957,7 +91957,7 @@
     "id": 6797,
     "date": "2025-10-01T14:09:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nmenci 的朋友 dustella 和 acbox 来玩，我做了炖鸡 qwq\n\n有点好奇在中国在家做饭会不会比在外面吃便宜就统计一下价格：萝卜 1.34 + 葱 0.73 + 鸡腿 10.08 + 米 4.48 + 香菇 2.59 + 汤底 6.25 总共花了 ￥25\n\n算下来四个人的话每人 ￥6，还是比在外面吃便宜一点点的（不过 dustella 还买了肯德基就有点打败了目的",
-    "views": 166,
+    "views": 168,
     "forwards": 3,
     "media_group_id": 14074622072242941,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 535,
+    "views": 538,
     "forwards": 5,
     "images": [
       {
@@ -92036,7 +92036,7 @@
     "id": 6803,
     "date": "2025-10-02T05:09:14",
     "text": "过去一年我一直在等 Affinity 打折，结果现在被 Canva 收购了之后官网购买软件的入口直接消失了，取代它的是一个 soon™\n\n不知道是不是好消息，大概率不是，但是还是期待一下吧\n\n以及，iOS 版的 Affinity 软件现在免费了，不想错过的话去 app store 领一份哦",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "images": [
       {
@@ -92055,7 +92055,7 @@
     "id": 6804,
     "date": "2025-10-02T06:01:22",
     "text": "太炫酷了",
-    "views": 169,
+    "views": 171,
     "forwards": 0,
     "files": [
       {
@@ -92077,14 +92077,14 @@
     "id": 6805,
     "date": "2025-10-02T13:57:47",
     "text": "怀念 vposy 和 AdobeZii 的时代",
-    "views": 158,
+    "views": 160,
     "forwards": 0
   },
   {
     "id": 6806,
     "date": "2025-10-02T16:33:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 咲いた野の花よ\n♪ ああ どうか教えておくれ\n♪ 人は何故 傷つけあって\n♪ 争うのでしょう\n\n在飞机上看了《罪恶王冠》的前六七集，因为小时候很喜欢一直想找时间重新看一遍。这次重新看依然好喜欢这个设定，「人心编织而成的力量」造就了一些情感爆发的演出，不过也确实有点中二（",
-    "views": 153,
+    "views": 155,
     "forwards": 1,
     "reply": {
       "id": 5801,
@@ -92111,7 +92111,7 @@
     "id": 6807,
     "date": "2025-10-02T17:16:19",
     "text": "menci 新家有一套房东留下来的 5.1 音箱系统，但是已经很久没维护、线全都断掉/消失了\n\n今天重新做了线，把每个音箱连到了功放上把它修好啦 qwq\n\n功放还带了两个麦克风输入诶，插上去发现真的能用，所以就想要搭一个 karaoke 系统\n\n已经无数次想要搭 karaoke 系统了但是每次都不知道用什么软件好... 目前体验最好的也许是 Apple TV 所以下单了一个（还没收到）但是它也只能做到曲子 + 歌词 + 去人声。没有视频感觉还是缺点气氛？而且记得日语歌好像没法显示 furigana...",
-    "views": 163,
+    "views": 165,
     "forwards": 0,
     "media_group_id": 14075403032400501,
     "images": [
@@ -92155,7 +92155,7 @@
     "id": 6810,
     "date": "2025-10-03T08:03:43",
     "text": "对比中国和日本的地铁乘坐体验\n✅ 不需要出站换乘\n❌ 换乘没有无障碍通道\n❌ 下车会被上车的人挤回去\n❌ 硬座\n❌ 有人占两个坐\n❌ 吵（外放抖音/打电话）\n❌ 需要过安检\n❌ 看不到车",
-    "views": 174,
+    "views": 179,
     "forwards": 2,
     "media_group_id": 14075828986400133,
     "images": [
@@ -92185,7 +92185,7 @@
     "id": 6812,
     "date": "2025-10-03T10:06:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n超级日常的拉面",
-    "views": 132,
+    "views": 135,
     "forwards": 2,
     "media_group_id": 14075887750300053,
     "images": [
@@ -92235,7 +92235,7 @@
     "id": 6816,
     "date": "2025-10-03T10:43:32",
     "text": "和 menci 和 ACBox 去了东方之门！（实际上是东方之裤衩）\n\n<del>差评，穿过东方之门并没有进入幻想乡</del>\n\n不过中国的人真的好多啊，到处都是挤满了人，人看起来也都不太开心的样子... 好不喜欢在这样的地方旅行",
-    "views": 128,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 14075905701583101,
     "images": [
@@ -92345,7 +92345,7 @@
     "id": 6826,
     "date": "2025-10-03T11:46:33",
     "text": "接下来去逛逛诚品书店，整栋楼的设计感好好看\n\n不过其实不太喜欢书店变成网红打卡点这件事... 看有人坐下翻开书拍一张照片就把书放回去走了的样子真的有点破坏气氛\n\n买了一本《摇曳露营野外活动记录》，里面介绍了动画的详细角色设定、露营地点和路线和装备（这里面的露营帐篷拼装介绍比我买的帐篷的说明书更详细了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>）也许是第一个不只有收藏意义、还让我觉得很实用的设定集",
-    "views": 121,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 14075935949638269,
     "images": [
@@ -92455,7 +92455,7 @@
     "id": 6836,
     "date": "2025-10-03T14:38:40",
     "text": "莲子去天台玩无线电，我拿相机上去凑凑热闹。天台风景好不错，能看到很远处的东方之门 qwq\n\n不过苏州光污染实在是太严重了，p3 调色之前的原图是 p4 那么亮... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 一个星星都没看到",
-    "views": 106,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 14076018565562877,
     "images": [
@@ -92502,22 +92502,22 @@
     ]
   },
   {
-    "id": 6842,
-    "date": "2025-10-04T02:36:12",
+    "id": 6843,
+    "date": "2025-10-04T02:38:26",
     "text": "+ 显卡屋\n\n<del>我又开始 diy 电源了</del>",
-    "views": 10,
+    "views": 47,
     "forwards": 0,
-    "media_group_id": 14076362980120861,
+    "media_group_id": 14076364052820965,
     "images": [
       {
         "width": 2560,
         "height": 1920,
-        "date": "2025-10-04T02:36:11",
+        "date": "2025-10-04T02:38:25",
         "media_type": "photo",
-        "original_name": "photo_2025-10-04_02-36-11.jpg",
-        "url": "media/6840.jpg",
-        "size": 713620,
-        "thumb": "media/6840.jpg_thumb.jpg"
+        "original_name": "photo_2025-10-04_02-38-25.jpg",
+        "url": "media/6843.jpg",
+        "size": 695303,
+        "thumb": "media/6843.jpg_thumb.jpg"
       },
       {
         "width": 2560,
@@ -92525,9 +92525,9 @@
         "date": "2025-10-04T02:36:11",
         "media_type": "photo",
         "original_name": "photo_2025-10-04_02-36-11.jpg",
-        "url": "media/6841.jpg",
+        "url": "media/6844.jpg",
         "size": 551489,
-        "thumb": "media/6841.jpg_thumb.jpg"
+        "thumb": "media/6844.jpg_thumb.jpg"
       },
       {
         "width": 2560,
@@ -92535,9 +92535,19 @@
         "date": "2025-10-04T02:36:11",
         "media_type": "photo",
         "original_name": "photo_2025-10-04_02-36-11.jpg",
-        "url": "media/6842.jpg",
+        "url": "media/6845.jpg",
         "size": 477247,
-        "thumb": "media/6842.jpg_thumb.jpg"
+        "thumb": "media/6845.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-10-04T02:38:25",
+        "media_type": "photo",
+        "original_name": "photo_2025-10-04_02-38-25.jpg",
+        "url": "media/6846.jpg",
+        "size": 349748,
+        "thumb": "media/6846.jpg_thumb.jpg"
       }
     ]
   }
