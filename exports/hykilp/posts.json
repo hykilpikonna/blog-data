@@ -30673,14 +30673,14 @@
     "id": 2281,
     "date": "2023-06-14T16:11:28",
     "text": "和前室友 Wan 聊天，他觉得 arXiv 没有 peer review 还是有很多学术垃圾，他的研究里几乎不看，但是毕竟他在研究数据库。\n\nMeanwhile 我的研究需要看的几乎全都是只发布在 arXiv，毕竟以前的音乐生成模型都是生成谱子，直接通过文字描述生成音频音乐还很新，大部分的文献都还不到一岁...\n\n一周前刚发到 arXiv 的两篇就已经完全改变了我的项目的可行性 🌚 一篇是 Meta AI 的开源生成模型 MusicGen，另一篇是 MAP 的开源音乐文字 embedding MERT，终于不用因为拿不到谷歌的闭源 MusicLM 和 MuLan 发愁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 82,
+    "views": 83,
     "forwards": 0
   },
   {
     "id": 2282,
     "date": "2023-06-15T03:39:44",
     "text": "去琴店白嫖练琴 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n...要把自己弹睡着了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 怎么办呀呜好想传送回家",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "files": [
       {
@@ -30702,14 +30702,14 @@
     "id": 2283,
     "date": "2023-06-15T04:35:08",
     "text": "今天回家之前发现了 building 99 里面的乒乓球桌，和不认识的朋友们打了乒乓球！原本还不太会打的，打了一会似乎能连续接上球了好开心！最长连续接上了五个球哇 qwq",
-    "views": 81,
+    "views": 82,
     "forwards": 0
   },
   {
     "id": 2285,
     "date": "2023-06-15T04:44:47",
     "text": "刚才回家的路上看到了一支好孤独的毛地黄，孤独得看上去像是垂下了头 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 13494434296315085,
     "images": [
@@ -30791,7 +30791,7 @@
     "id": 2290,
     "date": "2023-06-17T03:59:38",
     "text": "找到室友了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "reply": {
       "id": 2272,
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1323,
+    "views": 1324,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1118,
+    "views": 1119,
     "forwards": 7,
     "files": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6248,
+    "views": 6249,
     "forwards": 147,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7866,
+    "views": 7869,
     "forwards": 172,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86765,7 +86765,7 @@
     "id": 6360,
     "date": "2025-08-26T13:20:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n达成成就：参加居酒派对（飲み会）完全没有喝酒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<del>达成成就：明明餐桌上有吃不完的食物结果因为一直在聊天没吃饱回家之后又买了鯛焼</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "media_group_id": 14049715294488173,
     "images": [
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 341,
+    "views": 342,
     "forwards": 7,
     "files": [
       {
@@ -89302,7 +89302,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 265,
+    "views": 266,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 289,
+    "views": 290,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 292,
+    "views": 293,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 245,
+    "views": 246,
     "forwards": 0,
     "images": [
       {
@@ -89510,7 +89510,7 @@
     "id": 6584,
     "date": "2025-09-15T11:31:19",
     "text": "众所周知富士山山顶白色的东西是云彩 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "images": [
       {
@@ -90061,7 +90061,7 @@
     "id": 6626,
     "date": "2025-09-20T01:40:06",
     "text": "见到 syama 了，syama 可爱喵",
-    "views": 205,
+    "views": 206,
     "forwards": 0,
     "media_group_id": 14066659255534285,
     "images": [
@@ -91701,7 +91701,7 @@
     "id": 6772,
     "date": "2025-09-29T14:05:00",
     "text": "中国全家居然没有 famichiki <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>日本中国都有</del>",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 14073237600203381,
     "images": [
@@ -91731,7 +91731,7 @@
     "id": 6774,
     "date": "2025-09-29T15:03:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n菇蔫儿（实际上叫灯笼果）\n\n是家乡的果子，小时候特别爱吃，不过大学之后就没吃过了... 在水果店看到了好怀念。不知道频道里有多少人吃过\n\n旁边的 menci 没吃过，问我是什么味道，一时间不知道应该怎么描述... 感觉每次用语言描述味道的时候都是在用已知的味道进行组合：比如西瓜味葡萄味混合水果味之类的。但是发现像灯笼果这样的没有近似物的味道就完全没法描述，只能说口感像葡萄自己吃吃看了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 语言的表达力还是好有限",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "media_group_id": 14073265570909525,
     "images": [
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 383,
+    "views": 385,
     "forwards": 7,
     "media_group_id": 14073654712928549,
     "images": [
@@ -91800,7 +91800,7 @@
     "id": 6786,
     "date": "2025-09-30T09:27:56",
     "text": "拍飞机 <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "media_group_id": 14073795810187485,
     "images": [
@@ -91880,7 +91880,7 @@
     "id": 6793,
     "date": "2025-09-30T17:03:27",
     "text": "居然是 mujin 本人亲手送给我的\n\n感觉比起收到了 $10，能够在两个不同平台上加到喜欢的 youtuber 的好友更让我心动 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 182,
+    "views": 184,
     "forwards": 1,
     "media_group_id": 14074014461477501,
     "images": [
@@ -91914,7 +91914,7 @@
     "id": 6795,
     "date": "2025-10-01T03:38:27",
     "text": "芝麻凛生日快乐！",
-    "views": 200,
+    "views": 201,
     "forwards": 3,
     "images": [
       {
@@ -91932,7 +91932,7 @@
   {
     "id": 6796,
     "date": "2025-10-01T03:38:43",
-    "views": 170,
+    "views": 171,
     "forwards": 1,
     "files": [
       {
@@ -91957,7 +91957,7 @@
     "id": 6797,
     "date": "2025-10-01T14:09:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nmenci 的朋友 dustella 和 acbox 来玩，我做了炖鸡 qwq\n\n有点好奇在中国在家做饭会不会比在外面吃便宜就统计一下价格：萝卜 1.34 + 葱 0.73 + 鸡腿 10.08 + 米 4.48 + 香菇 2.59 + 汤底 6.25 总共花了 ￥25\n\n算下来四个人的话每人 ￥6，还是比在外面吃便宜一点点的（不过 dustella 还买了肯德基就有点打败了目的",
-    "views": 168,
+    "views": 170,
     "forwards": 3,
     "media_group_id": 14074622072242941,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 540,
+    "views": 543,
     "forwards": 5,
     "images": [
       {
@@ -92036,7 +92036,7 @@
     "id": 6803,
     "date": "2025-10-02T05:09:14",
     "text": "过去一年我一直在等 Affinity 打折，结果现在被 Canva 收购了之后官网购买软件的入口直接消失了，取代它的是一个 soon™\n\n不知道是不是好消息，大概率不是，但是还是期待一下吧\n\n以及，iOS 版的 Affinity 软件现在免费了，不想错过的话去 app store 领一份哦",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "images": [
       {
@@ -92055,7 +92055,7 @@
     "id": 6804,
     "date": "2025-10-02T06:01:22",
     "text": "太炫酷了",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "files": [
       {
@@ -92077,14 +92077,14 @@
     "id": 6805,
     "date": "2025-10-02T13:57:47",
     "text": "怀念 vposy 和 AdobeZii 的时代",
-    "views": 161,
+    "views": 162,
     "forwards": 0
   },
   {
     "id": 6806,
     "date": "2025-10-02T16:33:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 咲いた野の花よ\n♪ ああ どうか教えておくれ\n♪ 人は何故 傷つけあって\n♪ 争うのでしょう\n\n在飞机上看了《罪恶王冠》的前六七集，因为小时候很喜欢一直想找时间重新看一遍。这次重新看依然好喜欢这个设定，「人心编织而成的力量」造就了一些情感爆发的演出，不过也确实有点中二（",
-    "views": 157,
+    "views": 158,
     "forwards": 1,
     "reply": {
       "id": 5801,
@@ -92111,7 +92111,7 @@
     "id": 6807,
     "date": "2025-10-02T17:16:19",
     "text": "menci 新家有一套房东留下来的 5.1 音箱系统，但是已经很久没维护、线全都断掉/消失了\n\n今天重新做了线，把每个音箱连到了功放上把它修好啦 qwq\n\n功放还带了两个麦克风输入诶，插上去发现真的能用，所以就想要搭一个 karaoke 系统\n\n已经无数次想要搭 karaoke 系统了但是每次都不知道用什么软件好... 目前体验最好的也许是 Apple TV 所以下单了一个（还没收到）但是它也只能做到曲子 + 歌词 + 去人声。没有视频感觉还是缺点气氛？而且记得日语歌好像没法显示 furigana...",
-    "views": 166,
+    "views": 167,
     "forwards": 0,
     "media_group_id": 14075403032400501,
     "images": [
@@ -92155,7 +92155,7 @@
     "id": 6810,
     "date": "2025-10-03T08:03:43",
     "text": "对比中国和日本的地铁乘坐体验\n✅ 不需要出站换乘\n❌ 换乘没有无障碍通道\n❌ 下车会被上车的人挤回去\n❌ 硬座\n❌ 有人占两个坐\n❌ 吵（外放抖音/打电话）\n❌ 需要过安检\n❌ 看不到车",
-    "views": 184,
+    "views": 187,
     "forwards": 2,
     "media_group_id": 14075828986400133,
     "images": [
@@ -92185,7 +92185,7 @@
     "id": 6812,
     "date": "2025-10-03T10:06:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n超级日常的拉面",
-    "views": 140,
+    "views": 143,
     "forwards": 2,
     "media_group_id": 14075887750300053,
     "images": [
@@ -92235,7 +92235,7 @@
     "id": 6816,
     "date": "2025-10-03T10:43:32",
     "text": "和 menci 和 ACBox 去了东方之门！（实际上是东方之裤衩）\n\n<del>差评，穿过东方之门并没有进入幻想乡</del>\n\n不过中国的人真的好多啊，到处都是挤满了人，人看起来也都不太开心的样子... 好不喜欢在这样的地方旅行",
-    "views": 136,
+    "views": 138,
     "forwards": 1,
     "media_group_id": 14075905701583101,
     "images": [
@@ -92345,7 +92345,7 @@
     "id": 6826,
     "date": "2025-10-03T11:46:33",
     "text": "接下来去逛逛诚品书店，整栋楼的设计感好好看\n\n不过其实不太喜欢书店变成网红打卡点这件事... 看有人坐下翻开书拍一张照片就把书放回去走了的样子真的有点破坏气氛\n\n买了一本《摇曳露营野外活动记录》，里面介绍了动画的详细角色设定、露营地点和路线和装备（这里面的露营帐篷拼装介绍比我买的帐篷的说明书更详细了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>）也许是第一个不只有收藏意义、还让我觉得很实用的设定集",
-    "views": 134,
+    "views": 140,
     "forwards": 0,
     "media_group_id": 14075935949638269,
     "images": [
@@ -92455,7 +92455,7 @@
     "id": 6836,
     "date": "2025-10-03T14:38:40",
     "text": "莲子去天台玩无线电，我拿相机上去凑凑热闹。天台风景好不错，能看到很远处的东方之门 qwq\n\n不过苏州光污染实在是太严重了，p3 调色之前的原图是 p4 那么亮... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 一个星星都没看到",
-    "views": 133,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 14076018565562877,
     "images": [
@@ -92505,7 +92505,7 @@
     "id": 6843,
     "date": "2025-10-04T02:38:26",
     "text": "+ 显卡屋\n\n<del>我又开始 diy 电源了</del>",
-    "views": 83,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 14076364052820965,
     "images": [
@@ -92550,5 +92550,40 @@
         "thumb": "media/6846.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 6847,
+    "date": "2025-10-04T08:39:36",
+    "text": "显卡屋真的有点奇妙\n\n记得以前用双显卡笔记本有办法设置什么程序用什么显卡，但是用显卡屋就没有。\n\n跑<i class=\"custom-emoji\" emoji-src=\"emoji/5460804574719778473.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460773655250214104.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460798570355498276.webp\">🔤</i>，笔记本屏+外接显示器插到显卡屋上。如果在笔记本屏上启动就会用集显，20FPS 左右，拖到外接显示器上也依然 20FPS。\n\n如果在外接显示器上启动就会用独显，60FPS 左右，拖到笔记本屏上会让帧率降到 40FPS（把渲染好的图像从一个显卡复制到另一个显卡的 overhead 这么大吗...）",
+    "views": 70,
+    "forwards": 0,
+    "media_group_id": 14076537409665893,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1026,
+        "date": "2025-10-04T08:41:03",
+        "media_type": "photo",
+        "original_name": "photo_2025-10-04_08-41-03.jpg",
+        "url": "media/6847.jpg",
+        "size": 334665,
+        "thumb": "media/6847.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1599,
+        "date": "2025-10-04T08:39:35",
+        "media_type": "photo",
+        "original_name": "photo_2025-10-04_08-39-35.jpg",
+        "url": "media/6848.jpg",
+        "size": 922844,
+        "thumb": "media/6848.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 6843,
+      "text": "+ 显卡屋\n\n<del>我又开始 diy 电源了</del>",
+      "thumb": "media/6843.jpg_thumb.jpg"
+    }
   }
 ]

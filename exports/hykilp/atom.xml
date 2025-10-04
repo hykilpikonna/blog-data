@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-10-04T08:15:59.963148+00:00</updated>
+  <updated>2025-10-04T10:17:08.295615+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6847</id>
+    <title>小桂桂的回忆录 📒 #6847</title>
+    <updated>2025-10-04T08:39:36+00:00</updated>
+    <content>&lt;p&gt;显卡屋真的有点奇妙&lt;/p&gt;
+&lt;p&gt;记得以前用双显卡笔记本有办法设置什么程序用什么显卡，但是用显卡屋就没有。&lt;/p&gt;
+&lt;p&gt;跑&lt;i class="custom-emoji" emoji-src="emoji/5460804574719778473.webp"&gt;🔤&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/5461064488960662003.webp"&gt;🔤&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/5461064488960662003.webp"&gt;🔤&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/5460773655250214104.webp"&gt;🔤&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/5460798570355498276.webp"&gt;🔤&lt;/i&gt;，笔记本屏+外接显示器插到显卡屋上。如果在笔记本屏上启动就会用集显，20FPS 左右，拖到外接显示器上也依然 20FPS。&lt;/p&gt;
+&lt;p&gt;如果在外接显示器上启动就会用独显，60FPS 左右，拖到笔记本屏上会让帧率降到 40FPS（把渲染好的图像从一个显卡复制到另一个显卡的 overhead 这么大吗...）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6847" rel="alternate"/>
+  </entry>
   <entry>
     <id>6843</id>
     <title>小桂桂的回忆录 📒 #6843</title>
