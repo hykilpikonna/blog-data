@@ -60004,7 +60004,7 @@
     "id": 4386,
     "date": "2024-09-02T00:49:34",
     "text": "收到了 Celestium 的礼物，是一个看起来像天球仪的永动摆，好好看 qwq <span class=\"spoiler\"><span>是某种对 ADHD 宝具</span></span>\n\n它原本需要装一个 9V 电池，但是买来了一个是坏的，而且感觉用电池供电好浪费，所以直接把电池线剪掉焊了一个 DC 接口上去改成 12V 接线了，既让磁力更强又不用担心会没电了 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 3,
     "media_group_id": 13801905399622605,
     "files": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7878,
+    "views": 7879,
     "forwards": 172,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86546,7 +86546,7 @@
     "id": 6342,
     "date": "2025-08-24T00:01:54",
     "text": "给 oau 后端机器人写了一个 gpt5 早安 bot！（想法其实来源于每天早九的定时重启消息hhh）\n\n实现起来比预想要难，感觉想开启 gpt5 的脑洞让它输出随机无厘头的文字绕了好多圈圈。\n\n写了篇 <a href=\"https://aza.moe/blog?post=2025-08-24-%E6%97%A9%E5%AE%89%E6%9C%BA%E5%99%A8%E4%BA%BA\">writeup</a>，感兴趣欢迎读读",
-    "views": 279,
+    "views": 280,
     "forwards": 3,
     "media_group_id": 14047949714238109,
     "images": [
@@ -86586,7 +86586,7 @@
     "id": 6345,
     "date": "2025-08-24T10:29:38",
     "text": "打开了之前在冲绳水族馆买的气泡饮料，海蓝色的好好看（包装也好好看）\n\n喝起来味道像 ramune",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "images": [
       {
@@ -86675,7 +86675,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 256,
+    "views": 257,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 344,
+    "views": 345,
     "forwards": 7,
     "files": [
       {
@@ -91880,7 +91880,7 @@
     "id": 6793,
     "date": "2025-09-30T17:03:27",
     "text": "居然是 mujin 本人亲手送给我的\n\n感觉比起收到了 $10，能够在两个不同平台上加到喜欢的 youtuber 的好友更让我心动 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 1,
     "media_group_id": 14074014461477501,
     "images": [
@@ -91914,7 +91914,7 @@
     "id": 6795,
     "date": "2025-10-01T03:38:27",
     "text": "芝麻凛生日快乐！",
-    "views": 206,
+    "views": 207,
     "forwards": 3,
     "images": [
       {
@@ -91957,7 +91957,7 @@
     "id": 6797,
     "date": "2025-10-01T14:09:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nmenci 的朋友 dustella 和 acbox 来玩，我做了炖鸡 qwq\n\n有点好奇在中国在家做饭会不会比在外面吃便宜就统计一下价格：萝卜 1.34 + 葱 0.73 + 鸡腿 10.08 + 米 4.48 + 香菇 2.59 + 汤底 6.25 总共花了 ￥25\n\n算下来四个人的话每人 ￥6，还是比在外面吃便宜一点点的（不过 dustella 还买了肯德基就有点打败了目的",
-    "views": 175,
+    "views": 176,
     "forwards": 3,
     "media_group_id": 14074622072242941,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 555,
+    "views": 556,
     "forwards": 5,
     "images": [
       {
@@ -92155,7 +92155,7 @@
     "id": 6810,
     "date": "2025-10-03T08:03:43",
     "text": "对比中国和日本的地铁乘坐体验\n✅ 不需要出站换乘\n❌ 换乘没有无障碍通道\n❌ 下车会被上车的人挤回去\n❌ 硬座\n❌ 有人占两个坐\n❌ 吵（外放抖音/打电话）\n❌ 需要过安检\n❌ 看不到车",
-    "views": 208,
+    "views": 209,
     "forwards": 3,
     "media_group_id": 14075828986400133,
     "images": [
@@ -92185,7 +92185,7 @@
     "id": 6812,
     "date": "2025-10-03T10:06:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n超级日常的拉面",
-    "views": 154,
+    "views": 156,
     "forwards": 2,
     "media_group_id": 14075887750300053,
     "images": [
@@ -92235,7 +92235,7 @@
     "id": 6816,
     "date": "2025-10-03T10:43:32",
     "text": "和 menci 和 ACBox 去了东方之门！（实际上是东方之裤衩）\n\n<del>差评，穿过东方之门并没有进入幻想乡</del>\n\n不过中国的人真的好多啊，到处都是挤满了人，人看起来也都不太开心的样子... 好不喜欢在这样的地方旅行",
-    "views": 148,
+    "views": 150,
     "forwards": 1,
     "media_group_id": 14075905701583101,
     "images": [
@@ -92345,7 +92345,7 @@
     "id": 6826,
     "date": "2025-10-03T11:46:33",
     "text": "接下来去逛逛诚品书店，整栋楼的设计感好好看\n\n不过其实不太喜欢书店变成网红打卡点这件事... 看有人坐下翻开书拍一张照片就把书放回去走了的样子真的有点破坏气氛\n\n买了一本《摇曳露营野外活动记录》，里面介绍了动画的详细角色设定、露营地点和路线和装备（这里面的露营帐篷拼装介绍比我买的帐篷的说明书更详细了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>）也许是第一个不只有收藏意义、还让我觉得很实用的设定集",
-    "views": 154,
+    "views": 156,
     "forwards": 0,
     "media_group_id": 14075935949638269,
     "images": [
@@ -92455,7 +92455,7 @@
     "id": 6836,
     "date": "2025-10-03T14:38:40",
     "text": "莲子去天台玩无线电，我拿相机上去凑凑热闹。天台风景好不错，能看到很远处的东方之门 qwq\n\n不过苏州光污染实在是太严重了，p3 调色之前的原图是 p4 那么亮... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 一个星星都没看到",
-    "views": 157,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 14076018565562877,
     "images": [
@@ -92505,7 +92505,7 @@
     "id": 6843,
     "date": "2025-10-04T02:38:26",
     "text": "+ 显卡屋\n\n<del>我又开始 diy 电源了</del>",
-    "views": 142,
+    "views": 144,
     "forwards": 0,
     "media_group_id": 14076364052820965,
     "images": [
@@ -92555,7 +92555,7 @@
     "id": 6847,
     "date": "2025-10-04T08:39:36",
     "text": "显卡屋真的有点奇妙\n\n记得以前用双显卡笔记本有办法设置什么程序用什么显卡，但是用显卡屋就没有。\n\n跑<i class=\"custom-emoji\" emoji-src=\"emoji/5460804574719778473.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460773655250214104.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460798570355498276.webp\">🔤</i>，笔记本屏+外接显示器插到显卡屋上。如果在笔记本屏上启动就会用集显，20FPS 左右，拖到外接显示器上也依然 20FPS。\n\n如果在外接显示器上启动就会用独显，60FPS 左右，拖到笔记本屏上会让帧率降到 40FPS（把渲染好的图像从一个显卡复制到另一个显卡的 overhead 这么大吗...）",
-    "views": 140,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 14076537409665893,
     "images": [
@@ -92590,7 +92590,7 @@
     "id": 6849,
     "date": "2025-10-04T17:25:08",
     "text": "...发现修好它并没有想象的那么简单\n\n今天重新打开它的时候发现低音声道没声音。看了下低音炮，发现线已经烧掉了... 昨天还有声音真是奇迹\n\n然后做声道测试发现右边音响没声音，排错发现是连接到端子的线从里面断掉了。把喇叭拧下来重新焊了两根线上去，再从下面穿出去了\n\n然后把接麦克风的短线换成新买的五米长线，接上麦克风没声音。用电表测了一下发现并不是因为线太长了有阻抗，而是因为接口定义完全不一样...\n\n之前的短线是非平衡单声道，新的长线是平衡单声道/非平衡双声道。然而即使外观和接口完全一样，这两套引脚定义并不互相兼容，而且商品描述里也没有写是哪种... 不过好在它的接口是可以拧下来的那种，重新焊一根飞线改好了\n\n现在终于全都工作啦！累死了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 121,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 14076789666467461,
     "images": [
@@ -92675,7 +92675,7 @@
     "id": 6856,
     "date": "2025-10-04T17:44:42",
     "text": "新皮肤",
-    "views": 115,
+    "views": 118,
     "forwards": 1,
     "images": [
       {
@@ -92694,7 +92694,7 @@
     "id": 6857,
     "date": "2025-10-05T05:29:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n大盘鸡汤面！\n\n（其实是因为昨晚在饭店点了大盘鸡剩了很多，但是不想浪费就带回来中午做了面 qwq）",
-    "views": 70,
+    "views": 81,
     "forwards": 1,
     "media_group_id": 14077137535239701,
     "images": [
