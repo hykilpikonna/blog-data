@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 347,
+    "views": 348,
     "forwards": 7,
     "files": [
       {
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 400,
+    "views": 402,
     "forwards": 7,
     "media_group_id": 14073654712928549,
     "images": [
