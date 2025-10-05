@@ -82953,7 +82953,7 @@
     "id": 6067,
     "date": "2025-07-28T14:48:33",
     "text": "哭哭\n\n因为原本维护前端的风庄在<span class=\"spoiler\"><span>休眠</span></span>，久违地回到 <a href=\"one-among.us\">one-among.us</a> 前端代码库里改点代码。\n\n太久没写了这套代码变得好陌生，翻翻文件重新熟悉一下，翻到风庄留下的天才代码想要和谁吐槽吐槽的时候才真正意识到她真的不在了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 306,
+    "views": 307,
     "forwards": 5
   },
   {
@@ -83806,7 +83806,7 @@
     "id": 6125,
     "date": "2025-08-10T13:10:27",
     "text": "小狐狸！\n\n我：哇有小狐狸（一脚急刹车从 90 刹到 0）\n🦊：（躲进🌱里）\n我：盯——\n🦊：👀\n我：盯——\n🦊：👀\n我：盯——\n🦊：（钻出来，用头点点地板）\n好可爱 我死了\n\n可惜感觉在车道上喂小狐狸不太好，要是小狐狸觉得车车能给它食物到路上送死就不好了。",
-    "views": 250,
+    "views": 251,
     "forwards": 2,
     "media_group_id": 14038651420384293,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7882,
+    "views": 7883,
     "forwards": 172,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 346,
+    "views": 347,
     "forwards": 7,
     "files": [
       {
@@ -91005,7 +91005,7 @@
     "id": 6717,
     "date": "2025-09-25T08:26:13",
     "text": "在日本比物理搬家更麻烦的是办搬家手续...\n\n物理搬家三四个小时就搬完了，办搬家手续从早上十点办到晚上五点还差一些因为关门了没办完需要明天办",
-    "views": 186,
+    "views": 187,
     "forwards": 1,
     "images": [
       {
@@ -91174,7 +91174,7 @@
     "id": 6731,
     "date": "2025-09-25T10:44:14",
     "text": "最后一天和 syama 和 rastvas 去了上野公园，看到了东照宫\n\n好华丽的神社，整个神社到处都被镀上金还是挺少见的，授付所的建筑是很好看的现代风格，甚至御神籤都镀了金，<del>結び所上挂满了金色传说级厄运</del>\n\n御朱印也超级华丽还有镀金边（不过要 JP￥1000 好贵，一般神社都是 300~500，以及为什么写的是简体中文的「东」而不是「東」哇）",
-    "views": 164,
+    "views": 165,
     "forwards": 2,
     "media_group_id": 14070376438114677,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 558,
+    "views": 560,
     "forwards": 5,
     "images": [
       {
@@ -92455,7 +92455,7 @@
     "id": 6836,
     "date": "2025-10-03T14:38:40",
     "text": "莲子去天台玩无线电，我拿相机上去凑凑热闹。天台风景好不错，能看到很远处的东方之门 qwq\n\n不过苏州光污染实在是太严重了，p3 调色之前的原图是 p4 那么亮... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 一个星星都没看到",
-    "views": 159,
+    "views": 160,
     "forwards": 0,
     "media_group_id": 14076018565562877,
     "images": [
@@ -92505,7 +92505,7 @@
     "id": 6843,
     "date": "2025-10-04T02:38:26",
     "text": "+ 显卡屋\n\n<del>我又开始 diy 电源了</del>",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 14076364052820965,
     "images": [
@@ -92555,7 +92555,7 @@
     "id": 6847,
     "date": "2025-10-04T08:39:36",
     "text": "显卡屋真的有点奇妙\n\n记得以前用双显卡笔记本有办法设置什么程序用什么显卡，但是用显卡屋就没有。\n\n跑<i class=\"custom-emoji\" emoji-src=\"emoji/5460804574719778473.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460773655250214104.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460798570355498276.webp\">🔤</i>，笔记本屏+外接显示器插到显卡屋上。如果在笔记本屏上启动就会用集显，20FPS 左右，拖到外接显示器上也依然 20FPS。\n\n如果在外接显示器上启动就会用独显，60FPS 左右，拖到笔记本屏上会让帧率降到 40FPS（把渲染好的图像从一个显卡复制到另一个显卡的 overhead 这么大吗...）",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 14076537409665893,
     "images": [
@@ -92590,7 +92590,7 @@
     "id": 6849,
     "date": "2025-10-04T17:25:08",
     "text": "...发现修好它并没有想象的那么简单\n\n今天重新打开它的时候发现低音声道没声音。看了下低音炮，发现线已经烧掉了... 昨天还有声音真是奇迹\n\n然后做声道测试发现右边音响没声音，排错发现是连接到端子的线从里面断掉了。把喇叭拧下来重新焊了两根线上去，再从下面穿出去了\n\n然后把接麦克风的短线换成新买的五米长线，接上麦克风没声音。用电表测了一下发现并不是因为线太长了有阻抗，而是因为接口定义完全不一样...\n\n之前的短线是非平衡单声道，新的长线是平衡单声道/非平衡双声道。然而即使外观和接口完全一样，这两套引脚定义并不互相兼容，而且商品描述里也没有写是哪种... 不过好在它的接口是可以拧下来的那种，重新焊一根飞线改好了\n\n现在终于全都工作啦！累死了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "media_group_id": 14076789666467461,
     "images": [
@@ -92675,7 +92675,7 @@
     "id": 6856,
     "date": "2025-10-04T17:44:42",
     "text": "新皮肤",
-    "views": 123,
+    "views": 124,
     "forwards": 1,
     "images": [
       {
@@ -92694,7 +92694,7 @@
     "id": 6857,
     "date": "2025-10-05T05:29:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n大盘鸡汤面！\n\n（其实是因为昨晚在饭店点了大盘鸡剩了很多，但是不想浪费就带回来中午做了面 qwq）",
-    "views": 96,
+    "views": 98,
     "forwards": 1,
     "media_group_id": 14077137535239701,
     "images": [
