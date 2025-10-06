@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1294,
+    "views": 1295,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 557,
+    "views": 558,
     "forwards": 3,
     "media_group_id": 13969779211072469,
     "images": [
@@ -73678,7 +73678,7 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 309,
+    "views": 310,
     "forwards": 3
   },
   {
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 738,
+    "views": 739,
     "forwards": 9
   },
   {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7890,
+    "views": 7892,
     "forwards": 172,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85875,7 +85875,7 @@
     "id": 6292,
     "date": "2025-08-21T02:07:56",
     "text": "想要 Google AI 的强大功能触手 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 265,
+    "views": 266,
     "forwards": 4,
     "images": [
       {
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 290,
+    "views": 291,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 293,
+    "views": 294,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "images": [
       {
@@ -89400,7 +89400,7 @@
     "id": 6574,
     "date": "2025-09-15T11:05:18",
     "text": "蓝夏和 Yuri 回西雅图的前两天去和他们加上マモル一起露营了！去的是摇曳露营圣地本栖湖旁边的浩庵露营场\n\n第二次来这里了，不过上次只是熬夜开车过去看日出烧烧早饭，这次真的搭帐篷过夜了 qwq\n\n到了露营场之后还在多云下小雨，云多到富士山完全看不见（<del>所以是やまなし県吗</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>）雨天搭帐篷好累累，烧了火锅就睡觉啦。\n\n早上起来看日出，日出看到了完整的富士山还是很高兴的！拍些照片烧烧剩下的火锅又收了帐篷就送他们去机场啦。开心开心\n\n（结果因为没睡够今天睡了 13h 还困困... 还好是休息日 <i class=\"custom-emoji\" emoji-src=\"emoji/6170408965306844904.webm\">😾</i>）",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "media_group_id": 14063474545285581,
     "images": [
@@ -89510,7 +89510,7 @@
     "id": 6584,
     "date": "2025-09-15T11:31:19",
     "text": "众所周知富士山山顶白色的东西是云彩 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "images": [
       {
@@ -89529,7 +89529,7 @@
     "id": 6585,
     "date": "2025-09-15T12:03:16",
     "text": "晚上除了烧火锅还点了烟花！好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/5215638109068220476.tgs\">🎆</i>\n\n大概已经七八年没有自己点过烟花了，好怀念喜欢玩烟花的时候，可惜大部分地方都已经禁止烟花了...\n\n画了一些召唤晴天的魔法阵 <i class=\"custom-emoji\" emoji-src=\"emoji/5260426225599405269.tgs\">🪄</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "media_group_id": 14063502369708773,
     "images": [
@@ -92111,7 +92111,7 @@
     "id": 6807,
     "date": "2025-10-02T17:16:19",
     "text": "menci 新家有一套房东留下来的 5.1 音箱系统，但是已经很久没维护、线全都断掉/消失了\n\n今天重新做了线，把每个音箱连到了功放上把它修好啦 qwq\n\n功放还带了两个麦克风输入诶，插上去发现真的能用，所以就想要搭一个 karaoke 系统\n\n已经无数次想要搭 karaoke 系统了但是每次都不知道用什么软件好... 目前体验最好的也许是 Apple TV 所以下单了一个（还没收到）但是它也只能做到曲子 + 歌词 + 去人声。没有视频感觉还是缺点气氛？而且记得日语歌好像没法显示 furigana...",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 14075403032400501,
     "images": [
@@ -92675,7 +92675,7 @@
     "id": 6856,
     "date": "2025-10-04T17:44:42",
     "text": "新皮肤",
-    "views": 142,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -92694,7 +92694,7 @@
     "id": 6857,
     "date": "2025-10-05T05:29:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n大盘鸡汤面！\n\n（其实是因为昨晚在饭店点了大盘鸡剩了很多，但是不想浪费就带回来中午做了面 qwq）",
-    "views": 129,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 14077137535239701,
     "images": [
@@ -92724,7 +92724,7 @@
     "id": 6859,
     "date": "2025-10-06T00:04:54",
     "text": "今天早上的雾真是美妙，这么梦幻的城市剪影居然可以是相机直出？！真的是连调色都没调的直出\n\n感谢物业管理员七点半按门铃把我叫醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 14077672751891045,
     "images": [
@@ -92804,7 +92804,7 @@
     "id": 6866,
     "date": "2025-10-06T00:15:52",
     "text": "爬到楼顶拍一拍雾蒙蒙的东方之👖",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 14077678023756725,
     "images": [
@@ -92844,13 +92844,13 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 101,
+    "views": 106,
     "forwards": 2
   },
   {
     "id": 6870,
     "date": "2025-10-06T05:39:42",
-    "views": 89,
+    "views": 91,
     "forwards": 0,
     "files": [
       {
