@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-10-07T12:16:14.697471+00:00</updated>
+  <updated>2025-10-07T14:17:52.600158+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6879</id>
+    <title>小桂桂的回忆录 📒 #6879</title>
+    <updated>2025-10-07T13:21:45+00:00</updated>
+    <content>&lt;p&gt;因为 1060 显卡不太够用，买一张新显卡给显卡坞。左看右看之后选了 Intel Arc A770，性价比高而且超好看 &lt;i class="custom-emoji" emoji-src="emoji/5325819430553263482.webm"&gt;🤩&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;...不过纸上性能并不代表实际体验，Arc 装在显卡坞上真的很难用&lt;/p&gt;
+&lt;p&gt;第一次接上显卡之后 windows 自动装了一个轻量驱动，我尝试装完整驱动的时候它卸载轻量驱动直接让整个系统蓝屏了 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt; 进安全模式把卸到一半的轻量驱动 DDU 掉之后终于装上了完整驱动。之后居然拔掉 USB 线也会直接蓝屏...&lt;/p&gt;
+&lt;p&gt;跑&lt;i class="custom-emoji" emoji-src="emoji/5461064488960662003.webp"&gt;🔤&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/5461064488960662003.webp"&gt;🔤&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/5460773655250214104.webp"&gt;🔤&lt;/i&gt;&lt;i class="custom-emoji" emoji-src="emoji/5460798570355498276.webp"&gt;🔤&lt;/i&gt;，居然不开光影只有 25fps，开光影只有 15fps，而且... 相比之前的 1060 开光影都有 50fps，肯定有哪里不对&lt;/p&gt;
+&lt;p&gt;为了排错插到台式机上试了一下，发现台式机上性能是正常的，4k 不开光影 412fps，开光影 75fps...&lt;/p&gt;
+&lt;p&gt;唉，果然 Intel 卡还是太吃 PCIe 带宽了，不适合放在显卡坞上跑呢。&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6879" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>6878</id>
+    <title>小桂桂的回忆录 📒 #6878</title>
+    <updated>2025-10-07T12:40:12+00:00</updated>
+    <content>&lt;p&gt;用手机拍月亮的小技巧&lt;/p&gt;
+&lt;p&gt;（其实就是，因为手机是全局测光默认曝光会过曝，所以把 ISO 拉低、把快门速度调高就好了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6878" rel="alternate"/>
+  </entry>
   <entry>
     <id>6875</id>
     <title>小桂桂的回忆录 📒 #6875</title>
