@@ -66929,7 +66929,7 @@
     "id": 4853,
     "date": "2025-01-10T03:49:06",
     "text": "今天玩 VR 的时候聊聊过来抱我，我隔着头显看着聊聊揉揉脸蛋，然后就在想，我看到的真的是聊聊吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n大家肯定都看到过 \"This is not a pipe\" 的那张画，标题是 The Treachery of Images（意思大概就是，画中的管子不是真的管子，而是一张画）\n\n但是有了 AR 之后，感觉真实的边界变得说不清了。我戴着一个封闭的头显，我看到的只有两个显示器和头显摄像头录下来的一个我的手在揉聊聊的视频... 按照 \"This is not a pipe\" 的逻辑的话，它是一个视频所以不是聊聊吗？如果这是真的聊聊的话，我把这段画面录下来重新回放，眼睛看到的内容和之前是一样的，但是这次看到的是聊聊还是视频呢？\n\n换一个角度的话，我在现实中看到的聊聊也只是电灯的光子在聊聊身上的反射而已，但是也不会因此觉得这不真实... <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i> 所以真实的边界到底在哪里呢？",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "images": [
       {
@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 2,
     "images": [
       {
@@ -67117,7 +67117,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "images": [
       {
@@ -67272,7 +67272,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 184,
+    "views": 185,
     "forwards": 1,
     "images": [
       {
@@ -70438,14 +70438,14 @@
     "id": 5096,
     "date": "2025-03-28T16:11:27",
     "text": "（在犹豫要不要出门，犹豫超级久）\n聊聊：能不能定下主意\n我：好 那我决定了！我要在家里再犹豫半小时",
-    "views": 249,
+    "views": 250,
     "forwards": 0
   },
   {
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 349,
+    "views": 350,
     "forwards": 2
   },
   {
@@ -70606,7 +70606,7 @@
     "id": 5108,
     "date": "2025-03-30T17:50:28",
     "text": "朋友们，跨性别现身日快乐！\n愿今后的每一天，都是我们的现身日！",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -70628,7 +70628,7 @@
     "id": 5109,
     "date": "2025-03-31T16:56:23",
     "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 308,
+    "views": 309,
     "forwards": 1,
     "media_group_id": 13947521470139469,
     "images": [
@@ -70830,7 +70830,7 @@
     "id": 5121,
     "date": "2025-04-04T13:32:11",
     "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 401,
+    "views": 402,
     "forwards": 3,
     "files": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7918,
+    "views": 7919,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86675,7 +86675,7 @@
     "id": 6352,
     "date": "2025-08-24T15:37:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n博多豚骨拉面！更新了我最喜欢的拉面店。\n\n原本想凌晨去吃一蘭，因为一蘭这种网红店只有凌晨不用排队，但是到一蘭门口看到马路对面这家博多天神一碗拉面居然只要 ￥650 好便宜！（相比一蘭要 ￥980）而且看了一下 tabelog 评价还比一蘭高，就决定去试试\n\n然后我真的被这个汤震撼到了，完全不过咸但是豚骨味却超级浓... 这是来日本之后第一次能让我喝完<del>还不觉得嗓子疼</del>的豚骨拉面汤\n\n10/10，绝对是我来日本之后吃过的 19 家拉面店里汤最完美的拉面",
-    "views": 262,
+    "views": 263,
     "forwards": 2,
     "media_group_id": 14048398706862093,
     "images": [
@@ -86715,7 +86715,7 @@
     "id": 6355,
     "date": "2025-08-24T15:38:18",
     "text": "有点想做一个拉面排行榜 / tier list 之类的 qwq",
-    "views": 244,
+    "views": 245,
     "forwards": 0,
     "reply": {
       "id": 6352,
@@ -86765,7 +86765,7 @@
     "id": 6360,
     "date": "2025-08-26T13:20:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n达成成就：参加居酒派对（飲み会）完全没有喝酒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<del>达成成就：明明餐桌上有吃不完的食物结果因为一直在聊天没吃饱回家之后又买了鯛焼</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 1,
     "media_group_id": 14049715294488173,
     "images": [
@@ -86845,7 +86845,7 @@
     "id": 6368,
     "date": "2025-08-26T14:41:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鯛焼！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 1,
     "media_group_id": 14049754386902813,
     "images": [
@@ -86875,7 +86875,7 @@
     "id": 6369,
     "date": "2025-08-26T15:49:49",
     "text": "以及 听做 AI 的同事用各种 AI 术语讲他们刚生下来和还没生下来的孩子感觉怪怪的\n\n还有人和大家讲在教他的两三岁小孩 markov chain，好可怕\n\n所以我依然是整个房间里最小的... 他们在讨论让孩子从很小开始学英语会不会让日语说不好，<del>然后我和他们聊因为被从小教英语而中文说不好的亲身经历</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及还见到了之前 telegram 上和我搭话还打 maimai 的神秘同事！世界好小",
-    "views": 255,
+    "views": 256,
     "forwards": 6,
     "reply": {
       "id": 6360,
@@ -87172,7 +87172,7 @@
     "id": 6393,
     "date": "2025-08-28T10:42:43",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n之前那个宝可梦x初音ミク Project Voltage 的曲子里面最喜欢的果然还是 sasakure 老师的\n\n<a href=\"https://www.youtube.com/watch?v=pykE4kMhUUU\">Youtube MV</a>",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "files": [
       {
@@ -87194,7 +87194,7 @@
     "id": 6394,
     "date": "2025-08-28T14:23:47",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n网易云随机到了小时候特别喜欢的曲子《アヤノの幸福理論》现在看着 MV 依然会哭\n\n♪ 思い出してみよう あの好きだった言葉\n♪ 幸せってなんだか不思議\n♪ 明日のこと、好きになれる\n\n小学初中的时候好喜欢阳炎 project 的，动画还是音乐 MV 还是人设都好喜欢，还画过某エネミク二创（翻不到了）\n\n记得期待过阳炎 reboot，但是似乎因为角色的版权被发行商收走，じん拿不回来版权就没有继续下去了，真是太可惜了... <span class=\"spoiler\"><span>大人的世界真的好无情</span></span>\n\n<a href=\"https://youtu.be/pLYKKC-EpjA\">Youtube MV</a> | <a href=\"https://www.bilibili.com/video/av545040/\">Bilibili 熟肉</a>",
-    "views": 213,
+    "views": 214,
     "forwards": 1,
     "files": [
       {
@@ -87260,7 +87260,7 @@
     "id": 6398,
     "date": "2025-08-29T09:24:20",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "media_group_id": 14051675682679829,
     "images": [
@@ -89222,7 +89222,7 @@
     "id": 6560,
     "date": "2025-09-11T03:09:55",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n去了一家评价超高的店，吃了感觉真的对得起这个评价。肉超软，而且只要 740 一碗肉乌冬好便宜，以及店里在放 beatles 的 let it be 专辑还有唱片挂在墙上<del>让乌冬更好吃了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n...吃完出来看门口排满了社畜，还好我来得早 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "media_group_id": 14060481561338693,
     "images": [
@@ -91731,7 +91731,7 @@
     "id": 6774,
     "date": "2025-09-29T15:03:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n菇蔫儿（实际上叫灯笼果）\n\n是家乡的果子，小时候特别爱吃，不过大学之后就没吃过了... 在水果店看到了好怀念。不知道频道里有多少人吃过\n\n旁边的 menci 没吃过，问我是什么味道，一时间不知道应该怎么描述... 感觉每次用语言描述味道的时候都是在用已知的味道进行组合：比如西瓜味葡萄味混合水果味之类的。但是发现像灯笼果这样的没有近似物的味道就完全没法描述，只能说口感像葡萄自己吃吃看了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 语言的表达力还是好有限",
-    "views": 227,
+    "views": 228,
     "forwards": 2,
     "media_group_id": 14073265570909525,
     "images": [
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 440,
+    "views": 441,
     "forwards": 8,
     "media_group_id": 14073654712928549,
     "images": [
@@ -91932,7 +91932,7 @@
   {
     "id": 6796,
     "date": "2025-10-01T03:38:43",
-    "views": 189,
+    "views": 190,
     "forwards": 1,
     "files": [
       {
@@ -91957,7 +91957,7 @@
     "id": 6797,
     "date": "2025-10-01T14:09:19",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nmenci 的朋友 dustella 和 acbox 来玩，我做了炖鸡 qwq\n\n有点好奇在中国在家做饭会不会比在外面吃便宜就统计一下价格：萝卜 1.34 + 葱 0.73 + 鸡腿 10.08 + 米 4.48 + 香菇 2.59 + 汤底 6.25 总共花了 ￥25\n\n算下来四个人的话每人 ￥6，还是比在外面吃便宜一点点的（不过 dustella 还买了肯德基就有点打败了目的",
-    "views": 198,
+    "views": 200,
     "forwards": 5,
     "media_group_id": 14074622072242941,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 596,
+    "views": 597,
     "forwards": 5,
     "images": [
       {
@@ -92185,7 +92185,7 @@
     "id": 6812,
     "date": "2025-10-03T10:06:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n超级日常的拉面",
-    "views": 185,
+    "views": 186,
     "forwards": 2,
     "media_group_id": 14075887750300053,
     "images": [
@@ -92455,7 +92455,7 @@
     "id": 6836,
     "date": "2025-10-03T14:38:40",
     "text": "莲子去天台玩无线电，我拿相机上去凑凑热闹。天台风景好不错，能看到很远处的东方之门 qwq\n\n不过苏州光污染实在是太严重了，p3 调色之前的原图是 p4 那么亮... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 一个星星都没看到",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14076018565562877,
     "images": [
@@ -92505,7 +92505,7 @@
     "id": 6843,
     "date": "2025-10-04T02:38:26",
     "text": "+ 显卡屋\n\n<del>我又开始 diy 电源了</del>",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14076364052820965,
     "images": [
@@ -92675,7 +92675,7 @@
     "id": 6856,
     "date": "2025-10-04T17:44:42",
     "text": "新皮肤",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "images": [
       {
@@ -92694,7 +92694,7 @@
     "id": 6857,
     "date": "2025-10-05T05:29:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n大盘鸡汤面！\n\n（其实是因为昨晚在饭店点了大盘鸡剩了很多，但是不想浪费就带回来中午做了面 qwq）",
-    "views": 168,
+    "views": 169,
     "forwards": 1,
     "media_group_id": 14077137535239701,
     "images": [
@@ -92724,7 +92724,7 @@
     "id": 6859,
     "date": "2025-10-06T00:04:54",
     "text": "今天早上的雾真是美妙，这么梦幻的城市剪影居然可以是相机直出？！真的是连调色都没调的直出\n\n感谢物业管理员七点半按门铃把我叫醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 156,
+    "views": 158,
     "forwards": 0,
     "media_group_id": 14077672751891045,
     "images": [
@@ -92804,7 +92804,7 @@
     "id": 6866,
     "date": "2025-10-06T00:15:52",
     "text": "爬到楼顶拍一拍雾蒙蒙的东方之👖",
-    "views": 157,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 14077678023756725,
     "images": [
@@ -92844,13 +92844,13 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 194,
+    "views": 196,
     "forwards": 2
   },
   {
     "id": 6870,
     "date": "2025-10-06T05:39:42",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "files": [
       {
@@ -92875,7 +92875,7 @@
     "id": 6871,
     "date": "2025-10-06T15:48:18",
     "text": "进行了一下自拍证件照 qwq（因为没有闪光灯就用手电筒打了光，有被闪瞎 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>）\n\n以及申加拿大签证好累啊，整理各种材料花了一整天\n\n（以及相机第一次被摔... 某不太聪明猫进门不小心把三脚架打翻了，然后镜头又正好是拉长的时候被摔的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 不过还好没有大问题，只是现在拉变焦的阻力变大了，不知道能不能找保修）",
-    "views": 163,
+    "views": 164,
     "forwards": 1,
     "media_group_id": 14078125585779277,
     "images": [
@@ -92925,7 +92925,7 @@
     "id": 6875,
     "date": "2025-10-06T16:18:42",
     "text": "中秋快乐！\n\n眼睛看月亮感受不到，但是真的拍照调参数的时候才发现今天月亮真的好亮。居然亮到我的 f/6.3 小光圈头 ISO50 都完全够，好震撼。",
-    "views": 159,
+    "views": 160,
     "forwards": 0,
     "media_group_id": 14078140183716293,
     "images": [
@@ -93104,7 +93104,7 @@
     "id": 6890,
     "date": "2025-10-08T12:53:55",
     "text": "用去年 DIY 电源剩下的转接板焊一根线上去做了挂饰 qwq",
-    "views": 140,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 14079424287487965,
     "images": [
@@ -93139,7 +93139,7 @@
     "id": 6892,
     "date": "2025-10-08T22:03:57",
     "text": "肚肚疼去医院了，得知大概是胰腺炎，打了吊针，七小时之后回家了\n\n回来看到夕阳拍了好看照片，累累，日记之后再写吧",
-    "views": 113,
+    "views": 119,
     "forwards": 2,
     "media_group_id": 14079688297430693,
     "images": [
@@ -93249,7 +93249,7 @@
     "id": 6902,
     "date": "2025-10-08T22:18:18",
     "text": "反图，还有日出！",
-    "views": 116,
+    "views": 121,
     "forwards": 0,
     "media_group_id": 14079695187848205,
     "images": [
@@ -93319,7 +93319,7 @@
     "id": 6908,
     "date": "2025-10-09T06:37:50",
     "text": "<a href=\"##AIGC\">#AIGC</a>",
-    "views": 74,
+    "views": 96,
     "forwards": 0,
     "images": [
       {
@@ -93331,6 +93331,56 @@
         "url": "media/6908.jpg",
         "size": 90577,
         "thumb": "media/6908.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6909,
+    "date": "2025-10-09T11:33:14",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n又是炖鸡 qwq\n\n因为怕在外面吃又会出问题所以决定多在家做饭了\n\n以及今天的炖鸡是和 syama 一起做的！开心",
+    "views": 50,
+    "forwards": 1,
+    "media_group_id": 14080076755410085,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-10-09T11:33:12",
+        "media_type": "photo",
+        "original_name": "photo_2025-10-09_11-33-12.jpg",
+        "url": "media/6909.jpg",
+        "size": 428232,
+        "thumb": "media/6909.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-10-09T11:33:13",
+        "media_type": "photo",
+        "original_name": "photo_2025-10-09_11-33-13.jpg",
+        "url": "media/6910.jpg",
+        "size": 658401,
+        "thumb": "media/6910.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-10-09T11:33:13",
+        "media_type": "photo",
+        "original_name": "photo_2025-10-09_11-33-13.jpg",
+        "url": "media/6911.jpg",
+        "size": 502750,
+        "thumb": "media/6911.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-10-09T11:33:13",
+        "media_type": "photo",
+        "original_name": "photo_2025-10-09_11-33-13.jpg",
+        "url": "media/6912.jpg",
+        "size": 445231,
+        "thumb": "media/6912.jpg_thumb.jpg"
       }
     ]
   }
