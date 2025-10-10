@@ -82953,7 +82953,7 @@
     "id": 6067,
     "date": "2025-07-28T14:48:33",
     "text": "哭哭\n\n因为原本维护前端的风庄在<span class=\"spoiler\"><span>休眠</span></span>，久违地回到 <a href=\"one-among.us\">one-among.us</a> 前端代码库里改点代码。\n\n太久没写了这套代码变得好陌生，翻翻文件重新熟悉一下，翻到风庄留下的天才代码想要和谁吐槽吐槽的时候才真正意识到她真的不在了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 309,
+    "views": 310,
     "forwards": 5
   },
   {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 7926,
+    "views": 7927,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86447,7 +86447,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 311,
+    "views": 312,
     "forwards": 5,
     "images": [
       {
@@ -88956,7 +88956,7 @@
     "id": 6542,
     "date": "2025-09-07T18:37:27",
     "text": "月食照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\n真的有点委屈这个镜头... 本以为曝光时间长一点能够弥补镜头长焦段光圈小到只有 F/6.3 的问题，结果发现月亮移动真的很快，曝光 >1 秒月亮就已经移动太多会让画面变糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 所以只好调高 ISO，有噪点也没办法了\n\n以及尝试拍一段月亮轨迹，然后发现东京的光污染实在是太亮了，ISO50 曝光五分钟就直接是灰白色了... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 2,
     "media_group_id": 14058161982295197,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 601,
+    "views": 603,
     "forwards": 5,
     "images": [
       {
@@ -92155,7 +92155,7 @@
     "id": 6810,
     "date": "2025-10-03T08:03:43",
     "text": "对比中国和日本的地铁乘坐体验\n✅ 不需要出站换乘\n❌ 换乘没有无障碍通道\n❌ 下车会被上车的人挤回去\n❌ 硬座\n❌ 有人占两个坐\n❌ 吵（外放抖音/打电话）\n❌ 需要过安检\n❌ 看不到车",
-    "views": 251,
+    "views": 252,
     "forwards": 3,
     "media_group_id": 14075828986400133,
     "images": [
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 214,
+    "views": 216,
     "forwards": 2
   },
   {
@@ -93319,7 +93319,7 @@
     "id": 6908,
     "date": "2025-10-09T06:37:50",
     "text": "<a href=\"##AIGC\">#AIGC</a>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "images": [
       {
