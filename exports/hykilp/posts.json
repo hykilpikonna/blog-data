@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 358,
+    "views": 359,
     "forwards": 7,
     "files": [
       {
@@ -93097,14 +93097,14 @@
     "id": 6889,
     "date": "2025-10-07T22:10:15",
     "text": "作息完全乱掉了",
-    "views": 161,
+    "views": 162,
     "forwards": 0
   },
   {
     "id": 6890,
     "date": "2025-10-08T12:53:55",
     "text": "用去年 DIY 电源剩下的转接板焊一根线上去做了挂饰 qwq",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 14079424287487965,
     "images": [
@@ -93139,7 +93139,7 @@
     "id": 6892,
     "date": "2025-10-08T22:03:57",
     "text": "肚肚疼去医院了，得知大概是胰腺炎，打了吊针，七小时之后回家了\n\n回来看到夕阳拍了好看照片，累累，日记之后再写吧",
-    "views": 141,
+    "views": 142,
     "forwards": 2,
     "media_group_id": 14079688297430693,
     "images": [
@@ -93249,7 +93249,7 @@
     "id": 6902,
     "date": "2025-10-08T22:18:18",
     "text": "反图，还有日出！",
-    "views": 144,
+    "views": 145,
     "forwards": 0,
     "media_group_id": 14079695187848205,
     "images": [
@@ -93319,7 +93319,7 @@
     "id": 6908,
     "date": "2025-10-09T06:37:50",
     "text": "<a href=\"##AIGC\">#AIGC</a>",
-    "views": 144,
+    "views": 145,
     "forwards": 0,
     "images": [
       {
@@ -93338,7 +93338,7 @@
     "id": 6909,
     "date": "2025-10-09T11:33:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n又是炖鸡 qwq\n\n因为怕在外面吃又会出问题所以决定多在家做饭了\n\n以及今天的炖鸡是和 syama 一起做的！开心",
-    "views": 129,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 14080076755410085,
     "images": [
@@ -93388,7 +93388,7 @@
     "id": 6913,
     "date": "2025-10-10T16:29:34",
     "text": "<a href=\"##今日月亮\">#今日月亮</a>",
-    "views": 90,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 6892,
