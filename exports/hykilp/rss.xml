@@ -12,7 +12,25 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Oct 2025 18:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 20:19:56 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #6918</title>
+      <link>https://aza.moe/life?post=6918</link>
+      <description>&lt;p&gt;不太聪明喵 moment:&lt;/p&gt;
+&lt;p&gt;在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）&lt;/p&gt;
+&lt;p&gt;以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 &lt;i class="custom-emoji" emoji-src="emoji/6323412532367198064.webp"&gt;🍔&lt;/i&gt;（虽然修好了地址问题之后也依然收不到&lt;/p&gt;</description>
+      <guid isPermaLink="false">6918</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #6914</title>
+      <link>https://aza.moe/life?post=6914</link>
+      <description>&lt;p&gt;分享一例配网灵异事件&lt;/p&gt;
+&lt;p&gt;syama 来苏州在电视上一起玩 persona 3, 是 moonlight 远程连到她杭州家里的电脑上玩的，玩了几个小时之后突然直连连不上了&lt;/p&gt;
+&lt;p&gt;debug 了超级久（有五六个小时）之后，排查了这两点之间的所有设备之后，得出的结论是运营商路由表配坏了，udp ipv6 包发出不去，udp ipv4 回复进不来 🌚&lt;/p&gt;
+&lt;p&gt;在路由器上抓包，测试 udp6 可以看到发送的包从杭州路由器的 wan eth 出去之后消失了，测试 udp4 可以看到回复的包从加拿大 wan eth 出去之后这边路由器完全没有看到... 从杭州 mtr -u 这边的地址也是在很近的地方就没消息了。&lt;/p&gt;
+&lt;p&gt;所以现在只有 rustdesk 这个可以纯 tcp 连接的远程软件能通，moonlight 和 tailscale 都没法直连了。放弃，打算明天直接给中国移动打电话&lt;/p&gt;</description>
+      <guid isPermaLink="false">6914</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #6913</title>
       <link>https://aza.moe/life?post=6913</link>
