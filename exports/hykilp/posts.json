@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1297,
+    "views": 1298,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6264,
+    "views": 6265,
     "forwards": 147,
     "media_group_id": 13966976157341773,
     "images": [
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 235,
+    "views": 236,
     "forwards": 2
   },
   {
@@ -93462,7 +93462,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -93497,7 +93497,7 @@
     "id": 6920,
     "date": "2025-10-12T11:40:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n巴沙鱼好方便呀，不需要处理还没有刺",
-    "views": 117,
+    "views": 118,
     "forwards": 1,
     "media_group_id": 14082153881624589,
     "images": [
