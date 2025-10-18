@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8003,
+    "views": 8004,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -93104,7 +93104,7 @@
     "id": 6890,
     "date": "2025-10-08T12:53:55",
     "text": "用去年 DIY 电源剩下的转接板焊一根线上去做了挂饰 qwq",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "media_group_id": 14079424287487965,
     "images": [
@@ -93139,7 +93139,7 @@
     "id": 6892,
     "date": "2025-10-08T22:03:57",
     "text": "肚肚疼去医院了，得知大概是胰腺炎，打了吊针，七小时之后回家了\n\n回来看到夕阳拍了好看照片，累累，日记之后再写吧",
-    "views": 177,
+    "views": 178,
     "forwards": 2,
     "media_group_id": 14079688297430693,
     "images": [
@@ -93338,7 +93338,7 @@
     "id": 6909,
     "date": "2025-10-09T11:33:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n又是炖鸡 qwq\n\n因为怕在外面吃又会出问题所以决定多在家做饭了\n\n以及今天的炖鸡是和 syama 一起做的！开心",
-    "views": 193,
+    "views": 194,
     "forwards": 1,
     "media_group_id": 14080076755410085,
     "images": [
@@ -93388,7 +93388,7 @@
     "id": 6913,
     "date": "2025-10-10T16:29:34",
     "text": "<a href=\"##今日月亮\">#今日月亮</a>",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "reply": {
       "id": 6892,
@@ -93412,7 +93412,7 @@
     "id": 6914,
     "date": "2025-10-11T19:49:18",
     "text": "分享一例配网灵异事件\n\nsyama 来苏州在电视上一起玩 persona 3, 是 moonlight 远程连到她杭州家里的电脑上玩的，玩了几个小时之后突然直连连不上了\n\ndebug 了超级久（有五六个小时）之后，排查了这两点之间的所有设备之后，得出的结论是运营商路由表配坏了，udp ipv6 包发出不去，udp ipv4 回复进不来 🌚\n\n在路由器上抓包，测试 udp6 可以看到发送的包从杭州路由器的 wan eth 出去之后消失了，测试 udp4 可以看到回复的包从加拿大 wan eth 出去之后这边路由器完全没有看到... 从杭州 mtr -u 这边的地址也是在很近的地方就没消息了。\n\n所以现在只有 rustdesk 这个可以纯 tcp 连接的远程软件能通，moonlight 和 tailscale 都没法直连了。放弃，打算明天直接给中国移动打电话",
-    "views": 176,
+    "views": 177,
     "forwards": 1,
     "media_group_id": 14081697264565341,
     "images": [
@@ -93462,7 +93462,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 233,
+    "views": 235,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -93497,7 +93497,7 @@
     "id": 6920,
     "date": "2025-10-12T11:40:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n巴沙鱼好方便呀，不需要处理还没有刺",
-    "views": 231,
+    "views": 233,
     "forwards": 1,
     "media_group_id": 14082153881624589,
     "images": [
@@ -93547,7 +93547,7 @@
     "id": 6925,
     "date": "2025-10-15T12:36:40",
     "text": "第一次注意到，小时候喜欢的中国特色番茄味薯片，在中国居然叫「墨西哥鸡汁番茄味」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n但是它引进到加拿大之后，在加拿大的包装上标了 \"flavours from China\" 并且去掉了「墨西哥」🌚",
-    "views": 160,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 14084254401753285,
     "images": [
@@ -93577,7 +93577,7 @@
     "id": 6928,
     "date": "2025-10-15T15:58:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和府捞面！\n\n其实和府捞面离住的地方并不近，但是实在太想吃所以花了 ￥20 的路费打车去吃了。这家的装饰没有印象中的和府捞面好看，但是草本骨汤还是印象中的味道 qwq 如果有卖汤底包就好了\n\n吃了太多面回家直接昏睡了 4h <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n...以及发现这家店的监控屏幕上是一张静止的图，显示的是三个月前的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 奇妙",
-    "views": 162,
+    "views": 164,
     "forwards": 1,
     "media_group_id": 14084351257514173,
     "images": [
@@ -93627,13 +93627,13 @@
     "id": 6931,
     "date": "2025-10-15T19:42:27",
     "text": "你们有没有过 看一个字太久就不认识这个字了的情况 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 151,
+    "views": 154,
     "forwards": 0
   },
   {
     "id": 6932,
     "date": "2025-10-15T19:55:36",
-    "views": 150,
+    "views": 153,
     "forwards": 0,
     "files": [
       {
@@ -93658,7 +93658,7 @@
     "id": 6934,
     "date": "2025-10-16T03:45:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nPersona 3R 最后的 boss 演出配上这首曲子真的超燃！\n\n<del>烧烧我的面包</del>",
-    "views": 143,
+    "views": 146,
     "forwards": 0,
     "files": [
       {
@@ -93680,7 +93680,7 @@
     "id": 6935,
     "date": "2025-10-16T18:44:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n麻烦面",
-    "views": 142,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 14085122184679549,
     "images": [
@@ -93710,7 +93710,7 @@
     "id": 6937,
     "date": "2025-10-17T06:45:49",
     "text": "不再害怕演讲了！\n\n今天讲了这次实习的期末演讲，在只练习了一次的情况下居然从头到尾流畅讲完了完全没有卡顿，问题也全都有回答上！<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n现在才真正感受到自己的沟通能力真的和两年前完全不一样了",
-    "views": 138,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -93729,7 +93729,7 @@
     "id": 6938,
     "date": "2025-10-17T16:45:15",
     "text": "我穿越了",
-    "views": 85,
+    "views": 101,
     "forwards": 1,
     "images": [
       {
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 14,
+    "views": 42,
     "forwards": 0,
     "media_group_id": 14085907817799589,
     "images": [
