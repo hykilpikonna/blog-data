@@ -25290,7 +25290,7 @@
     "id": 1902,
     "date": "2023-03-05T04:05:50",
     "text": "终于把 Passacaglia 录下来啦，不完美但是满意了。啊哈哈结尾完全慌掉了，脑子会被「终于要 FC 了吗 终于要 FC 了吗」烧过载是不是社恐音游人的通病。之前放下这张谱就是因为，每次想录的时候都会弹错一点，就会原地重来，渐渐把自信和耐心都磨没了 ;-; 错就错一点吧够好了。\n\n这张谱是四年前首次在 iPad 上面的 <a href=\"https://arcritic.com/2370/piano-3d-real-ar-piano-app-review-ios/\">AR Piano 3D</a> app 听到的，觉得好好听就看着下落式 MIDI 学，但是我完全没钢琴基础，<del>然后跨级练出了手癖</del>。当时自己想出来的弹法是左手小指按 A2 下一个 1/8 马上食指抻过去按 A3（？？？）居然还弹下来了，但是速度上不去还会让手好疼。一年之后去查了视频才发现原来没有人这样弹，重新学了现在的手位（小指 A2 拇指 A3 再拇指跳到 E4 这样）<del>然后天天被死去的手癖攻击</del> 🌚\n\n所以现在依然不会视奏，每次都是遇到喜欢的曲子看着 midi / 手元学，然后靠肌肉记忆背下来。不过可能这就是我吧，像是一只幼鸟，羽毛还没有长满却望穿了头顶的天，幻想乘着不属于自己的翅膀搭起一座空中堡垒",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "reply": {
       "id": 1855,
@@ -26270,7 +26270,7 @@
     "id": 1968,
     "date": "2023-03-23T20:03:41",
     "text": "今天把打算放在琴最右边的 MIDI 控制板也做完了！呜 又一天没睡，记录一下我精神崩溃的过程。\n\n凌晨十二点：不就是连几个按钮旋钮嘛，一个小时肯定够了！\n\n两点：咦，怎么开关和旋钮都需要上拉电阻的？\n三点：这个编码器到底是上拉还是下拉，文档没有写啊...\n四点：线连好了，整理下电路图开始摆 PCB！（<del>然后花了一个小时整理电路图</del>）\n五点：元件摆好了！再在这里加一只小猫，诶嘿嘿 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n六点：手焊的版本传上去了，但是想加点光污染，怎么办呢？好像单独的 RGB 控制芯片都不是很好用的样子，问问 GPT。\n七点：哇 WS2812 灯好厉害！但是因为尺寸太小就不能手焊了，干脆把整个板子改成贴片——\n八点：终于终于全都摆好了。那么接下来只要... 上传贴片的时候告诉我我选的灯太小，￥130 的优惠流程不能贴，要多花 ￥300 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n为什么不在选元件的时候告诉我啊 (╯’ – ‘)╯︵ ┻━┻ 好崩溃。\n\n中午十二点：好了好了，深呼吸，把所有灯换成大一点的规格重新布局吧... 然后改到了现在下午三点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n不过终于完全做完了！接琴键的电路板和这个 MIDI 面板都提交打印了，接下来只剩下漫长的等待...\n\n<a href=\"##琴\">#琴</a>",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13436814568161925,
     "images": [
@@ -27298,7 +27298,7 @@
     "id": 2041,
     "date": "2023-04-13T08:21:47",
     "text": "今天接好了线，写完了固件驱动读输入的部分，焊完了 MIDI 面板，重焊了两个八度的复用器二极管，连好了第二个八度，还提交了改完的 PCB，是很高效的一天呢 qwq\n\nMIDI 面板的按钮旋钮和 RGB 灯都能驱动了！除了之前固定点短路和最后一个灯不亮以外其他功能都正常。不过发现顺序读取面板和琴键的话速度好慢，采样率只有 32 Hz 了 (╯’ – ‘)╯︵ ┻━┻\n\n所以去写了多线程！ESP32-S3 正好有两个核心来着。嵌入式的 FreeRTOS 多线程写法和 Unix 好不一样，每圈结束需要调函数把多余的 CPU 时间让给其他进程，太久没让就会被看门狗杀掉 ;-; <del>不能吃掉一整个 CPU 好可惜</del>。以及 FreeRTOS 的多线程开销好大，多线程 240 Hz 比单线程多了 460 μs 的样子，看看能不能优化...\n\n以及虽然打印 PCB 让布线整齐很多了，但是拉 19 根线出来还是不太好看... 下一个版本试试把 ESP32 芯片画到 PCB 上好啦\n\n<a href=\"##琴\">#琴</a>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13450992859484845,
     "images": [
@@ -69218,7 +69218,7 @@
     "id": 5011,
     "date": "2025-03-10T14:41:15",
     "text": "发现自己 Arch 上有好多没用到的包，所以写了一个 <a href=\"https://github.com/hykilpikonna/zshrc/blob/master/scripts/bin/pacman-clean-unused.py\">python 脚本</a> 列出所有没用的包然后一个个问我要不要删\n\n总共删掉了 239 个包清出来 1.7GB，其中包含七个版本的 electron... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 245,
+    "views": 246,
     "forwards": 2,
     "images": [
       {
@@ -69237,7 +69237,7 @@
     "id": 5012,
     "date": "2025-03-11T04:50:09",
     "text": "好讨厌 Meta...\n\n今天拿起来 Quest 3 发现系统自动更新了，更新之后没办法打开第三方输入法了，打开微信输入法还会直接让系统卡死自动重启... 系统自带的输入法还不支持中文，不知道怎么办\n\n以及 UI 也被大改了... 主观觉得新 UI 的这个渐变像是十年前流行的设计",
-    "views": 289,
+    "views": 290,
     "forwards": 1,
     "reply": {
       "id": 4849,
@@ -69261,7 +69261,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 415,
+    "views": 416,
     "forwards": 3,
     "images": [
       {
@@ -69280,7 +69280,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 307,
+    "views": 308,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 771,
+    "views": 772,
     "forwards": 9
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1301,
+    "views": 1302,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -69482,7 +69482,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 706,
+    "views": 707,
     "forwards": 2,
     "images": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8019,
+    "views": 8021,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -91800,7 +91800,7 @@
     "id": 6786,
     "date": "2025-09-30T09:27:56",
     "text": "拍飞机 <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "media_group_id": 14073795810187485,
     "images": [
@@ -91914,7 +91914,7 @@
     "id": 6795,
     "date": "2025-10-01T03:38:27",
     "text": "芝麻凛生日快乐！",
-    "views": 234,
+    "views": 235,
     "forwards": 3,
     "images": [
       {
@@ -91932,7 +91932,7 @@
   {
     "id": 6796,
     "date": "2025-10-01T03:38:43",
-    "views": 201,
+    "views": 202,
     "forwards": 1,
     "files": [
       {
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 262,
+    "views": 263,
     "forwards": 2
   },
   {
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 132,
+    "views": 134,
     "forwards": 1,
     "media_group_id": 14085907817799589,
     "images": [
