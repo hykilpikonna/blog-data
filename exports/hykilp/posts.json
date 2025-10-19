@@ -71336,7 +71336,7 @@
     "id": 5161,
     "date": "2025-04-07T19:12:40",
     "text": "笑死 昨天离开公园的时候看旁边阿姨把饮料放在车顶上忘记拿下来就开走了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不太聪明喵",
-    "views": 230,
+    "views": 231,
     "forwards": 0,
     "media_group_id": 13952425286038053,
     "images": [
@@ -71366,21 +71366,21 @@
     "id": 5163,
     "date": "2025-04-08T04:43:46",
     "text": "说起来 这次一起旅行的人都看了少女乐队，所以开车的时候就放少女乐队吧，然后差不多把大家看过的所有都放了一遍：MyGO, Crychic, Ave Mujica, トゲトゲ, 結束バンド, K-On, μ's（草\n\n...虽然都是少女乐队但是曲风都好不一样！感觉我最喜欢的还是 K-On",
-    "views": 227,
+    "views": 228,
     "forwards": 1
   },
   {
     "id": 5164,
     "date": "2025-04-08T09:43:40",
     "text": "<a href=\"##TIL\">#TIL</a> 本地跑了一些 txt2img 模型才发现，原来 flux1 和刚公开的 hidream i1 画不出 explicit nsfw 不是因为在线平台生成后有过滤，而是训练集里就没有... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 没见过就画不出来，<span class=\"spoiler\"><span>就像 virgin 画师画不好相反性别的○○一样</span></span>",
-    "views": 231,
+    "views": 232,
     "forwards": 0
   },
   {
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 222,
+    "views": 223,
     "forwards": 4,
     "media_group_id": 13953043115908261,
     "images": [
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 231,
+    "views": 232,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5687,
+    "views": 5688,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 958,
+    "views": 959,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1212,
+    "views": 1213,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6277,
+    "views": 6278,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 623,
+    "views": 624,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 498,
+    "views": 499,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73169,14 +73169,14 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 546,
+    "views": 547,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 511,
+    "views": 512,
     "forwards": 1,
     "media_group_id": 13968493560159205,
     "images": [
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 596,
+    "views": 597,
     "forwards": 1,
     "images": [
       {
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 773,
+    "views": 774,
     "forwards": 20,
     "media_group_id": 13969322433734669,
     "images": [
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 560,
+    "views": 561,
     "forwards": 3,
     "media_group_id": 13969779211072469,
     "images": [
@@ -73320,7 +73320,7 @@
     "id": 5306,
     "date": "2025-05-04T02:09:28",
     "text": "<a href=\"##TIL\">#TIL</a> 我居然写了七八年前端，今天才知道原来 <code><div/></code> 和 <code><div></div></code> 是不一样的...\n\n其实应该说，在原生 HTML 里这两个不一样，但是在 Svelte 里面是一样的。原生会直接忽略掉 <code>/></code> 变成一个只有开没有关的 div，但是 Svelte 会像上面那样把它按照 XML 解析成开了之后马上关上\n\n...所以今天的另一个 <a href=\"##TIL\">#TIL</a> 是 Svelte 的 HTML 语法居然和原生不一样，即使区别很微妙而且大部分人不会注意到，但是也有被震撼",
-    "views": 512,
+    "views": 513,
     "forwards": 6,
     "images": [
       {
@@ -73339,7 +73339,7 @@
     "id": 5307,
     "date": "2025-05-04T20:46:08",
     "text": "发现自己体力好差...\n\n今天想去附近的一家餐厅，打车 $8 好贵，走路 18 分钟又觉得太慢了，所以决定试试骑车去。手术之前骑 15km 都没什么的话，现在骑 1.5km 也不会有事的吧\n\n刚开始还好，但是快到的时候下车突然头晕想吐感觉要晕过去了，和刚手术完缺血的时候脑缺氧的感觉一样... 原地坐了一会才勉强能推着车继续走\n\n明明已经过了四个月了... 什么时候体力才能恢复呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 409,
+    "views": 410,
     "forwards": 1,
     "media_group_id": 13971132545872317,
     "images": [
@@ -73369,7 +73369,7 @@
     "id": 5309,
     "date": "2025-05-05T03:03:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nは蜜瓜\n\n（超甘い!",
-    "views": 448,
+    "views": 449,
     "forwards": 0,
     "images": [
       {
@@ -73388,7 +73388,7 @@
     "id": 5310,
     "date": "2025-05-05T04:13:26",
     "text": "看<a href=\"https://t.me/rynif/36626\">隔壁频道</a>填了这个游戏喜好表我也来填一下，尽力用了最近玩过或者记忆依然很清楚的游戏，也尽力没有重复... 有太多很好的选择了填表好费力 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n记得超级久之前填过一次，但是找不到了，这两次的答案肯定很不一样吧",
-    "views": 484,
+    "views": 485,
     "forwards": 3,
     "images": [
       {
@@ -73407,14 +73407,14 @@
     "id": 5311,
     "date": "2025-05-05T04:35:40",
     "text": "聊聊：桂桂为什么会在说话的时候像扇翅膀一样挥胳膊\n我：我前世大概是鸟吧\n聊聊：太好了，猫吃鸟（/吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n我：<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 但是飞行系克草耶",
-    "views": 404,
+    "views": 405,
     "forwards": 0
   },
   {
     "id": 5312,
     "date": "2025-05-05T23:28:26",
     "text": "今天也骑车去了，但是今天没有晕过去！看来还是需要更多运动才能习惯呢 quq\n\n（今天吃了烤肉肉三明治",
-    "views": 402,
+    "views": 403,
     "forwards": 0,
     "reply": {
       "id": 5307,
@@ -73438,7 +73438,7 @@
     "id": 5313,
     "date": "2025-05-05T23:39:01",
     "text": "今生第二次错过毕业仪式",
-    "views": 403,
+    "views": 404,
     "forwards": 0,
     "images": [
       {
@@ -73457,7 +73457,7 @@
     "id": 5314,
     "date": "2025-05-07T04:48:40",
     "text": "<del>需要改水冷</del>",
-    "views": 336,
+    "views": 337,
     "forwards": 0,
     "images": [
       {
@@ -73476,7 +73476,7 @@
     "id": 5315,
     "date": "2025-05-07T10:41:07",
     "text": "在床上聊天聊起回忆，聊到小时候超级喜欢 Tron Legacy，当时买了 BD 光碟还刷了好多遍，但是不记得讲什么了只记得摩托车和丢飞盘很炫酷！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<span class=\"spoiler\"><span>（meanwhile 聊聊只看了两遍却能背出台词... 这就是记忆力的差距吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</span></span></i>\n\n不过我们上次看这部电影都已经是十几年前了，有点想知道以现在的审美看它会觉得怎么样，所以就即兴和聊聊重新看了一遍！结果就是... <span class=\"spoiler\"><span>现在依然觉得摩托车和丢飞盘很炫酷！</span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i>\n\n仔细想想的话，这部电影剧情叙事还是设定都有很大问题，看起来高科技也只是用计算机的名词讲了飞盘与魔法... 不过也正是这样无厘头的设定才能够让它所设想的世界可以这样炫酷，也没什么不好嘛<span class=\"spoiler\"><span>（真实的程序员/黑客工作画面很无聊的哦！</span></span>\n\n（以及真的超喜欢 daft punk 的配乐！原来我听的第一首 daft punk 在这里 qwq",
-    "views": 300,
+    "views": 301,
     "forwards": 2,
     "media_group_id": 13972915740570293,
     "images": [
@@ -73535,7 +73535,7 @@
   {
     "id": 5320,
     "date": "2025-05-07T11:05:20",
-    "views": 319,
+    "views": 320,
     "forwards": 0,
     "images": [
       {
@@ -73554,7 +73554,7 @@
     "id": 5321,
     "date": "2025-05-07T12:21:02",
     "text": "明明平时不觉得 Tim Hortons 很好吃的，但是想着马上就吃不到了就变得格外的好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 325,
+    "views": 326,
     "forwards": 0,
     "images": [
       {
@@ -73573,7 +73573,7 @@
     "id": 5322,
     "date": "2025-05-07T15:40:02",
     "text": "哇 见到了野生的福瑞！",
-    "views": 443,
+    "views": 444,
     "forwards": 2,
     "media_group_id": 13973059219682877,
     "images": [
@@ -73603,7 +73603,7 @@
     "id": 5324,
     "date": "2025-05-08T13:30:00",
     "text": "和多伦多的家说了再见 qwq",
-    "views": 323,
+    "views": 324,
     "forwards": 0,
     "reply": {
       "id": 3615,
@@ -73614,7 +73614,7 @@
     "id": 5325,
     "date": "2025-05-08T15:20:44",
     "text": "分离焦虑.jpg ~ side 聊聊",
-    "views": 330,
+    "views": 331,
     "forwards": 3,
     "reply": {
       "id": 3618,
@@ -73637,7 +73637,7 @@
     "id": 5326,
     "date": "2025-05-08T16:22:58",
     "text": "以及 刚才安检的时候果然因为 edc27 被抽查了\n\n安检员：这是什么\n我：手电筒\n安检员：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6170273433318852395.webm\">🙄</i>\n我：你按一下开关\n安检员：还真是手电筒\n\n（还能是光剑吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 336,
+    "views": 337,
     "forwards": 2,
     "reply": {
       "id": 5325,
@@ -73648,7 +73648,7 @@
     "id": 5327,
     "date": "2025-05-09T09:22:23",
     "text": "日本に来ました!",
-    "views": 327,
+    "views": 328,
     "forwards": 3,
     "media_group_id": 13974260346591509,
     "images": [
@@ -73678,14 +73678,14 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 312,
+    "views": 313,
     "forwards": 3
   },
   {
     "id": 5330,
     "date": "2025-05-09T14:43:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n<del>馄饨邪恶</del>広州雲吞面\n\n以及见到了谦谦，开心！<del>感谢谦谦帮我补充了很多这边的常识</del>",
-    "views": 328,
+    "views": 329,
     "forwards": 2,
     "images": [
       {
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 475,
+    "views": 476,
     "forwards": 8,
     "media_group_id": 14073654712928549,
     "images": [
@@ -92724,7 +92724,7 @@
     "id": 6859,
     "date": "2025-10-06T00:04:54",
     "text": "今天早上的雾真是美妙，这么梦幻的城市剪影居然可以是相机直出？！真的是连调色都没调的直出\n\n感谢物业管理员七点半按门铃把我叫醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 181,
+    "views": 182,
     "forwards": 0,
     "media_group_id": 14077672751891045,
     "images": [
@@ -92987,7 +92987,7 @@
     "id": 6879,
     "date": "2025-10-07T13:21:45",
     "text": "因为 1060 显卡不太够用，买一张新显卡给显卡坞。左看右看之后选了 Intel Arc A770，性价比高而且超好看 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n...不过纸上性能并不代表实际体验，Arc 装在显卡坞上真的很难用\n\n第一次接上显卡之后 windows 自动装了一个轻量驱动，我尝试装完整驱动的时候它卸载轻量驱动直接让整个系统蓝屏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 进安全模式把卸到一半的轻量驱动 DDU 掉之后终于装上了完整驱动。之后居然拔掉 USB 线也会直接蓝屏...\n\n跑<i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460773655250214104.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460798570355498276.webp\">🔤</i>，居然不开光影只有 25fps，开光影只有 15fps，而且... 相比之前的 1060 开光影都有 50fps，肯定有哪里不对\n\n为了排错插到台式机上试了一下，发现台式机上性能是正常的，4k 不开光影 412fps，开光影 75fps...\n\n唉，果然 Intel 卡还是太吃 PCIe 带宽了，不适合放在显卡坞上跑呢。",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 14078746440920357,
     "images": [
@@ -93097,7 +93097,7 @@
     "id": 6889,
     "date": "2025-10-07T22:10:15",
     "text": "作息完全乱掉了",
-    "views": 202,
+    "views": 203,
     "forwards": 0
   },
   {
@@ -93462,7 +93462,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 241,
+    "views": 242,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -93547,7 +93547,7 @@
     "id": 6925,
     "date": "2025-10-15T12:36:40",
     "text": "第一次注意到，小时候喜欢的中国特色番茄味薯片，在中国居然叫「墨西哥鸡汁番茄味」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n但是它引进到加拿大之后，在加拿大的包装上标了 \"flavours from China\" 并且去掉了「墨西哥」🌚",
-    "views": 170,
+    "views": 172,
     "forwards": 2,
     "media_group_id": 14084254401753285,
     "images": [
@@ -93710,7 +93710,7 @@
     "id": 6937,
     "date": "2025-10-17T06:45:49",
     "text": "不再害怕演讲了！\n\n今天讲了这次实习的期末演讲，在只练习了一次的情况下居然从头到尾流畅讲完了完全没有卡顿，问题也全都有回答上！<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n现在才真正感受到自己的沟通能力真的和两年前完全不一样了",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "images": [
       {
@@ -93729,7 +93729,7 @@
     "id": 6938,
     "date": "2025-10-17T16:45:15",
     "text": "我穿越了",
-    "views": 144,
+    "views": 145,
     "forwards": 1,
     "images": [
       {
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 122,
+    "views": 124,
     "forwards": 1,
     "media_group_id": 14085907817799589,
     "images": [
