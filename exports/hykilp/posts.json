@@ -68333,7 +68333,7 @@
     "id": 4947,
     "date": "2025-02-20T08:06:39",
     "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
-    "views": 210,
+    "views": 211,
     "forwards": 2,
     "media_group_id": 13920310398395053,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5689,
+    "views": 5690,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 365,
+    "views": 366,
     "forwards": 7,
     "files": [
       {
@@ -89120,7 +89120,7 @@
     "id": 6554,
     "date": "2025-09-10T07:03:01",
     "text": "Typst 语言真的好科学... 作为程序语言已经比大部分程序语言都顺手了",
-    "views": 265,
+    "views": 266,
     "forwards": 1,
     "reply": {
       "id": 6515,
@@ -89143,7 +89143,7 @@
     "id": 6555,
     "date": "2025-09-10T13:13:46",
     "text": "很难想象，作为喜欢街机音游喜欢到在家里自己搭机器的人，来日本之后快四个月了总共只去了两次机厅，只登录了 1 次 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>\n\n可能真的是越难得到就越会让我感兴趣吧，随时都可以去反而就没意思了",
-    "views": 252,
+    "views": 253,
     "forwards": 0
   },
   {
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 295,
+    "views": 296,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 299,
+    "views": 300,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 253,
+    "views": 254,
     "forwards": 0,
     "images": [
       {
@@ -91550,7 +91550,7 @@
     "id": 6760,
     "date": "2025-09-28T19:25:26",
     "text": "看地面识国家",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "images": [
       {
@@ -91569,7 +91569,7 @@
     "id": 6761,
     "date": "2025-09-29T07:16:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<del>没电的电钻的声音好有科技感</del>",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "files": [
       {
@@ -91591,7 +91591,7 @@
     "id": 6762,
     "date": "2025-09-29T09:49:25",
     "text": "绝对不是铁道厨.jpg",
-    "views": 212,
+    "views": 213,
     "forwards": 2,
     "media_group_id": 14073114923060709,
     "images": [
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 263,
+    "views": 264,
     "forwards": 2
   },
   {
@@ -93462,7 +93462,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 245,
+    "views": 247,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -93547,7 +93547,7 @@
     "id": 6925,
     "date": "2025-10-15T12:36:40",
     "text": "第一次注意到，小时候喜欢的中国特色番茄味薯片，在中国居然叫「墨西哥鸡汁番茄味」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n但是它引进到加拿大之后，在加拿大的包装上标了 \"flavours from China\" 并且去掉了「墨西哥」🌚",
-    "views": 179,
+    "views": 181,
     "forwards": 2,
     "media_group_id": 14084254401753285,
     "images": [
@@ -93577,7 +93577,7 @@
     "id": 6928,
     "date": "2025-10-15T15:58:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和府捞面！\n\n其实和府捞面离住的地方并不近，但是实在太想吃所以花了 ￥20 的路费打车去吃了。这家的装饰没有印象中的和府捞面好看，但是草本骨汤还是印象中的味道 qwq 如果有卖汤底包就好了\n\n吃了太多面回家直接昏睡了 4h <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n...以及发现这家店的监控屏幕上是一张静止的图，显示的是三个月前的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 奇妙",
-    "views": 179,
+    "views": 187,
     "forwards": 1,
     "media_group_id": 14084351257514173,
     "images": [
@@ -93627,13 +93627,13 @@
     "id": 6931,
     "date": "2025-10-15T19:42:27",
     "text": "你们有没有过 看一个字太久就不认识这个字了的情况 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 185,
+    "views": 192,
     "forwards": 0
   },
   {
     "id": 6932,
     "date": "2025-10-15T19:55:36",
-    "views": 182,
+    "views": 189,
     "forwards": 0,
     "files": [
       {
@@ -93658,7 +93658,7 @@
     "id": 6934,
     "date": "2025-10-16T03:45:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nPersona 3R 最后的 boss 演出配上这首曲子真的超燃！\n\n<del>烧烧我的面包</del>",
-    "views": 169,
+    "views": 176,
     "forwards": 0,
     "files": [
       {
@@ -93680,7 +93680,7 @@
     "id": 6935,
     "date": "2025-10-16T18:44:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n麻烦面",
-    "views": 159,
+    "views": 162,
     "forwards": 0,
     "media_group_id": 14085122184679549,
     "images": [
@@ -93710,7 +93710,7 @@
     "id": 6937,
     "date": "2025-10-17T06:45:49",
     "text": "不再害怕演讲了！\n\n今天讲了这次实习的期末演讲，在只练习了一次的情况下居然从头到尾流畅讲完了完全没有卡顿，问题也全都有回答上！<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n现在才真正感受到自己的沟通能力真的和两年前完全不一样了",
-    "views": 170,
+    "views": 172,
     "forwards": 0,
     "images": [
       {
@@ -93729,7 +93729,7 @@
     "id": 6938,
     "date": "2025-10-17T16:45:15",
     "text": "我穿越了",
-    "views": 158,
+    "views": 161,
     "forwards": 1,
     "images": [
       {
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 145,
+    "views": 148,
     "forwards": 1,
     "media_group_id": 14085907817799589,
     "images": [
@@ -93828,7 +93828,7 @@
     "id": 6946,
     "date": "2025-10-19T15:28:33",
     "text": "服务器电源真的太吵了\n\n所以魔改了一个 thermalright 的风扇！现在完全听不到电源的风扇声音了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n（代价是原本 750W 的电源现在变成了可能是 500W 的电源 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 53,
+    "views": 76,
     "forwards": 0,
     "media_group_id": 14087101705847709,
     "images": [
@@ -93908,7 +93908,7 @@
     "id": 6953,
     "date": "2025-10-19T15:31:16",
     "text": "新玩具增加了（？）\n\n发现拆下来的暴力风扇风量大到足以让它自己悬浮起来 <i class=\"custom-emoji\" emoji-src=\"emoji/5861517868021060371.webp\">😮</i> <span class=\"spoiler\"><span>也吵到能让我悬浮起来 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</span></span></i>",
-    "views": 51,
+    "views": 78,
     "forwards": 0,
     "reply": {
       "id": 6946,
