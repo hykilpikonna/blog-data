@@ -30155,7 +30155,7 @@
     "id": 2241,
     "date": "2023-06-03T15:09:43",
     "text": "红绿灯杆上贴的跨旗掉色变成了阿根廷旗🇦🇷（？）",
-    "views": 119,
+    "views": 120,
     "forwards": 1,
     "images": [
       {
@@ -30174,7 +30174,7 @@
     "id": 2242,
     "date": "2023-06-03T15:50:47",
     "text": "感觉 Redmond 翻译成雷德蒙德感觉又难听发音又不像...\n\n怎样翻译更好呢？如爱门？红山？红蒙？",
-    "views": 85,
+    "views": 86,
     "forwards": 0
   },
   {
@@ -30323,7 +30323,7 @@
     "id": 2253,
     "date": "2023-06-06T05:09:25",
     "text": "好羡慕去年实习的方向感，因为是复现研究只要按照别人的方法尝试收集数据实现然后公开一些可读的代码就好。\n\n现在的研究需要自己找方向，时间已经过去了四分之一，碰到了两个死路还要回到原点重新找方向。看到新的分岔也不知道哪条会通向答案，想要冒险 take risk 尝试些不寻常的思路，但是感觉现在的进度不能让我再浪费一周探索了，压力好大... <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "forwarded_from": {
       "name": "废纸篓"
@@ -30333,7 +30333,7 @@
     "id": 2255,
     "date": "2023-06-07T03:35:24",
     "text": "在 MS 工作就必须用 Azure，发现 Azure 还没有我的 homelab 好用 <i class=\"custom-emoji\" emoji-src=\"emoji/6330367841061046406.webp\">🐱</i>\n\n上周从 GCR 申请了一台有 GPU 的服务器，他们在 Azure 上分配给我了一个 A100 VPS，配了两个 1TB HDD。第二周爬数据，爬的时候懒得做处理直接把 json 存下来了，爬了大概 100GB 九百万个 json，然后清理数据分析的时候读的特别慢，刚开始还以为是 python json 解析慢结果换成 rust simd-json 还是一样慢，然后 btop 一下看 100% IO 读速居然只有 5 MB/s <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 好，读本地硬盘比从网上爬还慢了\n\n找解决方案的时候 fdisk -l 发现有一个没有初始化的 800GB NVMe，测一下顺序写 825 MB/s。群友告诉我这是重启都有可能清空的临时盘，但是没办法呀就用这个吧，然后就把数据 rsync 过去了，可能因为 rsync 是顺序读快一点，50 MB/s。同时又发邮件找 GCR 客服要了一块 SSD，一串邮件之后，他们在五分钟内重启了服务器并给我把那块 1T HDD “扩容成” 2TB SSD 了... 这是什么魔法 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\nfdisk 显示甚至分区表都没有变但是空间确实多了 1T，新的数据写入 233 MB/s，但是旧的数据读取更慢了，900 KB/s。算了算了，那就搬数据吧，然后发现重启之后那个临时 NVMe 盘居然真的被清空了... 重新从扩容 SSD 拷到 NVMe 再重新建文件系统拷回去，前者 900 KB/s 拷了两整天才拷完，不过后者两个小时就拷完啦。\n\n好，终于有一个能用的 SSD 了，做了些数据分析，发现数据不太能用，开始爬新的数据。新的爬虫改成了 postgres，因为实在不想再折腾这么多小文件了，虽然 pg 也有 pg 的问题... 总之踩了各种坑把新的爬虫写好了。全都跑起来之后发现即使在 SSD 上跑 pg 也会遇到读写瓶颈，似乎占到 100% IO 也只能写到 50MB/s。结果再次迁移到临时 NVMe 上面去了，写到 400MB/s 瓶颈反而更平衡一些，又写了一个备份脚本每小时把数据同步回 SSD 上，终于有望在有限的时间内把数据爬完了 ;-;",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "media_group_id": 13488871396425789,
     "images": [
@@ -30501,14 +30501,14 @@
     "id": 2265,
     "date": "2023-06-10T05:03:38",
     "text": "呜呜 高中学的物理全都还给物理老师了。刚才和聊聊聊天的时候问我从六楼跳下去要多久落地，想解。还记得第一步应该假设一个常量 9.8，但是想不起来代表什么、是什么单位... 随口说了一个“地球的引力是 9.8 公里每小时”（？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n被聊聊提醒才想起来是加速度 m/ss，然后解积分的时候 t 变成 t² 还忘记加 1/2... 自闭了，我为什么要上学，明明什么都记不住... <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 1
   },
   {
     "id": 2266,
     "date": "2023-06-11T00:41:34",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n微波炉方便鸡翅！\n\n居然可以直接用微波炉做烤鸡哇，早上把鸡腌好，想吃的时候直接微波炉八分钟就烤好了！好方便，味道也很不错 qwq",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13491552752603077,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6279,
+    "views": 6281,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -77691,7 +77691,7 @@
     "id": 5639,
     "date": "2025-06-18T17:18:00",
     "text": "<a href=\"##冲绳\">#冲绳</a>\n一天的行程结束之后天气转晴了，去人不太多的岛上看了日落 🌇\n\n然后又开了一个小时车，开到了一个无人森林山路中间的休息区，是一个车子熄火之后就完全没有其他光源的地方... 熄火之后抬起头真的看到了星空！首先是从车窗探出头，之后拿出了野餐垫躺在地上看，星空配上附近树林里虫虫和小动物的白噪音好清静，好想就在这里睡过去 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n拿出 Stellarium 对照找到了一些星座，还用手机延迟摄影拍了些照片。手机拍出来噪点好多，好想买相机呀。\n\n可惜如果真的在这里睡着的话可能会被毒蛇吃掉，所以还是回家了。原路回去总共 60km 左右，不过因为路上几乎没有车所以一个小时就到家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "media_group_id": 14002136643894573,
     "images": [
@@ -77881,7 +77881,7 @@
     "id": 5656,
     "date": "2025-06-19T16:25:47",
     "text": "<a href=\"##冲绳\">#冲绳</a> <a href=\"##戴上耳机\">#戴上耳机</a>\n在琉球村还看了很有活力的本地演出，有演奏不同气氛的歌曲和舞蹈\n\n演出里第三首歌让大家跟着歌声一起跳舞，说她喊 せーのっ「ゆいゆいゆい、ゆいゆいゆい、ゆいまーる！」的时候我们要左挥手、右挥手、头顶圈圈，然后喊 これがおきなわ「ゆい！」的时候要向上举拳。\n\n感觉，完全就是现实版本的节奏天国，跳着跳着感觉判定星都出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6114111843955902957.webm\">✨</i>\n\n好想做一个这样的 VR 体感版节奏天国",
-    "views": 274,
+    "views": 275,
     "forwards": 1,
     "files": [
       {
@@ -77900,7 +77900,7 @@
     "id": 5657,
     "date": "2025-06-20T01:11:47",
     "text": "昨晚路过了一个在发光的 VLC，还在想现在的 VLC 已经这么厉害了吗什么的，还在想电源在哪里，然后转头一看发现只是正好罩住了地上的灯（草） <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 298,
+    "views": 299,
     "forwards": 2,
     "media_group_id": 14003055260382381,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8029,
+    "views": 8030,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85875,7 +85875,7 @@
     "id": 6292,
     "date": "2025-08-21T02:07:56",
     "text": "想要 Google AI 的强大功能触手 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 274,
+    "views": 275,
     "forwards": 4,
     "images": [
       {
@@ -93547,7 +93547,7 @@
     "id": 6925,
     "date": "2025-10-15T12:36:40",
     "text": "第一次注意到，小时候喜欢的中国特色番茄味薯片，在中国居然叫「墨西哥鸡汁番茄味」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n但是它引进到加拿大之后，在加拿大的包装上标了 \"flavours from China\" 并且去掉了「墨西哥」🌚",
-    "views": 188,
+    "views": 189,
     "forwards": 2,
     "media_group_id": 14084254401753285,
     "images": [
@@ -93577,7 +93577,7 @@
     "id": 6928,
     "date": "2025-10-15T15:58:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和府捞面！\n\n其实和府捞面离住的地方并不近，但是实在太想吃所以花了 ￥20 的路费打车去吃了。这家的装饰没有印象中的和府捞面好看，但是草本骨汤还是印象中的味道 qwq 如果有卖汤底包就好了\n\n吃了太多面回家直接昏睡了 4h <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n...以及发现这家店的监控屏幕上是一张静止的图，显示的是三个月前的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 奇妙",
-    "views": 191,
+    "views": 192,
     "forwards": 1,
     "media_group_id": 14084351257514173,
     "images": [
@@ -93627,13 +93627,13 @@
     "id": 6931,
     "date": "2025-10-15T19:42:27",
     "text": "你们有没有过 看一个字太久就不认识这个字了的情况 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 203,
+    "views": 205,
     "forwards": 0
   },
   {
     "id": 6932,
     "date": "2025-10-15T19:55:36",
-    "views": 199,
+    "views": 201,
     "forwards": 0,
     "files": [
       {
@@ -93658,7 +93658,7 @@
     "id": 6934,
     "date": "2025-10-16T03:45:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nPersona 3R 最后的 boss 演出配上这首曲子真的超燃！\n\n<del>烧烧我的面包</del>",
-    "views": 188,
+    "views": 190,
     "forwards": 0,
     "files": [
       {
@@ -93680,7 +93680,7 @@
     "id": 6935,
     "date": "2025-10-16T18:44:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n麻烦面",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "media_group_id": 14085122184679549,
     "images": [
@@ -93710,7 +93710,7 @@
     "id": 6937,
     "date": "2025-10-17T06:45:49",
     "text": "不再害怕演讲了！\n\n今天讲了这次实习的期末演讲，在只练习了一次的情况下居然从头到尾流畅讲完了完全没有卡顿，问题也全都有回答上！<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n现在才真正感受到自己的沟通能力真的和两年前完全不一样了",
-    "views": 177,
+    "views": 178,
     "forwards": 0,
     "images": [
       {
@@ -93729,7 +93729,7 @@
     "id": 6938,
     "date": "2025-10-17T16:45:15",
     "text": "我穿越了",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "images": [
       {
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 158,
+    "views": 159,
     "forwards": 1,
     "media_group_id": 14085907817799589,
     "images": [
@@ -93828,7 +93828,7 @@
     "id": 6946,
     "date": "2025-10-19T15:28:33",
     "text": "服务器电源真的太吵了\n\n所以魔改了一个 thermalright 的风扇！现在完全听不到电源的风扇声音了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n（代价是原本 750W 的电源现在变成了可能是 500W 的电源 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 127,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14087101705847709,
     "images": [
@@ -93908,7 +93908,7 @@
     "id": 6953,
     "date": "2025-10-19T15:31:16",
     "text": "新玩具增加了（？）\n\n发现拆下来的暴力风扇风量大到足以让它自己悬浮起来 <i class=\"custom-emoji\" emoji-src=\"emoji/5861517868021060371.webp\">😮</i> <span class=\"spoiler\"><span>也吵到能让我悬浮起来 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</span></span></i>",
-    "views": 135,
+    "views": 137,
     "forwards": 0,
     "reply": {
       "id": 6946,
@@ -93936,7 +93936,7 @@
     "id": 6954,
     "date": "2025-10-19T19:32:56",
     "text": "悲，和聊聊连麦打 persona 3 打了一个小时蓝屏了，并没有存档...",
-    "views": 104,
+    "views": 111,
     "forwards": 1
   }
 ]
