@@ -61567,7 +61567,7 @@
     "id": 4493,
     "date": "2024-09-30T15:38:54",
     "text": "用开源软件就是在尝试理解为什么硬盘 uuid 获取不到的时候在 GPT 分区表头里看到一个不知道谁写的 \"Hah!IdontNeedEFI\" 🌚",
-    "views": 242,
+    "views": 243,
     "forwards": 3,
     "images": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2741,
+    "views": 2742,
     "forwards": 29,
     "images": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8041,
+    "views": 8044,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 375,
+    "views": 376,
     "forwards": 7,
     "files": [
       {
@@ -89094,14 +89094,14 @@
     "id": 6551,
     "date": "2025-09-09T05:26:39",
     "text": "看到招财猫迷思：如果一家店养了一只猫我肯定会去看看，但是如果是摆了一个陶瓷招财猫反而会觉得老套不想去... 所以不招财的猫比招财猫更招财（？）\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 249,
+    "views": 250,
     "forwards": 0
   },
   {
     "id": 6552,
     "date": "2025-09-09T08:40:48",
     "text": "唉... 想起四年前在加拿大买到了一箱 Asahi 的麻辣鸡白汤泡粉条，然后因为它停产了还挺伤心的，留着最后五杯一直没有吃已经放过期了还想着什么时候逆向一下来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n现在到了日本发现停产真的是太常见了，每周都有新的种类发售，也有旧的种类停产，也许一个味道没办法在未来重现有点可惜，但是至少永远不会缺好吃的东西",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "reply": {
       "id": 766,
@@ -89113,14 +89113,14 @@
     "id": 6553,
     "date": "2025-09-09T16:42:55",
     "text": "白天超级困，晚上睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 303,
+    "views": 304,
     "forwards": 2
   },
   {
     "id": 6554,
     "date": "2025-09-10T07:03:01",
     "text": "Typst 语言真的好科学... 作为程序语言已经比大部分程序语言都顺手了",
-    "views": 266,
+    "views": 267,
     "forwards": 1,
     "reply": {
       "id": 6515,
@@ -89302,7 +89302,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 270,
+    "views": 271,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -93338,7 +93338,7 @@
     "id": 6909,
     "date": "2025-10-09T11:33:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n又是炖鸡 qwq\n\n因为怕在外面吃又会出问题所以决定多在家做饭了\n\n以及今天的炖鸡是和 syama 一起做的！开心",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "media_group_id": 14080076755410085,
     "images": [
@@ -93388,7 +93388,7 @@
     "id": 6913,
     "date": "2025-10-10T16:29:34",
     "text": "<a href=\"##今日月亮\">#今日月亮</a>",
-    "views": 204,
+    "views": 205,
     "forwards": 0,
     "reply": {
       "id": 6892,
@@ -93462,7 +93462,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 255,
+    "views": 256,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -93497,7 +93497,7 @@
     "id": 6920,
     "date": "2025-10-12T11:40:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n巴沙鱼好方便呀，不需要处理还没有刺",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "media_group_id": 14082153881624589,
     "images": [
@@ -93547,7 +93547,7 @@
     "id": 6925,
     "date": "2025-10-15T12:36:40",
     "text": "第一次注意到，小时候喜欢的中国特色番茄味薯片，在中国居然叫「墨西哥鸡汁番茄味」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n但是它引进到加拿大之后，在加拿大的包装上标了 \"flavours from China\" 并且去掉了「墨西哥」🌚",
-    "views": 196,
+    "views": 197,
     "forwards": 2,
     "media_group_id": 14084254401753285,
     "images": [
@@ -93577,7 +93577,7 @@
     "id": 6928,
     "date": "2025-10-15T15:58:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和府捞面！\n\n其实和府捞面离住的地方并不近，但是实在太想吃所以花了 ￥20 的路费打车去吃了。这家的装饰没有印象中的和府捞面好看，但是草本骨汤还是印象中的味道 qwq 如果有卖汤底包就好了\n\n吃了太多面回家直接昏睡了 4h <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n...以及发现这家店的监控屏幕上是一张静止的图，显示的是三个月前的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 奇妙",
-    "views": 197,
+    "views": 198,
     "forwards": 1,
     "media_group_id": 14084351257514173,
     "images": [
@@ -93627,13 +93627,13 @@
     "id": 6931,
     "date": "2025-10-15T19:42:27",
     "text": "你们有没有过 看一个字太久就不认识这个字了的情况 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 0
   },
   {
     "id": 6932,
     "date": "2025-10-15T19:55:36",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "files": [
       {
@@ -93658,7 +93658,7 @@
     "id": 6934,
     "date": "2025-10-16T03:45:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nPersona 3R 最后的 boss 演出配上这首曲子真的超燃！\n\n<del>烧烧我的面包</del>",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "files": [
       {
@@ -93680,7 +93680,7 @@
     "id": 6935,
     "date": "2025-10-16T18:44:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n麻烦面",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 14085122184679549,
     "images": [
@@ -93710,7 +93710,7 @@
     "id": 6937,
     "date": "2025-10-17T06:45:49",
     "text": "不再害怕演讲了！\n\n今天讲了这次实习的期末演讲，在只练习了一次的情况下居然从头到尾流畅讲完了完全没有卡顿，问题也全都有回答上！<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n现在才真正感受到自己的沟通能力真的和两年前完全不一样了",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "images": [
       {
@@ -93729,7 +93729,7 @@
     "id": 6938,
     "date": "2025-10-17T16:45:15",
     "text": "我穿越了",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "images": [
       {
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 14085907817799589,
     "images": [
@@ -93828,7 +93828,7 @@
     "id": 6946,
     "date": "2025-10-19T15:28:33",
     "text": "服务器电源真的太吵了\n\n所以魔改了一个 thermalright 的风扇！现在完全听不到电源的风扇声音了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n（代价是原本 750W 的电源现在变成了可能是 500W 的电源 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 14087101705847709,
     "images": [
@@ -93908,7 +93908,7 @@
     "id": 6953,
     "date": "2025-10-19T15:31:16",
     "text": "新玩具增加了（？）\n\n发现拆下来的暴力风扇风量大到足以让它自己悬浮起来 <i class=\"custom-emoji\" emoji-src=\"emoji/5861517868021060371.webp\">😮</i> <span class=\"spoiler\"><span>也吵到能让我悬浮起来 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</span></span></i>",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "reply": {
       "id": 6946,
@@ -93936,21 +93936,21 @@
     "id": 6954,
     "date": "2025-10-19T19:32:56",
     "text": "悲，和聊聊连麦打 persona 3 打了一个小时蓝屏了，并没有存档...",
-    "views": 170,
+    "views": 171,
     "forwards": 1
   },
   {
     "id": 6955,
     "date": "2025-10-20T23:47:46",
     "text": "一觉起来家里云 homelab uptime 比 AWS 高了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 154,
+    "views": 158,
     "forwards": 1
   },
   {
     "id": 6956,
     "date": "2025-10-21T03:02:09",
     "text": "好烦淘宝... 标一个超低价然后下单的时候告诉我不是这个价格 💢💢💢",
-    "views": 162,
+    "views": 166,
     "forwards": 1,
     "media_group_id": 14088125831777453,
     "images": [
