@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6282,
+    "views": 6283,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 270,
+    "views": 271,
     "forwards": 2
   },
   {
@@ -93729,7 +93729,7 @@
     "id": 6938,
     "date": "2025-10-17T16:45:15",
     "text": "我穿越了",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "images": [
       {
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 14085907817799589,
     "images": [
@@ -93908,7 +93908,7 @@
     "id": 6953,
     "date": "2025-10-19T15:31:16",
     "text": "新玩具增加了（？）\n\n发现拆下来的暴力风扇风量大到足以让它自己悬浮起来 <i class=\"custom-emoji\" emoji-src=\"emoji/5861517868021060371.webp\">😮</i> <span class=\"spoiler\"><span>也吵到能让我悬浮起来 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</span></span></i>",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "reply": {
       "id": 6946,
@@ -93936,21 +93936,21 @@
     "id": 6954,
     "date": "2025-10-19T19:32:56",
     "text": "悲，和聊聊连麦打 persona 3 打了一个小时蓝屏了，并没有存档...",
-    "views": 189,
+    "views": 190,
     "forwards": 1
   },
   {
     "id": 6955,
     "date": "2025-10-20T23:47:46",
     "text": "一觉起来家里云 homelab uptime 比 AWS 高了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 190,
+    "views": 191,
     "forwards": 1
   },
   {
     "id": 6956,
     "date": "2025-10-21T03:02:09",
     "text": "好烦淘宝... 标一个超低价然后下单的时候告诉我不是这个价格 💢💢💢",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "media_group_id": 14088125831777453,
     "images": [
@@ -94000,7 +94000,7 @@
     "id": 6960,
     "date": "2025-10-21T23:39:22",
     "text": "现在网购 dropshipping 实在太严重了，以前那些「看准京东自营」之类的建议已经不适用了\n\n今天冷冷想买冬天睡衣，首先是看上了这件京东自营 ￥127，但是之后又找到了非自营的同款 ￥89。去淘宝上图片反查发现了销量高的同款 ￥48，但是还有更便宜的 ￥39 却没有什么销量。最后下载了 1688，图片反查找到了 ￥33 的卖家下单了，也许这也不是真正的货源但是足够接近了吧\n\n如果当时没有看到更低价格的同款直接买了自营的话就相当于是被骗走了 ￥90，太坏了。看来以后买东西都应该先图片反查一下 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 150,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14088719697291549,
     "images": [
@@ -94040,7 +94040,7 @@
     "id": 6963,
     "date": "2025-10-22T01:08:58",
     "text": "CLion 的 rust 报错可视化真的好直观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 138,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -94059,7 +94059,7 @@
     "id": 6964,
     "date": "2025-10-22T11:37:17",
     "text": "好冷好冷好冷 感觉一夜间从夏天变成冬天了... 现在在家里穿羽绒服",
-    "views": 88,
+    "views": 95,
     "forwards": 0
   }
 ]
