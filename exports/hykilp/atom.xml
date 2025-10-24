@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-10-24T06:16:50.848770+00:00</updated>
+  <updated>2025-10-24T08:19:12.321012+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6981</id>
+    <title>小桂桂的回忆录 📒 #6981</title>
+    <updated>2025-10-24T07:41:55+00:00</updated>
+    <content>&lt;p&gt;今天想改改我的 blog，用 vscode 打开了我四年前的 vue 项目发现它在误报报错，即使编译完全没问题&lt;/p&gt;
+&lt;p&gt;查了一下发现是 vscode 的 vue lsp 已经丢弃了 vue2 class component 语法的支持...&lt;/p&gt;
+&lt;p&gt;发现 IntelliJ 的支持还在，结果就是四年后我居然再一次开始用高贵的 IntelliJ 写 vue 了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6981" rel="alternate"/>
+  </entry>
   <entry>
     <id>6974</id>
     <title>小桂桂的回忆录 📒 #6974</title>
