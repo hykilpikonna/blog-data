@@ -1,5 +1,181 @@
 [
     {
+        "key": "3DBRF9EA",
+        "version": 8313,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/3DBRF9EA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/3DBRF9EA",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "creatorSummary": "Gui et al.",
+            "parsedDate": "2025-10-17",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "3DBRF9EA",
+            "version": 8313,
+            "itemType": "preprint",
+            "title": "Towards Blind Data Cleaning: A Case Study in Music Source Separation",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Azalea",
+                    "lastName": "Gui"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Woosung",
+                    "lastName": "Choi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Junghyun",
+                    "lastName": "Koo"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kazuki",
+                    "lastName": "Shimada"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Takashi",
+                    "lastName": "Shibuya"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joan",
+                    "lastName": "Serrà"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Wei-Hsiang",
+                    "lastName": "Liao"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yuki",
+                    "lastName": "Mitsufuji"
+                }
+            ],
+            "abstractNote": "The performance of deep learning models for music source separation heavily depends on training data quality. However, datasets are often corrupted by difficult-to-detect artifacts such as audio bleeding and label noise. Since the type and extent of contamination are typically unknown, cleaning methods targeting specific corruptions are often impractical. This paper proposes and evaluates two distinct, noise-agnostic data cleaning methods to address this challenge. The first approach uses data attribution via unlearning to identify and filter out training samples that contribute the least to producing clean outputs. The second leverages the Fr\\'echet Audio Distance to measure and remove samples that are perceptually dissimilar to a small and trusted clean reference set. On a dataset contaminated with a simulated distribution of real-world noise, our unlearning-based methods produced a cleaned dataset and a corresponding model that outperforms both the original contaminated data and the small clean reference set used for cleaning. This result closes approximately 66.7\\% of the performance gap between the contaminated baseline and a model trained on the same dataset without any contamination. Unlike methods tailored for specific artifacts, our noise-agnostic approaches offer a more generic and broadly applicable solution for curating high-quality training data.",
+            "genre": "",
+            "repository": "arXiv",
+            "archiveID": "arXiv:2510.15409",
+            "place": "",
+            "date": "2025-10-17",
+            "series": "",
+            "seriesNumber": "",
+            "DOI": "10.48550/arXiv.2510.15409",
+            "citationKey": "",
+            "url": "http://arxiv.org/abs/2510.15409",
+            "accessDate": "2025-10-24T09:39:31Z",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "Towards Blind Data Cleaning",
+            "language": "",
+            "libraryCatalog": "arXiv.org",
+            "callNumber": "",
+            "rights": "All rights reserved",
+            "extra": "arXiv:2510.15409 [eess]"
+        }
+    },
+    {
+        "key": "VVD9N88Z",
+        "version": 8316,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/VVD9N88Z",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/VVD9N88Z",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "creatorSummary": "Li et al.",
+            "parsedDate": "2025-04-30",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "VVD9N88Z",
+            "version": 8316,
+            "itemType": "preprint",
+            "title": "Addressing Emotion Bias in Music Emotion Recognition and Generation with Frechet Audio Distance",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Yuanchao",
+                    "lastName": "Li"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Azalea",
+                    "lastName": "Gui"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dimitra",
+                    "lastName": "Emmanouilidou"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hannes",
+                    "lastName": "Gamper"
+                }
+            ],
+            "abstractNote": "The complex nature of musical emotion introduces inherent bias in both recognition and generation, particularly when relying on a single audio encoder, emotion classifier, or evaluation metric. In this work, we conduct a study on Music Emotion Recognition (MER) and Emotional Music Generation (EMG), employing diverse audio encoders alongside Frechet Audio Distance (FAD), a reference-free evaluation metric. Our study begins with a benchmark evaluation of MER, highlighting the limitations of using a single audio encoder and the disparities observed across different measurements. We then propose assessing MER performance using FAD derived from multiple encoders to provide a more objective measure of musical emotion. Furthermore, we introduce an enhanced EMG approach designed to improve both the variability and prominence of generated musical emotion, thereby enhancing its realism. Additionally, we investigate the differences in realism between the emotions conveyed in real and synthetic music, comparing our EMG model against two baseline models. Experimental results underscore the issue of emotion bias in both MER and EMG and demonstrate the potential of using FAD and diverse audio encoders to evaluate musical emotion more objectively and effectively.",
+            "genre": "",
+            "repository": "arXiv",
+            "archiveID": "arXiv:2409.15545",
+            "place": "",
+            "date": "2025-04-30",
+            "series": "",
+            "seriesNumber": "",
+            "DOI": "10.48550/arXiv.2409.15545",
+            "citationKey": "",
+            "url": "http://arxiv.org/abs/2409.15545",
+            "accessDate": "2025-10-24T09:40:26Z",
+            "archive": "",
+            "archiveLocation": "",
+            "shortTitle": "",
+            "language": "",
+            "libraryCatalog": "arXiv.org",
+            "callNumber": "",
+            "rights": "All rights reserved",
+            "extra": "arXiv:2409.15545 [eess]"
+        }
+    },
+    {
         "key": "MYJG9PVC",
         "version": 8277,
         "library": {
@@ -277,6 +453,194 @@
             "callNumber": "",
             "rights": "All rights reserved",
             "extra": ""
+        }
+    },
+    {
+        "key": "X6C9NYPZ",
+        "version": 8316,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/X6C9NYPZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/X6C9NYPZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/VVD9N88Z",
+                "type": "application/json"
+            }
+        },
+        "meta": {},
+        "data": {
+            "key": "X6C9NYPZ",
+            "version": 8316,
+            "parentItem": "VVD9N88Z",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2025-10-24T09:40:26Z",
+            "url": "http://arxiv.org/abs/2409.15545",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "2409.html",
+            "md5": null,
+            "mtime": null
+        }
+    },
+    {
+        "key": "TWNUDX2Y",
+        "version": 8316,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/TWNUDX2Y",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/TWNUDX2Y",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/VVD9N88Z",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": false
+        },
+        "data": {
+            "key": "TWNUDX2Y",
+            "version": 8316,
+            "parentItem": "VVD9N88Z",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Preprint PDF",
+            "accessDate": "2025-10-24T09:40:27Z",
+            "url": "http://arxiv.org/pdf/2409.15545v3",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Li et al. - 2025 - Addressing Emotion Bias in Music Emotion Recognition and Generation with Frechet Audio Distance.pdf",
+            "md5": null,
+            "mtime": null
+        }
+    },
+    {
+        "key": "6Q3RTMWS",
+        "version": 8313,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/6Q3RTMWS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/6Q3RTMWS",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/3DBRF9EA",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": false
+        },
+        "data": {
+            "key": "6Q3RTMWS",
+            "version": 8313,
+            "parentItem": "3DBRF9EA",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Preprint PDF",
+            "accessDate": "2025-10-24T09:39:31Z",
+            "url": "http://arxiv.org/pdf/2510.15409v1",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Gui et al. - 2025 - Towards Blind Data Cleaning A Case Study in Music Source Separation.pdf",
+            "md5": null,
+            "mtime": null
+        }
+    },
+    {
+        "key": "HEEKGDR8",
+        "version": 8313,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/HEEKGDR8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/HEEKGDR8",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/3DBRF9EA",
+                "type": "application/json"
+            }
+        },
+        "meta": {},
+        "data": {
+            "key": "HEEKGDR8",
+            "version": 8313,
+            "parentItem": "3DBRF9EA",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2025-10-24T09:39:31Z",
+            "url": "http://arxiv.org/abs/2510.15409",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "2510.html",
+            "md5": null,
+            "mtime": null
         }
     },
     {
