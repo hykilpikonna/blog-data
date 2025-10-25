@@ -4203,7 +4203,7 @@
     "id": 430,
     "date": "2022-01-04T08:58:57",
     "text": "搬回去了，昨天是住在 K 那里的最后一天。收拾东西好心痛，每件要收的东西都联系着一段和 K 生活的回忆... 又哭了好久。不过即使ta回来，这些回忆也像承载它们的时间一样不会重现。让我的不舍和还回去的门卡一起封印在那里吧，接下来只要向前看w",
-    "views": 83,
+    "views": 84,
     "forwards": 2,
     "media_group_id": 13130293898975093,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6284,
+    "views": 6285,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8074,
+    "views": 8075,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 640,
+    "views": 641,
     "forwards": 5,
     "images": [
       {
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 276,
+    "views": 277,
     "forwards": 2
   },
   {
@@ -93497,7 +93497,7 @@
     "id": 6920,
     "date": "2025-10-12T11:40:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n巴沙鱼好方便呀，不需要处理还没有刺",
-    "views": 266,
+    "views": 268,
     "forwards": 1,
     "media_group_id": 14082153881624589,
     "images": [
@@ -93547,7 +93547,7 @@
     "id": 6925,
     "date": "2025-10-15T12:36:40",
     "text": "第一次注意到，小时候喜欢的中国特色番茄味薯片，在中国居然叫「墨西哥鸡汁番茄味」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n但是它引进到加拿大之后，在加拿大的包装上标了 \"flavours from China\" 并且去掉了「墨西哥」🌚",
-    "views": 205,
+    "views": 207,
     "forwards": 2,
     "media_group_id": 14084254401753285,
     "images": [
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "media_group_id": 14085907817799589,
     "images": [
@@ -93828,7 +93828,7 @@
     "id": 6946,
     "date": "2025-10-19T15:28:33",
     "text": "服务器电源真的太吵了\n\n所以魔改了一个 thermalright 的风扇！现在完全听不到电源的风扇声音了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n（代价是原本 750W 的电源现在变成了可能是 500W 的电源 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "media_group_id": 14087101705847709,
     "images": [
@@ -93908,7 +93908,7 @@
     "id": 6953,
     "date": "2025-10-19T15:31:16",
     "text": "新玩具增加了（？）\n\n发现拆下来的暴力风扇风量大到足以让它自己悬浮起来 <i class=\"custom-emoji\" emoji-src=\"emoji/5861517868021060371.webp\">😮</i> <span class=\"spoiler\"><span>也吵到能让我悬浮起来 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</span></span></i>",
-    "views": 251,
+    "views": 253,
     "forwards": 0,
     "reply": {
       "id": 6946,
@@ -93936,21 +93936,21 @@
     "id": 6954,
     "date": "2025-10-19T19:32:56",
     "text": "悲，和聊聊连麦打 persona 3 打了一个小时蓝屏了，并没有存档...",
-    "views": 241,
+    "views": 243,
     "forwards": 1
   },
   {
     "id": 6955,
     "date": "2025-10-20T23:47:46",
     "text": "一觉起来家里云 homelab uptime 比 AWS 高了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 222,
+    "views": 224,
     "forwards": 1
   },
   {
     "id": 6956,
     "date": "2025-10-21T03:02:09",
     "text": "好烦淘宝... 标一个超低价然后下单的时候告诉我不是这个价格 💢💢💢",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "media_group_id": 14088125831777453,
     "images": [
@@ -94000,7 +94000,7 @@
     "id": 6960,
     "date": "2025-10-21T23:39:22",
     "text": "现在网购 dropshipping 实在太严重了，以前那些「看准京东自营」之类的建议已经不适用了\n\n今天冷冷想买冬天睡衣，首先是看上了这件京东自营 ￥127，但是之后又找到了非自营的同款 ￥89。去淘宝上图片反查发现了销量高的同款 ￥48，但是还有更便宜的 ￥39 却没有什么销量。最后下载了 1688，图片反查找到了 ￥33 的卖家下单了，也许这也不是真正的货源但是足够接近了吧\n\n如果当时没有看到更低价格的同款直接买了自营的话就相当于是被骗走了 ￥90，太坏了。看来以后买东西都应该先图片反查一下 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 1,
     "media_group_id": 14088719697291549,
     "images": [
@@ -94040,7 +94040,7 @@
     "id": 6963,
     "date": "2025-10-22T01:08:58",
     "text": "CLion 的 rust 报错可视化真的好直观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 1,
     "images": [
       {
@@ -94059,14 +94059,14 @@
     "id": 6964,
     "date": "2025-10-22T11:37:17",
     "text": "好冷好冷好冷 感觉一夜间从夏天变成冬天了... 现在在家里穿羽绒服",
-    "views": 192,
+    "views": 193,
     "forwards": 0
   },
   {
     "id": 6965,
     "date": "2025-10-23T12:47:22",
     "text": "hello navi\n\n<span class=\"spoiler\"><span>感觉这个天气冷的正好适合穿上毛茸茸睡衣躲在服务器机柜后面取暖 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</span></span></i>",
-    "views": 177,
+    "views": 178,
     "forwards": 2,
     "media_group_id": 14089789142979549,
     "images": [
@@ -94100,7 +94100,7 @@
     "id": 6967,
     "date": "2025-10-23T15:38:06",
     "text": "测试了一下 CP1500 的第三方墨盒，大家能看出上下两边哪边是第三方嘛？（还是挺明显的\n\n虽然说第三方比官方打 7 折的话这个效果也能算是平替了（官方每张 ￥1.62，第三方每张 ￥1.19）",
-    "views": 172,
+    "views": 173,
     "forwards": 2,
     "media_group_id": 14089871091600397,
     "images": [
@@ -94170,7 +94170,7 @@
     "id": 6973,
     "date": "2025-10-23T19:21:21",
     "text": "原来在日本人眼里 用无人机是一件和喝酒吸烟放火献花大叫摧毁设施类似的迷惑行为吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 172,
+    "views": 175,
     "forwards": 1,
     "images": [
       {
@@ -94189,7 +94189,7 @@
     "id": 6974,
     "date": "2025-10-23T20:59:12",
     "text": "谦谦换上了新买的车机之后，发现缺一根 CAN bus 线看不到倒车提示，但是线停产了哪里都买不到\n\n她原本想自己做线，下单了端子但是没有正确的工具所以没做出来，我想帮忙做线寄过去就在我这里下单了端子\n\n...结果第二天我这边材料还没到她已经有朋友帮忙做好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不过几块钱的材料也懒得退，做了两条卖掉好了。（有剥线钳和压端子钳之后做线真的超容易）",
-    "views": 166,
+    "views": 168,
     "forwards": 2,
     "media_group_id": 14090025217389645,
     "images": [
@@ -94269,7 +94269,7 @@
     "id": 6981,
     "date": "2025-10-24T07:41:55",
     "text": "今天想改改我的 blog，用 vscode 打开了我四年前的 vue 项目发现它在误报报错，即使编译完全没问题\n\n查了一下发现是 vscode 的 vue lsp 已经丢弃了 vue2 class component 语法的支持...\n\n发现 IntelliJ 的支持还在，结果就是四年后我居然再一次开始用高贵的 IntelliJ 写 vue 了",
-    "views": 172,
+    "views": 177,
     "forwards": 1,
     "images": [
       {
@@ -94288,7 +94288,7 @@
     "id": 6982,
     "date": "2025-10-24T09:14:49",
     "text": "TIL, \"vite\" 的读音并不是 /vaɪt/ 而是 /vit/... 因为这个词其实是法语",
-    "views": 197,
+    "views": 203,
     "forwards": 4,
     "images": [
       {
@@ -94307,7 +94307,7 @@
     "id": 6983,
     "date": "2025-10-24T18:09:13",
     "text": "<del>work life balance 真的有那么难吗，明明让请无薪假期就好了</del>",
-    "views": 154,
+    "views": 165,
     "forwards": 0,
     "images": [
       {
@@ -94326,14 +94326,14 @@
     "id": 6984,
     "date": "2025-10-24T19:25:37",
     "text": "选择恐惧症 启动一个项目需要做的选择都好难",
-    "views": 150,
+    "views": 164,
     "forwards": 0
   },
   {
     "id": 6985,
     "date": "2025-10-25T09:10:32",
     "text": "精通全世界所有语言的诅咒",
-    "views": 109,
+    "views": 139,
     "forwards": 1,
     "images": [
       {
@@ -94345,6 +94345,29 @@
         "url": "media/6985.jpg",
         "size": 203795,
         "thumb": "media/6985.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6986,
+    "date": "2025-10-25T14:33:35",
+    "text": "猫贴贴 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n今天早上出门取快递遇到了这只很黏人的猫，但是没有带食物，所以上楼取了食物又下来了，可惜再下来之后找了无数圈都找不到ta...\n\n不过晚上出门吃饭的时候又找到了！并且成功投喂了猫条 qwq",
+    "views": 79,
+    "forwards": 0,
+    "files": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "duration": 28,
+        "file_name": "VID20251025154203.av1-40.mp4",
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2025-10-25T14:33:35",
+        "media_type": "video_file",
+        "original_name": "VID20251025154203.av1-40.mp4",
+        "url": "media/6986.mp4",
+        "size": 19331833,
+        "thumb": "media/6986.mp4_thumb.jpg"
       }
     ]
   }
