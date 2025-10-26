@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Oct 2025 16:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 18:16:41 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #6987</title>
+      <link>https://aza.moe/life?post=6987</link>
+      <description>&lt;p&gt;今天有幸看了一眼 &lt;a href="https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/Sony.pm"&gt;exiftool 里处理索尼照片文件的源码&lt;/a&gt;，实在是太 cursed 了...&lt;/p&gt;
+&lt;p&gt;一个文件 11866 行，而且大部分格式解析都是 hardcode 进去的... 很难想象什么样的人能维护这样的代码 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;所以我现在终于理解为什么大家都不支持索尼 HIF、以及为什么没有人想用 rust 重写 exiftool 了 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt; 建议所有现在在存 HIF 的人都改成存 jpeg，这个格式真的没救&lt;/p&gt;</description>
+      <guid isPermaLink="false">6987</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #6986</title>
       <link>https://aza.moe/life?post=6986</link>
