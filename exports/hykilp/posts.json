@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6288,
+    "views": 6289,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -80310,7 +80310,7 @@
     "id": 5861,
     "date": "2025-07-09T14:05:05",
     "text": "以及尝试了些也许不寻常的构图，感觉重新拍一遍所有人都拍过的视角是不是有点无聊\n\n<span class=\"spoiler\"><span>...其实买相机前后想了很久为什么要买相机拍照片之类的事情，毕竟在网上很容易就能找到其他摄影师在同一个地方用更贵更好的设备在各种角度天气构图拍的好看照片。我还没有找到很好的答案... 一部分是为了保存回忆吧，但是那样的话手机或者随身 360° 相机更合适。不过暂时的话，至少拍到自己视角中的好看照片很开心，所以我还会继续探索摄影</span></span>",
-    "views": 187,
+    "views": 188,
     "forwards": 1,
     "reply": {
       "id": 5852,
@@ -80561,7 +80561,7 @@
     "id": 5878,
     "date": "2025-07-11T17:40:56",
     "text": "快选举了，看看日本都有哪些派对 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n保守主义...\n自由主义...\n进步主义...\n社会主义...\n反对电视许可费主义 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 1,
     "images": [
       {
@@ -83048,7 +83048,7 @@
     "id": 6074,
     "date": "2025-07-31T16:04:35",
     "text": "为什么每次看到自己代码库里超级无敌蠢猫代码想要知道是哪个蠢猫写的进行 git blame 的时候都会 blame 到我自己 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 261,
+    "views": 262,
     "forwards": 2
   },
   {
@@ -94352,7 +94352,7 @@
     "id": 6986,
     "date": "2025-10-25T14:33:35",
     "text": "猫贴贴 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n今天早上出门取快递遇到了这只很黏人的猫，但是没有带食物，所以上楼取了食物又下来了，可惜再下来之后找了无数圈都找不到ta...\n\n不过晚上出门吃饭的时候又找到了！并且成功投喂了猫条 qwq",
-    "views": 116,
+    "views": 118,
     "forwards": 0,
     "files": [
       {
