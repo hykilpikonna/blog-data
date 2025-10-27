@@ -94375,7 +94375,7 @@
     "id": 6987,
     "date": "2025-10-26T18:04:21",
     "text": "今天有幸看了一眼 <a href=\"https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/Sony.pm\">exiftool 里处理索尼照片文件的源码</a>，实在是太 cursed 了...\n\n一个文件 11866 行，而且大部分格式解析都是 hardcode 进去的... 很难想象什么样的人能维护这样的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n所以我现在终于理解为什么大家都不支持索尼 HIF、以及为什么没有人想用 rust 重写 exiftool 了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 建议所有现在在存 HIF 的人都改成存 jpeg，这个格式真的没救",
-    "views": 161,
+    "views": 163,
     "forwards": 3,
     "images": [
       {
@@ -94394,7 +94394,7 @@
     "id": 6988,
     "date": "2025-10-26T20:56:28",
     "text": "照片的照片的照片",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "images": [
       {
@@ -94413,7 +94413,7 @@
     "id": 6989,
     "date": "2025-10-27T11:23:01",
     "text": "给幸运路人分享照片的网页做完了！\n<a href=\"https://p.aza.moe\">https://p.aza.moe</a>\n\n第一次用<a href=\"https://github.com/hykilpikonna/corner/blob/master/src/views/Photo.vue\"> CSS view transition</a> 做了这个图片放大的效果，感觉好好用！不用再被单独出入动画能做到的效果限制了 qwq",
-    "views": 108,
+    "views": 110,
     "forwards": 1,
     "reply": {
       "id": 6754,
