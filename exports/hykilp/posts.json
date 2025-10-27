@@ -61611,7 +61611,7 @@
   {
     "id": 4496,
     "date": "2024-10-02T16:42:07",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "forwarded_from": {
       "name": "It’s Not an AuDHD Thing"
@@ -61633,7 +61633,7 @@
     "id": 4498,
     "date": "2024-10-02T20:28:01",
     "text": "突然想起 tensorflow/keras，才意识到好像所有人都逐渐抛弃 tf 转用 pytorch 了...\n\n不知道这是什么时候开始的，明明我两三年前看身边的人还都在用 tf <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不过确实也是因为 pytorch 更简洁吧\n\n看了一眼 Google Trend 好像确实是两三年前开始的",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "images": [
       {
@@ -61652,7 +61652,7 @@
     "id": 4499,
     "date": "2024-10-03T08:38:42",
     "text": "...前几天刚抱怨完 311 作业长，这三天写 485 计算语言学的作业花了 19 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n不过这 19 个小时感觉很充实！做了一个完整的能用的自然语言依赖树识别模型，应该是我第一次自己用 pytorch 定义模型，也是第一次用 pytorch 写能并行的一般最小生成树算法... 学到了很多 quq（感觉和以前写过的所有算法都好不一样\n\n感觉 pytorch 像魔法，只是把每层定义出来，再定义一个目标的 loss，然后调用一下 backward、step 它就自己把模型训练好了... 写完了训练完了还完全不懂底层逻辑，<del>感觉也不需要懂了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n唉 同样是讲机器学习的课，之前的 311 讲一堆 ML 模型背后的数学和概率论信息论证明就觉得好枯燥，果然我还是不适合理论呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i> <del>果然我还是喜欢做念念咒语喂些数据就完事了的赛博炼金术士</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5443161132535653267.tgs\">🧙‍♂</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 13823557776268837,
     "images": [
@@ -89026,7 +89026,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 391,
+    "views": 392,
     "forwards": 4,
     "files": [
       {
@@ -94288,7 +94288,7 @@
     "id": 6982,
     "date": "2025-10-24T09:14:49",
     "text": "TIL, \"vite\" 的读音并不是 /vaɪt/ 而是 /vit/... 因为这个词其实是法语",
-    "views": 219,
+    "views": 220,
     "forwards": 4,
     "images": [
       {
@@ -94352,7 +94352,7 @@
     "id": 6986,
     "date": "2025-10-25T14:33:35",
     "text": "猫贴贴 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n今天早上出门取快递遇到了这只很黏人的猫，但是没有带食物，所以上楼取了食物又下来了，可惜再下来之后找了无数圈都找不到ta...\n\n不过晚上出门吃饭的时候又找到了！并且成功投喂了猫条 qwq",
-    "views": 160,
+    "views": 162,
     "forwards": 0,
     "files": [
       {
@@ -94375,7 +94375,7 @@
     "id": 6987,
     "date": "2025-10-26T18:04:21",
     "text": "今天有幸看了一眼 <a href=\"https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/Sony.pm\">exiftool 里处理索尼照片文件的源码</a>，实在是太 cursed 了...\n\n一个文件 11866 行，而且大部分格式解析都是 hardcode 进去的... 很难想象什么样的人能维护这样的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n所以我现在终于理解为什么大家都不支持索尼 HIF、以及为什么没有人想用 rust 重写 exiftool 了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 建议所有现在在存 HIF 的人都改成存 jpeg，这个格式真的没救",
-    "views": 138,
+    "views": 140,
     "forwards": 3,
     "images": [
       {
@@ -94394,7 +94394,7 @@
     "id": 6988,
     "date": "2025-10-26T20:56:28",
     "text": "照片的照片的照片",
-    "views": 109,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
