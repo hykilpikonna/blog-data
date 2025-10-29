@@ -73065,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6291,
+    "views": 6292,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -92344,7 +92344,7 @@
     "id": 6826,
     "date": "2025-10-03T11:46:33",
     "text": "接下来去逛逛诚品书店，整栋楼的设计感好好看\n\n不过其实不太喜欢书店变成网红打卡点这件事... 看有人坐下翻开书拍一张照片就把书放回去走了的样子真的有点破坏气氛\n\n买了一本《摇曳露营野外活动记录》，里面介绍了动画的详细角色设定、露营地点和路线和装备（这里面的露营帐篷拼装介绍比我买的帐篷的说明书更详细了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>）也许是第一个不只有收藏意义、还让我觉得很实用的设定集",
-    "views": 204,
+    "views": 205,
     "forwards": 0,
     "media_group_id": 14075935949638269,
     "images": [
@@ -92504,7 +92504,7 @@
     "id": 6843,
     "date": "2025-10-04T02:38:26",
     "text": "+ 显卡屋\n\n<del>我又开始 diy 电源了</del>",
-    "views": 199,
+    "views": 200,
     "forwards": 0,
     "media_group_id": 14076364052820965,
     "images": [
@@ -92554,7 +92554,7 @@
     "id": 6847,
     "date": "2025-10-04T08:39:36",
     "text": "显卡屋真的有点奇妙\n\n记得以前用双显卡笔记本有办法设置什么程序用什么显卡，但是用显卡屋就没有。\n\n跑<i class=\"custom-emoji\" emoji-src=\"emoji/5460804574719778473.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5461064488960662003.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460773655250214104.webp\">🔤</i><i class=\"custom-emoji\" emoji-src=\"emoji/5460798570355498276.webp\">🔤</i>，笔记本屏+外接显示器插到显卡屋上。如果在笔记本屏上启动就会用集显，20FPS 左右，拖到外接显示器上也依然 20FPS。\n\n如果在外接显示器上启动就会用独显，60FPS 左右，拖到笔记本屏上会让帧率降到 40FPS（把渲染好的图像从一个显卡复制到另一个显卡的 overhead 这么大吗...）",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14076537409665893,
     "images": [
@@ -92589,7 +92589,7 @@
     "id": 6849,
     "date": "2025-10-04T17:25:08",
     "text": "...发现修好它并没有想象的那么简单\n\n今天重新打开它的时候发现低音声道没声音。看了下低音炮，发现线已经烧掉了... 昨天还有声音真是奇迹\n\n然后做声道测试发现右边音响没声音，排错发现是连接到端子的线从里面断掉了。把喇叭拧下来重新焊了两根线上去，再从下面穿出去了\n\n然后把接麦克风的短线换成新买的五米长线，接上麦克风没声音。用电表测了一下发现并不是因为线太长了有阻抗，而是因为接口定义完全不一样...\n\n之前的短线是非平衡单声道，新的长线是平衡单声道/非平衡双声道。然而即使外观和接口完全一样，这两套引脚定义并不互相兼容，而且商品描述里也没有写是哪种... 不过好在它的接口是可以拧下来的那种，重新焊一根飞线改好了\n\n现在终于全都工作啦！累死了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 203,
+    "views": 204,
     "forwards": 0,
     "media_group_id": 14076789666467461,
     "images": [
@@ -93248,7 +93248,7 @@
     "id": 6902,
     "date": "2025-10-08T22:18:18",
     "text": "反图，还有日出！",
-    "views": 199,
+    "views": 200,
     "forwards": 0,
     "media_group_id": 14079695187848205,
     "images": [
@@ -93942,7 +93942,7 @@
     "id": 6955,
     "date": "2025-10-20T23:47:46",
     "text": "一觉起来家里云 homelab uptime 比 AWS 高了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 239,
+    "views": 240,
     "forwards": 1
   },
   {
@@ -94446,7 +94446,7 @@
     "id": 6991,
     "date": "2025-10-29T03:16:17",
     "text": "去福冈",
-    "views": 138,
+    "views": 139,
     "forwards": 2,
     "media_group_id": 14093662217592885,
     "images": [
@@ -94556,7 +94556,7 @@
     "id": 7001,
     "date": "2025-10-29T07:12:25",
     "text": "猫猫脚印封印住的瓷器，好可爱 🐈",
-    "views": 128,
+    "views": 130,
     "forwards": 0,
     "images": [
       {
@@ -94575,7 +94575,7 @@
     "id": 7002,
     "date": "2025-10-29T13:13:27",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5278467721057541790.webp\">👩‍💻</i>\n\n<span class=\"spoiler\"><span>（说起来为什么 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5278467721057541790.webp\">👩‍💻</span></span></i><span class=\"spoiler\"><span> 读 /vjuː/ 而不是 /🤮/</span></span>",
-    "views": 73,
+    "views": 76,
     "forwards": 2,
     "images": [
       {
@@ -94594,7 +94594,7 @@
     "id": 7003,
     "date": "2025-10-29T13:23:32",
     "text": "福冈塔上的日落 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 54,
+    "views": 57,
     "forwards": 1,
     "media_group_id": 14093953702763077,
     "images": [
@@ -94709,7 +94709,7 @@
     "id": 7016,
     "date": "2025-10-29T13:33:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nふじや食堂！\n\n因为发现家人喜欢吃定食，就去谷歌地图 + tabelog 上找评价高的定食店找到了这家。跟着地图走差点走过，回头才发现这家店的位置超隐蔽，甚至没有门面... 但是好好吃！点了这家独特的酸甜+塔塔酱口味的炸鸡块也好不错诶",
-    "views": 41,
+    "views": 44,
     "forwards": 0,
     "media_group_id": 14093958653446053,
     "images": [
