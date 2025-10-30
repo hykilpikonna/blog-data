@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5697,
+    "views": 5698,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8103,
+    "views": 8104,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -93949,7 +93949,7 @@
     "id": 6956,
     "date": "2025-10-21T03:02:09",
     "text": "好烦淘宝... 标一个超低价然后下单的时候告诉我不是这个价格 💢💢💢",
-    "views": 267,
+    "views": 268,
     "forwards": 1,
     "media_group_id": 14088125831777453,
     "images": [
@@ -93999,7 +93999,7 @@
     "id": 6960,
     "date": "2025-10-21T23:39:22",
     "text": "现在网购 dropshipping 实在太严重了，以前那些「看准京东自营」之类的建议已经不适用了\n\n今天冷冷想买冬天睡衣，首先是看上了这件京东自营 ￥127，但是之后又找到了非自营的同款 ￥89。去淘宝上图片反查发现了销量高的同款 ￥48，但是还有更便宜的 ￥39 却没有什么销量。最后下载了 1688，图片反查找到了 ￥33 的卖家下单了，也许这也不是真正的货源但是足够接近了吧\n\n如果当时没有看到更低价格的同款直接买了自营的话就相当于是被骗走了 ￥90，太坏了。看来以后买东西都应该先图片反查一下 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "media_group_id": 14088719697291549,
     "images": [
@@ -94039,7 +94039,7 @@
     "id": 6963,
     "date": "2025-10-22T01:08:58",
     "text": "CLion 的 rust 报错可视化真的好直观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 1,
     "images": [
       {
@@ -94058,14 +94058,14 @@
     "id": 6964,
     "date": "2025-10-22T11:37:17",
     "text": "好冷好冷好冷 感觉一夜间从夏天变成冬天了... 现在在家里穿羽绒服",
-    "views": 213,
+    "views": 214,
     "forwards": 0
   },
   {
     "id": 6965,
     "date": "2025-10-23T12:47:22",
     "text": "hello navi\n\n<span class=\"spoiler\"><span>感觉这个天气冷的正好适合穿上毛茸茸睡衣躲在服务器机柜后面取暖 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</span></span></i>",
-    "views": 201,
+    "views": 202,
     "forwards": 3,
     "media_group_id": 14089789142979549,
     "images": [
@@ -94099,7 +94099,7 @@
     "id": 6967,
     "date": "2025-10-23T15:38:06",
     "text": "测试了一下 CP1500 的第三方墨盒，大家能看出上下两边哪边是第三方嘛？（还是挺明显的\n\n虽然说第三方比官方打 7 折的话这个效果也能算是平替了（官方每张 ￥1.62，第三方每张 ￥1.19）",
-    "views": 195,
+    "views": 196,
     "forwards": 3,
     "media_group_id": 14089871091600397,
     "images": [
@@ -94169,7 +94169,7 @@
     "id": 6973,
     "date": "2025-10-23T19:21:21",
     "text": "原来在日本人眼里 用无人机是一件和喝酒吸烟放火献花大叫摧毁设施类似的迷惑行为吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 203,
+    "views": 204,
     "forwards": 1,
     "images": [
       {
@@ -94188,7 +94188,7 @@
     "id": 6974,
     "date": "2025-10-23T20:59:12",
     "text": "谦谦换上了新买的车机之后，发现缺一根 CAN bus 线看不到倒车提示，但是线停产了哪里都买不到\n\n她原本想自己做线，下单了端子但是没有正确的工具所以没做出来，我想帮忙做线寄过去就在我这里下单了端子\n\n...结果第二天我这边材料还没到她已经有朋友帮忙做好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不过几块钱的材料也懒得退，做了两条卖掉好了。（有剥线钳和压端子钳之后做线真的超容易）",
-    "views": 189,
+    "views": 190,
     "forwards": 2,
     "media_group_id": 14090025217389645,
     "images": [
@@ -94268,7 +94268,7 @@
     "id": 6981,
     "date": "2025-10-24T07:41:55",
     "text": "今天想改改我的 blog，用 vscode 打开了我四年前的 vue 项目发现它在误报报错，即使编译完全没问题\n\n查了一下发现是 vscode 的 vue lsp 已经丢弃了 vue2 class component 语法的支持...\n\n发现 IntelliJ 的支持还在，结果就是四年后我居然再一次开始用高贵的 IntelliJ 写 vue 了",
-    "views": 215,
+    "views": 216,
     "forwards": 1,
     "images": [
       {
@@ -94306,7 +94306,7 @@
     "id": 6983,
     "date": "2025-10-24T18:09:13",
     "text": "<del>work life balance 真的有那么难吗，明明让请无薪假期就好了</del>",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "images": [
       {
@@ -94325,14 +94325,14 @@
     "id": 6984,
     "date": "2025-10-24T19:25:37",
     "text": "选择恐惧症 启动一个项目需要做的选择都好难",
-    "views": 215,
+    "views": 216,
     "forwards": 0
   },
   {
     "id": 6985,
     "date": "2025-10-25T09:10:32",
     "text": "精通全世界所有语言的诅咒",
-    "views": 214,
+    "views": 216,
     "forwards": 2,
     "images": [
       {
@@ -94351,7 +94351,7 @@
     "id": 6986,
     "date": "2025-10-25T14:33:35",
     "text": "猫贴贴 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n今天早上出门取快递遇到了这只很黏人的猫，但是没有带食物，所以上楼取了食物又下来了，可惜再下来之后找了无数圈都找不到ta...\n\n不过晚上出门吃饭的时候又找到了！并且成功投喂了猫条 qwq",
-    "views": 209,
+    "views": 211,
     "forwards": 0,
     "files": [
       {
@@ -94374,7 +94374,7 @@
     "id": 6987,
     "date": "2025-10-26T18:04:21",
     "text": "今天有幸看了一眼 <a href=\"https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/Sony.pm\">exiftool 里处理索尼照片文件的源码</a>，实在是太 cursed 了...\n\n一个文件 11866 行，而且大部分格式解析都是 hardcode 进去的... 很难想象什么样的人能维护这样的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n所以我现在终于理解为什么大家都不支持索尼 HIF、以及为什么没有人想用 rust 重写 exiftool 了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 建议所有现在在存 HIF 的人都改成存 jpeg，这个格式真的没救",
-    "views": 208,
+    "views": 212,
     "forwards": 3,
     "images": [
       {
@@ -94393,7 +94393,7 @@
     "id": 6988,
     "date": "2025-10-26T20:56:28",
     "text": "照片的照片的照片",
-    "views": 197,
+    "views": 201,
     "forwards": 0,
     "images": [
       {
@@ -94412,7 +94412,7 @@
     "id": 6989,
     "date": "2025-10-27T11:23:01",
     "text": "给幸运路人分享照片的网页做完了！\n<a href=\"https://p.aza.moe\">https://p.aza.moe</a>\n\n第一次用<a href=\"https://github.com/hykilpikonna/corner/blob/master/src/views/Photo.vue\"> CSS view transition</a> 做了这个图片放大的效果，感觉好好用！不用再被单独出入动画能做到的效果限制了 qwq",
-    "views": 196,
+    "views": 198,
     "forwards": 3,
     "reply": {
       "id": 6754,
@@ -94439,14 +94439,14 @@
     "id": 6990,
     "date": "2025-10-28T03:15:32",
     "text": "导航：您已进入上海市嘉定区\nme：世嘉？<i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 193,
+    "views": 195,
     "forwards": 2
   },
   {
     "id": 6991,
     "date": "2025-10-29T03:16:17",
     "text": "去福冈",
-    "views": 141,
+    "views": 143,
     "forwards": 2,
     "media_group_id": 14093662217592885,
     "images": [
@@ -94556,7 +94556,7 @@
     "id": 7001,
     "date": "2025-10-29T07:12:25",
     "text": "猫猫脚印封印住的瓷器，好可爱 🐈",
-    "views": 136,
+    "views": 138,
     "forwards": 0,
     "images": [
       {
@@ -94575,7 +94575,7 @@
     "id": 7002,
     "date": "2025-10-29T13:13:27",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5278467721057541790.webp\">👩‍💻</i>\n\n<span class=\"spoiler\"><span>（说起来为什么 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5278467721057541790.webp\">👩‍💻</span></span></i><span class=\"spoiler\"><span> 读 /vjuː/ 而不是 /🤮/</span></span>",
-    "views": 86,
+    "views": 92,
     "forwards": 2,
     "images": [
       {
@@ -94594,7 +94594,7 @@
     "id": 7003,
     "date": "2025-10-29T13:23:32",
     "text": "福冈塔上的日落 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 67,
+    "views": 73,
     "forwards": 1,
     "media_group_id": 14093953702763077,
     "images": [
@@ -94709,7 +94709,7 @@
     "id": 7016,
     "date": "2025-10-29T13:33:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nふじや食堂！\n\n因为发现家人喜欢吃定食，就去谷歌地图 + tabelog 上找评价高的定食店找到了这家。跟着地图走差点走过，回头才发现这家店的位置超隐蔽，甚至没有门面... 但是好好吃！点了这家独特的酸甜+塔塔酱口味的炸鸡块也好不错诶",
-    "views": 58,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 14093958653446053,
     "images": [
