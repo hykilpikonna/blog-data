@@ -89221,7 +89221,7 @@
     "id": 6560,
     "date": "2025-09-11T03:09:55",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n去了一家评价超高的店，吃了感觉真的对得起这个评价。肉超软，而且只要 740 一碗肉乌冬好便宜，以及店里在放 beatles 的 let it be 专辑还有唱片挂在墙上<del>让乌冬更好吃了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n...吃完出来看门口排满了社畜，还好我来得早 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "media_group_id": 14060481561338693,
     "images": [
@@ -89301,7 +89301,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 272,
+    "views": 273,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -89351,7 +89351,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 296,
+    "views": 297,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89362,7 +89362,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 300,
+    "views": 301,
     "forwards": 3,
     "images": [
       {
@@ -89399,7 +89399,7 @@
     "id": 6574,
     "date": "2025-09-15T11:05:18",
     "text": "蓝夏和 Yuri 回西雅图的前两天去和他们加上マモル一起露营了！去的是摇曳露营圣地本栖湖旁边的浩庵露营场\n\n第二次来这里了，不过上次只是熬夜开车过去看日出烧烧早饭，这次真的搭帐篷过夜了 qwq\n\n到了露营场之后还在多云下小雨，云多到富士山完全看不见（<del>所以是やまなし県吗</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>）雨天搭帐篷好累累，烧了火锅就睡觉啦。\n\n早上起来看日出，日出看到了完整的富士山还是很高兴的！拍些照片烧烧剩下的火锅又收了帐篷就送他们去机场啦。开心开心\n\n（结果因为没睡够今天睡了 13h 还困困... 还好是休息日 <i class=\"custom-emoji\" emoji-src=\"emoji/6170408965306844904.webm\">😾</i>）",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "media_group_id": 14063474545285581,
     "images": [
@@ -93411,7 +93411,7 @@
     "id": 6914,
     "date": "2025-10-11T19:49:18",
     "text": "分享一例配网灵异事件\n\nsyama 来苏州在电视上一起玩 persona 3, 是 moonlight 远程连到她杭州家里的电脑上玩的，玩了几个小时之后突然直连连不上了\n\ndebug 了超级久（有五六个小时）之后，排查了这两点之间的所有设备之后，得出的结论是运营商路由表配坏了，udp ipv6 包发出不去，udp ipv4 回复进不来 🌚\n\n在路由器上抓包，测试 udp6 可以看到发送的包从杭州路由器的 wan eth 出去之后消失了，测试 udp4 可以看到回复的包从加拿大 wan eth 出去之后这边路由器完全没有看到... 从杭州 mtr -u 这边的地址也是在很近的地方就没消息了。\n\n所以现在只有 rustdesk 这个可以纯 tcp 连接的远程软件能通，moonlight 和 tailscale 都没法直连了。放弃，打算明天直接给中国移动打电话",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "media_group_id": 14081697264565341,
     "images": [
@@ -93461,7 +93461,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 273,
+    "views": 274,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -93496,7 +93496,7 @@
     "id": 6920,
     "date": "2025-10-12T11:40:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n巴沙鱼好方便呀，不需要处理还没有刺",
-    "views": 272,
+    "views": 273,
     "forwards": 1,
     "media_group_id": 14082153881624589,
     "images": [
@@ -93546,7 +93546,7 @@
     "id": 6925,
     "date": "2025-10-15T12:36:40",
     "text": "第一次注意到，小时候喜欢的中国特色番茄味薯片，在中国居然叫「墨西哥鸡汁番茄味」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n但是它引进到加拿大之后，在加拿大的包装上标了 \"flavours from China\" 并且去掉了「墨西哥」🌚",
-    "views": 214,
+    "views": 215,
     "forwards": 2,
     "media_group_id": 14084254401753285,
     "images": [
@@ -93576,7 +93576,7 @@
     "id": 6928,
     "date": "2025-10-15T15:58:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和府捞面！\n\n其实和府捞面离住的地方并不近，但是实在太想吃所以花了 ￥20 的路费打车去吃了。这家的装饰没有印象中的和府捞面好看，但是草本骨汤还是印象中的味道 qwq 如果有卖汤底包就好了\n\n吃了太多面回家直接昏睡了 4h <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n...以及发现这家店的监控屏幕上是一张静止的图，显示的是三个月前的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 奇妙",
-    "views": 212,
+    "views": 213,
     "forwards": 1,
     "media_group_id": 14084351257514173,
     "images": [
@@ -93626,13 +93626,13 @@
     "id": 6931,
     "date": "2025-10-15T19:42:27",
     "text": "你们有没有过 看一个字太久就不认识这个字了的情况 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 244,
+    "views": 245,
     "forwards": 0
   },
   {
     "id": 6932,
     "date": "2025-10-15T19:55:36",
-    "views": 241,
+    "views": 242,
     "forwards": 0,
     "files": [
       {
@@ -93657,7 +93657,7 @@
     "id": 6934,
     "date": "2025-10-16T03:45:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nPersona 3R 最后的 boss 演出配上这首曲子真的超燃！\n\n<del>烧烧我的面包</del>",
-    "views": 232,
+    "views": 233,
     "forwards": 0,
     "files": [
       {
@@ -93679,7 +93679,7 @@
     "id": 6935,
     "date": "2025-10-16T18:44:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n麻烦面",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14085122184679549,
     "images": [
@@ -93709,7 +93709,7 @@
     "id": 6937,
     "date": "2025-10-17T06:45:49",
     "text": "不再害怕演讲了！\n\n今天讲了这次实习的期末演讲，在只练习了一次的情况下居然从头到尾流畅讲完了完全没有卡顿，问题也全都有回答上！<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n现在才真正感受到自己的沟通能力真的和两年前完全不一样了",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "images": [
       {
@@ -93728,7 +93728,7 @@
     "id": 6938,
     "date": "2025-10-17T16:45:15",
     "text": "我穿越了",
-    "views": 221,
+    "views": 222,
     "forwards": 1,
     "images": [
       {
@@ -93747,7 +93747,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "media_group_id": 14085907817799589,
     "images": [
@@ -93827,7 +93827,7 @@
     "id": 6946,
     "date": "2025-10-19T15:28:33",
     "text": "服务器电源真的太吵了\n\n所以魔改了一个 thermalright 的风扇！现在完全听不到电源的风扇声音了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n（代价是原本 750W 的电源现在变成了可能是 500W 的电源 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 14087101705847709,
     "images": [
@@ -93907,7 +93907,7 @@
     "id": 6953,
     "date": "2025-10-19T15:31:16",
     "text": "新玩具增加了（？）\n\n发现拆下来的暴力风扇风量大到足以让它自己悬浮起来 <i class=\"custom-emoji\" emoji-src=\"emoji/5861517868021060371.webp\">😮</i> <span class=\"spoiler\"><span>也吵到能让我悬浮起来 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</span></span></i>",
-    "views": 265,
+    "views": 266,
     "forwards": 0,
     "reply": {
       "id": 6946,
@@ -93935,21 +93935,21 @@
     "id": 6954,
     "date": "2025-10-19T19:32:56",
     "text": "悲，和聊聊连麦打 persona 3 打了一个小时蓝屏了，并没有存档...",
-    "views": 254,
+    "views": 255,
     "forwards": 1
   },
   {
     "id": 6955,
     "date": "2025-10-20T23:47:46",
     "text": "一觉起来家里云 homelab uptime 比 AWS 高了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 241,
+    "views": 242,
     "forwards": 1
   },
   {
     "id": 6956,
     "date": "2025-10-21T03:02:09",
     "text": "好烦淘宝... 标一个超低价然后下单的时候告诉我不是这个价格 💢💢💢",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "media_group_id": 14088125831777453,
     "images": [
@@ -93999,7 +93999,7 @@
     "id": 6960,
     "date": "2025-10-21T23:39:22",
     "text": "现在网购 dropshipping 实在太严重了，以前那些「看准京东自营」之类的建议已经不适用了\n\n今天冷冷想买冬天睡衣，首先是看上了这件京东自营 ￥127，但是之后又找到了非自营的同款 ￥89。去淘宝上图片反查发现了销量高的同款 ￥48，但是还有更便宜的 ￥39 却没有什么销量。最后下载了 1688，图片反查找到了 ￥33 的卖家下单了，也许这也不是真正的货源但是足够接近了吧\n\n如果当时没有看到更低价格的同款直接买了自营的话就相当于是被骗走了 ￥90，太坏了。看来以后买东西都应该先图片反查一下 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 1,
     "media_group_id": 14088719697291549,
     "images": [
@@ -94039,7 +94039,7 @@
     "id": 6963,
     "date": "2025-10-22T01:08:58",
     "text": "CLion 的 rust 报错可视化真的好直观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "images": [
       {
@@ -94058,14 +94058,14 @@
     "id": 6964,
     "date": "2025-10-22T11:37:17",
     "text": "好冷好冷好冷 感觉一夜间从夏天变成冬天了... 现在在家里穿羽绒服",
-    "views": 216,
+    "views": 217,
     "forwards": 0
   },
   {
     "id": 6965,
     "date": "2025-10-23T12:47:22",
     "text": "hello navi\n\n<span class=\"spoiler\"><span>感觉这个天气冷的正好适合穿上毛茸茸睡衣躲在服务器机柜后面取暖 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</span></span></i>",
-    "views": 204,
+    "views": 205,
     "forwards": 3,
     "media_group_id": 14089789142979549,
     "images": [
@@ -94099,7 +94099,7 @@
     "id": 6967,
     "date": "2025-10-23T15:38:06",
     "text": "测试了一下 CP1500 的第三方墨盒，大家能看出上下两边哪边是第三方嘛？（还是挺明显的\n\n虽然说第三方比官方打 7 折的话这个效果也能算是平替了（官方每张 ￥1.62，第三方每张 ￥1.19）",
-    "views": 198,
+    "views": 199,
     "forwards": 3,
     "media_group_id": 14089871091600397,
     "images": [
@@ -94169,7 +94169,7 @@
     "id": 6973,
     "date": "2025-10-23T19:21:21",
     "text": "原来在日本人眼里 用无人机是一件和喝酒吸烟放火献花大叫摧毁设施类似的迷惑行为吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "images": [
       {
@@ -94188,7 +94188,7 @@
     "id": 6974,
     "date": "2025-10-23T20:59:12",
     "text": "谦谦换上了新买的车机之后，发现缺一根 CAN bus 线看不到倒车提示，但是线停产了哪里都买不到\n\n她原本想自己做线，下单了端子但是没有正确的工具所以没做出来，我想帮忙做线寄过去就在我这里下单了端子\n\n...结果第二天我这边材料还没到她已经有朋友帮忙做好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不过几块钱的材料也懒得退，做了两条卖掉好了。（有剥线钳和压端子钳之后做线真的超容易）",
-    "views": 193,
+    "views": 194,
     "forwards": 2,
     "media_group_id": 14090025217389645,
     "images": [
@@ -94268,7 +94268,7 @@
     "id": 6981,
     "date": "2025-10-24T07:41:55",
     "text": "今天想改改我的 blog，用 vscode 打开了我四年前的 vue 项目发现它在误报报错，即使编译完全没问题\n\n查了一下发现是 vscode 的 vue lsp 已经丢弃了 vue2 class component 语法的支持...\n\n发现 IntelliJ 的支持还在，结果就是四年后我居然再一次开始用高贵的 IntelliJ 写 vue 了",
-    "views": 219,
+    "views": 220,
     "forwards": 1,
     "images": [
       {
@@ -94287,7 +94287,7 @@
     "id": 6982,
     "date": "2025-10-24T09:14:49",
     "text": "TIL, \"vite\" 的读音并不是 /vaɪt/ 而是 /vit/... 因为这个词其实是法语",
-    "views": 268,
+    "views": 269,
     "forwards": 4,
     "images": [
       {
@@ -94306,7 +94306,7 @@
     "id": 6983,
     "date": "2025-10-24T18:09:13",
     "text": "<del>work life balance 真的有那么难吗，明明让请无薪假期就好了</del>",
-    "views": 226,
+    "views": 227,
     "forwards": 0,
     "images": [
       {
@@ -94325,14 +94325,14 @@
     "id": 6984,
     "date": "2025-10-24T19:25:37",
     "text": "选择恐惧症 启动一个项目需要做的选择都好难",
-    "views": 223,
+    "views": 224,
     "forwards": 0
   },
   {
     "id": 6985,
     "date": "2025-10-25T09:10:32",
     "text": "精通全世界所有语言的诅咒",
-    "views": 224,
+    "views": 226,
     "forwards": 2,
     "images": [
       {
@@ -94351,7 +94351,7 @@
     "id": 6986,
     "date": "2025-10-25T14:33:35",
     "text": "猫贴贴 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n今天早上出门取快递遇到了这只很黏人的猫，但是没有带食物，所以上楼取了食物又下来了，可惜再下来之后找了无数圈都找不到ta...\n\n不过晚上出门吃饭的时候又找到了！并且成功投喂了猫条 qwq",
-    "views": 218,
+    "views": 220,
     "forwards": 0,
     "files": [
       {
@@ -94374,7 +94374,7 @@
     "id": 6987,
     "date": "2025-10-26T18:04:21",
     "text": "今天有幸看了一眼 <a href=\"https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/Sony.pm\">exiftool 里处理索尼照片文件的源码</a>，实在是太 cursed 了...\n\n一个文件 11866 行，而且大部分格式解析都是 hardcode 进去的... 很难想象什么样的人能维护这样的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n所以我现在终于理解为什么大家都不支持索尼 HIF、以及为什么没有人想用 rust 重写 exiftool 了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 建议所有现在在存 HIF 的人都改成存 jpeg，这个格式真的没救",
-    "views": 226,
+    "views": 228,
     "forwards": 3,
     "images": [
       {
@@ -94393,7 +94393,7 @@
     "id": 6988,
     "date": "2025-10-26T20:56:28",
     "text": "照片的照片的照片",
-    "views": 212,
+    "views": 214,
     "forwards": 0,
     "images": [
       {
@@ -94412,7 +94412,7 @@
     "id": 6989,
     "date": "2025-10-27T11:23:01",
     "text": "给幸运路人分享照片的网页做完了！\n<a href=\"https://p.aza.moe\">https://p.aza.moe</a>\n\n第一次用<a href=\"https://github.com/hykilpikonna/corner/blob/master/src/views/Photo.vue\"> CSS view transition</a> 做了这个图片放大的效果，感觉好好用！不用再被单独出入动画能做到的效果限制了 qwq",
-    "views": 212,
+    "views": 214,
     "forwards": 3,
     "reply": {
       "id": 6754,
@@ -94439,14 +94439,14 @@
     "id": 6990,
     "date": "2025-10-28T03:15:32",
     "text": "导航：您已进入上海市嘉定区\nme：世嘉？<i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 209,
+    "views": 212,
     "forwards": 2
   },
   {
     "id": 6991,
     "date": "2025-10-29T03:16:17",
     "text": "去福冈",
-    "views": 159,
+    "views": 161,
     "forwards": 2,
     "media_group_id": 14093662217592885,
     "images": [
@@ -94556,7 +94556,7 @@
     "id": 7001,
     "date": "2025-10-29T07:12:25",
     "text": "猫猫脚印封印住的瓷器，好可爱 🐈",
-    "views": 160,
+    "views": 162,
     "forwards": 1,
     "images": [
       {
@@ -94575,7 +94575,7 @@
     "id": 7002,
     "date": "2025-10-29T13:13:27",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5278467721057541790.webp\">👩‍💻</i>\n\n<span class=\"spoiler\"><span>（说起来为什么 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5278467721057541790.webp\">👩‍💻</span></span></i><span class=\"spoiler\"><span> 读 /vjuː/ 而不是 /🤮/</span></span>",
-    "views": 132,
+    "views": 134,
     "forwards": 2,
     "images": [
       {
@@ -94594,7 +94594,7 @@
     "id": 7003,
     "date": "2025-10-29T13:23:32",
     "text": "福冈塔上的日落 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 113,
+    "views": 115,
     "forwards": 1,
     "media_group_id": 14093953702763077,
     "images": [
@@ -94709,7 +94709,7 @@
     "id": 7016,
     "date": "2025-10-29T13:33:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nふじや食堂！\n\n因为发现家人喜欢吃定食，就去谷歌地图 + tabelog 上找评价高的定食店找到了这家。跟着地图走差点走过，回头才发现这家店的位置超隐蔽，甚至没有门面... 但是好好吃！点了这家独特的酸甜+塔塔酱口味的炸鸡块也好不错诶",
-    "views": 118,
+    "views": 120,
     "forwards": 1,
     "media_group_id": 14093958653446053,
     "images": [
@@ -94789,7 +94789,7 @@
     "id": 7026,
     "date": "2025-10-30T08:50:11",
     "text": "旅行相册计划第一天\n\n发出去了三张照片 qwq",
-    "views": 139,
+    "views": 140,
     "forwards": 1,
     "media_group_id": 14094513693486397,
     "images": [
@@ -94839,14 +94839,14 @@
     "id": 7027,
     "date": "2025-10-31T12:39:00",
     "text": "呜呜...\n\n半夜开车看到了死掉的小三花猫躺在对面路上... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 107,
+    "views": 110,
     "forwards": 1
   },
   {
     "id": 7028,
     "date": "2025-10-31T13:46:40",
     "text": "躲起来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
-    "views": 90,
+    "views": 93,
     "forwards": 2,
     "images": [
       {
