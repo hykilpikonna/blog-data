@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8115,
+    "views": 8118,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -94169,7 +94169,7 @@
     "id": 6973,
     "date": "2025-10-23T19:21:21",
     "text": "原来在日本人眼里 用无人机是一件和喝酒吸烟放火献花大叫摧毁设施类似的迷惑行为吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "images": [
       {
@@ -94287,7 +94287,7 @@
     "id": 6982,
     "date": "2025-10-24T09:14:49",
     "text": "TIL, \"vite\" 的读音并不是 /vaɪt/ 而是 /vit/... 因为这个词其实是法语",
-    "views": 267,
+    "views": 268,
     "forwards": 4,
     "images": [
       {
@@ -94374,7 +94374,7 @@
     "id": 6987,
     "date": "2025-10-26T18:04:21",
     "text": "今天有幸看了一眼 <a href=\"https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/Sony.pm\">exiftool 里处理索尼照片文件的源码</a>，实在是太 cursed 了...\n\n一个文件 11866 行，而且大部分格式解析都是 hardcode 进去的... 很难想象什么样的人能维护这样的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n所以我现在终于理解为什么大家都不支持索尼 HIF、以及为什么没有人想用 rust 重写 exiftool 了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 建议所有现在在存 HIF 的人都改成存 jpeg，这个格式真的没救",
-    "views": 225,
+    "views": 226,
     "forwards": 3,
     "images": [
       {
@@ -94709,7 +94709,7 @@
     "id": 7016,
     "date": "2025-10-29T13:33:51",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nふじや食堂！\n\n因为发现家人喜欢吃定食，就去谷歌地图 + tabelog 上找评价高的定食店找到了这家。跟着地图走差点走过，回头才发现这家店的位置超隐蔽，甚至没有门面... 但是好好吃！点了这家独特的酸甜+塔塔酱口味的炸鸡块也好不错诶",
-    "views": 117,
+    "views": 118,
     "forwards": 1,
     "media_group_id": 14093958653446053,
     "images": [
@@ -94789,7 +94789,7 @@
     "id": 7026,
     "date": "2025-10-30T08:50:11",
     "text": "旅行相册计划第一天\n\n发出去了三张照片 qwq",
-    "views": 134,
+    "views": 139,
     "forwards": 1,
     "media_group_id": 14094513693486397,
     "images": [
@@ -94839,15 +94839,15 @@
     "id": 7027,
     "date": "2025-10-31T12:39:00",
     "text": "呜呜...\n\n半夜开车看到了死掉的小三花猫躺在对面路上... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 99,
-    "forwards": 0
+    "views": 107,
+    "forwards": 1
   },
   {
     "id": 7028,
     "date": "2025-10-31T13:46:40",
     "text": "躲起来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
-    "views": 78,
-    "forwards": 1,
+    "views": 90,
+    "forwards": 2,
     "images": [
       {
         "width": 1920,
