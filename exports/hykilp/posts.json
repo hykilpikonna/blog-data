@@ -17963,7 +17963,7 @@
     "id": 1403,
     "date": "2022-10-23T01:46:01",
     "text": "和聊聊搭一个巧克力万圣节小屋 qwq",
-    "views": 111,
+    "views": 112,
     "forwards": 1,
     "media_group_id": 13331916493584789,
     "images": [
@@ -70679,7 +70679,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2746,
+    "views": 2747,
     "forwards": 29,
     "images": [
       {
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8120,
+    "views": 8122,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -93942,7 +93942,7 @@
     "id": 6955,
     "date": "2025-10-20T23:47:46",
     "text": "一觉起来家里云 homelab uptime 比 AWS 高了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 242,
+    "views": 244,
     "forwards": 1
   },
   {
@@ -94268,7 +94268,7 @@
     "id": 6981,
     "date": "2025-10-24T07:41:55",
     "text": "今天想改改我的 blog，用 vscode 打开了我四年前的 vue 项目发现它在误报报错，即使编译完全没问题\n\n查了一下发现是 vscode 的 vue lsp 已经丢弃了 vue2 class component 语法的支持...\n\n发现 IntelliJ 的支持还在，结果就是四年后我居然再一次开始用高贵的 IntelliJ 写 vue 了",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "images": [
       {
@@ -94287,7 +94287,7 @@
     "id": 6982,
     "date": "2025-10-24T09:14:49",
     "text": "TIL, \"vite\" 的读音并不是 /vaɪt/ 而是 /vit/... 因为这个词其实是法语",
-    "views": 270,
+    "views": 271,
     "forwards": 4,
     "images": [
       {
@@ -94306,7 +94306,7 @@
     "id": 6983,
     "date": "2025-10-24T18:09:13",
     "text": "<del>work life balance 真的有那么难吗，明明让请无薪假期就好了</del>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "images": [
       {
@@ -94325,14 +94325,14 @@
     "id": 6984,
     "date": "2025-10-24T19:25:37",
     "text": "选择恐惧症 启动一个项目需要做的选择都好难",
-    "views": 225,
+    "views": 226,
     "forwards": 0
   },
   {
     "id": 6985,
     "date": "2025-10-25T09:10:32",
     "text": "精通全世界所有语言的诅咒",
-    "views": 226,
+    "views": 227,
     "forwards": 2,
     "images": [
       {
@@ -94351,7 +94351,7 @@
     "id": 6986,
     "date": "2025-10-25T14:33:35",
     "text": "猫贴贴 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n今天早上出门取快递遇到了这只很黏人的猫，但是没有带食物，所以上楼取了食物又下来了，可惜再下来之后找了无数圈都找不到ta...\n\n不过晚上出门吃饭的时候又找到了！并且成功投喂了猫条 qwq",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "files": [
       {
@@ -94374,7 +94374,7 @@
     "id": 6987,
     "date": "2025-10-26T18:04:21",
     "text": "今天有幸看了一眼 <a href=\"https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/Sony.pm\">exiftool 里处理索尼照片文件的源码</a>，实在是太 cursed 了...\n\n一个文件 11866 行，而且大部分格式解析都是 hardcode 进去的... 很难想象什么样的人能维护这样的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n所以我现在终于理解为什么大家都不支持索尼 HIF、以及为什么没有人想用 rust 重写 exiftool 了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 建议所有现在在存 HIF 的人都改成存 jpeg，这个格式真的没救",
-    "views": 229,
+    "views": 230,
     "forwards": 3,
     "images": [
       {
@@ -94393,7 +94393,7 @@
     "id": 6988,
     "date": "2025-10-26T20:56:28",
     "text": "照片的照片的照片",
-    "views": 214,
+    "views": 215,
     "forwards": 0,
     "images": [
       {
@@ -94412,7 +94412,7 @@
     "id": 6989,
     "date": "2025-10-27T11:23:01",
     "text": "给幸运路人分享照片的网页做完了！\n<a href=\"https://p.aza.moe\">https://p.aza.moe</a>\n\n第一次用<a href=\"https://github.com/hykilpikonna/corner/blob/master/src/views/Photo.vue\"> CSS view transition</a> 做了这个图片放大的效果，感觉好好用！不用再被单独出入动画能做到的效果限制了 qwq",
-    "views": 215,
+    "views": 216,
     "forwards": 3,
     "reply": {
       "id": 6754,
@@ -94439,14 +94439,14 @@
     "id": 6990,
     "date": "2025-10-28T03:15:32",
     "text": "导航：您已进入上海市嘉定区\nme：世嘉？<i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 213,
+    "views": 214,
     "forwards": 2
   },
   {
     "id": 6991,
     "date": "2025-10-29T03:16:17",
     "text": "去福冈",
-    "views": 162,
+    "views": 163,
     "forwards": 2,
     "media_group_id": 14093662217592885,
     "images": [
@@ -94789,7 +94789,7 @@
     "id": 7026,
     "date": "2025-10-30T08:50:11",
     "text": "旅行相册计划第一天\n\n发出去了三张照片 qwq",
-    "views": 144,
+    "views": 145,
     "forwards": 1,
     "media_group_id": 14094513693486397,
     "images": [
@@ -94839,14 +94839,14 @@
     "id": 7027,
     "date": "2025-10-31T12:39:00",
     "text": "呜呜...\n\n半夜开车看到了死掉的小三花猫躺在对面路上... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 1
   },
   {
     "id": 7028,
     "date": "2025-10-31T13:46:40",
     "text": "躲起来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 2,
     "images": [
       {
