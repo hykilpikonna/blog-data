@@ -69428,7 +69428,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 229,
+    "views": 230,
     "forwards": 2,
     "images": [
       {
@@ -73963,7 +73963,7 @@
     "id": 5351,
     "date": "2025-05-11T13:57:48",
     "text": "今天下午约天文姐姐和 <a href=\"https://t.me/ArakawaHideki\">@ArakawaHideki</a> 和 <a href=\"https://t.me/petergu8022\">@petergu8022</a> 去逛了秋葉原，那里在举行两年一度的神田祭，超热闹！\n\n还一起逛了电子零件市场，感觉小学的回忆里中关村电子城衰落之前最繁华的时候就是这样的...好怀念。\n\n也理解了动画里那些天才工程师小孩子都不是夸大，有这些店在这里的话确实能很方便搓出想要的东西。比如如果我想买微动做街机手台的话，比起淘宝下单等三天送到再退，直接来店里摸实物确认手感真的方便太多太多\n\n然后看到了超大 fufu 合了影，进去买了一只 mafufu（面无表情的表情超可爱！！！\n\n晚上约了谦谦和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和 <a href=\"https://t.me/Dimensionlez\">@Dimensionlez</a> 也一起过来吃自助烧鸟，听他们六个人聊了一晚上学术和工作的事情感觉日本好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n（与此同时有一只完熟芒果因为不自量力地喝了鸡尾酒头晕去旁边躺躺了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> <span class=\"spoiler\"><span>小桂桂只有面 <3 个人的时候不会变成完熟芒果</span></span>",
-    "views": 348,
+    "views": 349,
     "forwards": 16,
     "media_group_id": 13975774948467493,
     "images": [
@@ -85392,7 +85392,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8141,
+    "views": 8142,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -95475,7 +95475,7 @@
     "id": 7085,
     "date": "2025-11-03T23:35:20",
     "text": "家人在看新闻，我也跟着看\n\n我：トップタ（Topta）是什么\nマ： ...\nマ：トップ（Top）、夕食（ゆうしょく）会\n\n原本没睡醒，直接笑醒了",
-    "views": 124,
+    "views": 125,
     "forwards": 2,
     "images": [
       {
@@ -95494,7 +95494,7 @@
     "id": 7086,
     "date": "2025-11-03T23:56:35",
     "text": "我：在想，要不要给这些贝壳找一个容器\nマ：要不要给 shell 开一个 container",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -95513,7 +95513,7 @@
     "id": 7087,
     "date": "2025-11-04T00:44:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>和マモル一起做爱心早餐</del>\n\n是鸡蛋面包和豚汁，还有昨天的豚骨拌面",
-    "views": 114,
+    "views": 115,
     "forwards": 1,
     "media_group_id": 14097736390503277,
     "images": [
