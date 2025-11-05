@@ -46177,7 +46177,7 @@
     "id": 3396,
     "date": "2024-02-23T23:19:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n又是一首 maimai 里面的曲子，听这首真的感觉像是机器人在说话，即使没有歌词也像是能听到贝斯在唱 「Round round, spinning around」 quq",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "files": [
       {
@@ -46199,14 +46199,14 @@
     "id": 3397,
     "date": "2024-02-23T23:49:29",
     "text": "<del>为什么听东方的曲子会让我想玩 maimai 而不是想玩东方</del>",
-    "views": 99,
+    "views": 100,
     "forwards": 0
   },
   {
     "id": 3398,
     "date": "2024-02-24T02:24:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nMe: mom can we have 双层麦香鱼?\nMom: we have 双层麦香鱼 at home!\n双层麦香鱼 at home:",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -46225,7 +46225,7 @@
     "id": 3399,
     "date": "2024-02-24T04:47:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♫ 楽しい歌歌いましょ\n♫ 楽しい歌歌いましょ\n♫ 嫌なことは忘れて\n\n欢乐 qwq",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "files": [
       {
@@ -46326,7 +46326,7 @@
     "id": 3406,
     "date": "2024-02-26T06:08:45",
     "text": "今天把 <a href=\"##AquaNet\">#AquaNet</a> 后端的请求验证写好啦！\n\n因为官方的游戏客户端给用户提交数据的时候并没有做登录验证也没有做机器验证，所以在这之前只要暴露了你的卡号别人就可以随便发请求改你的数据。\n\n今天做的请求验证实现方式是，机器 PowerOn 的时候验证 Keychip ID，给每个人的游戏返回一个独特的随机 URL 比如 `/gs/{token}/mai2/endpoint`，这样就可以不用担心熊孩子发的恶意请求追踪不到了！\n\n（不过还需要想办法解决 MITM 的问题... 毕竟街机用的是没加密的 HTTP 80 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
@@ -46345,7 +46345,7 @@
     "id": 3407,
     "date": "2024-02-26T08:55:01",
     "text": "<del>好想喝鲸鱼奶（？）</del>",
-    "views": 99,
+    "views": 100,
     "forwards": 0
   },
   {
@@ -81393,7 +81393,7 @@
     "id": 5934,
     "date": "2025-07-22T15:43:21",
     "text": "设计了一件 T，打算定制出来\n\n只要用 T 恤声明自己 KY 就不怕别人嫌我 KY 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 251,
+    "views": 252,
     "forwards": 4,
     "images": [
       {
@@ -83234,7 +83234,7 @@
     "id": 6085,
     "date": "2025-08-03T07:12:37",
     "text": "收到了<span class=\"spoiler\"><span>时隔两周的</span></span>返图！是兼六园桥上的 Abbey Road <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> \n\n（摄影 credit: 半喵）",
-    "views": 314,
+    "views": 315,
     "forwards": 2,
     "reply": {
       "id": 5949,
@@ -86745,7 +86745,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 396,
+    "views": 397,
     "forwards": 7,
     "images": [
       {
@@ -89732,7 +89732,7 @@
     "id": 6602,
     "date": "2025-09-17T01:57:29",
     "text": "menci 和我抱怨 kt 没有 [a, b] 和 {a: b} 的语法，每次都要写 mapOf(a to b) 好长好不顺手\n\n我立即写宏实现了这个东西 qwq\n\n我最喜欢 kt 就是因为它自由，如果有不喜欢的语法只要自己用宏定义新的语法就行了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 261,
+    "views": 262,
     "forwards": 2,
     "images": [
       {
@@ -94039,7 +94039,7 @@
     "id": 6963,
     "date": "2025-10-22T01:08:58",
     "text": "CLion 的 rust 报错可视化真的好直观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 1,
     "images": [
       {
@@ -94058,14 +94058,14 @@
     "id": 6964,
     "date": "2025-10-22T11:37:17",
     "text": "好冷好冷好冷 感觉一夜间从夏天变成冬天了... 现在在家里穿羽绒服",
-    "views": 226,
+    "views": 227,
     "forwards": 0
   },
   {
     "id": 6965,
     "date": "2025-10-23T12:47:22",
     "text": "hello navi\n\n<span class=\"spoiler\"><span>感觉这个天气冷的正好适合穿上毛茸茸睡衣躲在服务器机柜后面取暖 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</span></span></i>",
-    "views": 215,
+    "views": 216,
     "forwards": 3,
     "media_group_id": 14089789142979549,
     "images": [
@@ -94099,7 +94099,7 @@
     "id": 6967,
     "date": "2025-10-23T15:38:06",
     "text": "测试了一下 CP1500 的第三方墨盒，大家能看出上下两边哪边是第三方嘛？（还是挺明显的\n\n虽然说第三方比官方打 7 折的话这个效果也能算是平替了（官方每张 ￥1.62，第三方每张 ￥1.19）",
-    "views": 210,
+    "views": 211,
     "forwards": 3,
     "media_group_id": 14089871091600397,
     "images": [
@@ -94169,7 +94169,7 @@
     "id": 6973,
     "date": "2025-10-23T19:21:21",
     "text": "原来在日本人眼里 用无人机是一件和喝酒吸烟放火献花大叫摧毁设施类似的迷惑行为吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "images": [
       {
@@ -94188,7 +94188,7 @@
     "id": 6974,
     "date": "2025-10-23T20:59:12",
     "text": "谦谦换上了新买的车机之后，发现缺一根 CAN bus 线看不到倒车提示，但是线停产了哪里都买不到\n\n她原本想自己做线，下单了端子但是没有正确的工具所以没做出来，我想帮忙做线寄过去就在我这里下单了端子\n\n...结果第二天我这边材料还没到她已经有朋友帮忙做好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不过几块钱的材料也懒得退，做了两条卖掉好了。（有剥线钳和压端子钳之后做线真的超容易）",
-    "views": 203,
+    "views": 204,
     "forwards": 2,
     "media_group_id": 14090025217389645,
     "images": [
@@ -94306,7 +94306,7 @@
     "id": 6983,
     "date": "2025-10-24T18:09:13",
     "text": "<del>work life balance 真的有那么难吗，明明让请无薪假期就好了</del>",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "images": [
       {
@@ -94325,14 +94325,14 @@
     "id": 6984,
     "date": "2025-10-24T19:25:37",
     "text": "选择恐惧症 启动一个项目需要做的选择都好难",
-    "views": 245,
+    "views": 246,
     "forwards": 0
   },
   {
     "id": 6985,
     "date": "2025-10-25T09:10:32",
     "text": "精通全世界所有语言的诅咒",
-    "views": 242,
+    "views": 243,
     "forwards": 2,
     "images": [
       {
@@ -94351,7 +94351,7 @@
     "id": 6986,
     "date": "2025-10-25T14:33:35",
     "text": "猫贴贴 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n今天早上出门取快递遇到了这只很黏人的猫，但是没有带食物，所以上楼取了食物又下来了，可惜再下来之后找了无数圈都找不到ta...\n\n不过晚上出门吃饭的时候又找到了！并且成功投喂了猫条 qwq",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "files": [
       {
@@ -95430,7 +95430,7 @@
     "id": 7082,
     "date": "2025-11-03T03:54:05",
     "text": "<del>圣地巡礼之「おても☆Yan」</del>",
-    "views": 149,
+    "views": 151,
     "forwards": 1,
     "media_group_id": 14097136363403237,
     "images": [
@@ -95475,7 +95475,7 @@
     "id": 7085,
     "date": "2025-11-03T23:35:20",
     "text": "家人在看新闻，我也跟着看\n\n我：トップタ（Topta）是什么\nマ： ...\nマ：トップ（Top）、夕食（ゆうしょく）会\n\n原本没睡醒，直接笑醒了",
-    "views": 131,
+    "views": 132,
     "forwards": 2,
     "images": [
       {
@@ -95494,7 +95494,7 @@
     "id": 7086,
     "date": "2025-11-03T23:56:35",
     "text": "我：在想，要不要给这些贝壳找一个容器\nマ：要不要给 shell 开一个 container",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "images": [
       {
@@ -95513,7 +95513,7 @@
     "id": 7087,
     "date": "2025-11-04T00:44:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>和マモル一起做爱心早餐</del>\n\n是鸡蛋面包和豚汁，还有昨天的豚骨拌面",
-    "views": 126,
+    "views": 128,
     "forwards": 1,
     "media_group_id": 14097736390503277,
     "images": [
@@ -95553,7 +95553,7 @@
     "id": 7090,
     "date": "2025-11-04T22:55:23",
     "text": "这次去九州专门去找到了几个很不一样的神社！好喜欢现代简约风格的神社 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n是福冈的鸟飼八番宫、太宰府天满宫、还有宝满宫竈門神社",
-    "views": 61,
+    "views": 65,
     "forwards": 0,
     "media_group_id": 14098375388682725,
     "images": [
@@ -95663,7 +95663,7 @@
     "id": 7100,
     "date": "2025-11-04T23:18:01",
     "text": "假装自己在看樱花",
-    "views": 65,
+    "views": 70,
     "forwards": 0,
     "media_group_id": 14098386254206325,
     "images": [
