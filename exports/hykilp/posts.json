@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 477,
+    "views": 478,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5706,
+    "views": 5707,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6303,
+    "views": 6306,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8154,
+    "views": 8157,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 453,
+    "views": 455,
     "forwards": 7,
     "images": [
       {
@@ -95784,7 +95784,7 @@
     "id": 7109,
     "date": "2025-11-06T00:26:18",
     "text": "好好笑。\n\n去高松的栗林公园，路边这个纸桶原本是<span class=\"spoiler\"><span>高松</span></span>灯，工作人员怕下雨把灯泡浇坏就盖上了一次性杯子，然后有人看到了一次性杯子以为是垃圾就扔了其他垃圾进去，然后其他人看到有人扔了垃圾就以为这些全都是垃圾桶了在其他的灯里面也扔了垃圾 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 144,
+    "views": 145,
     "forwards": 3,
     "media_group_id": 14099110225811453,
     "images": [
@@ -95814,7 +95814,7 @@
     "id": 7111,
     "date": "2025-11-06T03:46:04",
     "text": "栗林公园！\n\n因为从旅店出门忘记带相机用手机拍了拍，然后发现太习惯变焦已经不会用定焦拍照了...",
-    "views": 126,
+    "views": 127,
     "forwards": 1,
     "media_group_id": 14099206112371293,
     "images": [
@@ -95929,7 +95929,7 @@
     "id": 7121,
     "date": "2025-11-06T05:44:21",
     "text": "谷歌地图 😇\n\n即使我走了正确的路走到了之后依然在尝试给我导航到错误的路",
-    "views": 123,
+    "views": 124,
     "forwards": 1,
     "media_group_id": 14099262893963693,
     "images": [
@@ -95979,7 +95979,7 @@
     "id": 7125,
     "date": "2025-11-06T05:58:07",
     "text": "四国最北端\n\n...高潮对策所以关上了（？）<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14099269500648285,
     "images": [
@@ -96089,7 +96089,7 @@
     "id": 7135,
     "date": "2025-11-06T07:10:59",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n杂旅圣地之乌冬山田家",
-    "views": 118,
+    "views": 121,
     "forwards": 0,
     "media_group_id": 14099304474643445,
     "images": [
@@ -96169,14 +96169,14 @@
     "id": 7142,
     "date": "2025-11-06T10:12:55",
     "text": "总是分不清う和ラ\n\n：ラどん\n：うーメン",
-    "views": 102,
+    "views": 104,
     "forwards": 2
   },
   {
     "id": 7143,
     "date": "2025-11-07T10:38:39",
     "text": "...?",
-    "views": 89,
+    "views": 95,
     "forwards": 1,
     "images": [
       {
@@ -96195,8 +96195,8 @@
     "id": 7144,
     "date": "2025-11-07T11:03:49",
     "text": "旅店的睡衣\n\n...回到日本这几天吃胖了",
-    "views": 78,
-    "forwards": 3,
+    "views": 86,
+    "forwards": 4,
     "images": [
       {
         "width": 1749,
@@ -96214,7 +96214,7 @@
     "id": 7145,
     "date": "2025-11-07T11:33:39",
     "text": "和マモル一起玩的最后一天去了四国水族馆！坐下来和海豚一起看着太阳落下去好治愈\n\n...结果看了太久日落海豚导致留给本馆只下剩一小时，匆匆忙忙看完了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170285716925319156.webm\">😖</i>",
-    "views": 61,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 14100121758772333,
     "images": [
