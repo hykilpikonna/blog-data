@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7387,
+    "views": 7388,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -21175,7 +21175,7 @@
     "id": 1616,
     "date": "2022-12-18T04:59:00",
     "text": "为了庆祝放假和我们的快一周年聊聊拉我去坐了船w\n\n然后发现这种船上的餐厅真的完全没有坐船的感觉哇... 感觉更像是换了一张壁纸在室内吃饭跳舞，也不是很能体会到这种被商业化的浪漫，不是很喜欢。比起在安大略湖上转圈圈吃饭，我更想要试试夏天去找一个小河抓鱼 qwq\n\n到后面我甚至无聊到开始在手上乱涂乱画了，想起上一次在手上乱画还是在高中天主教学校每周一小时的弥撒时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n不过被聊聊拉出来玩还是好开心的，好久没有去过学校和家以外的地方了",
-    "views": 89,
+    "views": 90,
     "forwards": 3,
     "media_group_id": 13370716325848253,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6308,
+    "views": 6309,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8160,
+    "views": 8163,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 473,
+    "views": 474,
     "forwards": 7,
     "images": [
       {
@@ -95476,7 +95476,7 @@
     "id": 7085,
     "date": "2025-11-03T23:35:20",
     "text": "家人在看新闻，我也跟着看\n\n我：トップタ（Topta）是什么\nマ： ...\nマ：トップ（Top）、夕食（ゆうしょく）会\n\n原本没睡醒，直接笑醒了",
-    "views": 188,
+    "views": 189,
     "forwards": 3,
     "images": [
       {
@@ -95814,7 +95814,7 @@
     "id": 7111,
     "date": "2025-11-06T03:46:04",
     "text": "栗林公园！\n\n因为从旅店出门忘记带相机用手机拍了拍，然后发现太习惯变焦已经不会用定焦拍照了...",
-    "views": 133,
+    "views": 134,
     "forwards": 1,
     "media_group_id": 14099206112371293,
     "images": [
@@ -95929,7 +95929,7 @@
     "id": 7121,
     "date": "2025-11-06T05:44:21",
     "text": "谷歌地图 😇\n\n即使我走了正确的路走到了之后依然在尝试给我导航到错误的路",
-    "views": 129,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 14099262893963693,
     "images": [
@@ -95979,7 +95979,7 @@
     "id": 7125,
     "date": "2025-11-06T05:58:07",
     "text": "四国最北端\n\n...高潮对策所以关上了（？）<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 136,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 14099269500648285,
     "images": [
@@ -96089,7 +96089,7 @@
     "id": 7135,
     "date": "2025-11-06T07:10:59",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n杂旅圣地之乌冬山田家",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 14099304474643445,
     "images": [
@@ -96169,14 +96169,14 @@
     "id": 7142,
     "date": "2025-11-06T10:12:55",
     "text": "总是分不清う和ラ\n\n：ラどん\n：うーメン",
-    "views": 117,
+    "views": 120,
     "forwards": 2
   },
   {
     "id": 7143,
     "date": "2025-11-07T10:38:39",
     "text": "...?",
-    "views": 122,
+    "views": 125,
     "forwards": 1,
     "images": [
       {
@@ -96195,7 +96195,7 @@
     "id": 7144,
     "date": "2025-11-07T11:03:49",
     "text": "旅店的睡衣\n\n...回到日本这几天吃胖了",
-    "views": 118,
+    "views": 120,
     "forwards": 5,
     "images": [
       {
@@ -96214,7 +96214,7 @@
     "id": 7145,
     "date": "2025-11-07T11:33:39",
     "text": "和マモル一起玩的最后一天去了四国水族馆！坐下来和海豚一起看着太阳落下去好治愈\n\n...结果看了太久日落海豚导致留给本馆只下剩一小时，匆匆忙忙看完了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170285716925319156.webm\">😖</i>",
-    "views": 113,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 14100121758772333,
     "images": [
@@ -96324,7 +96324,7 @@
     "id": 7157,
     "date": "2025-11-08T11:54:14",
     "text": "第一次住和房东分房间的那种 airbnb\n\n房东老奶奶超厉害，是日本人，主业是做音乐，日语中文英文都会说，然后入住的时候我们都是三种语言无缝融合居然还能听懂对方在说什么... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好奇妙",
-    "views": 79,
+    "views": 94,
     "forwards": 0,
     "media_group_id": 14100822831808557,
     "images": [
@@ -96374,7 +96374,7 @@
     "id": 7161,
     "date": "2025-11-08T13:33:29",
     "text": "<del>想要买瓶无酒精啤酒边喝边开车</del>",
-    "views": 54,
+    "views": 78,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
