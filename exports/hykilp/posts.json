@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6320,
+    "views": 6321,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 497,
+    "views": 498,
     "forwards": 11,
     "images": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8201,
+    "views": 8202,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 381,
+    "views": 382,
     "forwards": 7,
     "files": [
       {
@@ -94956,7 +94956,7 @@
     "id": 7036,
     "date": "2025-11-01T22:24:26",
     "text": "昨天去了左贺城和熊本城！\n\n虽然都是不久之前重建的城，但是左贺城的内部装修更还原一些，感觉是佐贺藩主穿越到现在也依然可以住的地方。相比的话，熊本城内部已经完全变成博物馆和观光景点了，完全没有了原本作为住所的生活气息",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 14096286930463029,
     "images": [
@@ -95476,7 +95476,7 @@
     "id": 7085,
     "date": "2025-11-03T23:35:20",
     "text": "家人在看新闻，我也跟着看\n\n我：トップタ（Topta）是什么\nマ： ...\nマ：トップ（Top）、夕食（ゆうしょく）会\n\n原本没睡醒，直接笑醒了",
-    "views": 206,
+    "views": 207,
     "forwards": 3,
     "images": [
       {
@@ -95784,7 +95784,7 @@
     "id": 7109,
     "date": "2025-11-06T00:26:18",
     "text": "好好笑。\n\n去高松的栗林公园，路边这个纸桶原本是<span class=\"spoiler\"><span>高松</span></span>灯，工作人员怕下雨把灯泡浇坏就盖上了一次性杯子，然后有人看到了一次性杯子以为是垃圾就扔了其他垃圾进去，然后其他人看到有人扔了垃圾就以为这些全都是垃圾桶了在其他的灯里面也扔了垃圾 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 180,
+    "views": 181,
     "forwards": 3,
     "media_group_id": 14099110225811453,
     "images": [
@@ -95814,7 +95814,7 @@
     "id": 7111,
     "date": "2025-11-06T03:46:04",
     "text": "栗林公园！\n\n因为从旅店出门忘记带相机用手机拍了拍，然后发现太习惯变焦已经不会用定焦拍照了...",
-    "views": 171,
+    "views": 172,
     "forwards": 1,
     "media_group_id": 14099206112371293,
     "images": [
@@ -96169,14 +96169,14 @@
     "id": 7142,
     "date": "2025-11-06T10:12:55",
     "text": "总是分不清う和ラ\n\n：ラどん\n：うーメン",
-    "views": 172,
+    "views": 174,
     "forwards": 2
   },
   {
     "id": 7143,
     "date": "2025-11-07T10:38:39",
     "text": "...?",
-    "views": 183,
+    "views": 185,
     "forwards": 1,
     "images": [
       {
@@ -96195,7 +96195,7 @@
     "id": 7144,
     "date": "2025-11-07T11:03:49",
     "text": "旅店的睡衣\n\n...回到日本这几天吃胖了",
-    "views": 182,
+    "views": 185,
     "forwards": 5,
     "images": [
       {
@@ -96214,7 +96214,7 @@
     "id": 7145,
     "date": "2025-11-07T11:33:39",
     "text": "和マモル一起玩的最后一天去了四国水族馆！坐下来和海豚一起看着太阳落下去好治愈\n\n...结果看了太久日落海豚导致留给本馆只下剩一小时，匆匆忙忙看完了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170285716925319156.webm\">😖</i>",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "media_group_id": 14100121758772333,
     "images": [
@@ -96324,7 +96324,7 @@
     "id": 7157,
     "date": "2025-11-08T11:54:14",
     "text": "第一次住和房东分房间的那种 airbnb\n\n房东老奶奶超厉害，是日本人，主业是做音乐，日语中文英文都会说，然后入住的时候我们都是三种语言无缝融合居然还能听懂对方在说什么... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好奇妙",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "media_group_id": 14100822831808557,
     "images": [
@@ -96374,7 +96374,7 @@
     "id": 7161,
     "date": "2025-11-08T13:33:29",
     "text": "<del>想要买瓶无酒精啤酒边喝边开车</del>",
-    "views": 203,
+    "views": 205,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -96385,7 +96385,7 @@
     "id": 7162,
     "date": "2025-11-09T01:54:23",
     "text": "看脚步就能看出是不是游客的地方",
-    "views": 196,
+    "views": 197,
     "forwards": 0,
     "files": [
       {
@@ -96407,7 +96407,7 @@
     "id": 7163,
     "date": "2025-11-09T03:37:20",
     "text": "<a href=\"##琪露诺的常识教室\">#琪露诺的常识教室</a>\n众所周知，门槛象征着前行路上的障碍与挑战。​勇敢地<b>踩上</b>门槛，代表着直面困难的决心，有“脚踏实地、事事有成”的祈福之意。​相反，选择<b>跨过</b>门槛，则被视为一种逃避困难的姿态，自然也就失去了祈福的效果\n\n​因此，内行的本地人都会选择踩上去，而不明就里的游客们反而会小心翼翼地跨过去 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 204,
+    "views": 205,
     "forwards": 2,
     "reply": {
       "id": 7162,
@@ -96418,7 +96418,7 @@
     "id": 7164,
     "date": "2025-11-09T10:16:02",
     "text": "精品神药.jpg",
-    "views": 207,
+    "views": 208,
     "forwards": 2,
     "images": [
       {
@@ -96437,7 +96437,7 @@
     "id": 7165,
     "date": "2025-11-10T21:57:27",
     "text": "去了猫猫神社和猫猫寺！（猫猫寺读作にゃんにゃんじ好可爱）\n\n感觉猫猫寺更像是一个猫猫主题的艺术展，收藏了各种形式各种风格的猫猫作品，还挺喜欢的。出门的时候还在附近发现了猫（似乎是店长在散养的）\n\n想起之前去伏見稲荷也看到了猫，似乎是定居在某个小神社上的，隔了三个月的两次参拜它都在\n\n感觉日本村里这种把猫养在门外/后院的形式好不错呀，既可以养猫也不用担心猫踩坏榻榻米 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14102494778546509,
     "images": [
@@ -96547,7 +96547,7 @@
     "id": 7175,
     "date": "2025-11-11T04:54:45",
     "text": "后续：第三方墨盒坏掉了\n\n用第三方墨盒和相纸卡了两次纸。第一次是在出发之前，关机拽一下修好了。第二次墨盒的卡带直接断掉了，完全不能用了，还有塑料膜碎片卡在打印机里费了很大力气才取出来\n\n还好这次有预料到第三方墨盒可能会坏所以带了备份... 以后还是不省钱买官方墨盒好了。",
-    "views": 175,
+    "views": 177,
     "forwards": 0,
     "media_group_id": 14102695080994973,
     "images": [
@@ -96592,21 +96592,21 @@
     "id": 7178,
     "date": "2025-11-11T05:44:11",
     "text": "咖啡因好讨厌... 喝完觉得头晕晕的，又不舒服，想睡又睡不着\n\n原本觉得要开 8h 车就喝了「川」能量饮料，现在已经在后悔了",
-    "views": 171,
+    "views": 173,
     "forwards": 1
   },
   {
     "id": 7179,
     "date": "2025-11-11T09:53:02",
     "text": "开了 4h 车，还要开 5h，好累",
-    "views": 157,
+    "views": 160,
     "forwards": 0
   },
   {
     "id": 7180,
     "date": "2025-11-11T13:49:49",
     "text": "今天是 k-on 梓喵的生日！早上和 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起去立豊郷小学校进行了圣地巡礼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n学校从建筑布局到气氛都和动画里面完全一样哇，回想起来了不少第一次看 k-on 的时候的回忆\n\n以及看到了梓喵给其他人写的笔记，还有来参拜的大家留下的留言，都好温馨 qwq",
-    "views": 144,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 14102951917738565,
     "images": [
@@ -96716,7 +96716,7 @@
     "id": 7190,
     "date": "2025-11-11T13:54:17",
     "text": "以及这里摆了好多物理照片、画、放课后茶具，还有和动画里完全一样的真实乐器。有牌子说这些都是 fan 捐赠的，厨力好厉害",
-    "views": 145,
+    "views": 147,
     "forwards": 0,
     "media_group_id": 14102954057677269,
     "images": [
@@ -96796,7 +96796,7 @@
     "id": 7197,
     "date": "2025-11-11T13:55:44",
     "text": "偷跑",
-    "views": 166,
+    "views": 169,
     "forwards": 0,
     "forwarded_from": {
       "name": "Amia on the Roof"
@@ -96818,7 +96818,7 @@
     "id": 7198,
     "date": "2025-11-11T13:57:16",
     "text": "继续开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i> 还有 2h",
-    "views": 166,
+    "views": 169,
     "forwards": 0,
     "reply": {
       "id": 7179,
@@ -96829,7 +96829,7 @@
     "id": 7199,
     "date": "2025-11-11T16:21:23",
     "text": "终于回到九州了！\n\n开车累死了，整次旅途总共开了 3006 km 的车，其中今天的路就占了 776 km。<del>下次长途旅行一定要买一个 openpilot comma 装上再走</del>",
-    "views": 182,
+    "views": 185,
     "forwards": 1,
     "media_group_id": 14103024670017541,
     "images": [
@@ -96859,7 +96859,7 @@
     "id": 7201,
     "date": "2025-11-12T02:13:17",
     "text": "凌晨两点到福冈但是早上九点才能还车，想找地方睡睡，但是旅店贵贵，怎么办呢？\n\n想起来以前听日本人说网吧可以睡，就找了一个「快活 CLUB」订了房间，里面有床垫和皮枕头，六小时只要 JP￥2700 还有免费停车\n\n不过并没有睡好，因为太冷了也没有暖气，盖了六层免费大浴巾依然很冷，用电脑进行了一下传统艺能之 CPU-Z 取暖但是依然不太够... 看来冷天不太适合在网吧睡觉呢\n\n不太懂这里的目标客户是什么样的人，虽然有可以免费使用的游戏手柄但是 i5 14400 真的能带动什么游戏吗？而且只是用来看视频刷网页的话很便宜的笔记本也都能做到... 不理解\n\n不过确实是很万能的空间，有免费的饮料、浴室、漫画动画电影、唱歌房间之类的，如果不睡觉的话也许确实也不错",
-    "views": 176,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 14103308780407717,
     "images": [
@@ -96899,14 +96899,14 @@
     "id": 7204,
     "date": "2025-11-12T02:16:44",
     "text": "（在等登机，整理下照片补一下这两天的回忆 qwq）",
-    "views": 191,
+    "views": 195,
     "forwards": 0
   },
   {
     "id": 7206,
     "date": "2025-11-12T05:05:06",
     "text": "离开的飞机上拍到了左贺城迹！（这一圈水辨识度太高了",
-    "views": 196,
+    "views": 201,
     "forwards": 0,
     "media_group_id": 14103391249391061,
     "images": [
@@ -96941,7 +96941,7 @@
     "id": 7208,
     "date": "2025-11-12T09:13:47",
     "text": "felica 数量增加了",
-    "views": 192,
+    "views": 199,
     "forwards": 3,
     "images": [
       {
@@ -96960,7 +96960,7 @@
     "id": 7209,
     "date": "2025-11-12T11:12:15",
     "text": "呜呜... NASA 的 Scientific Visualization Studio 停更了",
-    "views": 184,
+    "views": 199,
     "forwards": 1,
     "images": [
       {
@@ -96979,7 +96979,7 @@
     "id": 7210,
     "date": "2025-11-12T15:42:32",
     "text": "好炫酷",
-    "views": 181,
+    "views": 188,
     "forwards": 0,
     "files": [
       {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1249,
+    "views": 1261,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97025,7 +97025,7 @@
     "id": 7212,
     "date": "2025-11-13T00:13:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100472337788835057.webp\">🌖</i> 228° <span class=\"spoiler\"><span>（11 月 10 日）</span></span>\n\n让白猫 <a href=\"https://t.me/omiashi\">@omiashi</a> 带我一起去了カラオケ🎤！是我第一次去カラオケ，三个小时只花了 JP￥1000 好便宜，唱了好多歌，唱到嗓子疼了才离开 <i class=\"custom-emoji\" emoji-src=\"emoji/5443069078501598457.tgs\">🎤</i>\n\n感觉唱歌还是好难呀。虽然音准我有绝对自信，但是读平仮名的速度还完全不行，稍微快一点就跟不上了... 现在大概「きんぎょの夢」这首歌是我读假名能跟上的最快速度\n\n以及白猫唱歌声音好好听，音域也好广，我唱不上去的音高她也能很轻松唱出来的样子... 听得我也想去找声乐老师练声音了\n\n以及今天摸到了真的カラオケ机器才发现家里的 Apple TV 的カラオケ模式缺好多功能。去人声、主旋律辅助、用手机点歌、点歌的时候的音域预览 & 升降调、变速、用振り仮名 / romaji 显示歌词、播放 MV、能给唱歌打分的音游模式... 原来カラオケ系统这么复杂",
-    "views": 206,
+    "views": 211,
     "forwards": 3,
     "media_group_id": 14103942424718133,
     "images": [
@@ -97075,7 +97075,7 @@
     "id": 7216,
     "date": "2025-11-13T05:34:48",
     "text": "好过分，上传 9TB 的 Power User 甚至还在做种的账号就这样被删了",
-    "views": 197,
+    "views": 202,
     "forwards": 2,
     "media_group_id": 14104096703673109,
     "images": [
@@ -97105,14 +97105,14 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 594,
-    "forwards": 9
+    "views": 610,
+    "forwards": 10
   },
   {
     "id": 7219,
     "date": "2025-11-14T01:17:26",
     "text": "上上次写 python 写出 segfault\n上次写 C# 写出 segfault\n这次写网页 ts 都能写出 segfault\n谁懂啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 170,
+    "views": 179,
     "forwards": 1,
     "reply": {
       "id": 4950,
@@ -97136,7 +97136,7 @@
     "id": 7220,
     "date": "2025-11-15T02:13:30",
     "text": "因为配不好 wayland 一直在用 x11，更新一下系统发现登录之后黑屏进不去，抓半天虫虫发现是 x11 不被 gnome 支持了... 好生气",
-    "views": 127,
+    "views": 144,
     "forwards": 0,
     "images": [
       {
@@ -97155,11 +97155,30 @@
     "id": 7221,
     "date": "2025-11-15T03:39:12",
     "text": "后续：修好 wayland 了。黑屏是因为登录的时候显卡被 sunshine 抢走了\n\n感谢 <a href=\"https://t.me/q234rty\">@q234rty</a> 帮忙抓虫虫",
-    "views": 100,
+    "views": 128,
     "forwards": 0,
     "reply": {
       "id": 7220,
       "text": "因为配不好 wayland 一直在用 x11，更新一下系统发现登录之后黑屏进不去，抓半天虫虫发现是 x11 不被 gnome 支持了... 好生气"
     }
+  },
+  {
+    "id": 7222,
+    "date": "2025-11-15T15:19:42",
+    "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
+    "views": 82,
+    "forwards": 3,
+    "images": [
+      {
+        "width": 1080,
+        "height": 570,
+        "date": "2025-11-15T15:19:42",
+        "media_type": "photo",
+        "original_name": "photo_2025-11-15_15-19-42.jpg",
+        "url": "media/7222.jpg",
+        "size": 73497,
+        "thumb": "media/7222.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
