@@ -68216,7 +68216,7 @@
     "id": 4939,
     "date": "2025-02-17T17:49:07",
     "text": "想重启聊聊的 iOS 18 的苹果手机，长按电源键发现叫不出关机菜单，就问聊聊“怎么重启呀？”\n\n...结果长按电源键反而叫出了 siri，被 siri 听到了，问我要不要重启，我说好，然后它重启了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 201,
+    "views": 202,
     "forwards": 2,
     "images": [
       {
@@ -68235,7 +68235,7 @@
     "id": 4940,
     "date": "2025-02-17T20:27:11",
     "text": "<a href=\"https://www.youtube.com/watch?v=n1KgxqEQn0A\">CGP Grey: Is The Penny *Finally* Dead?</a>\n\n每次看 CGP Grey 的视频都感觉它听起来好像一首诗，五分钟的视频从头到尾都押着韵，好厉害也好好听 qwq",
-    "views": 197,
+    "views": 198,
     "forwards": 0
   },
   {
@@ -68333,7 +68333,7 @@
     "id": 4947,
     "date": "2025-02-20T08:06:39",
     "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
-    "views": 220,
+    "views": 221,
     "forwards": 2,
     "media_group_id": 13920310398395053,
     "images": [
@@ -68363,7 +68363,7 @@
     "id": 4949,
     "date": "2025-02-20T08:24:51",
     "text": "这个模型面数太多了感觉渲染会很吃力... 也没有找到其他好的模型\n\n所以给 syama 下单了几盒杯面，又能 3d 扫描下来做模型又能吃 qwq",
-    "views": 202,
+    "views": 203,
     "forwards": 2,
     "reply": {
       "id": 4947,
@@ -68375,7 +68375,7 @@
     "id": 4950,
     "date": "2025-02-21T08:30:54",
     "text": "今天踩了一个巨大坑\n\n某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??\n\n众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了\n\n用 <code>ndk-stack</code> 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...\n\n好灵车啊 <del>如果是 il2rust 是不是就没有这个问题了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 2,
     "media_group_id": 13921013237436885,
     "images": [
@@ -68405,7 +68405,7 @@
     "id": 4952,
     "date": "2025-02-21T08:59:10",
     "text": "在 2025 年打开重装一下 IDE，屏幕就会被介绍最新最热 AI 功能的弹窗塞满 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 241,
+    "views": 242,
     "forwards": 1,
     "images": [
       {
@@ -68424,7 +68424,7 @@
     "id": 4953,
     "date": "2025-02-22T03:57:20",
     "text": "可惜太贵了",
-    "views": 294,
+    "views": 295,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -68447,7 +68447,7 @@
     "id": 4954,
     "date": "2025-02-23T01:44:03",
     "text": "时隔好久又贴到猫猫球了，猫猫球好可爱，开心 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 1
   },
   {
@@ -68498,7 +68498,7 @@
     "id": 4958,
     "date": "2025-02-24T10:39:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 宇宙の果てに 飛んでみたら\n♪ 私は 眠りに\n\n像是孤独一人漂浮在宇宙尽头、什么都没有也什么都不会发生的无尽虚空，到达一切的终点前半梦半醒地跟着节奏哼着出现在意识边缘的句子\n\n<span class=\"spoiler\"><span>我也好想逃往宇宙的尽头、放下一切在那里好好睡一觉</span></span>",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "files": [
       {
@@ -68520,7 +68520,7 @@
     "id": 4959,
     "date": "2025-02-25T00:34:52",
     "text": "今天发现 unicode 里面有这个「半个空格」字符，看起来大概是 ] [ 这么宽，相比的话一般的空格是 ] [ 这么宽\n\n<span class=\"spoiler\"><span>那是不是可以用它把代码缩进设成 0.5 了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 229,
+    "views": 230,
     "forwards": 0,
     "images": [
       {
@@ -68539,14 +68539,14 @@
     "id": 4961,
     "date": "2025-02-25T06:51:57",
     "text": "<del>进行一个人类 vs LLM 比赛：小桂桂打字和在 cpu 上跑 R1 谁打字速度更快</del>",
-    "views": 214,
+    "views": 215,
     "forwards": 0
   },
   {
     "id": 4962,
     "date": "2025-02-25T12:39:50",
     "text": "唉 感觉一般人对大模型的 scale 都有很大误解...\n\n不知道多少次和别人聊天听到别人觉得「671B 的 DeepSeek R1 是可以随便跑的」还有「distil 小模型效果和大模型差不多」\n\n实际上我的那台 GPU 服务器即使是插满四张 V100 也只能跑 32B 这种量级的模型，一般家里的机器也就最多跑跑 7B 1.5B 吧... 虽然确实有方案在小内存小显存的机器上跑大模型，比如显存不够的话可以在内存和显存之间搬来搬去，内存不够的话可以在内存和硬盘之间搬来搬去，<del>但是那样可能几个小时都回答不上你一个问题了</del>",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "reply": {
       "id": 4961,
@@ -69261,7 +69261,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 417,
+    "views": 418,
     "forwards": 3,
     "images": [
       {
@@ -69280,7 +69280,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 310,
+    "views": 311,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -72731,7 +72731,7 @@
     "id": 5268,
     "date": "2025-04-24T05:41:29",
     "text": "发现手术之后对疼痛耐受确实更强了，昨天拆机的时候不小心把食指划出血，但是完全没有感觉到痛\n\n如果是以前的话肯定这一两天都不会用这根手指了... 我握笔姿势的坏习惯最初就是因为某次大拇指受伤了不敢用它所以换了姿势 quq",
-    "views": 327,
+    "views": 328,
     "forwards": 1,
     "reply": {
       "id": 5254,
@@ -72743,7 +72743,7 @@
     "id": 5269,
     "date": "2025-04-25T00:53:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n节拍好奇妙的一首歌 是什么呢？",
-    "views": 295,
+    "views": 296,
     "forwards": 0,
     "files": [
       {
@@ -72765,7 +72765,7 @@
     "id": 5270,
     "date": "2025-04-25T01:48:16",
     "text": "分析了一下，这绝对是我听过的时间签名最复杂的曲子\n\n节拍数从头到尾很稳定 80 bpm，所以分析的时候用 80 对齐了时间轴\n\n开头钢琴段是 7/4 拍，接下来那段原本以为是四个小节的 4/4 但是打着不对劲，仔细看看发现第三小节的开始是在半拍上的... 居然有三小节是 3.5/4 拍\n\n高潮段还比较常规，刚开始是四小节的 8/4 拍，之后是四小节的 4/4 拍...\n\n中间的过渡有 6.5 拍有 3 拍有 5 拍不过都只有一小节，停止思考 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n这首曲子真的太厉害了",
-    "views": 308,
+    "views": 309,
     "forwards": 0,
     "reply": {
       "id": 5269,
@@ -72788,7 +72788,7 @@
     "id": 5271,
     "date": "2025-04-25T07:42:02",
     "text": "把四年前就特别喜欢的这首《バビロン》的 vocal 谱扒下来了，想要和谁一起唱 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>\n\n（感觉完全是单词歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及不得不说 MuseScore 的排版能力好强，我之前一直在用 flat 还买了会员，但是发现 flat 无论是小节位置还是歌词标注都没办法排出我想要的效果",
-    "views": 307,
+    "views": 308,
     "forwards": 0,
     "reply": {
       "id": 213,
@@ -72811,7 +72811,7 @@
     "id": 5272,
     "date": "2025-04-25T09:43:12",
     "text": "是桐谷遥欢乐日...！",
-    "views": 348,
+    "views": 349,
     "forwards": 0,
     "images": [
       {
@@ -72830,7 +72830,7 @@
     "id": 5273,
     "date": "2025-04-26T03:10:28",
     "text": "“privacy and compliance\"... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 399,
+    "views": 400,
     "forwards": 0,
     "images": [
       {
@@ -72849,7 +72849,7 @@
     "id": 5274,
     "date": "2025-04-26T07:54:23",
     "text": "想唱歌，有无源麦克风但是没有给麦克风用的功放，找了好久可以用来录音的设备\n\n试了笔记本的耳机孔和台式板载声卡的 mic-in 口，笔记本声音很小，台式声音够大但是底噪也够大。所以试了把音响的功放接到笔记本上，结果声音一会大一会小像 sin 曲线一样\n\n然后试了给手机买的 cx31993 声卡，意外发现能用，声音很大又没有底噪，但问题是它会触发安卓的线控语音助手和音量+... 毕竟线控是在麦克风线上靠阻抗检测的灵车东西，麦克风必须是特定的阻抗才能不被误判\n\n最后把 cx31993 插电脑上，再加上 +25dB 的增益就完成了，底噪最高在 -45dB 感觉还不错",
-    "views": 551,
+    "views": 552,
     "forwards": 1,
     "media_group_id": 13965232503831333,
     "images": [
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 788,
+    "views": 789,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1870,
+    "views": 1871,
     "forwards": 52
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1164,
+    "views": 1166,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6319,
+    "views": 6320,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1150,
+    "views": 1161,
     "forwards": 16,
     "reply": {
       "id": 7210,
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 513,
+    "views": 521,
     "forwards": 9
   },
   {
