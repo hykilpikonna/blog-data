@@ -36215,7 +36215,7 @@
     "id": 2707,
     "date": "2023-09-27T05:08:31",
     "text": "之前写网页一直在用 Vue，但是觉得 Vue 太重了就去学了 Solid.js，用 Solid.js 写了几次网站又觉得语法太繁琐所以这次打算学学 Svelte\n\nSvelte 好容易学！或者说真的太 intuitive 了很多响应式功能都不用去专门学各种奇怪写法（<del>也许只是正好和我的脑回路对上了</del>但是总之就是好好用！\n\n零基础从开模板项目到写完想要写的 demo page 只用了 1h 40m\n\n在 Svelte 里面用响应式更新不需要像 Vue 3 那样写 <code>const a = ref<type>(default)</code> 然后用 a.value 改值，也不需要像 React/Solid 那样定义 <code>const [a, setA] = createSignal<type>(default)</code> 两个函数，一个用来获取一个用来修改。Svelte 直接像原生 JS 一样定义变量、改值就能响应式更新真的好舒服！\n\n<span class=\"spoiler\"><span>其实一直很喜欢 Vue Class Component 写法也是因为它直接用原生 ts class 的写法就能实现所有功能，可惜更新 Vue3 的时候 Class Component 的官方支持被砍了，换成了他们自己的别扭写法...</span></span>",
-    "views": 155,
+    "views": 156,
     "forwards": 4,
     "media_group_id": 13566330489419853,
     "images": [
@@ -65182,7 +65182,7 @@
     "id": 4738,
     "date": "2024-12-10T12:06:47",
     "text": "新的硬盘到了，是 16TB 的 HC550，终于可以把重要数据从三年前买的这个 12TB 坏盘上搬走了。\n\n重新给之前的坏道扫描脚本写了一个 UI，因为是懒懒猫所以这次用了单文件 petite-vue + tailwind，感觉写起来很简洁很适合这种要嵌到小脚本里的场合。开源到 <a href=\"https://github.com/hykilpikonna/HyPyUtils\">HyPyUtils</a> 仓库里面了\n\n扫描出来新的盘全绿，旧的盘感觉把 870c~993c 这一段屏蔽掉其他的地方还能用 qwq\n\n以及 <a href=\"##TIL\">#TIL</a> 发现转转盘好有意思，刚开始扫的时候有 247 MB/s，但是快结束的时候就只有 130 MB/s 了，为什么呢？因为盘是圆形的，越靠圆心圆周就越短，所以磁头每次 seek 能读到的数据就越少 🤯 奇妙",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 13870659258497573,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 627,
+    "views": 630,
     "forwards": 7,
     "images": [
       {
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 514,
+    "views": 515,
     "forwards": 8,
     "media_group_id": 14073654712928549,
     "images": [
@@ -94269,7 +94269,7 @@
     "id": 6981,
     "date": "2025-10-24T07:41:55",
     "text": "今天想改改我的 blog，用 vscode 打开了我四年前的 vue 项目发现它在误报报错，即使编译完全没问题\n\n查了一下发现是 vscode 的 vue lsp 已经丢弃了 vue2 class component 语法的支持...\n\n发现 IntelliJ 的支持还在，结果就是四年后我居然再一次开始用高贵的 IntelliJ 写 vue 了",
-    "views": 239,
+    "views": 240,
     "forwards": 1,
     "images": [
       {
@@ -94288,7 +94288,7 @@
     "id": 6982,
     "date": "2025-10-24T09:14:49",
     "text": "TIL, \"vite\" 的读音并不是 /vaɪt/ 而是 /vit/... 因为这个词其实是法语",
-    "views": 297,
+    "views": 298,
     "forwards": 4,
     "images": [
       {
@@ -94307,7 +94307,7 @@
     "id": 6983,
     "date": "2025-10-24T18:09:13",
     "text": "<del>work life balance 真的有那么难吗，明明让请无薪假期就好了</del>",
-    "views": 258,
+    "views": 259,
     "forwards": 0,
     "images": [
       {
@@ -94375,7 +94375,7 @@
     "id": 6987,
     "date": "2025-10-26T18:04:21",
     "text": "今天有幸看了一眼 <a href=\"https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/Sony.pm\">exiftool 里处理索尼照片文件的源码</a>，实在是太 cursed 了...\n\n一个文件 11866 行，而且大部分格式解析都是 hardcode 进去的... 很难想象什么样的人能维护这样的代码 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n所以我现在终于理解为什么大家都不支持索尼 HIF、以及为什么没有人想用 rust 重写 exiftool 了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 建议所有现在在存 HIF 的人都改成存 jpeg，这个格式真的没救",
-    "views": 267,
+    "views": 268,
     "forwards": 3,
     "images": [
       {
@@ -94394,7 +94394,7 @@
     "id": 6988,
     "date": "2025-10-26T20:56:28",
     "text": "照片的照片的照片",
-    "views": 252,
+    "views": 253,
     "forwards": 0,
     "images": [
       {
@@ -94413,7 +94413,7 @@
     "id": 6989,
     "date": "2025-10-27T11:23:01",
     "text": "给幸运路人分享照片的网页做完了！\n<a href=\"https://p.aza.moe\">https://p.aza.moe</a>\n\n第一次用<a href=\"https://github.com/hykilpikonna/corner/blob/master/src/views/Photo.vue\"> CSS view transition</a> 做了这个图片放大的效果，感觉好好用！不用再被单独出入动画能做到的效果限制了 qwq",
-    "views": 263,
+    "views": 264,
     "forwards": 3,
     "reply": {
       "id": 6754,
@@ -94440,14 +94440,14 @@
     "id": 6990,
     "date": "2025-10-28T03:15:32",
     "text": "导航：您已进入上海市嘉定区\nme：世嘉？<i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 273,
+    "views": 274,
     "forwards": 2
   },
   {
     "id": 6991,
     "date": "2025-10-29T03:16:17",
     "text": "去福冈",
-    "views": 224,
+    "views": 225,
     "forwards": 2,
     "media_group_id": 14093662217592885,
     "images": [
@@ -94557,7 +94557,7 @@
     "id": 7001,
     "date": "2025-10-29T07:12:25",
     "text": "猫猫脚印封印住的瓷器，好可爱 🐈",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "images": [
       {
@@ -94576,7 +94576,7 @@
     "id": 7002,
     "date": "2025-10-29T13:13:27",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5278467721057541790.webp\">👩‍💻</i>\n\n<span class=\"spoiler\"><span>（说起来为什么 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5278467721057541790.webp\">👩‍💻</span></span></i><span class=\"spoiler\"><span> 读 /vjuː/ 而不是 /🤮/</span></span>",
-    "views": 202,
+    "views": 203,
     "forwards": 2,
     "images": [
       {
@@ -94595,7 +94595,7 @@
     "id": 7003,
     "date": "2025-10-29T13:23:32",
     "text": "福冈塔上的日落 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 14093953702763077,
     "images": [
@@ -96418,7 +96418,7 @@
     "id": 7164,
     "date": "2025-11-09T10:16:02",
     "text": "精品神药.jpg",
-    "views": 205,
+    "views": 206,
     "forwards": 2,
     "images": [
       {
@@ -96716,7 +96716,7 @@
     "id": 7190,
     "date": "2025-11-11T13:54:17",
     "text": "以及这里摆了好多物理照片、画、放课后茶具，还有和动画里完全一样的真实乐器。有牌子说这些都是 fan 捐赠的，厨力好厉害",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "media_group_id": 14102954057677269,
     "images": [
@@ -96796,7 +96796,7 @@
     "id": 7197,
     "date": "2025-11-11T13:55:44",
     "text": "偷跑",
-    "views": 164,
+    "views": 165,
     "forwards": 0,
     "forwarded_from": {
       "name": "Amia on the Roof"
@@ -96818,7 +96818,7 @@
     "id": 7198,
     "date": "2025-11-11T13:57:16",
     "text": "继续开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i> 还有 2h",
-    "views": 164,
+    "views": 165,
     "forwards": 0,
     "reply": {
       "id": 7179,
@@ -96829,7 +96829,7 @@
     "id": 7199,
     "date": "2025-11-11T16:21:23",
     "text": "终于回到九州了！\n\n开车累死了，整次旅途总共开了 3006 km 的车，其中今天的路就占了 776 km。<del>下次长途旅行一定要买一个 openpilot comma 装上再走</del>",
-    "views": 179,
+    "views": 181,
     "forwards": 1,
     "media_group_id": 14103024670017541,
     "images": [
@@ -96859,7 +96859,7 @@
     "id": 7201,
     "date": "2025-11-12T02:13:17",
     "text": "凌晨两点到福冈但是早上九点才能还车，想找地方睡睡，但是旅店贵贵，怎么办呢？\n\n想起来以前听日本人说网吧可以睡，就找了一个「快活 CLUB」订了房间，里面有床垫和皮枕头，六小时只要 JP￥2700 还有免费停车\n\n不过并没有睡好，因为太冷了也没有暖气，盖了六层免费大浴巾依然很冷，用电脑进行了一下传统艺能之 CPU-Z 取暖但是依然不太够... 看来冷天不太适合在网吧睡觉呢\n\n不太懂这里的目标客户是什么样的人，虽然有可以免费使用的游戏手柄但是 i5 14400 真的能带动什么游戏吗？而且只是用来看视频刷网页的话很便宜的笔记本也都能做到... 不理解\n\n不过确实是很万能的空间，有免费的饮料、浴室、漫画动画电影、唱歌房间之类的，如果不睡觉的话也许确实也不错",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 14103308780407717,
     "images": [
@@ -96899,14 +96899,14 @@
     "id": 7204,
     "date": "2025-11-12T02:16:44",
     "text": "（在等登机，整理下照片补一下这两天的回忆 qwq）",
-    "views": 189,
+    "views": 190,
     "forwards": 0
   },
   {
     "id": 7206,
     "date": "2025-11-12T05:05:06",
     "text": "离开的飞机上拍到了左贺城迹！（这一圈水辨识度太高了",
-    "views": 193,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 14103391249391061,
     "images": [
@@ -96941,7 +96941,7 @@
     "id": 7208,
     "date": "2025-11-12T09:13:47",
     "text": "felica 数量增加了",
-    "views": 190,
+    "views": 191,
     "forwards": 3,
     "images": [
       {
@@ -96960,7 +96960,7 @@
     "id": 7209,
     "date": "2025-11-12T11:12:15",
     "text": "呜呜... NASA 的 Scientific Visualization Studio 停更了",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "images": [
       {
@@ -96979,7 +96979,7 @@
     "id": 7210,
     "date": "2025-11-12T15:42:32",
     "text": "好炫酷",
-    "views": 177,
+    "views": 179,
     "forwards": 0,
     "files": [
       {
@@ -97002,8 +97002,8 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1216,
-    "forwards": 16,
+    "views": 1229,
+    "forwards": 17,
     "reply": {
       "id": 7210,
       "text": "好炫酷"
@@ -97025,7 +97025,7 @@
     "id": 7212,
     "date": "2025-11-13T00:13:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100472337788835057.webp\">🌖</i> 228° <span class=\"spoiler\"><span>（11 月 10 日）</span></span>\n\n让白猫 <a href=\"https://t.me/omiashi\">@omiashi</a> 带我一起去了カラオケ🎤！是我第一次去カラオケ，三个小时只花了 JP￥1000 好便宜，唱了好多歌，唱到嗓子疼了才离开 <i class=\"custom-emoji\" emoji-src=\"emoji/5443069078501598457.tgs\">🎤</i>\n\n感觉唱歌还是好难呀。虽然音准我有绝对自信，但是读平仮名的速度还完全不行，稍微快一点就跟不上了... 现在大概「きんぎょの夢」这首歌是我读假名能跟上的最快速度\n\n以及白猫唱歌声音好好听，音域也好广，我唱不上去的音高她也能很轻松唱出来的样子... 听得我也想去找声乐老师练声音了\n\n以及今天摸到了真的カラオケ机器才发现家里的 Apple TV 的カラオケ模式缺好多功能。去人声、主旋律辅助、用手机点歌、点歌的时候的音域预览 & 升降调、变速、用振り仮名 / romaji 显示歌词、播放 MV、能给唱歌打分的音游模式... 原来カラオケ系统这么复杂",
-    "views": 203,
+    "views": 204,
     "forwards": 3,
     "media_group_id": 14103942424718133,
     "images": [
@@ -97075,7 +97075,7 @@
     "id": 7216,
     "date": "2025-11-13T05:34:48",
     "text": "好过分，上传 9TB 的 Power User 甚至还在做种的账号就这样被删了",
-    "views": 194,
+    "views": 195,
     "forwards": 2,
     "media_group_id": 14104096703673109,
     "images": [
@@ -97105,14 +97105,14 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 568,
+    "views": 576,
     "forwards": 9
   },
   {
     "id": 7219,
     "date": "2025-11-14T01:17:26",
     "text": "上上次写 python 写出 segfault\n上次写 C# 写出 segfault\n这次写网页 ts 都能写出 segfault\n谁懂啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 163,
+    "views": 167,
     "forwards": 1,
     "reply": {
       "id": 4950,
@@ -97136,7 +97136,7 @@
     "id": 7220,
     "date": "2025-11-15T02:13:30",
     "text": "因为配不好 wayland 一直在用 x11，更新一下系统发现登录之后黑屏进不去，抓半天虫虫发现是 x11 不被 gnome 支持了... 好生气",
-    "views": 113,
+    "views": 120,
     "forwards": 0,
     "images": [
       {
@@ -97155,7 +97155,7 @@
     "id": 7221,
     "date": "2025-11-15T03:39:12",
     "text": "后续：修好 wayland 了。黑屏是因为登录的时候显卡被 sunshine 抢走了\n\n感谢 <a href=\"https://t.me/q234rty\">@q234rty</a> 帮忙抓虫虫",
-    "views": 87,
+    "views": 93,
     "forwards": 0,
     "reply": {
       "id": 7220,
