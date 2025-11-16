@@ -22323,7 +22323,7 @@
     "id": 1690,
     "date": "2023-01-03T00:53:27",
     "text": "好羡慕 ChatGPT 的阅历... 刚出生下来就读完了世界上大部分的书还能记住好多重要的引用是多么值得羡慕的事情\n\n...except that they <em>aren't</em> quotes 🌚\n\n它回复的这五句引用我搜了整本书都并没有找到，然后我想会不会是句式相似的转述，就重新读了第四章，结果一句主题相似的句子都没找到 🥲\n\n...你不要对不知道的东西这么自信啊\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "media_group_id": 13381657658948789,
     "images": [
@@ -22491,7 +22491,7 @@
     "id": 1704,
     "date": "2023-01-05T04:21:45",
     "text": "今天准时睡觉了 qwq",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 1699,
@@ -22502,14 +22502,14 @@
     "id": 1705,
     "date": "2023-01-06T04:28:30",
     "text": "今天给 <a href=\"https://one-among.us/profile/donotexist_A\">One Among Us</a> 加了链接媒体预览！\n\n因为用 Vue SSG 生成静态网页需要改的代码太多，就直接加了一个脚本在构建之后用构建好的 html 注入元数据，居然真的工作了hhh\n\n除了主页的图片以外其他页面的缩略图都是用 puppeteer 动态渲染的哦，是不是很好看 qwq\n\n毕竟<del>众所周知 html 是世界上最好看的图片渲染框架</del>。puppeteer 就是用一个虚拟浏览器把 html 元素渲染成高清图片来着，然后你就会看到我在 Github Action 里面装 X11, wayland, chrome，启动一个 xvfb... 🌚",
-    "views": 85,
+    "views": 86,
     "forwards": 1
   },
   {
     "id": 1706,
     "date": "2023-01-06T06:01:28",
     "text": "每日健身 1/1 ✅\n\n呜呜结果今天没有早睡 看来如果想十一点上床大概要把提醒设到十点——",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "media_group_id": 13383879104964605,
     "images": [
@@ -68375,7 +68375,7 @@
     "id": 4950,
     "date": "2025-02-21T08:30:54",
     "text": "今天踩了一个巨大坑\n\n某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??\n\n众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了\n\n用 <code>ndk-stack</code> 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...\n\n好灵车啊 <del>如果是 il2rust 是不是就没有这个问题了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 210,
+    "views": 211,
     "forwards": 2,
     "media_group_id": 13921013237436885,
     "images": [
@@ -68405,7 +68405,7 @@
     "id": 4952,
     "date": "2025-02-21T08:59:10",
     "text": "在 2025 年打开重装一下 IDE，屏幕就会被介绍最新最热 AI 功能的弹窗塞满 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 245,
+    "views": 246,
     "forwards": 1,
     "images": [
       {
@@ -68424,7 +68424,7 @@
     "id": 4953,
     "date": "2025-02-22T03:57:20",
     "text": "可惜太贵了",
-    "views": 299,
+    "views": 300,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -68447,14 +68447,14 @@
     "id": 4954,
     "date": "2025-02-23T01:44:03",
     "text": "时隔好久又贴到猫猫球了，猫猫球好可爱，开心 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 1
   },
   {
     "id": 4955,
     "date": "2025-02-23T21:29:32",
     "text": "我居然在 2025 年在一个现代 c# 项目里看到了 goto <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "images": [
       {
@@ -69816,7 +69816,7 @@
     "id": 5049,
     "date": "2025-03-19T15:36:37",
     "text": "在频道里直播一会 qwq",
-    "views": 251,
+    "views": 252,
     "forwards": 0,
     "reply": {
       "id": 5047,
@@ -69851,7 +69851,7 @@
     "id": 5054,
     "date": "2025-03-19T18:15:04",
     "text": "下播啦\n\nSplit Fiction 真的和双人成行一样好玩欸，而且感觉更乱来了，喜欢 qwq\n\n（中间某个支线里主角被做成了热狗之后看饿了我也去做了热狗 🌭 好吃好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n感谢大家围观喵",
-    "views": 256,
+    "views": 257,
     "forwards": 3,
     "images": [
       {
@@ -69870,7 +69870,7 @@
     "id": 5055,
     "date": "2025-03-21T08:05:10",
     "text": "今天居然睡了十小时哇（指从下午六点睡到了凌晨四点，还错过了原本计划的晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 243,
+    "views": 244,
     "forwards": 0
   },
   {
@@ -90752,7 +90752,7 @@
     "id": 6695,
     "date": "2025-09-23T07:26:13",
     "text": "奇妙福瑞车车",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 14068898991257989,
     "images": [
@@ -90772,7 +90772,7 @@
     "id": 6699,
     "date": "2025-09-23T12:32:26",
     "text": "和マモル去看了 girls band cry トゲトゲ的武道馆 live！（感谢マモル抽到票\n\n众所周知动画的 OP 是武道馆但是动画并没有演到武道馆，这次开场真的把 OP 原样还原了！结尾还放了动画的 ED... 好感动\n\n中场休息之后居然还为了一首伴奏摆了一个こたつ上去还原了 mmk 的家，弹完这首就撤了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n以及宣布了第二季和新游戏的制作决定诶！好期待\n\n不过真的感觉早换一个 mixing engineer 了，几首歌都混得人声完全被其他乐器盖过去听不到... 之前看动画就已经吐槽过动画里的 live 混音不行了，没想到真的现场更不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "media_group_id": 14069045974667685,
     "images": [
@@ -95387,7 +95387,7 @@
   {
     "id": 7079,
     "date": "2025-11-02T23:19:58",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "forwarded_from": {
       "name": "マモル",
@@ -95431,7 +95431,7 @@
     "id": 7082,
     "date": "2025-11-03T03:54:05",
     "text": "<del>圣地巡礼之「おても☆Yan」</del>",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 14097136363403237,
     "images": [
@@ -95476,7 +95476,7 @@
     "id": 7085,
     "date": "2025-11-03T23:35:20",
     "text": "家人在看新闻，我也跟着看\n\n我：トップタ（Topta）是什么\nマ： ...\nマ：トップ（Top）、夕食（ゆうしょく）会\n\n原本没睡醒，直接笑醒了",
-    "views": 207,
+    "views": 208,
     "forwards": 3,
     "images": [
       {
@@ -96195,7 +96195,7 @@
     "id": 7144,
     "date": "2025-11-07T11:03:49",
     "text": "旅店的睡衣\n\n...回到日本这几天吃胖了",
-    "views": 186,
+    "views": 187,
     "forwards": 5,
     "images": [
       {
@@ -96214,7 +96214,7 @@
     "id": 7145,
     "date": "2025-11-07T11:33:39",
     "text": "和マモル一起玩的最后一天去了四国水族馆！坐下来和海豚一起看着太阳落下去好治愈\n\n...结果看了太久日落海豚导致留给本馆只下剩一小时，匆匆忙忙看完了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170285716925319156.webm\">😖</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 14100121758772333,
     "images": [
@@ -96324,7 +96324,7 @@
     "id": 7157,
     "date": "2025-11-08T11:54:14",
     "text": "第一次住和房东分房间的那种 airbnb\n\n房东老奶奶超厉害，是日本人，主业是做音乐，日语中文英文都会说，然后入住的时候我们都是三种语言无缝融合居然还能听懂对方在说什么... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好奇妙",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 14100822831808557,
     "images": [
@@ -96374,7 +96374,7 @@
     "id": 7161,
     "date": "2025-11-08T13:33:29",
     "text": "<del>想要买瓶无酒精啤酒边喝边开车</del>",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -96385,7 +96385,7 @@
     "id": 7162,
     "date": "2025-11-09T01:54:23",
     "text": "看脚步就能看出是不是游客的地方",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "files": [
       {
@@ -96407,7 +96407,7 @@
     "id": 7163,
     "date": "2025-11-09T03:37:20",
     "text": "<a href=\"##琪露诺的常识教室\">#琪露诺的常识教室</a>\n众所周知，门槛象征着前行路上的障碍与挑战。​勇敢地<b>踩上</b>门槛，代表着直面困难的决心，有“脚踏实地、事事有成”的祈福之意。​相反，选择<b>跨过</b>门槛，则被视为一种逃避困难的姿态，自然也就失去了祈福的效果\n\n​因此，内行的本地人都会选择踩上去，而不明就里的游客们反而会小心翼翼地跨过去 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 2,
     "reply": {
       "id": 7162,
@@ -96437,7 +96437,7 @@
     "id": 7165,
     "date": "2025-11-10T21:57:27",
     "text": "去了猫猫神社和猫猫寺！（猫猫寺读作にゃんにゃんじ好可爱）\n\n感觉猫猫寺更像是一个猫猫主题的艺术展，收藏了各种形式各种风格的猫猫作品，还挺喜欢的。出门的时候还在附近发现了猫（似乎是店长在散养的）\n\n想起之前去伏見稲荷也看到了猫，似乎是定居在某个小神社上的，隔了三个月的两次参拜它都在\n\n感觉日本村里这种把猫养在门外/后院的形式好不错呀，既可以养猫也不用担心猫踩坏榻榻米 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 14102494778546509,
     "images": [
@@ -96547,7 +96547,7 @@
     "id": 7175,
     "date": "2025-11-11T04:54:45",
     "text": "后续：第三方墨盒坏掉了\n\n用第三方墨盒和相纸卡了两次纸。第一次是在出发之前，关机拽一下修好了。第二次墨盒的卡带直接断掉了，完全不能用了，还有塑料膜碎片卡在打印机里费了很大力气才取出来\n\n还好这次有预料到第三方墨盒可能会坏所以带了备份... 以后还是不省钱买官方墨盒好了。",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 14102695080994973,
     "images": [
@@ -96592,21 +96592,21 @@
     "id": 7178,
     "date": "2025-11-11T05:44:11",
     "text": "咖啡因好讨厌... 喝完觉得头晕晕的，又不舒服，想睡又睡不着\n\n原本觉得要开 8h 车就喝了「川」能量饮料，现在已经在后悔了",
-    "views": 174,
+    "views": 175,
     "forwards": 1
   },
   {
     "id": 7179,
     "date": "2025-11-11T09:53:02",
     "text": "开了 4h 车，还要开 5h，好累",
-    "views": 161,
+    "views": 162,
     "forwards": 0
   },
   {
     "id": 7180,
     "date": "2025-11-11T13:49:49",
     "text": "今天是 k-on 梓喵的生日！早上和 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起去立豊郷小学校进行了圣地巡礼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n学校从建筑布局到气氛都和动画里面完全一样哇，回想起来了不少第一次看 k-on 的时候的回忆\n\n以及看到了梓喵给其他人写的笔记，还有来参拜的大家留下的留言，都好温馨 qwq",
-    "views": 147,
+    "views": 149,
     "forwards": 0,
     "media_group_id": 14102951917738565,
     "images": [
@@ -96716,7 +96716,7 @@
     "id": 7190,
     "date": "2025-11-11T13:54:17",
     "text": "以及这里摆了好多物理照片、画、放课后茶具，还有和动画里完全一样的真实乐器。有牌子说这些都是 fan 捐赠的，厨力好厉害",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "media_group_id": 14102954057677269,
     "images": [
@@ -96796,7 +96796,7 @@
     "id": 7197,
     "date": "2025-11-11T13:55:44",
     "text": "偷跑",
-    "views": 170,
+    "views": 172,
     "forwards": 0,
     "forwarded_from": {
       "name": "Amia on the Roof"
@@ -96818,7 +96818,7 @@
     "id": 7198,
     "date": "2025-11-11T13:57:16",
     "text": "继续开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i> 还有 2h",
-    "views": 171,
+    "views": 173,
     "forwards": 0,
     "reply": {
       "id": 7179,
@@ -96829,7 +96829,7 @@
     "id": 7199,
     "date": "2025-11-11T16:21:23",
     "text": "终于回到九州了！\n\n开车累死了，整次旅途总共开了 3006 km 的车，其中今天的路就占了 776 km。<del>下次长途旅行一定要买一个 openpilot comma 装上再走</del>",
-    "views": 188,
+    "views": 192,
     "forwards": 1,
     "media_group_id": 14103024670017541,
     "images": [
@@ -96859,7 +96859,7 @@
     "id": 7201,
     "date": "2025-11-12T02:13:17",
     "text": "凌晨两点到福冈但是早上九点才能还车，想找地方睡睡，但是旅店贵贵，怎么办呢？\n\n想起来以前听日本人说网吧可以睡，就找了一个「快活 CLUB」订了房间，里面有床垫和皮枕头，六小时只要 JP￥2700 还有免费停车\n\n不过并没有睡好，因为太冷了也没有暖气，盖了六层免费大浴巾依然很冷，用电脑进行了一下传统艺能之 CPU-Z 取暖但是依然不太够... 看来冷天不太适合在网吧睡觉呢\n\n不太懂这里的目标客户是什么样的人，虽然有可以免费使用的游戏手柄但是 i5 14400 真的能带动什么游戏吗？而且只是用来看视频刷网页的话很便宜的笔记本也都能做到... 不理解\n\n不过确实是很万能的空间，有免费的饮料、浴室、漫画动画电影、唱歌房间之类的，如果不睡觉的话也许确实也不错",
-    "views": 182,
+    "views": 184,
     "forwards": 0,
     "media_group_id": 14103308780407717,
     "images": [
@@ -96899,14 +96899,14 @@
     "id": 7204,
     "date": "2025-11-12T02:16:44",
     "text": "（在等登机，整理下照片补一下这两天的回忆 qwq）",
-    "views": 198,
+    "views": 201,
     "forwards": 0
   },
   {
     "id": 7206,
     "date": "2025-11-12T05:05:06",
     "text": "离开的飞机上拍到了左贺城迹！（这一圈水辨识度太高了",
-    "views": 208,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 14103391249391061,
     "images": [
@@ -96941,7 +96941,7 @@
     "id": 7208,
     "date": "2025-11-12T09:13:47",
     "text": "felica 数量增加了",
-    "views": 205,
+    "views": 210,
     "forwards": 4,
     "images": [
       {
@@ -96960,7 +96960,7 @@
     "id": 7209,
     "date": "2025-11-12T11:12:15",
     "text": "呜呜... NASA 的 Scientific Visualization Studio 停更了",
-    "views": 209,
+    "views": 214,
     "forwards": 1,
     "images": [
       {
@@ -96979,7 +96979,7 @@
     "id": 7210,
     "date": "2025-11-12T15:42:32",
     "text": "好炫酷",
-    "views": 196,
+    "views": 200,
     "forwards": 0,
     "files": [
       {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1287,
+    "views": 1312,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97025,7 +97025,7 @@
     "id": 7212,
     "date": "2025-11-13T00:13:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100472337788835057.webp\">🌖</i> 228° <span class=\"spoiler\"><span>（11 月 10 日）</span></span>\n\n让白猫 <a href=\"https://t.me/omiashi\">@omiashi</a> 带我一起去了カラオケ🎤！是我第一次去カラオケ，三个小时只花了 JP￥1000 好便宜，唱了好多歌，唱到嗓子疼了才离开 <i class=\"custom-emoji\" emoji-src=\"emoji/5443069078501598457.tgs\">🎤</i>\n\n感觉唱歌还是好难呀。虽然音准我有绝对自信，但是读平仮名的速度还完全不行，稍微快一点就跟不上了... 现在大概「きんぎょの夢」这首歌是我读假名能跟上的最快速度\n\n以及白猫唱歌声音好好听，音域也好广，我唱不上去的音高她也能很轻松唱出来的样子... 听得我也想去找声乐老师练声音了\n\n以及今天摸到了真的カラオケ机器才发现家里的 Apple TV 的カラオケ模式缺好多功能。去人声、主旋律辅助、用手机点歌、点歌的时候的音域预览 & 升降调、变速、用振り仮名 / romaji 显示歌词、播放 MV、能给唱歌打分的音游模式... 原来カラオケ系统这么复杂",
-    "views": 215,
+    "views": 217,
     "forwards": 3,
     "media_group_id": 14103942424718133,
     "images": [
@@ -97075,7 +97075,7 @@
     "id": 7216,
     "date": "2025-11-13T05:34:48",
     "text": "好过分，上传 9TB 的 Power User 甚至还在做种的账号就这样被删了",
-    "views": 208,
+    "views": 209,
     "forwards": 2,
     "media_group_id": 14104096703673109,
     "images": [
@@ -97105,14 +97105,14 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 629,
+    "views": 642,
     "forwards": 10
   },
   {
     "id": 7219,
     "date": "2025-11-14T01:17:26",
     "text": "上上次写 python 写出 segfault\n上次写 C# 写出 segfault\n这次写网页 ts 都能写出 segfault\n谁懂啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 192,
+    "views": 201,
     "forwards": 1,
     "reply": {
       "id": 4950,
@@ -97136,7 +97136,7 @@
     "id": 7220,
     "date": "2025-11-15T02:13:30",
     "text": "因为配不好 wayland 一直在用 x11，更新一下系统发现登录之后黑屏进不去，抓半天虫虫发现是 x11 不被 gnome 支持了... 好生气",
-    "views": 163,
+    "views": 177,
     "forwards": 0,
     "images": [
       {
@@ -97155,7 +97155,7 @@
     "id": 7221,
     "date": "2025-11-15T03:39:12",
     "text": "后续：修好 wayland 了。黑屏是因为登录的时候显卡被 sunshine 抢走了\n\n感谢 <a href=\"https://t.me/q234rty\">@q234rty</a> 帮忙抓虫虫",
-    "views": 151,
+    "views": 169,
     "forwards": 0,
     "reply": {
       "id": 7220,
@@ -97166,7 +97166,7 @@
     "id": 7222,
     "date": "2025-11-15T15:19:42",
     "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 146,
+    "views": 170,
     "forwards": 4,
     "images": [
       {
@@ -97180,5 +97180,46 @@
         "thumb": "media/7222.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 7223,
+    "date": "2025-11-16T01:46:11",
+    "text": "每次去中国都会忘记在中国去公共厕所需要自己带纸... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
+    "views": 73,
+    "forwards": 2
+  },
+  {
+    "id": 7224,
+    "date": "2025-11-16T02:03:52",
+    "text": "怀念一蘭<span class=\"spoiler\"><span>（的厕所）</span></span>了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
+    "views": 59,
+    "forwards": 1,
+    "media_group_id": 14106069059511125,
+    "images": [
+      {
+        "width": 1858,
+        "height": 2560,
+        "date": "2025-11-16T02:03:51",
+        "media_type": "photo",
+        "original_name": "photo_2025-11-16_02-03-51.jpg",
+        "url": "media/7224.jpg",
+        "size": 645170,
+        "thumb": "media/7224.jpg_thumb.jpg"
+      },
+      {
+        "width": 2000,
+        "height": 2560,
+        "date": "2025-11-16T02:03:51",
+        "media_type": "photo",
+        "original_name": "photo_2025-11-16_02-03-51.jpg",
+        "url": "media/7225.jpg",
+        "size": 801053,
+        "thumb": "media/7225.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 7223,
+      "text": "每次去中国都会忘记在中国去公共厕所需要自己带纸... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>"
+    }
   }
 ]
