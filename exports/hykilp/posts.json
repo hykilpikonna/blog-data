@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6323,
+    "views": 6324,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 671,
+    "views": 672,
     "forwards": 8,
     "images": [
       {
@@ -96829,7 +96829,7 @@
     "id": 7199,
     "date": "2025-11-11T16:21:23",
     "text": "终于回到九州了！\n\n开车累死了，整次旅途总共开了 3006 km 的车，其中今天的路就占了 776 km。<del>下次长途旅行一定要买一个 openpilot comma 装上再走</del>",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "media_group_id": 14103024670017541,
     "images": [
@@ -96859,7 +96859,7 @@
     "id": 7201,
     "date": "2025-11-12T02:13:17",
     "text": "凌晨两点到福冈但是早上九点才能还车，想找地方睡睡，但是旅店贵贵，怎么办呢？\n\n想起来以前听日本人说网吧可以睡，就找了一个「快活 CLUB」订了房间，里面有床垫和皮枕头，六小时只要 JP￥2700 还有免费停车\n\n不过并没有睡好，因为太冷了也没有暖气，盖了六层免费大浴巾依然很冷，用电脑进行了一下传统艺能之 CPU-Z 取暖但是依然不太够... 看来冷天不太适合在网吧睡觉呢\n\n不太懂这里的目标客户是什么样的人，虽然有可以免费使用的游戏手柄但是 i5 14400 真的能带动什么游戏吗？而且只是用来看视频刷网页的话很便宜的笔记本也都能做到... 不理解\n\n不过确实是很万能的空间，有免费的饮料、浴室、漫画动画电影、唱歌房间之类的，如果不睡觉的话也许确实也不错",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 14103308780407717,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1488,
+    "views": 1490,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97075,7 +97075,7 @@
     "id": 7216,
     "date": "2025-11-13T05:34:48",
     "text": "好过分，上传 9TB 的 Power User 甚至还在做种的账号就这样被删了",
-    "views": 232,
+    "views": 233,
     "forwards": 2,
     "media_group_id": 14104096703673109,
     "images": [
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 780,
+    "views": 782,
     "forwards": 10
   },
   {
@@ -97166,7 +97166,7 @@
     "id": 7222,
     "date": "2025-11-15T15:19:42",
     "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 238,
+    "views": 240,
     "forwards": 5,
     "images": [
       {
@@ -97192,7 +97192,7 @@
     "id": 7224,
     "date": "2025-11-16T02:03:52",
     "text": "怀念一蘭<span class=\"spoiler\"><span>（的厕所）</span></span>了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 204,
+    "views": 205,
     "forwards": 2,
     "media_group_id": 14106069059511125,
     "images": [
@@ -97371,7 +97371,7 @@
     "id": 7238,
     "date": "2025-11-16T12:34:35",
     "text": "出片（物理）\n\n和长城下面的并不长的小猫",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 14106371805346341,
     "images": [
@@ -97456,21 +97456,21 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 329,
+    "views": 331,
     "forwards": 9
   },
   {
     "id": 7246,
     "date": "2025-11-17T03:14:13",
     "text": "呜呜 发现在日本买的便携吹风机带到中国之后没法用，因为是 110V\n\n想买一个同时兼容 110V 和 220V 的吹风机，但是能找到的所有吹风机都只兼容一个电压... 好难办 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 168,
+    "views": 169,
     "forwards": 1
   },
   {
     "id": 7247,
     "date": "2025-11-17T08:23:45",
     "text": "<a href=\"##鸡尾酒实验室\">#鸡尾酒实验室</a>\n因为家里打开了一瓶梅酒就正好试着调调酒，发现梅酒 + calpis 还是 + 姜汁都好不错 qwq\n\n（也试了 + 乌龙茶 / + 茉莉茶 但是并不是很喜欢）\n\n喝完酒大困困，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 158,
+    "views": 162,
     "forwards": 0,
     "media_group_id": 14106942604793301,
     "images": [
@@ -97500,7 +97500,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 132,
+    "views": 137,
     "forwards": 0,
     "images": [
       {
@@ -97519,7 +97519,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 112,
+    "views": 118,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97549,7 +97549,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 86,
+    "views": 93,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
