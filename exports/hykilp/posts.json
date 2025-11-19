@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5715,
+    "views": 5716,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8215,
+    "views": 8216,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89026,7 +89026,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 396,
+    "views": 397,
     "forwards": 4,
     "files": [
       {
@@ -91731,7 +91731,7 @@
     "id": 6774,
     "date": "2025-09-29T15:03:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n菇蔫儿（实际上叫灯笼果）\n\n是家乡的果子，小时候特别爱吃，不过大学之后就没吃过了... 在水果店看到了好怀念。不知道频道里有多少人吃过\n\n旁边的 menci 没吃过，问我是什么味道，一时间不知道应该怎么描述... 感觉每次用语言描述味道的时候都是在用已知的味道进行组合：比如西瓜味葡萄味混合水果味之类的。但是发现像灯笼果这样的没有近似物的味道就完全没法描述，只能说口感像葡萄自己吃吃看了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 语言的表达力还是好有限",
-    "views": 247,
+    "views": 248,
     "forwards": 2,
     "media_group_id": 14073265570909525,
     "images": [
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 517,
+    "views": 518,
     "forwards": 8,
     "media_group_id": 14073654712928549,
     "images": [
@@ -91800,7 +91800,7 @@
     "id": 6786,
     "date": "2025-09-30T09:27:56",
     "text": "拍飞机 <i class=\"custom-emoji\" emoji-src=\"emoji/5445045034040697273.tgs\">✈️</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 1,
     "media_group_id": 14073795810187485,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1493,
+    "views": 1494,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 782,
+    "views": 783,
     "forwards": 10
   },
   {
@@ -97500,7 +97500,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 143,
+    "views": 145,
     "forwards": 0,
     "images": [
       {
@@ -97519,7 +97519,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 126,
+    "views": 128,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97549,7 +97549,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 100,
+    "views": 102,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
