@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1530,
+    "views": 1531,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 815,
+    "views": 817,
     "forwards": 10
   },
   {
@@ -97166,7 +97166,7 @@
     "id": 7222,
     "date": "2025-11-15T15:19:42",
     "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 261,
+    "views": 262,
     "forwards": 5,
     "images": [
       {
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 363,
+    "views": 364,
     "forwards": 10
   },
   {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 946,
+    "views": 1018,
     "forwards": 8,
     "reply": {
       "id": 7212,
