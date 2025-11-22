@@ -16006,7 +16006,7 @@
     "id": 1268,
     "date": "2022-09-26T04:53:36",
     "text": "还没学到泊松分布，尝试用二项分布和一个无线趋近零的时间间隔估算概率居然真的算对了！\n\n数学好神奇",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "images": [
       {
@@ -16104,7 +16104,7 @@
     "id": 1274,
     "date": "2022-09-27T15:12:22",
     "text": "读了一下 Java 11 到 19 的新功能\n\n...怎么感觉 Java 四年加的功能还没有 Kotlin 一个月加的多 🌚",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -48583,7 +48583,7 @@
     "id": 3559,
     "date": "2024-04-06T23:57:37",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n三明治！融化的奶酪真是好文明 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 13699582861113037,
     "images": [
@@ -48648,7 +48648,7 @@
     "id": 3563,
     "date": "2024-04-07T07:57:55",
     "text": "土豆草莓（？）",
-    "views": 139,
+    "views": 140,
     "forwards": 1,
     "images": [
       {
@@ -48700,7 +48700,7 @@
     "id": 3567,
     "date": "2024-04-08T19:12:21",
     "text": "是一个用手机对着太阳拍的傻瓜",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "files": [
       {
@@ -48722,7 +48722,7 @@
     "id": 3568,
     "date": "2024-04-08T19:33:19",
     "text": "好看！",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "media_group_id": 13700838399361029,
     "images": [
@@ -48752,7 +48752,7 @@
     "id": 3570,
     "date": "2024-04-08T19:56:45",
     "text": "和前任和现任和前任的现任一起去了！好热闹好开心",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "media_group_id": 13700849643192773,
     "images": [
@@ -48801,7 +48801,7 @@
   {
     "id": 3574,
     "date": "2024-04-10T20:58:11",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "files": [
       {
@@ -48826,7 +48826,7 @@
     "id": 3575,
     "date": "2024-04-12T13:46:41",
     "text": "刚刚起床看到了 Fabrice Bellard 新发布的 <a href=\"https://bellard.org/tsac\">TSAC</a> 音频编码，是一个用二进制语言重写、为了实际应用优化过的 <a href=\"https://arxiv.org/abs/2306.06546\">DAC</a> neural codec，真的没想到去年六月刚 preprint 的论文今年就能见到实际应用了！\n\n我去年的研究里还用到了 DAC 来着，当时这个东西几乎是所有向量模型里最重的一个，即是双通道、每帧尺寸和帧频率也都很大... 导致这一个模型存下来的矢量 npy 几乎和所有其他模型加起来一样大了（还存了一张加载矢量的时候非常壮观的 btop）\n\n不过看上去 TSAC 解决了很多它的问题，转 8bit 把模型权重减轻了不少，也不需要依赖复杂的 python 环境运行了。好期待哪天 Bellard 能把它整合进 ffmpeg qwq",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "media_group_id": 13703436811200701,
     "images": [
@@ -48866,7 +48866,7 @@
     "id": 3578,
     "date": "2024-04-13T04:28:59",
     "text": "然后刚刚补 OS 课的时候看到有 1997 年论文里提到的概念 2023 年才有人实现出来给 Linux 开 PR...\n\n不同领域研究和应用的距离好不一样",
-    "views": 126,
+    "views": 127,
     "forwards": 1,
     "reply": {
       "id": 3575,
@@ -48890,14 +48890,14 @@
     "id": 3579,
     "date": "2024-04-13T16:21:33",
     "text": "考完了 OS，明天就要飞走了还有好多要准备...",
-    "views": 116,
+    "views": 117,
     "forwards": 1
   },
   {
     "id": 3580,
     "date": "2024-04-14T08:43:41",
     "text": "出发六个小时前我在床上和聊聊聊天 be like\n：呜呜呜再过几个小时就见不到聊聊了\n：你要每天给我打电话哦\n：不行，每小时！\n：不行不行，每分钟！每秒！每毫秒！\n：<del>每毫秒给我打一个电话，如果超时五次就会被分布式进程管理器鉴定为卡住了杀掉重开哦</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 117,
+    "views": 118,
     "forwards": 1,
     "reply": {
       "id": 3579,
@@ -48908,7 +48908,7 @@
     "id": 3581,
     "date": "2024-04-15T22:29:26",
     "text": "电源插座\n\nUS / Canada: ☹️\nEU: 😶\nDenmark: 🙂",
-    "views": 120,
+    "views": 121,
     "forwards": 1
   },
   {
@@ -77549,7 +77549,7 @@
     "id": 5627,
     "date": "2025-06-18T11:19:22",
     "text": "好想知道 如果让自己一直跟着看到的第一个箭头（离眼睛直线距离最近的箭头）走，直到看到下一个箭头或者走到一个看不到箭头的地方的话，会走到哪里\n\n还好想知道 如果从世界上每一个箭头开始走，最终停在哪里的次数最多\n<a href=\"##好奇心害死猫\">#好奇心害死猫</a>",
-    "views": 238,
+    "views": 239,
     "forwards": 1
   },
   {
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 698,
+    "views": 701,
     "forwards": 8,
     "images": [
       {
@@ -96547,7 +96547,7 @@
     "id": 7175,
     "date": "2025-11-11T04:54:45",
     "text": "后续：第三方墨盒坏掉了\n\n用第三方墨盒和相纸卡了两次纸。第一次是在出发之前，关机拽一下修好了。第二次墨盒的卡带直接断掉了，完全不能用了，还有塑料膜碎片卡在打印机里费了很大力气才取出来\n\n还好这次有预料到第三方墨盒可能会坏所以带了备份... 以后还是不省钱买官方墨盒好了。",
-    "views": 203,
+    "views": 204,
     "forwards": 0,
     "media_group_id": 14102695080994973,
     "images": [
@@ -96606,7 +96606,7 @@
     "id": 7180,
     "date": "2025-11-11T13:49:49",
     "text": "今天是 k-on 梓喵的生日！早上和 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起去立豊郷小学校进行了圣地巡礼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n学校从建筑布局到气氛都和动画里面完全一样哇，回想起来了不少第一次看 k-on 的时候的回忆\n\n以及看到了梓喵给其他人写的笔记，还有来参拜的大家留下的留言，都好温馨 qwq",
-    "views": 188,
+    "views": 190,
     "forwards": 0,
     "media_group_id": 14102951917738565,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1637,
+    "views": 1639,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 884,
+    "views": 886,
     "forwards": 11
   },
   {
@@ -97261,7 +97261,7 @@
     "id": 7228,
     "date": "2025-11-16T12:16:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6102860812051814101.webp\">🌗</i> 234°<span class=\"spoiler\"><span>（11 月 16 日）</span></span>\n\n去翻墙了！（物理）\n\n爬墙好累呀... 台阶超级陡，而且刚上坡就下坡的好折磨，好难想象建的人到底是怎样把每一块转搬上来的，感觉让我搬的话每一块转都需要一天的体力\n\n以及中国的长城感觉好荒凉，是一条两边都看不到边界的分界线。哪边是里是外、是保护还是牢笼也已经分不清了。\n\n<del>地球是圆的，所以我用石子原地摆个圈圈就是保护全世界的长城 </del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</del></i>",
-    "views": 201,
+    "views": 202,
     "forwards": 1,
     "media_group_id": 14106363105405861,
     "images": [
@@ -97371,7 +97371,7 @@
     "id": 7238,
     "date": "2025-11-16T12:34:35",
     "text": "出片（物理）\n\n和长城下面的并不长的小猫",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "media_group_id": 14106371805346341,
     "images": [
@@ -97456,21 +97456,21 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 458,
+    "views": 459,
     "forwards": 11
   },
   {
     "id": 7246,
     "date": "2025-11-17T03:14:13",
     "text": "呜呜 发现在日本买的便携吹风机带到中国之后没法用，因为是 110V\n\n想买一个同时兼容 110V 和 220V 的吹风机，但是能找到的所有吹风机都只兼容一个电压... 好难办 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 254,
+    "views": 255,
     "forwards": 1
   },
   {
     "id": 7247,
     "date": "2025-11-17T08:23:45",
     "text": "<a href=\"##鸡尾酒实验室\">#鸡尾酒实验室</a>\n因为家里打开了一瓶梅酒就正好试着调调酒，发现梅酒 + calpis 还是 + 姜汁都好不错 qwq\n\n（也试了 + 乌龙茶 / + 茉莉茶 但是并不是很喜欢）\n\n喝完酒大困困，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "media_group_id": 14106942604793301,
     "images": [
@@ -97500,7 +97500,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 269,
+    "views": 272,
     "forwards": 0,
     "images": [
       {
@@ -97519,7 +97519,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 269,
+    "views": 271,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97549,7 +97549,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 271,
+    "views": 273,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
@@ -97589,14 +97589,14 @@
     "id": 7255,
     "date": "2025-11-19T03:22:51",
     "text": "<del>有时候很羡慕 AI，代码写出问题了有别人帮忙背锅</del>",
-    "views": 252,
+    "views": 253,
     "forwards": 1
   },
   {
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1509,
+    "views": 1528,
     "forwards": 11,
     "reply": {
       "id": 7212,
@@ -97624,7 +97624,7 @@
     "id": 7257,
     "date": "2025-11-20T03:46:24",
     "text": "WestJet 真厉害，18:35 JST 出发 00:26 EST 到达\n\n然后告诉我途经 5 小时 51 分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 260,
+    "views": 264,
     "forwards": 0,
     "images": [
       {
@@ -97643,7 +97643,7 @@
     "id": 7258,
     "date": "2025-11-20T06:14:28",
     "text": "信 息 高 速 公 路\n\n感觉<a href=\"http://submarinecablemap.com/\">海底线缆地图</a>好奇妙，解释了很多之前不理解的延迟怪谈。以及原本以为跨过太平洋一两万公里这么可怕规模的光线在海底一定只有很少一两根吧，结果发现实际上很常见，基本上每个网络公司都有一根... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n以及发现日本很多小离岛都有单独走线，感觉政府会资助这些居猫比居民多的小岛拉网线好不错呀",
-    "views": 300,
+    "views": 303,
     "forwards": 5,
     "media_group_id": 14108954145660541,
     "images": [
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 305,
+    "views": 307,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,21 +97683,21 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 368,
+    "views": 373,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 376,
+    "views": 383,
     "forwards": 5
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 286,
+    "views": 294,
     "forwards": 1,
     "images": [
       {
@@ -97716,11 +97716,47 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 147,
+    "views": 161,
     "forwards": 2,
     "reply": {
       "id": 7256,
       "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app"
     }
+  },
+  {
+    "id": 7265,
+    "date": "2025-11-22T13:30:47",
+    "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
+    "views": 58,
+    "forwards": 0,
+    "media_group_id": 14110545978129917,
+    "files": [
+      {
+        "width": 744,
+        "height": 1572,
+        "duration": 9,
+        "file_name": "Screen Recording 2025-11-22 211418.x264-23.mp4",
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2025-11-22T13:30:45",
+        "media_type": "video_file",
+        "original_name": "Screen Recording 2025-11-22 211418.x264-23.mp4",
+        "url": "media/7265.mp4",
+        "size": 386888,
+        "thumb": "media/7265.mp4_thumb.jpg"
+      }
+    ],
+    "images": [
+      {
+        "width": 2202,
+        "height": 1720,
+        "date": "2025-11-22T13:30:46",
+        "media_type": "photo",
+        "original_name": "photo_2025-11-22_13-30-46.jpg",
+        "url": "media/7266.jpg",
+        "size": 559518,
+        "thumb": "media/7266.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
