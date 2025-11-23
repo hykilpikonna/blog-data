@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 383,
+    "views": 384,
     "forwards": 7,
     "files": [
       {
@@ -90772,7 +90772,7 @@
     "id": 6699,
     "date": "2025-09-23T12:32:26",
     "text": "和マモル去看了 girls band cry トゲトゲ的武道馆 live！（感谢マモル抽到票\n\n众所周知动画的 OP 是武道馆但是动画并没有演到武道馆，这次开场真的把 OP 原样还原了！结尾还放了动画的 ED... 好感动\n\n中场休息之后居然还为了一首伴奏摆了一个こたつ上去还原了 mmk 的家，弹完这首就撤了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n以及宣布了第二季和新游戏的制作决定诶！好期待\n\n不过真的感觉早换一个 mixing engineer 了，几首歌都混得人声完全被其他乐器盖过去听不到... 之前看动画就已经吐槽过动画里的 live 混音不行了，没想到真的现场更不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 180,
+    "views": 181,
     "forwards": 1,
     "media_group_id": 14069045974667685,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1646,
+    "views": 1649,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 890,
+    "views": 891,
     "forwards": 11
   },
   {
@@ -97500,7 +97500,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 281,
+    "views": 283,
     "forwards": 0,
     "images": [
       {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1560,
+    "views": 1568,
     "forwards": 11,
     "reply": {
       "id": 7212,
@@ -97624,7 +97624,7 @@
     "id": 7257,
     "date": "2025-11-20T03:46:24",
     "text": "WestJet 真厉害，18:35 JST 出发 00:26 EST 到达\n\n然后告诉我途经 5 小时 51 分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 271,
+    "views": 272,
     "forwards": 0,
     "images": [
       {
@@ -97643,7 +97643,7 @@
     "id": 7258,
     "date": "2025-11-20T06:14:28",
     "text": "信 息 高 速 公 路\n\n感觉<a href=\"http://submarinecablemap.com/\">海底线缆地图</a>好奇妙，解释了很多之前不理解的延迟怪谈。以及原本以为跨过太平洋一两万公里这么可怕规模的光线在海底一定只有很少一两根吧，结果发现实际上很常见，基本上每个网络公司都有一根... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n以及发现日本很多小离岛都有单独走线，感觉政府会资助这些居猫比居民多的小岛拉网线好不错呀",
-    "views": 311,
+    "views": 313,
     "forwards": 5,
     "media_group_id": 14108954145660541,
     "images": [
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 318,
+    "views": 321,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,21 +97683,21 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 385,
+    "views": 388,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 398,
+    "views": 401,
     "forwards": 6
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 310,
+    "views": 313,
     "forwards": 1,
     "images": [
       {
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 180,
+    "views": 182,
     "forwards": 2,
     "reply": {
       "id": 7256,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 112,
+    "views": 120,
     "forwards": 1,
     "media_group_id": 14110545978129917,
     "files": [
