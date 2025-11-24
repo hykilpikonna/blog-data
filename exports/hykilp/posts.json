@@ -30569,7 +30569,7 @@
     "id": 2272,
     "date": "2023-06-12T03:46:26",
     "text": "<a href=\"##租房广告\">#租房广告</a>\n九月份多伦多北约克的两居公寓又空出一个房间了，想合租欢迎联系 <a href=\"https://t.me/hykilpikonna\">Azalea</a>！\n\n座标在 Wilson 地铁站旁边走路五分钟，价格大概 CA$950/mo，离 Costco 走路十五分钟。大概是图上那么大的房间，有两个小衣橱、书桌书架椅子、独立卫生间浴室、停车位，共享客厅和厨房。\n\n共享设施的话，有灶台烤箱洗碗机搅拌机洗衣机烘干机、有上下 1 Gbps 光纤 WiFi6、可以分配动态公网 IP 给服务器、可以用我们的两台 3D 打印机、焊接/手工工作台、电钢琴和吉他和 <del>DIY 马林巴琴</del>、电视、VR 头显和各种游戏机和音游手台 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n住在主卧的是 UofT 计算机系本科三年生 Azalea（<a href=\"https://github.com/hykilpikonna\">Github</a> | <a href=\"https://aza.moe/\">Blog</a>）和约克大学软件工程研究生 Lindsey（<a href=\"https://twitter.com/youquzhiji\">Twitter</a>），对室友的要求是 1. 支持 LGBTQ+ <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>，2. 是任意方面的 nerd（有感兴趣到能聊上一整天的东西就满足，比如开源项目/运维/心理/工程/音游/流行文化/铁道/游戏/etc）3. 和我们有越多交集越好\n\n总之想要合租欢迎联系哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 1064,
+    "views": 1065,
     "forwards": 22,
     "media_group_id": 13492332690096989,
     "images": [
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1689,
+    "views": 1691,
     "forwards": 12,
     "reply": {
       "id": 7212,
@@ -97690,14 +97690,14 @@
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 454,
+    "views": 455,
     "forwards": 7
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 367,
+    "views": 368,
     "forwards": 1,
     "images": [
       {
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 246,
+    "views": 248,
     "forwards": 2,
     "reply": {
       "id": 7256,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 227,
+    "views": 228,
     "forwards": 2,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 108,
+    "views": 110,
     "forwards": 0,
     "reply": {
       "id": 7199,
