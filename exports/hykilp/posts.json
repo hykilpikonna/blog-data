@@ -38146,7 +38146,7 @@
     "id": 2844,
     "date": "2023-11-06T06:48:18",
     "text": "<a href=\"##omnicade\">#omnicade</a>\n感觉所有设计都敲定了，今天原本打算去买些 1cm 厚的木板开工。转了一圈发现选购木板也是一件好复杂的事情，好难做选择。\n\nMDF 板和胶合板都在差不多的价格，都是 $43 左右一块 4*8 in 板的样子。对比的话，MDF 最重还更脆弱一点，尤其是从侧面打螺丝非常脆弱，似乎需要换一下固定方式，但是 MDF 平面和切割痕迹都非常完美也不会受潮弯曲，喷漆更平滑，而且似乎比胶合板更难被水浸透。\n\n怎么办呀 又开始选择恐惧症了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 104,
+    "views": 105,
     "forwards": 1,
     "media_group_id": 13594026388331253,
     "images": [
@@ -38201,7 +38201,7 @@
     "id": 2848,
     "date": "2023-11-06T10:31:35",
     "text": "聊聊：这个胶合板看起来好像威化饼干就叫它威化板吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "reply": {
       "id": 2844,
@@ -38213,7 +38213,7 @@
     "id": 2849,
     "date": "2023-11-06T15:59:59",
     "text": "看到对面楼有人把超市的购物车推回家了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -38232,7 +38232,7 @@
     "id": 2850,
     "date": "2023-11-06T18:59:56",
     "text": "草 网速快到下一个种子然后显示网速的 runcat 插件 int32 溢出了 🌚\n\n然后去开了一个真的是我开过的最凡尔赛的 issue 🌚",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -83160,7 +83160,7 @@
     "id": 6080,
     "date": "2025-08-01T16:13:45",
     "text": "和聊聊试了试玩战锤 40k 桌游，有点被无聊到（x） \n\n之前玩 DnD 的话比较喜欢的是剧情的灵活性，但是这里只有战斗。而且作为战斗桌游也不是很好玩，因为感觉战略性太弱了还是很依赖运气...\n\n不知道剧情向的玩法会不会好一点",
-    "views": 326,
+    "views": 327,
     "forwards": 1,
     "images": [
       {
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 723,
+    "views": 724,
     "forwards": 8,
     "images": [
       {
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 326,
+    "views": 327,
     "forwards": 2
   },
   {
@@ -97371,7 +97371,7 @@
     "id": 7238,
     "date": "2025-11-16T12:34:35",
     "text": "出片（物理）\n\n和长城下面的并不长的小猫",
-    "views": 232,
+    "views": 233,
     "forwards": 0,
     "media_group_id": 14106371805346341,
     "images": [
@@ -97456,21 +97456,21 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 489,
+    "views": 490,
     "forwards": 12
   },
   {
     "id": 7246,
     "date": "2025-11-17T03:14:13",
     "text": "呜呜 发现在日本买的便携吹风机带到中国之后没法用，因为是 110V\n\n想买一个同时兼容 110V 和 220V 的吹风机，但是能找到的所有吹风机都只兼容一个电压... 好难办 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 278,
+    "views": 279,
     "forwards": 1
   },
   {
     "id": 7247,
     "date": "2025-11-17T08:23:45",
     "text": "<a href=\"##鸡尾酒实验室\">#鸡尾酒实验室</a>\n因为家里打开了一瓶梅酒就正好试着调调酒，发现梅酒 + calpis 还是 + 姜汁都好不错 qwq\n\n（也试了 + 乌龙茶 / + 茉莉茶 但是并不是很喜欢）\n\n喝完酒大困困，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 268,
+    "views": 270,
     "forwards": 0,
     "media_group_id": 14106942604793301,
     "images": [
@@ -97500,7 +97500,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 304,
+    "views": 306,
     "forwards": 0,
     "images": [
       {
@@ -97519,7 +97519,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 296,
+    "views": 298,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97549,7 +97549,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 302,
+    "views": 305,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
@@ -97589,14 +97589,14 @@
     "id": 7255,
     "date": "2025-11-19T03:22:51",
     "text": "<del>有时候很羡慕 AI，代码写出问题了有别人帮忙背锅</del>",
-    "views": 317,
+    "views": 319,
     "forwards": 1
   },
   {
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1672,
+    "views": 1680,
     "forwards": 12,
     "reply": {
       "id": 7212,
@@ -97624,7 +97624,7 @@
     "id": 7257,
     "date": "2025-11-20T03:46:24",
     "text": "WestJet 真厉害，18:35 JST 出发 00:26 EST 到达\n\n然后告诉我途经 5 小时 51 分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 300,
+    "views": 303,
     "forwards": 0,
     "images": [
       {
@@ -97643,7 +97643,7 @@
     "id": 7258,
     "date": "2025-11-20T06:14:28",
     "text": "信 息 高 速 公 路\n\n感觉<a href=\"http://submarinecablemap.com/\">海底线缆地图</a>好奇妙，解释了很多之前不理解的延迟怪谈。以及原本以为跨过太平洋一两万公里这么可怕规模的光线在海底一定只有很少一两根吧，结果发现实际上很常见，基本上每个网络公司都有一根... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n以及发现日本很多小离岛都有单独走线，感觉政府会资助这些居猫比居民多的小岛拉网线好不错呀",
-    "views": 343,
+    "views": 346,
     "forwards": 5,
     "media_group_id": 14108954145660541,
     "images": [
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 359,
+    "views": 363,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,21 +97683,21 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 430,
+    "views": 435,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 446,
+    "views": 451,
     "forwards": 7
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 359,
+    "views": 364,
     "forwards": 1,
     "images": [
       {
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 241,
+    "views": 243,
     "forwards": 2,
     "reply": {
       "id": 7256,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 220,
+    "views": 222,
     "forwards": 2,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 184,
+    "views": 190,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 76,
+    "views": 91,
     "forwards": 0,
     "reply": {
       "id": 7199,
