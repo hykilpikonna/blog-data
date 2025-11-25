@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6335,
+    "views": 6336,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97105,14 +97105,14 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 908,
+    "views": 909,
     "forwards": 11
   },
   {
     "id": 7219,
     "date": "2025-11-14T01:17:26",
     "text": "上上次写 python 写出 segfault\n上次写 C# 写出 segfault\n这次写网页 ts 都能写出 segfault\n谁懂啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 266,
+    "views": 267,
     "forwards": 1,
     "reply": {
       "id": 4950,
@@ -97136,7 +97136,7 @@
     "id": 7220,
     "date": "2025-11-15T02:13:30",
     "text": "因为配不好 wayland 一直在用 x11，更新一下系统发现登录之后黑屏进不去，抓半天虫虫发现是 x11 不被 gnome 支持了... 好生气",
-    "views": 264,
+    "views": 265,
     "forwards": 1,
     "images": [
       {
@@ -97155,7 +97155,7 @@
     "id": 7221,
     "date": "2025-11-15T03:39:12",
     "text": "后续：修好 wayland 了。黑屏是因为登录的时候显卡被 sunshine 抢走了\n\n感谢 <a href=\"https://t.me/q234rty\">@q234rty</a> 帮忙抓虫虫",
-    "views": 263,
+    "views": 264,
     "forwards": 0,
     "reply": {
       "id": 7220,
@@ -97589,14 +97589,14 @@
     "id": 7255,
     "date": "2025-11-19T03:22:51",
     "text": "<del>有时候很羡慕 AI，代码写出问题了有别人帮忙背锅</del>",
-    "views": 322,
+    "views": 323,
     "forwards": 1
   },
   {
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1696,
+    "views": 1702,
     "forwards": 12,
     "reply": {
       "id": 7212,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 230,
+    "views": 231,
     "forwards": 2,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 198,
+    "views": 200,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 119,
+    "views": 125,
     "forwards": 0,
     "reply": {
       "id": 7199,
