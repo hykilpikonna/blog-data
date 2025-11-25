@@ -1659,7 +1659,7 @@
     "id": 156,
     "date": "2021-10-28T17:09:48",
     "text": "说起来我以前一直觉得 20 以后就会变成「无聊的大人」所以很多计划都是假定 20 岁会死掉来做的（好中二！有很多想法是从椎名もた的曲子和推文里面得来的\n\n不过现在快 20 岁了，以前的那个我也的确死掉了，成为大人的新生活一定会充满人生中最有趣的回忆——种种走出舒适圈的改变、种种对「第一次」的探索、种种为热情投入一切的任性\n\n希望生活会一直这样有趣下去，永远不会成为 routine",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "reply": {
       "id": 140,
@@ -1682,14 +1682,14 @@
     "id": 157,
     "date": "2021-10-29T18:35:18",
     "text": "发现一个有趣的微波炉冷知识：\n\n因为微波炉的输入是十进制，可是到 60 秒才会进位到一分钟，所以有些时间有两种不同的输入方法，比如：\n\n一分钟：既可以输入 1:00 也可以输入 :60\n一分半：既可以输入 1:30 也可以输入 :90\n\n也就是说，如果你想热的时间 s 满足：\ns ∈ [60n, 60n + 39] for some n ∈ ℕ\n的话，有两种方式可以把它输进微波炉：\n1. ⌊s/60⌋ : (s mod 60)\n2. ⌊s/60 - 1⌋ : (s - 60⌊s/60 - 1⌋)\n\n同时也发现了一个省时间小技巧！ <del>（并不能\n</del>如果你想热的时间 s 满足：\ns ∈ [60(10^n), 60(10^n) + 39] for some n ∈ ℕ\n的话，用第二种方式按会省下一个按钮w\n\n（比如 639s 输入 10:39 的话需要按四个按钮，输入 9:99 的话只需要按三个按钮w",
-    "views": 64,
+    "views": 65,
     "forwards": 0
   },
   {
     "id": 158,
     "date": "2021-11-03T02:21:21",
     "text": "其实这边很多人还用 F 的理由是因为他们觉得冰点和沸点在日常生活中并没有什么用，而体温在 C 里面又是 37 这么奇怪的数字——\n\n所以我发明了非线性的 Celsius++，保留了冰点和沸点，又把人体温度从 37°C 映射到了 50°C++",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -1795,7 +1795,7 @@
     "id": 177,
     "date": "2021-11-06T12:13:53",
     "text": "十月的厨房w",
-    "views": 85,
+    "views": 86,
     "forwards": 1,
     "media_group_id": 13089606665310637,
     "images": [
@@ -4430,7 +4430,7 @@
     "id": 451,
     "date": "2022-01-19T22:38:34",
     "text": "🐱",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "images": [
       {
@@ -71380,7 +71380,7 @@
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 4,
     "media_group_id": 13953043115908261,
     "images": [
@@ -96979,7 +96979,7 @@
     "id": 7210,
     "date": "2025-11-12T15:42:32",
     "text": "好炫酷",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "files": [
       {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1727,
+    "views": 1729,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97025,7 +97025,7 @@
     "id": 7212,
     "date": "2025-11-13T00:13:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100472337788835057.webp\">🌖</i> 228° <span class=\"spoiler\"><span>（11 月 10 日）</span></span>\n\n让白猫 <a href=\"https://t.me/omiashi\">@omiashi</a> 带我一起去了カラオケ🎤！是我第一次去カラオケ，三个小时只花了 JP￥1000 好便宜，唱了好多歌，唱到嗓子疼了才离开 <i class=\"custom-emoji\" emoji-src=\"emoji/5443069078501598457.tgs\">🎤</i>\n\n感觉唱歌还是好难呀。虽然音准我有绝对自信，但是读平仮名的速度还完全不行，稍微快一点就跟不上了... 现在大概「きんぎょの夢」这首歌是我读假名能跟上的最快速度\n\n以及白猫唱歌声音好好听，音域也好广，我唱不上去的音高她也能很轻松唱出来的样子... 听得我也想去找声乐老师练声音了\n\n以及今天摸到了真的カラオケ机器才发现家里的 Apple TV 的カラオケ模式缺好多功能。去人声、主旋律辅助、用手机点歌、点歌的时候的音域预览 & 升降调、变速、用振り仮名 / romaji 显示歌词、播放 MV、能给唱歌打分的音游模式... 原来カラオケ系统这么复杂",
-    "views": 282,
+    "views": 283,
     "forwards": 3,
     "media_group_id": 14103942424718133,
     "images": [
@@ -97075,7 +97075,7 @@
     "id": 7216,
     "date": "2025-11-13T05:34:48",
     "text": "好过分，上传 9TB 的 Power User 甚至还在做种的账号就这样被删了",
-    "views": 270,
+    "views": 271,
     "forwards": 2,
     "media_group_id": 14104096703673109,
     "images": [
@@ -97105,14 +97105,14 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 915,
+    "views": 916,
     "forwards": 11
   },
   {
     "id": 7219,
     "date": "2025-11-14T01:17:26",
     "text": "上上次写 python 写出 segfault\n上次写 C# 写出 segfault\n这次写网页 ts 都能写出 segfault\n谁懂啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 270,
+    "views": 271,
     "forwards": 1,
     "reply": {
       "id": 4950,
@@ -97136,7 +97136,7 @@
     "id": 7220,
     "date": "2025-11-15T02:13:30",
     "text": "因为配不好 wayland 一直在用 x11，更新一下系统发现登录之后黑屏进不去，抓半天虫虫发现是 x11 不被 gnome 支持了... 好生气",
-    "views": 268,
+    "views": 269,
     "forwards": 1,
     "images": [
       {
@@ -97155,7 +97155,7 @@
     "id": 7221,
     "date": "2025-11-15T03:39:12",
     "text": "后续：修好 wayland 了。黑屏是因为登录的时候显卡被 sunshine 抢走了\n\n感谢 <a href=\"https://t.me/q234rty\">@q234rty</a> 帮忙抓虫虫",
-    "views": 267,
+    "views": 268,
     "forwards": 0,
     "reply": {
       "id": 7220,
@@ -97166,7 +97166,7 @@
     "id": 7222,
     "date": "2025-11-15T15:19:42",
     "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 328,
+    "views": 329,
     "forwards": 5,
     "images": [
       {
@@ -97185,14 +97185,14 @@
     "id": 7223,
     "date": "2025-11-16T01:46:11",
     "text": "每次去中国都会忘记在中国去公共厕所需要自己带纸... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 2
   },
   {
     "id": 7224,
     "date": "2025-11-16T02:03:52",
     "text": "怀念一蘭<span class=\"spoiler\"><span>（的厕所）</span></span>了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 2,
     "media_group_id": 14106069059511125,
     "images": [
@@ -97519,7 +97519,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 310,
+    "views": 312,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97549,7 +97549,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 315,
+    "views": 316,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
@@ -97589,14 +97589,14 @@
     "id": 7255,
     "date": "2025-11-19T03:22:51",
     "text": "<del>有时候很羡慕 AI，代码写出问题了有别人帮忙背锅</del>",
-    "views": 337,
+    "views": 338,
     "forwards": 1
   },
   {
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1757,
+    "views": 1759,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -97624,7 +97624,7 @@
     "id": 7257,
     "date": "2025-11-20T03:46:24",
     "text": "WestJet 真厉害，18:35 JST 出发 00:26 EST 到达\n\n然后告诉我途经 5 小时 51 分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 335,
+    "views": 337,
     "forwards": 0,
     "images": [
       {
@@ -97643,7 +97643,7 @@
     "id": 7258,
     "date": "2025-11-20T06:14:28",
     "text": "信 息 高 速 公 路\n\n感觉<a href=\"http://submarinecablemap.com/\">海底线缆地图</a>好奇妙，解释了很多之前不理解的延迟怪谈。以及原本以为跨过太平洋一两万公里这么可怕规模的光线在海底一定只有很少一两根吧，结果发现实际上很常见，基本上每个网络公司都有一根... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n以及发现日本很多小离岛都有单独走线，感觉政府会资助这些居猫比居民多的小岛拉网线好不错呀",
-    "views": 364,
+    "views": 365,
     "forwards": 5,
     "media_group_id": 14108954145660541,
     "images": [
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 391,
+    "views": 392,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,21 +97683,21 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 469,
+    "views": 470,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 484,
+    "views": 485,
     "forwards": 7
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 408,
+    "views": 410,
     "forwards": 1,
     "images": [
       {
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 295,
+    "views": 297,
     "forwards": 2,
     "reply": {
       "id": 7256,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 263,
+    "views": 266,
     "forwards": 2,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -97840,7 +97840,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 171,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -97920,7 +97920,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 126,
+    "views": 131,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97943,7 +97943,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 110,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 90,
+    "views": 98,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,8 +97976,8 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 83,
-    "forwards": 5,
+    "views": 93,
+    "forwards": 6,
     "media_group_id": 14112662159526669,
     "images": [
       {
