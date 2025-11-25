@@ -15089,7 +15089,7 @@
     "id": 1202,
     "date": "2022-09-13T01:35:41",
     "text": "家里的两只鲨鲨生了一只小鲨鲨（？",
-    "views": 178,
+    "views": 179,
     "forwards": 5,
     "images": [
       {
@@ -15108,7 +15108,7 @@
     "id": 1203,
     "date": "2022-09-13T02:11:34",
     "text": "睡觉睡觉w\n\n试试回到以前早睡早起的作息... 现在的作息去听线下课真的太累了",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "reply": {
       "id": 1181,
@@ -15119,14 +15119,14 @@
     "id": 1204,
     "date": "2022-09-13T23:59:13",
     "text": "认真试了一下用 nixos 做主力系统，感觉完全不行（x\n\nnodejs 和 python 很多依赖都需要 native binding，npm/pip 也都把编好的二进制打包进去了。然而因为 nixos 没有一般 linux 的那些路径，大部分二进制都不能直接运行，需要 patchelf 把依赖路径都改掉才行...\n\n用 nixpkgs 里面的 pythonPackages 和 nodePackages 写 nix 构建脚本的话就没办法保证别人在普通的 distro 上也能正常用 npm/pip 构建了，而且 nixpkgs 的更新频率好慢\n\n还有一个问题就是，虽然 /etc 系统配置同步很方便，但是用同样方式同步用户 home 的配置的话非常麻烦... 用 home-manager 就不能在应用内改设置了，必须花时间查每个选项用 nix 语法应该怎么写\n\n决定还是换成 Arch + nix 啦",
-    "views": 87,
+    "views": 88,
     "forwards": 1
   },
   {
     "id": 1205,
     "date": "2022-09-14T04:40:38",
     "text": "archinstall 好方便，居然全程不用看教程不用输指令就把 Arch 装好了，还自动装好了 gnome\n\n终于不用被 Arch 难入手劝退了 qwq",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "images": [
       {
@@ -15281,14 +15281,14 @@
     "id": 1214,
     "date": "2022-09-18T13:56:21",
     "text": "梦到期末演讲讲了一个 telegram 表情分类模型...\n\n这个想法好棒！如果能做一个自动给贴纸选择对应 emoji 的模型的话就能自动化表情包转换了\n\n...感谢梦神托给我这么好的想法 qwq",
-    "views": 60,
+    "views": 61,
     "forwards": 0
   },
   {
     "id": 1215,
     "date": "2022-09-19T00:32:40",
     "text": "周日先把一整周的午餐三明治做好 qwq",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13308380481565533,
     "images": [
@@ -62826,7 +62826,7 @@
     "id": 4582,
     "date": "2024-10-25T01:48:53",
     "text": "今天花了一整天的时间解开了 pjsk 网络请求的 AES 加密 qwq 终于可以调 API 了！\n\n对过程感兴趣的可以来看 writeup，发了 Blog 在这里：<a href=\"https://aza.moe/blog?post=2024-10-24-PJSK-Reversing\">世界计划 缤纷舞台！feat. IL2Cpp</a>",
-    "views": 120,
+    "views": 121,
     "forwards": 1,
     "media_group_id": 13838567470816821,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8243,
+    "views": 8244,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 724,
+    "views": 725,
     "forwards": 8,
     "images": [
       {
@@ -95174,7 +95174,7 @@
     "id": 7061,
     "date": "2025-11-02T12:08:49",
     "text": "哭了... 住 Airbnb 结果这两天都没有网\n\n昨天的住处是连上 WiFi 之后 https 443 会 connection reset, 只有 http 80 是好的\n\n今天的住处是没有密码只有 WPS，但是五个人身上所有设备里支持用 WPS 按钮连接 WiFi 的只有我的相机... 用 Linux iwd 都连不上 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 204,
+    "views": 205,
     "forwards": 0,
     "media_group_id": 14096682636792893,
     "images": [
@@ -95224,7 +95224,7 @@
     "id": 7065,
     "date": "2025-11-02T18:52:19",
     "text": "去了「長部田海床路」\n\n是一条若隐若现的海路——退潮的时候会出现、涨潮的时候会消失，每天只会出现两次。感觉是经常会出现在动画里的梦幻设定，像某种「连接异世界的传送带」之类的。\n\n在这里从退潮等到了涨潮，退潮的时候慢悠悠走到了尽头，涨潮的时候一直向回跑才没被正在消失的道路追上。等我回到海滩边之后这条路已经完全消失了，只剩下电线杆还立在水上\n\n捡到了一些灵性贝壳，可惜离开海床路似乎就变成了普通贝壳，不会自己长出腿在浅浅水中移动了",
-    "views": 177,
+    "views": 178,
     "forwards": 0,
     "media_group_id": 14096876313231437,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1704,
+    "views": 1706,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97500,7 +97500,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 308,
+    "views": 309,
     "forwards": 0,
     "images": [
       {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1692,
+    "views": 1696,
     "forwards": 12,
     "reply": {
       "id": 7212,
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 366,
+    "views": 368,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,21 +97683,21 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 439,
+    "views": 441,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 455,
+    "views": 456,
     "forwards": 7
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 368,
+    "views": 369,
     "forwards": 1,
     "images": [
       {
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 248,
+    "views": 249,
     "forwards": 2,
     "reply": {
       "id": 7256,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 228,
+    "views": 230,
     "forwards": 2,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 196,
+    "views": 198,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 112,
+    "views": 119,
     "forwards": 0,
     "reply": {
       "id": 7199,
