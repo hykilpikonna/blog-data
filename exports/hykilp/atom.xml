@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-11-25T14:19:20.314062+00:00</updated>
+  <updated>2025-11-25T16:19:47.066361+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7279</id>
+    <title>小桂桂的回忆录 📒 #7279</title>
+    <updated>2025-11-25T14:59:29+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##アマオケ"&gt;#アマオケ&lt;/a&gt; 第一个版本公开部署了！
+&lt;a href="https://amaoke.app/"&gt;
+链接是 amaoke.app&lt;/a&gt; 欢迎来玩 qwq&lt;/p&gt;
+&lt;p&gt;不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 &lt;i class="custom-emoji" emoji-src="emoji/6114040285505783709.webm"&gt;🙏&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;开源仓库&lt;a href="https://github.com/MaigoLabs/amaoke.app"&gt;在这里&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7279" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>7278</id>
+    <title>小桂桂的回忆录 📒 #7278</title>
+    <updated>2025-11-25T14:51:49+00:00</updated>
+    <content>&lt;p&gt;好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7278" rel="alternate"/>
+  </entry>
   <entry>
     <id>7277</id>
     <title>小桂桂的回忆录 📒 #7277</title>
