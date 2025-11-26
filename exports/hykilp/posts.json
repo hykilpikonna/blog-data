@@ -58335,7 +58335,7 @@
     "id": 4272,
     "date": "2024-08-02T16:01:41",
     "text": "时间过得好快，一转眼就已经在这里三个月了，到了要告别的时间... 和 Menci 收拾了一下房间和行李，拉上 syama 一起吃了一顿午饭就匆匆忙忙地出发了。\n\n好不舍... 下次来这里会是什么时候呢？这里会变成什么样子呢？",
-    "views": 152,
+    "views": 153,
     "forwards": 1,
     "media_group_id": 13780916009305461,
     "images": [
@@ -62523,14 +62523,14 @@
     "id": 4557,
     "date": "2024-10-20T04:53:32",
     "text": "下午七点睡凌晨一点起是什么作息",
-    "views": 130,
+    "views": 131,
     "forwards": 0
   },
   {
     "id": 4558,
     "date": "2024-10-20T13:34:48",
     "text": "从凌晨一点熬到八点，需要测试长途打 +86 电话的时候原本想给 menci 打电话测试，然后下意识换算了一下时区寻思 menci 早上八点肯定没醒 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n刚才才突然意识到不对我现在是早上八点，国内是晚上八点 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "reply": {
       "id": 4557,
@@ -64768,7 +64768,7 @@
     "id": 4708,
     "date": "2024-12-01T17:27:12",
     "text": "也许我感情经历中没有过 100% 顺直的对象也是因为这些事情 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 158,
+    "views": 159,
     "forwards": 2,
     "reply": {
       "id": 4707,
@@ -64779,14 +64779,14 @@
     "id": 4709,
     "date": "2024-12-02T15:04:35",
     "text": "\"Reward hacking\" 是不是就是大模型找到了毒品 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 0
   },
   {
     "id": 4710,
     "date": "2024-12-02T15:08:39",
     "text": "我觉得这句话和「Onshape 是不是就是现实世界的 Figma」有异曲同工之妙",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "forwarded_from": {
       "name": "Menci 💖",
@@ -64797,7 +64797,7 @@
     "id": 4711,
     "date": "2024-12-02T17:21:15",
     "text": "一周之前自己剪了一下头发，今天又重新修了一下，剪成 ena 内扣短发了 qwq（感谢聊聊帮忙修后面自己看不见的头发\n\n尝试了一直不敢尝试的发型 <span class=\"spoiler\"><span>一直害怕短发会变得不 pass，看来也并没有喵</span></span>",
-    "views": 156,
+    "views": 157,
     "forwards": 3,
     "images": [
       {
@@ -64816,7 +64816,7 @@
     "id": 4712,
     "date": "2024-12-03T04:20:27",
     "text": "姜上面长出了青葱（？）<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 146,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -64835,7 +64835,7 @@
     "id": 4713,
     "date": "2024-12-03T14:27:20",
     "text": "作息调回来了！",
-    "views": 142,
+    "views": 143,
     "forwards": 0,
     "images": [
       {
@@ -64854,7 +64854,7 @@
     "id": 4714,
     "date": "2024-12-03T18:11:38",
     "text": "两年前设计的补佳乐时钟终于在淘宝上架了！\n\n（感谢 Syama 帮忙上架，明明之前把设计图发给荔枝实验室了但是他们没理我 T^T）\n\n<a href=\"https://item.taobao.com/item.htm?id=859041415321\">链接在这里</a> 欢迎大家下单 qwq",
-    "views": 185,
+    "views": 186,
     "forwards": 4,
     "reply": {
       "id": 925,
@@ -64878,21 +64878,21 @@
     "id": 4715,
     "date": "2024-12-04T03:21:22",
     "text": "Linux 日常：运行一个程序，发现它打开了 xemacs，想退出\n:wq 没有用\n^q 没有用\n^x ^d ^c ^\\ 都没有用\n然后开了一个新的 shell 开任务管理器把它杀了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 150,
+    "views": 151,
     "forwards": 1
   },
   {
     "id": 4716,
     "date": "2024-12-04T17:24:47",
     "text": "呜呜 给 Syama 安利 Davinci Resolve，然后她那边启动会闪退，为什么呢？明明都是 7840HS，都是 Windows 11...\n\n然后发现关掉 clash TUN 就好了，开了就闪退？？然后我这边试了也是，开 TUN 还是 TAP 都不行... 呜呜\n\n好奇怪，Clash TUN 不行，Cloudflare Warp 也不行，但是 Mullvad 和 tailscale exit node 都没问题，是不是只有 IP 层代理会有这个问题\n\n临时解决办法是把 Davinci Control Panel 删掉（<a href=\"https://www.reddit.com/r/davinciresolve/comments/1bx17wy/cloudflare_crash_on_startup_fixed_by_removing/\">来源</a>）",
-    "views": 148,
+    "views": 149,
     "forwards": 0
   },
   {
     "id": 4717,
     "date": "2024-12-05T00:47:50",
     "text": "感觉人群的共识机制不太聪明喵\n\n红灯，甚至还在过车的那种，一个人突然开始过马路，有人估计是没看路跟着这个人开始走，过一会越来越多的人跟着走，最后变成了所有人一起闯红灯过马路 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "images": [
       {
@@ -64911,7 +64911,7 @@
     "id": 4718,
     "date": "2024-12-06T14:37:20",
     "text": "今年多伦多冬天的第一场大雪正好在农历二十四节气之「大雪」的第一天诶 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "media_group_id": 13867966725717885,
     "images": [
@@ -64941,7 +64941,7 @@
     "id": 4720,
     "date": "2024-12-06T18:01:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n为什么觉得兰州拉面里面应该放些洋葱",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "media_group_id": 13868064588399461,
     "images": [
@@ -64971,14 +64971,14 @@
     "id": 4722,
     "date": "2024-12-07T09:41:40",
     "text": "哭哭 Notion 为什么要把「创建 latex 公式」的快捷键绑定到 ctrl + alt + e 还不能改... 总是会不小心按到 ctrl + alt + w 把窗口关了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 197,
+    "views": 198,
     "forwards": 1
   },
   {
     "id": 4723,
     "date": "2024-12-07T18:42:15",
     "text": "考试当天告诉我 ttc 地铁停了... 然后看了一眼打车价格，原本可能 $20 不到的路程现在要 $50",
-    "views": 141,
+    "views": 142,
     "forwards": 2,
     "media_group_id": 13868775484602197,
     "images": [
@@ -65008,7 +65008,7 @@
     "id": 4725,
     "date": "2024-12-07T19:19:54",
     "text": "明明提前出门了十分钟，结果现在已经迟到 20 分钟了还在 shuttle bus 上",
-    "views": 119,
+    "views": 120,
     "forwards": 0,
     "reply": {
       "id": 4723,
@@ -65020,7 +65020,7 @@
     "id": 4726,
     "date": "2024-12-07T22:59:10",
     "text": "考完了，迟到了 40 分钟果然没做完，但是肯定有 70% 了不管啦不管啦\n\n原本是 25 分到的，走了平时走的入口发现门锁了，换了两个入口门都是锁的，绕一大圈绕到正门才进去... 进去就已经 40 分了。到底是哪个天才想的周末考试还把侧门都锁上",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "files": [
       {
@@ -65042,7 +65042,7 @@
     "id": 4727,
     "date": "2024-12-07T23:57:05",
     "text": "felis cactus. <i class=\"custom-emoji\" emoji-src=\"emoji/6327897096699512993.webp\">🐱</i>",
-    "views": 138,
+    "views": 139,
     "forwards": 1
   },
   {
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1353,
+    "views": 1354,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1145,
+    "views": 1146,
     "forwards": 7,
     "files": [
       {
@@ -78419,7 +78419,7 @@
     "id": 5700,
     "date": "2025-06-24T13:37:23",
     "text": "原本以为楼梯被封印住就下不去海边了，但是找到了一条奇妙小路走下去摸到了海\n\n首先走了大鸟居前大交叉点右边一条没有多少人的小路，路中间遇到了一扇写着「西浦灵园」的栅栏，里面是墓地。到那里的时候栅栏正好没有关上，看起来是下坡路就走走看好了，结果还真的从这里走到了海边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 真是好幸运\n\n回去的路上拍到了超好看的日落！人生照片有了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n还看到了超大蜗牛，不过拍照的时候被蚊子吸了三口，有点后悔停下来拍它 <i class=\"custom-emoji\" emoji-src=\"emoji/6170293817233638918.webm\">😐</i>\n\n总之巨大满足！果然去人多的旅游景点还是应该走些大家少走的路 qwq",
-    "views": 218,
+    "views": 219,
     "forwards": 2,
     "media_group_id": 14006177944243765,
     "images": [
@@ -80880,7 +80880,7 @@
     "id": 5904,
     "date": "2025-07-15T04:15:41",
     "text": "从中国买的新滤镜送到了！但是有点翻车\n\n买了这些：\n* UV 用来防紫外、防镜片落灰或者刮伤\n* CPL 用来去除玻璃/水面上的光反射、过滤掉电子设备屏幕的光\n* ND1000 用来降低进入镜头的光量，用来白天拍长曝光\n\n原本打算一直挂着 UV，需要的时候把其他的叠到 UV 上面... 但是发现并不是很行，因为滤镜太厚了，同时叠了两个的时候广角的角上会有黑边...\n\n不太知道怎么办... 裁剪的话本来就很小的 APSC 画幅就更窄了。每次先摘下 UV 再拧其他的滤镜的话对镜头也不太好，不知道镜头上的螺纹寿命能换多少次滤镜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 0,
     "media_group_id": 14020423530192701,
     "images": [
@@ -92235,7 +92235,7 @@
     "id": 6816,
     "date": "2025-10-03T10:43:32",
     "text": "和 menci 和 ACBox 去了东方之门！（实际上是东方之裤衩）\n\n<del>差评，穿过东方之门并没有进入幻想乡</del>\n\n不过中国的人真的好多啊，到处都是挤满了人，人看起来也都不太开心的样子... 好不喜欢在这样的地方旅行",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "media_group_id": 14075905701583101,
     "images": [
@@ -94307,7 +94307,7 @@
     "id": 6983,
     "date": "2025-10-24T18:09:13",
     "text": "<del>work life balance 真的有那么难吗，明明让请无薪假期就好了</del>",
-    "views": 261,
+    "views": 262,
     "forwards": 0,
     "images": [
       {
@@ -94326,14 +94326,14 @@
     "id": 6984,
     "date": "2025-10-24T19:25:37",
     "text": "选择恐惧症 启动一个项目需要做的选择都好难",
-    "views": 259,
+    "views": 260,
     "forwards": 0
   },
   {
     "id": 6985,
     "date": "2025-10-25T09:10:32",
     "text": "精通全世界所有语言的诅咒",
-    "views": 252,
+    "views": 253,
     "forwards": 2,
     "images": [
       {
@@ -94352,7 +94352,7 @@
     "id": 6986,
     "date": "2025-10-25T14:33:35",
     "text": "猫贴贴 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n今天早上出门取快递遇到了这只很黏人的猫，但是没有带食物，所以上楼取了食物又下来了，可惜再下来之后找了无数圈都找不到ta...\n\n不过晚上出门吃饭的时候又找到了！并且成功投喂了猫条 qwq",
-    "views": 249,
+    "views": 250,
     "forwards": 0,
     "files": [
       {
@@ -95784,7 +95784,7 @@
     "id": 7109,
     "date": "2025-11-06T00:26:18",
     "text": "好好笑。\n\n去高松的栗林公园，路边这个纸桶原本是<span class=\"spoiler\"><span>高松</span></span>灯，工作人员怕下雨把灯泡浇坏就盖上了一次性杯子，然后有人看到了一次性杯子以为是垃圾就扔了其他垃圾进去，然后其他人看到有人扔了垃圾就以为这些全都是垃圾桶了在其他的灯里面也扔了垃圾 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 3,
     "media_group_id": 14099110225811453,
     "images": [
@@ -95814,7 +95814,7 @@
     "id": 7111,
     "date": "2025-11-06T03:46:04",
     "text": "栗林公园！\n\n因为从旅店出门忘记带相机用手机拍了拍，然后发现太习惯变焦已经不会用定焦拍照了...",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "media_group_id": 14099206112371293,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1735,
+    "views": 1736,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 918,
+    "views": 919,
     "forwards": 11
   },
   {
@@ -97136,7 +97136,7 @@
     "id": 7220,
     "date": "2025-11-15T02:13:30",
     "text": "因为配不好 wayland 一直在用 x11，更新一下系统发现登录之后黑屏进不去，抓半天虫虫发现是 x11 不被 gnome 支持了... 好生气",
-    "views": 270,
+    "views": 271,
     "forwards": 1,
     "images": [
       {
@@ -97155,7 +97155,7 @@
     "id": 7221,
     "date": "2025-11-15T03:39:12",
     "text": "后续：修好 wayland 了。黑屏是因为登录的时候显卡被 sunshine 抢走了\n\n感谢 <a href=\"https://t.me/q234rty\">@q234rty</a> 帮忙抓虫虫",
-    "views": 268,
+    "views": 269,
     "forwards": 0,
     "reply": {
       "id": 7220,
@@ -97166,7 +97166,7 @@
     "id": 7222,
     "date": "2025-11-15T15:19:42",
     "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 329,
+    "views": 330,
     "forwards": 5,
     "images": [
       {
@@ -97185,14 +97185,14 @@
     "id": 7223,
     "date": "2025-11-16T01:46:11",
     "text": "每次去中国都会忘记在中国去公共厕所需要自己带纸... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 258,
+    "views": 259,
     "forwards": 2
   },
   {
     "id": 7224,
     "date": "2025-11-16T02:03:52",
     "text": "怀念一蘭<span class=\"spoiler\"><span>（的厕所）</span></span>了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 264,
+    "views": 265,
     "forwards": 2,
     "media_group_id": 14106069059511125,
     "images": [
@@ -97226,7 +97226,7 @@
     "id": 7226,
     "date": "2025-11-16T08:27:47",
     "text": "发现了野生的木琴！（不过为什么所有琴键都是同样的音色 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "media_group_id": 14106253338050181,
     "files": [
@@ -97261,7 +97261,7 @@
     "id": 7228,
     "date": "2025-11-16T12:16:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6102860812051814101.webp\">🌗</i> 234°<span class=\"spoiler\"><span>（11 月 16 日）</span></span>\n\n去翻墙了！（物理）\n\n爬墙好累呀... 台阶超级陡，而且刚上坡就下坡的好折磨，好难想象建的人到底是怎样把每一块转搬上来的，感觉让我搬的话每一块转都需要一天的体力\n\n以及中国的长城感觉好荒凉，是一条两边都看不到边界的分界线。哪边是里是外、是保护还是牢笼也已经分不清了。\n\n<del>地球是圆的，所以我用石子原地摆个圈圈就是保护全世界的长城 </del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</del></i>",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "media_group_id": 14106363105405861,
     "images": [
@@ -97371,7 +97371,7 @@
     "id": 7238,
     "date": "2025-11-16T12:34:35",
     "text": "出片（物理）\n\n和长城下面的并不长的小猫",
-    "views": 237,
+    "views": 238,
     "forwards": 0,
     "media_group_id": 14106371805346341,
     "images": [
@@ -97456,21 +97456,21 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 499,
+    "views": 500,
     "forwards": 12
   },
   {
     "id": 7246,
     "date": "2025-11-17T03:14:13",
     "text": "呜呜 发现在日本买的便携吹风机带到中国之后没法用，因为是 110V\n\n想买一个同时兼容 110V 和 220V 的吹风机，但是能找到的所有吹风机都只兼容一个电压... 好难办 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 287,
+    "views": 288,
     "forwards": 1
   },
   {
     "id": 7247,
     "date": "2025-11-17T08:23:45",
     "text": "<a href=\"##鸡尾酒实验室\">#鸡尾酒实验室</a>\n因为家里打开了一瓶梅酒就正好试着调调酒，发现梅酒 + calpis 还是 + 姜汁都好不错 qwq\n\n（也试了 + 乌龙茶 / + 茉莉茶 但是并不是很喜欢）\n\n喝完酒大困困，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 280,
+    "views": 281,
     "forwards": 0,
     "media_group_id": 14106942604793301,
     "images": [
@@ -97500,7 +97500,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 321,
+    "views": 323,
     "forwards": 0,
     "images": [
       {
@@ -97519,7 +97519,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 317,
+    "views": 318,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97549,7 +97549,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 317,
+    "views": 318,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
@@ -97589,14 +97589,14 @@
     "id": 7255,
     "date": "2025-11-19T03:22:51",
     "text": "<del>有时候很羡慕 AI，代码写出问题了有别人帮忙背锅</del>",
-    "views": 339,
+    "views": 340,
     "forwards": 1
   },
   {
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1770,
+    "views": 1774,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -97624,7 +97624,7 @@
     "id": 7257,
     "date": "2025-11-20T03:46:24",
     "text": "WestJet 真厉害，18:35 JST 出发 00:26 EST 到达\n\n然后告诉我途经 5 小时 51 分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 342,
+    "views": 343,
     "forwards": 0,
     "images": [
       {
@@ -97643,7 +97643,7 @@
     "id": 7258,
     "date": "2025-11-20T06:14:28",
     "text": "信 息 高 速 公 路\n\n感觉<a href=\"http://submarinecablemap.com/\">海底线缆地图</a>好奇妙，解释了很多之前不理解的延迟怪谈。以及原本以为跨过太平洋一两万公里这么可怕规模的光线在海底一定只有很少一两根吧，结果发现实际上很常见，基本上每个网络公司都有一根... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n以及发现日本很多小离岛都有单独走线，感觉政府会资助这些居猫比居民多的小岛拉网线好不错呀",
-    "views": 370,
+    "views": 371,
     "forwards": 5,
     "media_group_id": 14108954145660541,
     "images": [
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 396,
+    "views": 400,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,21 +97683,21 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 474,
+    "views": 478,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 491,
+    "views": 496,
     "forwards": 7
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 416,
+    "views": 424,
     "forwards": 1,
     "images": [
       {
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 304,
+    "views": 308,
     "forwards": 2,
     "reply": {
       "id": 7256,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 275,
+    "views": 277,
     "forwards": 2,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 233,
+    "views": 235,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 199,
+    "views": 203,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -97840,7 +97840,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 185,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -97920,7 +97920,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 155,
+    "views": 163,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97943,7 +97943,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 140,
+    "views": 150,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 137,
+    "views": 148,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 132,
+    "views": 146,
     "forwards": 6,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98076,7 +98076,7 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 56,
+    "views": 90,
     "forwards": 2
   }
 ]
