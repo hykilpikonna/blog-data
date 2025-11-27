@@ -74846,7 +74846,7 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 329,
+    "views": 330,
     "forwards": 2
   },
   {
@@ -89026,7 +89026,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 398,
+    "views": 399,
     "forwards": 4,
     "files": [
       {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1740,
+    "views": 1741,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 507,
+    "views": 508,
     "forwards": 12
   },
   {
@@ -97470,7 +97470,7 @@
     "id": 7247,
     "date": "2025-11-17T08:23:45",
     "text": "<a href=\"##鸡尾酒实验室\">#鸡尾酒实验室</a>\n因为家里打开了一瓶梅酒就正好试着调调酒，发现梅酒 + calpis 还是 + 姜汁都好不错 qwq\n\n（也试了 + 乌龙茶 / + 茉莉茶 但是并不是很喜欢）\n\n喝完酒大困困，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 286,
+    "views": 287,
     "forwards": 0,
     "media_group_id": 14106942604793301,
     "images": [
@@ -97500,7 +97500,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 328,
+    "views": 329,
     "forwards": 0,
     "images": [
       {
@@ -97943,7 +97943,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 171,
+    "views": 173,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 177,
+    "views": 179,
     "forwards": 6,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98076,14 +98076,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 152,
+    "views": 154,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 128,
+    "views": 132,
     "forwards": 2,
     "reply": {
       "id": 7289,
