@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 522,
+    "views": 523,
     "forwards": 8,
     "media_group_id": 14073654712928549,
     "images": [
@@ -95066,7 +95066,7 @@
     "id": 7047,
     "date": "2025-11-02T00:21:42",
     "text": "出片（物理）",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "media_group_id": 14096343221079501,
     "images": [
@@ -95136,7 +95136,7 @@
     "id": 7053,
     "date": "2025-11-02T03:34:45",
     "text": "牛ーーーーーーーーー丼！",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "images": [
       {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1768,
+    "views": 1772,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 983,
+    "views": 984,
     "forwards": 12
   },
   {
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 519,
+    "views": 520,
     "forwards": 12
   },
   {
@@ -97470,7 +97470,7 @@
     "id": 7247,
     "date": "2025-11-17T08:23:45",
     "text": "<a href=\"##鸡尾酒实验室\">#鸡尾酒实验室</a>\n因为家里打开了一瓶梅酒就正好试着调调酒，发现梅酒 + calpis 还是 + 姜汁都好不错 qwq\n\n（也试了 + 乌龙茶 / + 茉莉茶 但是并不是很喜欢）\n\n喝完酒大困困，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 297,
+    "views": 298,
     "forwards": 0,
     "media_group_id": 14106942604793301,
     "images": [
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1843,
+    "views": 1846,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -97697,7 +97697,7 @@
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 448,
+    "views": 449,
     "forwards": 2,
     "images": [
       {
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 333,
+    "views": 336,
     "forwards": 3,
     "reply": {
       "id": 7256,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 304,
+    "views": 308,
     "forwards": 3,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 266,
+    "views": 270,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 227,
+    "views": 229,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -97840,7 +97840,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 221,
+    "views": 223,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -97920,7 +97920,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 200,
+    "views": 204,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97943,7 +97943,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 196,
+    "views": 199,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 200,
+    "views": 202,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 210,
+    "views": 212,
     "forwards": 6,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98076,14 +98076,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 198,
+    "views": 201,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 205,
+    "views": 208,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98094,7 +98094,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 198,
+    "views": 201,
     "forwards": 4,
     "images": [
       {
@@ -98113,7 +98113,7 @@
     "id": 7292,
     "date": "2025-11-27T14:21:37",
     "text": "今天和 <a href=\"https://t.me/Aoino_Skynext\">@Aoino_Skynext</a> 和 <a href=\"https://t.me/renna_z\">@renna_z</a> 去了广州<i class=\"custom-emoji\" emoji-src=\"emoji/6291579304216103504.webp\">🏳️‍⚧️</i>塔！\n\n还去旁边的桥上看了日落，风景好不错好不错！没有带相机真的太可惜了\n\n<del>以及看到了对面的桥在播 bad apple</del>（存疑）",
-    "views": 150,
+    "views": 158,
     "forwards": 1,
     "media_group_id": 14114026380721021,
     "images": [
@@ -98223,7 +98223,7 @@
     "id": 7302,
     "date": "2025-11-28T05:01:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n广式牛丼（...？）",
-    "views": 123,
+    "views": 137,
     "forwards": 0,
     "images": [
       {
@@ -98242,7 +98242,7 @@
     "id": 7303,
     "date": "2025-11-28T10:16:31",
     "text": "感觉广州好猫猫喵喵的，今天已经遇到了十多只猫猫了",
-    "views": 73,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 14114599932668413,
     "images": [
@@ -98322,7 +98322,7 @@
     "id": 7310,
     "date": "2025-11-28T11:03:46",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n\n三个一加手机好好笑",
-    "views": 67,
+    "views": 102,
     "forwards": 2,
     "media_group_id": 14114622614571069,
     "images": [
@@ -98345,6 +98345,25 @@
         "url": "media/7311.jpg",
         "size": 392821,
         "thumb": "media/7311.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7312,
+    "date": "2025-11-28T13:19:47",
+    "text": "有 障 碍 卫 生 间",
+    "views": 66,
+    "forwards": 1,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-11-28T13:14:32",
+        "media_type": "photo",
+        "original_name": "photo_2025-11-28_13-14-32.jpg",
+        "url": "media/7312.jpg",
+        "size": 562374,
+        "thumb": "media/7312.jpg_thumb.jpg"
       }
     ]
   }
