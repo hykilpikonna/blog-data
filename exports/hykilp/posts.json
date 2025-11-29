@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6338,
+    "views": 6340,
     "forwards": 148,
     "media_group_id": 13966976157341773,
     "images": [
@@ -95723,7 +95723,7 @@
     "id": 7104,
     "date": "2025-11-05T12:16:51",
     "text": "去中国了",
-    "views": 198,
+    "views": 199,
     "forwards": 1,
     "media_group_id": 14098760091858925,
     "images": [
@@ -95773,7 +95773,7 @@
     "id": 7108,
     "date": "2025-11-05T14:03:00",
     "text": "住的民宿隔壁家狗狗好灵敏，误判好多哦\n\n我们刚到这里的时候闻到味道狂叫，然后隔壁主人就带着狗狗一起出来看了一眼，帮我们找到了房间然后回去了。刚才泡澡觉得热打开了窗户，狗狗又开始狂叫，又出来看了一眼回去了。然后我开始抹洗发水，狗狗又开始狂叫...",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "reply": {
       "id": 7103,
@@ -95784,7 +95784,7 @@
     "id": 7109,
     "date": "2025-11-06T00:26:18",
     "text": "好好笑。\n\n去高松的栗林公园，路边这个纸桶原本是<span class=\"spoiler\"><span>高松</span></span>灯，工作人员怕下雨把灯泡浇坏就盖上了一次性杯子，然后有人看到了一次性杯子以为是垃圾就扔了其他垃圾进去，然后其他人看到有人扔了垃圾就以为这些全都是垃圾桶了在其他的灯里面也扔了垃圾 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 3,
     "media_group_id": 14099110225811453,
     "images": [
@@ -95814,7 +95814,7 @@
     "id": 7111,
     "date": "2025-11-06T03:46:04",
     "text": "栗林公园！\n\n因为从旅店出门忘记带相机用手机拍了拍，然后发现太习惯变焦已经不会用定焦拍照了...",
-    "views": 184,
+    "views": 185,
     "forwards": 1,
     "media_group_id": 14099206112371293,
     "images": [
@@ -95929,7 +95929,7 @@
     "id": 7121,
     "date": "2025-11-06T05:44:21",
     "text": "谷歌地图 😇\n\n即使我走了正确的路走到了之后依然在尝试给我导航到错误的路",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "media_group_id": 14099262893963693,
     "images": [
@@ -95979,7 +95979,7 @@
     "id": 7125,
     "date": "2025-11-06T05:58:07",
     "text": "四国最北端\n\n...高潮对策所以关上了（？）<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 14099269500648285,
     "images": [
@@ -96089,7 +96089,7 @@
     "id": 7135,
     "date": "2025-11-06T07:10:59",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n杂旅圣地之乌冬山田家",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 14099304474643445,
     "images": [
@@ -96169,14 +96169,14 @@
     "id": 7142,
     "date": "2025-11-06T10:12:55",
     "text": "总是分不清う和ラ\n\n：ラどん\n：うーメン",
-    "views": 188,
+    "views": 189,
     "forwards": 2
   },
   {
     "id": 7143,
     "date": "2025-11-07T10:38:39",
     "text": "...?",
-    "views": 197,
+    "views": 198,
     "forwards": 1,
     "images": [
       {
@@ -96195,7 +96195,7 @@
     "id": 7144,
     "date": "2025-11-07T11:03:49",
     "text": "旅店的睡衣\n\n...回到日本这几天吃胖了",
-    "views": 200,
+    "views": 201,
     "forwards": 5,
     "images": [
       {
@@ -96214,7 +96214,7 @@
     "id": 7145,
     "date": "2025-11-07T11:33:39",
     "text": "和マモル一起玩的最后一天去了四国水族馆！坐下来和海豚一起看着太阳落下去好治愈\n\n...结果看了太久日落海豚导致留给本馆只下剩一小时，匆匆忙忙看完了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170285716925319156.webm\">😖</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 0,
     "media_group_id": 14100121758772333,
     "images": [
@@ -96324,7 +96324,7 @@
     "id": 7157,
     "date": "2025-11-08T11:54:14",
     "text": "第一次住和房东分房间的那种 airbnb\n\n房东老奶奶超厉害，是日本人，主业是做音乐，日语中文英文都会说，然后入住的时候我们都是三种语言无缝融合居然还能听懂对方在说什么... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好奇妙",
-    "views": 218,
+    "views": 219,
     "forwards": 0,
     "media_group_id": 14100822831808557,
     "images": [
@@ -96374,7 +96374,7 @@
     "id": 7161,
     "date": "2025-11-08T13:33:29",
     "text": "<del>想要买瓶无酒精啤酒边喝边开车</del>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97166,7 +97166,7 @@
     "id": 7222,
     "date": "2025-11-15T15:19:42",
     "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 358,
+    "views": 359,
     "forwards": 5,
     "images": [
       {
@@ -97185,7 +97185,7 @@
     "id": 7223,
     "date": "2025-11-16T01:46:11",
     "text": "每次去中国都会忘记在中国去公共厕所需要自己带纸... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 268,
+    "views": 269,
     "forwards": 2
   },
   {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1853,
+    "views": 1854,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 214,
+    "views": 215,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 219,
+    "views": 220,
     "forwards": 6,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98352,7 +98352,7 @@
     "id": 7312,
     "date": "2025-11-28T13:19:47",
     "text": "有 障 碍 卫 生 间",
-    "views": 141,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -98371,7 +98371,7 @@
     "id": 7313,
     "date": "2025-11-28T15:59:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 103,
+    "views": 108,
     "forwards": 0,
     "files": [
       {
@@ -98393,7 +98393,7 @@
     "id": 7314,
     "date": "2025-11-28T16:27:08",
     "text": "和 <a href=\"https://t.me/YuanAshes\">@YuanAshes</a> 和 <a href=\"https://t.me/renna_z\">@renna_z</a> 和 <a href=\"https://t.me/Recopec\">@Recopec</a> 去白云山看了日落！\n\n原本以为这种很大众的旅游景点应该是本地人都去过的，没想到沫沫和 <a href=\"https://t.me/Recopec\">@Recopec</a> 都没去过，奇妙\n\n以及原本以为太阳落到云下面去之后日落就已经结束了，然后就去坐缆车下山了，结果发现在缆车上天空变成紫色<del>被 empurple </del>的时候才最好看",
-    "views": 93,
+    "views": 98,
     "forwards": 1,
     "media_group_id": 14114777830105621,
     "images": [
@@ -98503,7 +98503,7 @@
     "id": 7324,
     "date": "2025-11-28T16:28:38",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n染上紫色",
-    "views": 96,
+    "views": 102,
     "forwards": 0,
     "files": [
       {
@@ -98525,8 +98525,8 @@
     "id": 7325,
     "date": "2025-11-28T16:55:33",
     "text": "今天还去了圣心大教堂和沙面岛 qwq\n\n在教堂遇到了香港那边天主教小学的旅行团过来参观感觉好奇妙，虽然回想起我在天主教学校的经历也笑不出来\n\n以及在教堂旁边遇到了一个完全无人看管的售卖庭，卖一些纪念品和圣经之类的。虽然这种纯靠自觉的售卖庭在日本挺常见的，但是在中国这还是我第一次见... 可能也只有教堂这里会有人愿意相信中国游客的自觉了\n\n以及在街上看到了初音未来配色的星巴克和初音未来（？）",
-    "views": 92,
-    "forwards": 1,
+    "views": 102,
+    "forwards": 2,
     "media_group_id": 14114791471027077,
     "images": [
       {
@@ -98635,7 +98635,7 @@
     "id": 7335,
     "date": "2025-11-28T17:06:00",
     "text": "<span class=\"spoiler\"><span>「今天是明天的延伸\n    明天是今天的终结」</span></span>",
-    "views": 92,
+    "views": 101,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
