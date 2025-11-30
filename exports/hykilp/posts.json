@@ -42480,7 +42480,7 @@
     "id": 3146,
     "date": "2024-01-05T21:05:03",
     "text": "不喜欢命令行编辑器另一个原因是因为，无论是 vim 还是 nano 都没办法在保存的时候尝试 sudo 保存... 每次都是忘了 sudo 然后在保存的时候才发现没权限写不进去，然后就只能退出重新 sudo 启动编辑一遍再保存了 💢\n\n而 GUI 编辑器无论是 vscode 还是 gnome 自带的都会自动请求权限",
-    "views": 163,
+    "views": 164,
     "forwards": 1,
     "images": [
       {
@@ -42499,7 +42499,7 @@
     "id": 3147,
     "date": "2024-01-06T06:36:23",
     "text": "高中同学来玩，给我带了芒果蛋糕，好吃！开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 13636183865706885,
     "files": [
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42624,7 +42624,7 @@
     "id": 3155,
     "date": "2024-01-09T06:04:56",
     "text": "哭 发现今年的六门课里只有两门有 recording，看来不能像上学期一样不去学校了...",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "images": [
       {
@@ -42643,7 +42643,7 @@
     "id": 3156,
     "date": "2024-01-09T10:37:50",
     "text": "之前打博德之门 3 的时候在第三章从一个地洞出来真的梦回英雄无敌 3，然后今天在和聊聊重温英雄无敌 3 打教程关\n\n我：呜呜，这个游戏比我老了，99 年的\n聊聊：呜呜呜呜呜，这个游戏比我小啊",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "images": [
       {
@@ -77530,7 +77530,7 @@
     "id": 5626,
     "date": "2025-06-18T09:11:04",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5406709143799085132.webp\">🌸</i>🙅‍♀️\n\n<span class=\"spoiler\"><span>好吧众所周知切手（きって）是邮票</span></span>",
-    "views": 249,
+    "views": 250,
     "forwards": 0,
     "images": [
       {
@@ -77549,14 +77549,14 @@
     "id": 5627,
     "date": "2025-06-18T11:19:22",
     "text": "好想知道 如果让自己一直跟着看到的第一个箭头（离眼睛直线距离最近的箭头）走，直到看到下一个箭头或者走到一个看不到箭头的地方的话，会走到哪里\n\n还好想知道 如果从世界上每一个箭头开始走，最终停在哪里的次数最多\n<a href=\"##好奇心害死猫\">#好奇心害死猫</a>",
-    "views": 241,
+    "views": 242,
     "forwards": 1
   },
   {
     "id": 5628,
     "date": "2025-06-18T12:08:08",
     "text": "<a href=\"##冲绳\">#冲绳</a>\n第四站是美国<span class=\"spoiler\"><span>...村，一点都不美国</span></span>。但是至少看到了烟花和猫猫，听到了路边本地民谣演出，吃了也许很异端但是很好吃的分解塔可拌饭，味道有点像芝士肉沫意饭（之前发过照片了）",
-    "views": 239,
+    "views": 240,
     "forwards": 1,
     "media_group_id": 14001987906286413,
     "images": [
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 671,
+    "views": 672,
     "forwards": 5,
     "images": [
       {
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 525,
+    "views": 527,
     "forwards": 12
   },
   {
@@ -97519,7 +97519,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 340,
+    "views": 341,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97549,7 +97549,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 338,
+    "views": 339,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
@@ -97589,14 +97589,14 @@
     "id": 7255,
     "date": "2025-11-19T03:22:51",
     "text": "<del>有时候很羡慕 AI，代码写出问题了有别人帮忙背锅</del>",
-    "views": 366,
+    "views": 368,
     "forwards": 1
   },
   {
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1870,
+    "views": 1872,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -97624,7 +97624,7 @@
     "id": 7257,
     "date": "2025-11-20T03:46:24",
     "text": "WestJet 真厉害，18:35 JST 出发 00:26 EST 到达\n\n然后告诉我途经 5 小时 51 分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 366,
+    "views": 367,
     "forwards": 0,
     "images": [
       {
@@ -97643,7 +97643,7 @@
     "id": 7258,
     "date": "2025-11-20T06:14:28",
     "text": "信 息 高 速 公 路\n\n感觉<a href=\"http://submarinecablemap.com/\">海底线缆地图</a>好奇妙，解释了很多之前不理解的延迟怪谈。以及原本以为跨过太平洋一两万公里这么可怕规模的光线在海底一定只有很少一两根吧，结果发现实际上很常见，基本上每个网络公司都有一根... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n以及发现日本很多小离岛都有单独走线，感觉政府会资助这些居猫比居民多的小岛拉网线好不错呀",
-    "views": 403,
+    "views": 404,
     "forwards": 5,
     "media_group_id": 14108954145660541,
     "images": [
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 432,
+    "views": 434,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,21 +97683,21 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 508,
+    "views": 510,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 541,
+    "views": 543,
     "forwards": 7
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 459,
+    "views": 461,
     "forwards": 2,
     "images": [
       {
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 348,
+    "views": 351,
     "forwards": 3,
     "reply": {
       "id": 7256,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 320,
+    "views": 322,
     "forwards": 3,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 285,
+    "views": 287,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 244,
+    "views": 246,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -97840,7 +97840,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 243,
+    "views": 244,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -97920,7 +97920,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97943,7 +97943,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 241,
+    "views": 242,
     "forwards": 6,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98371,7 +98371,7 @@
     "id": 7313,
     "date": "2025-11-28T15:59:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 153,
+    "views": 154,
     "forwards": 0,
     "files": [
       {
@@ -98393,7 +98393,7 @@
     "id": 7314,
     "date": "2025-11-28T16:27:08",
     "text": "和 <a href=\"https://t.me/YuanAshes\">@YuanAshes</a> 和 <a href=\"https://t.me/renna_z\">@renna_z</a> 和 <a href=\"https://t.me/Recopec\">@Recopec</a> 去白云山看了日落！\n\n原本以为这种很大众的旅游景点应该是本地人都去过的，没想到沫沫和 <a href=\"https://t.me/Recopec\">@Recopec</a> 都没去过，奇妙\n\n以及原本以为太阳落到云下面去之后日落就已经结束了，然后就去坐缆车下山了，结果发现在缆车上天空变成紫色<del>被 empurple </del>的时候才最好看",
-    "views": 146,
+    "views": 147,
     "forwards": 1,
     "media_group_id": 14114777830105621,
     "images": [
@@ -98525,7 +98525,7 @@
     "id": 7325,
     "date": "2025-11-28T16:55:33",
     "text": "今天还去了圣心大教堂和沙面岛 qwq\n\n在教堂遇到了香港那边天主教小学的旅行团过来参观感觉好奇妙，虽然回想起我在天主教学校的经历也笑不出来\n\n以及在教堂旁边遇到了一个完全无人看管的售卖庭，卖一些纪念品和圣经之类的。虽然这种纯靠自觉的售卖庭在日本挺常见的，但是在中国这还是我第一次见... 可能也只有教堂这里会有人愿意相信中国游客的自觉了\n\n以及在街上看到了初音未来配色的星巴克和初音未来（？）",
-    "views": 160,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 14114791471027077,
     "images": [
@@ -98635,7 +98635,7 @@
     "id": 7335,
     "date": "2025-11-28T17:06:00",
     "text": "<span class=\"spoiler\"><span>「今天是明天的延伸\n    明天是今天的终结」</span></span>",
-    "views": 167,
+    "views": 170,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -98646,7 +98646,7 @@
     "id": 7336,
     "date": "2025-11-29T04:39:57",
     "text": "图像识别爆炸",
-    "views": 165,
+    "views": 168,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -98669,7 +98669,7 @@
     "id": 7337,
     "date": "2025-11-29T05:44:44",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 更新 1.0.1 <i class=\"custom-emoji\" emoji-src=\"emoji/4981169547957502666.webp\">🔧</i>\n\n* 修复了英文词中间没有空格的 bug\n\n（试着在车上工作）",
-    "views": 170,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14115160674036005,
     "images": [
@@ -98704,7 +98704,7 @@
     "id": 7339,
     "date": "2025-11-29T12:02:24",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n<span class=\"spoiler\"><span>终于见到林子了好开心！</span></span><i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 199,
+    "views": 208,
     "forwards": 2,
     "images": [
       {
@@ -98723,7 +98723,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 88,
+    "views": 107,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -98803,7 +98803,7 @@
     "id": 7347,
     "date": "2025-11-30T05:12:32",
     "text": "<del>目标是宝可梦大师的林子</del>",
-    "views": 74,
+    "views": 99,
     "forwards": 1,
     "media_group_id": 14115836419663997,
     "images": [
@@ -98826,6 +98826,26 @@
         "url": "media/7348.jpg",
         "size": 523851,
         "thumb": "media/7348.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7349,
+    "date": "2025-11-30T07:41:59",
+    "text": "遇到了只好象是怀孕了的小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
+    "views": 52,
+    "forwards": 0,
+    "media_group_id": 14115908155859181,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-11-30T07:41:57",
+        "media_type": "photo",
+        "original_name": "photo_2025-11-30_07-41-57.jpg",
+        "url": "media/7349.jpg",
+        "size": 935612,
+        "thumb": "media/7349.jpg_thumb.jpg"
       }
     ]
   }
