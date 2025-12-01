@@ -25318,7 +25318,7 @@
     "id": 1903,
     "date": "2023-03-05T08:58:08",
     "text": "明明最近每天都超级高效，deadline 还是要肝不完了... 可能需要找医生开一些利他林超频一下 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 124,
+    "views": 125,
     "forwards": 4
   },
   {
@@ -25419,7 +25419,7 @@
     "id": 1910,
     "date": "2023-03-07T18:18:55",
     "text": "隔壁吃完专注达睡了一个小时，我吃完 200mg 咖啡因片睡了一个小时，我们都有光明的未来 🌚",
-    "views": 158,
+    "views": 159,
     "forwards": 7
   },
   {
@@ -62789,7 +62789,7 @@
     "id": 4579,
     "date": "2024-10-24T01:52:37",
     "text": "发布了 HyFetch <a href=\"https://github.com/hykilpikonna/hyfetch/releases/tag/1.99.0\">1.99.0</a>！\n\n这是最后一个 Python 的版本了，之后的版本会转到 Rust（感谢 Teoh Han Hui 帮忙 RIIR <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n接手 neofetch 的事情也就此告一段落啦，因为看隔壁 fastfetch 挺活跃的所以把默认后端改成了 fastfetch，也把 fastfetch 的二进制打包进去了。感觉继续维护这个八岁一万三千行的 bash 脚本需要的时间精力真的不太值得了（不过如果有人想接手欢迎拿走 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<span class=\"spoiler\"><span>...好吧其实主要还是因为需要我的时间来填的坑实在太多了，想要重新拿回一些生活的时间</span></span> quq",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 13837878060727893,
     "images": [
@@ -62819,7 +62819,7 @@
     "id": 4581,
     "date": "2024-10-25T00:11:48",
     "text": "<a href=\"##ADHD\">#ADHD</a> 上午抓了包，导出了 HAR，下午就忘了把它放在哪了",
-    "views": 119,
+    "views": 120,
     "forwards": 0
   },
   {
@@ -62866,7 +62866,7 @@
     "id": 4585,
     "date": "2024-10-25T23:41:17",
     "text": "发现可以让 ipython 自动导入常用的库 qwq\n\n<a href=\"https://github.com/hykilpikonna/zshrc/blob/master/config-sync/ipython_init.py\">ipython_init</a> > <code>~/.ipython/profile_default/startup</code>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "files": [
       {
@@ -62889,14 +62889,14 @@
     "id": 4586,
     "date": "2024-10-26T05:41:16",
     "text": "室友问我用外部软件编辑 Blender 贴图的时候怎样自动化保存更新，帮忙让 llm 搓了几行 AutoHotKey 脚本自动按导出回车左箭头回车... 然后她觉得好厉害发了一个<a href=\"https://www.bilibili.com/video/av113371953235485\">教程视频</a>还把我 @ 出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n...在技美眼里自动按几个按钮的脚本原来是很难做甚至值得发一个视频的事情吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 2
   },
   {
     "id": 4587,
     "date": "2024-10-26T05:48:51",
     "text": "<span class=\"spoiler\"><span>感觉如果是我发视频肯定要社恐很长时间写好所有要说的话然后录的时候念错一大堆重新录然后花几个小时剪辑到听不出来重新录了才发出去，但是看她二十分钟一遍录完再听一遍打些码就发了我反而觉得这才好厉害</span></span>",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -62907,7 +62907,7 @@
     "id": 4588,
     "date": "2024-10-26T08:03:00",
     "text": "今天重构了一下我两年前给 OAU 写的 <a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> 项目，加入了自动账号池切换和爬消息回复找妈妈的代码，然后写了一个 tg bot <a href=\"https://t.me/AzaBirdBot\">@AzaBirdBot</a> 可以更方便地备份一个人的推特了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n大家如果遇到觉得身边的人可能想要冲动删号的时候可以过来预防性地备份一份 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>\n\n<span class=\"spoiler\"><span>其实开始重构这个项目是因为 syama 和我说想要和人对线但是不会对线，然后我想能不能训练一个网络对线教学机器人，就找书书要了一份她的推特导出hhhh </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i><span class=\"spoiler\"><span> 然后发现导出里面居然回复数据只有自己的内容，没有被回复的推文内容，所以就去重写了这个爬虫 qwq</span></span>",
-    "views": 146,
+    "views": 147,
     "forwards": 2,
     "images": [
       {
@@ -62926,7 +62926,7 @@
     "id": 4589,
     "date": "2024-10-26T18:53:27",
     "text": "<a href=\"##LLM\">#LLM</a> 训练了第一个版本的假想书书模型，白嫖了 OpenAI gpt4o-mini 的免费 finetune，语气和格式看起来都完全没问题，但是还是有很多问题...\n\n试了一下让它回一些 linux maintainer 这件事周围的暴论，但是因为缺少 context 似乎没办法从一条推文里面理解发生了什么... <del>毕竟肯定也没有人会猜到 linus 会支持删 maintainer</del> 但是可能需要在输入前面加入一些自动生成或者是手动标注的 context\n\n还有就是数据真的好少... 爬下来一共有 7221 条书书发的回复，但是其中只有 54% 的回复上文是可见的，再过滤掉回复自己用来发长文的操作的话就只剩下 40% 2883 条了。不过好像忘记了推特还有一种回复方式是转贴回复，也许把转帖回复也加进来会多一些",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 13839750457991053,
     "images": [
@@ -62980,21 +62980,21 @@
     "id": 4593,
     "date": "2024-10-27T05:12:41",
     "text": "呜呜 感觉自己永远在一个没有尽头的「想要在系统上装更多东西」>「觉得系统太重了想要重装」的循环里",
-    "views": 125,
+    "views": 126,
     "forwards": 0
   },
   {
     "id": 4594,
     "date": "2024-10-27T16:43:52",
     "text": "我：不知道这个 API 要用 python 还是 ts 还是 kotlin 写\nsyama：用 Unity\n<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 0
   },
   {
     "id": 4595,
     "date": "2024-10-27T22:40:43",
     "text": "在 maimai 里面获得了新的旅行伙伴 syama <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>如果在现实中获得 syama 也这么简单就好了</span></span>（不是",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 13840550750729853,
     "images": [
@@ -63024,7 +63024,7 @@
     "id": 4597,
     "date": "2024-10-28T00:49:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 君が涙のときには\n♪ 僕がそばにいるから~\n♪ 離ればなれの夜だって\n♪ 僕はそばにいるから~ <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 0,
     "files": [
       {
@@ -63046,7 +63046,7 @@
     "id": 4598,
     "date": "2024-10-28T04:16:28",
     "text": "好喜欢 <a href=\"https://www.generasia.com/wiki/AMADORI\">AMADORI</a> 的曲子，但是似乎在 2009 年之后就没有消息了... 好可惜",
-    "views": 134,
+    "views": 135,
     "forwards": 0,
     "reply": {
       "id": 4597,
@@ -63057,14 +63057,14 @@
     "id": 4599,
     "date": "2024-10-28T08:19:41",
     "text": "syama: 章鱼小丸子是鱼丸吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 135,
+    "views": 136,
     "forwards": 0
   },
   {
     "id": 4600,
     "date": "2024-10-28T17:02:52",
     "text": "kotlin 日常：想打个断点看看 me 是啥，debugger 告诉我这个大括号里所有变量 client, me, args 都被优化掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "images": [
       {
@@ -63083,7 +63083,7 @@
     "id": 4601,
     "date": "2024-10-29T16:57:02",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 144,
+    "views": 145,
     "forwards": 0,
     "images": [
       {
@@ -63102,7 +63102,7 @@
     "id": 4602,
     "date": "2024-10-29T16:59:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （昨天？\n照烧鸡腿饭 qwq",
-    "views": 132,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 13841769229694389,
     "images": [
@@ -63132,7 +63132,7 @@
     "id": 4604,
     "date": "2024-10-29T17:46:32",
     "text": "这次试了一下用五个 Bot 号用初始号能达到的最优配置挂机，拿了一个 105 位 qwq\n\n虽然其实还可以更优化的，因为这次开号运气太差了花了 93000 石头才拿到活动队全员，导致后面石头不够没办法全程五倍体力了...  如果活动刚开始的时候多开几个号选运气最好的也许体力就够拿到 100 了\n\n可能这就差不多是这个游戏不氪金的天花板了，花掉初始号 150000 石头用最优队伍 24h 不间断私人联机五倍刷效率曲也只能到这里... 真的很想知道我前面的 104 个人都是什么怪物",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 13841791937301573,
     "images": [
@@ -63858,7 +63858,7 @@
     "id": 4654,
     "date": "2024-11-16T02:53:45",
     "text": "豆腐可爱喵",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "images": [
       {
@@ -65739,7 +65739,7 @@
     "id": 4775,
     "date": "2024-12-19T22:15:58",
     "text": "在<a href=\"https://github.com/hykilpikonna/colorful-link\">仓库</a> readme 上写了用编辑器创建一个谜题的教程 qwq",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65881,7 +65881,7 @@
     "id": 4785,
     "date": "2024-12-21T19:58:24",
     "text": "<a href=\"##谜题\">#谜题</a> 感觉是谜题的话，把谜底发出来有点剧透感觉不太好，但是又很想发自己的像素画，怎么办怎么办 > <\n\n想了想决定从这周开始试试做一个周常/半月常的谜题活动，每周会出一道新的题然后公布上周的谜底，这样就不怕会剧透了！<span class=\"spoiler\"><span><del>反正这周没有来玩的人应该过一周也不会来，所以剧透了也没关系吧</span></span></del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n今周的谜题在<a href=\"https://slither.hydev.org/?puzzle=2024-12-21-winter\">这里</a>，是 36x36，欢迎来玩 qwq\n\n（配图是上周的答案",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "reply": {
       "id": 4768,
@@ -65904,7 +65904,7 @@
     "id": 4786,
     "date": "2024-12-22T01:56:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 133,
+    "views": 134,
     "forwards": 0,
     "images": [
       {
@@ -65923,7 +65923,7 @@
     "id": 4787,
     "date": "2024-12-22T02:21:47",
     "text": "几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...\n\nVRChat 的语言 Udon# 真的很 <i class=\"custom-emoji\" emoji-src=\"emoji/6327950654941694400.webp\">🤡</i>，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚\n\n所有数据都存进 Dict 把它当做类用，把类名写进 <code>__type__</code> 里面，所有值都存成 Any，需要访问的时候再动态 cast，<del>和 python 一样完全不检查类型</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>\n\n...这样一番折腾之后终于重新实现了 C# 原本就有的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 唉 VRChat 罪大恶极",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -65942,7 +65942,7 @@
     "id": 4788,
     "date": "2024-12-22T03:28:36",
     "text": "发现 Windows 没有 AV1 视频预览的问题装上 <a href=\"https://codecguide.com/download_k-lite_codec_pack_full.htm\">K-Lite Codec Pack</a> 就能解决，很奇妙的是这个软件三天前刚更新过但是网页看起来却像是二十年前的",
-    "views": 153,
+    "views": 154,
     "forwards": 0,
     "images": [
       {
@@ -65961,7 +65961,7 @@
     "id": 4789,
     "date": "2024-12-22T06:37:02",
     "text": "nightcode で",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "images": [
       {
@@ -66104,7 +66104,7 @@
     "id": 4800,
     "date": "2024-12-25T08:48:31",
     "text": "圣诞快乐！\n\n（依然不会打这个圣诞歌，14+ 好抽象啊",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 13880932092730933,
     "images": [
@@ -69237,7 +69237,7 @@
     "id": 5012,
     "date": "2025-03-11T04:50:09",
     "text": "好讨厌 Meta...\n\n今天拿起来 Quest 3 发现系统自动更新了，更新之后没办法打开第三方输入法了，打开微信输入法还会直接让系统卡死自动重启... 系统自带的输入法还不支持中文，不知道怎么办\n\n以及 UI 也被大改了... 主观觉得新 UI 的这个渐变像是十年前流行的设计",
-    "views": 291,
+    "views": 292,
     "forwards": 1,
     "reply": {
       "id": 4849,
@@ -69358,7 +69358,7 @@
     "id": 5020,
     "date": "2025-03-13T05:32:56",
     "text": "至少 AquaDX 在用的这套 JVM 老框架没有在 Hello world 吞吐量上输给 Bun JS...",
-    "views": 302,
+    "views": 303,
     "forwards": 0,
     "media_group_id": 13934751814323477,
     "images": [
@@ -69388,14 +69388,14 @@
     "id": 5022,
     "date": "2025-03-14T18:48:15",
     "text": "syama: 最近一个节日是什么，要不要加一些节日彩蛋\n我: 清明节 🌚",
-    "views": 241,
+    "views": 242,
     "forwards": 0
   },
   {
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 353,
+    "views": 354,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 231,
+    "views": 232,
     "forwards": 2,
     "images": [
       {
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69482,7 +69482,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -69494,7 +69494,7 @@
     "id": 5029,
     "date": "2025-03-16T11:15:53",
     "text": "前几天去宠物店看到了好可爱的一对鹦鹉 qwq\n\n感觉有点可怜，只能在可能没有两立方米大的鸟笼里活动感觉会很无聊... <del>不过好像两立方米按鸟的体积等比例缩放的话差不多已经是人类的一个小 studio 公寓了吧</del> 好像不能这样算 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好喜欢看鸟，在宠物店看了好久才走。想要养鸟但是又不想把他们一直关在笼子里... 好矛盾，如果有花园可以投喂野生的鸟就好了",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 13936990031689701,
     "images": [
@@ -69604,7 +69604,7 @@
     "id": 5037,
     "date": "2025-03-17T07:06:44",
     "text": "聊聊：小桂桂脑袋尖尖的\n\n...看了一下还真是 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 1,
     "images": [
       {
@@ -72701,7 +72701,7 @@
     "id": 5266,
     "date": "2025-04-24T00:21:41",
     "text": "然后依然不想回家，正好离 Henry 家比较近就去找他玩，玩了 arcaea 和 osu\n\n从他的 osu 最近游玩里找到了好多当时打太多遍打到过拟合能够背下来的谱，比如 ”(can you) understand me“ 还有 “world.execute(me)”\n\n虽然代码皮肤延迟设备判定都和当初不一样了，但是打到一首熟悉谱面的手感并不会骗人——听着歌、划起笔、敲起键盘，仿佛身边空气的气味和自己的心情一起回到了当时在麻省郊区的小屋，仿佛侧过头还能看到前前任香子兰在左上角围观，像是激活了一张三分钟的时光传送券，带回来了只存在于文字中的回忆...\n\n在回家的地铁上哭了... 好想把这些回忆永远保存下来，可惜每次触发都只会变得越来越模糊，直到完全被现在覆盖 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 377,
+    "views": 378,
     "forwards": 1,
     "media_group_id": 13963632813696037,
     "images": [
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1874,
+    "views": 1875,
     "forwards": 52
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1168,
+    "views": 1169,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 709,
+    "views": 710,
     "forwards": 2,
     "images": [
       {
@@ -72940,7 +72940,7 @@
     "id": 5280,
     "date": "2025-04-27T10:07:17",
     "text": "整理了一下以前所有的乐谱开源出来了 qwq\n\n一个原因是因为 musescore 平台真的太过分，居然下载其他用户上传的谱子要收钱...\n\n另一个原因是，想要让项目文件不会丢失、让自己以后想得起来放在哪里的最好方法就是传到 GitHub 上，让世界帮我备份 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://github.com/hykilpikonna/Music\">GitHub 仓库在这里</a>",
-    "views": 681,
+    "views": 682,
     "forwards": 5,
     "images": [
       {
@@ -72959,7 +72959,7 @@
     "id": 5281,
     "date": "2025-04-27T21:16:50",
     "text": "今天 Cosmo 最后一天营业，去凑凑热闹。几周前去的时候停车场还是空的，今天要闭店了反而挤满了人 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n第一次见到闭店感觉好奇妙，除了商品以外，平时不是商品的东西也被标上了价签，比如货架、柜子、平时在放幻灯片的大显示屏...\n\n转了几圈可惜没有找到比较值得买的东西呢，大概都已经被别人买走了吧\n\n想买替换的吉他弦备用，发现货架上已经不剩木吉他的吉他弦了。想找找有没有更合身的电吉他，发现剩下的都买不起。想找找无源麦克风的录音设备，也没有很好的价格。还问了之前在这里租的钟琴有没有在卖，似乎也没有了。结果 $3 拿了一双鼓棒回家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 600,
+    "views": 601,
     "forwards": 1,
     "media_group_id": 13966308886338133,
     "images": [
@@ -73013,7 +73013,7 @@
     "id": 5285,
     "date": "2025-04-28T03:39:16",
     "text": "猫猫本能：把通关需要的电池丢下去了 然后解锁了一个成就",
-    "views": 709,
+    "views": 710,
     "forwards": 0,
     "files": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 961,
+    "views": 962,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1217,
+    "views": 1218,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6344,
+    "views": 6345,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 628,
+    "views": 629,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 503,
+    "views": 504,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73169,7 +73169,7 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 552,
+    "views": 553,
     "forwards": 0
   },
   {
@@ -73770,7 +73770,7 @@
     "id": 5335,
     "date": "2025-05-10T08:27:33",
     "text": "<a href=\"##ガルクラ\">#ガルクラ</a> 圣地巡礼",
-    "views": 282,
+    "views": 283,
     "forwards": 0,
     "media_group_id": 13974925231723077,
     "images": [
@@ -93748,7 +93748,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 2,
     "media_group_id": 14085907817799589,
     "images": [
@@ -94866,7 +94866,7 @@
     "id": 7029,
     "date": "2025-11-01T10:38:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n去お茶村お了抹茶巴菲！（还有茶泡饭！）\n\n抹茶真好吃啊，如果可以自己在家做抹茶巴菲就好了",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14095948071278213,
     "images": [
@@ -94926,7 +94926,7 @@
     "id": 7034,
     "date": "2025-11-01T21:31:33",
     "text": "早上六点被消防演习叫醒了，原来日本山里也会有消防演习",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 14096261547261181,
     "images": [
@@ -96547,8 +96547,8 @@
     "id": 7175,
     "date": "2025-11-11T04:54:45",
     "text": "后续：第三方墨盒坏掉了\n\n用第三方墨盒和相纸卡了两次纸。第一次是在出发之前，关机拽一下修好了。第二次墨盒的卡带直接断掉了，完全不能用了，还有塑料膜碎片卡在打印机里费了很大力气才取出来\n\n还好这次有预料到第三方墨盒可能会坏所以带了备份... 以后还是不省钱买官方墨盒好了。",
-    "views": 224,
-    "forwards": 0,
+    "views": 227,
+    "forwards": 1,
     "media_group_id": 14102695080994973,
     "images": [
       {
@@ -96592,7 +96592,7 @@
     "id": 7178,
     "date": "2025-11-11T05:44:11",
     "text": "咖啡因好讨厌... 喝完觉得头晕晕的，又不舒服，想睡又睡不着\n\n原本觉得要开 8h 车就喝了「川」能量饮料，现在已经在后悔了",
-    "views": 222,
+    "views": 224,
     "forwards": 1
   },
   {
@@ -96606,7 +96606,7 @@
     "id": 7180,
     "date": "2025-11-11T13:49:49",
     "text": "今天是 k-on 梓喵的生日！早上和 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起去立豊郷小学校进行了圣地巡礼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n学校从建筑布局到气氛都和动画里面完全一样哇，回想起来了不少第一次看 k-on 的时候的回忆\n\n以及看到了梓喵给其他人写的笔记，还有来参拜的大家留下的留言，都好温馨 qwq",
-    "views": 214,
+    "views": 216,
     "forwards": 0,
     "media_group_id": 14102951917738565,
     "images": [
@@ -96829,7 +96829,7 @@
     "id": 7199,
     "date": "2025-11-11T16:21:23",
     "text": "终于回到九州了！\n\n开车累死了，整次旅途总共开了 3006 km 的车，其中今天的路就占了 776 km。<del>下次长途旅行一定要买一个 openpilot comma 装上再走</del>",
-    "views": 234,
+    "views": 235,
     "forwards": 1,
     "media_group_id": 14103024670017541,
     "images": [
@@ -96859,7 +96859,7 @@
     "id": 7201,
     "date": "2025-11-12T02:13:17",
     "text": "凌晨两点到福冈但是早上九点才能还车，想找地方睡睡，但是旅店贵贵，怎么办呢？\n\n想起来以前听日本人说网吧可以睡，就找了一个「快活 CLUB」订了房间，里面有床垫和皮枕头，六小时只要 JP￥2700 还有免费停车\n\n不过并没有睡好，因为太冷了也没有暖气，盖了六层免费大浴巾依然很冷，用电脑进行了一下传统艺能之 CPU-Z 取暖但是依然不太够... 看来冷天不太适合在网吧睡觉呢\n\n不太懂这里的目标客户是什么样的人，虽然有可以免费使用的游戏手柄但是 i5 14400 真的能带动什么游戏吗？而且只是用来看视频刷网页的话很便宜的笔记本也都能做到... 不理解\n\n不过确实是很万能的空间，有免费的饮料、浴室、漫画动画电影、唱歌房间之类的，如果不睡觉的话也许确实也不错",
-    "views": 223,
+    "views": 224,
     "forwards": 0,
     "media_group_id": 14103308780407717,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1801,
+    "views": 1802,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 999,
+    "views": 1000,
     "forwards": 12
   },
   {
@@ -97261,7 +97261,7 @@
     "id": 7228,
     "date": "2025-11-16T12:16:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6102860812051814101.webp\">🌗</i> 234°<span class=\"spoiler\"><span>（11 月 16 日）</span></span>\n\n去翻墙了！（物理）\n\n爬墙好累呀... 台阶超级陡，而且刚上坡就下坡的好折磨，好难想象建的人到底是怎样把每一块转搬上来的，感觉让我搬的话每一块转都需要一天的体力\n\n以及中国的长城感觉好荒凉，是一条两边都看不到边界的分界线。哪边是里是外、是保护还是牢笼也已经分不清了。\n\n<del>地球是圆的，所以我用石子原地摆个圈圈就是保护全世界的长城 </del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</del></i>",
-    "views": 242,
+    "views": 244,
     "forwards": 1,
     "media_group_id": 14106363105405861,
     "images": [
@@ -97456,14 +97456,14 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 529,
+    "views": 530,
     "forwards": 12
   },
   {
     "id": 7246,
     "date": "2025-11-17T03:14:13",
     "text": "呜呜 发现在日本买的便携吹风机带到中国之后没法用，因为是 110V\n\n想买一个同时兼容 110V 和 220V 的吹风机，但是能找到的所有吹风机都只兼容一个电压... 好难办 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 309,
+    "views": 318,
     "forwards": 1
   },
   {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1904,
+    "views": 1905,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 442,
+    "views": 443,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,14 +97683,14 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 518,
+    "views": 519,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 551,
+    "views": 552,
     "forwards": 7
   },
   {
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 255,
+    "views": 256,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -97840,7 +97840,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 254,
+    "views": 255,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -97920,7 +97920,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97943,7 +97943,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 246,
+    "views": 247,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 254,
+    "views": 256,
     "forwards": 6,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98076,14 +98076,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 243,
+    "views": 244,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 249,
+    "views": 250,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98094,7 +98094,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 246,
+    "views": 248,
     "forwards": 4,
     "images": [
       {
@@ -98113,7 +98113,7 @@
     "id": 7292,
     "date": "2025-11-27T14:21:37",
     "text": "今天和 <a href=\"https://t.me/Aoino_Skynext\">@Aoino_Skynext</a> 和 <a href=\"https://t.me/renna_z\">@renna_z</a> 去了广州<i class=\"custom-emoji\" emoji-src=\"emoji/6291579304216103504.webp\">🏳️‍⚧️</i>塔！\n\n还去旁边的桥上看了日落，风景好不错好不错！没有带相机真的太可惜了\n\n<del>以及看到了对面的桥在播 bad apple</del>（存疑）",
-    "views": 207,
+    "views": 208,
     "forwards": 2,
     "media_group_id": 14114026380721021,
     "images": [
@@ -98223,7 +98223,7 @@
     "id": 7302,
     "date": "2025-11-28T05:01:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n广式牛丼（...？）",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "images": [
       {
@@ -98242,7 +98242,7 @@
     "id": 7303,
     "date": "2025-11-28T10:16:31",
     "text": "感觉广州好猫猫喵喵的，今天已经遇到了十多只猫猫了",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "media_group_id": 14114599932668413,
     "images": [
@@ -98322,7 +98322,7 @@
     "id": 7310,
     "date": "2025-11-28T11:03:46",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n\n三个一加手机好好笑",
-    "views": 198,
+    "views": 200,
     "forwards": 3,
     "media_group_id": 14114622614571069,
     "images": [
@@ -98352,7 +98352,7 @@
     "id": 7312,
     "date": "2025-11-28T13:19:47",
     "text": "有 障 碍 卫 生 间",
-    "views": 196,
+    "views": 198,
     "forwards": 1,
     "images": [
       {
@@ -98371,7 +98371,7 @@
     "id": 7313,
     "date": "2025-11-28T15:59:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 179,
+    "views": 182,
     "forwards": 0,
     "files": [
       {
@@ -98393,7 +98393,7 @@
     "id": 7314,
     "date": "2025-11-28T16:27:08",
     "text": "和 <a href=\"https://t.me/YuanAshes\">@YuanAshes</a> 和 <a href=\"https://t.me/renna_z\">@renna_z</a> 和 <a href=\"https://t.me/Recopec\">@Recopec</a> 去白云山看了日落！\n\n原本以为这种很大众的旅游景点应该是本地人都去过的，没想到沫沫和 <a href=\"https://t.me/Recopec\">@Recopec</a> 都没去过，奇妙\n\n以及原本以为太阳落到云下面去之后日落就已经结束了，然后就去坐缆车下山了，结果发现在缆车上天空变成紫色<del>被 empurple </del>的时候才最好看",
-    "views": 169,
+    "views": 172,
     "forwards": 1,
     "media_group_id": 14114777830105621,
     "images": [
@@ -98503,7 +98503,7 @@
     "id": 7324,
     "date": "2025-11-28T16:28:38",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n染上紫色",
-    "views": 173,
+    "views": 176,
     "forwards": 0,
     "files": [
       {
@@ -98525,7 +98525,7 @@
     "id": 7325,
     "date": "2025-11-28T16:55:33",
     "text": "今天还去了圣心大教堂和沙面岛 qwq\n\n在教堂遇到了香港那边天主教小学的旅行团过来参观感觉好奇妙，虽然回想起我在天主教学校的经历也笑不出来\n\n以及在教堂旁边遇到了一个完全无人看管的售卖庭，卖一些纪念品和圣经之类的。虽然这种纯靠自觉的售卖庭在日本挺常见的，但是在中国这还是我第一次见... 可能也只有教堂这里会有人愿意相信中国游客的自觉了\n\n以及在街上看到了初音未来配色的星巴克和初音未来（？）",
-    "views": 184,
+    "views": 187,
     "forwards": 2,
     "media_group_id": 14114791471027077,
     "images": [
@@ -98635,7 +98635,7 @@
     "id": 7335,
     "date": "2025-11-28T17:06:00",
     "text": "<span class=\"spoiler\"><span>「今天是明天的延伸\n    明天是今天的终结」</span></span>",
-    "views": 195,
+    "views": 198,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -98646,7 +98646,7 @@
     "id": 7336,
     "date": "2025-11-29T04:39:57",
     "text": "图像识别爆炸",
-    "views": 200,
+    "views": 203,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -98669,7 +98669,7 @@
     "id": 7337,
     "date": "2025-11-29T05:44:44",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 更新 1.0.1 <i class=\"custom-emoji\" emoji-src=\"emoji/4981169547957502666.webp\">🔧</i>\n\n* 修复了英文词中间没有空格的 bug\n\n（试着在车上工作）",
-    "views": 209,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14115160674036005,
     "images": [
@@ -98704,7 +98704,7 @@
     "id": 7339,
     "date": "2025-11-29T12:02:24",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n<span class=\"spoiler\"><span>终于见到林子了好开心！</span></span><i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 255,
+    "views": 257,
     "forwards": 2,
     "images": [
       {
@@ -98723,7 +98723,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 188,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -98803,7 +98803,7 @@
     "id": 7347,
     "date": "2025-11-30T05:12:32",
     "text": "<del>目标是宝可梦大师的林子</del>",
-    "views": 197,
+    "views": 204,
     "forwards": 1,
     "media_group_id": 14115836419663997,
     "images": [
@@ -98833,7 +98833,7 @@
     "id": 7349,
     "date": "2025-11-30T07:41:59",
     "text": "遇到了只好象是怀孕了的小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 196,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 14115908155859181,
     "images": [
@@ -98853,7 +98853,7 @@
     "id": 7351,
     "date": "2025-11-30T09:22:42",
     "text": "猫猫乱按键盘.gif",
-    "views": 190,
+    "views": 200,
     "forwards": 3,
     "files": [
       {
@@ -98873,7 +98873,7 @@
   {
     "id": 7352,
     "date": "2025-11-30T10:32:59",
-    "views": 184,
+    "views": 195,
     "forwards": 1,
     "images": [
       {
@@ -98892,7 +98892,7 @@
     "id": 7353,
     "date": "2025-12-01T04:29:39",
     "text": "<a href=\"##梦\">#梦</a>\n被闹钟叫醒之后看了一眼 tg 就回去睡了，在梦里自己又醒了拿起手机看 tg\n\n看到之前没有手机卡又突然被全会话登出而丢了号的朋友 nika 在频道发自己号找回来的经历，说找了客服之后客服给她几个频道让她选哪些是她关注过的，选对就让她重置手机号了... 还在想觉得挺合理的<span class=\"spoiler\"><span>（明明实际上很不安全）</span></span>\n\n然后看到林子给我发消息，说ta昨天和朋友唱歌怎么样怎么样，看到消息感觉很开心，不过想想总觉得哪里不对，感觉林子不像会找我分享日常琐事的人\n\n然后看看狐狸看看猫，未读清完了就放下手机睡觉了\n\n刚刚真的睡醒的时候又打开了 tg，最开始还没觉得哪里不对，看完了某群里的未读，下一条是 nika 的频道发的 Linux 截图。想起来她说找回了账号就去小群里看了一眼，看到她还在用小号的时候才发现不对。再打开林子的聊天框，果然林子也没有给我发消息，原来这一切都是梦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>\n\n第一次真的体会到「梦是现实的延续、现实是梦的终结」这句话的含义。这两件事我有多么希望它不是梦",
-    "views": 122,
+    "views": 142,
     "forwards": 1,
     "forwarded_from": {
       "name": "废纸篓"
@@ -98902,7 +98902,7 @@
     "id": 7354,
     "date": "2025-12-01T10:25:19",
     "text": "热转印打印耗材好奇妙\n\n今天正好打完了一卷耗材，因为好奇就拆开看了一下，发现耗材上居然还保留着图片的纹路\n\n把黄紫蓝三段卡带剪开、再叠起来之后果然就复原出了原图的负片！放在一个光源上拍下来，再后期进行一下反色就还原出原图了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看来以后打印完的耗材也要留下来了 qwq",
-    "views": 110,
+    "views": 133,
     "forwards": 3,
     "media_group_id": 14116677755987317,
     "images": [
@@ -98987,7 +98987,7 @@
     "id": 7361,
     "date": "2025-12-01T12:27:08",
     "text": "躲猫猫 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 81,
+    "views": 123,
     "forwards": 2,
     "files": [
       {
@@ -99007,8 +99007,8 @@
   {
     "id": 7362,
     "date": "2025-12-01T12:57:25",
-    "text": "<a href=\"##神秘仪式\">#神秘仪式</a>",
-    "views": 70,
+    "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n（感谢妮可和苏卡炖汤！超好吃 qwq）",
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -99022,5 +99022,122 @@
         "thumb": "media/7362.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 7363,
+    "date": "2025-12-01T14:41:16",
+    "text": "深圳侨城街景\n\n整个区域所有的楼的设计都好棒！可惜里面卖的东西都太贵了，有时候感觉空气在赶我走（x）",
+    "views": 99,
+    "forwards": 1,
+    "media_group_id": 14116800611203981,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T14:41:09",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-09.jpg",
+        "url": "media/7363.jpg",
+        "size": 635234,
+        "thumb": "media/7363.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-12-01T14:41:10",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-10.jpg",
+        "url": "media/7364.jpg",
+        "size": 1285088,
+        "thumb": "media/7364.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T14:41:11",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-11.jpg",
+        "url": "media/7365.jpg",
+        "size": 619247,
+        "thumb": "media/7365.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-12-01T14:41:12",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-12.jpg",
+        "url": "media/7366.jpg",
+        "size": 1349638,
+        "thumb": "media/7366.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T14:41:12",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-12.jpg",
+        "url": "media/7367.jpg",
+        "size": 1205088,
+        "thumb": "media/7367.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T14:41:13",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-13.jpg",
+        "url": "media/7368.jpg",
+        "size": 588271,
+        "thumb": "media/7368.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T14:41:13",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-13.jpg",
+        "url": "media/7369.jpg",
+        "size": 669351,
+        "thumb": "media/7369.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T14:41:14",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-14.jpg",
+        "url": "media/7370.jpg",
+        "size": 950296,
+        "thumb": "media/7370.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T14:41:14",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-14.jpg",
+        "url": "media/7371.jpg",
+        "size": 572567,
+        "thumb": "media/7371.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T14:41:15",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_14-41-15.jpg",
+        "url": "media/7372.jpg",
+        "size": 789664,
+        "thumb": "media/7372.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7373,
+    "date": "2025-12-01T15:42:20",
+    "text": "<span class=\"spoiler\"><span>如果陪伴可以 scale 就好了</span></span>",
+    "views": 89,
+    "forwards": 4
   }
 ]
