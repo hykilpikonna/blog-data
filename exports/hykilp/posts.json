@@ -67098,7 +67098,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 2,
     "images": [
       {
@@ -85381,7 +85381,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 845,
+    "views": 846,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8265,
+    "views": 8266,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85438,7 +85438,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 444,
+    "views": 445,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 736,
+    "views": 737,
     "forwards": 8,
     "images": [
       {
@@ -94100,7 +94100,7 @@
     "id": 6967,
     "date": "2025-10-23T15:38:06",
     "text": "测试了一下 CP1500 的第三方墨盒，大家能看出上下两边哪边是第三方嘛？（还是挺明显的\n\n虽然说第三方比官方打 7 折的话这个效果也能算是平替了（官方每张 ￥1.62，第三方每张 ￥1.19）",
-    "views": 234,
+    "views": 235,
     "forwards": 3,
     "media_group_id": 14089871091600397,
     "images": [
@@ -94926,7 +94926,7 @@
     "id": 7034,
     "date": "2025-11-01T21:31:33",
     "text": "早上六点被消防演习叫醒了，原来日本山里也会有消防演习",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14096261547261181,
     "images": [
@@ -96407,7 +96407,7 @@
     "id": 7163,
     "date": "2025-11-09T03:37:20",
     "text": "<a href=\"##琪露诺的常识教室\">#琪露诺的常识教室</a>\n众所周知，门槛象征着前行路上的障碍与挑战。​勇敢地<b>踩上</b>门槛，代表着直面困难的决心，有“脚踏实地、事事有成”的祈福之意。​相反，选择<b>跨过</b>门槛，则被视为一种逃避困难的姿态，自然也就失去了祈福的效果\n\n​因此，内行的本地人都会选择踩上去，而不明就里的游客们反而会小心翼翼地跨过去 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 234,
+    "views": 236,
     "forwards": 2,
     "reply": {
       "id": 7162,
@@ -96418,7 +96418,7 @@
     "id": 7164,
     "date": "2025-11-09T10:16:02",
     "text": "精品神药.jpg",
-    "views": 234,
+    "views": 236,
     "forwards": 2,
     "images": [
       {
@@ -96437,7 +96437,7 @@
     "id": 7165,
     "date": "2025-11-10T21:57:27",
     "text": "去了猫猫神社和猫猫寺！（猫猫寺读作にゃんにゃんじ好可爱）\n\n感觉猫猫寺更像是一个猫猫主题的艺术展，收藏了各种形式各种风格的猫猫作品，还挺喜欢的。出门的时候还在附近发现了猫（似乎是店长在散养的）\n\n想起之前去伏見稲荷也看到了猫，似乎是定居在某个小神社上的，隔了三个月的两次参拜它都在\n\n感觉日本村里这种把猫养在门外/后院的形式好不错呀，既可以养猫也不用担心猫踩坏榻榻米 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 209,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 14102494778546509,
     "images": [
@@ -96547,7 +96547,7 @@
     "id": 7175,
     "date": "2025-11-11T04:54:45",
     "text": "后续：第三方墨盒坏掉了\n\n用第三方墨盒和相纸卡了两次纸。第一次是在出发之前，关机拽一下修好了。第二次墨盒的卡带直接断掉了，完全不能用了，还有塑料膜碎片卡在打印机里费了很大力气才取出来\n\n还好这次有预料到第三方墨盒可能会坏所以带了备份... 以后还是不省钱买官方墨盒好了。",
-    "views": 215,
+    "views": 223,
     "forwards": 0,
     "media_group_id": 14102695080994973,
     "images": [
@@ -96592,21 +96592,21 @@
     "id": 7178,
     "date": "2025-11-11T05:44:11",
     "text": "咖啡因好讨厌... 喝完觉得头晕晕的，又不舒服，想睡又睡不着\n\n原本觉得要开 8h 车就喝了「川」能量饮料，现在已经在后悔了",
-    "views": 215,
+    "views": 221,
     "forwards": 1
   },
   {
     "id": 7179,
     "date": "2025-11-11T09:53:02",
     "text": "开了 4h 车，还要开 5h，好累",
-    "views": 204,
+    "views": 205,
     "forwards": 0
   },
   {
     "id": 7180,
     "date": "2025-11-11T13:49:49",
     "text": "今天是 k-on 梓喵的生日！早上和 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起去立豊郷小学校进行了圣地巡礼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n学校从建筑布局到气氛都和动画里面完全一样哇，回想起来了不少第一次看 k-on 的时候的回忆\n\n以及看到了梓喵给其他人写的笔记，还有来参拜的大家留下的留言，都好温馨 qwq",
-    "views": 209,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 14102951917738565,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1799,
+    "views": 1800,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97261,7 +97261,7 @@
     "id": 7228,
     "date": "2025-11-16T12:16:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6102860812051814101.webp\">🌗</i> 234°<span class=\"spoiler\"><span>（11 月 16 日）</span></span>\n\n去翻墙了！（物理）\n\n爬墙好累呀... 台阶超级陡，而且刚上坡就下坡的好折磨，好难想象建的人到底是怎样把每一块转搬上来的，感觉让我搬的话每一块转都需要一天的体力\n\n以及中国的长城感觉好荒凉，是一条两边都看不到边界的分界线。哪边是里是外、是保护还是牢笼也已经分不清了。\n\n<del>地球是圆的，所以我用石子原地摆个圈圈就是保护全世界的长城 </del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</del></i>",
-    "views": 237,
+    "views": 240,
     "forwards": 1,
     "media_group_id": 14106363105405861,
     "images": [
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1901,
+    "views": 1902,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -98646,7 +98646,7 @@
     "id": 7336,
     "date": "2025-11-29T04:39:57",
     "text": "图像识别爆炸",
-    "views": 194,
+    "views": 196,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -98669,7 +98669,7 @@
     "id": 7337,
     "date": "2025-11-29T05:44:44",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 更新 1.0.1 <i class=\"custom-emoji\" emoji-src=\"emoji/4981169547957502666.webp\">🔧</i>\n\n* 修复了英文词中间没有空格的 bug\n\n（试着在车上工作）",
-    "views": 203,
+    "views": 204,
     "forwards": 0,
     "media_group_id": 14115160674036005,
     "images": [
@@ -98704,7 +98704,7 @@
     "id": 7339,
     "date": "2025-11-29T12:02:24",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n<span class=\"spoiler\"><span>终于见到林子了好开心！</span></span><i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 250,
+    "views": 251,
     "forwards": 2,
     "images": [
       {
@@ -98723,7 +98723,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 182,
+    "views": 184,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -98803,7 +98803,7 @@
     "id": 7347,
     "date": "2025-11-30T05:12:32",
     "text": "<del>目标是宝可梦大师的林子</del>",
-    "views": 188,
+    "views": 191,
     "forwards": 1,
     "media_group_id": 14115836419663997,
     "images": [
@@ -98833,7 +98833,7 @@
     "id": 7349,
     "date": "2025-11-30T07:41:59",
     "text": "遇到了只好象是怀孕了的小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 186,
+    "views": 190,
     "forwards": 1,
     "media_group_id": 14115908155859181,
     "images": [
@@ -98853,7 +98853,7 @@
     "id": 7351,
     "date": "2025-11-30T09:22:42",
     "text": "猫猫乱按键盘.gif",
-    "views": 176,
+    "views": 182,
     "forwards": 3,
     "files": [
       {
@@ -98873,7 +98873,7 @@
   {
     "id": 7352,
     "date": "2025-11-30T10:32:59",
-    "views": 170,
+    "views": 177,
     "forwards": 1,
     "images": [
       {
@@ -98892,10 +98892,95 @@
     "id": 7353,
     "date": "2025-12-01T04:29:39",
     "text": "<a href=\"##梦\">#梦</a>\n被闹钟叫醒之后看了一眼 tg 就回去睡了，在梦里自己又醒了拿起手机看 tg\n\n看到之前没有手机卡又突然被全会话登出而丢了号的朋友 nika 在频道发自己号找回来的经历，说找了客服之后客服给她几个频道让她选哪些是她关注过的，选对就让她重置手机号了... 还在想觉得挺合理的<span class=\"spoiler\"><span>（明明实际上很不安全）</span></span>\n\n然后看到林子给我发消息，说ta昨天和朋友唱歌怎么样怎么样，看到消息感觉很开心，不过想想总觉得哪里不对，感觉林子不像会找我分享日常琐事的人\n\n然后看看狐狸看看猫，未读清完了就放下手机睡觉了\n\n刚刚真的睡醒的时候又打开了 tg，最开始还没觉得哪里不对，看完了某群里的未读，下一条是 nika 的频道发的 Linux 截图。想起来她说找回了账号就去小群里看了一眼，看到她还在用小号的时候才发现不对。再打开林子的聊天框，果然林子也没有给我发消息，原来这一切都是梦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>\n\n第一次真的体会到「梦是现实的延续、现实是梦的终结」这句话的含义。这两件事我有多么希望它不是梦",
-    "views": 86,
+    "views": 105,
     "forwards": 1,
     "forwarded_from": {
       "name": "废纸篓"
+    }
+  },
+  {
+    "id": 7354,
+    "date": "2025-12-01T10:25:19",
+    "text": "热转印打印耗材好奇妙\n\n今天正好打完了一卷耗材，因为好奇就拆开看了一下，发现耗材上居然还保留着图片的纹路\n\n把黄紫蓝三段卡带剪开、再叠起来之后果然就复原出了原图的负片！放在一个光源上拍下来，再后期进行一下反色就还原出原图了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看来以后打印完的耗材也要留下来了 qwq",
+    "views": 72,
+    "forwards": 2,
+    "media_group_id": 14116677755987317,
+    "images": [
+      {
+        "width": 2560,
+        "height": 2228,
+        "date": "2025-12-01T10:25:15",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_10-25-15.jpg",
+        "url": "media/7354.jpg",
+        "size": 537550,
+        "thumb": "media/7354.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T10:25:16",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_10-25-16.jpg",
+        "url": "media/7355.jpg",
+        "size": 1209321,
+        "thumb": "media/7355.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T10:25:16",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_10-25-16.jpg",
+        "url": "media/7356.jpg",
+        "size": 315213,
+        "thumb": "media/7356.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T10:25:17",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_10-25-17.jpg",
+        "url": "media/7357.jpg",
+        "size": 442711,
+        "thumb": "media/7357.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T10:25:17",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_10-25-17.jpg",
+        "url": "media/7358.jpg",
+        "size": 709013,
+        "thumb": "media/7358.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-01T10:25:18",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_10-25-18.jpg",
+        "url": "media/7359.jpg",
+        "size": 689882,
+        "thumb": "media/7359.jpg_thumb.jpg"
+      },
+      {
+        "width": 1080,
+        "height": 2376,
+        "date": "2025-12-01T10:25:18",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-01_10-25-18.jpg",
+        "url": "media/7360.jpg",
+        "size": 190187,
+        "thumb": "media/7360.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 7175,
+      "text": "后续：第三方墨盒坏掉了\n\n用第三方墨盒和相纸卡了两次纸。第一次是在出发之前，关机拽一下修好了。第二次墨盒的卡带直接断掉了，完全不能用了，还有塑料膜碎片卡在打印机里费了很大力气才取出来\n\n还好这次有预料到第三方墨盒可能会坏所以带了备份... 以后还是不省钱买官方墨盒好了。",
+      "thumb": "media/7175.jpg_thumb.jpg"
     }
   }
 ]
