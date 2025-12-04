@@ -10668,7 +10668,7 @@
     "id": 890,
     "date": "2022-06-12T04:25:26",
     "text": "所有家具都装好摆好啦，东西也都整理好了，是桂桂的新家！\n\n搬家的时候装箱拆箱整理真的好累... 不过拼宜家好好玩w",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13240063415597285,
     "images": [
@@ -10728,7 +10728,7 @@
     "id": 895,
     "date": "2022-06-12T08:37:00",
     "text": "🔌 <b>New pull request</b> <a href=\"https://github.com/mtf-wiki/MtF-Wiki/pull/485\">MtF-Wiki#485 [+] 添加多伦多大学 HRT 指南</a>\nby: <a href=\"https://github.com/hykilpikonna\">@hykilpikonna</a>\n\n喵\n\n<em>Reply to this message to post a comment on GitHub.</em>",
-    "views": 82,
+    "views": 83,
     "forwards": 1,
     "forwarded_from": {
       "name": "GitHub",
@@ -43141,7 +43141,7 @@
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 113,
+    "views": 114,
     "forwards": 3,
     "media_group_id": 13643119076454173,
     "images": [
@@ -99137,7 +99137,7 @@
     "id": 7373,
     "date": "2025-12-01T15:42:20",
     "text": "<span class=\"spoiler\"><span>如果陪伴可以 scale 就好了</span></span>",
-    "views": 378,
+    "views": 379,
     "forwards": 6
   },
   {
@@ -99320,7 +99320,7 @@
     "id": 7386,
     "date": "2025-12-03T09:25:46",
     "text": "今天买了一个 CA$10 的东西被风控，卡被停用了...\n\n觉得信用卡这种只要知道卡面上的数字就能用来买东西的设计好蠢...输入卡的信息的时候也只能「信任对方不会用来做坏事」即使有人做了坏事也不知道是谁做的\n\n感觉在线支付至少要有一个数字签名吧... 像 yubikey 那样，签名密钥存在卡上，只有物理拥有这张卡的时候可以进行签名，就可以有效防止盗刷了",
-    "views": 187,
+    "views": 188,
     "forwards": 1,
     "images": [
       {
@@ -99339,7 +99339,7 @@
     "id": 7387,
     "date": "2025-12-03T09:29:35",
     "text": "unifi 的包装好可爱！\n\n● U ●",
-    "views": 170,
+    "views": 171,
     "forwards": 1,
     "images": [
       {
@@ -99418,7 +99418,7 @@
     "id": 7392,
     "date": "2025-12-03T13:06:10",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>和マモル一起做爱心咖喱</del>\n\n在超市思考要吃什么的时候正好看到有咖喱和牛大打折就决定做咖喱了，配上中辛的 Java 咖喱块感觉好不错，吃完还想再吃一碗 qwq",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "media_group_id": 14118137365192541,
     "images": [
@@ -99457,7 +99457,7 @@
   {
     "id": 7395,
     "date": "2025-12-03T13:37:43",
-    "views": 332,
+    "views": 334,
     "forwards": 7,
     "media_group_id": 14118152504658685,
     "images": [
@@ -99487,7 +99487,7 @@
     "id": 7397,
     "date": "2025-12-04T04:30:10",
     "text": "说起来，我在飞机上的时候其实并不记得光速和音速都是多少，只记得大概范围\n\n但是我觉得这么常用的两个数字在能存储 640 亿个 64 位数字的手机上不可能没有出现过，所以就打开应用列表一个一个找可能会存储离线信息的 app\n\n第一个找到的是日语词典，打开词典查了一下光速和音速，果然有数值 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 然后发现计算器里也有\n\n感觉离线知识好实用，今天下载了一个 Kiwix 离线维基百科和一个 ollama gemma3:1b 本地小模型，希望再次需要离线奇思妙想的时候、或者在没网的地方旅游露营的时候会派上用场 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "media_group_id": 14118580884675037,
     "images": [
