@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1311,
+    "views": 1312,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -71373,14 +71373,14 @@
     "id": 5164,
     "date": "2025-04-08T09:43:40",
     "text": "<a href=\"##TIL\">#TIL</a> 本地跑了一些 txt2img 模型才发现，原来 flux1 和刚公开的 hidream i1 画不出 explicit nsfw 不是因为在线平台生成后有过滤，而是训练集里就没有... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 没见过就画不出来，<span class=\"spoiler\"><span>就像 virgin 画师画不好相反性别的○○一样</span></span>",
-    "views": 234,
+    "views": 235,
     "forwards": 0
   },
   {
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 4,
     "media_group_id": 13953043115908261,
     "images": [
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 236,
+    "views": 237,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -71450,7 +71450,7 @@
     "id": 5170,
     "date": "2025-04-09T23:42:23",
     "text": "奶茶咖啡坏\n\n昨天和前天起床就喝了奶茶咖啡。今天感冒了并且没有喝奶茶咖啡，结果超困困睡了 16.5h... <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "images": [
       {
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 316,
+    "views": 317,
     "forwards": 4,
     "images": [
       {
@@ -83029,7 +83029,7 @@
     "id": 6073,
     "date": "2025-07-30T15:49:50",
     "text": "和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq\n\n桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）",
-    "views": 302,
+    "views": 303,
     "forwards": 1,
     "images": [
       {
@@ -83055,7 +83055,7 @@
     "id": 6075,
     "date": "2025-08-01T04:56:48",
     "text": "想要对身边的碳基 AI 进行一些日常的 <a href=\"https://t.me/rynif/37424\">CatAttack</a>，但是猫大部分时间都在睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "images": [
       {
@@ -83074,7 +83074,7 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 241,
+    "views": 242,
     "forwards": 4,
     "files": [
       {
@@ -83096,7 +83096,7 @@
     "id": 6077,
     "date": "2025-08-01T11:32:58",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n怀念 CD 技术之前的黑胶专辑，每首歌的结尾都和下一首歌的开头无缝融合在一起\n\n我最喜欢也是最早接触的这种专辑是 Pink Floyd 的 <em>Dark Side of the Moon</em>，比起十首不同的曲子更像是像是一首 40 分钟长的曲子，从一个旋律发展到下一个，是名副其实的 Progressive Rock",
-    "views": 217,
+    "views": 218,
     "forwards": 3,
     "files": [
       {
@@ -83118,7 +83118,7 @@
     "id": 6078,
     "date": "2025-08-01T13:08:37",
     "text": "喜欢日本超市因为总是在创新，每次去超市都会有新的发现\n\n讨厌日本超市也是因为总是在创新，七月喜欢的桃桃布丁八月就下架换成其他的了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 229,
+    "views": 230,
     "forwards": 0,
     "reply": {
       "id": 5802,
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 339,
+    "views": 340,
     "forwards": 4,
     "images": [
       {
@@ -83160,7 +83160,7 @@
     "id": 6080,
     "date": "2025-08-01T16:13:45",
     "text": "和聊聊试了试玩战锤 40k 桌游，有点被无聊到（x） \n\n之前玩 DnD 的话比较喜欢的是剧情的灵活性，但是这里只有战斗。而且作为战斗桌游也不是很好玩，因为感觉战略性太弱了还是很依赖运气...\n\n不知道剧情向的玩法会不会好一点",
-    "views": 331,
+    "views": 332,
     "forwards": 1,
     "images": [
       {
@@ -83179,7 +83179,7 @@
     "id": 6081,
     "date": "2025-08-02T04:07:28",
     "text": "<a href=\"##梦\">#梦</a> 梦到和朋友们出去玩，我丢三落四，走到一个地方发现书包不见了，回退在路边椅子上找到了\n\n然后走到下一个地方发现手机不见了，找了一圈决定回退，回退的时候发现相机又不见了，一个人回退到回退之前的地方在翻包找手机的桌子上找到了相机。然后想去和回退的朋友们汇合，发现朋友们不见了，天完全黑了而且没有手机也没法联系... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>\n\n在梦里拍到了好多好看照片，记得有一张长焦拍了日落下一栋全玻璃大楼反射着一栋夕阳照成黄色的传统建筑（可惜还不能从梦中相机导出照片，让 chatgpt 想象一张好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 264,
+    "views": 265,
     "forwards": 0,
     "images": [
       {
@@ -83198,14 +83198,14 @@
     "id": 6082,
     "date": "2025-08-02T09:49:01",
     "text": "想补一些经典但是一直没去看的旧番，海贼王 死亡笔记 钢之炼金术师 Z高达之类的，然后打开搜索引擎看到 >50 集直接被劝退... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 259,
+    "views": 260,
     "forwards": 1
   },
   {
     "id": 6083,
     "date": "2025-08-02T13:39:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n查资料的时候看到这个超级炫酷的音乐 PV，随即去看了 Cencoroll Connect，是一个一小时的动画电影\n\n有点厉害，打斗动画配上 ryo 的音乐超燃，而且在反常的场面里每个人都很从容很日常的样子真的太炫酷了，也正好能够让一个个眼神和表情的小动作表现力爆发\n\n唯一的遗憾是有点短... 这个一小时的 Connect 是 1+2 总集篇，但是 1 和 2 就已经隔了十年 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 第三集制作决定已经发了但是到现在还没消息，要再等十年吗...",
-    "views": 295,
+    "views": 296,
     "forwards": 1,
     "files": [
       {
@@ -83228,14 +83228,14 @@
     "id": 6084,
     "date": "2025-08-02T15:45:14",
     "text": "有人玩 PT 吗？想要交换 PT 邀请 qwq",
-    "views": 297,
+    "views": 298,
     "forwards": 1
   },
   {
     "id": 6085,
     "date": "2025-08-03T07:12:37",
     "text": "收到了<span class=\"spoiler\"><span>时隔两周的</span></span>返图！是兼六园桥上的 Abbey Road <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> \n\n（摄影 credit: 半喵）",
-    "views": 316,
+    "views": 317,
     "forwards": 2,
     "reply": {
       "id": 5949,
@@ -83364,7 +83364,7 @@
     "id": 6092,
     "date": "2025-08-04T12:31:45",
     "text": "因为是停产的限定盘，花比原价更高的价格买了二手 qwq\n\n盘面好好看！（因为不舍得拆封，至今买了这么多盘只见过两张盘的盘面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "media_group_id": 14034485646148837,
     "images": [
@@ -83398,7 +83398,7 @@
     "id": 6094,
     "date": "2025-08-04T15:39:44",
     "text": "：   焊   硒",
-    "views": 254,
+    "views": 255,
     "forwards": 0,
     "images": [
       {
@@ -99320,7 +99320,7 @@
     "id": 7386,
     "date": "2025-12-03T09:25:46",
     "text": "今天买了一个 CA$10 的东西被风控，卡被停用了...\n\n觉得信用卡这种只要知道卡面上的数字就能用来买东西的设计好蠢...输入卡的信息的时候也只能「信任对方不会用来做坏事」即使有人做了坏事也不知道是谁做的\n\n感觉在线支付至少要有一个数字签名吧... 像 yubikey 那样，签名密钥存在卡上，只有物理拥有这张卡的时候可以进行签名，就可以有效防止盗刷了",
-    "views": 208,
+    "views": 209,
     "forwards": 1,
     "images": [
       {
@@ -99339,7 +99339,7 @@
     "id": 7387,
     "date": "2025-12-03T09:29:35",
     "text": "unifi 的包装好可爱！\n\n● U ●",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "images": [
       {
@@ -99358,7 +99358,7 @@
     "id": 7388,
     "date": "2025-12-03T10:04:57",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n见到艾米卡了！艾米卡可爱喵\n\n之前对艾米卡的印象一直是头像的小盐，现在终于有了新的印象，<span class=\"spoiler\"><span>给我的感觉是成熟可靠的大姐姐</span></span> qwq",
-    "views": 197,
+    "views": 198,
     "forwards": 2,
     "media_group_id": 14118050380457173,
     "images": [
@@ -99418,7 +99418,7 @@
     "id": 7392,
     "date": "2025-12-03T13:06:10",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>和マモル一起做爱心咖喱</del>\n\n在超市思考要吃什么的时候正好看到有咖喱和牛大打折就决定做咖喱了，配上中辛的 Java 咖喱块感觉好不错，吃完还想再吃一碗 qwq",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "media_group_id": 14118137365192541,
     "images": [
@@ -99457,7 +99457,7 @@
   {
     "id": 7395,
     "date": "2025-12-03T13:37:43",
-    "views": 399,
+    "views": 400,
     "forwards": 9,
     "media_group_id": 14118152504658685,
     "images": [
@@ -99487,7 +99487,7 @@
     "id": 7397,
     "date": "2025-12-04T04:30:10",
     "text": "说起来，我在飞机上的时候其实并不记得光速和音速都是多少，只记得大概范围\n\n但是我觉得这么常用的两个数字在能存储 640 亿个 64 位数字的手机上不可能没有出现过，所以就打开应用列表一个一个找可能会存储离线信息的 app\n\n第一个找到的是日语词典，打开词典查了一下光速和音速，果然有数值 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 然后发现计算器里也有\n\n感觉离线知识好实用，今天下载了一个 Kiwix 离线维基百科和一个 ollama gemma3:1b 本地小模型，希望再次需要离线奇思妙想的时候、或者在没网的地方旅游露营的时候会派上用场 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 273,
+    "views": 274,
     "forwards": 4,
     "media_group_id": 14118580884675037,
     "images": [
@@ -99541,7 +99541,7 @@
     "id": 7401,
     "date": "2025-12-05T05:47:59",
     "text": "哭哭 似乎感冒了...",
-    "views": 138,
+    "views": 140,
     "forwards": 0
   }
 ]
