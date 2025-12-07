@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-12-07T04:27:47.782810+00:00</updated>
+  <updated>2025-12-07T06:17:37.462371+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7410</id>
+    <title>小桂桂的回忆录 📒 #7410</title>
+    <updated>2025-12-07T05:51:38+00:00</updated>
+    <content>&lt;p&gt;记得四年前租第一个公寓的时候看了一圈加拿大运营商，大部分还停留在同轴线，最贵的套餐上行也只有 50M。当时唯一的两家光纤是 Bell 和 FibreStream，上下对等，但是都不支持 IPv6...&lt;/p&gt;
+&lt;p&gt;四年过去之后现在要搬家了，又看了一圈。除了某些顽固的老牌&lt;span class="spoiler"&gt;&lt;span&gt; Rogers &lt;/span&gt;&lt;/span&gt;还在用同轴以外，其他运营商大部分都换到了纯光，还有很多新的运营商出现，但是 Bell 和大部分新的纯光运营商（Beanfield, oxio, teksavvy）依然不支持 IPv6&lt;/p&gt;
+&lt;p&gt;给新家选了 Ebox，是为数不多同时有上下对等光纤和 IPv6 还便宜还在 homelab 社区有不错的评价的运营商。&lt;/p&gt;
+&lt;p&gt;唉，真希望哪天某 CDN 公司或者其他大公司可以宣告一个计划停止 IPv4 支持的截止日期，不然的话感觉加拿大这种不缺 v4 的地方 v6 支持永远起不来...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7410" rel="alternate"/>
+  </entry>
   <entry>
     <id>7407</id>
     <title>小桂桂的回忆录 📒 #7407</title>
