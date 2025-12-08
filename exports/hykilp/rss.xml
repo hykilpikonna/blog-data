@@ -12,7 +12,19 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Dec 2025 04:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 06:19:48 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #7422</title>
+      <link>https://aza.moe/life?post=7422</link>
+      <description>&lt;p&gt;发现 telegram 安卓客户端&lt;b&gt;按原图文件&lt;/b&gt;发送 jpg 也依然会删除 EXIF 里面的 GPS 位置信息，导致发送的文件和接收到的文件数据可能并不完全相等&lt;/p&gt;
+&lt;p&gt;试过了去「发送文件」tab 手动选择文件路径依然会被删&lt;/p&gt;
+&lt;p&gt;测试了：
+- 安卓发送 .jpg：GPS 被删除
+- 安卓发送 .heic: 没有处理
+- 电脑发送两种格式：没有处理
+- iOS 发送两种格式：大部分第三方相机 app 拍出来的照片的 GPS 会被删，官方相机拍出来的照片的 GPS 不会（也许因为第三方相机 app 缺少某些 GPS tag?）&lt;/p&gt;</description>
+      <guid isPermaLink="false">7422</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #7414</title>
       <link>https://aza.moe/life?post=7414</link>
