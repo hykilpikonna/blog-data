@@ -26168,7 +26168,7 @@
     "id": 1960,
     "date": "2023-03-20T08:29:55",
     "text": "刚才提交完 PCB 写了一半邮件半睡半梦游地累瘫在床上，和聊聊开玩笑说没力气动了你拖我过去刷牙吧，然后聊聊真的答应了！被一路公主抱过去了！！啊啊第一次被公主抱，不知道是哪里戳到我了一样，头顶一直在冒小爱心（x）好想在脑海里让这个感觉无限回放...\n\n然后聊聊试了帮我刷牙，好痒好痒差点把牙膏吞进去了呜。明明自己刷同样的位置不会觉得痒的，人的感官真的好奇怪",
-    "views": 254,
+    "views": 255,
     "forwards": 5
   },
   {
@@ -42838,7 +42838,7 @@
     "id": 3170,
     "date": "2024-01-12T01:52:29",
     "text": "今天玩博得之门丢了几次档... 解决的时候被迷惑到了\n\n第一次打开游戏发现档没了，开了一个新档然后用 Windows 全局搜索发现它放在 Steam 的同步文件夹里了而不是用户文件夹（明明之前也是用 Steam 启动的）重启不开 Steam 直接启动 bg3_dx11.exe 就好了。\n\n第二次打开游戏发现档没了，又开了一个新档然后用 Windows 全局搜索发现它居然在同一个目录的 Debug_Profile_3 下面。之后发现这个游戏判断存档位置的逻辑是，如果后台有 bg3 进程在跑就读 Debug_Profile_{i}，如果没有就读 Public... 然后因为之前开的游戏没有成功退出，留了两个僵尸进程，所以新开的进程检测到有三个游戏开着就读了 Debug_Profile_3 🌚\n\n至少花了一个小时解决这个问题... 后悔没有用主机玩这个游戏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 0
   },
   {
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 103,
+    "views": 104,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 273,
+    "views": 274,
     "forwards": 2,
     "images": [
       {
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "files": [
       {
@@ -43030,7 +43030,7 @@
     "id": 3184,
     "date": "2024-01-13T15:42:20",
     "text": "通宵把博德之门3打通了！故事很棒，每个角色都有很独立很有趣的剧情和小结局，没想到还把之前没有机会救的 Karlach 用奇怪的方式救活了\n\n不过如果说有不足就是世界设定实在太大，无论做多么小的选择都可能会有长远的蝴蝶效应... 比如在第 1.5 章一个村子里打了一头奇怪的牛，牛把站在旁边的商人 Dammon 撞死了，当时以为是一个普通的 NPC 就没有管，结果打到最后第三章去查攻略才发现他是唯一一个能救 Karlach 的人... <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 之后就不太敢随便做选择了（x）\n\n大结局的话不知道怎么评价... 你们觉得如果世界上存在一个无限智慧的巨大脑子，它真的会狭隘到想要为了 absolute power 统治世界吗？<i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 而且这个巨形脑子只能一个词一个词地说话真的好出戏... 明明设定上应该是比人聪明太多的。\n\n不过以后再仔细评价了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
@@ -43086,7 +43086,7 @@
     "id": 3188,
     "date": "2024-01-15T01:56:26",
     "text": "今天在 smash 打过了聊聊！",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -43105,7 +43105,7 @@
     "id": 3189,
     "date": "2024-01-15T02:07:21",
     "text": "（在选择角色的时候）\n聊聊：给你看看这个 DLC 都有什么了不起的联动\n（省略一千字）\n我：<del>那也不是很多嘛，连 nekopara 香子兰都没有</del>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "reply": {
       "id": 3188,
@@ -43116,14 +43116,14 @@
     "id": 3190,
     "date": "2024-01-15T04:27:12",
     "text": "有十多个邮件要发但是现在只想睡觉...",
-    "views": 110,
+    "views": 111,
     "forwards": 0
   },
   {
     "id": 3191,
     "date": "2024-01-15T06:50:54",
     "text": "发完了三个... 感觉发邮件这种事情好心累，等到回复之前都会好焦虑好不安，会让我睡不着让我做噩梦",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 3190,
@@ -43134,14 +43134,14 @@
     "id": 3192,
     "date": "2024-01-15T07:22:42",
     "text": "好冷好冷好冷！",
-    "views": 104,
+    "views": 105,
     "forwards": 0
   },
   {
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 114,
+    "views": 115,
     "forwards": 3,
     "media_group_id": 13643119076454173,
     "images": [
@@ -72238,7 +72238,7 @@
     "id": 5230,
     "date": "2025-04-19T03:30:25",
     "text": "今天 Jun 来这里玩，穿了她的摩卡 kigurumi，超级可爱！！！ > <\n\n给她换装换上了我之前的女仆衣服，用她的相机拍了些照片（等待返图中）\n\n我也戴上试了一下头套，戴上的时候不太能看到外面感觉怪怪的（因为发穿着别人的脸的照片好像不太好所以打一下码）\n\n以及研究了一下 kig 头套的结构，比想象中要简单好多，我也好想试试 3D 打印一个",
-    "views": 291,
+    "views": 292,
     "forwards": 3,
     "images": [
       {
@@ -83074,8 +83074,8 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 243,
-    "forwards": 4,
+    "views": 244,
+    "forwards": 5,
     "files": [
       {
         "duration": 207,
@@ -83096,7 +83096,7 @@
     "id": 6077,
     "date": "2025-08-01T11:32:58",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n怀念 CD 技术之前的黑胶专辑，每首歌的结尾都和下一首歌的开头无缝融合在一起\n\n我最喜欢也是最早接触的这种专辑是 Pink Floyd 的 <em>Dark Side of the Moon</em>，比起十首不同的曲子更像是像是一首 40 分钟长的曲子，从一个旋律发展到下一个，是名副其实的 Progressive Rock",
-    "views": 218,
+    "views": 219,
     "forwards": 3,
     "files": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8292,
+    "views": 8293,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 743,
+    "views": 744,
     "forwards": 8,
     "images": [
       {
@@ -96169,7 +96169,7 @@
     "id": 7142,
     "date": "2025-11-06T10:12:55",
     "text": "总是分不清う和ラ\n\n：ラどん\n：うーメン",
-    "views": 193,
+    "views": 194,
     "forwards": 2
   },
   {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1968,
+    "views": 1971,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -98704,7 +98704,7 @@
     "id": 7339,
     "date": "2025-11-29T12:02:24",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n<span class=\"spoiler\"><span>终于见到林子了好开心！</span></span><i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 352,
+    "views": 353,
     "forwards": 3,
     "images": [
       {
@@ -99177,7 +99177,7 @@
     "id": 7376,
     "date": "2025-12-02T05:52:37",
     "text": "赶上了！还好司机飚车飚得快，原本预计 1:20 的路程只用了 47 分钟",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "reply": {
       "id": 7375,
@@ -99541,7 +99541,7 @@
     "id": 7401,
     "date": "2025-12-05T05:47:59",
     "text": "哭哭 似乎感冒了...",
-    "views": 244,
+    "views": 245,
     "forwards": 0
   },
   {
@@ -99604,7 +99604,7 @@
     "id": 7406,
     "date": "2025-12-06T20:01:45",
     "text": "猫咪烤箱 <i class=\"custom-emoji\" emoji-src=\"emoji/5458822541801956370.webp\">🔥</i>",
-    "views": 203,
+    "views": 204,
     "forwards": 0,
     "reply": {
       "id": 7401,
@@ -99627,14 +99627,14 @@
     "id": 7407,
     "date": "2025-12-07T01:06:23",
     "text": "迷惑，TransUnion 和 Trans 和 Union 都有什么关系 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 1
   },
   {
     "id": 7410,
     "date": "2025-12-07T05:51:38",
     "text": "记得四年前租第一个公寓的时候看了一圈加拿大运营商，大部分还停留在同轴线，最贵的套餐上行也只有 50M。当时唯一的两家光纤是 Bell 和 FibreStream，上下对等，但是都不支持 IPv6...\n\n四年过去之后现在要搬家了，又看了一圈。除了某些顽固的老牌<span class=\"spoiler\"><span> Rogers </span></span>还在用同轴以外，其他运营商大部分都换到了纯光，还有很多新的运营商出现，但是 Bell 和大部分新的纯光运营商（Beanfield, oxio, teksavvy）依然不支持 IPv6\n\n给新家选了 Ebox，是为数不多同时有上下对等光纤和 IPv6 还便宜还在 homelab 社区有不错的评价的运营商。\n\n唉，真希望哪天某 CDN 公司或者其他大公司可以宣告一个计划停止 IPv4 支持的截止日期，不然的话感觉加拿大这种不缺 v4 的地方 v6 支持永远起不来...",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "images": [
       {
@@ -99653,14 +99653,14 @@
     "id": 7411,
     "date": "2025-12-07T08:57:21",
     "text": "感冒好讨厌\n\n今天发现有想要见的人在东京，明天去大阪，但是我感冒了没法见 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 177,
+    "views": 178,
     "forwards": 1
   },
   {
     "id": 7412,
     "date": "2025-12-07T15:43:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nマモル做的可乐鸡翅和蒜香油菜和🍆\n\nマモル做饭好好吃，刚刚称了一下我来这里之后体重已经 +2.5kg 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 156,
+    "views": 160,
     "forwards": 1,
     "images": [
       {
@@ -99679,14 +99679,14 @@
     "id": 7413,
     "date": "2025-12-07T16:15:57",
     "text": "🐱：自贩机居然不贩卖它自己\n🐴：是“自动”不是“自己“啦\n（沉默）\n🐱：人是不是一种自贩机，会投简历贩卖自己",
-    "views": 154,
+    "views": 157,
     "forwards": 2
   },
   {
     "id": 7414,
     "date": "2025-12-07T17:39:08",
     "text": "千叶夜景🍂",
-    "views": 137,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 14121033189486957,
     "images": [
@@ -99776,8 +99776,8 @@
     "id": 7422,
     "date": "2025-12-08T05:03:06",
     "text": "发现 telegram 安卓客户端<b>按原图文件</b>发送 jpg 也依然会删除 EXIF 里面的 GPS 位置信息，导致发送的文件和接收到的文件数据可能并不完全相等\n\n试过了去「发送文件」tab 手动选择文件路径依然会被删\n\n测试了：\n- 安卓发送 .jpg：GPS 被删除\n- 安卓发送 .heic: 没有处理\n- 电脑发送两种格式：没有处理\n- iOS 发送两种格式：大部分第三方相机 app 拍出来的照片的 GPS 会被删，官方相机拍出来的照片的 GPS 不会（也许因为第三方相机 app 缺少某些 GPS tag?）",
-    "views": 93,
-    "forwards": 1,
+    "views": 117,
+    "forwards": 3,
     "images": [
       {
         "width": 658,
