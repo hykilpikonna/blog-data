@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-12-08T16:17:42.599469+00:00</updated>
+  <updated>2025-12-08T18:18:46.549683+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7426</id>
+    <title>小桂桂的回忆录 📒 #7426</title>
+    <updated>2025-12-08T18:16:45+00:00</updated>
+    <content>&lt;p&gt;每次写前端都能学到新 hack。感觉前端就是 hack to fix a hack to fix a hack to fix hack...&lt;/p&gt;
+&lt;p&gt;最早让一个固定视图竖向占满整个屏幕的方法是 height: 100% 从最上层一路传下去。但百分比是相对单位，相对于上一层的高度，用来计算屏幕高度很麻烦，所以就添加了 vh 这个单位，100vh = 屏幕高度。&lt;/p&gt;
+&lt;p&gt;但是手机浏览器为了最大化阅读空间会在滚动的时候隐藏地址栏，可是让 vh 动态改变的话就会让一些依赖 vh 不变的页面显示内容跳来跳去，所以就添加了 dvh svh 这些单位，dvh 是地址栏收缩的时候会变的高度，svh 是地址栏不隐藏的时候最小的高度。&lt;/p&gt;
+&lt;p&gt;但是因为不是所有浏览器都支持 dvh svh 所以我还要再添加一个变量，如果支持就等于 100dvh，不支持就掉回到 100vh... &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7426" rel="alternate"/>
+  </entry>
   <entry>
     <id>7425</id>
     <title>小桂桂的回忆录 📒 #7425</title>

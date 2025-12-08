@@ -44657,14 +44657,14 @@
     "id": 3297,
     "date": "2024-02-04T10:37:26",
     "text": "哭 今天玩博德之门死了两次档，两次都是在长休触发剧情的时候游戏闪退，重启也会在同一个地方闪退，可能因为开发者没有想到一个特定的展开过程吧...\n\n第一次闪退花了一个小时 debug 之后通过触发一个特定的地图区域解决了，第二次闪退还没有找到解决方式... 这种程度的 bug 真的好劝退 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 0
   },
   {
     "id": 3298,
     "date": "2024-02-04T21:19:17",
     "text": "第一次摸到真的 aime 和 Card Maker 卡耶，感谢从日本回来的半喵\n\n呜 说起来我还没有在官服上玩过任何一款街机，所以写私服也有很多理解偏差... 比如上次问了 Asuna 才知道原来官服有些曲子是要解锁才能玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n好想去日本玩玩官服 quq",
-    "views": 112,
+    "views": 113,
     "forwards": 2,
     "media_group_id": 13656652455766149,
     "images": [
@@ -44694,7 +44694,7 @@
     "id": 3300,
     "date": "2024-02-05T00:14:27",
     "text": "以及感谢半喵买的芒果慕斯！<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 13656736536843773,
     "images": [
@@ -44729,7 +44729,7 @@
     "id": 3302,
     "date": "2024-02-05T04:57:42",
     "text": "看到地图上标的点写了 \"Cache\" 还在想这里为什么有缓存，查了一下才知道 cache 的本意是 \"a secure place of storage\" <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 124,
+    "views": 125,
     "forwards": 1,
     "media_group_id": 13656872502284565,
     "images": [
@@ -44818,7 +44818,7 @@
     "id": 3308,
     "date": "2024-02-07T11:01:15",
     "text": "今天开坑了 <a href=\"https://github.com/hykilpikonna/AquaDX/tree/master/AquaMai\">AquaMai</a>！是一个给 maimai DX 的魔改 Mod\n\n和蓝夏一起写了下面五个功能\n\n1. 解锁所有倍速票\n2. 跳过开机自检之后的版权警告界面\n3. 单机模式（蓝夏写的！\n4. 从刷卡直接跳到选歌（也是蓝夏写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n5. 修了官方选角色选到某个角色会闪退的 bug\n\n第一次写游戏魔改感觉好好玩 qwq",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "media_group_id": 13658429403943621,
     "images": [
@@ -57283,7 +57283,7 @@
     "id": 4202,
     "date": "2024-07-21T16:20:56",
     "text": "刚刚试着用 LMDeploy 优化了一下 Sekai LLM，现在每个请求只需要 ~150ms 了！大进步\n\n...不过发现固定输入的话每次生成的结果都是一样的，完全没有随机性，即使把温度增加到 1.5 也一样。\n\n查了查发现填了一个随机的种子就好了... 然后把随机种子的这个参数注释掉发现不填种子也一样有随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 怎么回事呢？\n\n之后发现这个种子为 Null 的时候是在 GeneratorConfig 构造器里填一个随机的进去，所以只要用同样的 GeneratorConfig 种子就不会随机 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 真的感觉第一次在现实中见到 xkcd 级别的 💩",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 13772630852604181,
     "images": [
@@ -57323,7 +57323,7 @@
     "id": 4205,
     "date": "2024-07-21T19:18:02",
     "text": "...更新到 24.7.1 不仅没有修 bug 还会蓝屏。回退到已知没有 bug 的版本 23.12 了",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 4182,
@@ -57346,7 +57346,7 @@
     "id": 4206,
     "date": "2024-07-21T20:33:07",
     "text": "<del>快进到女同</del>",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -57369,7 +57369,7 @@
     "id": 4207,
     "date": "2024-07-22T05:17:14",
     "text": "syama: 你看那个水杯旁边的镜头像不像一个水杯\n\n...它就是个水杯 🌚",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
@@ -57388,7 +57388,7 @@
     "id": 4208,
     "date": "2024-07-22T12:13:18",
     "text": "没见过女的吗",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -57510,14 +57510,14 @@
     "id": 4217,
     "date": "2024-07-22T20:32:45",
     "text": "syama: 明天早点叫我起床，我怕起床他们下班了\n我：所以我们现在“早点起床”是“下午五点之前“吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 0
   },
   {
     "id": 4218,
     "date": "2024-07-23T08:45:19",
     "text": "去实体店试了试华为的 Pura 60 Pro，感觉长焦好烂，AI 补得也好烂，真不愧是 ����VAFIVE AI CAVCDA",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "images": [
       {
@@ -57536,7 +57536,7 @@
     "id": 4219,
     "date": "2024-07-23T13:58:33",
     "text": "第一次装 PVE",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -67183,7 +67183,7 @@
     "id": 4871,
     "date": "2025-01-18T19:18:17",
     "text": "发现手也是某种小语言模型，走神的时候手就会给我自动补全奇怪东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 0,
     "images": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2757,
+    "views": 2758,
     "forwards": 29,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6352,
+    "views": 6354,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8294,
+    "views": 8295,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1845,
+    "views": 1846,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -98322,7 +98322,7 @@
     "id": 7310,
     "date": "2025-11-28T11:03:46",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n\n三个一加手机好好笑",
-    "views": 282,
+    "views": 283,
     "forwards": 4,
     "media_group_id": 14114622614571069,
     "images": [
@@ -98902,7 +98902,7 @@
     "id": 7354,
     "date": "2025-12-01T10:25:19",
     "text": "热转印打印耗材好奇妙\n\n今天正好打完了一卷耗材，因为好奇就拆开看了一下，发现耗材上居然还保留着图片的纹路\n\n把黄紫蓝三段卡带剪开、再叠起来之后果然就复原出了原图的负片！放在一个光源上拍下来，再后期进行一下反色就还原出原图了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看来以后打印完的耗材也要留下来了 qwq",
-    "views": 234,
+    "views": 235,
     "forwards": 3,
     "media_group_id": 14116677755987317,
     "images": [
@@ -99487,7 +99487,7 @@
     "id": 7397,
     "date": "2025-12-04T04:30:10",
     "text": "说起来，我在飞机上的时候其实并不记得光速和音速都是多少，只记得大概范围\n\n但是我觉得这么常用的两个数字在能存储 640 亿个 64 位数字的手机上不可能没有出现过，所以就打开应用列表一个一个找可能会存储离线信息的 app\n\n第一个找到的是日语词典，打开词典查了一下光速和音速，果然有数值 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 然后发现计算器里也有\n\n感觉离线知识好实用，今天下载了一个 Kiwix 离线维基百科和一个 ollama gemma3:1b 本地小模型，希望再次需要离线奇思妙想的时候、或者在没网的地方旅游露营的时候会派上用场 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 343,
+    "views": 344,
     "forwards": 4,
     "media_group_id": 14118580884675037,
     "images": [
@@ -99541,7 +99541,7 @@
     "id": 7401,
     "date": "2025-12-05T05:47:59",
     "text": "哭哭 似乎感冒了...",
-    "views": 254,
+    "views": 255,
     "forwards": 0
   },
   {
@@ -99679,14 +99679,14 @@
     "id": 7413,
     "date": "2025-12-07T16:15:57",
     "text": "🐱：自贩机居然不贩卖它自己\n🐴：是“自动”不是“自己“啦\n（沉默）\n🐱：人是不是一种自贩机，会投简历贩卖自己",
-    "views": 186,
+    "views": 187,
     "forwards": 2
   },
   {
     "id": 7414,
     "date": "2025-12-07T17:39:08",
     "text": "千叶夜景🍂",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 14121033189486957,
     "images": [
@@ -99776,7 +99776,7 @@
     "id": 7422,
     "date": "2025-12-08T05:03:06",
     "text": "发现 telegram 安卓客户端<b>按原图文件</b>发送 jpg 也依然会删除 EXIF 里面的 GPS 位置信息，导致发送的文件和接收到的文件数据可能并不完全相等\n\n试过了去「发送文件」tab 手动选择文件路径依然会被删\n\n测试了：\n- 安卓发送 .jpg：GPS 被删除\n- 安卓发送 .heic: 没有处理\n- 电脑发送两种格式：没有处理\n- iOS 发送两种格式：大部分第三方相机 app 拍出来的照片的 GPS 会被删，官方相机拍出来的照片的 GPS 不会（也许因为第三方相机 app 缺少某些 GPS tag?）",
-    "views": 191,
+    "views": 194,
     "forwards": 3,
     "images": [
       {
@@ -99795,7 +99795,7 @@
     "id": 7423,
     "date": "2025-12-08T08:35:15",
     "text": "呜呜 用 docker 的人一定要记得勤清缓存，我好久没清今天跑了一下 <code>docker system prune</code> 清出来 358GB <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 166,
+    "views": 170,
     "forwards": 4,
     "media_group_id": 14121463326705389,
     "images": [
@@ -99815,7 +99815,7 @@
     "id": 7425,
     "date": "2025-12-08T14:41:27",
     "text": "恐怖",
-    "views": 93,
+    "views": 104,
     "forwards": 1,
     "images": [
       {
@@ -99827,6 +99827,25 @@
         "url": "media/7425.jpg",
         "size": 188312,
         "thumb": "media/7425.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7426,
+    "date": "2025-12-08T18:16:45",
+    "text": "每次写前端都能学到新 hack。感觉前端就是 hack to fix a hack to fix a hack to fix hack...\n\n最早让一个固定视图竖向占满整个屏幕的方法是 height: 100% 从最上层一路传下去。但百分比是相对单位，相对于上一层的高度，用来计算屏幕高度很麻烦，所以就添加了 vh 这个单位，100vh = 屏幕高度。\n\n但是手机浏览器为了最大化阅读空间会在滚动的时候隐藏地址栏，可是让 vh 动态改变的话就会让一些依赖 vh 不变的页面显示内容跳来跳去，所以就添加了 dvh svh 这些单位，dvh 是地址栏收缩的时候会变的高度，svh 是地址栏不隐藏的时候最小的高度。\n\n但是因为不是所有浏览器都支持 dvh svh 所以我还要再添加一个变量，如果支持就等于 100dvh，不支持就掉回到 100vh... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
+    "views": 7,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 707,
+        "height": 116,
+        "date": "2025-12-08T18:16:45",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-08_18-16-45.jpg",
+        "url": "media/7426.jpg",
+        "size": 22045,
+        "thumb": "media/7426.jpg_thumb.jpg"
       }
     ]
   }
