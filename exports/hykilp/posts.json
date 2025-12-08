@@ -30569,7 +30569,7 @@
     "id": 2272,
     "date": "2023-06-12T03:46:26",
     "text": "<a href=\"##租房广告\">#租房广告</a>\n九月份多伦多北约克的两居公寓又空出一个房间了，想合租欢迎联系 <a href=\"https://t.me/hykilpikonna\">Azalea</a>！\n\n座标在 Wilson 地铁站旁边走路五分钟，价格大概 CA$950/mo，离 Costco 走路十五分钟。大概是图上那么大的房间，有两个小衣橱、书桌书架椅子、独立卫生间浴室、停车位，共享客厅和厨房。\n\n共享设施的话，有灶台烤箱洗碗机搅拌机洗衣机烘干机、有上下 1 Gbps 光纤 WiFi6、可以分配动态公网 IP 给服务器、可以用我们的两台 3D 打印机、焊接/手工工作台、电钢琴和吉他和 <del>DIY 马林巴琴</del>、电视、VR 头显和各种游戏机和音游手台 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n住在主卧的是 UofT 计算机系本科三年生 Azalea（<a href=\"https://github.com/hykilpikonna\">Github</a> | <a href=\"https://aza.moe/\">Blog</a>）和约克大学软件工程研究生 Lindsey（<a href=\"https://twitter.com/youquzhiji\">Twitter</a>），对室友的要求是 1. 支持 LGBTQ+ <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>，2. 是任意方面的 nerd（有感兴趣到能聊上一整天的东西就满足，比如开源项目/运维/心理/工程/音游/流行文化/铁道/游戏/etc）3. 和我们有越多交集越好\n\n总之想要合租欢迎联系哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 1065,
+    "views": 1066,
     "forwards": 22,
     "media_group_id": 13492332690096989,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5723,
+    "views": 5724,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 1966,
+    "views": 1967,
     "forwards": 13,
     "reply": {
       "id": 7212,
@@ -99457,7 +99457,7 @@
   {
     "id": 7395,
     "date": "2025-12-03T13:37:43",
-    "views": 549,
+    "views": 550,
     "forwards": 12,
     "media_group_id": 14118152504658685,
     "images": [
@@ -99634,7 +99634,7 @@
     "id": 7410,
     "date": "2025-12-07T05:51:38",
     "text": "记得四年前租第一个公寓的时候看了一圈加拿大运营商，大部分还停留在同轴线，最贵的套餐上行也只有 50M。当时唯一的两家光纤是 Bell 和 FibreStream，上下对等，但是都不支持 IPv6...\n\n四年过去之后现在要搬家了，又看了一圈。除了某些顽固的老牌<span class=\"spoiler\"><span> Rogers </span></span>还在用同轴以外，其他运营商大部分都换到了纯光，还有很多新的运营商出现，但是 Bell 和大部分新的纯光运营商（Beanfield, oxio, teksavvy）依然不支持 IPv6\n\n给新家选了 Ebox，是为数不多同时有上下对等光纤和 IPv6 还便宜还在 homelab 社区有不错的评价的运营商。\n\n唉，真希望哪天某 CDN 公司或者其他大公司可以宣告一个计划停止 IPv4 支持的截止日期，不然的话感觉加拿大这种不缺 v4 的地方 v6 支持永远起不来...",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "images": [
       {
@@ -99653,14 +99653,14 @@
     "id": 7411,
     "date": "2025-12-07T08:57:21",
     "text": "感冒好讨厌\n\n今天发现有想要见的人在东京，明天去大阪，但是我感冒了没法见 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 165,
+    "views": 167,
     "forwards": 1
   },
   {
     "id": 7412,
     "date": "2025-12-07T15:43:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nマモル做的可乐鸡翅和蒜香油菜和🍆\n\nマモル做饭好好吃，刚刚称了一下我来这里之后体重已经 +2.5kg 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 138,
+    "views": 140,
     "forwards": 1,
     "images": [
       {
@@ -99679,14 +99679,14 @@
     "id": 7413,
     "date": "2025-12-07T16:15:57",
     "text": "🐱：自贩机居然不贩卖它自己\n🐴：是“自动”不是“自己“啦\n（沉默）\n🐱：人是不是一种自贩机，会投简历贩卖自己",
-    "views": 134,
+    "views": 137,
     "forwards": 2
   },
   {
     "id": 7414,
     "date": "2025-12-07T17:39:08",
     "text": "千叶夜景🍂",
-    "views": 103,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 14121033189486957,
     "images": [
