@@ -1446,7 +1446,7 @@
     "id": 140,
     "date": "2021-10-21T14:34:57",
     "text": "希望生活永远不会成为 routine",
-    "views": 55,
+    "views": 56,
     "forwards": 0
   },
   {
@@ -30569,7 +30569,7 @@
     "id": 2272,
     "date": "2023-06-12T03:46:26",
     "text": "<a href=\"##租房广告\">#租房广告</a>\n九月份多伦多北约克的两居公寓又空出一个房间了，想合租欢迎联系 <a href=\"https://t.me/hykilpikonna\">Azalea</a>！\n\n座标在 Wilson 地铁站旁边走路五分钟，价格大概 CA$950/mo，离 Costco 走路十五分钟。大概是图上那么大的房间，有两个小衣橱、书桌书架椅子、独立卫生间浴室、停车位，共享客厅和厨房。\n\n共享设施的话，有灶台烤箱洗碗机搅拌机洗衣机烘干机、有上下 1 Gbps 光纤 WiFi6、可以分配动态公网 IP 给服务器、可以用我们的两台 3D 打印机、焊接/手工工作台、电钢琴和吉他和 <del>DIY 马林巴琴</del>、电视、VR 头显和各种游戏机和音游手台 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n住在主卧的是 UofT 计算机系本科三年生 Azalea（<a href=\"https://github.com/hykilpikonna\">Github</a> | <a href=\"https://aza.moe/\">Blog</a>）和约克大学软件工程研究生 Lindsey（<a href=\"https://twitter.com/youquzhiji\">Twitter</a>），对室友的要求是 1. 支持 LGBTQ+ <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>，2. 是任意方面的 nerd（有感兴趣到能聊上一整天的东西就满足，比如开源项目/运维/心理/工程/音游/流行文化/铁道/游戏/etc）3. 和我们有越多交集越好\n\n总之想要合租欢迎联系哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 1066,
+    "views": 1067,
     "forwards": 22,
     "media_group_id": 13492332690096989,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6361,
+    "views": 6362,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8315,
+    "views": 8316,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1876,
+    "views": 1877,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97976,8 +97976,8 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 325,
-    "forwards": 6,
+    "views": 327,
+    "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
       {
@@ -99137,14 +99137,14 @@
     "id": 7373,
     "date": "2025-12-01T15:42:20",
     "text": "<span class=\"spoiler\"><span>如果陪伴可以 scale 就好了</span></span>",
-    "views": 507,
+    "views": 508,
     "forwards": 6
   },
   {
     "id": 7374,
     "date": "2025-12-02T03:15:44",
     "text": "原来火车还有自动搅拌面汤的服务（虽然撒出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 266,
+    "views": 267,
     "forwards": 1,
     "files": [
       {
@@ -99166,7 +99166,7 @@
     "id": 7375,
     "date": "2025-12-02T05:03:44",
     "text": "失策。原本计划最后一天路过香港的时候和群友见见的，还定了早八闹钟特别早起了，结果现在感觉很难赶上飞机...\n\n8:00 收拾行李洗漱下楼\n9:20 开始打车到天河珠村\n9:37 司机接上我\n10:00 坐上地铁 13 号线去新塘\n10:40 到新塘，吃饭等车\n11:05 坐上新塘到深圳的火车\n11:59 到深圳\n12:30 罗湖出了海关、坐上东铁线（首先是被出关抽查在留卡，之后又被边检抽查行李，我有那么可疑吗...）\n12:35 上水站下车等巴士\n12:45 坐上巴士出发去机场...\n\n预计 13:50 到，但是 14:55 的飞机还要托运的话怎么样都赶不上吧...",
-    "views": 285,
+    "views": 286,
     "forwards": 0,
     "reply": {
       "id": 7290,
@@ -99177,7 +99177,7 @@
     "id": 7376,
     "date": "2025-12-02T05:52:37",
     "text": "赶上了！还好司机飚车飚得快，原本预计 1:20 的路程只用了 47 分钟",
-    "views": 278,
+    "views": 279,
     "forwards": 0,
     "reply": {
       "id": 7375,
@@ -99188,7 +99188,7 @@
     "id": 7377,
     "date": "2025-12-02T06:48:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 267,
+    "views": 268,
     "forwards": 1,
     "files": [
       {
@@ -99210,7 +99210,7 @@
     "id": 7378,
     "date": "2025-12-02T06:53:40",
     "text": "有障碍电梯",
-    "views": 294,
+    "views": 295,
     "forwards": 0,
     "reply": {
       "id": 7312,
@@ -99233,14 +99233,14 @@
     "id": 7379,
     "date": "2025-12-02T10:42:23",
     "text": "在飞机上看动画\n\n每次用蓝牙耳机看视频的时候，都感觉自己是坐在 68m 外用无畸变望远镜看着手机屏幕，深刻感受着音速和光速的差距——在听到声音的 0.2s 之前，每个画面更新发生后，花 0.0000002s 赶来的光子快信就已经让我熟知接下来会听到什么了",
-    "views": 281,
+    "views": 282,
     "forwards": 1
   },
   {
     "id": 7380,
     "date": "2025-12-02T16:28:55",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nスシロー！\n\n回国之后面群友天天和我提寿司郎忍不住了，到日本还没回家之前第一件事就去吃了寿司郎 qwq",
-    "views": 286,
+    "views": 287,
     "forwards": 0,
     "media_group_id": 14117543482870637,
     "images": [
@@ -99290,7 +99290,7 @@
     "id": 7384,
     "date": "2025-12-02T16:38:52",
     "text": "到マモル家了！见到了比较奇妙的快拆型显示器支架，突发奇想\n\n现在的快拆显示器仍然需要手动接线总觉得有点麻烦。想做一个带信号的快拆显示器接口，包含 HDMI、DP、USB、供电... 只要把显示器插上就什么都亮了。\n\n这样的话也许可以比如买三个支持快拆的显示器，一个 1080p 240hz 1ms TN 显示器用来打游戏、一个 8k 60hz HDR4000 显示器用来调照片剪视频看电影画画、一个墨水屏用来读文献，然后切换工作的时候直接快拆把一个显示器拔下来把另一个装上 qwq",
-    "views": 296,
+    "views": 297,
     "forwards": 0,
     "media_group_id": 14117548262578693,
     "images": [
@@ -99320,7 +99320,7 @@
     "id": 7386,
     "date": "2025-12-03T09:25:46",
     "text": "今天买了一个 CA$10 的东西被风控，卡被停用了...\n\n觉得信用卡这种只要知道卡面上的数字就能用来买东西的设计好蠢...输入卡的信息的时候也只能「信任对方不会用来做坏事」即使有人做了坏事也不知道是谁做的\n\n感觉在线支付至少要有一个数字签名吧... 像 yubikey 那样，签名密钥存在卡上，只有物理拥有这张卡的时候可以进行签名，就可以有效防止盗刷了",
-    "views": 264,
+    "views": 266,
     "forwards": 1,
     "images": [
       {
@@ -99339,7 +99339,7 @@
     "id": 7387,
     "date": "2025-12-03T09:29:35",
     "text": "unifi 的包装好可爱！\n\n● U ●",
-    "views": 247,
+    "views": 249,
     "forwards": 1,
     "images": [
       {
@@ -99358,7 +99358,7 @@
     "id": 7388,
     "date": "2025-12-03T10:04:57",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n见到艾米卡了！艾米卡可爱喵\n\n之前对艾米卡的印象一直是头像的小盐，现在终于有了新的印象，<span class=\"spoiler\"><span>给我的感觉是成熟可靠的大姐姐</span></span> qwq",
-    "views": 256,
+    "views": 257,
     "forwards": 3,
     "media_group_id": 14118050380457173,
     "images": [
@@ -99388,7 +99388,7 @@
     "id": 7390,
     "date": "2025-12-03T10:40:36",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n小桂桂唱歌.avif",
-    "views": 306,
+    "views": 307,
     "forwards": 3,
     "media_group_id": 14118067494554525,
     "images": [
@@ -99418,7 +99418,7 @@
     "id": 7392,
     "date": "2025-12-03T13:06:10",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>和マモル一起做爱心咖喱</del>\n\n在超市思考要吃什么的时候正好看到有咖喱和牛大打折就决定做咖喱了，配上中辛的 Java 咖喱块感觉好不错，吃完还想再吃一碗 qwq",
-    "views": 316,
+    "views": 317,
     "forwards": 1,
     "media_group_id": 14118137365192541,
     "images": [
@@ -99457,7 +99457,7 @@
   {
     "id": 7395,
     "date": "2025-12-03T13:37:43",
-    "views": 643,
+    "views": 644,
     "forwards": 14,
     "media_group_id": 14118152504658685,
     "images": [
@@ -99487,7 +99487,7 @@
     "id": 7397,
     "date": "2025-12-04T04:30:10",
     "text": "说起来，我在飞机上的时候其实并不记得光速和音速都是多少，只记得大概范围\n\n但是我觉得这么常用的两个数字在能存储 640 亿个 64 位数字的手机上不可能没有出现过，所以就打开应用列表一个一个找可能会存储离线信息的 app\n\n第一个找到的是日语词典，打开词典查了一下光速和音速，果然有数值 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 然后发现计算器里也有\n\n感觉离线知识好实用，今天下载了一个 Kiwix 离线维基百科和一个 ollama gemma3:1b 本地小模型，希望再次需要离线奇思妙想的时候、或者在没网的地方旅游露营的时候会派上用场 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 371,
+    "views": 372,
     "forwards": 4,
     "media_group_id": 14118580884675037,
     "images": [
@@ -99541,14 +99541,14 @@
     "id": 7401,
     "date": "2025-12-05T05:47:59",
     "text": "哭哭 似乎感冒了...",
-    "views": 290,
+    "views": 291,
     "forwards": 0
   },
   {
     "id": 7402,
     "date": "2025-12-06T02:23:34",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n软骨酸汤面！\n\n以及昨天マモル做了软骨汤和煎鱼干和酱白菜和酱油菜，マモル做饭超好吃 qwq",
-    "views": 267,
+    "views": 268,
     "forwards": 2,
     "media_group_id": 14119902511699885,
     "images": [
@@ -99578,7 +99578,7 @@
     "id": 7404,
     "date": "2025-12-06T04:43:37",
     "text": "🏕",
-    "views": 276,
+    "views": 277,
     "forwards": 0,
     "images": [
       {
@@ -99597,14 +99597,14 @@
     "id": 7405,
     "date": "2025-12-06T05:54:02",
     "text": "在想怎样做覆盖全世界的真无线充电的时候，突然想到这个东西其实早就已经被实现了，它叫做太阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i> 太阳在给全世界的太阳能板无线充电",
-    "views": 285,
+    "views": 286,
     "forwards": 2
   },
   {
     "id": 7406,
     "date": "2025-12-06T20:01:45",
     "text": "猫咪烤箱 <i class=\"custom-emoji\" emoji-src=\"emoji/5458822541801956370.webp\">🔥</i>",
-    "views": 258,
+    "views": 259,
     "forwards": 0,
     "reply": {
       "id": 7401,
@@ -99627,14 +99627,14 @@
     "id": 7407,
     "date": "2025-12-07T01:06:23",
     "text": "迷惑，TransUnion 和 Trans 和 Union 都有什么关系 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 267,
+    "views": 268,
     "forwards": 2
   },
   {
     "id": 7410,
     "date": "2025-12-07T05:51:38",
     "text": "记得四年前租第一个公寓的时候看了一圈加拿大运营商，大部分还停留在同轴线，最贵的套餐上行也只有 50M。当时唯一的两家光纤是 Bell 和 FibreStream，上下对等，但是都不支持 IPv6...\n\n四年过去之后现在要搬家了，又看了一圈。除了某些顽固的老牌<span class=\"spoiler\"><span> Rogers </span></span>还在用同轴以外，其他运营商大部分都换到了纯光，还有很多新的运营商出现，但是 Bell 和大部分新的纯光运营商（Beanfield, oxio, teksavvy）依然不支持 IPv6\n\n给新家选了 Ebox，是为数不多同时有上下对等光纤和 IPv6 还便宜还在 homelab 社区有不错的评价的运营商。\n\n唉，真希望哪天某 CDN 公司或者其他大公司可以宣告一个计划停止 IPv4 支持的截止日期，不然的话感觉加拿大这种不缺 v4 的地方 v6 支持永远起不来...",
-    "views": 264,
+    "views": 265,
     "forwards": 0,
     "images": [
       {
@@ -99653,14 +99653,14 @@
     "id": 7411,
     "date": "2025-12-07T08:57:21",
     "text": "感冒好讨厌\n\n今天发现有想要见的人在东京，明天去大阪，但是我感冒了没法见 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 252,
+    "views": 253,
     "forwards": 3
   },
   {
     "id": 7412,
     "date": "2025-12-07T15:43:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nマモル做的可乐鸡翅和蒜香油菜和🍆\n\nマモル做饭好好吃，刚刚称了一下我来这里之后体重已经 +2.5kg 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 3,
     "images": [
       {
@@ -99679,14 +99679,14 @@
     "id": 7413,
     "date": "2025-12-07T16:15:57",
     "text": "🐱：自贩机居然不贩卖它自己\n🐴：是“自动”不是“自己“啦\n（沉默）\n🐱：人是不是一种自贩机，会投简历贩卖自己",
-    "views": 250,
+    "views": 251,
     "forwards": 2
   },
   {
     "id": 7414,
     "date": "2025-12-07T17:39:08",
     "text": "千叶夜景🍂",
-    "views": 234,
+    "views": 235,
     "forwards": 1,
     "media_group_id": 14121033189486957,
     "images": [
@@ -99776,7 +99776,7 @@
     "id": 7422,
     "date": "2025-12-08T05:03:06",
     "text": "发现 telegram 安卓客户端<b>按原图文件</b>发送 jpg 也依然会删除 EXIF 里面的 GPS 位置信息，导致发送的文件和接收到的文件数据可能并不完全相等\n\n试过了去「发送文件」tab 手动选择文件路径依然会被删\n\n测试了：\n- 安卓发送 .jpg：GPS 被删除\n- 安卓发送 .heic: 没有处理\n- 电脑发送两种格式：没有处理\n- iOS 发送两种格式：大部分第三方相机 app 拍出来的照片的 GPS 会被删，官方相机拍出来的照片的 GPS 不会（也许因为第三方相机 app 缺少某些 GPS tag?）",
-    "views": 264,
+    "views": 265,
     "forwards": 3,
     "images": [
       {
@@ -99795,7 +99795,7 @@
     "id": 7423,
     "date": "2025-12-08T08:35:15",
     "text": "呜呜 用 docker 的人一定要记得勤清缓存，我好久没清今天跑了一下 <code>docker system prune</code> 清出来 358GB <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 248,
+    "views": 249,
     "forwards": 5,
     "media_group_id": 14121463326705389,
     "images": [
@@ -99815,7 +99815,7 @@
     "id": 7425,
     "date": "2025-12-08T14:41:27",
     "text": "恐怖",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "images": [
       {
@@ -99834,7 +99834,7 @@
     "id": 7426,
     "date": "2025-12-08T18:16:45",
     "text": "每次写前端都能学到新 hack。感觉前端就是 hack to fix a hack to fix a hack to fix hack...\n\n最早让一个固定视图竖向占满整个屏幕的方法是 height: 100% 从最上层一路传下去。但百分比是相对单位，相对于上一层的高度，用来计算屏幕高度很麻烦，所以就添加了 vh 这个单位，100vh = 屏幕高度。\n\n但是手机浏览器为了最大化阅读空间会在滚动的时候隐藏地址栏，可是让 vh 动态改变的话就会让一些依赖 vh 不变的页面显示内容跳来跳去，所以就添加了 dvh svh 这些单位，dvh 是地址栏收缩的时候会变的高度，svh 是地址栏不隐藏的时候最小的高度。\n\n但是因为不是所有浏览器都支持 dvh svh 所以我还要再添加一个变量，如果支持就等于 100dvh，不支持就掉回到 100vh... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 2,
     "images": [
       {
@@ -99853,7 +99853,7 @@
     "id": 7427,
     "date": "2025-12-08T19:24:42",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 更新 1.0.3\n\n这两个版本大幅改善了移动端的显示适配和输入体验 <i class=\"custom-emoji\" emoji-src=\"emoji/4999093039189197866.webm\">💓</i>\n\n（我也逐渐开始适应日语九宫格输入法了！从最开始每个字都要找半天，到现在能花 23 分钟打完 6 分钟的歌词感觉好欣慰）",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "media_group_id": 14121775057606277,
     "images": [
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 860,
+    "views": 870,
     "forwards": 9,
     "images": [
       {
@@ -99917,7 +99917,7 @@
     "id": 7431,
     "date": "2025-12-08T21:38:17",
     "text": "作息是小猫",
-    "views": 264,
+    "views": 267,
     "forwards": 0,
     "images": [
       {
@@ -99936,7 +99936,7 @@
     "id": 7432,
     "date": "2025-12-09T15:13:23",
     "text": "这一天终于到了\n\n我的 blog 之前一直是在 Github Pages 上部署的，因为是开源项目所以感觉也没什么关系。Github 说整个网站的最大容量限制是 1GB，四年前刚架起我的 blog 的时候还觉得 1GB 是不可能用完的...\n\n然而早在三年前就已经超过 1GB 了。当时只是提示了一个「部署可能会失败」但是最终还是成功了，所以就没有管。就这样，2GB，3GB，4GB 过去了，依然没有被限制的迹象，直到今天终于部署失败了，提示的居然是 \"No space left on device\" 而不是什么人为的限制... 最后一次成功部署是 4.64GB\n\nGithub 还是太良心了，想想怎样把网站迁移到 homelab 上好啦",
-    "views": 271,
+    "views": 278,
     "forwards": 4,
     "media_group_id": 14122345626874821,
     "images": [
@@ -99966,14 +99966,14 @@
     "id": 7434,
     "date": "2025-12-09T16:50:56",
     "text": "在日本住过的好处是 回到加拿大之后可以和朋友说 \"I lived in a mansion\" while being technically correct <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 241,
+    "views": 245,
     "forwards": 2
   },
   {
     "id": 7435,
     "date": "2025-12-10T06:46:38",
     "text": "心情复杂\n\n头顶经过的电车让平常的街道变得好好看！...然后意识到这是我在赶的那班，下一班要 15 分钟 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 238,
+    "views": 243,
     "forwards": 4,
     "images": [
       {
@@ -99992,7 +99992,7 @@
     "id": 7438,
     "date": "2025-12-10T12:14:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫抓琴\n\n（琴是 mamoru 的 Casiotone CT-S1）",
-    "views": 212,
+    "views": 218,
     "forwards": 1,
     "media_group_id": 14122951178659965,
     "files": [
@@ -100022,7 +100022,7 @@
     "id": 7439,
     "date": "2025-12-10T12:37:37",
     "text": "去秋叶原的神田神社买了「IT 情报安全守护」<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 209,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 14122962060743717,
     "images": [
@@ -100102,7 +100102,7 @@
     "id": 7446,
     "date": "2025-12-10T19:59:46",
     "text": "乳糖不耐受\n\nマモル买了很好吃的「特浓」牛奶冰淇淋，我按以往的习惯吃乳糖酶之后吃了冰淇淋，奶味超浓好好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后依然孬肚子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是不是需要同样「特浓」的乳糖酶才可以吃它",
-    "views": 209,
+    "views": 215,
     "forwards": 1,
     "images": [
       {
@@ -100121,14 +100121,14 @@
     "id": 7447,
     "date": "2025-12-11T03:47:40",
     "text": "去日本的 20 天就这样被感冒夺走了 10 天...",
-    "views": 193,
+    "views": 200,
     "forwards": 0
   },
   {
     "id": 7448,
     "date": "2025-12-11T07:19:39",
     "text": "合影 (n.) merging shadows",
-    "views": 185,
+    "views": 193,
     "forwards": 2,
     "images": [
       {
@@ -100147,7 +100147,7 @@
     "id": 7449,
     "date": "2025-12-13T02:36:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100679789004199810.webp\">🌖</i> 259°<span class=\"spoiler\"><span>（12 月 11 日）</span></span>\n\n和 tracer 去看了 ALL OF EVANGELION 30 周年展，好多超级炫酷的原画、设定稿，还有结束之后大家在「恭喜真嗣」留言墙上留下的画，好不错好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好喜欢 Eva 的设计语言，虽然已经三十年了但是放在今天也不会觉得过时。懂了，下次做网页就试试设计成 Eva 风好了\n\n因为是为数不多允许拍照的展，所以变身人形扫描仪把所有喜欢的原画都拍下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>（虽然之后还是在出口商店买了原画集，所以其实拍照并没有什么意义...）\n\n有点想三刷 Eva 了",
-    "views": 133,
+    "views": 144,
     "forwards": 0,
     "media_group_id": 14124747270962341,
     "images": [
@@ -100257,7 +100257,7 @@
     "id": 7459,
     "date": "2025-12-13T03:30:08",
     "text": "以及这个展会的地点在六本木东京 City View 展望台上，城市风景和照进房间的夕阳都好好看！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（这样想的话，展会票价 JP￥1600 好良心呀，还能免费看展望台... 明明单独的展望台票也一样是 JP￥1600）",
-    "views": 142,
+    "views": 153,
     "forwards": 3,
     "media_group_id": 14124772865920877,
     "images": [
@@ -100372,7 +100372,7 @@
     "id": 7469,
     "date": "2025-12-13T14:55:19",
     "text": "原来「撫子」是一种花\n\n（是摇曳露营粉毛女主的名字）",
-    "views": 113,
+    "views": 134,
     "forwards": 3,
     "images": [
       {
@@ -100391,21 +100391,21 @@
     "id": 7470,
     "date": "2025-12-13T18:31:56",
     "text": "好累，如果有帕鲁可以帮我清空 todo 就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 85,
+    "views": 120,
     "forwards": 0
   },
   {
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 53,
+    "views": 94,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 27,
+    "views": 77,
     "forwards": 0,
     "images": [
       {
@@ -100417,6 +100417,30 @@
         "url": "media/7472.jpg",
         "size": 12350,
         "thumb": "media/7472.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7473,
+    "date": "2025-12-14T00:33:33",
+    "text": "把 blog 的数据迁移到 homelab 上把它修好了\n\n以及今天终于抽出时间把这台机器上部署的二十多个网页全都从 nginx 迁移到 caddy 了，原本觉得两小时肯定够了结果折腾到了凌晨九点半，好累好累好累...\n\n不过 caddy 确实好方便，不再需要手动管理 TLS 了，配置行数直接减少 7.5 倍！不过现在已经没有力气为这件事情开心了，全身都只想要睡觉—— <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
+    "views": 65,
+    "forwards": 0,
+    "reply": {
+      "id": 7432,
+      "text": "这一天终于到了\n\n我的 blog 之前一直是在 Github Pages 上部署的，因为是开源项目所以感觉也没什么关系。Github 说整个网站的最大容量限制是 1GB，四年前刚架起我的 blog 的时候还觉得 1GB 是不可能用完的...\n\n然而早在三年前就已经超过 1GB 了。当时只是提示了一个「部署可能会失败」但是最终还是成功了，所以就没有管。就这样，2GB，3GB，4GB 过去了，依然没有被限制的迹象，直到今天终于部署失败了，提示的居然是 \"No space left on device\" 而不是什么人为的限制... 最后一次成功部署是 4.64GB\n\nGithub 还是太良心了，想想怎样把网站迁移到 homelab 上好啦",
+      "thumb": "media/7432.jpg_thumb.jpg"
+    },
+    "images": [
+      {
+        "width": 589,
+        "height": 1487,
+        "date": "2025-12-14T00:33:33",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-14_00-33-33.jpg",
+        "url": "media/7473.jpg",
+        "size": 232794,
+        "thumb": "media/7473.jpg_thumb.jpg"
       }
     ]
   }
