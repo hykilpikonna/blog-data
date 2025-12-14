@@ -48722,7 +48722,7 @@
     "id": 3568,
     "date": "2024-04-08T19:33:19",
     "text": "好看！",
-    "views": 132,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 13700838399361029,
     "images": [
@@ -48752,7 +48752,7 @@
     "id": 3570,
     "date": "2024-04-08T19:56:45",
     "text": "和前任和现任和前任的现任一起去了！好热闹好开心",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 13700849643192773,
     "images": [
@@ -48801,7 +48801,7 @@
   {
     "id": 3574,
     "date": "2024-04-10T20:58:11",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "files": [
       {
@@ -48826,7 +48826,7 @@
     "id": 3575,
     "date": "2024-04-12T13:46:41",
     "text": "刚刚起床看到了 Fabrice Bellard 新发布的 <a href=\"https://bellard.org/tsac\">TSAC</a> 音频编码，是一个用二进制语言重写、为了实际应用优化过的 <a href=\"https://arxiv.org/abs/2306.06546\">DAC</a> neural codec，真的没想到去年六月刚 preprint 的论文今年就能见到实际应用了！\n\n我去年的研究里还用到了 DAC 来着，当时这个东西几乎是所有向量模型里最重的一个，即是双通道、每帧尺寸和帧频率也都很大... 导致这一个模型存下来的矢量 npy 几乎和所有其他模型加起来一样大了（还存了一张加载矢量的时候非常壮观的 btop）\n\n不过看上去 TSAC 解决了很多它的问题，转 8bit 把模型权重减轻了不少，也不需要依赖复杂的 python 环境运行了。好期待哪天 Bellard 能把它整合进 ffmpeg qwq",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 13703436811200701,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5730,
+    "views": 5732,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -87470,7 +87470,7 @@
     "id": 6416,
     "date": "2025-08-30T15:41:03",
     "text": "在那之前和谦谦和黑狐和某葡萄球菌去爬了護摩壇山！夕阳下树林的气氛好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我超喜欢\n\n路过了很漂亮的蘑菇、像旺旺雪饼一样的蘑菇、很扭曲的树、长满了刺的花苞、还有悬停在空中和我招手的小蜜蜂（之后它还落在我的相机上帽子上了，等一个返图 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "media_group_id": 14052547710403293,
     "images": [
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 336,
+    "views": 337,
     "forwards": 2
   },
   {
@@ -97136,7 +97136,7 @@
     "id": 7220,
     "date": "2025-11-15T02:13:30",
     "text": "因为配不好 wayland 一直在用 x11，更新一下系统发现登录之后黑屏进不去，抓半天虫虫发现是 x11 不被 gnome 支持了... 好生气",
-    "views": 293,
+    "views": 294,
     "forwards": 1,
     "images": [
       {
@@ -97155,7 +97155,7 @@
     "id": 7221,
     "date": "2025-11-15T03:39:12",
     "text": "后续：修好 wayland 了。黑屏是因为登录的时候显卡被 sunshine 抢走了\n\n感谢 <a href=\"https://t.me/q234rty\">@q234rty</a> 帮忙抓虫虫",
-    "views": 290,
+    "views": 291,
     "forwards": 0,
     "reply": {
       "id": 7220,
@@ -97166,7 +97166,7 @@
     "id": 7222,
     "date": "2025-11-15T15:19:42",
     "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 384,
+    "views": 385,
     "forwards": 5,
     "images": [
       {
@@ -97185,14 +97185,14 @@
     "id": 7223,
     "date": "2025-11-16T01:46:11",
     "text": "每次去中国都会忘记在中国去公共厕所需要自己带纸... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 281,
+    "views": 282,
     "forwards": 2
   },
   {
     "id": 7224,
     "date": "2025-11-16T02:03:52",
     "text": "怀念一蘭<span class=\"spoiler\"><span>（的厕所）</span></span>了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 287,
+    "views": 288,
     "forwards": 2,
     "media_group_id": 14106069059511125,
     "images": [
@@ -97226,7 +97226,7 @@
     "id": 7226,
     "date": "2025-11-16T08:27:47",
     "text": "发现了野生的木琴！（不过为什么所有琴键都是同样的音色 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "media_group_id": 14106253338050181,
     "files": [
@@ -97261,7 +97261,7 @@
     "id": 7228,
     "date": "2025-11-16T12:16:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6102860812051814101.webp\">🌗</i> 234°<span class=\"spoiler\"><span>（11 月 16 日）</span></span>\n\n去翻墙了！（物理）\n\n爬墙好累呀... 台阶超级陡，而且刚上坡就下坡的好折磨，好难想象建的人到底是怎样把每一块转搬上来的，感觉让我搬的话每一块转都需要一天的体力\n\n以及中国的长城感觉好荒凉，是一条两边都看不到边界的分界线。哪边是里是外、是保护还是牢笼也已经分不清了。\n\n<del>地球是圆的，所以我用石子原地摆个圈圈就是保护全世界的长城 </del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</del></i>",
-    "views": 256,
+    "views": 257,
     "forwards": 1,
     "media_group_id": 14106363105405861,
     "images": [
@@ -97371,7 +97371,7 @@
     "id": 7238,
     "date": "2025-11-16T12:34:35",
     "text": "出片（物理）\n\n和长城下面的并不长的小猫",
-    "views": 265,
+    "views": 266,
     "forwards": 0,
     "media_group_id": 14106371805346341,
     "images": [
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 2002,
+    "views": 2004,
     "forwards": 14,
     "reply": {
       "id": 7212,
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 299,
+    "views": 300,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 327,
+    "views": 328,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98094,7 +98094,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 310,
+    "views": 311,
     "forwards": 4,
     "images": [
       {
@@ -98704,7 +98704,7 @@
     "id": 7339,
     "date": "2025-11-29T12:02:24",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n<span class=\"spoiler\"><span>终于见到林子了好开心！</span></span><i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 368,
+    "views": 370,
     "forwards": 3,
     "images": [
       {
@@ -98723,7 +98723,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 254,
+    "views": 255,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -99597,7 +99597,7 @@
     "id": 7405,
     "date": "2025-12-06T05:54:02",
     "text": "在想怎样做覆盖全世界的真无线充电的时候，突然想到这个东西其实早就已经被实现了，它叫做太阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i> 太阳在给全世界的太阳能板无线充电",
-    "views": 287,
+    "views": 288,
     "forwards": 2
   },
   {
@@ -99776,7 +99776,7 @@
     "id": 7422,
     "date": "2025-12-08T05:03:06",
     "text": "发现 telegram 安卓客户端<b>按原图文件</b>发送 jpg 也依然会删除 EXIF 里面的 GPS 位置信息，导致发送的文件和接收到的文件数据可能并不完全相等\n\n试过了去「发送文件」tab 手动选择文件路径依然会被删\n\n测试了：\n- 安卓发送 .jpg：GPS 被删除\n- 安卓发送 .heic: 没有处理\n- 电脑发送两种格式：没有处理\n- iOS 发送两种格式：大部分第三方相机 app 拍出来的照片的 GPS 会被删，官方相机拍出来的照片的 GPS 不会（也许因为第三方相机 app 缺少某些 GPS tag?）",
-    "views": 267,
+    "views": 268,
     "forwards": 3,
     "images": [
       {
@@ -99795,7 +99795,7 @@
     "id": 7423,
     "date": "2025-12-08T08:35:15",
     "text": "呜呜 用 docker 的人一定要记得勤清缓存，我好久没清今天跑了一下 <code>docker system prune</code> 清出来 358GB <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 249,
+    "views": 250,
     "forwards": 5,
     "media_group_id": 14121463326705389,
     "images": [
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 880,
+    "views": 882,
     "forwards": 9,
     "images": [
       {
@@ -99917,7 +99917,7 @@
     "id": 7431,
     "date": "2025-12-08T21:38:17",
     "text": "作息是小猫",
-    "views": 270,
+    "views": 272,
     "forwards": 0,
     "images": [
       {
@@ -99936,7 +99936,7 @@
     "id": 7432,
     "date": "2025-12-09T15:13:23",
     "text": "这一天终于到了\n\n我的 blog 之前一直是在 Github Pages 上部署的，因为是开源项目所以感觉也没什么关系。Github 说整个网站的最大容量限制是 1GB，四年前刚架起我的 blog 的时候还觉得 1GB 是不可能用完的...\n\n然而早在三年前就已经超过 1GB 了。当时只是提示了一个「部署可能会失败」但是最终还是成功了，所以就没有管。就这样，2GB，3GB，4GB 过去了，依然没有被限制的迹象，直到今天终于部署失败了，提示的居然是 \"No space left on device\" 而不是什么人为的限制... 最后一次成功部署是 4.64GB\n\nGithub 还是太良心了，想想怎样把网站迁移到 homelab 上好啦",
-    "views": 279,
+    "views": 282,
     "forwards": 4,
     "media_group_id": 14122345626874821,
     "images": [
@@ -99966,14 +99966,14 @@
     "id": 7434,
     "date": "2025-12-09T16:50:56",
     "text": "在日本住过的好处是 回到加拿大之后可以和朋友说 \"I lived in a mansion\" while being technically correct <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 247,
+    "views": 251,
     "forwards": 2
   },
   {
     "id": 7435,
     "date": "2025-12-10T06:46:38",
     "text": "心情复杂\n\n头顶经过的电车让平常的街道变得好好看！...然后意识到这是我在赶的那班，下一班要 15 分钟 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 246,
+    "views": 252,
     "forwards": 4,
     "images": [
       {
@@ -99992,7 +99992,7 @@
     "id": 7438,
     "date": "2025-12-10T12:14:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫抓琴\n\n（琴是 mamoru 的 Casiotone CT-S1）",
-    "views": 221,
+    "views": 225,
     "forwards": 1,
     "media_group_id": 14122951178659965,
     "files": [
@@ -100022,7 +100022,7 @@
     "id": 7439,
     "date": "2025-12-10T12:37:37",
     "text": "去秋叶原的神田神社买了「IT 情报安全守护」<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 214,
+    "views": 218,
     "forwards": 0,
     "media_group_id": 14122962060743717,
     "images": [
@@ -100102,7 +100102,7 @@
     "id": 7446,
     "date": "2025-12-10T19:59:46",
     "text": "乳糖不耐受\n\nマモル买了很好吃的「特浓」牛奶冰淇淋，我按以往的习惯吃乳糖酶之后吃了冰淇淋，奶味超浓好好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后依然孬肚子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是不是需要同样「特浓」的乳糖酶才可以吃它",
-    "views": 215,
+    "views": 219,
     "forwards": 1,
     "images": [
       {
@@ -100121,14 +100121,14 @@
     "id": 7447,
     "date": "2025-12-11T03:47:40",
     "text": "去日本的 20 天就这样被感冒夺走了 10 天...",
-    "views": 203,
+    "views": 208,
     "forwards": 0
   },
   {
     "id": 7448,
     "date": "2025-12-11T07:19:39",
     "text": "合影 (n.) merging shadows",
-    "views": 198,
+    "views": 202,
     "forwards": 2,
     "images": [
       {
@@ -100147,7 +100147,7 @@
     "id": 7449,
     "date": "2025-12-13T02:36:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100679789004199810.webp\">🌖</i> 259°<span class=\"spoiler\"><span>（12 月 11 日）</span></span>\n\n和 tracer 去看了 ALL OF EVANGELION 30 周年展，好多超级炫酷的原画、设定稿，还有结束之后大家在「恭喜真嗣」留言墙上留下的画，好不错好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好喜欢 Eva 的设计语言，虽然已经三十年了但是放在今天也不会觉得过时。懂了，下次做网页就试试设计成 Eva 风好了\n\n因为是为数不多允许拍照的展，所以变身人形扫描仪把所有喜欢的原画都拍下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>（虽然之后还是在出口商店买了原画集，所以其实拍照并没有什么意义...）\n\n有点想三刷 Eva 了",
-    "views": 147,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 14124747270962341,
     "images": [
@@ -100257,7 +100257,7 @@
     "id": 7459,
     "date": "2025-12-13T03:30:08",
     "text": "以及这个展会的地点在六本木东京 City View 展望台上，城市风景和照进房间的夕阳都好好看！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（这样想的话，展会票价 JP￥1600 好良心呀，还能免费看展望台... 明明单独的展望台票也一样是 JP￥1600）",
-    "views": 161,
+    "views": 163,
     "forwards": 3,
     "media_group_id": 14124772865920877,
     "images": [
@@ -100372,7 +100372,7 @@
     "id": 7469,
     "date": "2025-12-13T14:55:19",
     "text": "原来「撫子」是一种花\n\n（是摇曳露营粉毛女主的名字）",
-    "views": 148,
+    "views": 155,
     "forwards": 3,
     "images": [
       {
@@ -100391,21 +100391,21 @@
     "id": 7470,
     "date": "2025-12-13T18:31:56",
     "text": "好累，如果有帕鲁可以帮我清空 todo 就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 148,
+    "views": 156,
     "forwards": 0
   },
   {
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 129,
+    "views": 142,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 122,
+    "views": 137,
     "forwards": 0,
     "images": [
       {
@@ -100424,7 +100424,7 @@
     "id": 7473,
     "date": "2025-12-14T00:33:33",
     "text": "把 blog 的数据迁移到 homelab 上把它修好了\n\n以及今天终于抽出时间把这台机器上部署的二十多个网页全都从 nginx 迁移到 caddy 了，原本觉得两小时肯定够了结果折腾到了凌晨九点半，好累好累好累...\n\n不过 caddy 确实好方便，不再需要手动管理 TLS 了，配置行数直接减少 7.5 倍！不过现在已经没有力气为这件事情开心了，全身都只想要睡觉—— <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 114,
+    "views": 133,
     "forwards": 0,
     "reply": {
       "id": 7432,
@@ -100441,6 +100441,56 @@
         "url": "media/7473.jpg",
         "size": 232794,
         "thumb": "media/7473.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7474,
+    "date": "2025-12-14T15:27:47",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面 with 味玉",
+    "views": 62,
+    "forwards": 1,
+    "media_group_id": 14125808540584693,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-14T15:27:45",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-14_15-27-45.jpg",
+        "url": "media/7474.jpg",
+        "size": 807803,
+        "thumb": "media/7474.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-14T15:27:46",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-14_15-27-46.jpg",
+        "url": "media/7475.jpg",
+        "size": 642323,
+        "thumb": "media/7475.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-14T15:27:46",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-14_15-27-46.jpg",
+        "url": "media/7476.jpg",
+        "size": 706895,
+        "thumb": "media/7476.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-12-14T15:27:46",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-14_15-27-46.jpg",
+        "url": "media/7477.jpg",
+        "size": 227799,
+        "thumb": "media/7477.jpg_thumb.jpg"
       }
     ]
   }
