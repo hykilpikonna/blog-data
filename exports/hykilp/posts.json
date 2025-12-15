@@ -42759,7 +42759,7 @@
     "id": 3164,
     "date": "2024-01-10T18:47:37",
     "text": "设计完了！分别是背面和键盘面。\n\n用了 maimai 的活动地图素材，然后用 real-esrgan upscayl 转高清，然后再用正版 Photoshop 的 AI Fill 功能把调完纵横比需要补的地方用 AI 生成补上就好了！",
-    "views": 192,
+    "views": 193,
     "forwards": 4,
     "media_group_id": 13639299659797525,
     "images": [
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "images": [
       {
@@ -61556,7 +61556,7 @@
     "id": 4492,
     "date": "2024-09-30T03:03:34",
     "text": "又遇到了何等的巧合\n\n上次在机场遇到扶苏的时候，扶苏和我聊到她有一个朋友也要去多伦多，也玩舞萌，当时还给那个朋友发了消息但是没有回\n\n然后前几天聊聊说 Celestium 新的对象听说这里有舞萌想来玩，已经习惯了有很多人来这里玩就没有多想。然后玩着舞萌和她聊天，聊着聊着发现她就是扶苏说的那个朋友 Tracer <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 世界成环了\n\n聊着聊着还发现她的成分和我好相似 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 都在训练用来数字化自己的 LLM、都喜欢打/魔改舞萌和 ff14、搭 homelab 和 NAS、也和我大一住宿舍的时候一样做了 UofT EAP 的无线转发、写 AC 机解作业题、在尝试了解 RF... 奇妙",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "reply": {
       "id": 4276,
@@ -61711,7 +61711,7 @@
     "id": 4502,
     "date": "2024-10-03T09:40:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的炒巴鲨鱼盖饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好吃喵\n\n发现自己忙的时候聊聊帮忙做了好多乱七八糟的事情... 反而感觉我最近没有帮到聊聊什么忙，好自责",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "images": [
       {
@@ -61730,7 +61730,7 @@
     "id": 4503,
     "date": "2024-10-03T15:00:18",
     "text": "<del>暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器</del>\n\n看学校机器上有免费 GPU 嘴馋了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i> 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？\n\n大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。\n\n查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧\n\n直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170412886611986173.webm\">❗</i>",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "images": [
       {
@@ -61749,7 +61749,7 @@
     "id": 4504,
     "date": "2024-10-03T15:05:36",
     "text": "翻倒当时开坑 「UPM」 (universal/userland package manager) 的截图\n\n可惜这个坑也没有填完就丢掉了...",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "reply": {
       "id": 1778,
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 154,
+    "views": 155,
     "forwards": 1,
     "images": [
       {
@@ -61869,7 +61869,7 @@
     "id": 4512,
     "date": "2024-10-07T08:38:23",
     "text": "哇 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\nWarp Terminal 有开源平替了，是 <a href=\"https://www.waveterm.dev/\">Wave</a>\n\n内置 LLM 耶，而且还可以用自搭的 LLM",
-    "views": 160,
+    "views": 161,
     "forwards": 2,
     "images": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1469,
+    "views": 1470,
     "forwards": 9,
     "files": [
       {
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1314,
+    "views": 1315,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -95387,7 +95387,7 @@
   {
     "id": 7079,
     "date": "2025-11-02T23:19:58",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "forwarded_from": {
       "name": "マモル",
@@ -95431,7 +95431,7 @@
     "id": 7082,
     "date": "2025-11-03T03:54:05",
     "text": "<del>圣地巡礼之「おても☆Yan」</del>",
-    "views": 219,
+    "views": 220,
     "forwards": 1,
     "media_group_id": 14097136363403237,
     "images": [
@@ -95476,7 +95476,7 @@
     "id": 7085,
     "date": "2025-11-03T23:35:20",
     "text": "家人在看新闻，我也跟着看\n\n我：トップタ（Topta）是什么\nマ： ...\nマ：トップ（Top）、夕食（ゆうしょく）会\n\n原本没睡醒，直接笑醒了",
-    "views": 222,
+    "views": 223,
     "forwards": 3,
     "images": [
       {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1880,
+    "views": 1881,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 884,
+    "views": 886,
     "forwards": 9,
     "images": [
       {
@@ -99973,7 +99973,7 @@
     "id": 7435,
     "date": "2025-12-10T06:46:38",
     "text": "心情复杂\n\n头顶经过的电车让平常的街道变得好好看！...然后意识到这是我在赶的那班，下一班要 15 分钟 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 4,
     "images": [
       {
@@ -99992,7 +99992,7 @@
     "id": 7438,
     "date": "2025-12-10T12:14:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫抓琴\n\n（琴是 mamoru 的 Casiotone CT-S1）",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "media_group_id": 14122951178659965,
     "files": [
@@ -100022,7 +100022,7 @@
     "id": 7439,
     "date": "2025-12-10T12:37:37",
     "text": "去秋叶原的神田神社买了「IT 情报安全守护」<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14122962060743717,
     "images": [
@@ -100102,7 +100102,7 @@
     "id": 7446,
     "date": "2025-12-10T19:59:46",
     "text": "乳糖不耐受\n\nマモル买了很好吃的「特浓」牛奶冰淇淋，我按以往的习惯吃乳糖酶之后吃了冰淇淋，奶味超浓好好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后依然孬肚子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是不是需要同样「特浓」的乳糖酶才可以吃它",
-    "views": 221,
+    "views": 223,
     "forwards": 1,
     "images": [
       {
@@ -100121,14 +100121,14 @@
     "id": 7447,
     "date": "2025-12-11T03:47:40",
     "text": "去日本的 20 天就这样被感冒夺走了 10 天...",
-    "views": 211,
+    "views": 212,
     "forwards": 0
   },
   {
     "id": 7448,
     "date": "2025-12-11T07:19:39",
     "text": "合影 (n.) merging shadows",
-    "views": 204,
+    "views": 205,
     "forwards": 2,
     "images": [
       {
@@ -100147,7 +100147,7 @@
     "id": 7449,
     "date": "2025-12-13T02:36:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100679789004199810.webp\">🌖</i> 259°<span class=\"spoiler\"><span>（12 月 11 日）</span></span>\n\n和 tracer 去看了 ALL OF EVANGELION 30 周年展，好多超级炫酷的原画、设定稿，还有结束之后大家在「恭喜真嗣」留言墙上留下的画，好不错好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好喜欢 Eva 的设计语言，虽然已经三十年了但是放在今天也不会觉得过时。懂了，下次做网页就试试设计成 Eva 风好了\n\n因为是为数不多允许拍照的展，所以变身人形扫描仪把所有喜欢的原画都拍下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>（虽然之后还是在出口商店买了原画集，所以其实拍照并没有什么意义...）\n\n有点想三刷 Eva 了",
-    "views": 156,
+    "views": 158,
     "forwards": 0,
     "media_group_id": 14124747270962341,
     "images": [
@@ -100257,7 +100257,7 @@
     "id": 7459,
     "date": "2025-12-13T03:30:08",
     "text": "以及这个展会的地点在六本木东京 City View 展望台上，城市风景和照进房间的夕阳都好好看！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（这样想的话，展会票价 JP￥1600 好良心呀，还能免费看展望台... 明明单独的展望台票也一样是 JP￥1600）",
-    "views": 167,
+    "views": 170,
     "forwards": 3,
     "media_group_id": 14124772865920877,
     "images": [
@@ -100372,7 +100372,7 @@
     "id": 7469,
     "date": "2025-12-13T14:55:19",
     "text": "原来「撫子」是一种花\n\n（是摇曳露营粉毛女主的名字）",
-    "views": 161,
+    "views": 163,
     "forwards": 3,
     "images": [
       {
@@ -100391,21 +100391,21 @@
     "id": 7470,
     "date": "2025-12-13T18:31:56",
     "text": "好累，如果有帕鲁可以帮我清空 todo 就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 163,
+    "views": 165,
     "forwards": 0
   },
   {
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 151,
+    "views": 155,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 146,
+    "views": 151,
     "forwards": 0,
     "images": [
       {
@@ -100424,7 +100424,7 @@
     "id": 7473,
     "date": "2025-12-14T00:33:33",
     "text": "把 blog 的数据迁移到 homelab 上把它修好了\n\n以及今天终于抽出时间把这台机器上部署的二十多个网页全都从 nginx 迁移到 caddy 了，原本觉得两小时肯定够了结果折腾到了凌晨九点半，好累好累好累...\n\n不过 caddy 确实好方便，不再需要手动管理 TLS 了，配置行数直接减少 7.5 倍！不过现在已经没有力气为这件事情开心了，全身都只想要睡觉—— <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 146,
+    "views": 150,
     "forwards": 0,
     "reply": {
       "id": 7432,
@@ -100448,7 +100448,7 @@
     "id": 7474,
     "date": "2025-12-14T15:27:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面 with 味玉",
-    "views": 100,
+    "views": 122,
     "forwards": 1,
     "media_group_id": 14125808540584693,
     "images": [
@@ -100491,6 +100491,28 @@
         "url": "media/7477.jpg",
         "size": 227799,
         "thumb": "media/7477.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7478,
+    "date": "2025-12-15T00:52:03",
+    "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ さぁ もっと遠く行こうよ，\n♪ さぁ もっと逃げて行こうぜ，\n♪ さぁ 僕らつまらないことは，\n♪ 全部放っといて，\n♪ 道の向こうへ",
+    "views": 57,
+    "forwards": 0,
+    "files": [
+      {
+        "duration": 288,
+        "performer": "ヨルシカ",
+        "title": "逃亡",
+        "file_name": "ヨルシカ - 逃亡 (1).mp3",
+        "mime_type": "audio/mpeg",
+        "date": "2025-12-11T09:21:47",
+        "media_type": "audio_file",
+        "original_name": "ヨルシカ - 逃亡 (1).mp3",
+        "url": "media/7478.mp3",
+        "size": 11747843,
+        "thumb": "media/7478.mp3_thumb.jpg"
       }
     ]
   }
