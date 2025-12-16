@@ -42480,7 +42480,7 @@
     "id": 3146,
     "date": "2024-01-05T21:05:03",
     "text": "不喜欢命令行编辑器另一个原因是因为，无论是 vim 还是 nano 都没办法在保存的时候尝试 sudo 保存... 每次都是忘了 sudo 然后在保存的时候才发现没权限写不进去，然后就只能退出重新 sudo 启动编辑一遍再保存了 💢\n\n而 GUI 编辑器无论是 vscode 还是 gnome 自带的都会自动请求权限",
-    "views": 178,
+    "views": 179,
     "forwards": 1,
     "images": [
       {
@@ -42499,7 +42499,7 @@
     "id": 3147,
     "date": "2024-01-06T06:36:23",
     "text": "高中同学来玩，给我带了芒果蛋糕，好吃！开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 13636183865706885,
     "files": [
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 166,
+    "views": 167,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42624,7 +42624,7 @@
     "id": 3155,
     "date": "2024-01-09T06:04:56",
     "text": "哭 发现今年的六门课里只有两门有 recording，看来不能像上学期一样不去学校了...",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -42643,7 +42643,7 @@
     "id": 3156,
     "date": "2024-01-09T10:37:50",
     "text": "之前打博德之门 3 的时候在第三章从一个地洞出来真的梦回英雄无敌 3，然后今天在和聊聊重温英雄无敌 3 打教程关\n\n我：呜呜，这个游戏比我老了，99 年的\n聊聊：呜呜呜呜呜，这个游戏比我小啊",
-    "views": 157,
+    "views": 158,
     "forwards": 0,
     "images": [
       {
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 792,
+    "views": 793,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1877,
+    "views": 1878,
     "forwards": 52
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1170,
+    "views": 1171,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6367,
+    "views": 6368,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 1030,
+    "views": 1031,
     "forwards": 12
   },
   {
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 901,
+    "views": 903,
     "forwards": 9,
     "images": [
       {
@@ -100147,7 +100147,7 @@
     "id": 7449,
     "date": "2025-12-13T02:36:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100679789004199810.webp\">🌖</i> 259°<span class=\"spoiler\"><span>（12 月 11 日）</span></span>\n\n和 tracer 去看了 ALL OF EVANGELION 30 周年展，好多超级炫酷的原画、设定稿，还有结束之后大家在「恭喜真嗣」留言墙上留下的画，好不错好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好喜欢 Eva 的设计语言，虽然已经三十年了但是放在今天也不会觉得过时。懂了，下次做网页就试试设计成 Eva 风好了\n\n因为是为数不多允许拍照的展，所以变身人形扫描仪把所有喜欢的原画都拍下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>（虽然之后还是在出口商店买了原画集，所以其实拍照并没有什么意义...）\n\n有点想三刷 Eva 了",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "media_group_id": 14124747270962341,
     "images": [
@@ -100257,7 +100257,7 @@
     "id": 7459,
     "date": "2025-12-13T03:30:08",
     "text": "以及这个展会的地点在六本木东京 City View 展望台上，城市风景和照进房间的夕阳都好好看！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（这样想的话，展会票价 JP￥1600 好良心呀，还能免费看展望台... 明明单独的展望台票也一样是 JP￥1600）",
-    "views": 180,
+    "views": 181,
     "forwards": 3,
     "media_group_id": 14124772865920877,
     "images": [
@@ -100372,7 +100372,7 @@
     "id": 7469,
     "date": "2025-12-13T14:55:19",
     "text": "原来「撫子」是一种花\n\n（是摇曳露营粉毛女主的名字）",
-    "views": 175,
+    "views": 177,
     "forwards": 3,
     "images": [
       {
@@ -100391,21 +100391,21 @@
     "id": 7470,
     "date": "2025-12-13T18:31:56",
     "text": "好累，如果有帕鲁可以帮我清空 todo 就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 179,
+    "views": 181,
     "forwards": 0
   },
   {
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 170,
+    "views": 172,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 166,
+    "views": 168,
     "forwards": 0,
     "images": [
       {
@@ -100424,7 +100424,7 @@
     "id": 7473,
     "date": "2025-12-14T00:33:33",
     "text": "把 blog 的数据迁移到 homelab 上把它修好了\n\n以及今天终于抽出时间把这台机器上部署的二十多个网页全都从 nginx 迁移到 caddy 了，原本觉得两小时肯定够了结果折腾到了凌晨九点半，好累好累好累...\n\n不过 caddy 确实好方便，不再需要手动管理 TLS 了，配置行数直接减少 7.5 倍！不过现在已经没有力气为这件事情开心了，全身都只想要睡觉—— <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 168,
+    "views": 170,
     "forwards": 0,
     "reply": {
       "id": 7432,
@@ -100448,7 +100448,7 @@
     "id": 7474,
     "date": "2025-12-14T15:27:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面 with 味玉",
-    "views": 151,
+    "views": 157,
     "forwards": 1,
     "media_group_id": 14125808540584693,
     "images": [
@@ -100498,7 +100498,7 @@
     "id": 7478,
     "date": "2025-12-15T00:52:03",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ さぁ もっと遠く行こうよ，\n♪ さぁ もっと逃げて行こうぜ，\n♪ さぁ 僕らつまらないことは，\n♪ 全部放っといて，\n♪ 道の向こうへ",
-    "views": 118,
+    "views": 127,
     "forwards": 0,
     "files": [
       {
@@ -100520,7 +100520,7 @@
     "id": 7479,
     "date": "2025-12-15T20:55:23",
     "text": "在日本第一场大雪 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<del>感觉像是提前回到加拿大了</del>\n\n因为没有预测到会在日本过冬所以并没有把保暖的衣服从加拿大带过来... 不过还好有暖宝宝，抱一身暖宝宝就不怕冷了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 49,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 14126656989326077,
     "images": [
@@ -100630,7 +100630,7 @@
     "id": 7489,
     "date": "2025-12-15T21:20:23",
     "text": "和マモル和清水镜和 chai 一起去了草津町！\n\n是很有名的温泉圣地，到处都能见到温泉的热水蒸汽、<del>闻到温泉的硫磺香气</del>",
-    "views": 42,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 14126668989749189,
     "images": [
