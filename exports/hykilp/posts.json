@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6368,
+    "views": 6369,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8322,
+    "views": 8323,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1885,
+    "views": 1888,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97683,14 +97683,14 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 541,
+    "views": 542,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 578,
+    "views": 579,
     "forwards": 7
   },
   {
@@ -99137,7 +99137,7 @@
     "id": 7373,
     "date": "2025-12-01T15:42:20",
     "text": "<span class=\"spoiler\"><span>如果陪伴可以 scale 就好了</span></span>",
-    "views": 513,
+    "views": 514,
     "forwards": 6
   },
   {
@@ -99548,7 +99548,7 @@
     "id": 7402,
     "date": "2025-12-06T02:23:34",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n软骨酸汤面！\n\n以及昨天マモル做了软骨汤和煎鱼干和酱白菜和酱油菜，マモル做饭超好吃 qwq",
-    "views": 271,
+    "views": 272,
     "forwards": 2,
     "media_group_id": 14119902511699885,
     "images": [
@@ -99578,7 +99578,7 @@
     "id": 7404,
     "date": "2025-12-06T04:43:37",
     "text": "🏕",
-    "views": 281,
+    "views": 282,
     "forwards": 0,
     "images": [
       {
@@ -99597,14 +99597,14 @@
     "id": 7405,
     "date": "2025-12-06T05:54:02",
     "text": "在想怎样做覆盖全世界的真无线充电的时候，突然想到这个东西其实早就已经被实现了，它叫做太阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i> 太阳在给全世界的太阳能板无线充电",
-    "views": 291,
+    "views": 292,
     "forwards": 2
   },
   {
     "id": 7406,
     "date": "2025-12-06T20:01:45",
     "text": "猫咪烤箱 <i class=\"custom-emoji\" emoji-src=\"emoji/5458822541801956370.webp\">🔥</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 0,
     "reply": {
       "id": 7401,
@@ -99627,14 +99627,14 @@
     "id": 7407,
     "date": "2025-12-07T01:06:23",
     "text": "迷惑，TransUnion 和 Trans 和 Union 都有什么关系 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 271,
+    "views": 272,
     "forwards": 2
   },
   {
     "id": 7410,
     "date": "2025-12-07T05:51:38",
     "text": "记得四年前租第一个公寓的时候看了一圈加拿大运营商，大部分还停留在同轴线，最贵的套餐上行也只有 50M。当时唯一的两家光纤是 Bell 和 FibreStream，上下对等，但是都不支持 IPv6...\n\n四年过去之后现在要搬家了，又看了一圈。除了某些顽固的老牌<span class=\"spoiler\"><span> Rogers </span></span>还在用同轴以外，其他运营商大部分都换到了纯光，还有很多新的运营商出现，但是 Bell 和大部分新的纯光运营商（Beanfield, oxio, teksavvy）依然不支持 IPv6\n\n给新家选了 Ebox，是为数不多同时有上下对等光纤和 IPv6 还便宜还在 homelab 社区有不错的评价的运营商。\n\n唉，真希望哪天某 CDN 公司或者其他大公司可以宣告一个计划停止 IPv4 支持的截止日期，不然的话感觉加拿大这种不缺 v4 的地方 v6 支持永远起不来...",
-    "views": 269,
+    "views": 270,
     "forwards": 0,
     "images": [
       {
@@ -99653,14 +99653,14 @@
     "id": 7411,
     "date": "2025-12-07T08:57:21",
     "text": "感冒好讨厌\n\n今天发现有想要见的人在东京，明天去大阪，但是我感冒了没法见 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 3
   },
   {
     "id": 7412,
     "date": "2025-12-07T15:43:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nマモル做的可乐鸡翅和蒜香油菜和🍆\n\nマモル做饭好好吃，刚刚称了一下我来这里之后体重已经 +2.5kg 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 3,
     "images": [
       {
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 906,
+    "views": 908,
     "forwards": 9,
     "images": [
       {
@@ -99917,7 +99917,7 @@
     "id": 7431,
     "date": "2025-12-08T21:38:17",
     "text": "作息是小猫",
-    "views": 280,
+    "views": 281,
     "forwards": 0,
     "images": [
       {
@@ -99936,7 +99936,7 @@
     "id": 7432,
     "date": "2025-12-09T15:13:23",
     "text": "这一天终于到了\n\n我的 blog 之前一直是在 Github Pages 上部署的，因为是开源项目所以感觉也没什么关系。Github 说整个网站的最大容量限制是 1GB，四年前刚架起我的 blog 的时候还觉得 1GB 是不可能用完的...\n\n然而早在三年前就已经超过 1GB 了。当时只是提示了一个「部署可能会失败」但是最终还是成功了，所以就没有管。就这样，2GB，3GB，4GB 过去了，依然没有被限制的迹象，直到今天终于部署失败了，提示的居然是 \"No space left on device\" 而不是什么人为的限制... 最后一次成功部署是 4.64GB\n\nGithub 还是太良心了，想想怎样把网站迁移到 homelab 上好啦",
-    "views": 294,
+    "views": 295,
     "forwards": 4,
     "media_group_id": 14122345626874821,
     "images": [
@@ -99966,14 +99966,14 @@
     "id": 7434,
     "date": "2025-12-09T16:50:56",
     "text": "在日本住过的好处是 回到加拿大之后可以和朋友说 \"I lived in a mansion\" while being technically correct <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 2
   },
   {
     "id": 7435,
     "date": "2025-12-10T06:46:38",
     "text": "心情复杂\n\n头顶经过的电车让平常的街道变得好好看！...然后意识到这是我在赶的那班，下一班要 15 分钟 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 265,
+    "views": 266,
     "forwards": 4,
     "images": [
       {
@@ -99992,7 +99992,7 @@
     "id": 7438,
     "date": "2025-12-10T12:14:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫抓琴\n\n（琴是 mamoru 的 Casiotone CT-S1）",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "media_group_id": 14122951178659965,
     "files": [
@@ -100022,7 +100022,7 @@
     "id": 7439,
     "date": "2025-12-10T12:37:37",
     "text": "去秋叶原的神田神社买了「IT 情报安全守护」<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "media_group_id": 14122962060743717,
     "images": [
@@ -100102,7 +100102,7 @@
     "id": 7446,
     "date": "2025-12-10T19:59:46",
     "text": "乳糖不耐受\n\nマモル买了很好吃的「特浓」牛奶冰淇淋，我按以往的习惯吃乳糖酶之后吃了冰淇淋，奶味超浓好好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后依然孬肚子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是不是需要同样「特浓」的乳糖酶才可以吃它",
-    "views": 234,
+    "views": 235,
     "forwards": 1,
     "images": [
       {
@@ -100121,14 +100121,14 @@
     "id": 7447,
     "date": "2025-12-11T03:47:40",
     "text": "去日本的 20 天就这样被感冒夺走了 10 天...",
-    "views": 222,
+    "views": 223,
     "forwards": 0
   },
   {
     "id": 7448,
     "date": "2025-12-11T07:19:39",
     "text": "合影 (n.) merging shadows",
-    "views": 219,
+    "views": 220,
     "forwards": 2,
     "images": [
       {
@@ -100147,7 +100147,7 @@
     "id": 7449,
     "date": "2025-12-13T02:36:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100679789004199810.webp\">🌖</i> 259°<span class=\"spoiler\"><span>（12 月 11 日）</span></span>\n\n和 tracer 去看了 ALL OF EVANGELION 30 周年展，好多超级炫酷的原画、设定稿，还有结束之后大家在「恭喜真嗣」留言墙上留下的画，好不错好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好喜欢 Eva 的设计语言，虽然已经三十年了但是放在今天也不会觉得过时。懂了，下次做网页就试试设计成 Eva 风好了\n\n因为是为数不多允许拍照的展，所以变身人形扫描仪把所有喜欢的原画都拍下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>（虽然之后还是在出口商店买了原画集，所以其实拍照并没有什么意义...）\n\n有点想三刷 Eva 了",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "media_group_id": 14124747270962341,
     "images": [
@@ -100257,7 +100257,7 @@
     "id": 7459,
     "date": "2025-12-13T03:30:08",
     "text": "以及这个展会的地点在六本木东京 City View 展望台上，城市风景和照进房间的夕阳都好好看！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（这样想的话，展会票价 JP￥1600 好良心呀，还能免费看展望台... 明明单独的展望台票也一样是 JP￥1600）",
-    "views": 182,
+    "views": 183,
     "forwards": 3,
     "media_group_id": 14124772865920877,
     "images": [
@@ -100498,7 +100498,7 @@
     "id": 7478,
     "date": "2025-12-15T00:52:03",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ さぁ もっと遠く行こうよ，\n♪ さぁ もっと逃げて行こうぜ，\n♪ さぁ 僕らつまらないことは，\n♪ 全部放っといて，\n♪ 道の向こうへ",
-    "views": 134,
+    "views": 135,
     "forwards": 0,
     "files": [
       {
@@ -100520,7 +100520,7 @@
     "id": 7479,
     "date": "2025-12-15T20:55:23",
     "text": "在日本第一场大雪 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<del>感觉像是提前回到加拿大了</del>\n\n因为没有预测到会在日本过冬所以并没有把保暖的衣服从加拿大带过来... 不过还好有暖宝宝，抱一身暖宝宝就不怕冷了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 93,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 14126656989326077,
     "images": [
@@ -100630,7 +100630,7 @@
     "id": 7489,
     "date": "2025-12-15T21:20:23",
     "text": "和マモル和清水镜和 chai 一起去了草津町！\n\n是很有名的温泉圣地，到处都能见到温泉的热水蒸汽、<del>闻到温泉的硫磺香气</del>",
-    "views": 96,
+    "views": 106,
     "forwards": 0,
     "media_group_id": 14126668989749189,
     "images": [
