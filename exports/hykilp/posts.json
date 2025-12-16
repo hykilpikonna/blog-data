@@ -42838,7 +42838,7 @@
     "id": 3170,
     "date": "2024-01-12T01:52:29",
     "text": "今天玩博得之门丢了几次档... 解决的时候被迷惑到了\n\n第一次打开游戏发现档没了，开了一个新档然后用 Windows 全局搜索发现它放在 Steam 的同步文件夹里了而不是用户文件夹（明明之前也是用 Steam 启动的）重启不开 Steam 直接启动 bg3_dx11.exe 就好了。\n\n第二次打开游戏发现档没了，又开了一个新档然后用 Windows 全局搜索发现它居然在同一个目录的 Debug_Profile_3 下面。之后发现这个游戏判断存档位置的逻辑是，如果后台有 bg3 进程在跑就读 Debug_Profile_{i}，如果没有就读 Public... 然后因为之前开的游戏没有成功退出，留了两个僵尸进程，所以新开的进程检测到有三个游戏开着就读了 Debug_Profile_3 🌚\n\n至少花了一个小时解决这个问题... 后悔没有用主机玩这个游戏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 123,
+    "views": 124,
     "forwards": 0
   },
   {
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 104,
+    "views": 105,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 274,
+    "views": 275,
     "forwards": 2,
     "images": [
       {
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 107,
+    "views": 108,
     "forwards": 1,
     "files": [
       {
@@ -43086,7 +43086,7 @@
     "id": 3188,
     "date": "2024-01-15T01:56:26",
     "text": "今天在 smash 打过了聊聊！",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "images": [
       {
@@ -43105,7 +43105,7 @@
     "id": 3189,
     "date": "2024-01-15T02:07:21",
     "text": "（在选择角色的时候）\n聊聊：给你看看这个 DLC 都有什么了不起的联动\n（省略一千字）\n我：<del>那也不是很多嘛，连 nekopara 香子兰都没有</del>",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "reply": {
       "id": 3188,
@@ -43116,14 +43116,14 @@
     "id": 3190,
     "date": "2024-01-15T04:27:12",
     "text": "有十多个邮件要发但是现在只想睡觉...",
-    "views": 111,
+    "views": 112,
     "forwards": 0
   },
   {
     "id": 3191,
     "date": "2024-01-15T06:50:54",
     "text": "发完了三个... 感觉发邮件这种事情好心累，等到回复之前都会好焦虑好不安，会让我睡不着让我做噩梦",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "reply": {
       "id": 3190,
@@ -43134,14 +43134,14 @@
     "id": 3192,
     "date": "2024-01-15T07:22:42",
     "text": "好冷好冷好冷！",
-    "views": 105,
+    "views": 106,
     "forwards": 0
   },
   {
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 116,
+    "views": 117,
     "forwards": 3,
     "media_group_id": 13643119076454173,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8325,
+    "views": 8326,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1889,
+    "views": 1890,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97519,7 +97519,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 363,
+    "views": 364,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 321,
+    "views": 322,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 292,
+    "views": 293,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -97840,7 +97840,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 296,
+    "views": 297,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -99457,7 +99457,7 @@
   {
     "id": 7395,
     "date": "2025-12-03T13:37:43",
-    "views": 650,
+    "views": 651,
     "forwards": 14,
     "media_group_id": 14118152504658685,
     "images": [
@@ -99597,14 +99597,14 @@
     "id": 7405,
     "date": "2025-12-06T05:54:02",
     "text": "在想怎样做覆盖全世界的真无线充电的时候，突然想到这个东西其实早就已经被实现了，它叫做太阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i> 太阳在给全世界的太阳能板无线充电",
-    "views": 293,
+    "views": 294,
     "forwards": 2
   },
   {
     "id": 7406,
     "date": "2025-12-06T20:01:45",
     "text": "猫咪烤箱 <i class=\"custom-emoji\" emoji-src=\"emoji/5458822541801956370.webp\">🔥</i>",
-    "views": 264,
+    "views": 265,
     "forwards": 0,
     "reply": {
       "id": 7401,
@@ -99627,7 +99627,7 @@
     "id": 7407,
     "date": "2025-12-07T01:06:23",
     "text": "迷惑，TransUnion 和 Trans 和 Union 都有什么关系 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 272,
+    "views": 273,
     "forwards": 2
   },
   {
@@ -99834,7 +99834,7 @@
     "id": 7426,
     "date": "2025-12-08T18:16:45",
     "text": "每次写前端都能学到新 hack。感觉前端就是 hack to fix a hack to fix a hack to fix hack...\n\n最早让一个固定视图竖向占满整个屏幕的方法是 height: 100% 从最上层一路传下去。但百分比是相对单位，相对于上一层的高度，用来计算屏幕高度很麻烦，所以就添加了 vh 这个单位，100vh = 屏幕高度。\n\n但是手机浏览器为了最大化阅读空间会在滚动的时候隐藏地址栏，可是让 vh 动态改变的话就会让一些依赖 vh 不变的页面显示内容跳来跳去，所以就添加了 dvh svh 这些单位，dvh 是地址栏收缩的时候会变的高度，svh 是地址栏不隐藏的时候最小的高度。\n\n但是因为不是所有浏览器都支持 dvh svh 所以我还要再添加一个变量，如果支持就等于 100dvh，不支持就掉回到 100vh... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 241,
+    "views": 242,
     "forwards": 2,
     "images": [
       {
@@ -99853,7 +99853,7 @@
     "id": 7427,
     "date": "2025-12-08T19:24:42",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 更新 1.0.3\n\n这两个版本大幅改善了移动端的显示适配和输入体验 <i class=\"custom-emoji\" emoji-src=\"emoji/4999093039189197866.webm\">💓</i>\n\n（我也逐渐开始适应日语九宫格输入法了！从最开始每个字都要找半天，到现在能花 23 分钟打完 6 分钟的歌词感觉好欣慰）",
-    "views": 241,
+    "views": 242,
     "forwards": 0,
     "media_group_id": 14121775057606277,
     "images": [
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 911,
+    "views": 914,
     "forwards": 9,
     "images": [
       {
@@ -99917,7 +99917,7 @@
     "id": 7431,
     "date": "2025-12-08T21:38:17",
     "text": "作息是小猫",
-    "views": 284,
+    "views": 285,
     "forwards": 0,
     "images": [
       {
@@ -99936,7 +99936,7 @@
     "id": 7432,
     "date": "2025-12-09T15:13:23",
     "text": "这一天终于到了\n\n我的 blog 之前一直是在 Github Pages 上部署的，因为是开源项目所以感觉也没什么关系。Github 说整个网站的最大容量限制是 1GB，四年前刚架起我的 blog 的时候还觉得 1GB 是不可能用完的...\n\n然而早在三年前就已经超过 1GB 了。当时只是提示了一个「部署可能会失败」但是最终还是成功了，所以就没有管。就这样，2GB，3GB，4GB 过去了，依然没有被限制的迹象，直到今天终于部署失败了，提示的居然是 \"No space left on device\" 而不是什么人为的限制... 最后一次成功部署是 4.64GB\n\nGithub 还是太良心了，想想怎样把网站迁移到 homelab 上好啦",
-    "views": 299,
+    "views": 300,
     "forwards": 4,
     "media_group_id": 14122345626874821,
     "images": [
@@ -99966,14 +99966,14 @@
     "id": 7434,
     "date": "2025-12-09T16:50:56",
     "text": "在日本住过的好处是 回到加拿大之后可以和朋友说 \"I lived in a mansion\" while being technically correct <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 267,
+    "views": 269,
     "forwards": 2
   },
   {
     "id": 7435,
     "date": "2025-12-10T06:46:38",
     "text": "心情复杂\n\n头顶经过的电车让平常的街道变得好好看！...然后意识到这是我在赶的那班，下一班要 15 分钟 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 269,
+    "views": 271,
     "forwards": 4,
     "images": [
       {
@@ -99992,7 +99992,7 @@
     "id": 7438,
     "date": "2025-12-10T12:14:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫抓琴\n\n（琴是 mamoru 的 Casiotone CT-S1）",
-    "views": 245,
+    "views": 247,
     "forwards": 1,
     "media_group_id": 14122951178659965,
     "files": [
@@ -100022,7 +100022,7 @@
     "id": 7439,
     "date": "2025-12-10T12:37:37",
     "text": "去秋叶原的神田神社买了「IT 情报安全守护」<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "media_group_id": 14122962060743717,
     "images": [
@@ -100102,7 +100102,7 @@
     "id": 7446,
     "date": "2025-12-10T19:59:46",
     "text": "乳糖不耐受\n\nマモル买了很好吃的「特浓」牛奶冰淇淋，我按以往的习惯吃乳糖酶之后吃了冰淇淋，奶味超浓好好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n...然后依然孬肚子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是不是需要同样「特浓」的乳糖酶才可以吃它",
-    "views": 237,
+    "views": 239,
     "forwards": 1,
     "images": [
       {
@@ -100121,14 +100121,14 @@
     "id": 7447,
     "date": "2025-12-11T03:47:40",
     "text": "去日本的 20 天就这样被感冒夺走了 10 天...",
-    "views": 226,
+    "views": 228,
     "forwards": 0
   },
   {
     "id": 7448,
     "date": "2025-12-11T07:19:39",
     "text": "合影 (n.) merging shadows",
-    "views": 222,
+    "views": 224,
     "forwards": 2,
     "images": [
       {
@@ -100147,7 +100147,7 @@
     "id": 7449,
     "date": "2025-12-13T02:36:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100679789004199810.webp\">🌖</i> 259°<span class=\"spoiler\"><span>（12 月 11 日）</span></span>\n\n和 tracer 去看了 ALL OF EVANGELION 30 周年展，好多超级炫酷的原画、设定稿，还有结束之后大家在「恭喜真嗣」留言墙上留下的画，好不错好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好喜欢 Eva 的设计语言，虽然已经三十年了但是放在今天也不会觉得过时。懂了，下次做网页就试试设计成 Eva 风好了\n\n因为是为数不多允许拍照的展，所以变身人形扫描仪把所有喜欢的原画都拍下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>（虽然之后还是在出口商店买了原画集，所以其实拍照并没有什么意义...）\n\n有点想三刷 Eva 了",
-    "views": 180,
+    "views": 182,
     "forwards": 0,
     "media_group_id": 14124747270962341,
     "images": [
@@ -100257,7 +100257,7 @@
     "id": 7459,
     "date": "2025-12-13T03:30:08",
     "text": "以及这个展会的地点在六本木东京 City View 展望台上，城市风景和照进房间的夕阳都好好看！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（这样想的话，展会票价 JP￥1600 好良心呀，还能免费看展望台... 明明单独的展望台票也一样是 JP￥1600）",
-    "views": 187,
+    "views": 189,
     "forwards": 3,
     "media_group_id": 14124772865920877,
     "images": [
@@ -100372,7 +100372,7 @@
     "id": 7469,
     "date": "2025-12-13T14:55:19",
     "text": "原来「撫子」是一种花\n\n（是摇曳露营粉毛女主的名字）",
-    "views": 181,
+    "views": 182,
     "forwards": 3,
     "images": [
       {
@@ -100391,21 +100391,21 @@
     "id": 7470,
     "date": "2025-12-13T18:31:56",
     "text": "好累，如果有帕鲁可以帮我清空 todo 就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 186,
+    "views": 187,
     "forwards": 0
   },
   {
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 181,
+    "views": 182,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 179,
+    "views": 181,
     "forwards": 0,
     "images": [
       {
@@ -100424,7 +100424,7 @@
     "id": 7473,
     "date": "2025-12-14T00:33:33",
     "text": "把 blog 的数据迁移到 homelab 上把它修好了\n\n以及今天终于抽出时间把这台机器上部署的二十多个网页全都从 nginx 迁移到 caddy 了，原本觉得两小时肯定够了结果折腾到了凌晨九点半，好累好累好累...\n\n不过 caddy 确实好方便，不再需要手动管理 TLS 了，配置行数直接减少 7.5 倍！不过现在已经没有力气为这件事情开心了，全身都只想要睡觉—— <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 180,
+    "views": 182,
     "forwards": 0,
     "reply": {
       "id": 7432,
@@ -100448,7 +100448,7 @@
     "id": 7474,
     "date": "2025-12-14T15:27:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面 with 味玉",
-    "views": 170,
+    "views": 172,
     "forwards": 1,
     "media_group_id": 14125808540584693,
     "images": [
@@ -100498,7 +100498,7 @@
     "id": 7478,
     "date": "2025-12-15T00:52:03",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ さぁ もっと遠く行こうよ，\n♪ さぁ もっと逃げて行こうぜ，\n♪ さぁ 僕らつまらないことは，\n♪ 全部放っといて，\n♪ 道の向こうへ",
-    "views": 152,
+    "views": 156,
     "forwards": 0,
     "files": [
       {
@@ -100520,7 +100520,7 @@
     "id": 7479,
     "date": "2025-12-15T20:55:23",
     "text": "在日本第一场大雪 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<del>感觉像是提前回到加拿大了</del>\n\n因为没有预测到会在日本过冬所以并没有把保暖的衣服从加拿大带过来... 不过还好有暖宝宝，抱一身暖宝宝就不怕冷了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 127,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 14126656989326077,
     "images": [
@@ -100630,7 +100630,7 @@
     "id": 7489,
     "date": "2025-12-15T21:20:23",
     "text": "和マモル和清水镜和 chai 一起去了草津町！\n\n是很有名的温泉圣地，到处都能见到温泉的热水蒸汽、<del>闻到温泉的硫磺香气</del>",
-    "views": 143,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 14126668989749189,
     "images": [
@@ -100690,7 +100690,7 @@
     "id": 7494,
     "date": "2025-12-16T11:28:58",
     "text": "在温泉旅店泡了孤独温泉！温泉好舒服，已经不想离开了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n出来才发现这里的温泉水居然有 pH 2.1... 好酸！相比之下纯柠檬汁才 2.4，醋才 2.9，也就是说它比柠檬汁比醋都更酸... 人居然可以在 pH 2.1 的水里泡澡不变成骷髅还能感觉很舒服，太奇妙了",
-    "views": 93,
+    "views": 114,
     "forwards": 1,
     "media_group_id": 14127076311230669,
     "images": [
@@ -100800,7 +100800,7 @@
     "id": 7504,
     "date": "2025-12-16T13:47:40",
     "text": "感觉 AI 视频模型完全毁掉了「看上去很不可思议/小概率的视频」的观感... 以前看会被震撼到，现在看第一反应只会觉得一定是 AI 生成的",
-    "views": 60,
-    "forwards": 0
+    "views": 99,
+    "forwards": 1
   }
 ]
