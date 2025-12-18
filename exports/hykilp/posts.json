@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1470,
+    "views": 1471,
     "forwards": 9,
     "files": [
       {
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1402,
+    "views": 1403,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 573,
+    "views": 574,
     "forwards": 6,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5733,
+    "views": 5734,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1878,
+    "views": 1879,
     "forwards": 52
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1171,
+    "views": 1172,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 963,
+    "views": 964,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1219,
+    "views": 1220,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6370,
+    "views": 6371,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 631,
+    "views": 632,
     "forwards": 0,
     "images": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8327,
+    "views": 8329,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 748,
+    "views": 749,
     "forwards": 8,
     "images": [
       {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1900,
+    "views": 1902,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 925,
+    "views": 926,
     "forwards": 9,
     "images": [
       {
@@ -99917,7 +99917,7 @@
     "id": 7431,
     "date": "2025-12-08T21:38:17",
     "text": "作息是小猫",
-    "views": 291,
+    "views": 292,
     "forwards": 0,
     "images": [
       {
@@ -99936,7 +99936,7 @@
     "id": 7432,
     "date": "2025-12-09T15:13:23",
     "text": "这一天终于到了\n\n我的 blog 之前一直是在 Github Pages 上部署的，因为是开源项目所以感觉也没什么关系。Github 说整个网站的最大容量限制是 1GB，四年前刚架起我的 blog 的时候还觉得 1GB 是不可能用完的...\n\n然而早在三年前就已经超过 1GB 了。当时只是提示了一个「部署可能会失败」但是最终还是成功了，所以就没有管。就这样，2GB，3GB，4GB 过去了，依然没有被限制的迹象，直到今天终于部署失败了，提示的居然是 \"No space left on device\" 而不是什么人为的限制... 最后一次成功部署是 4.64GB\n\nGithub 还是太良心了，想想怎样把网站迁移到 homelab 上好啦",
-    "views": 309,
+    "views": 310,
     "forwards": 4,
     "media_group_id": 14122345626874821,
     "images": [
@@ -99966,14 +99966,14 @@
     "id": 7434,
     "date": "2025-12-09T16:50:56",
     "text": "在日本住过的好处是 回到加拿大之后可以和朋友说 \"I lived in a mansion\" while being technically correct <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 276,
+    "views": 277,
     "forwards": 2
   },
   {
     "id": 7435,
     "date": "2025-12-10T06:46:38",
     "text": "心情复杂\n\n头顶经过的电车让平常的街道变得好好看！...然后意识到这是我在赶的那班，下一班要 15 分钟 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 279,
+    "views": 280,
     "forwards": 4,
     "images": [
       {
@@ -100022,7 +100022,7 @@
     "id": 7439,
     "date": "2025-12-10T12:37:37",
     "text": "去秋叶原的神田神社买了「IT 情报安全守护」<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 245,
+    "views": 246,
     "forwards": 0,
     "media_group_id": 14122962060743717,
     "images": [
@@ -100690,7 +100690,7 @@
     "id": 7494,
     "date": "2025-12-16T11:28:58",
     "text": "在温泉旅店泡了孤独温泉！温泉好舒服，已经不想离开了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n出来才发现这里的温泉水居然有 pH 2.1... 好酸！相比之下纯柠檬汁才 2.4，醋才 2.9，也就是说它比柠檬汁比醋都更酸... 人居然可以在 pH 2.1 的水里泡澡不变成骷髅还能感觉很舒服，太奇妙了",
-    "views": 174,
+    "views": 175,
     "forwards": 2,
     "media_group_id": 14127076311230669,
     "images": [
@@ -100800,14 +100800,14 @@
     "id": 7504,
     "date": "2025-12-16T13:47:40",
     "text": "感觉 AI 视频模型完全毁掉了「看上去很不可思议/小概率的视频」的观感... 以前看会被震撼到，现在看第一反应只会觉得一定是 AI 生成的",
-    "views": 206,
+    "views": 207,
     "forwards": 1
   },
   {
     "id": 7505,
     "date": "2025-12-16T20:55:27",
     "text": "睡不好...\n\n这两天住在这个超贵的温泉旅馆，是我在日本所有行程住过的旅馆里最贵的，但是却是唯一一个完全睡不好的旅馆，好生气\n\n因为没有暖气，取暖需要用这个电动灯油炉，这真的是我见过设计最差的产品\n\n除了点灯油会让整个房间充满汽车尾气味以外，它有一个无法禁用的自动关机计时，最长只能设 3 小时，而且会在临近关机的 15、10、5 分钟巨大声滴滴滴叫... 也就是说每三小时我都会被它叫醒起床去按一下“延长”不然就会熄灭、即使我想不管它想让它自动熄灭也会被这几声滴滴滴叫醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 到底是谁会想出这样的设计啊？\n\n以及现在凌晨六点灯油烧完了，也没有服务员醒着可以来加油了，接下来两个小时只能在 10℃ 的房间里睡了...",
-    "views": 182,
+    "views": 183,
     "forwards": 3,
     "images": [
       {
@@ -100826,7 +100826,7 @@
     "id": 7506,
     "date": "2025-12-17T01:50:53",
     "text": "小技巧：如果洗完澡玻璃起雾了，用手擦会留水珠在上面，用热风吹就不会了 qwq",
-    "views": 153,
+    "views": 154,
     "forwards": 3,
     "reply": {
       "id": 7494,
