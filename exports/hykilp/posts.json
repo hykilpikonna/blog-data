@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5734,
+    "views": 5735,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6372,
+    "views": 6373,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 937,
+    "views": 939,
     "forwards": 9,
     "images": [
       {
@@ -100391,21 +100391,21 @@
     "id": 7470,
     "date": "2025-12-13T18:31:56",
     "text": "好累，如果有帕鲁可以帮我清空 todo 就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 0
   },
   {
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 211,
+    "views": 213,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 226,
+    "views": 228,
     "forwards": 1,
     "images": [
       {
@@ -100448,7 +100448,7 @@
     "id": 7474,
     "date": "2025-12-14T15:27:47",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n豚骨拉面 with 味玉",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 14125808540584693,
     "images": [
@@ -100498,7 +100498,7 @@
     "id": 7478,
     "date": "2025-12-15T00:52:03",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ さぁ もっと遠く行こうよ，\n♪ さぁ もっと逃げて行こうぜ，\n♪ さぁ 僕らつまらないことは，\n♪ 全部放っといて，\n♪ 道の向こうへ",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "files": [
       {
@@ -100520,7 +100520,7 @@
     "id": 7479,
     "date": "2025-12-15T20:55:23",
     "text": "在日本第一场大雪 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<del>感觉像是提前回到加拿大了</del>\n\n因为没有预测到会在日本过冬所以并没有把保暖的衣服从加拿大带过来... 不过还好有暖宝宝，抱一身暖宝宝就不怕冷了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 178,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 14126656989326077,
     "images": [
@@ -100630,7 +100630,7 @@
     "id": 7489,
     "date": "2025-12-15T21:20:23",
     "text": "和マモル和清水镜和 chai 一起去了草津町！\n\n是很有名的温泉圣地，到处都能见到温泉的热水蒸汽、<del>闻到温泉的硫磺香气</del>",
-    "views": 205,
+    "views": 208,
     "forwards": 0,
     "media_group_id": 14126668989749189,
     "images": [
@@ -100690,7 +100690,7 @@
     "id": 7494,
     "date": "2025-12-16T11:28:58",
     "text": "在温泉旅店泡了孤独温泉！温泉好舒服，已经不想离开了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n出来才发现这里的温泉水居然有 pH 2.1... 好酸！相比之下纯柠檬汁才 2.4，醋才 2.9，也就是说它比柠檬汁比醋都更酸... 人居然可以在 pH 2.1 的水里泡澡不变成骷髅还能感觉很舒服，太奇妙了",
-    "views": 200,
+    "views": 202,
     "forwards": 2,
     "media_group_id": 14127076311230669,
     "images": [
@@ -100800,7 +100800,7 @@
     "id": 7504,
     "date": "2025-12-16T13:47:40",
     "text": "感觉 AI 视频模型完全毁掉了「看上去很不可思议/小概率的视频」的观感... 以前看会被震撼到，现在看第一反应只会觉得一定是 AI 生成的",
-    "views": 237,
+    "views": 239,
     "forwards": 1
   },
   {
@@ -100826,7 +100826,7 @@
     "id": 7506,
     "date": "2025-12-17T01:50:53",
     "text": "小技巧：如果洗完澡玻璃起雾了，用手擦会留水珠在上面，用热风吹就不会了 qwq",
-    "views": 214,
+    "views": 216,
     "forwards": 3,
     "reply": {
       "id": 7494,
@@ -100851,7 +100851,7 @@
     "id": 7507,
     "date": "2025-12-18T16:39:01",
     "text": "来日本之后变胖了好多... 五月份来之前还是 55，现在已经 64 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>\n\n<a href=\"##戴上耳机\"><del>#戴上耳机</a></del>\n<del>♪ Will you still need me, will you still feed me\n♪ When I'm 64(kg)?</del>",
-    "views": 159,
+    "views": 163,
     "forwards": 2,
     "files": [
       {
@@ -100873,7 +100873,7 @@
     "id": 7508,
     "date": "2025-12-19T01:26:39",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <span class=\"spoiler\"><span>（其实不是今天）</span></span>\n温泉旅店的早饭晚饭\n\n不得不说旅店的饭好好吃，绝对是我吃的种类最多的一顿饭，尝到了很多来日本七个月都没有吃过的东西。\n\n不过也只有这种时候才会意识到自己对什么东西挑食... 平时不喜欢的东西就不会做也不会在外面点",
-    "views": 141,
+    "views": 144,
     "forwards": 2,
     "media_group_id": 14128860791730093,
     "images": [
@@ -100983,7 +100983,7 @@
     "id": 7518,
     "date": "2025-12-19T04:49:45",
     "text": "Steam -100% 我还是第一次见\n\n<a href=\"https://store.steampowered.com/app/282800/100_Orange_Juice/\">https://store.steampowered.com/app/282800/100_Orange_Juice/</a>",
-    "views": 159,
+    "views": 170,
     "forwards": 4,
     "images": [
       {
@@ -100995,6 +100995,116 @@
         "url": "media/7518.jpg",
         "size": 53610,
         "thumb": "media/7518.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7519,
+    "date": "2025-12-19T13:49:51",
+    "text": "去了草津西の河原公園！\n\n河里流着热得下不去脚的温泉水、到处都冒着热蒸汽的同时，地上的雪还没有融化的迹象，好奇妙\n\n以及晚上的灯光照着这片云雾好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n山的尽头有一个露天温泉池的样子，而且没有人在泡诶。<del>好想哪天趁凌晨没人在这里泡真·露天温泉</del>",
+    "views": 45,
+    "forwards": 1,
+    "media_group_id": 14129217535506077,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-19T13:49:10",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-10.jpg",
+        "url": "media/7519.jpg",
+        "size": 555588,
+        "thumb": "media/7519.jpg_thumb.jpg"
+      },
+      {
+        "width": 1707,
+        "height": 2560,
+        "date": "2025-12-19T13:49:17",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-17.jpg",
+        "url": "media/7520.jpg",
+        "size": 776137,
+        "thumb": "media/7520.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-19T13:49:20",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-20.jpg",
+        "url": "media/7521.jpg",
+        "size": 632155,
+        "thumb": "media/7521.jpg_thumb.jpg"
+      },
+      {
+        "width": 1707,
+        "height": 2560,
+        "date": "2025-12-19T13:49:22",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-22.jpg",
+        "url": "media/7522.jpg",
+        "size": 324556,
+        "thumb": "media/7522.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-19T13:49:25",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-25.jpg",
+        "url": "media/7523.jpg",
+        "size": 1338769,
+        "thumb": "media/7523.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-12-19T13:49:29",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-29.jpg",
+        "url": "media/7524.jpg",
+        "size": 1487543,
+        "thumb": "media/7524.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-19T13:49:37",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-37.jpg",
+        "url": "media/7525.jpg",
+        "size": 1508377,
+        "thumb": "media/7525.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-19T13:49:43",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-43.jpg",
+        "url": "media/7526.jpg",
+        "size": 1111908,
+        "thumb": "media/7526.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-12-19T13:49:47",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-47.jpg",
+        "url": "media/7527.jpg",
+        "size": 768287,
+        "thumb": "media/7527.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-19T13:49:51",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-19_13-49-51.jpg",
+        "url": "media/7528.jpg",
+        "size": 400860,
+        "thumb": "media/7528.jpg_thumb.jpg"
       }
     ]
   }
