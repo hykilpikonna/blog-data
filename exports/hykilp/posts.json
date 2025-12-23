@@ -56627,7 +56627,7 @@
     "id": 4152,
     "date": "2024-07-16T08:54:10",
     "text": "帮聊聊给在看守所的朋友寄了信...\n\n这个年代似乎已经没有人寄平邮的信了。打印店老板说没寄过，去楼下中国邮政老板还一脸诧异笑了笑说不接，说整个城区只有一家邮政寄平邮。\n\n骑车去了那唯一一家，发现那家邮政老板意外人很好，并没有质疑为什么这个年代还需要寄平邮，我也没有因此被取笑。明明寄平邮就应该是这样简单的事情，封上信口交了钱就结束了，看着他熟练地贴上邮票把信丢进寄信箱让我很安心。",
-    "views": 98,
+    "views": 99,
     "forwards": 2,
     "media_group_id": 13768960404856437,
     "images": [
@@ -56667,7 +56667,7 @@
     "id": 4155,
     "date": "2024-07-16T09:49:41",
     "text": "GPT4 还是 4o 都答错了的问题我的 LoRA 瑞希答对了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 不愧是瑞希",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 13768987049704909,
     "images": [
@@ -56742,7 +56742,7 @@
     "id": 4161,
     "date": "2024-07-16T17:42:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 syama 一起吃深夜烧鸟 quq",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "media_group_id": 13769214187057997,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6377,
+    "views": 6378,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -88350,7 +88350,7 @@
     "id": 6499,
     "date": "2025-09-01T16:02:23",
     "text": "蓝夏和ゆり来日本玩，真是好久没见了，上次一起玩还是两年前在西雅图（ref: <a href=\"https://t.me/azaneko/2194\">回忆1</a> | <a href=\"https://t.me/azaneko/2538\">回忆2</a>）\n\n下午一起去了龍Q館，是电视上的超级炫酷的防灾地下神殿！实际上是用来调水压的洪水防御设施，是在东京湾上流春日<span class=\"spoiler\"><span>部</span></span>洪水多发区域防止洪水快速流向下流的调压水槽，有一个足球场大（它地上的部分 literally 是一个足球场 🌚）\n\n除了这个大水库以外还有五个立坑连接五条河流，中间通过四条隧道相连，总共可以缓冲 670,000,000L 的水，这么恐怖的规模，花了 2300 亿円造价，居然还只是首都圈外郭放水路的一小部分...\n\n不过虽然规模这么大，作用域反而挺有限的。它只解决了长时间大范围降雨导致的上流河流泛滥这一个特定的问题，反而对短时间市内极大暴雨或者海啸完全无效... 第一次觉得天气真的好恐怖 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "media_group_id": 14053940350744301,
     "images": [
@@ -88460,7 +88460,7 @@
     "id": 6509,
     "date": "2025-09-02T09:11:29",
     "text": "我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<span class=\"spoiler\"><span>好吧其实是写 paper 想测试一下 iPad 上的笔记软件能不能画 figure 然后导出无背景的 svg，发现直接复制粘贴到 tg 上就可以</span></span>",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "images": [
       {
@@ -88479,7 +88479,7 @@
     "id": 6510,
     "date": "2025-09-03T03:51:41",
     "text": "\"本次更新修改了软件名称，可能导致不可预期的 BUG\" <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n改名字不提前一个版本改更新包 URL 是吗\n\n（前情提要：Mihomo Party 改名为 Clash Party 了，发布的安装包文件名也从 <code>mihomo-party-{}</code> 改成 <code>clash-party-{}</code> 了，但是因为更新 URL 还是 <code>clash-party-{}</code> 所以会更新失败）",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "media_group_id": 14054972008063501,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1919,
+    "views": 1920,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -100800,7 +100800,7 @@
     "id": 7504,
     "date": "2025-12-16T13:47:40",
     "text": "感觉 AI 视频模型完全毁掉了「看上去很不可思议/小概率的视频」的观感... 以前看会被震撼到，现在看第一反应只会觉得一定是 AI 生成的",
-    "views": 278,
+    "views": 282,
     "forwards": 1
   },
   {
@@ -100851,7 +100851,7 @@
     "id": 7507,
     "date": "2025-12-18T16:39:01",
     "text": "来日本之后变胖了好多... 五月份来之前还是 55，现在已经 64 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>\n\n<a href=\"##戴上耳机\"><del>#戴上耳机</a></del>\n<del>♪ Will you still need me, will you still feed me\n♪ When I'm 64(kg)?</del>",
-    "views": 216,
+    "views": 217,
     "forwards": 2,
     "files": [
       {
@@ -100873,7 +100873,7 @@
     "id": 7508,
     "date": "2025-12-19T01:26:39",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <span class=\"spoiler\"><span>（其实不是今天）</span></span>\n温泉旅店的早饭晚饭\n\n不得不说旅店的饭好好吃，绝对是我吃的种类最多的一顿饭，尝到了很多来日本七个月都没有吃过的东西。\n\n不过也只有这种时候才会意识到自己对什么东西挑食... 平时不喜欢的东西就不会做也不会在外面点",
-    "views": 208,
+    "views": 210,
     "forwards": 2,
     "media_group_id": 14128860791730093,
     "images": [
@@ -100983,7 +100983,7 @@
     "id": 7518,
     "date": "2025-12-19T04:49:45",
     "text": "Steam -100% 我还是第一次见\n\n<a href=\"https://store.steampowered.com/app/282800/100_Orange_Juice/\">https://store.steampowered.com/app/282800/100_Orange_Juice/</a>",
-    "views": 251,
+    "views": 253,
     "forwards": 5,
     "images": [
       {
@@ -101002,7 +101002,7 @@
     "id": 7519,
     "date": "2025-12-19T13:49:51",
     "text": "去了草津西の河原公園！\n\n河里流着热得下不去脚的温泉水、到处都冒着热蒸汽的同时，地上的雪还没有融化的迹象，好奇妙\n\n以及晚上的灯光照着这片云雾好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n山的尽头有一个露天温泉池的样子，而且没有人在泡诶。<del>好想哪天趁凌晨没人在这里泡真·露天温泉</del>",
-    "views": 186,
+    "views": 188,
     "forwards": 2,
     "media_group_id": 14129217535506077,
     "images": [
@@ -101112,7 +101112,7 @@
     "id": 7529,
     "date": "2025-12-19T14:55:37",
     "text": "谷歌好孬啊",
-    "views": 182,
+    "views": 184,
     "forwards": 1,
     "images": [
       {
@@ -101131,14 +101131,14 @@
     "id": 7530,
     "date": "2025-12-19T16:24:11",
     "text": "发现冷天整理照片做颜色校准的时候我会下意识地把色温调暖... <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 173,
+    "views": 176,
     "forwards": 0
   },
   {
     "id": 7531,
     "date": "2025-12-19T17:10:06",
     "text": "从草津回家的路上去了臨江閣！好喜欢日式复古风木屋的走廊，尤其是下午的太阳光照进来的时候真的太好看了 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n而且是为数不多可以免费参观的地方，可能因为当初建造的时候是前桥市民捐款建的所以才免费吧。\n\n明治时期是天皇住过的旅店以及接待其他高官的地方，现在是可以按房间短期租借的多功能活动场所。比如说如果我想举办一个很有仪式感的下午茶会的话，可以花 JP￥5610 租一下午的茶室在里面举办，没钱的话可以花 JP￥920 租六畳的敷次の間，好不错呀 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没想到现在花 JP￥5090 就可以在曾经接待明治天皇的无价房间里睡一整天，不得不感叹时代真的变了",
-    "views": 179,
+    "views": 181,
     "forwards": 0,
     "media_group_id": 14129313654791061,
     "images": [
@@ -101248,7 +101248,7 @@
     "id": 7551,
     "date": "2025-12-20T03:30:55",
     "text": "有时候真的觉得自己像凉宫春日\n\n前几天刚把 chai 的电瓶坏了的车修好，今天坐在谦谦的车上想着修车好有意思好想多修修车呀，然后谦谦的车就报错了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 186,
+    "views": 189,
     "forwards": 0,
     "images": [
       {
@@ -101267,7 +101267,7 @@
     "id": 7552,
     "date": "2025-12-20T04:53:44",
     "text": "electron is awesome",
-    "views": 181,
+    "views": 183,
     "forwards": 0,
     "images": [
       {
@@ -101286,7 +101286,7 @@
     "id": 7553,
     "date": "2025-12-20T10:30:37",
     "text": "好好笑\n<a href=\"##AIGC\">#AIGC</a>",
-    "views": 172,
+    "views": 174,
     "forwards": 2,
     "images": [
       {
@@ -101305,7 +101305,7 @@
     "id": 7554,
     "date": "2025-12-21T01:49:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n红烧肉寿司！\n\n其实有尝试做红烧肉的时候在里面放「康师傅红烧牛肉方便面汤底」代替传统的酱油和盐，但是并没有尝出康师傅味，依然大部分是普通红烧肉味 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 148,
+    "views": 151,
     "forwards": 1,
     "media_group_id": 14130254119829613,
     "images": [
@@ -101375,7 +101375,7 @@
     "id": 7560,
     "date": "2025-12-21T02:14:36",
     "text": "设计了一个架子，3D 打印出来把マモル的交换机架到天上了！",
-    "views": 147,
+    "views": 150,
     "forwards": 2,
     "media_group_id": 14130266213399045,
     "images": [
@@ -101444,7 +101444,7 @@
   {
     "id": 7566,
     "date": "2025-12-22T01:57:36",
-    "views": 145,
+    "views": 154,
     "forwards": 1,
     "reply": {
       "id": 7218,
@@ -101455,7 +101455,7 @@
     "id": 7567,
     "date": "2025-12-22T09:31:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 105,
+    "views": 122,
     "forwards": 0,
     "files": [
       {
@@ -101477,8 +101477,8 @@
     "id": 7568,
     "date": "2025-12-22T21:49:58",
     "text": "回到加拿大了！迎接我的是 -23°C 和满地白雪，然后飞机因为航站楼连接到飞机的桥冻住了降落之后原地晚点半小时（<del>还好转机的航班也晚点了半小时</del>，该不会是同一架飞机吧）\n\n以及今天天气好不错，起飞不久之后透过飞机窗户看到了星空！可惜关灯之前有飞机里的反射看不太清，关灯之后玻璃就暗下来不让调亮了。\n\n日出也很不错，在仅仅五六个小时的时间里经历了日落日出也好奇妙，感觉像是时间被加速了一样\n\n以及饮料车过来的时候看到有白/红葡萄酒和汽水和茶和咖啡和果汁，让服务员倒白葡萄酒+雪碧一比一调出了 Spritzer！好喝喵，虽然从来没有一天喝这么多酒精所以之后都有点晕晕的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323109926151390915.webp\">😪</i> 我的酒量是小猫",
-    "views": 48,
-    "forwards": 1,
+    "views": 86,
+    "forwards": 2,
     "media_group_id": 14131521586793381,
     "images": [
       {
