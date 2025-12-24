@@ -43141,7 +43141,7 @@
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 118,
+    "views": 119,
     "forwards": 3,
     "media_group_id": 13643119076454173,
     "images": [
@@ -81884,7 +81884,7 @@
     "id": 5973,
     "date": "2025-07-25T11:19:10",
     "text": "因为觉得一加 13 的相机又是圆的又不在中心有点丑，所以设计了一个能够把这个圆形转化为设计元素的星空手机壳 qwq\n\n过几天看看效果怎么样，如果效果好的话说不定这个也可以拿来卖 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 246,
+    "views": 247,
     "forwards": 3,
     "media_group_id": 14027538801505661,
     "images": [
@@ -85381,7 +85381,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 852,
+    "views": 853,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8347,
+    "views": 8348,
     "forwards": 173,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85438,7 +85438,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 453,
+    "views": 455,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -85538,7 +85538,7 @@
     "id": 6267,
     "date": "2025-08-18T16:13:28",
     "text": "离开之后还遇到乐队成员了\n\n具体是，我们看完去旁边的商场吃面，然后这位拉着一个舞台摆饰叶子伸出一半的行李箱在我旁边坐下来...\n\n...并没有敢搭话 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（更多是不想打扰到别人的生活啦）",
-    "views": 371,
+    "views": 372,
     "forwards": 0,
     "media_group_id": 14044268870693797,
     "images": [
@@ -97166,7 +97166,7 @@
     "id": 7222,
     "date": "2025-11-15T15:19:42",
     "text": "在看换中国驾照的事情，发现中国居然不让红绿色盲的人开车 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n明明靠位置/亮度分辨红黄绿灯也并不是很难，何况还有辅助眼镜... 这样直接让 8% 的公人出生注定禁止开车也太过分了\n\n而且查了一下基本上只有中国有这个限制，北美日本英国欧盟澳洲都不限制 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 389,
+    "views": 390,
     "forwards": 5,
     "images": [
       {
@@ -97643,7 +97643,7 @@
     "id": 7258,
     "date": "2025-11-20T06:14:28",
     "text": "信 息 高 速 公 路\n\n感觉<a href=\"http://submarinecablemap.com/\">海底线缆地图</a>好奇妙，解释了很多之前不理解的延迟怪谈。以及原本以为跨过太平洋一两万公里这么可怕规模的光线在海底一定只有很少一两根吧，结果发现实际上很常见，基本上每个网络公司都有一根... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n以及发现日本很多小离岛都有单独走线，感觉政府会资助这些居猫比居民多的小岛拉网线好不错呀",
-    "views": 436,
+    "views": 437,
     "forwards": 5,
     "media_group_id": 14108954145660541,
     "images": [
@@ -97673,7 +97673,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 469,
+    "views": 470,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97683,7 +97683,7 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 548,
+    "views": 549,
     "forwards": 1
   },
   {
@@ -97762,7 +97762,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 328,
+    "views": 329,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97812,7 +97812,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 300,
+    "views": 301,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -98076,14 +98076,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 321,
+    "views": 322,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 332,
+    "views": 333,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98704,7 +98704,7 @@
     "id": 7339,
     "date": "2025-11-29T12:02:24",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n<span class=\"spoiler\"><span>终于见到林子了好开心！</span></span><i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 378,
+    "views": 379,
     "forwards": 3,
     "images": [
       {
@@ -98723,7 +98723,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -99137,7 +99137,7 @@
     "id": 7373,
     "date": "2025-12-01T15:42:20",
     "text": "<span class=\"spoiler\"><span>如果陪伴可以 scale 就好了</span></span>",
-    "views": 529,
+    "views": 530,
     "forwards": 6
   },
   {
@@ -99188,7 +99188,7 @@
     "id": 7377,
     "date": "2025-12-02T06:48:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 281,
+    "views": 282,
     "forwards": 1,
     "files": [
       {
@@ -99210,7 +99210,7 @@
     "id": 7378,
     "date": "2025-12-02T06:53:40",
     "text": "有障碍电梯",
-    "views": 310,
+    "views": 311,
     "forwards": 0,
     "reply": {
       "id": 7312,
@@ -99233,14 +99233,14 @@
     "id": 7379,
     "date": "2025-12-02T10:42:23",
     "text": "在飞机上看动画\n\n每次用蓝牙耳机看视频的时候，都感觉自己是坐在 68m 外用无畸变望远镜看着手机屏幕，深刻感受着音速和光速的差距——在听到声音的 0.2s 之前，每个画面更新发生后，花 0.0000002s 赶来的光子快信就已经让我熟知接下来会听到什么了",
-    "views": 294,
+    "views": 295,
     "forwards": 1
   },
   {
     "id": 7380,
     "date": "2025-12-02T16:28:55",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nスシロー！\n\n回国之后面群友天天和我提寿司郎忍不住了，到日本还没回家之前第一件事就去吃了寿司郎 qwq",
-    "views": 299,
+    "views": 300,
     "forwards": 0,
     "media_group_id": 14117543482870637,
     "images": [
@@ -99320,7 +99320,7 @@
     "id": 7386,
     "date": "2025-12-03T09:25:46",
     "text": "今天买了一个 CA$10 的东西被风控，卡被停用了...\n\n觉得信用卡这种只要知道卡面上的数字就能用来买东西的设计好蠢...输入卡的信息的时候也只能「信任对方不会用来做坏事」即使有人做了坏事也不知道是谁做的\n\n感觉在线支付至少要有一个数字签名吧... 像 yubikey 那样，签名密钥存在卡上，只有物理拥有这张卡的时候可以进行签名，就可以有效防止盗刷了",
-    "views": 279,
+    "views": 280,
     "forwards": 1,
     "images": [
       {
@@ -99339,7 +99339,7 @@
     "id": 7387,
     "date": "2025-12-03T09:29:35",
     "text": "unifi 的包装好可爱！\n\n● U ●",
-    "views": 262,
+    "views": 263,
     "forwards": 1,
     "images": [
       {
@@ -99388,7 +99388,7 @@
     "id": 7390,
     "date": "2025-12-03T10:40:36",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n小桂桂唱歌.avif",
-    "views": 319,
+    "views": 320,
     "forwards": 3,
     "media_group_id": 14118067494554525,
     "images": [
@@ -99418,7 +99418,7 @@
     "id": 7392,
     "date": "2025-12-03T13:06:10",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>和マモル一起做爱心咖喱</del>\n\n在超市思考要吃什么的时候正好看到有咖喱和牛大打折就决定做咖喱了，配上中辛的 Java 咖喱块感觉好不错，吃完还想再吃一碗 qwq",
-    "views": 335,
+    "views": 336,
     "forwards": 1,
     "media_group_id": 14118137365192541,
     "images": [
@@ -99457,7 +99457,7 @@
   {
     "id": 7395,
     "date": "2025-12-03T13:37:43",
-    "views": 682,
+    "views": 683,
     "forwards": 14,
     "media_group_id": 14118152504658685,
     "images": [
@@ -99487,7 +99487,7 @@
     "id": 7397,
     "date": "2025-12-04T04:30:10",
     "text": "说起来，我在飞机上的时候其实并不记得光速和音速都是多少，只记得大概范围\n\n但是我觉得这么常用的两个数字在能存储 640 亿个 64 位数字的手机上不可能没有出现过，所以就打开应用列表一个一个找可能会存储离线信息的 app\n\n第一个找到的是日语词典，打开词典查了一下光速和音速，果然有数值 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 然后发现计算器里也有\n\n感觉离线知识好实用，今天下载了一个 Kiwix 离线维基百科和一个 ollama gemma3:1b 本地小模型，希望再次需要离线奇思妙想的时候、或者在没网的地方旅游露营的时候会派上用场 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 389,
+    "views": 390,
     "forwards": 4,
     "media_group_id": 14118580884675037,
     "images": [
@@ -99541,14 +99541,14 @@
     "id": 7401,
     "date": "2025-12-05T05:47:59",
     "text": "哭哭 似乎感冒了...",
-    "views": 311,
+    "views": 312,
     "forwards": 0
   },
   {
     "id": 7402,
     "date": "2025-12-06T02:23:34",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n软骨酸汤面！\n\n以及昨天マモル做了软骨汤和煎鱼干和酱白菜和酱油菜，マモル做饭超好吃 qwq",
-    "views": 289,
+    "views": 291,
     "forwards": 2,
     "media_group_id": 14119902511699885,
     "images": [
@@ -99578,7 +99578,7 @@
     "id": 7404,
     "date": "2025-12-06T04:43:37",
     "text": "🏕",
-    "views": 300,
+    "views": 301,
     "forwards": 0,
     "images": [
       {
@@ -99597,14 +99597,14 @@
     "id": 7405,
     "date": "2025-12-06T05:54:02",
     "text": "在想怎样做覆盖全世界的真无线充电的时候，突然想到这个东西其实早就已经被实现了，它叫做太阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i> 太阳在给全世界的太阳能板无线充电",
-    "views": 309,
+    "views": 311,
     "forwards": 2
   },
   {
     "id": 7406,
     "date": "2025-12-06T20:01:45",
     "text": "猫咪烤箱 <i class=\"custom-emoji\" emoji-src=\"emoji/5458822541801956370.webp\">🔥</i>",
-    "views": 279,
+    "views": 281,
     "forwards": 0,
     "reply": {
       "id": 7401,
@@ -99627,14 +99627,14 @@
     "id": 7407,
     "date": "2025-12-07T01:06:23",
     "text": "迷惑，TransUnion 和 Trans 和 Union 都有什么关系 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 287,
+    "views": 289,
     "forwards": 2
   },
   {
     "id": 7410,
     "date": "2025-12-07T05:51:38",
     "text": "记得四年前租第一个公寓的时候看了一圈加拿大运营商，大部分还停留在同轴线，最贵的套餐上行也只有 50M。当时唯一的两家光纤是 Bell 和 FibreStream，上下对等，但是都不支持 IPv6...\n\n四年过去之后现在要搬家了，又看了一圈。除了某些顽固的老牌<span class=\"spoiler\"><span> Rogers </span></span>还在用同轴以外，其他运营商大部分都换到了纯光，还有很多新的运营商出现，但是 Bell 和大部分新的纯光运营商（Beanfield, oxio, teksavvy）依然不支持 IPv6\n\n给新家选了 Ebox，是为数不多同时有上下对等光纤和 IPv6 还便宜还在 homelab 社区有不错的评价的运营商。\n\n唉，真希望哪天某 CDN 公司或者其他大公司可以宣告一个计划停止 IPv4 支持的截止日期，不然的话感觉加拿大这种不缺 v4 的地方 v6 支持永远起不来...",
-    "views": 286,
+    "views": 288,
     "forwards": 0,
     "images": [
       {
@@ -100851,7 +100851,7 @@
     "id": 7507,
     "date": "2025-12-18T16:39:01",
     "text": "来日本之后变胖了好多... 五月份来之前还是 55，现在已经 64 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>\n\n<a href=\"##戴上耳机\"><del>#戴上耳机</a></del>\n<del>♪ Will you still need me, will you still feed me\n♪ When I'm 64(kg)?</del>",
-    "views": 230,
+    "views": 231,
     "forwards": 2,
     "files": [
       {
@@ -100873,7 +100873,7 @@
     "id": 7508,
     "date": "2025-12-19T01:26:39",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <span class=\"spoiler\"><span>（其实不是今天）</span></span>\n温泉旅店的早饭晚饭\n\n不得不说旅店的饭好好吃，绝对是我吃的种类最多的一顿饭，尝到了很多来日本七个月都没有吃过的东西。\n\n不过也只有这种时候才会意识到自己对什么东西挑食... 平时不喜欢的东西就不会做也不会在外面点",
-    "views": 219,
+    "views": 220,
     "forwards": 2,
     "media_group_id": 14128860791730093,
     "images": [
@@ -100983,7 +100983,7 @@
     "id": 7518,
     "date": "2025-12-19T04:49:45",
     "text": "Steam -100% 我还是第一次见\n\n<a href=\"https://store.steampowered.com/app/282800/100_Orange_Juice/\">https://store.steampowered.com/app/282800/100_Orange_Juice/</a>",
-    "views": 262,
+    "views": 263,
     "forwards": 5,
     "images": [
       {
@@ -101002,7 +101002,7 @@
     "id": 7519,
     "date": "2025-12-19T13:49:51",
     "text": "去了草津西の河原公園！\n\n河里流着热得下不去脚的温泉水、到处都冒着热蒸汽的同时，地上的雪还没有融化的迹象，好奇妙\n\n以及晚上的灯光照着这片云雾好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n山的尽头有一个露天温泉池的样子，而且没有人在泡诶。<del>好想哪天趁凌晨没人在这里泡真·露天温泉</del>",
-    "views": 199,
+    "views": 200,
     "forwards": 3,
     "media_group_id": 14129217535506077,
     "images": [
@@ -101112,7 +101112,7 @@
     "id": 7529,
     "date": "2025-12-19T14:55:37",
     "text": "谷歌好孬啊",
-    "views": 196,
+    "views": 197,
     "forwards": 1,
     "images": [
       {
@@ -101248,7 +101248,7 @@
     "id": 7551,
     "date": "2025-12-20T03:30:55",
     "text": "有时候真的觉得自己像凉宫春日\n\n前几天刚把 chai 的电瓶坏了的车修好，今天坐在谦谦的车上想着修车好有意思好想多修修车呀，然后谦谦的车就报错了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 203,
+    "views": 204,
     "forwards": 0,
     "images": [
       {
@@ -101267,7 +101267,7 @@
     "id": 7552,
     "date": "2025-12-20T04:53:44",
     "text": "electron is awesome",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "images": [
       {
@@ -101286,7 +101286,7 @@
     "id": 7553,
     "date": "2025-12-20T10:30:37",
     "text": "好好笑\n<a href=\"##AIGC\">#AIGC</a>",
-    "views": 185,
+    "views": 186,
     "forwards": 2,
     "images": [
       {
@@ -101305,7 +101305,7 @@
     "id": 7554,
     "date": "2025-12-21T01:49:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n红烧肉寿司！\n\n其实有尝试做红烧肉的时候在里面放「康师傅红烧牛肉方便面汤底」代替传统的酱油和盐，但是并没有尝出康师傅味，依然大部分是普通红烧肉味 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "media_group_id": 14130254119829613,
     "images": [
@@ -101375,7 +101375,7 @@
     "id": 7560,
     "date": "2025-12-21T02:14:36",
     "text": "设计了一个架子，3D 打印出来把マモル的交换机架到天上了！",
-    "views": 161,
+    "views": 162,
     "forwards": 3,
     "media_group_id": 14130266213399045,
     "images": [
@@ -101444,7 +101444,7 @@
   {
     "id": 7566,
     "date": "2025-12-22T01:57:36",
-    "views": 178,
+    "views": 180,
     "forwards": 1,
     "reply": {
       "id": 7218,
@@ -101455,7 +101455,7 @@
     "id": 7567,
     "date": "2025-12-22T09:31:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 159,
+    "views": 163,
     "forwards": 0,
     "files": [
       {
@@ -101477,7 +101477,7 @@
     "id": 7568,
     "date": "2025-12-22T21:49:58",
     "text": "回到加拿大了！迎接我的是 -23°C 和满地白雪，然后飞机因为航站楼连接到飞机的桥冻住了降落之后原地晚点半小时（<del>还好转机的航班也晚点了半小时</del>，该不会是同一架飞机吧）\n\n以及今天天气好不错，起飞不久之后透过飞机窗户看到了星空！可惜关灯之前有飞机里的反射看不太清，关灯之后玻璃就暗下来不让调亮了。\n\n日出也很不错，在仅仅五六个小时的时间里经历了日落日出也好奇妙，感觉像是时间被加速了一样\n\n以及饮料车过来的时候看到有白/红葡萄酒和汽水和茶和咖啡和果汁，让服务员倒白葡萄酒+雪碧一比一调出了 Spritzer！好喝喵，虽然从来没有一天喝这么多酒精所以之后都有点晕晕的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323109926151390915.webp\">😪</i> 我的酒量是小猫",
-    "views": 149,
+    "views": 152,
     "forwards": 3,
     "media_group_id": 14131521586793381,
     "images": [
@@ -101587,7 +101587,7 @@
     "id": 7579,
     "date": "2025-12-23T07:04:48",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在飞机上看完了高达 GQuwuX，也许还不是 FLCL 的精神续作，但是感觉是我 2025 年最喜欢的番\n\n作画音乐都超炫酷，电波也正好和我对上！<del>只可惜并不是预想的百合番，明明前几集百合味好浓的</del>\n\n有点想写一篇长篇影评，但是想想还是算了。有时候不过度分析、让自己在<del>キラキラ的</del>意识流中漂游也挺有意思的（况且我现在 31h 没睡... <i class=\"custom-emoji\" emoji-src=\"emoji/5328157838382473320.webm\">😵</i>",
-    "views": 121,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 14131787904833909,
     "files": [
@@ -101623,7 +101623,7 @@
     "id": 7580,
     "date": "2025-12-23T16:25:23",
     "text": "终于听上了之前在青葉市子演唱会买的黑胶 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 77,
+    "views": 99,
     "forwards": 1,
     "media_group_id": 14132056987065509,
     "images": [
@@ -101658,7 +101658,7 @@
     "id": 7582,
     "date": "2025-12-23T22:05:26",
     "text": "美国语里「里程」是 \"mileage\" 的话，加拿大语里是不是应该叫 \"kilometerage\"",
-    "views": 16,
+    "views": 53,
     "forwards": 0
   }
 ]
