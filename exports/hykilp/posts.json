@@ -45115,7 +45115,8 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480
+        "size": 39480,
+        "thumb": "media/3328.webm_thumb.jpg"
       }
     ]
   },
@@ -73065,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6381,
+    "views": 6382,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -83054,7 +83055,7 @@
     "id": 6075,
     "date": "2025-08-01T04:56:48",
     "text": "想要对身边的碳基 AI 进行一些日常的 <a href=\"https://t.me/rynif/37424\">CatAttack</a>，但是猫大部分时间都在睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "images": [
       {
@@ -85392,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8375,
+    "views": 8376,
     "forwards": 174,
     "media_group_id": 14043941176651549,
     "images": [
@@ -92924,7 +92925,7 @@
     "id": 6875,
     "date": "2025-10-06T16:18:42",
     "text": "中秋快乐！\n\n眼睛看月亮感受不到，但是真的拍照调参数的时候才发现今天月亮真的好亮。居然亮到我的 f/6.3 小光圈头 ISO50 都完全够，好震撼。",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14078140183716293,
     "images": [
@@ -96905,7 +96906,7 @@
     "id": 7206,
     "date": "2025-11-12T05:05:06",
     "text": "离开的飞机上拍到了左贺城迹！（这一圈水辨识度太高了",
-    "views": 282,
+    "views": 283,
     "forwards": 0,
     "media_group_id": 14103391249391061,
     "images": [
@@ -96940,7 +96941,7 @@
     "id": 7208,
     "date": "2025-11-12T09:13:47",
     "text": "felica 数量增加了",
-    "views": 291,
+    "views": 292,
     "forwards": 4,
     "images": [
       {
@@ -96959,8 +96960,8 @@
     "id": 7209,
     "date": "2025-11-12T11:12:15",
     "text": "呜呜... NASA 的 Scientific Visualization Studio 停更了",
-    "views": 286,
-    "forwards": 1,
+    "views": 296,
+    "forwards": 2,
     "images": [
       {
         "width": 1456,
@@ -96978,7 +96979,7 @@
     "id": 7210,
     "date": "2025-11-12T15:42:32",
     "text": "好炫酷",
-    "views": 265,
+    "views": 266,
     "forwards": 0,
     "files": [
       {
@@ -97001,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1931,
+    "views": 1932,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97024,7 +97025,7 @@
     "id": 7212,
     "date": "2025-11-13T00:13:23",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100472337788835057.webp\">🌖</i> 228° <span class=\"spoiler\"><span>（11 月 10 日）</span></span>\n\n让白猫 <a href=\"https://t.me/omiashi\">@omiashi</a> 带我一起去了カラオケ🎤！是我第一次去カラオケ，三个小时只花了 JP￥1000 好便宜，唱了好多歌，唱到嗓子疼了才离开 <i class=\"custom-emoji\" emoji-src=\"emoji/5443069078501598457.tgs\">🎤</i>\n\n感觉唱歌还是好难呀。虽然音准我有绝对自信，但是读平仮名的速度还完全不行，稍微快一点就跟不上了... 现在大概「きんぎょの夢」这首歌是我读假名能跟上的最快速度\n\n以及白猫唱歌声音好好听，音域也好广，我唱不上去的音高她也能很轻松唱出来的样子... 听得我也想去找声乐老师练声音了\n\n以及今天摸到了真的カラオケ机器才发现家里的 Apple TV 的カラオケ模式缺好多功能。去人声、主旋律辅助、用手机点歌、点歌的时候的音域预览 & 升降调、变速、用振り仮名 / romaji 显示歌词、播放 MV、能给唱歌打分的音游模式... 原来カラオケ系统这么复杂",
-    "views": 311,
+    "views": 312,
     "forwards": 3,
     "media_group_id": 14103942424718133,
     "images": [
@@ -97074,7 +97075,7 @@
     "id": 7216,
     "date": "2025-11-13T05:34:48",
     "text": "好过分，上传 9TB 的 Power User 甚至还在做种的账号就这样被删了",
-    "views": 306,
+    "views": 307,
     "forwards": 2,
     "media_group_id": 14104096703673109,
     "images": [
@@ -97104,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 1060,
+    "views": 1061,
     "forwards": 12
   },
   {
@@ -97595,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 2042,
+    "views": 2043,
     "forwards": 14,
     "reply": {
       "id": 7212,
@@ -98722,7 +98723,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 265,
+    "views": 266,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -98802,7 +98803,7 @@
     "id": 7347,
     "date": "2025-11-30T05:12:32",
     "text": "<del>目标是宝可梦大师的林子</del>",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "media_group_id": 14115836419663997,
     "images": [
@@ -98832,7 +98833,7 @@
     "id": 7349,
     "date": "2025-11-30T07:41:59",
     "text": "遇到了只好象是怀孕了的小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 280,
+    "views": 281,
     "forwards": 1,
     "media_group_id": 14115908155859181,
     "images": [
@@ -98852,7 +98853,7 @@
     "id": 7351,
     "date": "2025-11-30T09:22:42",
     "text": "猫猫乱按键盘.gif",
-    "views": 281,
+    "views": 282,
     "forwards": 3,
     "files": [
       {
@@ -98872,7 +98873,7 @@
   {
     "id": 7352,
     "date": "2025-11-30T10:32:59",
-    "views": 281,
+    "views": 282,
     "forwards": 1,
     "images": [
       {
@@ -99540,7 +99541,7 @@
     "id": 7401,
     "date": "2025-12-05T05:47:59",
     "text": "哭哭 似乎感冒了...",
-    "views": 317,
+    "views": 318,
     "forwards": 0
   },
   {
@@ -99659,7 +99660,7 @@
     "id": 7412,
     "date": "2025-12-07T15:43:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nマモル做的可乐鸡翅和蒜香油菜和🍆\n\nマモル做饭好好吃，刚刚称了一下我来这里之后体重已经 +2.5kg 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 285,
+    "views": 286,
     "forwards": 3,
     "images": [
       {
@@ -99991,7 +99992,7 @@
     "id": 7438,
     "date": "2025-12-10T12:14:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫抓琴\n\n（琴是 mamoru 的 Casiotone CT-S1）",
-    "views": 281,
+    "views": 282,
     "forwards": 1,
     "media_group_id": 14122951178659965,
     "files": [
@@ -100390,21 +100391,21 @@
     "id": 7470,
     "date": "2025-12-13T18:31:56",
     "text": "好累，如果有帕鲁可以帮我清空 todo 就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 0
   },
   {
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 239,
+    "views": 240,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "images": [
       {
@@ -101130,14 +101131,14 @@
     "id": 7530,
     "date": "2025-12-19T16:24:11",
     "text": "发现冷天整理照片做颜色校准的时候我会下意识地把色温调暖... <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 0
   },
   {
     "id": 7531,
     "date": "2025-12-19T17:10:06",
     "text": "从草津回家的路上去了臨江閣！好喜欢日式复古风木屋的走廊，尤其是下午的太阳光照进来的时候真的太好看了 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n而且是为数不多可以免费参观的地方，可能因为当初建造的时候是前桥市民捐款建的所以才免费吧。\n\n明治时期是天皇住过的旅店以及接待其他高官的地方，现在是可以按房间短期租借的多功能活动场所。比如说如果我想举办一个很有仪式感的下午茶会的话，可以花 JP￥5610 租一下午的茶室在里面举办，没钱的话可以花 JP￥920 租六畳的敷次の間，好不错呀 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没想到现在花 JP￥5090 就可以在曾经接待明治天皇的无价房间里睡一整天，不得不感叹时代真的变了",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14129313654791061,
     "images": [
@@ -101247,7 +101248,7 @@
     "id": 7551,
     "date": "2025-12-20T03:30:55",
     "text": "有时候真的觉得自己像凉宫春日\n\n前几天刚把 chai 的电瓶坏了的车修好，今天坐在谦谦的车上想着修车好有意思好想多修修车呀，然后谦谦的车就报错了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "images": [
       {
@@ -101266,7 +101267,7 @@
     "id": 7552,
     "date": "2025-12-20T04:53:44",
     "text": "electron is awesome",
-    "views": 224,
+    "views": 225,
     "forwards": 0,
     "images": [
       {
@@ -101285,7 +101286,7 @@
     "id": 7553,
     "date": "2025-12-20T10:30:37",
     "text": "好好笑\n<a href=\"##AIGC\">#AIGC</a>",
-    "views": 212,
+    "views": 215,
     "forwards": 2,
     "images": [
       {
@@ -101304,7 +101305,7 @@
     "id": 7554,
     "date": "2025-12-21T01:49:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n红烧肉寿司！\n\n其实有尝试做红烧肉的时候在里面放「康师傅红烧牛肉方便面汤底」代替传统的酱油和盐，但是并没有尝出康师傅味，依然大部分是普通红烧肉味 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 192,
+    "views": 195,
     "forwards": 1,
     "media_group_id": 14130254119829613,
     "images": [
@@ -101374,7 +101375,7 @@
     "id": 7560,
     "date": "2025-12-21T02:14:36",
     "text": "设计了一个架子，3D 打印出来把マモル的交换机架到天上了！",
-    "views": 191,
+    "views": 192,
     "forwards": 3,
     "media_group_id": 14130266213399045,
     "images": [
@@ -101443,7 +101444,7 @@
   {
     "id": 7566,
     "date": "2025-12-22T01:57:36",
-    "views": 219,
+    "views": 221,
     "forwards": 1,
     "reply": {
       "id": 7218,
@@ -101454,7 +101455,7 @@
     "id": 7567,
     "date": "2025-12-22T09:31:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 208,
+    "views": 210,
     "forwards": 0,
     "files": [
       {
@@ -101476,7 +101477,7 @@
     "id": 7568,
     "date": "2025-12-22T21:49:58",
     "text": "回到加拿大了！迎接我的是 -23°C 和满地白雪，然后飞机因为航站楼连接到飞机的桥冻住了降落之后原地晚点半小时（<del>还好转机的航班也晚点了半小时</del>，该不会是同一架飞机吧）\n\n以及今天天气好不错，起飞不久之后透过飞机窗户看到了星空！可惜关灯之前有飞机里的反射看不太清，关灯之后玻璃就暗下来不让调亮了。\n\n日出也很不错，在仅仅五六个小时的时间里经历了日落日出也好奇妙，感觉像是时间被加速了一样\n\n以及饮料车过来的时候看到有白/红葡萄酒和汽水和茶和咖啡和果汁，让服务员倒白葡萄酒+雪碧一比一调出了 Spritzer！好喝喵，虽然从来没有一天喝这么多酒精所以之后都有点晕晕的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323109926151390915.webp\">😪</i> 我的酒量是小猫",
-    "views": 205,
+    "views": 208,
     "forwards": 3,
     "media_group_id": 14131521586793381,
     "images": [
@@ -101586,7 +101587,7 @@
     "id": 7579,
     "date": "2025-12-23T07:04:48",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在飞机上看完了高达 GQuwuX，也许还不是 FLCL 的精神续作，但是感觉是我 2025 年最喜欢的番\n\n作画音乐都超炫酷，电波也正好和我对上！<del>只可惜并不是预想的百合番，明明前几集百合味好浓的</del>\n\n有点想写一篇长篇影评，但是想想还是算了。有时候不过度分析、让自己在<del>キラキラ的</del>意识流中漂游也挺有意思的（况且我现在 31h 没睡... <i class=\"custom-emoji\" emoji-src=\"emoji/5328157838382473320.webm\">😵</i>",
-    "views": 215,
+    "views": 229,
     "forwards": 0,
     "media_group_id": 14131787904833909,
     "files": [
@@ -101622,7 +101623,7 @@
     "id": 7580,
     "date": "2025-12-23T16:25:23",
     "text": "终于听上了之前在青葉市子演唱会买的黑胶 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 217,
+    "views": 223,
     "forwards": 1,
     "media_group_id": 14132056987065509,
     "images": [
@@ -101657,7 +101658,7 @@
     "id": 7582,
     "date": "2025-12-23T22:05:26",
     "text": "美国语里「里程」是 \"mileage\" 的话，加拿大语里是不是应该叫 \"kilometerage\"",
-    "views": 225,
+    "views": 230,
     "forwards": 0
   },
   {
@@ -101694,7 +101695,7 @@
     "id": 7585,
     "date": "2025-12-25T14:14:27",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n圣诞快乐！",
-    "views": 196,
+    "views": 197,
     "forwards": 3,
     "files": [
       {
@@ -101715,7 +101716,7 @@
   {
     "id": 7586,
     "date": "2025-12-25T19:22:09",
-    "views": 188,
+    "views": 190,
     "forwards": 1,
     "files": [
       {
@@ -101737,7 +101738,7 @@
     "id": 7587,
     "date": "2025-12-26T05:19:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nDIY 牛丼！\n\nCA$13.5 的肉肉吃了两顿，做起来又很简单，感觉还挺划算的",
-    "views": 171,
+    "views": 178,
     "forwards": 3,
     "media_group_id": 14133810984210685,
     "images": [
@@ -101777,7 +101778,7 @@
     "id": 7590,
     "date": "2025-12-26T15:14:03",
     "text": "聊聊帮我剪了头发，好看喵",
-    "views": 145,
+    "views": 156,
     "forwards": 0,
     "images": [
       {
@@ -101789,6 +101790,116 @@
         "url": "media/7590.jpg",
         "size": 397642,
         "thumb": "media/7590.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7591,
+    "date": "2025-12-27T06:40:25",
+    "text": "<del>《后天》灾难现场</del>\n\n...实际上只是多伦多的一般雪天",
+    "views": 65,
+    "forwards": 1,
+    "media_group_id": 14134541001383469,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-26T20:04:54",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-26_20-04-54.jpg",
+        "url": "media/7591.jpg",
+        "size": 914759,
+        "thumb": "media/7591.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1850,
+        "date": "2025-12-27T06:40:10",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-10.jpg",
+        "url": "media/7592.jpg",
+        "size": 681391,
+        "thumb": "media/7592.jpg_thumb.jpg"
+      },
+      {
+        "width": 1706,
+        "height": 2560,
+        "date": "2025-12-27T06:40:13",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-13.jpg",
+        "url": "media/7593.jpg",
+        "size": 573127,
+        "thumb": "media/7593.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2025-12-27T06:40:14",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-14.jpg",
+        "url": "media/7594.jpg",
+        "size": 398610,
+        "thumb": "media/7594.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-27T06:40:15",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-15.jpg",
+        "url": "media/7595.jpg",
+        "size": 401911,
+        "thumb": "media/7595.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-27T06:40:24",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-24.jpg",
+        "url": "media/7596.jpg",
+        "size": 227471,
+        "thumb": "media/7596.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-27T06:40:17",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-17.jpg",
+        "url": "media/7597.jpg",
+        "size": 561971,
+        "thumb": "media/7597.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-27T06:40:18",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-18.jpg",
+        "url": "media/7598.jpg",
+        "size": 221243,
+        "thumb": "media/7598.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2025-12-27T06:40:19",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-19.jpg",
+        "url": "media/7599.jpg",
+        "size": 257741,
+        "thumb": "media/7599.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-12-27T06:40:21",
+        "media_type": "photo",
+        "original_name": "photo_2025-12-27_06-40-21.jpg",
+        "url": "media/7600.jpg",
+        "size": 975833,
+        "thumb": "media/7600.jpg_thumb.jpg"
       }
     ]
   }
