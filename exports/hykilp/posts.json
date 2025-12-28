@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6386,
+    "views": 6387,
     "forwards": 149,
     "media_group_id": 13966976157341773,
     "images": [
@@ -96960,7 +96960,7 @@
     "id": 7209,
     "date": "2025-11-12T11:12:15",
     "text": "呜呜... NASA 的 Scientific Visualization Studio 停更了",
-    "views": 316,
+    "views": 318,
     "forwards": 2,
     "images": [
       {
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 1006,
+    "views": 1007,
     "forwards": 9,
     "images": [
       {
@@ -100800,7 +100800,7 @@
     "id": 7504,
     "date": "2025-12-16T13:47:40",
     "text": "感觉 AI 视频模型完全毁掉了「看上去很不可思议/小概率的视频」的观感... 以前看会被震撼到，现在看第一反应只会觉得一定是 AI 生成的",
-    "views": 318,
+    "views": 321,
     "forwards": 1
   },
   {
@@ -101587,7 +101587,7 @@
     "id": 7579,
     "date": "2025-12-23T07:04:48",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在飞机上看完了高达 GQuwuX，也许还不是 FLCL 的精神续作，但是感觉是我 2025 年最喜欢的番\n\n作画音乐都超炫酷，电波也正好和我对上！<del>只可惜并不是预想的百合番，明明前几集百合味好浓的</del>\n\n有点想写一篇长篇影评，但是想想还是算了。有时候不过度分析、让自己在<del>キラキラ的</del>意识流中漂游也挺有意思的（况且我现在 31h 没睡... <i class=\"custom-emoji\" emoji-src=\"emoji/5328157838382473320.webm\">😵</i>",
-    "views": 252,
+    "views": 253,
     "forwards": 0,
     "media_group_id": 14131787904833909,
     "files": [
@@ -101658,14 +101658,14 @@
     "id": 7582,
     "date": "2025-12-23T22:05:26",
     "text": "美国语里「里程」是 \"mileage\" 的话，加拿大语里是不是应该叫 \"kilometerage\"",
-    "views": 246,
+    "views": 247,
     "forwards": 0
   },
   {
     "id": 7583,
     "date": "2025-12-25T02:03:59",
     "text": "发现在 VR 里面切洋葱不会辣眼睛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 232,
+    "views": 233,
     "forwards": 4,
     "media_group_id": 14133025912547069,
     "images": [
@@ -101695,7 +101695,7 @@
     "id": 7585,
     "date": "2025-12-25T14:14:27",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n圣诞快乐！",
-    "views": 205,
+    "views": 206,
     "forwards": 3,
     "files": [
       {
@@ -101716,7 +101716,7 @@
   {
     "id": 7586,
     "date": "2025-12-25T19:22:09",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "files": [
       {
@@ -101738,7 +101738,7 @@
     "id": 7587,
     "date": "2025-12-26T05:19:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nDIY 牛丼！\n\nCA$13.5 的肉肉吃了两顿，做起来又很简单，感觉还挺划算的",
-    "views": 195,
+    "views": 196,
     "forwards": 3,
     "media_group_id": 14133810984210685,
     "images": [
@@ -101778,7 +101778,7 @@
     "id": 7590,
     "date": "2025-12-26T15:14:03",
     "text": "聊聊帮我剪了头发，好看喵",
-    "views": 182,
+    "views": 184,
     "forwards": 0,
     "images": [
       {
@@ -101797,7 +101797,7 @@
     "id": 7591,
     "date": "2025-12-27T06:40:25",
     "text": "<del>《后天》灾难现场</del>\n\n...实际上只是多伦多的一般雪天",
-    "views": 154,
+    "views": 156,
     "forwards": 1,
     "media_group_id": 14134541001383469,
     "images": [
@@ -101907,7 +101907,7 @@
     "id": 7601,
     "date": "2025-12-27T14:50:47",
     "text": "🐈‍⬛️",
-    "views": 152,
+    "views": 156,
     "forwards": 1,
     "media_group_id": 14134776379626749,
     "images": [
@@ -101947,7 +101947,7 @@
     "id": 7604,
     "date": "2025-12-27T21:49:26",
     "text": "买了二手车... 差点被坑了 $1130\n\n去车行试完车很喜欢，没仔细看合同就签名了。回家的路上发现不对怎么给我加了一个税前 $999 的「外部翻新费」\n\n打电话问，我说不用重新翻新，他说我来试车之前已经翻新过了所以还是要收的，给我降到 $799 吧，但是我还是觉得不对劲\n\n问了一下 LLM，才知道在租车的时候收没有列在网页描述上的隐藏费用是违法的。立即去打印店打出网页描述和 OMVIC 的条款向回走，进店里我拿出两份文件他就怂了把 $999 去掉、把之前的合同作废重新签了新的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n还好问了，看来在加拿大过日子还是需要多了解了解自己的合法权益...",
-    "views": 146,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 14134977334495205,
     "images": [
@@ -101977,8 +101977,8 @@
     "id": 7606,
     "date": "2025-12-28T06:21:51",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i> <span class=\"spoiler\"><span>限高.jpg</span></span>",
-    "views": 102,
-    "forwards": 0,
+    "views": 117,
+    "forwards": 1,
     "media_group_id": 14135223288246757,
     "images": [
       {
