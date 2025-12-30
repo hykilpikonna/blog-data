@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5741,
+    "views": 5742,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 1064,
+    "views": 1065,
     "forwards": 12
   },
   {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 2048,
+    "views": 2049,
     "forwards": 14,
     "reply": {
       "id": 7212,
@@ -98322,7 +98322,7 @@
     "id": 7310,
     "date": "2025-11-28T11:03:46",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n\n三个一加手机好好笑",
-    "views": 307,
+    "views": 308,
     "forwards": 4,
     "media_group_id": 14114622614571069,
     "images": [
@@ -98635,7 +98635,7 @@
     "id": 7335,
     "date": "2025-11-28T17:06:00",
     "text": "<span class=\"spoiler\"><span>「今天是明天的延伸\n    明天是今天的终结」</span></span>",
-    "views": 268,
+    "views": 269,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -98833,7 +98833,7 @@
     "id": 7349,
     "date": "2025-11-30T07:41:59",
     "text": "遇到了只好象是怀孕了的小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 283,
+    "views": 284,
     "forwards": 1,
     "media_group_id": 14115908155859181,
     "images": [
@@ -99144,7 +99144,7 @@
     "id": 7374,
     "date": "2025-12-02T03:15:44",
     "text": "原来火车还有自动搅拌面汤的服务（虽然撒出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 286,
+    "views": 287,
     "forwards": 1,
     "files": [
       {
@@ -99487,7 +99487,7 @@
     "id": 7397,
     "date": "2025-12-04T04:30:10",
     "text": "说起来，我在飞机上的时候其实并不记得光速和音速都是多少，只记得大概范围\n\n但是我觉得这么常用的两个数字在能存储 640 亿个 64 位数字的手机上不可能没有出现过，所以就打开应用列表一个一个找可能会存储离线信息的 app\n\n第一个找到的是日语词典，打开词典查了一下光速和音速，果然有数值 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 然后发现计算器里也有\n\n感觉离线知识好实用，今天下载了一个 Kiwix 离线维基百科和一个 ollama gemma3:1b 本地小模型，希望再次需要离线奇思妙想的时候、或者在没网的地方旅游露营的时候会派上用场 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 397,
+    "views": 398,
     "forwards": 5,
     "media_group_id": 14118580884675037,
     "images": [
@@ -99541,7 +99541,7 @@
     "id": 7401,
     "date": "2025-12-05T05:47:59",
     "text": "哭哭 似乎感冒了...",
-    "views": 321,
+    "views": 322,
     "forwards": 0
   },
   {
@@ -99795,7 +99795,7 @@
     "id": 7423,
     "date": "2025-12-08T08:35:15",
     "text": "呜呜 用 docker 的人一定要记得勤清缓存，我好久没清今天跑了一下 <code>docker system prune</code> 清出来 358GB <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 284,
+    "views": 285,
     "forwards": 5,
     "media_group_id": 14121463326705389,
     "images": [
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 1013,
+    "views": 1015,
     "forwards": 9,
     "images": [
       {
@@ -100800,7 +100800,7 @@
     "id": 7504,
     "date": "2025-12-16T13:47:40",
     "text": "感觉 AI 视频模型完全毁掉了「看上去很不可思议/小概率的视频」的观感... 以前看会被震撼到，现在看第一反应只会觉得一定是 AI 生成的",
-    "views": 327,
+    "views": 328,
     "forwards": 1
   },
   {
@@ -101738,7 +101738,7 @@
     "id": 7587,
     "date": "2025-12-26T05:19:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nDIY 牛丼！\n\nCA$13.5 的肉肉吃了两顿，做起来又很简单，感觉还挺划算的",
-    "views": 210,
+    "views": 211,
     "forwards": 3,
     "media_group_id": 14133810984210685,
     "images": [
@@ -101797,7 +101797,7 @@
     "id": 7591,
     "date": "2025-12-27T06:40:25",
     "text": "<del>《后天》灾难现场</del>\n\n...实际上只是多伦多的一般雪天",
-    "views": 180,
+    "views": 181,
     "forwards": 1,
     "media_group_id": 14134541001383469,
     "images": [
@@ -101907,7 +101907,7 @@
     "id": 7601,
     "date": "2025-12-27T14:50:47",
     "text": "🐈‍⬛️",
-    "views": 193,
+    "views": 194,
     "forwards": 1,
     "media_group_id": 14134776379626749,
     "images": [
@@ -101977,7 +101977,7 @@
     "id": 7606,
     "date": "2025-12-28T06:21:51",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i> <span class=\"spoiler\"><span>限高.jpg</span></span>",
-    "views": 182,
+    "views": 183,
     "forwards": 1,
     "media_group_id": 14135223288246757,
     "images": [
@@ -102007,7 +102007,7 @@
     "id": 7608,
     "date": "2025-12-28T23:22:27",
     "text": "好奇心害死小猫...\n\n今天修剪绿萝的时候获得了一片很不错的绿萝叶子，看上去很好吃的样子就咬了一口，是生菜味的\n\n然后嘴有点麻麻的查了一下才发现不能吃，绿萝纤维其实是刺猬一样的会扎进嘴里 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 167,
+    "views": 171,
     "forwards": 4,
     "images": [
       {
@@ -102026,7 +102026,7 @@
     "id": 7609,
     "date": "2025-12-29T11:44:17",
     "text": "整理地图，发现几个以前喜欢的店永久停业了...\n\n以及 2022 年开始停业翻修的 cinesphere 到现在都还没有重新开业",
-    "views": 115,
+    "views": 124,
     "forwards": 1,
     "media_group_id": 14136069259341605,
     "images": [
