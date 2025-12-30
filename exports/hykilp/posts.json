@@ -14076,7 +14076,7 @@
     "id": 1131,
     "date": "2022-08-29T19:49:49",
     "text": "VisionFive 和各种小零件终于到了！快递花了 20 天（x\n\n屏幕面板和键盘什么的在另一个包裹里还要等更久... 好怀念小时候住在中关村电子城旁边想要什么零件就可以骑车出去买 qwq",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "reply": {
       "id": 1065,
@@ -91760,7 +91760,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 526,
+    "views": 527,
     "forwards": 8,
     "media_group_id": 14073654712928549,
     "images": [
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 556,
+    "views": 557,
     "forwards": 13
   },
   {
@@ -101977,7 +101977,7 @@
     "id": 7606,
     "date": "2025-12-28T06:21:51",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i> <span class=\"spoiler\"><span>限高.jpg</span></span>",
-    "views": 194,
+    "views": 195,
     "forwards": 1,
     "media_group_id": 14135223288246757,
     "images": [
@@ -102086,14 +102086,14 @@
     "id": 7614,
     "date": "2025-12-30T04:05:24",
     "text": "开坑了 persona 5\n\n有时候真希望现实中的时间也像 persona 那样，每天都整整齐齐地分成上午 中午 下午 晚上这几个段落，每个段落选择做一件事，花费时间很短的事情可以做一整个下午、花费时间很长的事情也一下午就能做完...\n\n如果现实也是这样的话就不用担心作息被「就差一点就能做完」的事情打乱了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 139,
+    "views": 142,
     "forwards": 0
   },
   {
     "id": 7615,
     "date": "2025-12-30T14:53:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉饭！卤肉葱油面！\n\n每次做葱油面都是因为葱快放坏了... 真的是面向食材下厨了",
-    "views": 91,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 14136851323132893,
     "images": [
@@ -102143,7 +102143,7 @@
     "id": 7619,
     "date": "2025-12-30T20:01:16",
     "text": "初见 perfect!",
-    "views": 18,
+    "views": 37,
     "forwards": 0,
     "images": [
       {
@@ -102155,6 +102155,33 @@
         "url": "media/7619.jpg",
         "size": 31342,
         "thumb": "media/7619.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7620,
+    "date": "2025-12-30T21:17:36",
+    "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n打通第二章之后，我可以说节奏医生就是在我心中已经变成了地表最强音游\n\n一条线一个按钮表现力居然可以这么劲爆，还把剧情结合到了每首曲子的谱面里，玩法不变又毫不重复... 太厉害了\n\n（AV1 警告，没法播放的话可以去 <a href=\"https://youtu.be/n_PihiS1egU\">YouTube</a>）",
+    "views": 20,
+    "forwards": 1,
+    "reply": {
+      "id": 7619,
+      "text": "初见 perfect!"
+    },
+    "files": [
+      {
+        "width": 3840,
+        "height": 2160,
+        "duration": 246,
+        "file_name": "2025-12-30 15-05-27.av1-50.mp4",
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2025-12-30T21:17:36",
+        "media_type": "video_file",
+        "original_name": "2025-12-30 15-05-27.av1-50.mp4",
+        "url": "media/7620.mp4",
+        "size": 81583705,
+        "thumb": "media/7620.mp4_thumb.jpg"
       }
     ]
   }
