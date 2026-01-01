@@ -48180,7 +48180,7 @@
     "id": 3533,
     "date": "2024-03-29T09:25:35",
     "text": "呜 之前发现在 5600XT 上跑 Wacca 会让谱面时间错位，音乐放完十秒之后谱面才结束。\n\n研究了一下发现这个游戏居然是靠逐帧时间来同步谱面速度的... 也就是说显卡慢了的话谱面速度也会慢 🤯 为什么才五年前的游戏还在用这么原始的时间同步方式我也想知道（\n\n所以解决这个问题的方法是在显卡驱动里设置固定帧率模式（AMD FRTC）然后谱面才能和音频同步... 但是固定帧率的问题是，在显卡跟不上的时候不会降低帧率而是会直接跳过渲染下一帧，然后画面就突然降到 30fps <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n呜呜 Wacca 真的是我跑过最吃性能的游戏了... 然而吃性能的原因纯粹是因为优化差。我的 6700XT 能带动 1080p60 的博德之门3却带不动 Wacca <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 呜呜呜",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "reply": {
       "id": 3519,
@@ -48203,7 +48203,7 @@
     "id": 3534,
     "date": "2024-03-29T23:34:07",
     "text": "拿到签证了！不过即使提交了刚刚拍的照片，领事馆还是用了我护照上的照片... <del>打开还愣了一下以为发错了，过一会才反应过来好像确实是我</del>\n\n以及查询签证文件的网站上输入英文名字居然是按亚洲习惯用 \"姓 名\" 的格式收录的，我习惯性地打了 \"名 姓\" 结果没查到... 好久没有这样写过名字了，感觉自己被 whitewash 好严重 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 0,
     "reply": {
       "id": 3476,
@@ -48215,7 +48215,7 @@
     "id": 3535,
     "date": "2024-03-30T01:52:27",
     "text": "<a href=\"##AquaDX\">#AquaDX</a> 给私服写了 Wacca 支持！总共花了两天\n\n（虽然还有一些 bug 但是大部分功能已经能用了 qwq",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "reply": {
       "id": 3519,
@@ -48238,7 +48238,7 @@
     "id": 3536,
     "date": "2024-03-30T03:59:17",
     "text": "聊聊：一会你去报税吧\n我：好，我去暴睡了，明早叫我 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 108,
+    "views": 109,
     "forwards": 0
   },
   {
@@ -48613,7 +48613,7 @@
     "id": 3561,
     "date": "2024-04-07T06:27:43",
     "text": "长出根了，一盆新的绿萝诞生了！（但是新的绿萝同时也是旧的 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13699770106005029,
     "images": [
@@ -80763,7 +80763,7 @@
     "id": 5894,
     "date": "2025-07-13T19:33:56",
     "text": "不知道从什么时候开始谷歌地图不显示评论和照片了\n\n今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...\n\n<del>怕中国人靠发照片评论到处放原神地标吗</del>",
-    "views": 229,
+    "views": 230,
     "forwards": 2
   },
   {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8387,
+    "views": 8388,
     "forwards": 174,
     "media_group_id": 14043941176651549,
     "images": [
@@ -101623,7 +101623,7 @@
     "id": 7580,
     "date": "2025-12-23T16:25:23",
     "text": "终于听上了之前在青葉市子演唱会买的黑胶 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 1,
     "media_group_id": 14132056987065509,
     "images": [
@@ -101797,7 +101797,7 @@
     "id": 7591,
     "date": "2025-12-27T06:40:25",
     "text": "<del>《后天》灾难现场</del>\n\n...实际上只是多伦多的一般雪天",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "media_group_id": 14134541001383469,
     "images": [
@@ -101947,7 +101947,7 @@
     "id": 7604,
     "date": "2025-12-27T21:49:26",
     "text": "买了二手车... 差点被坑了 $1130\n\n去车行试完车很喜欢，没仔细看合同就签名了。回家的路上发现不对怎么给我加了一个税前 $999 的「外部翻新费」\n\n打电话问，我说不用重新翻新，他说我来试车之前已经翻新过了所以还是要收的，给我降到 $799 吧，但是我还是觉得不对劲\n\n问了一下 LLM，才知道在租车的时候收没有列在网页描述上的隐藏费用是违法的。立即去打印店打出网页描述和 OMVIC 的条款向回走，进店里我拿出两份文件他就怂了把 $999 去掉、把之前的合同作废重新签了新的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n还好问了，看来在加拿大过日子还是需要多了解了解自己的合法权益...",
-    "views": 225,
+    "views": 227,
     "forwards": 0,
     "media_group_id": 14134977334495205,
     "images": [
@@ -101977,7 +101977,7 @@
     "id": 7606,
     "date": "2025-12-28T06:21:51",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i> <span class=\"spoiler\"><span>限高.jpg</span></span>",
-    "views": 216,
+    "views": 217,
     "forwards": 1,
     "media_group_id": 14135223288246757,
     "images": [
@@ -102007,7 +102007,7 @@
     "id": 7608,
     "date": "2025-12-28T23:22:27",
     "text": "好奇心害死小猫...\n\n今天修剪绿萝的时候获得了一片很不错的绿萝叶子，看上去很好吃的样子就咬了一口，是生菜味的\n\n然后嘴有点麻麻的查了一下才发现不能吃，绿萝纤维其实是刺猬一样的会扎进嘴里 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 218,
+    "views": 220,
     "forwards": 4,
     "images": [
       {
@@ -102026,7 +102026,7 @@
     "id": 7609,
     "date": "2025-12-29T11:44:17",
     "text": "整理地图，发现几个以前喜欢的店永久停业了...\n\n以及 2022 年开始停业翻修的 cinesphere 到现在都还没有重新开业",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 14136069259341605,
     "images": [
@@ -102086,14 +102086,14 @@
     "id": 7614,
     "date": "2025-12-30T04:05:24",
     "text": "开坑了 persona 5\n\n有时候真希望现实中的时间也像 persona 那样，每天都整整齐齐地分成上午 中午 下午 晚上这几个段落，每个段落选择做一件事，花费时间很短的事情可以做一整个下午、花费时间很长的事情也一下午就能做完...\n\n如果现实也是这样的话就不用担心作息被「就差一点就能做完」的事情打乱了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 196,
+    "views": 198,
     "forwards": 0
   },
   {
     "id": 7615,
     "date": "2025-12-30T14:53:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉饭！卤肉葱油面！\n\n每次做葱油面都是因为葱快放坏了... 真的是面向食材下厨了",
-    "views": 181,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 14136851323132893,
     "images": [
@@ -102143,7 +102143,7 @@
     "id": 7619,
     "date": "2025-12-30T20:01:16",
     "text": "初见 perfect!",
-    "views": 176,
+    "views": 180,
     "forwards": 0,
     "images": [
       {
@@ -102162,7 +102162,7 @@
     "id": 7620,
     "date": "2025-12-30T21:17:36",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n打通第二章之后，我可以说节奏医生就是在我心中已经变成了地表最强音游\n\n一条线一个按钮表现力居然可以这么劲爆，还把剧情结合到了每首曲子的谱面里，玩法不变又毫不重复... 太厉害了\n\n（AV1 警告，没法播放的话可以去 <a href=\"https://youtu.be/n_PihiS1egU\">YouTube</a>）",
-    "views": 178,
+    "views": 182,
     "forwards": 3,
     "reply": {
       "id": 7619,
@@ -102189,14 +102189,14 @@
     "id": 7621,
     "date": "2025-12-31T03:04:00",
     "text": "找房好累...",
-    "views": 163,
+    "views": 167,
     "forwards": 0
   },
   {
     "id": 7622,
     "date": "2025-12-31T23:00:35",
     "text": "锂电池烟花好好看，<del>想点</del>\n\n（源视频连接：<a href=\"https://www.youtube.com/watch?v=Mkgo_CLVbzg\"><em>Ignoring All Lithium Battery Safety Warnings.. For Science!</a></em>）",
-    "views": 91,
+    "views": 110,
     "forwards": 2,
     "files": [
       {
@@ -102219,7 +102219,7 @@
     "id": 7625,
     "date": "2026-01-01T01:18:26",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n食材花了 $10 左右，1.2kg 的巴沙鱼居然只要 $6, 太便宜了8\n\n（相比之下，同样重量的五花肉要 $14.7，小鸡腿要 $6.3）",
-    "views": 67,
+    "views": 87,
     "forwards": 1,
     "media_group_id": 14137842453924805,
     "images": [
@@ -102259,7 +102259,7 @@
     "id": 7628,
     "date": "2026-01-01T02:05:47",
     "text": "我要进入冬眠，明年叫醒我 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 49,
+    "views": 72,
     "forwards": 0
   }
 ]
