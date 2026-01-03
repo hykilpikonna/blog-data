@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1885,
+    "views": 1886,
     "forwards": 52
   },
   {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8391,
+    "views": 8392,
     "forwards": 174,
     "media_group_id": 14043941176651549,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1951,
+    "views": 1952,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -97840,7 +97840,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 317,
+    "views": 318,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -97920,7 +97920,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 305,
+    "views": 306,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97943,7 +97943,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 310,
+    "views": 311,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97965,7 +97965,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 323,
+    "views": 324,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 357,
+    "views": 358,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98076,14 +98076,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 334,
+    "views": 335,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 344,
+    "views": 346,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98094,7 +98094,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 337,
+    "views": 338,
     "forwards": 4,
     "images": [
       {
@@ -99776,7 +99776,7 @@
     "id": 7422,
     "date": "2025-12-08T05:03:06",
     "text": "发现 telegram 安卓客户端<b>按原图文件</b>发送 jpg 也依然会删除 EXIF 里面的 GPS 位置信息，导致发送的文件和接收到的文件数据可能并不完全相等\n\n试过了去「发送文件」tab 手动选择文件路径依然会被删\n\n测试了：\n- 安卓发送 .jpg：GPS 被删除\n- 安卓发送 .heic: 没有处理\n- 电脑发送两种格式：没有处理\n- iOS 发送两种格式：大部分第三方相机 app 拍出来的照片的 GPS 会被删，官方相机拍出来的照片的 GPS 不会（也许因为第三方相机 app 缺少某些 GPS tag?）",
-    "views": 301,
+    "views": 302,
     "forwards": 3,
     "images": [
       {
@@ -99795,7 +99795,7 @@
     "id": 7423,
     "date": "2025-12-08T08:35:15",
     "text": "呜呜 用 docker 的人一定要记得勤清缓存，我好久没清今天跑了一下 <code>docker system prune</code> 清出来 358GB <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 287,
+    "views": 288,
     "forwards": 5,
     "media_group_id": 14121463326705389,
     "images": [
@@ -100630,7 +100630,7 @@
     "id": 7489,
     "date": "2025-12-15T21:20:23",
     "text": "和マモル和清水镜和 chai 一起去了草津町！\n\n是很有名的温泉圣地，到处都能见到温泉的热水蒸汽、<del>闻到温泉的硫磺香气</del>",
-    "views": 249,
+    "views": 250,
     "forwards": 1,
     "media_group_id": 14126668989749189,
     "images": [
@@ -100690,7 +100690,7 @@
     "id": 7494,
     "date": "2025-12-16T11:28:58",
     "text": "在温泉旅店泡了孤独温泉！温泉好舒服，已经不想离开了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n出来才发现这里的温泉水居然有 pH 2.1... 好酸！相比之下纯柠檬汁才 2.4，醋才 2.9，也就是说它比柠檬汁比醋都更酸... 人居然可以在 pH 2.1 的水里泡澡不变成骷髅还能感觉很舒服，太奇妙了",
-    "views": 244,
+    "views": 245,
     "forwards": 2,
     "media_group_id": 14127076311230669,
     "images": [
@@ -100800,14 +100800,14 @@
     "id": 7504,
     "date": "2025-12-16T13:47:40",
     "text": "感觉 AI 视频模型完全毁掉了「看上去很不可思议/小概率的视频」的观感... 以前看会被震撼到，现在看第一反应只会觉得一定是 AI 生成的",
-    "views": 335,
+    "views": 337,
     "forwards": 1
   },
   {
     "id": 7505,
     "date": "2025-12-16T20:55:27",
     "text": "睡不好...\n\n这两天住在这个超贵的温泉旅馆，是我在日本所有行程住过的旅馆里最贵的，但是却是唯一一个完全睡不好的旅馆，好生气\n\n因为没有暖气，取暖需要用这个电动灯油炉，这真的是我见过设计最差的产品\n\n除了点灯油会让整个房间充满汽车尾气味以外，它有一个无法禁用的自动关机计时，最长只能设 3 小时，而且会在临近关机的 15、10、5 分钟巨大声滴滴滴叫... 也就是说每三小时我都会被它叫醒起床去按一下“延长”不然就会熄灭、即使我想不管它想让它自动熄灭也会被这几声滴滴滴叫醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 到底是谁会想出这样的设计啊？\n\n以及现在凌晨六点灯油烧完了，也没有服务员醒着可以来加油了，接下来两个小时只能在 10℃ 的房间里睡了...",
-    "views": 287,
+    "views": 288,
     "forwards": 3,
     "images": [
       {
@@ -100826,7 +100826,7 @@
     "id": 7506,
     "date": "2025-12-17T01:50:53",
     "text": "小技巧：如果洗完澡玻璃起雾了，用手擦会留水珠在上面，用热风吹就不会了 qwq",
-    "views": 291,
+    "views": 292,
     "forwards": 3,
     "reply": {
       "id": 7494,
@@ -101977,7 +101977,7 @@
     "id": 7606,
     "date": "2025-12-28T06:21:51",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i> <span class=\"spoiler\"><span>限高.jpg</span></span>",
-    "views": 232,
+    "views": 234,
     "forwards": 1,
     "media_group_id": 14135223288246757,
     "images": [
@@ -102007,7 +102007,7 @@
     "id": 7608,
     "date": "2025-12-28T23:22:27",
     "text": "好奇心害死小猫...\n\n今天修剪绿萝的时候获得了一片很不错的绿萝叶子，看上去很好吃的样子就咬了一口，是生菜味的\n\n然后嘴有点麻麻的查了一下才发现不能吃，绿萝纤维其实是刺猬一样的会扎进嘴里 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 239,
+    "views": 241,
     "forwards": 4,
     "images": [
       {
@@ -102026,7 +102026,7 @@
     "id": 7609,
     "date": "2025-12-29T11:44:17",
     "text": "整理地图，发现几个以前喜欢的店永久停业了...\n\n以及 2022 年开始停业翻修的 cinesphere 到现在都还没有重新开业",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "media_group_id": 14136069259341605,
     "images": [
@@ -102196,7 +102196,7 @@
     "id": 7622,
     "date": "2025-12-31T23:00:35",
     "text": "锂电池烟花好好看，<del>想点</del>\n\n（源视频连接：<a href=\"https://www.youtube.com/watch?v=Mkgo_CLVbzg\"><em>Ignoring All Lithium Battery Safety Warnings.. For Science!</a></em>）",
-    "views": 207,
+    "views": 208,
     "forwards": 2,
     "files": [
       {
@@ -102219,7 +102219,7 @@
     "id": 7625,
     "date": "2026-01-01T01:18:26",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n食材花了 $10 左右，1.2kg 的巴沙鱼居然只要 $6, 太便宜了8\n\n（相比之下，同样重量的五花肉要 $14.7，小鸡腿要 $6.3）",
-    "views": 179,
+    "views": 181,
     "forwards": 1,
     "media_group_id": 14137842453924805,
     "images": [
@@ -102259,14 +102259,14 @@
     "id": 7628,
     "date": "2026-01-01T02:05:47",
     "text": "我要进入冬眠，明年叫醒我 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 176,
+    "views": 178,
     "forwards": 0
   },
   {
     "id": 7629,
     "date": "2026-01-01T06:02:05",
     "text": "新年快乐！",
-    "views": 163,
+    "views": 166,
     "forwards": 1,
     "images": [
       {
@@ -102285,7 +102285,7 @@
     "id": 7634,
     "date": "2026-01-01T18:53:18",
     "text": "昨天的新年花火小会会！风真的超级大超级冷，从照片就能看出风有多大 🌚\n\n是和聊聊豆腐猫球松鼠一起去的，实际上对花火本身很失望，烟花真的太少了，而且一共只有两艘船在放。多伦多市资助的过年烟花还没有之前在北海道洞爷湖那边每晚一次的烟花规模大... 这种时候就好想念日本\n\n不过见到了很久没有见到的朋友，还拍到了好看照片，总之还是很开心啦 qwq\n\n以及能看出多伦多市政很用心，专门安排了免费公交地铁和「跨年快线」NYE EXPRESS（跨年快线听上去像是什么坐上去可以带我去下一年的时光机草）也确实有很多人挤在湖边看烟花... 要是烟花的规模可以对得起这么多人就好了",
-    "views": 126,
+    "views": 130,
     "forwards": 3,
     "media_group_id": 14138348790329469,
     "images": [
@@ -102365,7 +102365,7 @@
     "id": 7641,
     "date": "2026-01-01T19:06:16",
     "text": "然后今天和 syama 去虚拟京都看了烟花！\n\nvrc 里面的互动感觉真的好真实，感觉像是真的和 syama 一起在逛京都一样 qwq\n\n可惜看到看起来很好吃的焼き鳥和鯛焼き没法吃，用虚拟的手抓住它拿到嘴里只能吃到空气... 然后就好饿好饿好饿好饿好饿 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 135,
+    "views": 138,
     "forwards": 1,
     "media_group_id": 14138355013735245,
     "images": [
@@ -102465,7 +102465,7 @@
     "id": 7650,
     "date": "2026-01-02T03:18:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n锅！（日式火锅！）\n\nTracer 和 Celestium 过来一起吃了。感觉日式火锅也是好吃又好做又便宜又 scalable，四个人吃的食材总共花了不到 $30 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n怪不得摇曳露营里面喜欢在露营的时候煮锅 qwq",
-    "views": 139,
+    "views": 144,
     "forwards": 2,
     "media_group_id": 14138591297711077,
     "images": [
@@ -102545,7 +102545,7 @@
     "id": 7657,
     "date": "2026-01-02T20:59:57",
     "text": "窗户上刷了大蜗牛",
-    "views": 117,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14139100780291061,
     "images": [
@@ -102575,7 +102575,7 @@
     "id": 7659,
     "date": "2026-01-03T04:58:35",
     "text": "谷歌搜索 OrcaSlicer 前五个结果哪个是官网？\n\n1. <code>orca-slicer.com</code>\n2. <code>orcaslicer.net</code>\n3. <code>orcaslicer.org</code>\n4. <code>orcaslicer3d.com</code>\n5. <code>orcaslicer.pro</code>\n\n答：<span class=\"spoiler\"><span>全都不是！正确答案是 `orcaslicer.com`，还是去 github repo 上找到的，翻了十页都没找到</span></span>",
-    "views": 69,
+    "views": 89,
     "forwards": 3,
     "images": [
       {
