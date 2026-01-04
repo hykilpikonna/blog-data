@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-01-03T22:20:37.682607+00:00</updated>
+  <updated>2026-01-04T00:23:48.697507+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7661</id>
+    <title>小桂桂的回忆录 📒 #7661</title>
+    <updated>2026-01-04T00:23:12+00:00</updated>
+    <content>&lt;p&gt;前几天有人提到 &lt;a href="https://zh.wikipedia.org/wiki/2038%E5%B9%B4%E9%97%AE%E9%A2%98"&gt;Y2038 问题&lt;/a&gt;，就是用 int32 存储时间戳的程序在 2038-01-19 之后会溢出回到 1970 或者 1901 年的问题。当时还觉得肯定没事，毕竟至少我已经不记得上次见到 32 位系统和用 int32 存储时间的程序是什么时候了&lt;/p&gt;
+&lt;p&gt;但是今天看着日历发呆的时候就在想，难道 int64 就真的够吗？虽然几乎所有程序都换成用 int64 存时间戳了，但是随着能存储的信息增加，大家期望的精度也上升了...之前用 int32 存的是秒，现在至少我写的程序获取时间的时候都是用纳秒 (1ns = 10^-9s)，但是这么高精度即使用 int64 存也依然很有限，到 2262 年也依然会出现同样的溢出问题...&lt;/p&gt;
+&lt;p&gt;到那时候 int128 会已经普及了吗？精度会继续增加吗？还是会直接跳过它用 int256 去存「时间的最小单位」普朗克时间呢？那时候的个人计算设备还会是二进制半导体计算机吗？&lt;del&gt;会不会在宇宙的尽头，在 292,277,026,596 年后，依然会有某台飘在无尽虚空中的放射发电机器人突然回到 1970 呢？&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;...一年在时间的 scale 下真的好短好短&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7661" rel="alternate"/>
+  </entry>
   <entry>
     <id>7660</id>
     <title>小桂桂的回忆录 📒 #7660</title>
