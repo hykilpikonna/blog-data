@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 113,
+    "views": 114,
     "forwards": 1,
     "files": [
       {
@@ -43067,7 +43067,7 @@
     "id": 3187,
     "date": "2024-01-14T16:56:48",
     "text": "大风把运货车刮走了💨",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -43086,7 +43086,7 @@
     "id": 3188,
     "date": "2024-01-15T01:56:26",
     "text": "今天在 smash 打过了聊聊！",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "images": [
       {
@@ -43105,7 +43105,7 @@
     "id": 3189,
     "date": "2024-01-15T02:07:21",
     "text": "（在选择角色的时候）\n聊聊：给你看看这个 DLC 都有什么了不起的联动\n（省略一千字）\n我：<del>那也不是很多嘛，连 nekopara 香子兰都没有</del>",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "reply": {
       "id": 3188,
@@ -43116,14 +43116,14 @@
     "id": 3190,
     "date": "2024-01-15T04:27:12",
     "text": "有十多个邮件要发但是现在只想睡觉...",
-    "views": 116,
+    "views": 117,
     "forwards": 0
   },
   {
     "id": 3191,
     "date": "2024-01-15T06:50:54",
     "text": "发完了三个... 感觉发邮件这种事情好心累，等到回复之前都会好焦虑好不安，会让我睡不着让我做噩梦",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "reply": {
       "id": 3190,
@@ -43134,14 +43134,14 @@
     "id": 3192,
     "date": "2024-01-15T07:22:42",
     "text": "好冷好冷好冷！",
-    "views": 114,
+    "views": 115,
     "forwards": 0
   },
   {
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 131,
+    "views": 132,
     "forwards": 3,
     "media_group_id": 13643119076454173,
     "images": [
@@ -43191,7 +43191,7 @@
     "id": 3197,
     "date": "2024-01-17T00:34:04",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n可乐鸡腿！",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
@@ -43210,7 +43210,7 @@
     "id": 3198,
     "date": "2024-01-17T04:53:45",
     "text": "<a href=\"##wactroller\">#wactroller</a> 今天土豆和 dv 帮忙测试把电视装上去了！结果电视晃晃被吓到了\n\n总结出今天的几个问题：\n\n1. 用 2mm 铝板 VESA 固定电视的话会前后晃动得很厉害\n2. VESA 铝板打孔打错了，下面螺纹是 M6 但是上面通孔打成了 M5\n3. 三通件用普通的圆头螺丝还是太大了装不进去，必须用矮一些的半圆头螺丝\n\n重新设计了一下 VESA 背板，加了两个折弯点，希望这样横向强度应该就足够了...",
-    "views": 110,
+    "views": 111,
     "forwards": 1,
     "media_group_id": 13643737806158573,
     "files": [
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 112,
+    "views": 113,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43311,7 +43311,7 @@
     "id": 3204,
     "date": "2024-01-18T15:13:26",
     "text": "感觉自己密恐还是不太适合 AI 修图... 因为 AI 生成的结果里总是会出现很掉 san 的东西，经常会被生成完的一瞬间 jump scare，以至于之前修图的时候如果不把画布缩放到超级小都不敢点生成\n\n明明修这个图已经是一周前了，躺在床上闭上眼睛还是会时不时闪过掉 san 的碎片然后害怕得睡不着",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 114,
+    "views": 115,
     "forwards": 2,
     "files": [
       {
@@ -47850,7 +47850,7 @@
     "id": 3507,
     "date": "2024-03-22T04:13:23",
     "text": "我：胳膊的膝盖疼\n聊聊：那叫胳膊肘\n我：反正你也听懂了那就这样叫吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 301,
+    "views": 302,
     "forwards": 2
   },
   {
@@ -86746,7 +86746,7 @@
     "id": 6359,
     "date": "2025-08-26T03:18:07",
     "text": "出题人有没有想过 favicon 是会变的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 759,
+    "views": 760,
     "forwards": 8,
     "images": [
       {
@@ -88350,7 +88350,7 @@
     "id": 6499,
     "date": "2025-09-01T16:02:23",
     "text": "蓝夏和ゆり来日本玩，真是好久没见了，上次一起玩还是两年前在西雅图（ref: <a href=\"https://t.me/azaneko/2194\">回忆1</a> | <a href=\"https://t.me/azaneko/2538\">回忆2</a>）\n\n下午一起去了龍Q館，是电视上的超级炫酷的防灾地下神殿！实际上是用来调水压的洪水防御设施，是在东京湾上流春日<span class=\"spoiler\"><span>部</span></span>洪水多发区域防止洪水快速流向下流的调压水槽，有一个足球场大（它地上的部分 literally 是一个足球场 🌚）\n\n除了这个大水库以外还有五个立坑连接五条河流，中间通过四条隧道相连，总共可以缓冲 670,000,000L 的水，这么恐怖的规模，花了 2300 亿円造价，居然还只是首都圈外郭放水路的一小部分...\n\n不过虽然规模这么大，作用域反而挺有限的。它只解决了长时间大范围降雨导致的上流河流泛滥这一个特定的问题，反而对短时间市内极大暴雨或者海啸完全无效... 第一次觉得天气真的好恐怖 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "media_group_id": 14053940350744301,
     "images": [
@@ -88460,7 +88460,7 @@
     "id": 6509,
     "date": "2025-09-02T09:11:29",
     "text": "我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<span class=\"spoiler\"><span>好吧其实是写 paper 想测试一下 iPad 上的笔记软件能不能画 figure 然后导出无背景的 svg，发现直接复制粘贴到 tg 上就可以</span></span>",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "images": [
       {
@@ -88479,7 +88479,7 @@
     "id": 6510,
     "date": "2025-09-03T03:51:41",
     "text": "\"本次更新修改了软件名称，可能导致不可预期的 BUG\" <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n改名字不提前一个版本改更新包 URL 是吗\n\n（前情提要：Mihomo Party 改名为 Clash Party 了，发布的安装包文件名也从 <code>mihomo-party-{}</code> 改成 <code>clash-party-{}</code> 了，但是因为更新 URL 还是 <code>clash-party-{}</code> 所以会更新失败）",
-    "views": 232,
+    "views": 233,
     "forwards": 1,
     "media_group_id": 14054972008063501,
     "images": [
@@ -88509,7 +88509,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "reply": {
       "id": 6510,
@@ -88678,7 +88678,7 @@
     "id": 6522,
     "date": "2025-09-06T14:41:16",
     "text": "今天去了 <a href=\"https://nt-tokyo.org/\">NT 東京</a>，是一个 DIY 科技展，全称「なんか作ってみた」翻译过来的话就是「随便做了点什么」展，简直是天堂 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n整理几个最喜欢的吧\n\n1. 一个 3D RGB 矩阵\n2. 点餐乐器，每个点餐按钮都是一个乐器音色\n3. 能用一只尖角独立的方块机器人\n4. 盲文 LED 数显（有什么用啊！\n5. LED 树\n6. 很可爱的电动人偶\n7. 用铜线做的立体电路表\n8. 时针控制的迷你合成器\n9. 超炫酷盔甲（还有会发光的刀！\n10. 超迷你的合法摩托车\n\n我真的超喜欢这些除了炫酷没有别的意义的电子手工，不用考虑 funding 不用考虑 scalability 才能做出世界独一无二的东西啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 2,
     "media_group_id": 14057357408743357,
     "images": [
@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 1070,
+    "views": 1071,
     "forwards": 12
   },
   {
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 560,
+    "views": 561,
     "forwards": 13
   },
   {
@@ -101695,7 +101695,7 @@
     "id": 7585,
     "date": "2025-12-25T14:14:27",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n圣诞快乐！",
-    "views": 246,
+    "views": 247,
     "forwards": 3,
     "files": [
       {
@@ -101778,7 +101778,7 @@
     "id": 7590,
     "date": "2025-12-26T15:14:03",
     "text": "聊聊帮我剪了头发，好看喵",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "images": [
       {
@@ -101797,7 +101797,7 @@
     "id": 7591,
     "date": "2025-12-27T06:40:25",
     "text": "<del>《后天》灾难现场</del>\n\n...实际上只是多伦多的一般雪天",
-    "views": 225,
+    "views": 226,
     "forwards": 1,
     "media_group_id": 14134541001383469,
     "images": [
@@ -101907,7 +101907,7 @@
     "id": 7601,
     "date": "2025-12-27T14:50:47",
     "text": "🐈‍⬛️",
-    "views": 241,
+    "views": 242,
     "forwards": 1,
     "media_group_id": 14134776379626749,
     "images": [
@@ -102026,7 +102026,7 @@
     "id": 7609,
     "date": "2025-12-29T11:44:17",
     "text": "整理地图，发现几个以前喜欢的店永久停业了...\n\n以及 2022 年开始停业翻修的 cinesphere 到现在都还没有重新开业",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "media_group_id": 14136069259341605,
     "images": [
@@ -102285,7 +102285,7 @@
     "id": 7634,
     "date": "2026-01-01T18:53:18",
     "text": "昨天的新年花火小会会！风真的超级大超级冷，从照片就能看出风有多大 🌚\n\n是和聊聊豆腐猫球松鼠一起去的，实际上对花火本身很失望，烟花真的太少了，而且一共只有两艘船在放。多伦多市资助的过年烟花还没有之前在北海道洞爷湖那边每晚一次的烟花规模大... 这种时候就好想念日本\n\n不过见到了很久没有见到的朋友，还拍到了好看照片，总之还是很开心啦 qwq\n\n以及能看出多伦多市政很用心，专门安排了免费公交地铁和「跨年快线」NYE EXPRESS（跨年快线听上去像是什么坐上去可以带我去下一年的时光机草）也确实有很多人挤在湖边看烟花... 要是烟花的规模可以对得起这么多人就好了",
-    "views": 170,
+    "views": 171,
     "forwards": 3,
     "media_group_id": 14138348790329469,
     "images": [
@@ -102365,7 +102365,7 @@
     "id": 7641,
     "date": "2026-01-01T19:06:16",
     "text": "然后今天和 syama 去虚拟京都看了烟花！\n\nvrc 里面的互动感觉真的好真实，感觉像是真的和 syama 一起在逛京都一样 qwq\n\n可惜看到看起来很好吃的焼き鳥和鯛焼き没法吃，用虚拟的手抓住它拿到嘴里只能吃到空气... 然后就好饿好饿好饿好饿好饿 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "media_group_id": 14138355013735245,
     "images": [
@@ -102465,7 +102465,7 @@
     "id": 7650,
     "date": "2026-01-02T03:18:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n锅！（日式火锅！）\n\nTracer 和 Celestium 过来一起吃了。感觉日式火锅也是好吃又好做又便宜又 scalable，四个人吃的食材总共花了不到 $30 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n怪不得摇曳露营里面喜欢在露营的时候煮锅 qwq",
-    "views": 195,
+    "views": 196,
     "forwards": 3,
     "media_group_id": 14138591297711077,
     "images": [
@@ -102545,7 +102545,7 @@
     "id": 7657,
     "date": "2026-01-02T20:59:57",
     "text": "窗户上刷了大蜗牛",
-    "views": 202,
+    "views": 204,
     "forwards": 0,
     "media_group_id": 14139100780291061,
     "images": [
@@ -102575,7 +102575,7 @@
     "id": 7659,
     "date": "2026-01-03T04:58:35",
     "text": "谷歌搜索 OrcaSlicer 前五个结果哪个是官网？\n\n1. <code>orca-slicer.com</code>\n2. <code>orcaslicer.net</code>\n3. <code>orcaslicer.org</code>\n4. <code>orcaslicer3d.com</code>\n5. <code>orcaslicer.pro</code>\n\n答：<span class=\"spoiler\"><span>全都不是！正确答案是 `orcaslicer.com`，还是去 github repo 上找到的，翻了十页都没找到</span></span>",
-    "views": 212,
+    "views": 213,
     "forwards": 3,
     "images": [
       {
@@ -102594,7 +102594,7 @@
     "id": 7660,
     "date": "2026-01-03T18:14:49",
     "text": "哭了，好讨厌苹果\n\nmenci 的苹果 pencil pro 不怎么用就送给我了。但是也因为她不怎么用，拿到的时候电池已经掉到 0% 了，充两天充不上电\n\n去线下找保修，发现保修只有一年... 然而因为 menci 是一年半之前买的，以及没有任何设备上了 Apple care，修的话要 $149 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>（买一个全新的只要 $159）",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "images": [
       {
@@ -102613,21 +102613,21 @@
     "id": 7661,
     "date": "2026-01-04T00:23:12",
     "text": "前几天有人提到 <a href=\"https://zh.wikipedia.org/wiki/2038%E5%B9%B4%E9%97%AE%E9%A2%98\">Y2038 问题</a>，就是用 int32 存储时间戳的程序在 2038-01-19 之后会溢出回到 1970 或者 1901 年的问题。当时还觉得肯定没事，毕竟至少我已经不记得上次见到 32 位系统和用 int32 存储时间的程序是什么时候了\n\n但是今天看着日历发呆的时候就在想，难道 int64 就真的够吗？虽然几乎所有程序都换成用 int64 存时间戳了，但是随着能存储的信息增加，大家期望的精度也上升了...之前用 int32 存的是秒，现在至少我写的程序获取时间的时候都是用纳秒 (1ns = 10^-9s)，但是这么高精度即使用 int64 存也依然很有限，到 2262 年也依然会出现同样的溢出问题...\n\n到那时候 int128 会已经普及了吗？精度会继续增加吗？还是会直接跳过它用 int256 去存「时间的最小单位」普朗克时间呢？那时候的个人计算设备还会是二进制硅基计算机吗？<del>会不会在宇宙的尽头，在 292,277,026,596 年后，依然会有某台飘在无尽虚空中的放射发电机器人突然回到 1970 呢？</del>\n\n...一年在时间的 scale 下真的好短好短",
-    "views": 193,
+    "views": 194,
     "forwards": 2
   },
   {
     "id": 7662,
     "date": "2026-01-04T15:36:26",
     "text": "想用 amd gpu 跑一些 3dgs，左看右看全都是强依赖 cuda 的仓库... 好讨厌",
-    "views": 174,
+    "views": 175,
     "forwards": 0
   },
   {
     "id": 7663,
     "date": "2026-01-04T15:40:34",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤 & 煎三文鱼腩！\n\n三文鱼腩也好便宜，和鸡肉差不多的价格。不过煎完还是太油了，用空气炸锅烤好一些但是很容易烤焦... 如果可以用炭火烤就好了",
-    "views": 178,
+    "views": 180,
     "forwards": 1,
     "media_group_id": 14140329874033845,
     "images": [
@@ -102687,7 +102687,7 @@
     "id": 7668,
     "date": "2026-01-04T18:57:58",
     "text": "<a href=\"##桂桂今天没吃什么\">#桂桂今天没吃什么</a>\n焦炭 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n空气炸锅翻车翻成这样还是第一次",
-    "views": 174,
+    "views": 175,
     "forwards": 1,
     "images": [
       {
@@ -102706,7 +102706,7 @@
     "id": 7669,
     "date": "2026-01-04T19:35:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤鸡皮！（二周目）\n\n还是正经烤箱烤得均匀一点... 之前用空气炸锅烤成焦炭是因为烤到一面熟了的时候另一面还很生，想翻面再烤烤就烤焦了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及鸡皮 $2 可以买到 1.5kg 真是超便宜",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "images": [
       {
@@ -102725,7 +102725,7 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 263,
+    "views": 265,
     "forwards": 7,
     "images": [
       {
@@ -102744,7 +102744,7 @@
     "id": 7671,
     "date": "2026-01-04T22:13:23",
     "text": "以及发现了一些彩蛋 / bug\n（剧透警告）<span class=\"spoiler\"><span>\n\n虽然一般流程下最后的 boss 会让你做一个虾天天天天天天天天天天天天天天天天天天天妇罗，做到一半就会 stack overflow 把宇宙炸掉。但是只要刚开始游戏就把它做出来的话就可以给她吃让宇宙不会炸掉了\n\n以及，在宇宙炸掉之后只是在游戏界面上多加了一个图层，并没有关掉互动逻辑，所以在宇宙尽头也可以继续炸天妇罗 qwq（甚至可以再炸一次宇宙）</span></span>",
-    "views": 195,
+    "views": 197,
     "forwards": 0,
     "reply": {
       "id": 7670,
@@ -102771,15 +102771,15 @@
     "id": 7672,
     "date": "2026-01-05T04:53:36",
     "text": "明天要开学了\n\n不知道为什么，实际上很期待开学",
-    "views": 184,
+    "views": 186,
     "forwards": 0
   },
   {
     "id": 7674,
     "date": "2026-01-06T04:54:36",
     "text": "复制钥匙",
-    "views": 141,
-    "forwards": 2,
+    "views": 144,
+    "forwards": 3,
     "media_group_id": 14141402211502797,
     "images": [
       {
