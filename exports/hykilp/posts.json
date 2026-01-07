@@ -43901,7 +43901,7 @@
     "id": 3247,
     "date": "2024-01-25T04:14:01",
     "text": "做了一个 Pusheen theme!",
-    "views": 540,
+    "views": 541,
     "forwards": 11,
     "images": [
       {
@@ -63702,7 +63702,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 235,
+    "views": 236,
     "forwards": 1,
     "images": [
       {
@@ -86887,7 +86887,7 @@
     "id": 6370,
     "date": "2025-08-26T16:56:31",
     "text": "syama 捡了一只猫回家，但是毫无准备，所以我赶快美团买了些零食和工具送过去，现在猫猫看起来还不错，不知道猫怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> <a href=\"##猫\">#猫</a>",
-    "views": 264,
+    "views": 265,
     "forwards": 4,
     "media_group_id": 14049819133094989,
     "images": [
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 342,
+    "views": 343,
     "forwards": 2
   },
   {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1962,
+    "views": 1963,
     "forwards": 17,
     "reply": {
       "id": 7210,
@@ -102465,7 +102465,7 @@
     "id": 7650,
     "date": "2026-01-02T03:18:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n锅！（日式火锅！）\n\nTracer 和 Celestium 过来一起吃了。感觉日式火锅也是好吃又好做又便宜又 scalable，四个人吃的食材总共花了不到 $30 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n怪不得摇曳露营里面喜欢在露营的时候煮锅 qwq",
-    "views": 194,
+    "views": 195,
     "forwards": 3,
     "media_group_id": 14138591297711077,
     "images": [
@@ -102545,7 +102545,7 @@
     "id": 7657,
     "date": "2026-01-02T20:59:57",
     "text": "窗户上刷了大蜗牛",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "media_group_id": 14139100780291061,
     "images": [
@@ -102575,7 +102575,7 @@
     "id": 7659,
     "date": "2026-01-03T04:58:35",
     "text": "谷歌搜索 OrcaSlicer 前五个结果哪个是官网？\n\n1. <code>orca-slicer.com</code>\n2. <code>orcaslicer.net</code>\n3. <code>orcaslicer.org</code>\n4. <code>orcaslicer3d.com</code>\n5. <code>orcaslicer.pro</code>\n\n答：<span class=\"spoiler\"><span>全都不是！正确答案是 `orcaslicer.com`，还是去 github repo 上找到的，翻了十页都没找到</span></span>",
-    "views": 211,
+    "views": 212,
     "forwards": 3,
     "images": [
       {
@@ -102613,7 +102613,7 @@
     "id": 7661,
     "date": "2026-01-04T00:23:12",
     "text": "前几天有人提到 <a href=\"https://zh.wikipedia.org/wiki/2038%E5%B9%B4%E9%97%AE%E9%A2%98\">Y2038 问题</a>，就是用 int32 存储时间戳的程序在 2038-01-19 之后会溢出回到 1970 或者 1901 年的问题。当时还觉得肯定没事，毕竟至少我已经不记得上次见到 32 位系统和用 int32 存储时间的程序是什么时候了\n\n但是今天看着日历发呆的时候就在想，难道 int64 就真的够吗？虽然几乎所有程序都换成用 int64 存时间戳了，但是随着能存储的信息增加，大家期望的精度也上升了...之前用 int32 存的是秒，现在至少我写的程序获取时间的时候都是用纳秒 (1ns = 10^-9s)，但是这么高精度即使用 int64 存也依然很有限，到 2262 年也依然会出现同样的溢出问题...\n\n到那时候 int128 会已经普及了吗？精度会继续增加吗？还是会直接跳过它用 int256 去存「时间的最小单位」普朗克时间呢？那时候的个人计算设备还会是二进制硅基计算机吗？<del>会不会在宇宙的尽头，在 292,277,026,596 年后，依然会有某台飘在无尽虚空中的放射发电机器人突然回到 1970 呢？</del>\n\n...一年在时间的 scale 下真的好短好短",
-    "views": 192,
+    "views": 193,
     "forwards": 2
   },
   {
@@ -102627,7 +102627,7 @@
     "id": 7663,
     "date": "2026-01-04T15:40:34",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤 & 煎三文鱼腩！\n\n三文鱼腩也好便宜，和鸡肉差不多的价格。不过煎完还是太油了，用空气炸锅烤好一些但是很容易烤焦... 如果可以用炭火烤就好了",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "media_group_id": 14140329874033845,
     "images": [
@@ -102687,7 +102687,7 @@
     "id": 7668,
     "date": "2026-01-04T18:57:58",
     "text": "<a href=\"##桂桂今天没吃什么\">#桂桂今天没吃什么</a>\n焦炭 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n空气炸锅翻车翻成这样还是第一次",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "images": [
       {
@@ -102706,7 +102706,7 @@
     "id": 7669,
     "date": "2026-01-04T19:35:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤鸡皮！（二周目）\n\n还是正经烤箱烤得均匀一点... 之前用空气炸锅烤成焦炭是因为烤到一面熟了的时候另一面还很生，想翻面再烤烤就烤焦了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及鸡皮 $2 可以买到 1.5kg 真是超便宜",
-    "views": 178,
+    "views": 179,
     "forwards": 1,
     "images": [
       {
@@ -102725,8 +102725,8 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 261,
-    "forwards": 6,
+    "views": 263,
+    "forwards": 7,
     "images": [
       {
         "width": 1920,
@@ -102744,7 +102744,7 @@
     "id": 7671,
     "date": "2026-01-04T22:13:23",
     "text": "以及发现了一些彩蛋 / bug\n（剧透警告）<span class=\"spoiler\"><span>\n\n虽然一般流程下最后的 boss 会让你做一个虾天天天天天天天天天天天天天天天天天天天妇罗，做到一半就会 stack overflow 把宇宙炸掉。但是只要刚开始游戏就把它做出来的话就可以给她吃让宇宙不会炸掉了\n\n以及，在宇宙炸掉之后只是在游戏界面上多加了一个图层，并没有关掉互动逻辑，所以在宇宙尽头也可以继续炸天妇罗 qwq（甚至可以再炸一次宇宙）</span></span>",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "reply": {
       "id": 7670,
@@ -102771,14 +102771,14 @@
     "id": 7672,
     "date": "2026-01-05T04:53:36",
     "text": "明天要开学了\n\n不知道为什么，实际上很期待开学",
-    "views": 183,
+    "views": 184,
     "forwards": 0
   },
   {
     "id": 7674,
     "date": "2026-01-06T04:54:36",
     "text": "复制钥匙",
-    "views": 139,
+    "views": 141,
     "forwards": 2,
     "media_group_id": 14141402211502797,
     "images": [
