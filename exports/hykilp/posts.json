@@ -63555,7 +63555,7 @@
     "id": 4635,
     "date": "2024-11-08T06:20:26",
     "text": "发现有人做了 <a href=\"https://github.com/ouch-org/ouch\">ouch</a>，是一个跨格式压缩工具，有了它就不再需要记每个压缩格式的指令怎么用了 qwq",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "reply": {
       "id": 4632,
@@ -63567,7 +63567,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63597,7 +63597,7 @@
     "id": 4638,
     "date": "2024-11-08T08:58:54",
     "text": "\"courier transform\"",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "media_group_id": 13848450678209493,
     "images": [
@@ -63627,7 +63627,7 @@
     "id": 4640,
     "date": "2024-11-09T13:27:23",
     "text": "讲真，搭好 typst 环境比 latex 容易太多了，无论本地还是在线都是\n\n（翻邮件看到今天有人回我 2022 年开的 issue 似乎是遇到了同样的问题没办法搭好 overleaf 的开发环境，这还是他们重构之后的，唉有些代码库真的永远不会变",
-    "views": 165,
+    "views": 166,
     "forwards": 0,
     "images": [
       {
@@ -63646,14 +63646,14 @@
     "id": 4641,
     "date": "2024-11-09T13:37:22",
     "text": "感冒了，但是因为有作业 overdue 被迫通宵... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 0
   },
   {
     "id": 4642,
     "date": "2024-11-11T00:39:52",
     "text": "每月去 JLC 白嫖打一套板子 (1/2)",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "images": [
       {
@@ -63672,7 +63672,7 @@
     "id": 4643,
     "date": "2024-11-11T01:36:15",
     "text": "呜呜 昨天和 syama 例常打 facetime 电话，然后今天被派出所找上门了... 不知道是怎么检测的，可能需要抓包把 facetime 域名加到代理规则里",
-    "views": 171,
+    "views": 172,
     "forwards": 4
   },
   {
@@ -63702,7 +63702,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "images": [
       {
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
@@ -88509,7 +88509,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 232,
+    "views": 233,
     "forwards": 1,
     "reply": {
       "id": 6510,
@@ -88533,7 +88533,7 @@
     "id": 6513,
     "date": "2025-09-05T10:40:44",
     "text": "Typst 好草台啊\n\n写纸，我把纸同步到 github 上，在<i class=\"custom-emoji\" emoji-src=\"emoji/6327609909416298142.tgs\">💻</i>上编辑完之后传了一个 CRLF 的文件上去，然后 everything explodes <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n<a href=\"https://github.com/typst/webapp-issues/issues/713\">提了 issue</a>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "media_group_id": 14056550757339653,
     "images": [
@@ -88563,14 +88563,14 @@
     "id": 6515,
     "date": "2025-09-05T10:50:18",
     "text": "原本想这次写纸试试用 typst，结果遇到问题还是需要换回 latex 了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n感觉还是这个问题：用 latex 出问题的时候不会有上司问你为什么要用 latex，但是用 typst 出一点问题就绝对会被问为什么要用 typst\n\n除了 CLRF 的问题以外还有公式格式前面没有编号的问题，毕竟这个 ieee.typ 模板是 typst 开发者做的而不是 IEEE 官方做的，用它写的话会有被因为格式拒稿的风险... 所以还是准备换回 latex 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 251,
+    "views": 252,
     "forwards": 0
   },
   {
     "id": 6516,
     "date": "2025-09-05T13:28:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \nlain 的 OP 真好听啊\n\n♪ And you don't seem to understand\n\n<del>开口雷击，别骂了我确实没看懂上一集讲了啥</del>\n\n<a href=\"https://www.nicovideo.jp/watch/sm29904947\">MV</a>",
-    "views": 252,
+    "views": 253,
     "forwards": 2,
     "files": [
       {
@@ -89049,7 +89049,7 @@
     "id": 6549,
     "date": "2025-09-07T21:08:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "files": [
       {
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 388,
+    "views": 389,
     "forwards": 7,
     "files": [
       {
@@ -89094,14 +89094,14 @@
     "id": 6551,
     "date": "2025-09-09T05:26:39",
     "text": "看到招财猫迷思：如果一家店养了一只猫我肯定会去看看，但是如果是摆了一个陶瓷招财猫反而会觉得老套不想去... 所以不招财的猫比招财猫更招财（？）\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 253,
+    "views": 254,
     "forwards": 0
   },
   {
     "id": 6552,
     "date": "2025-09-09T08:40:48",
     "text": "唉... 想起四年前在加拿大买到了一箱 Asahi 的麻辣鸡白汤泡粉条，然后因为它停产了还挺伤心的，留着最后五杯一直没有吃已经放过期了还想着什么时候逆向一下来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n现在到了日本发现停产真的是太常见了，每周都有新的种类发售，也有旧的种类停产，也许一个味道没办法在未来重现有点可惜，但是至少永远不会缺好吃的东西",
-    "views": 263,
+    "views": 264,
     "forwards": 0,
     "reply": {
       "id": 766,
@@ -89113,14 +89113,14 @@
     "id": 6553,
     "date": "2025-09-09T16:42:55",
     "text": "白天超级困，晚上睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 308,
+    "views": 309,
     "forwards": 2
   },
   {
     "id": 6554,
     "date": "2025-09-10T07:03:01",
     "text": "Typst 语言真的好科学... 作为程序语言已经比大部分程序语言都顺手了",
-    "views": 271,
+    "views": 272,
     "forwards": 1,
     "reply": {
       "id": 6515,
@@ -89143,14 +89143,14 @@
     "id": 6555,
     "date": "2025-09-10T13:13:46",
     "text": "很难想象，作为喜欢街机音游喜欢到在家里自己搭机器的人，来日本之后快四个月了总共只去了两次机厅，只登录了 1 次 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>\n\n可能真的是越难得到就越会让我感兴趣吧，随时都可以去反而就没意思了",
-    "views": 254,
+    "views": 255,
     "forwards": 0
   },
   {
     "id": 6556,
     "date": "2025-09-10T17:21:53",
     "text": "来日本之前觉得神社必须有鸟居有参道手水舍狛犬拜殿本殿幣殿社務所御神籤注連繩\n\n现在看过无数个神社之后总结发现以上这些全都可以没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> <del>在桌上摆一个迷你赛钱箱也可以是神社</del>",
-    "views": 261,
+    "views": 262,
     "forwards": 1,
     "images": [
       {
@@ -89169,7 +89169,7 @@
     "id": 6557,
     "date": "2025-09-10T17:51:36",
     "text": "迷你塞钱箱有人 get 到了",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "reply": {
       "id": 6556,
@@ -89192,7 +89192,7 @@
     "id": 6558,
     "date": "2025-09-11T01:05:54",
     "text": "被自己蠢哭了\n\n五个月前写了这段黑名单代码，以为空列表 falsy 就直接写 <code>!!</code> 来判断是否为空了\n\n然后今天才意识到 JS 里空列表是 truthy，和 python 行为是反的... 导致所有域名都被判定为在黑名单里\n\n更重要的是居然这段代码部署五个月之后才有人来反馈问题... 可能别人看到黑名单消息就以为是自己的服务器被黑名单了就不会来反馈问题吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 327,
+    "views": 328,
     "forwards": 2,
     "media_group_id": 14060422032265693,
     "images": [
@@ -89302,7 +89302,7 @@
     "id": 6567,
     "date": "2025-09-11T07:52:40",
     "text": "今日心情 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 278,
+    "views": 279,
     "forwards": 1,
     "media_group_id": 14060617282013877,
     "images": [
@@ -89352,7 +89352,7 @@
     "id": 6571,
     "date": "2025-09-11T11:49:42",
     "text": "...非常努力地在 typst 里面尝试 match 格式之后依然被要求搬到 latex 了（悲）",
-    "views": 301,
+    "views": 302,
     "forwards": 0,
     "reply": {
       "id": 6554,
@@ -89363,7 +89363,7 @@
     "id": 6572,
     "date": "2025-09-12T09:56:10",
     "text": "也许这次实习让我意识到了自己其实不想留在 academia，因为至少在我心中做研究的最终目的不应该是去写出一张纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323475221709850605.webp\">😭</i>",
-    "views": 304,
+    "views": 305,
     "forwards": 3,
     "images": [
       {
@@ -89381,7 +89381,7 @@
   {
     "id": 6573,
     "date": "2025-09-12T18:39:54",
-    "views": 257,
+    "views": 258,
     "forwards": 0,
     "images": [
       {
@@ -102706,7 +102706,7 @@
     "id": 7669,
     "date": "2026-01-04T19:35:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤鸡皮！（二周目）\n\n还是正经烤箱烤得均匀一点... 之前用空气炸锅烤成焦炭是因为烤到一面熟了的时候另一面还很生，想翻面再烤烤就烤焦了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及鸡皮 $2 可以买到 1.5kg 真是超便宜",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "images": [
       {
@@ -102725,7 +102725,7 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 294,
+    "views": 296,
     "forwards": 7,
     "images": [
       {
@@ -102771,7 +102771,7 @@
     "id": 7672,
     "date": "2026-01-05T04:53:36",
     "text": "明天要开学了\n\n不知道为什么，实际上很期待开学",
-    "views": 201,
+    "views": 202,
     "forwards": 0
   },
   {
