@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7419,
+    "views": 7420,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1887,
+    "views": 1888,
     "forwards": 52
   },
   {
@@ -73013,7 +73013,7 @@
     "id": 5285,
     "date": "2025-04-28T03:39:16",
     "text": "猫猫本能：把通关需要的电池丢下去了 然后解锁了一个成就",
-    "views": 711,
+    "views": 712,
     "forwards": 0,
     "files": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 966,
+    "views": 967,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1222,
+    "views": 1223,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6406,
+    "views": 6407,
     "forwards": 150,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 634,
+    "views": 635,
     "forwards": 0,
     "images": [
       {
@@ -73169,14 +73169,14 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 555,
+    "views": 556,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 521,
+    "views": 522,
     "forwards": 1,
     "media_group_id": 13968493560159205,
     "images": [
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 606,
+    "views": 607,
     "forwards": 1,
     "images": [
       {
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 785,
+    "views": 786,
     "forwards": 21,
     "media_group_id": 13969322433734669,
     "images": [
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 572,
+    "views": 573,
     "forwards": 3,
     "media_group_id": 13969779211072469,
     "images": [
@@ -73320,7 +73320,7 @@
     "id": 5306,
     "date": "2025-05-04T02:09:28",
     "text": "<a href=\"##TIL\">#TIL</a> 我居然写了七八年前端，今天才知道原来 <code><div/></code> 和 <code><div></div></code> 是不一样的...\n\n其实应该说，在原生 HTML 里这两个不一样，但是在 Svelte 里面是一样的。原生会直接忽略掉 <code>/></code> 变成一个只有开没有关的 div，但是 Svelte 会像上面那样把它按照 XML 解析成开了之后马上关上\n\n...所以今天的另一个 <a href=\"##TIL\">#TIL</a> 是 Svelte 的 HTML 语法居然和原生不一样，即使区别很微妙而且大部分人不会注意到，但是也有被震撼",
-    "views": 522,
+    "views": 523,
     "forwards": 6,
     "images": [
       {
@@ -73339,7 +73339,7 @@
     "id": 5307,
     "date": "2025-05-04T20:46:08",
     "text": "发现自己体力好差...\n\n今天想去附近的一家餐厅，打车 $8 好贵，走路 18 分钟又觉得太慢了，所以决定试试骑车去。手术之前骑 15km 都没什么的话，现在骑 1.5km 也不会有事的吧\n\n刚开始还好，但是快到的时候下车突然头晕想吐感觉要晕过去了，和刚手术完缺血的时候脑缺氧的感觉一样... 原地坐了一会才勉强能推着车继续走\n\n明明已经过了四个月了... 什么时候体力才能恢复呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 416,
+    "views": 417,
     "forwards": 1,
     "media_group_id": 13971132545872317,
     "images": [
@@ -73388,7 +73388,7 @@
     "id": 5310,
     "date": "2025-05-05T04:13:26",
     "text": "看<a href=\"https://t.me/rynif/36626\">隔壁频道</a>填了这个游戏喜好表我也来填一下，尽力用了最近玩过或者记忆依然很清楚的游戏，也尽力没有重复... 有太多很好的选择了填表好费力 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n记得超级久之前填过一次，但是找不到了，这两次的答案肯定很不一样吧",
-    "views": 494,
+    "views": 495,
     "forwards": 3,
     "images": [
       {
@@ -73407,14 +73407,14 @@
     "id": 5311,
     "date": "2025-05-05T04:35:40",
     "text": "聊聊：桂桂为什么会在说话的时候像扇翅膀一样挥胳膊\n我：我前世大概是鸟吧\n聊聊：太好了，猫吃鸟（/吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n我：<i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 但是飞行系克草耶",
-    "views": 412,
+    "views": 413,
     "forwards": 0
   },
   {
     "id": 5312,
     "date": "2025-05-05T23:28:26",
     "text": "今天也骑车去了，但是今天没有晕过去！看来还是需要更多运动才能习惯呢 quq\n\n（今天吃了烤肉肉三明治",
-    "views": 415,
+    "views": 416,
     "forwards": 0,
     "reply": {
       "id": 5307,
@@ -73438,7 +73438,7 @@
     "id": 5313,
     "date": "2025-05-05T23:39:01",
     "text": "今生第二次错过毕业仪式",
-    "views": 410,
+    "views": 411,
     "forwards": 0,
     "images": [
       {
@@ -73457,7 +73457,7 @@
     "id": 5314,
     "date": "2025-05-07T04:48:40",
     "text": "<del>需要改水冷</del>",
-    "views": 343,
+    "views": 344,
     "forwards": 0,
     "images": [
       {
@@ -73476,7 +73476,7 @@
     "id": 5315,
     "date": "2025-05-07T10:41:07",
     "text": "在床上聊天聊起回忆，聊到小时候超级喜欢 Tron Legacy，当时买了 BD 光碟还刷了好多遍，但是不记得讲什么了只记得摩托车和丢飞盘很炫酷！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<span class=\"spoiler\"><span>（meanwhile 聊聊只看了两遍却能背出台词... 这就是记忆力的差距吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</span></span></i>\n\n不过我们上次看这部电影都已经是十几年前了，有点想知道以现在的审美看它会觉得怎么样，所以就即兴和聊聊重新看了一遍！结果就是... <span class=\"spoiler\"><span>现在依然觉得摩托车和丢飞盘很炫酷！</span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i>\n\n仔细想想的话，这部电影剧情叙事还是设定都有很大问题，看起来高科技也只是用计算机的名词讲了飞盘与魔法... 不过也正是这样无厘头的设定才能够让它所设想的世界可以这样炫酷，也没什么不好嘛<span class=\"spoiler\"><span>（真实的程序员/黑客工作画面很无聊的哦！</span></span>\n\n（以及真的超喜欢 daft punk 的配乐！原来我听的第一首 daft punk 在这里 qwq",
-    "views": 308,
+    "views": 309,
     "forwards": 2,
     "media_group_id": 13972915740570293,
     "images": [
@@ -85381,7 +85381,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 854,
+    "views": 855,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8411,
+    "views": 8412,
     "forwards": 174,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85438,7 +85438,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 457,
+    "views": 458,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -86113,7 +86113,7 @@
     "id": 6311,
     "date": "2025-08-21T05:17:36",
     "text": "经过野守的时候看到他们在举办野守祭り，就去凑凑热闹，看到了比上次更大规模的花火大会！\n\n拍到了更好看的照片，还有一张手抖出奇迹 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n不过真的在考虑下次去花火大会不带相机了...这两次太在意拍照片，结果看到的花火全都是透过相机的画幅看到的，自己反而什么都没看到 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "media_group_id": 14046027654578013,
     "images": [
@@ -88460,7 +88460,7 @@
     "id": 6509,
     "date": "2025-09-02T09:11:29",
     "text": "我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<span class=\"spoiler\"><span>好吧其实是写 paper 想测试一下 iPad 上的笔记软件能不能画 figure 然后导出无背景的 svg，发现直接复制粘贴到 tg 上就可以</span></span>",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "images": [
       {
@@ -88479,7 +88479,7 @@
     "id": 6510,
     "date": "2025-09-03T03:51:41",
     "text": "\"本次更新修改了软件名称，可能导致不可预期的 BUG\" <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n改名字不提前一个版本改更新包 URL 是吗\n\n（前情提要：Mihomo Party 改名为 Clash Party 了，发布的安装包文件名也从 <code>mihomo-party-{}</code> 改成 <code>clash-party-{}</code> 了，但是因为更新 URL 还是 <code>clash-party-{}</code> 所以会更新失败）",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "media_group_id": 14054972008063501,
     "images": [
@@ -88509,7 +88509,7 @@
     "id": 6512,
     "date": "2025-09-03T04:09:49",
     "text": "vibe closing as not planned <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "reply": {
       "id": 6510,
@@ -88638,7 +88638,7 @@
     "id": 6519,
     "date": "2025-09-06T13:52:59",
     "text": "皇居前的野生乌龟！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "media_group_id": 14057334235122309,
     "images": [
@@ -89049,7 +89049,7 @@
     "id": 6549,
     "date": "2025-09-07T21:08:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "files": [
       {
@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 389,
+    "views": 390,
     "forwards": 7,
     "files": [
       {
@@ -89094,14 +89094,14 @@
     "id": 6551,
     "date": "2025-09-09T05:26:39",
     "text": "看到招财猫迷思：如果一家店养了一只猫我肯定会去看看，但是如果是摆了一个陶瓷招财猫反而会觉得老套不想去... 所以不招财的猫比招财猫更招财（？）\n<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 254,
+    "views": 255,
     "forwards": 0
   },
   {
     "id": 6552,
     "date": "2025-09-09T08:40:48",
     "text": "唉... 想起四年前在加拿大买到了一箱 Asahi 的麻辣鸡白汤泡粉条，然后因为它停产了还挺伤心的，留着最后五杯一直没有吃已经放过期了还想着什么时候逆向一下来着 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n现在到了日本发现停产真的是太常见了，每周都有新的种类发售，也有旧的种类停产，也许一个味道没办法在未来重现有点可惜，但是至少永远不会缺好吃的东西",
-    "views": 264,
+    "views": 265,
     "forwards": 0,
     "reply": {
       "id": 766,
@@ -89665,7 +89665,7 @@
     "id": 6597,
     "date": "2025-09-16T14:41:27",
     "text": "好讨厌好讨厌雅虎\n\n第一次想在雅虎拍买的时候无论如何都注册不上，安卓苹果 Win、各种浏览器、流量还是宽带都试了，没有一个可以让我注册。过了几个小时又试了一次还是不行，第二天早上也不行，第二天下午再试了一次才注册上，成功买到了东西\n\n这次买的东西贵了一点，结账没意识到选错卡了，选了一张没有余额的卡被拒绝了两次，换张卡尝试结账第三次的时候所有设备都被踢出登录然后直接不让我登录了... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "media_group_id": 14064269499050461,
     "images": [
@@ -89733,7 +89733,7 @@
     "id": 6602,
     "date": "2025-09-17T01:57:29",
     "text": "menci 和我抱怨 kt 没有 [a, b] 和 {a: b} 的语法，每次都要写 mapOf(a to b) 好长好不顺手\n\n我立即写宏实现了这个东西 qwq\n\n我最喜欢 kt 就是因为它自由，如果有不喜欢的语法只要自己用宏定义新的语法就行了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 267,
+    "views": 268,
     "forwards": 2,
     "images": [
       {
@@ -89752,13 +89752,13 @@
     "id": 6603,
     "date": "2025-09-17T04:38:59",
     "text": "安慰剂\n\n小学天天做眼保健操导致我到现在眼睛疼的时候第一反应还是做眼保健操...",
-    "views": 243,
+    "views": 244,
     "forwards": 0
   },
   {
     "id": 6604,
     "date": "2025-09-18T07:03:13",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "files": [
       {
@@ -89783,7 +89783,7 @@
     "id": 6605,
     "date": "2025-09-18T09:51:37",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 0,
     "images": [
       {
@@ -89802,7 +89802,7 @@
     "id": 6606,
     "date": "2025-09-18T11:35:42",
     "text": "写完纸终于有时间继续整理之前的照片啦\n\n上周末去露营之前还去了三鹰吉トカ美术馆！有很多想要记下来的事情，馆内不让拍照太可惜了...\n\n也许印象最深的是「映画の生まれる場所」，穿过超复古的工作房间，了解到了一部吉トカ动画从满墙草稿到一卷完整的电影胶片的过程。\n\n似乎是单独用水彩画背景前景，背景画在纸上、前景画在透明塑料片上，然后用机器移动前景的同时用相机录下来... 2023 年的「苍鹭与少年」也是这样画的，居然从 1984 到 2023 一直坚持在用这么 analog 的过程作画，好厉害！\n\n另一个很喜欢的房间是苍鹭与少年的特别展示，盯着明信片大的水彩背景画第一次觉得眼睛的分辨率不够用 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "media_group_id": 14065562742699149,
     "images": [
@@ -89887,7 +89887,7 @@
     "id": 6613,
     "date": "2025-09-18T12:17:32",
     "text": "不过手画 + 胶片录制的好处就是完全看不到像素点，如果哪天开始流行 8k 480fps 电影了也能很轻松重制\n\n入场的时候送给我了三帧胶片，对着灯光按下快门依然无限清晰",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "media_group_id": 14065582820507829,
     "images": [
@@ -90130,7 +90130,7 @@
     "id": 6632,
     "date": "2025-09-20T11:21:35",
     "text": "来日本之后第一次旅行就去了这个高松灯圣地水族馆，今天因为 syama 住池袋旁边就又去了一趟，不过这次是在天上 qwq\n\n企鹅在天上飞，猫也在天上飞 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n以及展望台上有涂得超好看的钢琴，去弹了弹，可惜有点跑调...（唉感觉还是电钢琴适合放在公共区域，至少不会跑调）",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 14066938361045525,
     "images": [
@@ -102613,14 +102613,14 @@
     "id": 7661,
     "date": "2026-01-04T00:23:12",
     "text": "前几天有人提到 <a href=\"https://zh.wikipedia.org/wiki/2038%E5%B9%B4%E9%97%AE%E9%A2%98\">Y2038 问题</a>，就是用 int32 存储时间戳的程序在 2038-01-19 之后会溢出回到 1970 或者 1901 年的问题。当时还觉得肯定没事，毕竟至少我已经不记得上次见到 32 位系统和用 int32 存储时间的程序是什么时候了\n\n但是今天看着日历发呆的时候就在想，难道 int64 就真的够吗？虽然几乎所有程序都换成用 int64 存时间戳了，但是随着能存储的信息增加，大家期望的精度也上升了...之前用 int32 存的是秒，现在至少我写的程序获取时间的时候都是用纳秒 (1ns = 10^-9s)，但是这么高精度即使用 int64 存也依然很有限，到 2262 年也依然会出现同样的溢出问题...\n\n到那时候 int128 会已经普及了吗？精度会继续增加吗？还是会直接跳过它用 int256 去存「时间的最小单位」普朗克时间呢？那时候的个人计算设备还会是二进制硅基计算机吗？<del>会不会在宇宙的尽头，在 292,277,026,596 年后，依然会有某台飘在无尽虚空中的放射发电机器人突然回到 1970 呢？</del>\n\n...一年在时间的 scale 下真的好短好短",
-    "views": 246,
+    "views": 248,
     "forwards": 2
   },
   {
     "id": 7662,
     "date": "2026-01-04T15:36:26",
     "text": "想用 amd gpu 跑一些 3dgs，左看右看全都是强依赖 cuda 的仓库... 好讨厌",
-    "views": 227,
+    "views": 228,
     "forwards": 0
   },
   {
@@ -102744,7 +102744,7 @@
     "id": 7671,
     "date": "2026-01-04T22:13:23",
     "text": "以及发现了一些彩蛋 / bug\n（剧透警告）<span class=\"spoiler\"><span>\n\n虽然一般流程下最后的 boss 会让你做一个虾天天天天天天天天天天天天天天天天天天天妇罗，做到一半就会 stack overflow 把宇宙炸掉。但是只要刚开始游戏就把它做出来的话就可以给她吃让宇宙不会炸掉了\n\n以及，在宇宙炸掉之后只是在游戏界面上多加了一个图层，并没有关掉互动逻辑，所以在宇宙尽头也可以继续炸天妇罗 qwq（甚至可以再炸一次宇宙）</span></span>",
-    "views": 311,
+    "views": 312,
     "forwards": 0,
     "reply": {
       "id": 7670,
@@ -102771,14 +102771,14 @@
     "id": 7672,
     "date": "2026-01-05T04:53:36",
     "text": "明天要开学了\n\n不知道为什么，实际上很期待开学",
-    "views": 309,
+    "views": 310,
     "forwards": 0
   },
   {
     "id": 7674,
     "date": "2026-01-06T04:54:36",
     "text": "复制钥匙",
-    "views": 306,
+    "views": 307,
     "forwards": 4,
     "media_group_id": 14141402211502797,
     "images": [
@@ -102808,7 +102808,7 @@
     "id": 7675,
     "date": "2026-01-10T02:11:22",
     "text": "是滑铁卢人了！\n\n虽然已经开学了一周，但是才刚刚拿到学生卡\n\n感觉这次开学好赶，开学当天才刚刚定下来住址，已经上一周课了之后新家还只是露营的状态，刚把网络 setup 好，只搬过来了服务器和睡觉装备（充气床垫和被子），其他东西还没有搬过来...\n\n在搬家的同时还要维护服务器还要上学真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 172,
+    "views": 174,
     "forwards": 2,
     "media_group_id": 14144088655864437,
     "images": [
@@ -102918,7 +102918,7 @@
     "id": 7685,
     "date": "2026-01-10T03:55:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n在 Celestium 和 tracer 家里吃了すき焼き！",
-    "views": 183,
+    "views": 185,
     "forwards": 1,
     "media_group_id": 14144138456527205,
     "images": [
@@ -102958,7 +102958,7 @@
     "id": 7688,
     "date": "2026-01-10T14:49:53",
     "text": "昨晚路过一个加油站显示价格的牌子显示了 0，还有其他车停在加油机器前，还以为有什么免费送油的活动... 结果进去看了一眼发现是加油站坏掉了",
-    "views": 181,
+    "views": 184,
     "forwards": 0,
     "images": [
       {
@@ -102976,28 +102976,28 @@
   {
     "id": 7689,
     "date": "2026-01-10T15:52:46",
-    "views": 246,
+    "views": 250,
     "forwards": 5
   },
   {
     "id": 7690,
     "date": "2026-01-11T06:27:06",
     "text": "想想发现中文里好多词里面都有字是重复或者多余的信息，比如在「茄子」这个词里，明明「茄」这个字除了🍆不可能表达其他意思，却依然加上了没有用的「子」字... 如果有「去掉重复的中文」就好了\n\n<span class=\"spoiler\"><span>想发现中文里多词里都有字是重或余的信息，如在「茄子」这词里，明明「茄」这字除🍆不可能表其他意，却依然加了没用的「子」字... 如有「去重中文」就好了</span></span>\n\n——实践发现去重中文可以在上文中减去 18 个字，增加 24% 的信息密度 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 163,
+    "views": 169,
     "forwards": 0
   },
   {
     "id": 7691,
     "date": "2026-01-11T21:44:15",
     "text": "我：做咖喱！\n聊：用什么肉呢\n我：椰子果肉！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 103,
+    "views": 113,
     "forwards": 0
   },
   {
     "id": 7692,
     "date": "2026-01-11T21:55:24",
     "text": "再也不在一元店买塑料产品了\n\n这是一年前买的塑料篮子",
-    "views": 103,
+    "views": 112,
     "forwards": 0,
     "files": [
       {
