@@ -270,7 +270,7 @@
     "id": 28,
     "date": "2021-09-07T04:00:27",
     "text": "看到了你的影子在那里w",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13047897820504525,
     "images": [
@@ -300,7 +300,7 @@
     "id": 30,
     "date": "2021-09-07T23:35:00",
     "text": "学长就在那里，还是不去打扰他啦... 写写今晚想要发过去的留言",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "media_group_id": 13048461607354397,
     "images": [
@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7420,
+    "views": 7421,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 491,
+    "views": 492,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 797,
+    "views": 798,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1891,
+    "views": 1892,
     "forwards": 52
   },
   {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 981,
+    "views": 982,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1239,
+    "views": 1240,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6426,
+    "views": 6427,
     "forwards": 150,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 649,
+    "views": 651,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 516,
+    "views": 518,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73169,14 +73169,14 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 559,
+    "views": 560,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 523,
+    "views": 524,
     "forwards": 1,
     "media_group_id": 13968493560159205,
     "images": [
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 617,
+    "views": 618,
     "forwards": 1,
     "images": [
       {
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 797,
+    "views": 799,
     "forwards": 21,
     "media_group_id": 13969322433734669,
     "images": [
@@ -102219,7 +102219,7 @@
     "id": 7625,
     "date": "2026-01-01T01:18:26",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n食材花了 $10 左右，1.2kg 的巴沙鱼居然只要 $6, 太便宜了8\n\n（相比之下，同样重量的五花肉要 $14.7，小鸡腿要 $6.3）",
-    "views": 216,
+    "views": 217,
     "forwards": 1,
     "media_group_id": 14137842453924805,
     "images": [
@@ -102259,14 +102259,14 @@
     "id": 7628,
     "date": "2026-01-01T02:05:47",
     "text": "我要进入冬眠，明年叫醒我 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 0
   },
   {
     "id": 7629,
     "date": "2026-01-01T06:02:05",
     "text": "新年快乐！",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "images": [
       {
@@ -102285,7 +102285,7 @@
     "id": 7634,
     "date": "2026-01-01T18:53:18",
     "text": "昨天的新年花火小会会！风真的超级大超级冷，从照片就能看出风有多大 🌚\n\n是和聊聊豆腐猫球松鼠一起去的，实际上对花火本身很失望，烟花真的太少了，而且一共只有两艘船在放。多伦多市资助的过年烟花还没有之前在北海道洞爷湖那边每晚一次的烟花规模大... 这种时候就好想念日本\n\n不过见到了很久没有见到的朋友，还拍到了好看照片，总之还是很开心啦 qwq\n\n以及能看出多伦多市政很用心，专门安排了免费公交地铁和「跨年快线」NYE EXPRESS（跨年快线听上去像是什么坐上去可以带我去下一年的时光机草）也确实有很多人挤在湖边看烟花... 要是烟花的规模可以对得起这么多人就好了",
-    "views": 189,
+    "views": 190,
     "forwards": 3,
     "media_group_id": 14138348790329469,
     "images": [
@@ -102594,7 +102594,7 @@
     "id": 7660,
     "date": "2026-01-03T18:14:49",
     "text": "哭了，好讨厌苹果\n\nmenci 的苹果 pencil pro 不怎么用就送给我了。但是也因为她不怎么用，拿到的时候电池已经掉到 0% 了，充两天充不上电\n\n去线下找保修，发现保修只有一年... 然而因为 menci 是一年半之前买的，以及没有任何设备上了 Apple care，修的话要 $149 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>（买一个全新的只要 $159）",
-    "views": 247,
+    "views": 248,
     "forwards": 0,
     "images": [
       {
@@ -102771,14 +102771,14 @@
     "id": 7672,
     "date": "2026-01-05T04:53:36",
     "text": "明天要开学了\n\n不知道为什么，实际上很期待开学",
-    "views": 327,
+    "views": 328,
     "forwards": 0
   },
   {
     "id": 7674,
     "date": "2026-01-06T04:54:36",
     "text": "复制钥匙",
-    "views": 328,
+    "views": 330,
     "forwards": 4,
     "media_group_id": 14141402211502797,
     "images": [
@@ -102808,7 +102808,7 @@
     "id": 7675,
     "date": "2026-01-10T02:11:22",
     "text": "是滑铁卢人了！\n\n虽然已经开学了一周，但是才刚刚拿到学生卡\n\n感觉这次开学好赶，开学当天才刚刚定下来住址，已经上一周课了之后新家还只是露营的状态，刚把网络 setup 好，只搬过来了服务器和睡觉装备（充气床垫和被子），其他东西还没有搬过来...\n\n在搬家的同时还要维护服务器还要上学真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 2,
     "media_group_id": 14144088655864437,
     "images": [
@@ -102918,7 +102918,7 @@
     "id": 7685,
     "date": "2026-01-10T03:55:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n在 Celestium 和 tracer 家里吃了すき焼き！",
-    "views": 208,
+    "views": 209,
     "forwards": 1,
     "media_group_id": 14144138456527205,
     "images": [
@@ -102983,21 +102983,21 @@
     "id": 7690,
     "date": "2026-01-11T06:27:06",
     "text": "想想发现中文里好多词里面都有字是重复或者多余的信息，比如在「茄子」这个词里，明明「茄」这个字除了🍆不可能表达其他意思，却依然加上了没有用的「子」字... 如果有「去掉重复的中文」就好了\n\n<span class=\"spoiler\"><span>想发现中文里多词里都有字是重或余的信息，如在「茄子」这词里，明明「茄」这字除🍆不可能表其他意，却依然加了没用的「子」字... 如有「去重中文」就好了</span></span>\n\n——实践发现去重中文可以在上文中减去 18 个字，增加 24% 的信息密度 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 0
   },
   {
     "id": 7691,
     "date": "2026-01-11T21:44:15",
     "text": "我：做咖喱！\n聊：用什么肉呢\n我：椰子果肉！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 200,
+    "views": 202,
     "forwards": 0
   },
   {
     "id": 7692,
     "date": "2026-01-11T21:55:24",
     "text": "再也不在一元店买塑料产品了\n\n这是一年前买的塑料篮子",
-    "views": 207,
+    "views": 209,
     "forwards": 0,
     "files": [
       {
@@ -103018,7 +103018,7 @@
   {
     "id": 7693,
     "date": "2026-01-12T17:02:30",
-    "views": 189,
+    "views": 194,
     "forwards": 1,
     "images": [
       {
@@ -103037,7 +103037,7 @@
     "id": 7694,
     "date": "2026-01-13T01:03:16",
     "text": "因为新家没有✂️所以去买✂️\n\n然后发现需要已经有✂️或者🔪才能使用新的✂️...\n\n<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 184,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14146129573278853,
     "images": [
@@ -103067,14 +103067,64 @@
     "id": 7696,
     "date": "2026-01-13T06:58:29",
     "text": "好犹豫好犹豫好犹豫\n\n搬到新家之后，可以继续用 Bell 3Gbps $71（在这里新注册 Bell 需要 $125 了） 也可以换成 EBox 1Gbps $55...\n\n继续用 Bell 的好处是网速快、可以留着这个价格，坏处是我真的不太需要 3Gbps（我统计最近每月总共上传 40TB = 平均下来 121Mbps）\n\n换成 Ebox 的好处是有 ipv6、而且似乎 peering 更好，而且更便宜，坏处是网络包需要绕 700km 到蒙特利尔进行路由也许会添加延迟，以及换了就回不去了\n\n不知道怎么选...",
-    "views": 164,
+    "views": 176,
     "forwards": 2
   },
   {
     "id": 7697,
     "date": "2026-01-13T14:48:33",
     "text": "梦见我的 tg 和小号同时被销号了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 111,
+    "views": 134,
     "forwards": 0
+  },
+  {
+    "id": 7698,
+    "date": "2026-01-13T18:44:41",
+    "text": "关于今天想开 RDP 不小心把 Windows 炸掉又修好了的事情（不太聪明喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
+    "views": 48,
+    "forwards": 0,
+    "media_group_id": 14146639052008013,
+    "images": [
+      {
+        "width": 674,
+        "height": 1325,
+        "date": "2026-01-13T18:44:39",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-13_18-44-39.jpg",
+        "url": "media/7698.jpg",
+        "size": 163171,
+        "thumb": "media/7698.jpg_thumb.jpg"
+      },
+      {
+        "width": 678,
+        "height": 684,
+        "date": "2026-01-13T18:44:39",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-13_18-44-39.jpg",
+        "url": "media/7699.jpg",
+        "size": 46717,
+        "thumb": "media/7699.jpg_thumb.jpg"
+      },
+      {
+        "width": 683,
+        "height": 655,
+        "date": "2026-01-13T18:44:39",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-13_18-44-39.jpg",
+        "url": "media/7700.jpg",
+        "size": 70146,
+        "thumb": "media/7700.jpg_thumb.jpg"
+      },
+      {
+        "width": 683,
+        "height": 1808,
+        "date": "2026-01-13T18:44:41",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-13_18-44-41.jpg",
+        "url": "media/7701.jpg",
+        "size": 223518,
+        "thumb": "media/7701.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
