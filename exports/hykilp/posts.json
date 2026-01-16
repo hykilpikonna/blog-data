@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6428,
+    "views": 6429,
     "forwards": 150,
     "media_group_id": 13966976157341773,
     "images": [
@@ -100257,7 +100257,7 @@
     "id": 7459,
     "date": "2025-12-13T03:30:08",
     "text": "以及这个展会的地点在六本木东京 City View 展望台上，城市风景和照进房间的夕阳都好好看！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（这样想的话，展会票价 JP￥1600 好良心呀，还能免费看展望台... 明明单独的展望台票也一样是 JP￥1600）",
-    "views": 252,
+    "views": 253,
     "forwards": 3,
     "media_group_id": 14124772865920877,
     "images": [
@@ -101002,7 +101002,7 @@
     "id": 7519,
     "date": "2025-12-19T13:49:51",
     "text": "去了草津西の河原公園！\n\n河里流着热得下不去脚的温泉水、到处都冒着热蒸汽的同时，地上的雪还没有融化的迹象，好奇妙\n\n以及晚上的灯光照着这片云雾好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n山的尽头有一个露天温泉池的样子，而且没有人在泡诶。<del>好想哪天趁凌晨没人在这里泡真·露天温泉</del>",
-    "views": 235,
+    "views": 236,
     "forwards": 3,
     "media_group_id": 14129217535506077,
     "images": [
@@ -102196,7 +102196,7 @@
     "id": 7622,
     "date": "2025-12-31T23:00:35",
     "text": "锂电池烟花好好看，<del>想点</del>\n\n（源视频连接：<a href=\"https://www.youtube.com/watch?v=Mkgo_CLVbzg\"><em>Ignoring All Lithium Battery Safety Warnings.. For Science!</a></em>）",
-    "views": 255,
+    "views": 256,
     "forwards": 2,
     "files": [
       {
@@ -102285,7 +102285,7 @@
     "id": 7634,
     "date": "2026-01-01T18:53:18",
     "text": "昨天的新年花火小会会！风真的超级大超级冷，从照片就能看出风有多大 🌚\n\n是和聊聊豆腐猫球松鼠一起去的，实际上对花火本身很失望，烟花真的太少了，而且一共只有两艘船在放。多伦多市资助的过年烟花还没有之前在北海道洞爷湖那边每晚一次的烟花规模大... 这种时候就好想念日本\n\n不过见到了很久没有见到的朋友，还拍到了好看照片，总之还是很开心啦 qwq\n\n以及能看出多伦多市政很用心，专门安排了免费公交地铁和「跨年快线」NYE EXPRESS（跨年快线听上去像是什么坐上去可以带我去下一年的时光机草）也确实有很多人挤在湖边看烟花... 要是烟花的规模可以对得起这么多人就好了",
-    "views": 193,
+    "views": 194,
     "forwards": 3,
     "media_group_id": 14138348790329469,
     "images": [
@@ -102365,7 +102365,7 @@
     "id": 7641,
     "date": "2026-01-01T19:06:16",
     "text": "然后今天和 syama 去虚拟京都看了烟花！\n\nvrc 里面的互动感觉真的好真实，感觉像是真的和 syama 一起在逛京都一样 qwq\n\n可惜看到看起来很好吃的焼き鳥和鯛焼き没法吃，用虚拟的手抓住它拿到嘴里只能吃到空气... 然后就好饿好饿好饿好饿好饿 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 195,
+    "views": 196,
     "forwards": 1,
     "media_group_id": 14138355013735245,
     "images": [
@@ -102465,7 +102465,7 @@
     "id": 7650,
     "date": "2026-01-02T03:18:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n锅！（日式火锅！）\n\nTracer 和 Celestium 过来一起吃了。感觉日式火锅也是好吃又好做又便宜又 scalable，四个人吃的食材总共花了不到 $30 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n怪不得摇曳露营里面喜欢在露营的时候煮锅 qwq",
-    "views": 228,
+    "views": 229,
     "forwards": 3,
     "media_group_id": 14138591297711077,
     "images": [
@@ -102545,7 +102545,7 @@
     "id": 7657,
     "date": "2026-01-02T20:59:57",
     "text": "窗户上刷了大蜗牛",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "media_group_id": 14139100780291061,
     "images": [
@@ -102575,7 +102575,7 @@
     "id": 7659,
     "date": "2026-01-03T04:58:35",
     "text": "谷歌搜索 OrcaSlicer 前五个结果哪个是官网？\n\n1. <code>orca-slicer.com</code>\n2. <code>orcaslicer.net</code>\n3. <code>orcaslicer.org</code>\n4. <code>orcaslicer3d.com</code>\n5. <code>orcaslicer.pro</code>\n\n答：<span class=\"spoiler\"><span>全都不是！正确答案是 `orcaslicer.com`，还是去 github repo 上找到的，翻了十页都没找到</span></span>",
-    "views": 260,
+    "views": 261,
     "forwards": 3,
     "images": [
       {
@@ -102594,7 +102594,7 @@
     "id": 7660,
     "date": "2026-01-03T18:14:49",
     "text": "哭了，好讨厌苹果\n\nmenci 的苹果 pencil pro 不怎么用就送给我了。但是也因为她不怎么用，拿到的时候电池已经掉到 0% 了，充两天充不上电\n\n去线下找保修，发现保修只有一年... 然而因为 menci 是一年半之前买的，以及没有任何设备上了 Apple care，修的话要 $149 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>（买一个全新的只要 $159）",
-    "views": 253,
+    "views": 254,
     "forwards": 0,
     "images": [
       {
@@ -102706,7 +102706,7 @@
     "id": 7669,
     "date": "2026-01-04T19:35:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤鸡皮！（二周目）\n\n还是正经烤箱烤得均匀一点... 之前用空气炸锅烤成焦炭是因为烤到一面熟了的时候另一面还很生，想翻面再烤烤就烤焦了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及鸡皮 $2 可以买到 1.5kg 真是超便宜",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "images": [
       {
@@ -102725,7 +102725,7 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 437,
+    "views": 438,
     "forwards": 9,
     "images": [
       {
@@ -102744,7 +102744,7 @@
     "id": 7671,
     "date": "2026-01-04T22:13:23",
     "text": "以及发现了一些彩蛋 / bug\n（剧透警告）<span class=\"spoiler\"><span>\n\n虽然一般流程下最后的 boss 会让你做一个虾天天天天天天天天天天天天天天天天天天天妇罗，做到一半就会 stack overflow 把宇宙炸掉。但是只要刚开始游戏就把它做出来的话就可以给她吃让宇宙不会炸掉了\n\n以及，在宇宙炸掉之后只是在游戏界面上多加了一个图层，并没有关掉互动逻辑，所以在宇宙尽头也可以继续炸天妇罗 qwq（甚至可以再炸一次宇宙）</span></span>",
-    "views": 345,
+    "views": 346,
     "forwards": 0,
     "reply": {
       "id": 7670,
@@ -102771,14 +102771,14 @@
     "id": 7672,
     "date": "2026-01-05T04:53:36",
     "text": "明天要开学了\n\n不知道为什么，实际上很期待开学",
-    "views": 342,
+    "views": 343,
     "forwards": 0
   },
   {
     "id": 7674,
     "date": "2026-01-06T04:54:36",
     "text": "复制钥匙",
-    "views": 358,
+    "views": 359,
     "forwards": 4,
     "media_group_id": 14141402211502797,
     "images": [
@@ -102808,7 +102808,7 @@
     "id": 7675,
     "date": "2026-01-10T02:11:22",
     "text": "是滑铁卢人了！\n\n虽然已经开学了一周，但是才刚刚拿到学生卡\n\n感觉这次开学好赶，开学当天才刚刚定下来住址，已经上一周课了之后新家还只是露营的状态，刚把网络 setup 好，只搬过来了服务器和睡觉装备（充气床垫和被子），其他东西还没有搬过来...\n\n在搬家的同时还要维护服务器还要上学真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 228,
+    "views": 232,
     "forwards": 3,
     "media_group_id": 14144088655864437,
     "images": [
@@ -102918,7 +102918,7 @@
     "id": 7685,
     "date": "2026-01-10T03:55:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n在 Celestium 和 tracer 家里吃了すき焼き！",
-    "views": 231,
+    "views": 234,
     "forwards": 1,
     "media_group_id": 14144138456527205,
     "images": [
@@ -102958,7 +102958,7 @@
     "id": 7688,
     "date": "2026-01-10T14:49:53",
     "text": "昨晚路过一个加油站显示价格的牌子显示了 0，还有其他车停在加油机器前，还以为有什么免费送油的活动... 结果进去看了一眼发现是加油站坏掉了",
-    "views": 240,
+    "views": 242,
     "forwards": 0,
     "images": [
       {
@@ -102976,28 +102976,28 @@
   {
     "id": 7689,
     "date": "2026-01-10T15:52:46",
-    "views": 325,
+    "views": 327,
     "forwards": 5
   },
   {
     "id": 7690,
     "date": "2026-01-11T06:27:06",
     "text": "想想发现中文里好多词里面都有字是重复或者多余的信息，比如在「茄子」这个词里，明明「茄」这个字除了🍆不可能表达其他意思，却依然加上了没有用的「子」字... 如果有「去掉重复的中文」就好了\n\n<span class=\"spoiler\"><span>想发现中文里多词里都有字是重或余的信息，如在「茄子」这词里，明明「茄」这字除🍆不可能表其他意，却依然加了没用的「子」字... 如有「去重中文」就好了</span></span>\n\n——实践发现去重中文可以在上文中减去 18 个字，增加 24% 的信息密度 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 242,
+    "views": 245,
     "forwards": 0
   },
   {
     "id": 7691,
     "date": "2026-01-11T21:44:15",
     "text": "我：做咖喱！\n聊：用什么肉呢\n我：椰子果肉！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 224,
+    "views": 225,
     "forwards": 0
   },
   {
     "id": 7692,
     "date": "2026-01-11T21:55:24",
     "text": "再也不在一元店买塑料产品了\n\n这是一年前买的塑料篮子",
-    "views": 231,
+    "views": 233,
     "forwards": 0,
     "files": [
       {
@@ -103018,7 +103018,7 @@
   {
     "id": 7693,
     "date": "2026-01-12T17:02:30",
-    "views": 211,
+    "views": 213,
     "forwards": 1,
     "images": [
       {
@@ -103037,7 +103037,7 @@
     "id": 7694,
     "date": "2026-01-13T01:03:16",
     "text": "因为新家没有✂️所以去买✂️\n\n然后发现需要已经有✂️或者🔪才能使用新的✂️...\n\n<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 216,
+    "views": 218,
     "forwards": 0,
     "media_group_id": 14146129573278853,
     "images": [
@@ -103067,21 +103067,21 @@
     "id": 7696,
     "date": "2026-01-13T06:58:29",
     "text": "好犹豫好犹豫好犹豫\n\n搬到新家之后，可以继续用 Bell 3Gbps $71（在这里新注册 Bell 需要 $125 了） 也可以换成 EBox 1Gbps $55...\n\n继续用 Bell 的好处是网速快、可以留着这个价格，坏处是我真的不太需要 3Gbps（我统计最近每月总共上传 40TB = 平均下来 121Mbps）\n\n换成 Ebox 的好处是有 ipv6、而且似乎 peering 更好，而且更便宜，坏处是网络包需要绕 700km 到蒙特利尔进行路由也许会添加延迟，以及换了就回不去了\n\n不知道怎么选...",
-    "views": 211,
+    "views": 214,
     "forwards": 2
   },
   {
     "id": 7697,
     "date": "2026-01-13T14:48:33",
     "text": "梦见我的 tg 和小号同时被销号了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 199,
+    "views": 201,
     "forwards": 0
   },
   {
     "id": 7698,
     "date": "2026-01-13T18:44:41",
     "text": "关于今天想开 RDP 不小心把 Windows 炸掉又修好了的事情（不太聪明喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 191,
+    "views": 193,
     "forwards": 1,
     "media_group_id": 14146639052008013,
     "images": [
@@ -103131,7 +103131,7 @@
     "id": 7702,
     "date": "2026-01-13T22:27:13",
     "text": "之前下雨下雪都擦不干净车窗，越擦越脏（Fig. 4）\n\n问群友群友说是雨刷的问题，今天换了一套雨刷，效果真的立竿见影 qwq\n\n（没想到对车做的第一次魔改是雨刷）",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "media_group_id": 14146745867916445,
     "images": [
@@ -103200,7 +103200,7 @@
     "id": 7707,
     "date": "2026-01-14T05:26:23",
     "text": "我和我的电脑都睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 180,
+    "views": 184,
     "forwards": 0,
     "images": [
       {
@@ -103219,7 +103219,7 @@
     "id": 7708,
     "date": "2026-01-14T20:15:43",
     "text": "大概理解了为什么自己开着笔记本/小盒子就睡不着，但是服务器常年在我床头一直跑都不会影响我\n\n可能是因为服务器的风扇不支持调速，所以一直都是很稳定的白噪音。相比之下笔记本风扇一会慢一会快，很不稳定。习惯了在有服务器白噪音的地方睡觉之后，搬到没有白噪音的地方反而会被各种之前被白噪音盖住的声音打扰到",
-    "views": 157,
+    "views": 160,
     "forwards": 0,
     "reply": {
       "id": 7707,
@@ -103230,7 +103230,7 @@
     "id": 7709,
     "date": "2026-01-14T20:37:09",
     "text": "没想到我会在学校 engineering 楼里买菜",
-    "views": 155,
+    "views": 160,
     "forwards": 0,
     "media_group_id": 14147384234893589,
     "images": [
@@ -103295,7 +103295,7 @@
     "id": 7714,
     "date": "2026-01-15T02:05:08",
     "text": "一个红绿灯过了一辆车\n\n果然买 AWD 是正确的选择",
-    "views": 159,
+    "views": 169,
     "forwards": 2,
     "files": [
       {
@@ -103317,11 +103317,34 @@
     "id": 7716,
     "date": "2026-01-15T14:35:04",
     "text": "然后今天因为大雪 UW 和 UT 都停课了（虽然我并没有今天的课，只剩下扫雪...",
-    "views": 106,
+    "views": 136,
     "forwards": 0,
     "reply": {
       "id": 7714,
       "text": "一个红绿灯过了一辆车\n\n果然买 AWD 是正确的选择"
     }
+  },
+  {
+    "id": 7717,
+    "date": "2026-01-16T01:18:04",
+    "text": "扫雪好累扫雪好累扫雪好累\n\n请别人扫雪的话一次 $90...\n\n还是花 $272 买了一个扫雪机",
+    "views": 69,
+    "forwards": 0,
+    "reply": {
+      "id": 7716,
+      "text": "然后今天因为大雪 UW 和 UT 都停课了（虽然我并没有今天的课，只剩下扫雪..."
+    },
+    "images": [
+      {
+        "width": 1005,
+        "height": 634,
+        "date": "2026-01-16T01:18:03",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-16_01-18-03.jpg",
+        "url": "media/7717.jpg",
+        "size": 87357,
+        "thumb": "media/7717.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
