@@ -69134,7 +69134,7 @@
     "id": 5006,
     "date": "2025-03-08T18:41:28",
     "text": "把花花种起来了，房间香香的 <i class=\"custom-emoji\" emoji-src=\"emoji/6163291628971758736.webp\">😺</i>\n\n女生节快乐哦",
-    "views": 306,
+    "views": 307,
     "forwards": 0,
     "reply": {
       "id": 5000,
@@ -69237,7 +69237,7 @@
     "id": 5012,
     "date": "2025-03-11T04:50:09",
     "text": "好讨厌 Meta...\n\n今天拿起来 Quest 3 发现系统自动更新了，更新之后没办法打开第三方输入法了，打开微信输入法还会直接让系统卡死自动重启... 系统自带的输入法还不支持中文，不知道怎么办\n\n以及 UI 也被大改了... 主观觉得新 UI 的这个渐变像是十年前流行的设计",
-    "views": 292,
+    "views": 293,
     "forwards": 1,
     "reply": {
       "id": 4849,
@@ -69261,7 +69261,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 420,
+    "views": 421,
     "forwards": 3,
     "images": [
       {
@@ -69280,7 +69280,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 312,
+    "views": 313,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 790,
+    "views": 791,
     "forwards": 9
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1321,
+    "views": 1322,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -69339,7 +69339,7 @@
   {
     "id": 5019,
     "date": "2025-03-13T04:43:20",
-    "views": 293,
+    "views": 294,
     "forwards": 3,
     "images": [
       {
@@ -69358,7 +69358,7 @@
     "id": 5020,
     "date": "2025-03-13T05:32:56",
     "text": "至少 AquaDX 在用的这套 JVM 老框架没有在 Hello world 吞吐量上输给 Bun JS...",
-    "views": 303,
+    "views": 304,
     "forwards": 0,
     "media_group_id": 13934751814323477,
     "images": [
@@ -69388,14 +69388,14 @@
     "id": 5022,
     "date": "2025-03-14T18:48:15",
     "text": "syama: 最近一个节日是什么，要不要加一些节日彩蛋\n我: 清明节 🌚",
-    "views": 242,
+    "views": 243,
     "forwards": 0
   },
   {
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 354,
+    "views": 355,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 232,
+    "views": 233,
     "forwards": 2,
     "images": [
       {
@@ -69448,7 +69448,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 221,
+    "views": 222,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69482,7 +69482,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8427,
+    "views": 8428,
     "forwards": 174,
     "media_group_id": 14043941176651549,
     "images": [
@@ -103018,7 +103018,7 @@
   {
     "id": 7693,
     "date": "2026-01-12T17:02:30",
-    "views": 227,
+    "views": 228,
     "forwards": 1,
     "images": [
       {
@@ -103037,7 +103037,7 @@
     "id": 7694,
     "date": "2026-01-13T01:03:16",
     "text": "因为新家没有✂️所以去买✂️\n\n然后发现需要已经有✂️或者🔪才能使用新的✂️...\n\n<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "media_group_id": 14146129573278853,
     "images": [
@@ -103067,21 +103067,21 @@
     "id": 7696,
     "date": "2026-01-13T06:58:29",
     "text": "好犹豫好犹豫好犹豫\n\n搬到新家之后，可以继续用 Bell 3Gbps $71（在这里新注册 Bell 需要 $125 了） 也可以换成 EBox 1Gbps $55...\n\n继续用 Bell 的好处是网速快、可以留着这个价格，坏处是我真的不太需要 3Gbps（我统计最近每月总共上传 40TB = 平均下来 121Mbps）\n\n换成 Ebox 的好处是有 ipv6、而且似乎 peering 更好，而且更便宜，坏处是网络包需要绕 700km 到蒙特利尔进行路由也许会添加延迟，以及换了就回不去了\n\n不知道怎么选...",
-    "views": 237,
+    "views": 238,
     "forwards": 2
   },
   {
     "id": 7697,
     "date": "2026-01-13T14:48:33",
     "text": "梦见我的 tg 和小号同时被销号了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 223,
+    "views": 224,
     "forwards": 0
   },
   {
     "id": 7698,
     "date": "2026-01-13T18:44:41",
     "text": "关于今天想开 RDP 不小心把 Windows 炸掉又修好了的事情（不太聪明喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "media_group_id": 14146639052008013,
     "images": [
@@ -103131,7 +103131,7 @@
     "id": 7702,
     "date": "2026-01-13T22:27:13",
     "text": "之前下雨下雪都擦不干净车窗，越擦越脏（Fig. 4）\n\n问群友群友说是雨刷的问题，今天换了一套雨刷，效果真的立竿见影 qwq\n\n（没想到对车做的第一次魔改是雨刷）",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "media_group_id": 14146745867916445,
     "images": [
@@ -103181,7 +103181,7 @@
     "id": 7706,
     "date": "2026-01-14T03:07:11",
     "text": "英语写作风格太像 AI 的烦恼...",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "images": [
       {
@@ -103200,7 +103200,7 @@
     "id": 7707,
     "date": "2026-01-14T05:26:23",
     "text": "我和我的电脑都睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "images": [
       {
@@ -103219,7 +103219,7 @@
     "id": 7708,
     "date": "2026-01-14T20:15:43",
     "text": "大概理解了为什么自己开着笔记本/小盒子就睡不着，但是服务器常年在我床头一直跑都不会影响我\n\n可能是因为服务器的风扇不支持调速，所以一直都是很稳定的白噪音。相比之下笔记本风扇一会慢一会快，很不稳定。习惯了在有服务器白噪音的地方睡觉之后，搬到没有白噪音的地方反而会被各种之前被白噪音盖住的声音打扰到",
-    "views": 200,
+    "views": 201,
     "forwards": 0,
     "reply": {
       "id": 7707,
@@ -103230,7 +103230,7 @@
     "id": 7709,
     "date": "2026-01-14T20:37:09",
     "text": "没想到我会在学校 engineering 楼里买菜",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14147384234893589,
     "images": [
@@ -103295,7 +103295,7 @@
     "id": 7714,
     "date": "2026-01-15T02:05:08",
     "text": "一个红绿灯过了一辆车\n\n果然买 AWD 是正确的选择",
-    "views": 235,
+    "views": 236,
     "forwards": 2,
     "files": [
       {
@@ -103317,7 +103317,7 @@
     "id": 7716,
     "date": "2026-01-15T14:35:04",
     "text": "然后今天因为大雪 UW 和 UT 都停课了（虽然我并没有今天的课，只剩下扫雪...",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "reply": {
       "id": 7714,
@@ -103328,7 +103328,7 @@
     "id": 7717,
     "date": "2026-01-16T01:18:04",
     "text": "扫雪好累扫雪好累扫雪好累\n\n请别人扫雪的话一次 $90...\n\n还是花 $272 买了一个扫雪机",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "reply": {
       "id": 7716,
@@ -103500,7 +103500,7 @@
     "id": 7730,
     "date": "2026-01-18T19:23:23",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n在新的家做的第一顿饭是方便面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n（聊聊要了 extra 肉肉）\n\n以及在想，方便面虽然说是 \"instant ramen\"，但是实际上也并不是瞬间就能煮好，煮的时间也和一般挂面差不多...  <del>有没有可能真的做一个瞬间煮好的方便面呢？比如进行一次可控爆炸瞬间把所有水和面热熟</del>",
-    "views": 166,
+    "views": 167,
     "forwards": 0,
     "images": [
       {
@@ -103519,7 +103519,7 @@
     "id": 7731,
     "date": "2026-01-18T22:18:47",
     "text": "绝望...\n\n不知道周三顶着 5.8cm 的雪怎么上课\n\n<del>不过好消息是，安省规定雪停后的 24 小时内必须扫雪，如果 24 小时内又下雪了的话就按新的停雪时间算，所以如果每天都下雪就永远不用扫雪了</del>",
-    "views": 154,
+    "views": 156,
     "forwards": 1,
     "images": [
       {
@@ -103538,7 +103538,7 @@
     "id": 7732,
     "date": "2026-01-19T07:17:10",
     "text": "amazon 处理事情的方式太奇妙了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n刚刚打开 amazon 发现所有平台都被登出了，重新登录之后要求换密码，进去之后发现我前天下的订单在订单列表里看不到了，新家的地址也谜之消失了...\n\n还以为是 db 回档了之类的，但是问了一下其他在加拿大的朋友和在 amazon 工作的朋友都说没有问题，那是为什么呢？\n\n问了一下客服，客服说最近给新地址下单贵的东西被标记为账号被偷了（？？）\n\n首先 $272 的铲雪机算哪门子贵的东西，其次为什么恢复了账号之后会删掉订单和地址呀？（而且订单里的东西都已经送到了......）",
-    "views": 117,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
