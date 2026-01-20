@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 20 Jan 2026 00:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 02:56:53 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #7733</title>
+      <link>https://aza.moe/life?post=7733</link>
+      <description>&lt;p&gt;终于调好了完美的 iPad thin client 方案，可以不用带电脑去学校了！&lt;i class="custom-emoji" emoji-src="emoji/6111607409870898919.webm"&gt;👍&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;之前因为默认的 sunshine/moonlight 远程桌面不能自动适配分辨率，我就去试了一下用 Windows RDP... 结果折腾了超级久把系统搞坏了又修好了还依然不能用（现在是抓包看到连接进来之后立即被 TCP RST...）&lt;/p&gt;
+&lt;p&gt;然后就放弃 RDP 了，找找其他方案，找到了 Apollo (sunshine fork) 和 Void Link (moonlight fork)。一个增加了自适配分辨率的虚拟显示器驱动，另一个增加了多点触摸适配，这两个加起来就是现在这个完美的 windows 触屏远程桌面方案啦！&lt;/p&gt;
+&lt;p&gt;还是开源软件好，自己想要什么原版没有的功能 fork 就好了&lt;/p&gt;</description>
+      <guid isPermaLink="false">7733</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #7732</title>
       <link>https://aza.moe/life?post=7732</link>
