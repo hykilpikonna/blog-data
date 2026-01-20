@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1369,
+    "views": 1370,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1157,
+    "views": 1158,
     "forwards": 7,
     "files": [
       {
@@ -103181,7 +103181,7 @@
     "id": 7706,
     "date": "2026-01-14T03:07:11",
     "text": "英语写作风格太像 AI 的烦恼...",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "images": [
       {
@@ -103200,7 +103200,7 @@
     "id": 7707,
     "date": "2026-01-14T05:26:23",
     "text": "我和我的电脑都睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 224,
+    "views": 225,
     "forwards": 0,
     "images": [
       {
@@ -103317,7 +103317,7 @@
     "id": 7716,
     "date": "2026-01-15T14:35:04",
     "text": "然后今天因为大雪 UW 和 UT 都停课了（虽然我并没有今天的课，只剩下扫雪...",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "reply": {
       "id": 7714,
@@ -103328,7 +103328,7 @@
     "id": 7717,
     "date": "2026-01-16T01:18:04",
     "text": "扫雪好累扫雪好累扫雪好累\n\n请别人扫雪的话一次 $90...\n\n还是花 $272 买了一个扫雪机",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "reply": {
       "id": 7716,
@@ -103351,7 +103351,7 @@
     "id": 7718,
     "date": "2026-01-16T16:50:46",
     "text": "好讨厌安省的天气。买了车之后一直想去看星星，结果一个月里没有一天不多云...",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "images": [
       {
@@ -103538,7 +103538,7 @@
     "id": 7732,
     "date": "2026-01-19T07:17:10",
     "text": "amazon 处理事情的方式太奇妙了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n刚刚打开 amazon 发现所有平台都被登出了，重新登录之后要求换密码，进去之后发现我前天下的订单在订单列表里看不到了，新家的地址也谜之消失了...\n\n还以为是 db 回档了之类的，但是问了一下其他在加拿大的朋友和在 amazon 工作的朋友都说没有问题，那是为什么呢？\n\n问了一下客服，客服说最近给新地址下单贵的东西被标记为账号被偷了（？？）\n\n首先 $272 的铲雪机算哪门子贵的东西，其次为什么恢复了账号之后会删掉订单和地址呀？（而且订单里的东西都已经送到了......）",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "images": [
       {
@@ -103557,7 +103557,7 @@
     "id": 7733,
     "date": "2026-01-20T00:51:23",
     "text": "终于调好了完美的 iPad thin client 方案，可以不用带电脑去学校了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n之前因为默认的 sunshine/moonlight 远程桌面不能自动适配分辨率，我就去试了一下用 Windows RDP... 结果折腾了超级久把系统搞坏了又修好了还依然不能用（现在是抓包看到连接进来之后立即被 TCP RST...）\n\n然后就放弃 RDP 了，找找其他方案，找到了 Apollo (sunshine fork) 和 Void Link (moonlight fork)。一个增加了自适配分辨率的虚拟显示器驱动，另一个增加了多点触摸适配，这两个加起来就是现在这个完美的 windows 触屏远程桌面方案啦！\n\n还是开源软件好，自己想要什么原版没有的功能 fork 就好了",
-    "views": 139,
+    "views": 142,
     "forwards": 2,
     "reply": {
       "id": 7698,
@@ -103580,5 +103580,69 @@
         "thumb": "media/7733.mp4_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 7734,
+    "date": "2026-01-20T22:13:11",
+    "text": "换 ebox 了！说说体验吧\n\n首先是终于有 ipv6 了，每台设备都有公网 ip 好不错！\n\n其次网络设备也很不错，之前用 Bell 的时候给的是一个带光纤的路由器，所以如果想用自己的路由器就只能自己买光猫棒... 相比之下 EBox 是直接给了一个 10G ONT，想接自己的路由器直接用它接就可以了（我接了豆腐球给我的 MikroTik hAP ac，好用喵感谢豆腐）\n\n不过激活体验真的很孬，我 12.28 开的账号居然 1.20 才有人来安装... 明明只要给我 ONT 我自己就会装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n网络线路的话，是 1 gbps 下 750 mbps 上的套餐，实测有线上下都在 700 mbps 左右。\n\n以及确实所有路由都要绕蒙特利尔，所以增加了 10 ms 的延迟，从之前的 2ms 变成了 11ms... 好像也不影响什么，反而因为和很多云服务 ISP 有直连的 peering 所以跳转次数更少了，测了全球连进来的延迟也不比之前差\n\n总之还很满意喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
+    "views": 11,
+    "forwards": 0,
+    "media_group_id": 14151577535205573,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-01-20T22:13:10",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-20_22-13-10.jpg",
+        "url": "media/7734.jpg",
+        "size": 688187,
+        "thumb": "media/7734.jpg_thumb.jpg"
+      },
+      {
+        "width": 1853,
+        "height": 870,
+        "date": "2026-01-20T22:13:10",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-20_22-13-10.jpg",
+        "url": "media/7735.jpg",
+        "size": 128591,
+        "thumb": "media/7735.jpg_thumb.jpg"
+      },
+      {
+        "width": 1172,
+        "height": 712,
+        "date": "2026-01-20T20:09:30",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-20_20-09-30.jpg",
+        "url": "media/7736.jpg",
+        "size": 60070,
+        "thumb": "media/7736.jpg_thumb.jpg"
+      },
+      {
+        "width": 1895,
+        "height": 1105,
+        "date": "2026-01-20T22:13:10",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-20_22-13-10.jpg",
+        "url": "media/7737.jpg",
+        "size": 147091,
+        "thumb": "media/7737.jpg_thumb.jpg"
+      },
+      {
+        "width": 1338,
+        "height": 1071,
+        "date": "2026-01-20T22:13:11",
+        "media_type": "photo",
+        "original_name": "photo_2026-01-20_22-13-11.jpg",
+        "url": "media/7738.jpg",
+        "size": 154917,
+        "thumb": "media/7738.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 7696,
+      "text": "好犹豫好犹豫好犹豫\n\n搬到新家之后，可以继续用 Bell 3Gbps $71（在这里新注册 Bell 需要 $125 了） 也可以换成 EBox 1Gbps $55...\n\n继续用 Bell 的好处是网速快、可以留着这个价格，坏处是我真的不太需要 3Gbps（我统计最近每月总共上传 40TB = 平均下来 121Mbps）\n\n换成 Ebox 的好处是有 ipv6、而且似乎 peering 更好，而且更便宜，坏处是网络包需要绕 700km 到蒙特利尔进行路由也许会添加延迟，以及换了就回不去了\n\n不知道怎么选..."
+    }
   }
 ]
