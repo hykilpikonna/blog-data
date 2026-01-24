@@ -61593,7 +61593,7 @@
     "id": 4495,
     "date": "2024-10-02T05:14:24",
     "text": "今天计网课上讲了 BGP (边界网关协议)，感觉学到了很不得了的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n在层级网络的最顶端，运营商和国家级别的自治系统「AS」之间，也和我们自己家里的路由器交换机一样用了平等的分布式共识机制，互相通过 BGP 按照复杂的规则交换路径表，花上几个小时来聚合到共识的最短路径\n\n但是和路由器交换机不同的是，它非常的不自动，反而每个 AS 都会专门雇人配置很复杂的 BGP 规则，为什么这样呢？并不是因为技术上不能，而是因为人类的不完美... 在这个网络上的，有时候互相是竞争对手，有时候是客户和供应者，有时候是国家，有时候是国家立场的黑客...\n\n每个 AS 都在白嫖和被白嫖、信任和谎言之间微调规则，真的是一种好不完美的美 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 0,
     "images": [
       {
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 156,
+    "views": 157,
     "forwards": 1,
     "images": [
       {
@@ -61779,7 +61779,7 @@
     "id": 4506,
     "date": "2024-10-04T21:41:52",
     "text": "不是很懂安卓模拟器的生态...\n\n想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了\n\n有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 13824624901279685,
     "images": [
@@ -61809,7 +61809,7 @@
     "id": 4508,
     "date": "2024-10-06T17:41:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n室友烤的蛋挞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 171,
+    "views": 172,
     "forwards": 1,
     "media_group_id": 13825891811831117,
     "images": [
@@ -61839,7 +61839,7 @@
     "id": 4510,
     "date": "2024-10-06T20:50:39",
     "text": "毫无维和",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 13825982714986213,
     "images": [
@@ -61907,7 +61907,7 @@
     "id": 4514,
     "date": "2024-10-07T20:56:34",
     "text": "又改了改主题加了第二行信息栏 quq",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "reply": {
       "id": 4513,
@@ -61930,7 +61930,7 @@
     "id": 4515,
     "date": "2024-10-08T01:32:20",
     "text": "♫ I'm a shooting star, leaping through the sky like a tiger ♫\n♫ Defying the laws of gravity ♫\n♫ I'm a racing car, passing by like Lady Godiva ♫\n♫ I'm gonna go, go, go, there's no stopping me ♫",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "images": [
       {
@@ -61949,7 +61949,7 @@
     "id": 4516,
     "date": "2024-10-08T01:53:56",
     "text": "好喵",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "media_group_id": 13826819492012957,
     "images": [
@@ -62638,7 +62638,7 @@
     "id": 4567,
     "date": "2024-10-23T01:09:04",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nイカ焼き！",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 13837165953618965,
     "images": [
@@ -69310,7 +69310,7 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 792,
+    "views": 793,
     "forwards": 9
   },
   {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8436,
+    "views": 8438,
     "forwards": 174,
     "media_group_id": 14043941176651549,
     "images": [
@@ -99137,7 +99137,7 @@
     "id": 7373,
     "date": "2025-12-01T15:42:20",
     "text": "<span class=\"spoiler\"><span>如果陪伴可以 scale 就好了</span></span>",
-    "views": 550,
+    "views": 551,
     "forwards": 6
   },
   {
@@ -103649,7 +103649,7 @@
     "id": 7739,
     "date": "2026-01-21T06:17:41",
     "text": "难得的没有云的晚上，可惜明天有早八………….",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "reply": {
       "id": 7718,
@@ -103690,7 +103690,7 @@
     "id": 7742,
     "date": "2026-01-23T06:24:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 tracer 和 Celestium 去博多一幸舎吃了豚骨拉面 qwq\n\n我的这碗加上税和小费 $26，在日本博多一幸舎本店的同款面只要 ￥1300... 基本上是两倍价格了哇好贵好贵\n\n以及这边也是那种有一张纸可以定制面粗细浓度以及加什么之类的，然后就聊到了这里不像一蘭那样每人都有隔间... 感觉在日本有隔间的拉面店反而很少见吧，好像只有一蘭一家是某种特例，不知道为什么在日本外反而一蘭那种很有名的样子",
-    "views": 155,
+    "views": 156,
     "forwards": 1,
     "media_group_id": 14153195830795117,
     "images": [
@@ -103770,7 +103770,7 @@
     "id": 7749,
     "date": "2026-01-23T14:13:44",
     "text": "昨天的天好好看",
-    "views": 130,
+    "views": 131,
     "forwards": 2,
     "media_group_id": 14153420995231349,
     "images": [
