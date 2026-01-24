@@ -69310,7 +69310,7 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 791,
+    "views": 792,
     "forwards": 9
   },
   {
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 722,
+    "views": 723,
     "forwards": 2,
     "images": [
       {
@@ -73013,7 +73013,7 @@
     "id": 5285,
     "date": "2025-04-28T03:39:16",
     "text": "猫猫本能：把通关需要的电池丢下去了 然后解锁了一个成就",
-    "views": 722,
+    "views": 723,
     "forwards": 0,
     "files": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 983,
+    "views": 984,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1240,
+    "views": 1241,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6436,
+    "views": 6437,
     "forwards": 150,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 651,
+    "views": 652,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 518,
+    "views": 519,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 618,
+    "views": 619,
     "forwards": 1,
     "images": [
       {
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 799,
+    "views": 800,
     "forwards": 21,
     "media_group_id": 13969322433734669,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8435,
+    "views": 8436,
     "forwards": 174,
     "media_group_id": 14043941176651549,
     "images": [
@@ -103538,7 +103538,7 @@
     "id": 7732,
     "date": "2026-01-19T07:17:10",
     "text": "amazon 处理事情的方式太奇妙了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n刚刚打开 amazon 发现所有平台都被登出了，重新登录之后要求换密码，进去之后发现我前天下的订单在订单列表里看不到了，新家的地址也谜之消失了...\n\n还以为是 db 回档了之类的，但是问了一下其他在加拿大的朋友和在 amazon 工作的朋友都说没有问题，那是为什么呢？\n\n问了一下客服，客服说最近给新地址下单贵的东西被标记为账号被偷了（？？）\n\n首先 $272 的铲雪机算哪门子贵的东西，其次为什么恢复了账号之后会删掉订单和地址呀？（而且订单里的东西都已经送到了......）",
-    "views": 224,
+    "views": 225,
     "forwards": 0,
     "images": [
       {
@@ -103557,7 +103557,7 @@
     "id": 7733,
     "date": "2026-01-20T00:51:23",
     "text": "终于调好了完美的 iPad thin client 方案，可以不用带电脑去学校了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n之前因为默认的 sunshine/moonlight 远程桌面不能自动适配分辨率，我就去试了一下用 Windows RDP... 结果折腾了超级久把系统搞坏了又修好了还依然不能用（现在是抓包看到连接进来之后立即被 TCP RST...）\n\n然后就放弃 RDP 了，找找其他方案，找到了 Apollo (sunshine fork) 和 Void Link (moonlight fork)。一个增加了自适配分辨率的虚拟显示器驱动，另一个增加了多点触摸适配，这两个加起来就是现在这个完美的 windows 触屏远程桌面方案啦！\n\n还是开源软件好，自己想要什么原版没有的功能 fork 就好了",
-    "views": 227,
+    "views": 229,
     "forwards": 3,
     "reply": {
       "id": 7698,
@@ -103585,7 +103585,7 @@
     "id": 7734,
     "date": "2026-01-20T22:13:11",
     "text": "换 ebox 了！说说体验吧\n\n首先是终于有 ipv6 了，每台设备都有公网 ip 好不错！\n\n其次网络设备也很不错，之前用 Bell 的时候给的是一个带光纤的路由器，所以如果想用自己的路由器就只能自己买光猫棒... 相比之下 EBox 是直接给了一个 10G ONT，想接自己的路由器直接用它接就可以了（我接了豆腐球给我的 MikroTik hAP ac，好用喵感谢豆腐）\n\n不过激活体验真的很孬，我 12.28 开的账号居然 1.20 才有人来安装... 明明只要给我 ONT 我自己就会装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n网络线路的话，是 1 gbps 下 750 mbps 上的套餐，实测有线上下都在 700 mbps 左右。\n\n以及确实所有路由都要绕蒙特利尔，所以增加了 10 ms 的延迟，从之前的 2ms 变成了 11ms... 好像也不影响什么，反而因为和很多云服务 ISP 有直连的 peering 所以跳转次数更少了，测了全球连进来的延迟也不比之前差\n\n总之还很满意喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 208,
+    "views": 210,
     "forwards": 2,
     "media_group_id": 14151577535205573,
     "images": [
@@ -103649,7 +103649,7 @@
     "id": 7739,
     "date": "2026-01-21T06:17:41",
     "text": "难得的没有云的晚上，可惜明天有早八………….",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "reply": {
       "id": 7718,
@@ -103660,7 +103660,7 @@
     "id": 7740,
     "date": "2026-01-22T06:40:10",
     "text": "每次查电磁波相关的事情都会被「人居然有两只宽频无线电接收器」这件事震撼到\n\n曾经幻想过插在头顶的天线可以让人接收到 wifi 之类的，明明眼睛已经完全超过这些了嘛... 虽然大脑的处理速度连 60Hz 都完全跟不上\n\n不过，如果真的有可以把 GHz 或者 MHz 电波等比例映射到可见光的眼镜就好了，毕竟在不同频率下不同材料和设备会变得透明/不透明/反射性、发光/不发光之类的，感觉会是完全不同的世界 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 200,
+    "views": 202,
     "forwards": 0,
     "reply": {
       "id": 7405,
@@ -103671,7 +103671,7 @@
     "id": 7741,
     "date": "2026-01-22T16:38:21",
     "text": "搬 家",
-    "views": 173,
+    "views": 175,
     "forwards": 0,
     "images": [
       {
@@ -103690,7 +103690,7 @@
     "id": 7742,
     "date": "2026-01-23T06:24:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 tracer 和 Celestium 去博多一幸舎吃了豚骨拉面 qwq\n\n我的这碗加上税和小费 $26，在日本博多一幸舎本店的同款面只要 ￥1300... 基本上是两倍价格了哇好贵好贵\n\n以及这边也是那种有一张纸可以定制面粗细浓度以及加什么之类的，然后就聊到了这里不像一蘭那样每人都有隔间... 感觉在日本有隔间的拉面店反而很少见吧，好像只有一蘭一家是某种特例，不知道为什么在日本外反而一蘭那种很有名的样子",
-    "views": 148,
+    "views": 152,
     "forwards": 1,
     "media_group_id": 14153195830795117,
     "images": [
@@ -103770,7 +103770,7 @@
     "id": 7749,
     "date": "2026-01-23T14:13:44",
     "text": "昨天的天好好看",
-    "views": 115,
+    "views": 125,
     "forwards": 2,
     "media_group_id": 14153420995231349,
     "images": [
