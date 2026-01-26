@@ -1,6 +1,6 @@
 ### 🐱 Hi there, I'm Azalea!
 
-I'm Azalea Gui, a 4th year CS undergrad at the University of Toronto. I find joy in designing modern web frontends and doing research in machine learning and audio/speech/music signal-processing projects. I published the [FAD toolkit](https://github.com/microsoft/fadtk) during my last research project on [improving the evaluation of generative music](https://arxiv.org/abs/2311.01616). I've also been doing independent research on creating an AI transgender voice training assistant.
+I'm Azalea Gui, a 1th year MEng student at the University of Waterloo. I find joy in making hardware and designing modern web frontends and doing research in machine learning and audio/speech/music signal-processing projects. I published the [FAD toolkit](https://github.com/microsoft/fadtk) during my last research project on [improving the evaluation of generative music](https://arxiv.org/abs/2311.01616). I've also been doing independent research on creating an AI transgender voice training assistant.
 
 I also love rhythm games and cats =^･-･^=
 
@@ -33,7 +33,7 @@ I also love rhythm games and cats =^･-･^=
 * **Frontend**: TypeScript + HTML + Sass - (Svelte, SolidJS, Vue3, ...)
 * **Research**: Python 3.12 - (pytorch, numpy, tensorflow, sklearn, pandas, xgboost, ...)
 * **CLI Tools**: Rust 🦀
-* **Embedded**: C++ (PlatformIO Arduino toolchain)
+* **Embedded**: C++ (PlatformIO Arduino toolchain), EasyEDA (JLCEDA)
 * **Mobile**: Kotlin for Android, Swift for iOS
 
 ### 🔮 Open-source Everything!
@@ -43,14 +43,19 @@ I aim to open-source not only code, but everything I make! This includes hardwar
 * 🎼 [Music](https://github.com/hykilpikonna/Music)
 * 🪛 [Hardware](https://github.com/hykilpikonna/OpenHardware)
 
+### 🛠️ Projects I'm actively maintaining <!--{ collapseSection() }-->
+
+* [Amaoke](https://github.com/MaigoLabs/amaoke.app): Japanese karaoke lyrics-reading/typing practice app
+* [AquaDX](https://github.com/hykilpikonna/AquaDX): An arcade server for the modern age
+* [HyFetch](https://github.com/hykilpikonna/hyfetch): Neofetch with LGBTQ+ pride flags
+* [Corner](https://github.com/hykilpikonna/corner): My corner of the internet
+
 ### 🌱 Projects I'm currently working on <!--{ collapseSection() }-->
 
-* `10%` An arcade server for the modern age: [AquaDX](https://github.com/hykilpikonna/AquaDX)
-* `90%` A personal home page / blog: [aza.moe](https://aza.moe) 
 * `40%` A transgender voice training app. [voice.hydev.org](https://voice.hydev.org/)
-
+* `20%` A distributed, federated anonymous question platform.
 
 ### 🌲 Completed projects <!--{ collapseSection() }-->
 
-I published many projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), previously a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx) before we broke up three year ago. Currently, I publish my projects to this personal account.
-There is a list of my significant projects on my [projects website](https://me.hydev.org). (TODO: Ok this project page is 4 years out-of-date I seriously need to update this ;-;)
+~~I published many projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), previously a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx) before we broke up three year ago. Currently, I publish my projects to this personal account.
+There is a list of my significant projects on my [projects website](https://me.hydev.org).~~ (TODO: Ok this project page is 4 years out-of-date I seriously need to update this ;-;)
