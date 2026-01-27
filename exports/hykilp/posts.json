@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 502,
+    "views": 503,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8440,
+    "views": 8441,
     "forwards": 174,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86228,7 +86228,7 @@
     "id": 6321,
     "date": "2025-08-21T17:07:32",
     "text": "发布了 hyfetch 第一个 rust 重写之后的正式版本！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n（感谢 <a href=\"https://github.com/teohhanhui\">@teohhanhui</a> 帮忙 RIIR！）",
-    "views": 355,
+    "views": 356,
     "forwards": 5,
     "reply": {
       "id": 4790,
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 568,
+    "views": 569,
     "forwards": 13
   },
   {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 2078,
+    "views": 2079,
     "forwards": 14,
     "reply": {
       "id": 7212,
@@ -97727,7 +97727,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 378,
+    "views": 379,
     "forwards": 3,
     "media_group_id": 14110545978129917,
     "files": [
@@ -102725,8 +102725,8 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 479,
-    "forwards": 9,
+    "views": 483,
+    "forwards": 10,
     "images": [
       {
         "width": 1920,
@@ -102744,7 +102744,7 @@
     "id": 7671,
     "date": "2026-01-04T22:13:23",
     "text": "以及发现了一些彩蛋 / bug\n（剧透警告）<span class=\"spoiler\"><span>\n\n虽然一般流程下最后的 boss 会让你做一个虾天天天天天天天天天天天天天天天天天天天妇罗，做到一半就会 stack overflow 把宇宙炸掉。但是只要刚开始游戏就把它做出来的话就可以给她吃让宇宙不会炸掉了\n\n以及，在宇宙炸掉之后只是在游戏界面上多加了一个图层，并没有关掉互动逻辑，所以在宇宙尽头也可以继续炸天妇罗 qwq（甚至可以再炸一次宇宙）</span></span>",
-    "views": 369,
+    "views": 370,
     "forwards": 0,
     "reply": {
       "id": 7670,
@@ -102771,14 +102771,14 @@
     "id": 7672,
     "date": "2026-01-05T04:53:36",
     "text": "明天要开学了\n\n不知道为什么，实际上很期待开学",
-    "views": 365,
+    "views": 366,
     "forwards": 0
   },
   {
     "id": 7674,
     "date": "2026-01-06T04:54:36",
     "text": "复制钥匙",
-    "views": 390,
+    "views": 391,
     "forwards": 4,
     "media_group_id": 14141402211502797,
     "images": [
@@ -103500,7 +103500,7 @@
     "id": 7730,
     "date": "2026-01-18T19:23:23",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n在新的家做的第一顿饭是方便面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n（聊聊要了 extra 肉肉）\n\n以及在想，方便面虽然说是 \"instant ramen\"，但是实际上也并不是瞬间就能煮好，煮的时间也和一般挂面差不多...  <del>有没有可能真的做一个瞬间煮好的方便面呢？比如进行一次可控爆炸瞬间把所有水和面热熟</del>",
-    "views": 276,
+    "views": 277,
     "forwards": 1,
     "images": [
       {
@@ -103557,7 +103557,7 @@
     "id": 7733,
     "date": "2026-01-20T00:51:23",
     "text": "终于调好了完美的 iPad thin client 方案，可以不用带电脑去学校了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n之前因为默认的 sunshine/moonlight 远程桌面不能自动适配分辨率，我就去试了一下用 Windows RDP... 结果折腾了超级久把系统搞坏了又修好了还依然不能用（现在是抓包看到连接进来之后立即被 TCP RST...）\n\n然后就放弃 RDP 了，找找其他方案，找到了 Apollo (sunshine fork) 和 Void Link (moonlight fork)。一个增加了自适配分辨率的虚拟显示器驱动，另一个增加了多点触摸适配，这两个加起来就是现在这个完美的 windows 触屏远程桌面方案啦！\n\n还是开源软件好，自己想要什么原版没有的功能 fork 就好了",
-    "views": 248,
+    "views": 249,
     "forwards": 3,
     "reply": {
       "id": 7698,
