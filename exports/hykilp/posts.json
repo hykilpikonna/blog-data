@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5759,
+    "views": 5760,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1893,
+    "views": 1894,
     "forwards": 52
   },
   {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 984,
+    "views": 985,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1241,
+    "views": 1242,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6440,
+    "views": 6442,
     "forwards": 150,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 653,
+    "views": 654,
     "forwards": 0,
     "images": [
       {
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1979,
+    "views": 1980,
     "forwards": 18,
     "reply": {
       "id": 7210,
@@ -103649,7 +103649,7 @@
     "id": 7739,
     "date": "2026-01-21T06:17:41",
     "text": "难得的没有云的晚上，可惜明天有早八………….",
-    "views": 282,
+    "views": 283,
     "forwards": 0,
     "reply": {
       "id": 7718,
@@ -103770,7 +103770,7 @@
     "id": 7749,
     "date": "2026-01-23T14:13:44",
     "text": "昨天的天好好看",
-    "views": 257,
+    "views": 258,
     "forwards": 2,
     "media_group_id": 14153420995231349,
     "images": [
@@ -103800,13 +103800,13 @@
     "id": 7751,
     "date": "2026-01-25T02:15:34",
     "text": "想要<span class=\"spoiler\"><span>洗发水护发素沐浴露洗面奶卸妆水牙膏润滑液 WD40 洁厕灵驱蚊水</span></span>十合一的万能药水",
-    "views": 234,
+    "views": 236,
     "forwards": 3
   },
   {
     "id": 7752,
     "date": "2026-01-25T14:26:55",
-    "views": 183,
+    "views": 185,
     "forwards": 4,
     "forwarded_from": {
       "name": "fox_porn🦊"
@@ -103831,7 +103831,7 @@
     "id": 7753,
     "date": "2026-01-25T14:28:27",
     "text": "这个频道平时不转发内容的... 但是好可爱好可爱好可爱！！！！！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "reply": {
       "id": 7752
@@ -103841,7 +103841,7 @@
     "id": 7754,
     "date": "2026-01-26T03:17:43",
     "text": "好耶！可以去巴塞罗那了！<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 197,
+    "views": 198,
     "forwards": 1,
     "images": [
       {
@@ -103860,7 +103860,7 @@
     "id": 7755,
     "date": "2026-01-26T15:23:19",
     "text": "聊聊：gansu地震了\n我查了一下がんす是哪发现没有这个地方，然后发现中国居然有一个省叫甘肃，第一次听说这个省",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "images": [
       {
