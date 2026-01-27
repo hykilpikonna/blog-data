@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2773,
+    "views": 2774,
     "forwards": 29,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6439,
+    "views": 6440,
     "forwards": 150,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 652,
+    "views": 653,
     "forwards": 0,
     "images": [
       {
@@ -102725,7 +102725,7 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 478,
+    "views": 479,
     "forwards": 9,
     "images": [
       {
@@ -103770,7 +103770,7 @@
     "id": 7749,
     "date": "2026-01-23T14:13:44",
     "text": "昨天的天好好看",
-    "views": 256,
+    "views": 257,
     "forwards": 2,
     "media_group_id": 14153420995231349,
     "images": [
@@ -103860,7 +103860,7 @@
     "id": 7755,
     "date": "2026-01-26T15:23:19",
     "text": "聊聊：gansu地震了\n我查了一下がんす是哪发现没有这个地方，然后发现中国居然有一个省叫甘肃，第一次听说这个省",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
