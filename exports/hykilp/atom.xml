@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-01-28T02:57:56.282406+00:00</updated>
+  <updated>2026-01-28T04:37:20.031756+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7762</id>
+    <title>小桂桂的回忆录 📒 #7762</title>
+    <updated>2026-01-28T04:29:31+00:00</updated>
+    <content>&lt;p&gt;配好新家的 WiFi 了！&lt;/p&gt;
+&lt;p&gt;新家是一个三层的 townhouse，入户光纤在地下室，但是如果把路由器放在地下室的话第三层就基本上连不上了... 怎么办呢？&lt;/p&gt;
+&lt;p&gt;原本打算买几个 OpenWRT 组 mesh，不过聊这件事的时候某本王发现了 ebay 上很便宜的 Aruba AP 535，就和豆腐一起从美国转运了五个过来（其中两个是她想买的，加上运费和税每个 CA$54.3）&lt;/p&gt;
+&lt;p&gt;今天终于全都 setup 好啦，交换机放在楼下，PoE 接上去每层一个 AP，在每层都会切换到当前层的 AP，不用再担心穿墙能力之类的了 qwq&lt;/p&gt;
+&lt;p&gt;不过还需要想想怎样挂到墙上... 原本以为很小很轻的，想一个钉子挂墙上，结果到了之后发现又大又重，只好先放地上了 &lt;i class="custom-emoji" emoji-src="emoji/6323109926151390915.webp"&gt;😪&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7762" rel="alternate"/>
+  </entry>
   <entry>
     <id>7755</id>
     <title>小桂桂的回忆录 📒 #7755</title>
