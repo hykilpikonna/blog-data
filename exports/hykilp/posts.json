@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1905,
-    "forwards": 53
+    "views": 1923,
+    "forwards": 54
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1186,
+    "views": 1188,
     "forwards": 12,
     "reply": {
       "id": 5277,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6471,
+    "views": 6473,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -100800,7 +100800,7 @@
     "id": 7504,
     "date": "2025-12-16T13:47:40",
     "text": "感觉 AI 视频模型完全毁掉了「看上去很不可思议/小概率的视频」的观感... 以前看会被震撼到，现在看第一反应只会觉得一定是 AI 生成的",
-    "views": 380,
+    "views": 381,
     "forwards": 1
   },
   {
@@ -104021,7 +104021,7 @@
     "id": 7773,
     "date": "2026-01-30T04:10:11",
     "text": "这个配色... 第一眼还以为在北美看到了 FamilyMart <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "images": [
       {
@@ -104090,8 +104090,8 @@
     "id": 7778,
     "date": "2026-01-31T19:16:58",
     "text": "因为去年毕业了，现在 UofT 邮箱马上就要被删掉了，想要备份一下，结果研究了三个小时才备份好...\n\n首先试了 Outlook 客户端，但是学校把已经毕业的人的客户端许可撤掉了所以登不进去，网页版能登录但是不能导出\n\n然后试了 MailStore Home，发现不支持 OAuth 登录。想要用旧方法创建一个应用密码登录，但是发现学校设置禁止了，所以就完全没法登录\n\n然后试了 ThunderBird，完全没有备份的选项，也没办法下载所有附件\n\n然后试了自搭 OpenArchiver，发现入门体验非常差，按文档启动起来第一次打开前端就是一个管理员登录界面也没有地方让我设置账号密码，试了一下默认密码告诉我没法连接到后端\n\n然后试了 eM Client，支持 OAuth 但是登不进去因为学校开了白名单，它没有在 OAuth 应用白名单上所以禁止登录\n\n最后还是，开了一个 MS365 Dev Program 给自己 Outlook 桌面版许可再登录账号导出了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 好累好累",
-    "views": 136,
-    "forwards": 0,
+    "views": 143,
+    "forwards": 1,
     "media_group_id": 14159096147603869,
     "images": [
       {
@@ -104130,7 +104130,7 @@
     "id": 7781,
     "date": "2026-02-01T02:18:52",
     "text": "玩 persona 5，看到墙上有二维码就想扫，但是视角被挡住了\n\n所以侧一下头找到一个能看到完整的视角截图，然后进行 perspective 矫正，然后再用颜色曲线和黑白工具转成黑白，再把格子对齐降分辨率，再把一些灰色不清楚的地方手动纠正...\n\n结果还是什么都没有扫出来。这合理吗 呜呜",
-    "views": 93,
+    "views": 108,
     "forwards": 1,
     "media_group_id": 14159298658402061,
     "images": [
