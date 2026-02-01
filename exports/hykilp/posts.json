@@ -1383,14 +1383,14 @@
     "id": 135,
     "date": "2021-10-18T23:26:46",
     "text": "《日が落ちるまで》\n\n<a href=\"https://y.music.163.com/m/song?id=740530\">https://y.music.163.com/m/song?id=740530</a>",
-    "views": 67,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 136,
     "date": "2021-10-19T18:53:41",
     "text": "秋天的校园w",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13077356969612293,
     "images": [
@@ -1420,14 +1420,14 @@
     "id": 138,
     "date": "2021-10-20T02:23:32",
     "text": "要重新想想怎样记时间表了...\n\n现在我的时间表只分成两类，一类是“高效”时间利用，有必须做的日常琐事比如作业、吃饭、洗澡、去学校，还有兴趣和项目，另一类则是浪费时间的事情比如看视频、听音乐、聊天、看番、小睡、玩。\n\n时间记录的目的是减少浪费的时间，可是这些真的是我想要减少的嘛？看番、听音乐、聊天，这些摸鱼的事情也许同样很重要、有意义。如果不是以前总是懒在床上不停地看 YouTube 上的冷知识视频，和朋友聊聊琐事，我肯定会是更无趣的人吧。\n\n重新改一下时间表的格式啦，改成“有意义的时间”和“想要减少的时间”两类，把每天做的事情重新按内容分类一下。比如写这段用的时间会分类到有意义的时间里，又比如即使 MAT223 Perusall 是必须写的作业，也阻止不了我把它分到想要减少的时间里（\n\n<a href=\"https://www.youtube.com/watch?v=job52mBUvjc\">https://www.youtube.com/watch?v=job52mBUvjc</a>",
-    "views": 66,
+    "views": 67,
     "forwards": 0
   },
   {
     "id": 139,
     "date": "2021-10-21T13:42:50",
     "text": "连续三天十小时的精致睡眠www",
-    "views": 53,
+    "views": 54,
     "forwards": 0,
     "images": [
       {
@@ -1446,14 +1446,14 @@
     "id": 140,
     "date": "2021-10-21T14:34:57",
     "text": "希望生活永远不会成为 routine",
-    "views": 57,
+    "views": 58,
     "forwards": 0
   },
   {
     "id": 141,
     "date": "2021-10-22T19:50:11",
     "text": "哭，才停二十分钟就被撬锁（",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "images": [
       {
@@ -1472,7 +1472,7 @@
     "id": 143,
     "date": "2021-10-23T01:29:45",
     "text": "今日晚餐：\n- 已经凉了的酱排骨\n- 刚煮好的饭\n- 放了一周的软沙拉",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "media_group_id": 13079620680602445,
     "images": [
@@ -1502,7 +1502,7 @@
     "id": 144,
     "date": "2021-10-25T15:31:37",
     "text": "我：听歌放松一会吧w\n别野加奈：你写完作业了吗？\n...\n\n和你在同一个屋檐下的生活，\n迷失在形形色色的美好梦境——\n一场场注定被作业唤醒的梦。\n\n<a href=\"https://y.music.163.com/m/song?id=1305762566\">https://y.music.163.com/m/song?id=1305762566</a>",
-    "views": 60,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13081407177950045,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1933,
+    "views": 1934,
     "forwards": 55
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6475,
+    "views": 6476,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -100372,7 +100372,7 @@
     "id": 7469,
     "date": "2025-12-13T14:55:19",
     "text": "原来「撫子」是一种花\n\n（是摇曳露营粉毛女主的名字）",
-    "views": 253,
+    "views": 254,
     "forwards": 3,
     "images": [
       {
@@ -100391,21 +100391,21 @@
     "id": 7470,
     "date": "2025-12-13T18:31:56",
     "text": "好累，如果有帕鲁可以帮我清空 todo 就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 262,
+    "views": 263,
     "forwards": 0
   },
   {
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 258,
+    "views": 259,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 273,
+    "views": 274,
     "forwards": 1,
     "images": [
       {
@@ -100424,7 +100424,7 @@
     "id": 7473,
     "date": "2025-12-14T00:33:33",
     "text": "把 blog 的数据迁移到 homelab 上把它修好了\n\n以及今天终于抽出时间把这台机器上部署的二十多个网页全都从 nginx 迁移到 caddy 了，原本觉得两小时肯定够了结果折腾到了凌晨九点半，好累好累好累...\n\n不过 caddy 确实好方便，不再需要手动管理 TLS 了，配置行数直接减少 7.5 倍！不过现在已经没有力气为这件事情开心了，全身都只想要睡觉—— <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 261,
+    "views": 262,
     "forwards": 0,
     "reply": {
       "id": 7432,
@@ -101716,7 +101716,7 @@
   {
     "id": 7586,
     "date": "2025-12-25T19:22:09",
-    "views": 264,
+    "views": 265,
     "forwards": 2,
     "files": [
       {
@@ -102918,7 +102918,7 @@
     "id": 7685,
     "date": "2026-01-10T03:55:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n在 Celestium 和 tracer 家里吃了すき焼き！",
-    "views": 265,
+    "views": 266,
     "forwards": 1,
     "media_group_id": 14144138456527205,
     "images": [
@@ -103317,7 +103317,7 @@
     "id": 7716,
     "date": "2026-01-15T14:35:04",
     "text": "然后今天因为大雪 UW 和 UT 都停课了（虽然我并没有今天的课，只剩下扫雪...",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "reply": {
       "id": 7714,
@@ -103328,7 +103328,7 @@
     "id": 7717,
     "date": "2026-01-16T01:18:04",
     "text": "扫雪好累扫雪好累扫雪好累\n\n请别人扫雪的话一次 $90...\n\n还是花 $272 买了一个扫雪机",
-    "views": 270,
+    "views": 271,
     "forwards": 0,
     "reply": {
       "id": 7716,
@@ -103585,7 +103585,7 @@
     "id": 7734,
     "date": "2026-01-20T22:13:11",
     "text": "换 ebox 了！说说体验吧\n\n首先是终于有 ipv6 了，每台设备都有公网 ip 好不错！\n\n其次网络设备也很不错，之前用 Bell 的时候给的是一个带光纤的路由器，所以如果想用自己的路由器就只能自己买光猫棒... 相比之下 EBox 是直接给了一个 10G ONT，想接自己的路由器直接用它接就可以了（我接了豆腐球给我的 MikroTik hAP ac，好用喵感谢豆腐）\n\n不过激活体验真的很孬，我 12.28 开的账号居然 1.20 才有人来安装... 明明只要给我 ONT 我自己就会装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n网络线路的话，是 1 gbps 下 750 mbps 上的套餐，实测有线上下都在 700 mbps 左右。\n\n以及确实所有路由都要绕蒙特利尔，所以增加了 10 ms 的延迟，从之前的 2ms 变成了 11ms... 好像也不影响什么，反而因为和很多云服务 ISP 有直连的 peering 所以跳转次数更少了，测了全球连进来的延迟也不比之前差\n\n总之还很满意喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 253,
+    "views": 254,
     "forwards": 3,
     "media_group_id": 14151577535205573,
     "images": [
@@ -103649,7 +103649,7 @@
     "id": 7739,
     "date": "2026-01-21T06:17:41",
     "text": "难得的没有云的晚上，可惜明天有早八………….",
-    "views": 311,
+    "views": 312,
     "forwards": 0,
     "reply": {
       "id": 7718,
@@ -103660,7 +103660,7 @@
     "id": 7740,
     "date": "2026-01-22T06:40:10",
     "text": "每次查电磁波相关的事情都会被「人居然有两只宽频无线电接收器」这件事震撼到\n\n曾经幻想过插在头顶的天线可以让人接收到 wifi 之类的，明明眼睛已经完全超过这些了嘛... 虽然大脑的处理速度连 60Hz 都完全跟不上\n\n不过，如果真的有可以把 GHz 或者 MHz 电波等比例映射到可见光的眼镜就好了，毕竟在不同频率下不同材料和设备会变得透明/不透明/反射性、发光/不发光之类的，感觉会是完全不同的世界 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 307,
+    "views": 309,
     "forwards": 0,
     "reply": {
       "id": 7405,
@@ -103671,7 +103671,7 @@
     "id": 7741,
     "date": "2026-01-22T16:38:21",
     "text": "搬 家",
-    "views": 267,
+    "views": 269,
     "forwards": 0,
     "images": [
       {
@@ -103690,7 +103690,7 @@
     "id": 7742,
     "date": "2026-01-23T06:24:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 tracer 和 Celestium 去博多一幸舎吃了豚骨拉面 qwq\n\n我的这碗加上税和小费 $26，在日本博多一幸舎本店的同款面只要 ￥1300... 基本上是两倍价格了哇好贵好贵\n\n以及这边也是那种有一张纸可以定制面粗细浓度以及加什么之类的，然后就聊到了这里不像一蘭那样每人都有隔间... 感觉在日本有隔间的拉面店反而很少见吧，好像只有一蘭一家是某种特例，不知道为什么在日本外反而一蘭那种很有名的样子",
-    "views": 266,
+    "views": 268,
     "forwards": 1,
     "media_group_id": 14153195830795117,
     "images": [
@@ -103806,7 +103806,7 @@
   {
     "id": 7752,
     "date": "2026-01-25T14:26:55",
-    "views": 266,
+    "views": 267,
     "forwards": 4,
     "forwarded_from": {
       "name": "fox_porn🦊"
@@ -103831,7 +103831,7 @@
     "id": 7753,
     "date": "2026-01-25T14:28:27",
     "text": "这个频道平时不转发内容的... 但是好可爱好可爱好可爱！！！！！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 306,
+    "views": 308,
     "forwards": 1,
     "reply": {
       "id": 7752
@@ -103841,7 +103841,7 @@
     "id": 7754,
     "date": "2026-01-26T03:17:43",
     "text": "好耶！可以去巴塞罗那了！<i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 310,
+    "views": 311,
     "forwards": 1,
     "images": [
       {
@@ -103879,7 +103879,7 @@
     "id": 7762,
     "date": "2026-01-28T04:29:31",
     "text": "配好新家的 WiFi 了！\n\n新家是一个三层的 townhouse，入户光纤在地下室，但是如果把路由器放在地下室的话第三层就基本上连不上了... 怎么办呢？\n\n原本打算买几个 OpenWRT 组 mesh，不过聊这件事的时候某本王发现了 ebay 上很便宜的 Aruba AP 535，就和豆腐一起从美国转运了五个过来（其中两个是她想买的，加上运费和税每个 CA$54.3）\n\n今天终于全都 setup 好啦，交换机放在楼下，PoE 接上去每层一个 AP，在每层都会切换到当前层的 AP，不用再担心穿墙能力之类的了 qwq\n\n不过还需要想想怎样挂到墙上... 原本以为很小很轻的，想一个钉子挂墙上，结果到了之后发现又大又重，只好先放地上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323109926151390915.webp\">😪</i>",
-    "views": 238,
+    "views": 239,
     "forwards": 3,
     "media_group_id": 14156596574746813,
     "images": [
@@ -103959,7 +103959,7 @@
     "id": 7769,
     "date": "2026-01-29T15:28:05",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n熏肉三明治！\n\n这家超好吃，好吃到几乎每年都会获得 Best of XX 的奖项，有点厉害\n\n...不过因为搬家了，也许这是最后一次吃这家了。搬家之后还要重新探索新家周围的店，觉得又麻烦又有点期待",
-    "views": 194,
+    "views": 196,
     "forwards": 1,
     "media_group_id": 14157603885617205,
     "images": [
@@ -103999,7 +103999,7 @@
     "id": 7772,
     "date": "2026-01-29T16:25:05",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 機械仕掛けの宇宙は回り続ける\n♪ 回り続ける\n♪ ゆっくり　静かに\n♪ こんな日がいつまでも続けばいいって思ってた",
-    "views": 199,
+    "views": 200,
     "forwards": 0,
     "files": [
       {
@@ -104021,7 +104021,7 @@
     "id": 7773,
     "date": "2026-01-30T04:10:11",
     "text": "这个配色... 第一眼还以为在北美看到了 FamilyMart <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 194,
+    "views": 196,
     "forwards": 0,
     "images": [
       {
@@ -104040,7 +104040,7 @@
     "id": 7774,
     "date": "2026-01-30T04:26:41",
     "text": "今天去把最后一点东西搬走了，把旧家的钥匙还给房东了，还是有点不舍...\n\n从初一出国到大学之前我一直像是在流浪，每年都在搬家，每个住所都感觉很临时，因为知道很快就会搬走也没有心思花精力把住处打造成自己喜欢的样子。所以某种意义上，这里也许是第一个让我拥有归属感、有「家的感觉」的地方\n\n原本以为只要在加拿大就可以一直住在这里，结果还是搬走了。新的房子里目前还只有堆满房间的纸箱，不知道什么时候才能有时间把东西摆好、让这里变成新的家呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 304,
+    "views": 305,
     "forwards": 2,
     "media_group_id": 14157977611886989,
     "images": [
@@ -104090,7 +104090,7 @@
     "id": 7778,
     "date": "2026-01-31T19:16:58",
     "text": "因为去年毕业了，现在 UofT 邮箱马上就要被删掉了，想要备份一下，结果研究了三个小时才备份好...\n\n首先试了 Outlook 客户端，但是学校把已经毕业的人的客户端许可撤掉了所以登不进去，网页版能登录但是不能导出\n\n然后试了 MailStore Home，发现不支持 OAuth 登录。想要用旧方法创建一个应用密码登录，但是发现学校设置禁止了，所以就完全没法登录\n\n然后试了 ThunderBird，完全没有备份的选项，也没办法下载所有附件\n\n然后试了自搭 OpenArchiver，发现入门体验非常差，按文档启动起来第一次打开前端就是一个管理员登录界面也没有地方让我设置账号密码，试了一下默认密码告诉我没法连接到后端\n\n然后试了 eM Client，支持 OAuth 但是登不进去因为学校开了白名单，它没有在 OAuth 应用白名单上所以禁止登录\n\n最后还是，开了一个 MS365 Dev Program 给自己 Outlook 桌面版许可再登录账号导出了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 好累好累",
-    "views": 154,
+    "views": 158,
     "forwards": 1,
     "media_group_id": 14159096147603869,
     "images": [
@@ -104130,7 +104130,7 @@
     "id": 7781,
     "date": "2026-02-01T02:18:52",
     "text": "玩 persona 5，看到墙上有二维码就想扫，但是视角被挡住了\n\n所以侧一下头找到一个能看到完整的视角截图，然后进行 perspective 矫正，然后再用颜色曲线和黑白工具转成黑白，再把格子对齐降分辨率，再把一些灰色不清楚的地方手动纠正...\n\n结果还是什么都没有扫出来。这合理吗 呜呜",
-    "views": 135,
+    "views": 141,
     "forwards": 1,
     "media_group_id": 14159298658402061,
     "images": [
@@ -104179,13 +104179,123 @@
   {
     "id": 7785,
     "date": "2026-02-01T09:39:51",
-    "views": 76,
+    "views": 104,
     "forwards": 0,
     "files": [
       {
         "longitude": -81.41902484489893,
         "latitude": 45.13458830177569,
         "media_type": "location"
+      }
+    ]
+  },
+  {
+    "id": 7786,
+    "date": "2026-02-01T13:19:18",
+    "text": "进行了一次来回 7h 500km 说走就走的看星星旅行！\n\n昨天在 persona 5 里面玩到了大家去池袋满天 planetarium 看星星的剧情，让我也好想看星星了。看了一眼窗外发现今天居然正好没有云，是一两个月都难得一次的完全晴天...\n\n但是窗外却没有看到很多星星，觉得是不是这里光污染太亮了，就查了一下哪里光污染最小，把一些可能在紧急情况用上的生存储备放进后备箱就出发了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n开车三个小时到了之后发现也并没有看到银河，星星也只能看到比较亮的... 下车看到自己的影子才发现，原来今天正好是一个月里月亮最圆最亮的时候，即使到了没有光污染的地方月亮本身的光污染也会让我看不到星星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n然后问了流浪猫，才知道原来冬天即使没有光污染没有云没有月亮也看不到银河，因为在地球对面... 好好笑。不过也不后悔啦，没看到星星也挺有趣的 qwq\n\n（以及真的感谢聊聊愿意跟我一起说走就走... 回程的时候我已经开着车睡着了，如果不是聊聊喊了一下以及帮我开后半程的话我应该已经撞进雪里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 呜呜）",
+    "views": 59,
+    "forwards": 1,
+    "media_group_id": 14159615671304589,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1440,
+        "date": "2026-02-01T13:19:00",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-00.jpg",
+        "url": "media/7786.jpg",
+        "size": 534282,
+        "thumb": "media/7786.jpg_thumb.jpg"
+      },
+      {
+        "width": 1442,
+        "height": 998,
+        "date": "2026-02-01T13:19:00",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-00.jpg",
+        "url": "media/7787.jpg",
+        "size": 124181,
+        "thumb": "media/7787.jpg_thumb.jpg"
+      },
+      {
+        "width": 1016,
+        "height": 1390,
+        "date": "2026-02-01T13:19:01",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-01.jpg",
+        "url": "media/7788.jpg",
+        "size": 201839,
+        "thumb": "media/7788.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-02-01T13:19:05",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-05.jpg",
+        "url": "media/7789.jpg",
+        "size": 655912,
+        "thumb": "media/7789.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2026-02-01T13:19:07",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-07.jpg",
+        "url": "media/7790.jpg",
+        "size": 249150,
+        "thumb": "media/7790.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-02-01T13:19:08",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-08.jpg",
+        "url": "media/7791.jpg",
+        "size": 266317,
+        "thumb": "media/7791.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "date": "2026-02-01T13:19:09",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-09.jpg",
+        "url": "media/7792.jpg",
+        "size": 346541,
+        "thumb": "media/7792.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-02-01T13:19:12",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-12.jpg",
+        "url": "media/7793.jpg",
+        "size": 375878,
+        "thumb": "media/7793.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-02-01T13:19:13",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-13.jpg",
+        "url": "media/7794.jpg",
+        "size": 290317,
+        "thumb": "media/7794.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-02-01T13:19:18",
+        "media_type": "photo",
+        "original_name": "photo_2026-02-01_13-19-18.jpg",
+        "url": "media/7795.jpg",
+        "size": 705934,
+        "thumb": "media/7795.jpg_thumb.jpg"
       }
     ]
   }
