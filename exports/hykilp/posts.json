@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1939,
+    "views": 1940,
     "forwards": 55
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1191,
+    "views": 1192,
     "forwards": 12,
     "reply": {
       "id": 5277,
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8457,
+    "views": 8458,
     "forwards": 175,
     "media_group_id": 14043941176651549,
     "images": [
@@ -98094,7 +98094,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 353,
+    "views": 354,
     "forwards": 4,
     "images": [
       {
@@ -103959,7 +103959,7 @@
     "id": 7769,
     "date": "2026-01-29T15:28:05",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n熏肉三明治！\n\n这家超好吃，好吃到几乎每年都会获得 Best of XX 的奖项，有点厉害\n\n...不过因为搬家了，也许这是最后一次吃这家了。搬家之后还要重新探索新家周围的店，觉得又麻烦又有点期待",
-    "views": 208,
+    "views": 209,
     "forwards": 1,
     "media_group_id": 14157603885617205,
     "images": [
@@ -104021,7 +104021,7 @@
     "id": 7773,
     "date": "2026-01-30T04:10:11",
     "text": "这个配色... 第一眼还以为在北美看到了 FamilyMart <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "images": [
       {
@@ -104040,7 +104040,7 @@
     "id": 7774,
     "date": "2026-01-30T04:26:41",
     "text": "今天去把最后一点东西搬走了，把旧家的钥匙还给房东了，还是有点不舍...\n\n从初一出国到大学之前我一直像是在流浪，每年都在搬家，每个住所都感觉很临时，因为知道很快就会搬走也没有心思花精力把住处打造成自己喜欢的样子。所以某种意义上，这里也许是第一个让我拥有归属感、有「家的感觉」的地方\n\n原本以为只要在加拿大就可以一直住在这里，结果还是搬走了。新的房子里目前还只有堆满房间的纸箱，不知道什么时候才能有时间把东西摆好、让这里变成新的家呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 324,
+    "views": 325,
     "forwards": 2,
     "media_group_id": 14157977611886989,
     "images": [
