@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-02-06T04:50:47.583464+00:00</updated>
+  <updated>2026-02-06T06:35:04.254815+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7812</id>
+    <title>小桂桂的回忆录 📒 #7812</title>
+    <updated>2026-02-06T05:09:33+00:00</updated>
+    <content>&lt;p&gt;花两个小时破解了极米投影仪！adb root magisk 全都有了&lt;/p&gt;
+&lt;p&gt;今天从中国买的极米 RS20 投影仪到货了，开机发现是安卓 14，但是特别封闭...&lt;/p&gt;
+&lt;p&gt;系统本身没有「安装第三方应用」的功能。有文件管理器，但是把 apk 文件复制到 U 盘里插上去也会被文件管理器过滤掉。想要开启开发者模式用 adb 安装，去设置连续点击构建版本号没反应，去网上查也没有什么办法。原本想改固件刷进去，但是发现固件格式和 2022 年的格式完全不一样了，用之前的拆包工具拆不出来&lt;/p&gt;
+&lt;p&gt;不过尝试了两小时之后还是破解出来了！（因为漏洞实在太蠢了我还是不写 writeup 了，属于只要写了可能会被立刻 patch 掉的程度，不过如果有人同样买了极米投影仪想破解的话欢迎 DM 我 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7812" rel="alternate"/>
+  </entry>
   <entry>
     <id>7805</id>
     <title>小桂桂的回忆录 📒 #7805</title>
