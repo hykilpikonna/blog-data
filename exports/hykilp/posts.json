@@ -68375,7 +68375,7 @@
     "id": 4950,
     "date": "2025-02-21T08:30:54",
     "text": "今天踩了一个巨大坑\n\n某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??\n\n众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了\n\n用 <code>ndk-stack</code> 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...\n\n好灵车啊 <del>如果是 il2rust 是不是就没有这个问题了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 3,
     "media_group_id": 13921013237436885,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6480,
+    "views": 6481,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97716,7 +97716,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 401,
+    "views": 402,
     "forwards": 3,
     "reply": {
       "id": 7256,
@@ -99457,7 +99457,7 @@
   {
     "id": 7395,
     "date": "2025-12-03T13:37:43",
-    "views": 753,
+    "views": 754,
     "forwards": 14,
     "media_group_id": 14118152504658685,
     "images": [
@@ -104303,7 +104303,7 @@
     "id": 7796,
     "date": "2026-02-03T17:37:57",
     "text": "在后院看到了野生兔兔 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n冬天的好处是，看脚印就能看出有什么小动物路过了后院\n\n好想摆一个喂食盆和相机在外面拍小动物 qwq",
-    "views": 218,
+    "views": 219,
     "forwards": 2,
     "media_group_id": 14161122218589813,
     "images": [
@@ -104590,7 +104590,7 @@
     "id": 7818,
     "date": "2026-02-08T19:28:24",
     "text": "😈",
-    "views": 137,
+    "views": 140,
     "forwards": 1,
     "images": [
       {
@@ -104608,7 +104608,7 @@
   {
     "id": 7819,
     "date": "2026-02-08T19:32:26",
-    "views": 133,
+    "views": 135,
     "forwards": 0,
     "files": [
       {
@@ -104636,7 +104636,7 @@
             "data": "Mw=="
           }
         ],
-        "total_voter_count": 34,
+        "total_voter_count": 35,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -104649,7 +104649,7 @@
     "id": 7820,
     "date": "2026-02-08T19:51:31",
     "text": "第一次打网线！好好玩 qwq\n\n之前听朋友说打网线好累好麻烦什么的就一直没敢试，但是现在搬到新家了想要一些长度正好的墙内布线，决定试试好了就买了工具和水晶头\n\n然后发现钳网线好简单好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 135,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 14164642330488685,
     "images": [
@@ -104709,7 +104709,7 @@
     "id": 7830,
     "date": "2026-02-08T20:33:15",
     "text": "制作了一根 0.00 米网线！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（没有什么用，纯粹因为好玩hhhh",
-    "views": 142,
+    "views": 144,
     "forwards": 1,
     "media_group_id": 14164662364661325,
     "images": [
@@ -104769,7 +104769,7 @@
     "id": 7835,
     "date": "2026-02-09T05:43:24",
     "text": "换了 ebox 有半个月了，bell 还没取消，还在犹豫要不要留下来...\n\n今天去测了一下全球测速，发现结果并没有之前想象的那么好\n\n最主要的问题是，虽然 ping 和中位上行基本上和 Bell 持平，但是中位下行比 Bell 慢很多 (170 Mbps vs 284 Mbps)\n\n还有 ipv6 比 v4 慢的问题、还有在本地的其他网络环境远程桌面连到家会有 24ms 延迟的问题...（虽然因为延迟稳定所以远程桌面体验也没有特别差）\n\n不知道要留哪个... 有点想要更高的下载速度，但是又觉得不值得每年多花 $216（基本上是我一年手机话费价格了）\n\n...是不是能让我这么犹豫就说明两个选择都不错呢？",
-    "views": 96,
+    "views": 98,
     "forwards": 0,
     "reply": {
       "id": 7734,
