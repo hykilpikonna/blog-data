@@ -71933,7 +71933,7 @@
     "id": 5208,
     "date": "2025-04-15T20:19:42",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nこれが．．．ぎゅう、どん！\n\n这居然确实无疑是<del>牛顿</del>",
-    "views": 290,
+    "views": 291,
     "forwards": 0,
     "media_group_id": 13957987062717005,
     "images": [
@@ -72701,7 +72701,7 @@
     "id": 5266,
     "date": "2025-04-24T00:21:41",
     "text": "然后依然不想回家，正好离 Henry 家比较近就去找他玩，玩了 arcaea 和 osu\n\n从他的 osu 最近游玩里找到了好多当时打太多遍打到过拟合能够背下来的谱，比如 ”(can you) understand me“ 还有 “world.execute(me)”\n\n虽然代码皮肤延迟设备判定都和当初不一样了，但是打到一首熟悉谱面的手感并不会骗人——听着歌、划起笔、敲起键盘，仿佛身边空气的气味和自己的心情一起回到了当时在麻省郊区的小屋，仿佛侧过头还能看到前前任香子兰在左上角围观，像是激活了一张三分钟的时光传送券，带回来了只存在于文字中的回忆...\n\n在回家的地铁上哭了... 好想把这些回忆永远保存下来，可惜每次触发都只会变得越来越模糊，直到完全被现在覆盖 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 382,
+    "views": 383,
     "forwards": 1,
     "media_group_id": 13963632813696037,
     "images": [
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 803,
+    "views": 804,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1943,
+    "views": 1944,
     "forwards": 55
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1193,
+    "views": 1194,
     "forwards": 12,
     "reply": {
       "id": 5277,
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 729,
+    "views": 730,
     "forwards": 2,
     "images": [
       {
@@ -72940,7 +72940,7 @@
     "id": 5280,
     "date": "2025-04-27T10:07:17",
     "text": "整理了一下以前所有的乐谱开源出来了 qwq\n\n一个原因是因为 musescore 平台真的太过分，居然下载其他用户上传的谱子要收钱...\n\n另一个原因是，想要让项目文件不会丢失、让自己以后想得起来放在哪里的最好方法就是传到 GitHub 上，让世界帮我备份 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://github.com/hykilpikonna/Music\">GitHub 仓库在这里</a>",
-    "views": 689,
+    "views": 690,
     "forwards": 5,
     "images": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 988,
+    "views": 989,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1245,
+    "views": 1246,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6481,
+    "views": 6482,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74170,7 +74170,7 @@
     "id": 5369,
     "date": "2025-05-13T11:39:03",
     "text": "按下发送按钮怎么这么难\n按下发送按钮怎么这么难\n按下发送按钮怎么这么难",
-    "views": 309,
+    "views": 310,
     "forwards": 1
   },
   {
@@ -74766,7 +74766,7 @@
     "id": 5416,
     "date": "2025-05-17T14:46:48",
     "text": "一些彩蛋\n\n1. 赛钱「请不要赛人民币」\n2. 鳥(tori)屹立于鳥居(torii)之上\n3. 给三角力量奉献一束香\n4. 大狐狸 看着被打翻的小狐狸满脸生气\n5. 1000 million Dollars\n6. 天冷了，铁鸟鸟也要穿衣服\n7. 超小蜂巢",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "media_group_id": 13979945664986901,
     "images": [
@@ -76159,7 +76159,7 @@
     "id": 5523,
     "date": "2025-06-01T14:49:20",
     "text": "<a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 还差１円\n2. 鲨鲨轮回：几个月前挂在我背包上的鲨鲨逃跑了，今天在路上捡到了从别人背包上逃跑的鲨鲨\n3. 电车轨道上长了小草\n4. 售卖机的柚子饮料被晒掉色变成粉色还蛮可爱的\n5. 为什么这个警示牌有 3D 图标\n6. 建筑和天空融化在一起\n7. 波奇鱼，把自己埋在沙子里面了",
-    "views": 284,
+    "views": 285,
     "forwards": 1,
     "media_group_id": 13990314886162485,
     "images": [
@@ -76239,7 +76239,7 @@
     "id": 5530,
     "date": "2025-06-01T15:11:07",
     "text": "向山进发！今天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和天文还有两个刚认识的朋友去爬了高尾山，好累好累\n\n上去有一半的路程坐了缆车，虽然比以前好很多了但是依然很恐高... 接下来爬到山顶再爬下去走了总共七八公里的路程，不仅腿酸酸，下坡还磨破了两只袜子和一双鞋垫... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 看来衣服和我一样不喜欢爬山\n\n路上遇到了好多可爱的东西，有带着保暖帽子的雕像、有看上去像是别人摆在山上的手工乒乓球玩偶，然后发现不约而同每人都带了谷子就一起用玩偶合了影。",
-    "views": 278,
+    "views": 279,
     "forwards": 1,
     "media_group_id": 13990325337230133,
     "images": [
@@ -76725,7 +76725,7 @@
     "id": 5565,
     "date": "2025-06-07T11:18:59",
     "text": "没想到 第一次被「日本语上手」是在理发店...\n\n去渋谷的 SOLEIL TOKYO 理了发（因为有非常棒的学生优惠！只花了 ￥3300）虽然学生卡忘在家里了，但是说学生卡放在加拿大了拿出照片萌混过关 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>\n\n剪得很好看！<del>问我想要什么发型的时候给看了一个高松灯 cosplay 照片然后其他的就おまかせ了</del>... 即使这样还能剪出满意的样子 Kana 老师好厉害！\n\n（也很有耐心！看我没听懂的时候换成借来词我就听懂了（<del>什么时候日语变成英语啊</del>",
-    "views": 318,
+    "views": 319,
     "forwards": 0,
     "media_group_id": 13994361119445349,
     "images": [
@@ -76918,7 +76918,7 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 316,
+    "views": 317,
     "forwards": 0
   },
   {
@@ -77968,7 +77968,7 @@
     "id": 5661,
     "date": "2025-06-21T14:57:59",
     "text": "「 川 」",
-    "views": 254,
+    "views": 255,
     "forwards": 0,
     "images": [
       {
@@ -79608,7 +79608,7 @@
     "id": 5801,
     "date": "2025-07-07T17:58:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n同样是从音游里遇到的很喜欢的澤野弘之的曲子还有 ninelie，最初听到的版本是 REDSHiFT 的 remix\n\n...但是它对应的动画「甲铁城的卡巴内瑞」也同样很不行 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "media_group_id": 14015288904557509,
     "files": [
@@ -80507,7 +80507,7 @@
     "id": 5875,
     "date": "2025-07-11T07:05:46",
     "text": "门的后面是另一个平行世界",
-    "views": 189,
+    "views": 190,
     "forwards": 1,
     "files": [
       {
@@ -80660,7 +80660,7 @@
     "id": 5886,
     "date": "2025-07-12T15:06:47",
     "text": "看了一集鹿乃子发现不太能对上电波的只有我吗 ;-;",
-    "views": 191,
+    "views": 192,
     "forwards": 0
   },
   {
@@ -81394,7 +81394,7 @@
     "id": 5934,
     "date": "2025-07-22T15:43:21",
     "text": "设计了一件 T，打算定制出来\n\n只要用 T 恤声明自己 KY 就不怕别人嫌我 KY 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 258,
+    "views": 259,
     "forwards": 4,
     "images": [
       {
@@ -83198,7 +83198,7 @@
     "id": 6082,
     "date": "2025-08-02T09:49:01",
     "text": "想补一些经典但是一直没去看的旧番，海贼王 死亡笔记 钢之炼金术师 Z高达之类的，然后打开搜索引擎看到 >50 集直接被劝退... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 261,
+    "views": 262,
     "forwards": 1
   },
   {
@@ -83364,7 +83364,7 @@
     "id": 6092,
     "date": "2025-08-04T12:31:45",
     "text": "因为是停产的限定盘，花比原价更高的价格买了二手 qwq\n\n盘面好好看！（因为不舍得拆封，至今买了这么多盘只见过两张盘的盘面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "media_group_id": 14034485646148837,
     "images": [
@@ -83521,7 +83521,7 @@
     "id": 6103,
     "date": "2025-08-06T18:12:50",
     "text": "每次旅行出发前一天晚上都睡不着... 平时褪黑素 / 酒 / Lemborexant 任何一样都能让我立刻昏睡，现在全都叠起来也依然睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6291657562815205715.webm\">😖</i>",
-    "views": 236,
+    "views": 237,
     "forwards": 0
   },
   {
@@ -84164,7 +84164,7 @@
     "id": 6153,
     "date": "2025-08-12T15:25:16",
     "text": "如果不能重新定义自拍，至少能重新定义手机壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n去室蘭遇到了一朵特别好看的被夕阳点亮的云，然后就绕着这朵云拍到了天黑 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<del>这个 18-300 镜头真的买的太值了，光圈小什么的都是挑刺，我直接不换镜头从地球岬拉到月球</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 194,
+    "views": 195,
     "forwards": 2,
     "media_group_id": 14040098532878845,
     "images": [
@@ -86314,7 +86314,7 @@
     "id": 6325,
     "date": "2025-08-22T17:10:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n刚才发了那个录音之后幽灵灵找到了这首曲子，好棒！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢幽灵灵）\n\n真的完美还原了那天晚上开着车在灯光和暴雨中漂流的气氛\n\n<a href=\"https://www.youtube.com/watch?v=coDqPuZXS9c\">YouTube MV</a>",
-    "views": 246,
+    "views": 247,
     "forwards": 1,
     "reply": {
       "id": 6324,
@@ -86887,7 +86887,7 @@
     "id": 6370,
     "date": "2025-08-26T16:56:31",
     "text": "syama 捡了一只猫回家，但是毫无准备，所以我赶快美团买了些零食和工具送过去，现在猫猫看起来还不错，不知道猫怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> <a href=\"##猫\">#猫</a>",
-    "views": 265,
+    "views": 266,
     "forwards": 4,
     "media_group_id": 14049819133094989,
     "images": [
@@ -86937,7 +86937,7 @@
     "id": 6374,
     "date": "2025-08-26T18:04:42",
     "text": "<a href=\"##猫\">#猫</a>",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "files": [
       {
@@ -89120,7 +89120,7 @@
     "id": 6554,
     "date": "2025-09-10T07:03:01",
     "text": "Typst 语言真的好科学... 作为程序语言已经比大部分程序语言都顺手了",
-    "views": 272,
+    "views": 273,
     "forwards": 1,
     "reply": {
       "id": 6515,
@@ -92850,7 +92850,7 @@
   {
     "id": 6870,
     "date": "2025-10-06T05:39:42",
-    "views": 218,
+    "views": 219,
     "forwards": 0,
     "files": [
       {
@@ -93104,7 +93104,7 @@
     "id": 6890,
     "date": "2025-10-08T12:53:55",
     "text": "用去年 DIY 电源剩下的转接板焊一根线上去做了挂饰 qwq",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "media_group_id": 14079424287487965,
     "images": [
@@ -93627,13 +93627,13 @@
     "id": 6931,
     "date": "2025-10-15T19:42:27",
     "text": "你们有没有过 看一个字太久就不认识这个字了的情况 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 0
   },
   {
     "id": 6932,
     "date": "2025-10-15T19:55:36",
-    "views": 254,
+    "views": 255,
     "forwards": 0,
     "files": [
       {
@@ -93908,7 +93908,7 @@
     "id": 6953,
     "date": "2025-10-19T15:31:16",
     "text": "新玩具增加了（？）\n\n发现拆下来的暴力风扇风量大到足以让它自己悬浮起来 <i class=\"custom-emoji\" emoji-src=\"emoji/5861517868021060371.webp\">😮</i> <span class=\"spoiler\"><span>也吵到能让我悬浮起来 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</span></span></i>",
-    "views": 282,
+    "views": 283,
     "forwards": 0,
     "reply": {
       "id": 6946,
@@ -94066,7 +94066,7 @@
     "id": 6965,
     "date": "2025-10-23T12:47:22",
     "text": "hello navi\n\n<span class=\"spoiler\"><span>感觉这个天气冷的正好适合穿上毛茸茸睡衣躲在服务器机柜后面取暖 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</span></span></i>",
-    "views": 243,
+    "views": 244,
     "forwards": 4,
     "media_group_id": 14089789142979549,
     "images": [
@@ -94840,7 +94840,7 @@
     "id": 7027,
     "date": "2025-10-31T12:39:00",
     "text": "呜呜...\n\n半夜开车看到了死掉的小三花猫躺在对面路上... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 215,
+    "views": 216,
     "forwards": 1
   },
   {
@@ -95338,7 +95338,7 @@
     "id": 7075,
     "date": "2025-11-02T19:01:18",
     "text": "以及这边海滩上好多小螃蟹！随便拍一张就拍进去了 20 只...\n\n还拍到了长了脚的贝壳，也是因为它们住在里面吧<del>（贝被 riir 了！）</del>\n\n（p4 是正在拍小螃蟹的マモル",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "media_group_id": 14096880630961373,
     "images": [
@@ -99144,7 +99144,7 @@
     "id": 7374,
     "date": "2025-12-02T03:15:44",
     "text": "原来火车还有自动搅拌面汤的服务（虽然撒出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 298,
+    "views": 299,
     "forwards": 1,
     "files": [
       {
@@ -101131,7 +101131,7 @@
     "id": 7530,
     "date": "2025-12-19T16:24:11",
     "text": "发现冷天整理照片做颜色校准的时候我会下意识地把色温调暖... <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 231,
+    "views": 233,
     "forwards": 0
   },
   {
@@ -101665,7 +101665,7 @@
     "id": 7583,
     "date": "2025-12-25T02:03:59",
     "text": "发现在 VR 里面切洋葱不会辣眼睛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 290,
+    "views": 291,
     "forwards": 4,
     "media_group_id": 14133025912547069,
     "images": [
@@ -102687,7 +102687,7 @@
     "id": 7668,
     "date": "2026-01-04T18:57:58",
     "text": "<a href=\"##桂桂今天没吃什么\">#桂桂今天没吃什么</a>\n焦炭 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n空气炸锅翻车翻成这样还是第一次",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "images": [
       {
@@ -102706,7 +102706,7 @@
     "id": 7669,
     "date": "2026-01-04T19:35:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤鸡皮！（二周目）\n\n还是正经烤箱烤得均匀一点... 之前用空气炸锅烤成焦炭是因为烤到一面熟了的时候另一面还很生，想翻面再烤烤就烤焦了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以及鸡皮 $2 可以买到 1.5kg 真是超便宜",
-    "views": 289,
+    "views": 290,
     "forwards": 1,
     "images": [
       {
@@ -102725,7 +102725,7 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 500,
+    "views": 501,
     "forwards": 10,
     "images": [
       {
@@ -102744,7 +102744,7 @@
     "id": 7671,
     "date": "2026-01-04T22:13:23",
     "text": "以及发现了一些彩蛋 / bug\n（剧透警告）<span class=\"spoiler\"><span>\n\n虽然一般流程下最后的 boss 会让你做一个虾天天天天天天天天天天天天天天天天天天天妇罗，做到一半就会 stack overflow 把宇宙炸掉。但是只要刚开始游戏就把它做出来的话就可以给她吃让宇宙不会炸掉了\n\n以及，在宇宙炸掉之后只是在游戏界面上多加了一个图层，并没有关掉互动逻辑，所以在宇宙尽头也可以继续炸天妇罗 qwq（甚至可以再炸一次宇宙）</span></span>",
-    "views": 374,
+    "views": 375,
     "forwards": 0,
     "reply": {
       "id": 7670,
@@ -102771,7 +102771,7 @@
     "id": 7672,
     "date": "2026-01-05T04:53:36",
     "text": "明天要开学了\n\n不知道为什么，实际上很期待开学",
-    "views": 372,
+    "views": 373,
     "forwards": 0
   },
   {
@@ -102976,7 +102976,7 @@
   {
     "id": 7689,
     "date": "2026-01-10T15:52:46",
-    "views": 369,
+    "views": 370,
     "forwards": 6
   },
   {
@@ -104541,7 +104541,7 @@
   {
     "id": 7815,
     "date": "2026-02-07T00:53:52",
-    "views": 228,
+    "views": 230,
     "forwards": 2,
     "images": [
       {
@@ -104560,7 +104560,7 @@
     "id": 7816,
     "date": "2026-02-07T06:28:36",
     "text": "（进行一些不太公平的比较）\n￥5300 的投影仪 vs ￥250 的投影仪",
-    "views": 198,
+    "views": 199,
     "forwards": 1,
     "media_group_id": 14163565733129701,
     "images": [
@@ -104636,7 +104636,7 @@
             "data": "Mw=="
           }
         ],
-        "total_voter_count": 36,
+        "total_voter_count": 37,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -104649,7 +104649,7 @@
     "id": 7820,
     "date": "2026-02-08T19:51:31",
     "text": "第一次打网线！好好玩 qwq\n\n之前听朋友说打网线好累好麻烦什么的就一直没敢试，但是现在搬到新家了想要一些长度正好的墙内布线，决定试试好了就买了工具和水晶头\n\n然后发现钳网线好简单好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "media_group_id": 14164642330488685,
     "images": [
@@ -104709,7 +104709,7 @@
     "id": 7830,
     "date": "2026-02-08T20:33:15",
     "text": "制作了一根 0.00 米网线！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（没有什么用，纯粹因为好玩hhhh",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "media_group_id": 14164662364661325,
     "images": [
@@ -104769,7 +104769,7 @@
     "id": 7835,
     "date": "2026-02-09T05:43:24",
     "text": "换了 ebox 有半个月了，bell 还没取消，还在犹豫要不要留下来...\n\n今天去测了一下全球测速，发现结果并没有之前想象的那么好\n\n最主要的问题是，虽然 ping 和中位上行基本上和 Bell 持平，但是中位下行比 Bell 慢很多 (170 Mbps vs 284 Mbps)\n\n还有 ipv6 比 v4 慢的问题、还有在本地的其他网络环境远程桌面连到家会有 24ms 延迟的问题...（虽然因为延迟稳定所以远程桌面体验也没有特别差）\n\n不知道要留哪个... 有点想要更高的下载速度，但是又觉得不值得每年多花 $216（基本上是我一年手机话费价格了）\n\n...是不是能让我这么犹豫就说明两个选择都不错呢？",
-    "views": 169,
+    "views": 172,
     "forwards": 0,
     "reply": {
       "id": 7734,
@@ -104793,7 +104793,7 @@
     "id": 7836,
     "date": "2026-02-09T19:50:39",
     "text": "哭哭\n\n想要和更多人分享全球网速测试的结果，就<a href=\"https://www.reddit.com/r/ebox/comments/1qzvthq/global_speedtest_benchmark_ebox_vs_bell_in/\">发到 reddit 上了</a>... 不知道为什么被 ratio 了\n\n他们好像是觉得 3gbps plan 连到全世界都应该有接近 3gbps...? 不懂，总之对 reddit 社群好失望",
-    "views": 160,
+    "views": 163,
     "forwards": 3,
     "reply": {
       "id": 7835,
@@ -104816,7 +104816,7 @@
     "id": 7837,
     "date": "2026-02-09T22:09:18",
     "text": "25 分钟！はし好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 141,
+    "views": 147,
     "forwards": 0,
     "files": [
       {
@@ -104839,7 +104839,7 @@
     "id": 7838,
     "date": "2026-02-10T03:09:13",
     "text": "认真整理了地下室的走线！\n\n把上一任租客的 cat5e 转接板上的四根线改成了 cat6a 水晶头、并且把所有网线都替换成了自己打的长度正好的完美网线（强迫症这一块... <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>）\n\n然后用螺钉把猫和路由器和交换机挂在墙上了。AP 没有挂在墙上是因为它没有螺钉的葫芦孔，打算等 3D 打印机架好之后 3D 打印一个支架",
-    "views": 129,
+    "views": 138,
     "forwards": 0,
     "media_group_id": 14165543629564125,
     "images": [
@@ -104889,7 +104889,7 @@
     "id": 7842,
     "date": "2026-02-10T07:14:10",
     "text": "原来 Gemini 拆过宜家",
-    "views": 96,
+    "views": 113,
     "forwards": 1,
     "images": [
       {
@@ -104908,7 +104908,7 @@
     "id": 7843,
     "date": "2026-02-10T07:42:23",
     "text": "仔细想想觉得还是不 DIY 柜子了。\n\n节省沙发后面的空间怎样都不太可能... 感觉即使把这个设计做出来了，应该也不会想每天把沙发推来推去吧，感觉自己绝对会懒懒直接把沙发留在外面，然后这个设计就白做了（xx）\n\n当时想做这个设计的另一个原因是因为之前的 1*4 Kallax 电视桌的一个格子有很多东西放不下，比如 PS5 和唱片机都因为单边过长只能放在上面/外面。但是刚刚查了一下说明书发现 Kallax 两个格子中间的挡板是可以去掉的，去掉了变成一个大格子就没有这个问题了\n\n所以就决定还是直接买 Kallax 好啦，废稿睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/6320940220342601246.webp\">😴</i>",
-    "views": 72,
+    "views": 94,
     "forwards": 0,
     "reply": {
       "id": 7805,
