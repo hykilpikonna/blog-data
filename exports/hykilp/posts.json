@@ -85393,8 +85393,8 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8462,
-    "forwards": 175,
+    "views": 8463,
+    "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
       {
@@ -97690,7 +97690,7 @@
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 612,
+    "views": 613,
     "forwards": 7
   },
   {
@@ -104541,7 +104541,7 @@
   {
     "id": 7815,
     "date": "2026-02-07T00:53:52",
-    "views": 231,
+    "views": 232,
     "forwards": 2,
     "images": [
       {
@@ -104590,7 +104590,7 @@
     "id": 7818,
     "date": "2026-02-08T19:28:24",
     "text": "😈",
-    "views": 175,
+    "views": 177,
     "forwards": 1,
     "images": [
       {
@@ -104608,7 +104608,7 @@
   {
     "id": 7819,
     "date": "2026-02-08T19:32:26",
-    "views": 160,
+    "views": 162,
     "forwards": 0,
     "files": [
       {
@@ -104649,7 +104649,7 @@
     "id": 7820,
     "date": "2026-02-08T19:51:31",
     "text": "第一次打网线！好好玩 qwq\n\n之前听朋友说打网线好累好麻烦什么的就一直没敢试，但是现在搬到新家了想要一些长度正好的墙内布线，决定试试好了就买了工具和水晶头\n\n然后发现钳网线好简单好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 162,
+    "views": 164,
     "forwards": 0,
     "media_group_id": 14164642330488685,
     "images": [
@@ -104709,7 +104709,7 @@
     "id": 7830,
     "date": "2026-02-08T20:33:15",
     "text": "制作了一根 0.00 米网线！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（没有什么用，纯粹因为好玩hhhh",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "media_group_id": 14164662364661325,
     "images": [
@@ -104769,7 +104769,7 @@
     "id": 7835,
     "date": "2026-02-09T05:43:24",
     "text": "换了 ebox 有半个月了，bell 还没取消，还在犹豫要不要留下来...\n\n今天去测了一下全球测速，发现结果并没有之前想象的那么好\n\n最主要的问题是，虽然 ping 和中位上行基本上和 Bell 持平，但是中位下行比 Bell 慢很多 (170 Mbps vs 284 Mbps)\n\n还有 ipv6 比 v4 慢的问题、还有在本地的其他网络环境远程桌面连到家会有 24ms 延迟的问题...（虽然因为延迟稳定所以远程桌面体验也没有特别差）\n\n不知道要留哪个... 有点想要更高的下载速度，但是又觉得不值得每年多花 $216（基本上是我一年手机话费价格了）\n\n...是不是能让我这么犹豫就说明两个选择都不错呢？",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "reply": {
       "id": 7734,
@@ -104793,7 +104793,7 @@
     "id": 7836,
     "date": "2026-02-09T19:50:39",
     "text": "哭哭\n\n想要和更多人分享全球网速测试的结果，就<a href=\"https://www.reddit.com/r/ebox/comments/1qzvthq/global_speedtest_benchmark_ebox_vs_bell_in/\">发到 reddit 上了</a>... 不知道为什么被 ratio 了\n\n他们好像是觉得 3gbps plan 连到全世界都应该有接近 3gbps...? 不懂，总之对 reddit 社群好失望",
-    "views": 169,
+    "views": 171,
     "forwards": 3,
     "reply": {
       "id": 7835,
@@ -104816,7 +104816,7 @@
     "id": 7837,
     "date": "2026-02-09T22:09:18",
     "text": "25 分钟！はし好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 155,
+    "views": 157,
     "forwards": 0,
     "files": [
       {
@@ -104839,7 +104839,7 @@
     "id": 7838,
     "date": "2026-02-10T03:09:13",
     "text": "认真整理了地下室的走线！\n\n把上一任租客的 cat5e 转接板上的四根线改成了 cat6a 水晶头、并且把所有网线都替换成了自己打的长度正好的完美网线（强迫症这一块... <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>）\n\n然后用螺钉把猫和路由器和交换机挂在墙上了。AP 没有挂在墙上是因为它没有螺钉的葫芦孔，打算等 3D 打印机架好之后 3D 打印一个支架",
-    "views": 150,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14165543629564125,
     "images": [
@@ -104889,7 +104889,7 @@
     "id": 7842,
     "date": "2026-02-10T07:14:10",
     "text": "原来 Gemini 拆过宜家",
-    "views": 134,
+    "views": 138,
     "forwards": 1,
     "images": [
       {
@@ -104908,7 +104908,7 @@
     "id": 7843,
     "date": "2026-02-10T07:42:23",
     "text": "仔细想想觉得还是不 DIY 柜子了。\n\n节省沙发后面的空间怎样都不太可能... 感觉即使把这个设计做出来了，应该也不会想每天把沙发推来推去吧，感觉自己绝对会懒懒直接把沙发留在外面，然后这个设计就白做了（xx）\n\n当时想做这个设计的另一个原因是因为之前的 1*4 Kallax 电视桌的一个格子有很多东西放不下，比如 PS5 和唱片机都因为单边过长只能放在上面/外面。但是刚刚查了一下说明书发现 Kallax 两个格子中间的挡板是可以去掉的，去掉了变成一个大格子就没有这个问题了\n\n所以就决定还是直接买 Kallax 好啦，废稿睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/6320940220342601246.webp\">😴</i>",
-    "views": 116,
+    "views": 121,
     "forwards": 0,
     "reply": {
       "id": 7805,
