@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-02-11T14:38:21.098643+00:00</updated>
+  <updated>2026-02-11T16:38:58.690783+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7850</id>
+    <title>小桂桂的回忆录 📒 #7850</title>
+    <updated>2026-02-11T15:04:47+00:00</updated>
+    <content>&lt;p&gt;现在主力机器是 windows/linux 双启动，平时用 windows，需要跑 ROCm 或者写程序的时候重启到 linux&lt;/p&gt;
+&lt;p&gt;但是每次重启都觉得好麻烦，而且没办法在人不在家的时候切换系统&lt;/p&gt;
+&lt;p&gt;在想能不能做成交叉 VM 双启动，主机跑 win 的时候把 linux 的分区跑在 VM 里、主机跑 linux 的时候把 win 的分区跑在 VM 里，这样也许有些时候就不需要切系统了？ &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7850" rel="alternate"/>
+  </entry>
   <entry>
     <id>7849</id>
     <title>小桂桂的回忆录 📒 #7849</title>
