@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-02-12T06:36:07.307099+00:00</updated>
+  <updated>2026-02-12T08:29:22.322829+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7853</id>
+    <title>小桂桂的回忆录 📒 #7853</title>
+    <updated>2026-02-12T08:18:37+00:00</updated>
+    <content>&lt;p&gt;记录一下今天遇到的灵车网络问题&lt;/p&gt;
+&lt;p&gt;用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？&lt;/p&gt;
+&lt;p&gt;问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...&lt;/p&gt;
+&lt;p&gt;还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt; 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt; 不好笑。&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7853" rel="alternate"/>
+  </entry>
   <entry>
     <id>7852</id>
     <title>小桂桂的回忆录 📒 #7852</title>
