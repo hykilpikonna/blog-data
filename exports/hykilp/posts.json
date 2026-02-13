@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7439,
+    "views": 7440,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -104769,7 +104769,7 @@
     "id": 7835,
     "date": "2026-02-09T05:43:24",
     "text": "换了 ebox 有半个月了，bell 还没取消，还在犹豫要不要留下来...\n\n今天去测了一下全球测速，发现结果并没有之前想象的那么好\n\n最主要的问题是，虽然 ping 和中位上行基本上和 Bell 持平，但是中位下行比 Bell 慢很多 (170 Mbps vs 284 Mbps)\n\n还有 ipv6 比 v4 慢的问题、还有在本地的其他网络环境远程桌面连到家会有 24ms 延迟的问题...（虽然因为延迟稳定所以远程桌面体验也没有特别差）\n\n不知道要留哪个... 有点想要更高的下载速度，但是又觉得不值得每年多花 $216（基本上是我一年手机话费价格了）\n\n...是不是能让我这么犹豫就说明两个选择都不错呢？",
-    "views": 208,
+    "views": 209,
     "forwards": 2,
     "reply": {
       "id": 7734,
@@ -105032,7 +105032,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 14167074537393133,
     "images": [
@@ -105112,7 +105112,7 @@
     "id": 7860,
     "date": "2026-02-13T07:25:08",
     "text": "好累好累好累。为什么所有事情都需要我的时间... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 131,
+    "views": 133,
     "forwards": 1
   }
 ]
