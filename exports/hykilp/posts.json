@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8472,
+    "views": 8474,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -86228,7 +86228,7 @@
     "id": 6321,
     "date": "2025-08-21T17:07:32",
     "text": "发布了 hyfetch 第一个 rust 重写之后的正式版本！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n（感谢 <a href=\"https://github.com/teohhanhui\">@teohhanhui</a> 帮忙 RIIR！）",
-    "views": 360,
+    "views": 361,
     "forwards": 5,
     "reply": {
       "id": 4790,
@@ -104769,7 +104769,7 @@
     "id": 7835,
     "date": "2026-02-09T05:43:24",
     "text": "换了 ebox 有半个月了，bell 还没取消，还在犹豫要不要留下来...\n\n今天去测了一下全球测速，发现结果并没有之前想象的那么好\n\n最主要的问题是，虽然 ping 和中位上行基本上和 Bell 持平，但是中位下行比 Bell 慢很多 (170 Mbps vs 284 Mbps)\n\n还有 ipv6 比 v4 慢的问题、还有在本地的其他网络环境远程桌面连到家会有 24ms 延迟的问题...（虽然因为延迟稳定所以远程桌面体验也没有特别差）\n\n不知道要留哪个... 有点想要更高的下载速度，但是又觉得不值得每年多花 $216（基本上是我一年手机话费价格了）\n\n...是不是能让我这么犹豫就说明两个选择都不错呢？",
-    "views": 213,
+    "views": 214,
     "forwards": 2,
     "reply": {
       "id": 7734,
@@ -104793,7 +104793,7 @@
     "id": 7836,
     "date": "2026-02-09T19:50:39",
     "text": "哭哭\n\n想要和更多人分享全球网速测试的结果，就<a href=\"https://www.reddit.com/r/ebox/comments/1qzvthq/global_speedtest_benchmark_ebox_vs_bell_in/\">发到 reddit 上了</a>... 不知道为什么被 ratio 了\n\n他们好像是觉得 3gbps plan 连到全世界都应该有接近 3gbps...? 不懂，总之对 reddit 社群好失望",
-    "views": 218,
+    "views": 219,
     "forwards": 3,
     "reply": {
       "id": 7835,
@@ -104951,7 +104951,7 @@
     "id": 7846,
     "date": "2026-02-11T02:14:10",
     "text": "好生气。\n\n给聊聊的笔记本孬了，插上电没反应，按电源按钮不开机，让我看看能不能修\n\n插上电，闪四黄一白，查了一下是电池问题。所以拆开后盖把电池拆下来，拆下来插上电 20V 1.6W 没反应，装回去插上电依然 20V 1.6W 没反应\n\n然后看了一眼接口，觉得有点不对，设计成这样两块 PCB 直接接触真的能接触上吗？查了一下才发现中间应该有一块连接器，然后问了聊聊才发现她之前拆过但是忘记把连接器装回去了...\n\n更绝望的是，我印象中收拾房间的时候看到过这个连接器，以为是前室友猪猪尝试修 iPad 的时候拆下来的东西就扔掉了...\n\n唉，-￥75，也不知道花了这 ￥75 补回来这个连接器之后能不能找到真正的问题",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "media_group_id": 14166208406811629,
     "images": [
@@ -104981,7 +104981,7 @@
     "id": 7848,
     "date": "2026-02-11T05:22:30",
     "text": "<del>想 如果养猫的话起名为「熵」会不会获得噩运</del>\n\n<del>小猫能有什么孬心眼呢</del>",
-    "views": 229,
+    "views": 231,
     "forwards": 0
   },
   {
@@ -105002,14 +105002,14 @@
     "id": 7851,
     "date": "2026-02-11T20:02:15",
     "text": "寄了一封挂号信到深圳，CA$37.1 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n真的是抢钱",
-    "views": 212,
+    "views": 213,
     "forwards": 2
   },
   {
     "id": 7852,
     "date": "2026-02-12T03:56:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n方便面！\n\n聊聊研究了一下说我在日本胖了可能是因为吃太多碳水，而且每次都把面汤喝完就会让身体存很多水\n\n好像确实，平时吃的拉面牛丼寿司都很高碳水很高糖，而且我也确实每次都会把面汤喝完... 唉，为什么好吃和健康总是要牺牲一个 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 196,
+    "views": 198,
     "forwards": 1,
     "reply": {
       "id": 7849,
@@ -105032,7 +105032,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 186,
+    "views": 187,
     "forwards": 2,
     "media_group_id": 14167074537393133,
     "images": [
@@ -105112,14 +105112,14 @@
     "id": 7860,
     "date": "2026-02-13T07:25:08",
     "text": "好累好累好累。为什么所有事情都需要我的时间... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 169,
+    "views": 171,
     "forwards": 1
   },
   {
     "id": 7861,
     "date": "2026-02-13T23:37:30",
     "text": "做三文鱼\n\n看小猫似乎对生三文鱼很感兴趣就给它煎了三文鱼，但是煎完了放在地上之后它闻闻似乎完全没兴趣就走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 120,
+    "views": 125,
     "forwards": 3,
     "media_group_id": 14168206803872669,
     "images": [
@@ -105169,7 +105169,7 @@
     "id": 7865,
     "date": "2026-02-14T01:05:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤三文鱼腩！\n\n小猫不吃我吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 102,
+    "views": 106,
     "forwards": 1,
     "images": [
       {
