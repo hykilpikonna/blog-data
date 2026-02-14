@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6483,
+    "views": 6484,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97002,7 +97002,7 @@
     "id": 7211,
     "date": "2025-11-12T23:49:50",
     "text": "受 persona 3 启发，写脚本用 NASA 的月亮照片做了一个完整的月相 emoji set! 现在可以发一个月亮代替一个月里的哪一天了 qwq\n\n<a href=\"https://t.me/addemoji/moon_by_azacat_bot\">https://t.me/addemoji/moon_by_azacat_bot</a>",
-    "views": 1992,
+    "views": 1993,
     "forwards": 18,
     "reply": {
       "id": 7210,
@@ -104908,7 +104908,7 @@
     "id": 7843,
     "date": "2026-02-10T07:42:23",
     "text": "仔细想想觉得还是不 DIY 柜子了。\n\n节省沙发后面的空间怎样都不太可能... 感觉即使把这个设计做出来了，应该也不会想每天把沙发推来推去吧，感觉自己绝对会懒懒直接把沙发留在外面，然后这个设计就白做了（xx）\n\n当时想做这个设计的另一个原因是因为之前的 1*4 Kallax 电视桌的一个格子有很多东西放不下，比如 PS5 和唱片机都因为单边过长只能放在上面/外面。但是刚刚查了一下说明书发现 Kallax 两个格子中间的挡板是可以去掉的，去掉了变成一个大格子就没有这个问题了\n\n所以就决定还是直接买 Kallax 好啦，废稿睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/6320940220342601246.webp\">😴</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 0,
     "reply": {
       "id": 7805,
@@ -104920,7 +104920,7 @@
     "id": 7844,
     "date": "2026-02-11T00:22:44",
     "text": "两周前买的沃尔玛土豆变绿了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "media_group_id": 14166154914537349,
     "images": [
@@ -104981,7 +104981,7 @@
     "id": 7848,
     "date": "2026-02-11T05:22:30",
     "text": "<del>想 如果养猫的话起名为「熵」会不会获得噩运</del>\n\n<del>小猫能有什么孬心眼呢</del>",
-    "views": 225,
+    "views": 228,
     "forwards": 0
   },
   {
@@ -105009,7 +105009,7 @@
     "id": 7852,
     "date": "2026-02-12T03:56:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n方便面！\n\n聊聊研究了一下说我在日本胖了可能是因为吃太多碳水，而且每次都把面汤喝完就会让身体存很多水\n\n好像确实，平时吃的拉面牛丼寿司都很高碳水很高糖，而且我也确实每次都会把面汤喝完... 唉，为什么好吃和健康总是要牺牲一个 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 194,
+    "views": 195,
     "forwards": 1,
     "reply": {
       "id": 7849,
@@ -105032,7 +105032,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 184,
+    "views": 185,
     "forwards": 2,
     "media_group_id": 14167074537393133,
     "images": [
@@ -105112,15 +105112,15 @@
     "id": 7860,
     "date": "2026-02-13T07:25:08",
     "text": "好累好累好累。为什么所有事情都需要我的时间... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 164,
+    "views": 168,
     "forwards": 1
   },
   {
     "id": 7861,
     "date": "2026-02-13T23:37:30",
     "text": "做三文鱼\n\n看小猫似乎对生三文鱼很感兴趣就给它煎了三文鱼，但是煎完了放在地上之后它闻闻似乎完全没兴趣就走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 98,
-    "forwards": 2,
+    "views": 113,
+    "forwards": 3,
     "media_group_id": 14168206803872669,
     "images": [
       {
@@ -105169,8 +105169,8 @@
     "id": 7865,
     "date": "2026-02-14T01:05:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤三文鱼腩！\n\n小猫不吃我吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 79,
-    "forwards": 0,
+    "views": 95,
+    "forwards": 1,
     "images": [
       {
         "width": 2560,
