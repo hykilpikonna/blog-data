@@ -12,7 +12,17 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Feb 2026 16:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 18:21:03 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #7886</title>
+      <link>https://aza.moe/life?post=7886</link>
+      <description>&lt;p&gt;无语了。今天的 OpenAI 草台&lt;/p&gt;
+&lt;p&gt;因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 &lt;code&gt;model.request&lt;/code&gt;... 但是管理界面上根本没有 &lt;code&gt;model.request&lt;/code&gt;?&lt;/p&gt;
+&lt;p&gt;然后我试了一下把 Model capabilities 那里从 "Mixed" 改成 "Request" 再把所有不需要的权限关掉，然后就有 &lt;code&gt;model.request&lt;/code&gt; 了......&lt;/p&gt;
+&lt;p&gt;结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 &lt;code&gt;model.request&lt;/code&gt;，另一个没有 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;唉，也许这就是 vibe code 整个前端的后果吧 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">7886</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #7885</title>
       <link>https://aza.moe/life?post=7885</link>
