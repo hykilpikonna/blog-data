@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7441,
+    "views": 7442,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5767,
+    "views": 5768,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -95979,7 +95979,7 @@
     "id": 7125,
     "date": "2025-11-06T05:58:07",
     "text": "四国最北端\n\n...高潮对策所以关上了（？）<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14099269500648285,
     "images": [
@@ -96089,7 +96089,7 @@
     "id": 7135,
     "date": "2025-11-06T07:10:59",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n杂旅圣地之乌冬山田家",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14099304474643445,
     "images": [
@@ -96169,14 +96169,14 @@
     "id": 7142,
     "date": "2025-11-06T10:12:55",
     "text": "总是分不清う和ラ\n\n：ラどん\n：うーメン",
-    "views": 197,
+    "views": 198,
     "forwards": 2
   },
   {
     "id": 7143,
     "date": "2025-11-07T10:38:39",
     "text": "...?",
-    "views": 204,
+    "views": 205,
     "forwards": 1,
     "images": [
       {
@@ -96195,7 +96195,7 @@
     "id": 7144,
     "date": "2025-11-07T11:03:49",
     "text": "旅店的睡衣\n\n...回到日本这几天吃胖了",
-    "views": 207,
+    "views": 208,
     "forwards": 6,
     "images": [
       {
@@ -96374,7 +96374,7 @@
     "id": 7161,
     "date": "2025-11-08T13:33:29",
     "text": "<del>想要买瓶无酒精啤酒边喝边开车</del>",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 575,
+    "views": 576,
     "forwards": 13
   },
   {
@@ -97920,7 +97920,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 320,
+    "views": 321,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -99137,7 +99137,7 @@
     "id": 7373,
     "date": "2025-12-01T15:42:20",
     "text": "<span class=\"spoiler\"><span>如果陪伴可以 scale 就好了</span></span>",
-    "views": 554,
+    "views": 555,
     "forwards": 6
   },
   {
@@ -101477,7 +101477,7 @@
     "id": 7568,
     "date": "2025-12-22T21:49:58",
     "text": "回到加拿大了！迎接我的是 -23°C 和满地白雪，然后飞机因为航站楼连接到飞机的桥冻住了降落之后原地晚点半小时（<del>还好转机的航班也晚点了半小时</del>，该不会是同一架飞机吧）\n\n以及今天天气好不错，起飞不久之后透过飞机窗户看到了星空！可惜关灯之前有飞机里的反射看不太清，关灯之后玻璃就暗下来不让调亮了。\n\n日出也很不错，在仅仅五六个小时的时间里经历了日落日出也好奇妙，感觉像是时间被加速了一样\n\n以及饮料车过来的时候看到有白/红葡萄酒和汽水和茶和咖啡和果汁，让服务员倒白葡萄酒+雪碧一比一调出了 Spritzer！好喝喵，虽然从来没有一天喝这么多酒精所以之后都有点晕晕的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323109926151390915.webp\">😪</i> 我的酒量是小猫",
-    "views": 252,
+    "views": 253,
     "forwards": 3,
     "media_group_id": 14131521586793381,
     "images": [
@@ -103295,7 +103295,7 @@
     "id": 7714,
     "date": "2026-01-15T02:05:08",
     "text": "一个红绿灯过了一辆车\n\n果然买 AWD 是正确的选择",
-    "views": 295,
+    "views": 296,
     "forwards": 2,
     "files": [
       {
@@ -103317,7 +103317,7 @@
     "id": 7716,
     "date": "2026-01-15T14:35:04",
     "text": "然后今天因为大雪 UW 和 UT 都停课了（虽然我并没有今天的课，只剩下扫雪...",
-    "views": 285,
+    "views": 286,
     "forwards": 0,
     "reply": {
       "id": 7714,
@@ -103328,7 +103328,7 @@
     "id": 7717,
     "date": "2026-01-16T01:18:04",
     "text": "扫雪好累扫雪好累扫雪好累\n\n请别人扫雪的话一次 $90...\n\n还是花 $272 买了一个扫雪机",
-    "views": 281,
+    "views": 282,
     "forwards": 0,
     "reply": {
       "id": 7716,
@@ -103351,7 +103351,7 @@
     "id": 7718,
     "date": "2026-01-16T16:50:46",
     "text": "好讨厌安省的天气。买了车之后一直想去看星星，结果一个月里没有一天不多云...",
-    "views": 268,
+    "views": 269,
     "forwards": 1,
     "images": [
       {
@@ -104995,21 +104995,21 @@
     "id": 7850,
     "date": "2026-02-11T15:04:47",
     "text": "现在主力机器是 windows/linux 双启动，平时用 windows，需要跑 ROCm 或者写程序的时候重启到 linux\n\n但是每次重启都觉得好麻烦，而且没办法在人不在家的时候切换系统\n\n在想能不能做成交叉 VM 双启动，主机跑 win 的时候把 linux 的分区跑在 VM 里、主机跑 linux 的时候把 win 的分区跑在 VM 里，这样也许有些时候就不需要切系统了？ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 251,
+    "views": 253,
     "forwards": 1
   },
   {
     "id": 7851,
     "date": "2026-02-11T20:02:15",
     "text": "寄了一封挂号信到深圳，CA$37.1 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n真的是抢钱",
-    "views": 235,
+    "views": 237,
     "forwards": 2
   },
   {
     "id": 7852,
     "date": "2026-02-12T03:56:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n方便面！\n\n聊聊研究了一下说我在日本胖了可能是因为吃太多碳水，而且每次都把面汤喝完就会让身体存很多水\n\n好像确实，平时吃的拉面牛丼寿司都很高碳水很高糖，而且我也确实每次都会把面汤喝完... 唉，为什么好吃和健康总是要牺牲一个 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 226,
+    "views": 228,
     "forwards": 1,
     "reply": {
       "id": 7849,
@@ -105032,7 +105032,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 213,
+    "views": 215,
     "forwards": 2,
     "media_group_id": 14167074537393133,
     "images": [
@@ -105112,7 +105112,7 @@
     "id": 7860,
     "date": "2026-02-13T07:25:08",
     "text": "好累好累好累。为什么所有事情都需要我的时间... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 209,
+    "views": 210,
     "forwards": 1
   },
   {
@@ -105188,7 +105188,7 @@
     "id": 7866,
     "date": "2026-02-14T16:25:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 176,
+    "views": 177,
     "forwards": 0,
     "media_group_id": 14168690820973429,
     "images": [
@@ -105238,7 +105238,7 @@
     "id": 7870,
     "date": "2026-02-14T18:38:52",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n照烧鸡腿饭！\n\n果然让 llm 翻译日语食谱要比之前用下厨房上中国人写的食谱做出来更好吃 qwq",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 14168754660080061,
     "images": [
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 160,
+    "views": 162,
     "forwards": 1,
     "images": [
       {
@@ -105307,7 +105307,7 @@
     "id": 7875,
     "date": "2026-02-15T05:26:00",
     "text": "新家新柜子搭好了，前几天 $0 捡的二手沙发也差不多清理好了，终于有能用的客厅了 qwq\n\n原本应该是 5x5 = 25 个方格子，但是之前用 1x4 的同款柜子的时候发现 PS5 和唱片机单边太长了没法放进一个格子里，所以这次拼 5x5 柜子的时候故意没有装一些隔板，把两个格子拼起来了（希望结构强度不会受到太多影响",
-    "views": 154,
+    "views": 158,
     "forwards": 0,
     "media_group_id": 14169065281051429,
     "images": [
@@ -105361,14 +105361,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 153,
+    "views": 156,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 124,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105418,7 +105418,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 128,
+    "views": 142,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105458,7 +105458,7 @@
     "id": 7889,
     "date": "2026-02-15T21:02:58",
     "text": "猫猫睡觉",
-    "views": 108,
+    "views": 131,
     "forwards": 0,
     "reply": {
       "id": 7880,
@@ -105477,6 +105477,27 @@
         "url": "media/7889.mp4",
         "size": 4601512,
         "thumb": "media/7889.mp4_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7891,
+    "date": "2026-02-16T08:47:27",
+    "text": "哭了 睡觉被热醒，房间烧到了 32.5℃... 然后下楼发现是智能恒温器死机了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 去关掉电闸重新开之后算是恢复了。\n\n仔细研究了一下，连上 WiFi 发现它会用 GPS 获取天气、还有据说是检测烟雾报警器声音的内置麦克风... 希望是本地监测，不是上传到云服务上检测。连接 app 还要注册账号输入住址和房子信息和电力公司... 为什么一个空调需要知道这些呀？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n然后我就还是把 WiFi 关了，不太敢相信它的安全性，也不想给它这些信息...\n\n好怀念不智能但是 reliable 的家电。",
+    "views": 82,
+    "forwards": 1,
+    "files": [
+      {
+        "mime_type": "video/mp4",
+        "date": "2026-02-16T08:47:27",
+        "width": 480,
+        "height": 852,
+        "duration": 9,
+        "media_type": "animation",
+        "original_name": "animation_2026-02-16_08-47-27.mp4",
+        "url": "media/7891.mp4",
+        "size": 1262305,
+        "thumb": "media/7891.mp4_thumb.jpg"
       }
     ]
   }
