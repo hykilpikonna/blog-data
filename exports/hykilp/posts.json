@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1946,
+    "views": 1947,
     "forwards": 55
   },
   {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8476,
+    "views": 8477,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -104988,21 +104988,21 @@
     "id": 7849,
     "date": "2026-02-11T12:41:45",
     "text": "之前去日本六个月体重上升到了 64kg，现在回加拿大两个月掉到了 58kg\n\n我甚至没有在尝试减肥... 这说明什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 259,
+    "views": 260,
     "forwards": 3
   },
   {
     "id": 7850,
     "date": "2026-02-11T15:04:47",
     "text": "现在主力机器是 windows/linux 双启动，平时用 windows，需要跑 ROCm 或者写程序的时候重启到 linux\n\n但是每次重启都觉得好麻烦，而且没办法在人不在家的时候切换系统\n\n在想能不能做成交叉 VM 双启动，主机跑 win 的时候把 linux 的分区跑在 VM 里、主机跑 linux 的时候把 win 的分区跑在 VM 里，这样也许有些时候就不需要切系统了？ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 248,
+    "views": 249,
     "forwards": 1
   },
   {
     "id": 7851,
     "date": "2026-02-11T20:02:15",
     "text": "寄了一封挂号信到深圳，CA$37.1 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n真的是抢钱",
-    "views": 232,
+    "views": 233,
     "forwards": 2
   },
   {
@@ -105032,7 +105032,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 210,
+    "views": 211,
     "forwards": 2,
     "media_group_id": 14167074537393133,
     "images": [
@@ -105112,14 +105112,14 @@
     "id": 7860,
     "date": "2026-02-13T07:25:08",
     "text": "好累好累好累。为什么所有事情都需要我的时间... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 1
   },
   {
     "id": 7861,
     "date": "2026-02-13T23:37:30",
     "text": "做三文鱼\n\n看小猫似乎对生三文鱼很感兴趣就给它煎了三文鱼，但是煎完了放在地上之后它闻闻似乎完全没兴趣就走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 4,
     "media_group_id": 14168206803872669,
     "images": [
@@ -105169,7 +105169,7 @@
     "id": 7865,
     "date": "2026-02-14T01:05:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤三文鱼腩！\n\n小猫不吃我吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 194,
+    "views": 195,
     "forwards": 1,
     "images": [
       {
@@ -105188,7 +105188,7 @@
     "id": 7866,
     "date": "2026-02-14T16:25:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 14168690820973429,
     "images": [
@@ -105238,7 +105238,7 @@
     "id": 7870,
     "date": "2026-02-14T18:38:52",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n照烧鸡腿饭！\n\n果然让 llm 翻译日语食谱要比之前用下厨房上中国人写的食谱做出来更好吃 qwq",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "media_group_id": 14168754660080061,
     "images": [
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 152,
+    "views": 154,
     "forwards": 1,
     "images": [
       {
@@ -105307,7 +105307,7 @@
     "id": 7875,
     "date": "2026-02-15T05:26:00",
     "text": "新家新柜子搭好了，前几天 $0 捡的二手沙发也差不多清理好了，终于有能用的客厅了 qwq\n\n原本应该是 5x5 = 25 个方格子，但是之前用 1x4 的同款柜子的时候发现 PS5 和唱片机单边太长了没法放进一个格子里，所以这次拼 5x5 柜子的时候故意没有装一些隔板，把两个格子拼起来了（希望结构强度不会受到太多影响",
-    "views": 148,
+    "views": 151,
     "forwards": 0,
     "media_group_id": 14169065281051429,
     "images": [
@@ -105361,14 +105361,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 143,
+    "views": 149,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 103,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105418,7 +105418,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 92,
+    "views": 112,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105458,7 +105458,7 @@
     "id": 7889,
     "date": "2026-02-15T21:02:58",
     "text": "猫猫睡觉",
-    "views": 51,
+    "views": 83,
     "forwards": 0,
     "reply": {
       "id": 7880,
