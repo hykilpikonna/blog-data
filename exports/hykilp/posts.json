@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 577,
+    "views": 578,
     "forwards": 13
   },
   {
@@ -102725,7 +102725,7 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 507,
+    "views": 508,
     "forwards": 10,
     "images": [
       {
@@ -105112,14 +105112,14 @@
     "id": 7860,
     "date": "2026-02-13T07:25:08",
     "text": "好累好累好累。为什么所有事情都需要我的时间... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 1
   },
   {
     "id": 7861,
     "date": "2026-02-13T23:37:30",
     "text": "做三文鱼\n\n看小猫似乎对生三文鱼很感兴趣就给它煎了三文鱼，但是煎完了放在地上之后它闻闻似乎完全没兴趣就走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 4,
     "media_group_id": 14168206803872669,
     "images": [
@@ -105307,7 +105307,7 @@
     "id": 7875,
     "date": "2026-02-15T05:26:00",
     "text": "新家新柜子搭好了，前几天 $0 捡的二手沙发也差不多清理好了，终于有能用的客厅了 qwq\n\n原本应该是 5x5 = 25 个方格子，但是之前用 1x4 的同款柜子的时候发现 PS5 和唱片机单边太长了没法放进一个格子里，所以这次拼 5x5 柜子的时候故意没有装一些隔板，把两个格子拼起来了（希望结构强度不会受到太多影响",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14169065281051429,
     "images": [
@@ -105361,14 +105361,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 171,
+    "views": 172,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 152,
+    "views": 154,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105418,7 +105418,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105458,7 +105458,7 @@
     "id": 7889,
     "date": "2026-02-15T21:02:58",
     "text": "猫猫睡觉",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "reply": {
       "id": 7880,
@@ -105484,7 +105484,7 @@
     "id": 7891,
     "date": "2026-02-16T08:47:27",
     "text": "哭了 睡觉被热醒，房间烧到了 32.5℃... 然后下楼发现是智能恒温器死机了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 去关掉电闸重新开之后算是恢复了。\n\n仔细研究了一下，连上 WiFi 发现它会用 GPS 获取天气、还有据说是检测烟雾报警器声音的内置麦克风... 希望是本地监测，不是上传到云服务上检测。连接 app 还要注册账号输入住址和房子信息和电力公司... 为什么一个空调需要知道这些呀？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n然后我就还是把 WiFi 关了，不太敢相信它的安全性，也不想给它这些信息...\n\n好怀念不智能但是 reliable 的家电。",
-    "views": 168,
+    "views": 169,
     "forwards": 2,
     "files": [
       {
@@ -105505,7 +105505,7 @@
     "id": 7892,
     "date": "2026-02-17T04:27:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n年夜饭！做了烤鸭、鸭架米粉萝卜汤、白菜肉饺子、日式もつ鍋、中式番茄火锅、牛排\n\n总共七个人，有我 聊聊 北燕书 豆腐 猫猫球 西风 羽澄，很热闹很开心喵！<span class=\"spoiler\"><span>（虽然还想邀请更多朋友但是各种意义上都到人数上限了... 无论是物理空间还是座椅/餐具数量还是感官负载）</span></span>\n\n除了吃饭大家还打了 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>（刚搬过来所以其他游戏还没有 setup 好，就只 setup 好了小熊洗衣机）\n\n以及没想到小猫反而没有很社恐呢，虽然刚开始躲了一会但是还是和大家玩得很好 qwq（配图：一只黑色的 LC-LC 10Gbps 光猫）",
-    "views": 121,
+    "views": 123,
     "forwards": 1,
     "media_group_id": 14170419481817413,
     "images": [
@@ -105585,7 +105585,7 @@
     "id": 7899,
     "date": "2026-02-17T20:07:09",
     "text": "猫猫晒太阳\n\n天开始变暖了！现在居然零上 5°C！今年冬天好短呀...",
-    "views": 41,
+    "views": 47,
     "forwards": 0,
     "images": [
       {
