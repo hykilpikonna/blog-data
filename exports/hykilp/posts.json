@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7448,
+    "views": 7450,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -62104,14 +62104,14 @@
     "id": 4528,
     "date": "2024-10-11T22:26:36",
     "text": "<a href=\"##ADHD\">#ADHD</a> epic fail\n\n为了多开某个游戏不被服务器发现，想要让重要的号挂上代理再连。但是这个游戏封数据中心的 IP，试了 Mullvad 但是被黑名单，还试了之前在中国用的梯子虽然出口能出，但是要从国内中转延迟太高了... 所以昨天花了超级久研究怎样获得家宽出口，最后听群友水晶猫的推荐花 $18 买了一个 Akari 路线的东京 VPS 搭了代理，发现居然真的可以连 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n...然后今天重启系统之后打开游戏的时候忘记把梯子挂上裸连登进去了才意识到 I fucked up <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 1
   },
   {
     "id": 4529,
     "date": "2024-10-12T02:53:31",
     "text": "很久没有 11 点前睡觉了，今天为了明天的瑞希五箱活动早睡一次（虽然也睡不久，因为活动凌晨五点开始订了凌晨五点的闹钟",
-    "views": 141,
+    "views": 142,
     "forwards": 0
   },
   {
@@ -64878,21 +64878,21 @@
     "id": 4715,
     "date": "2024-12-04T03:21:22",
     "text": "Linux 日常：运行一个程序，发现它打开了 xemacs，想退出\n:wq 没有用\n^q 没有用\n^x ^d ^c ^\\ 都没有用\n然后开了一个新的 shell 开任务管理器把它杀了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 1
   },
   {
     "id": 4716,
     "date": "2024-12-04T17:24:47",
     "text": "呜呜 给 Syama 安利 Davinci Resolve，然后她那边启动会闪退，为什么呢？明明都是 7840HS，都是 Windows 11...\n\n然后发现关掉 clash TUN 就好了，开了就闪退？？然后我这边试了也是，开 TUN 还是 TAP 都不行... 呜呜\n\n好奇怪，Clash TUN 不行，Cloudflare Warp 也不行，但是 Mullvad 和 tailscale exit node 都没问题，是不是只有 IP 层代理会有这个问题\n\n临时解决办法是把 Davinci Control Panel 删掉（<a href=\"https://www.reddit.com/r/davinciresolve/comments/1bx17wy/cloudflare_crash_on_startup_fixed_by_removing/\">来源</a>）",
-    "views": 153,
+    "views": 154,
     "forwards": 0
   },
   {
     "id": 4717,
     "date": "2024-12-05T00:47:50",
     "text": "感觉人群的共识机制不太聪明喵\n\n红灯，甚至还在过车的那种，一个人突然开始过马路，有人估计是没看路跟着这个人开始走，过一会越来越多的人跟着走，最后变成了所有人一起闯红灯过马路 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "images": [
       {
@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 518,
+    "views": 519,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2789,
+    "views": 2790,
     "forwards": 29,
     "images": [
       {
@@ -104353,7 +104353,7 @@
     "id": 7800,
     "date": "2026-02-04T02:29:54",
     "text": "今天在 github review PR 的时候发现了页面最下面的小猫，好可爱好可爱！",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "images": [
       {
@@ -104372,7 +104372,7 @@
     "id": 7801,
     "date": "2026-02-04T21:50:13",
     "text": "见到了多伦多新开的 Eglinton LRT！\n\n我在轻轨旁边开车，然后红灯了。看到轻轨车和我同时到等待线等红灯，一分钟之后居然是我左转的车先绿灯... 真的太蠢了，轻轨就不应该需要等红灯吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "media_group_id": 14161934505327005,
     "images": [
@@ -104422,7 +104422,7 @@
     "id": 7805,
     "date": "2026-02-05T07:40:02",
     "text": "搬家的时候把电视卖掉了，打算给新家换成投影仪，所以原本在电视下面放游戏机和主机的电视柜也要迁移到沙发后面了\n\n但是如果直接买一个柜子的话，就会把被沙发挡住的空间浪费掉，因为要把沙发挪出来才能用到 (Fig 6)\n\n所以设计了一个铝型材柜子！下面三层是空的可以在不用的时候把沙发推进去，然后上面是储物空间 qwq\n\n不过不知道可制作性怎么样... 感觉需要把一根铝型材切成 96.973cm 两端 10° (Fig 4) 还是挺难切准的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n如果不倾斜的话 (Fig 7)，又感觉方方正正太无聊了吗？怎么办怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 273,
+    "views": 274,
     "forwards": 1,
     "media_group_id": 14162217621347925,
     "images": [
@@ -105628,7 +105628,7 @@
     "id": 7901,
     "date": "2026-02-18T07:46:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nDIY 蒜香面包！\n\n感觉很用力放黄油了但是依然觉得黄油不够... 原来蒜香面包里面应该有这么多黄油吗",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 14171206519092181,
     "images": [
@@ -105708,7 +105708,7 @@
     "id": 7908,
     "date": "2026-02-18T16:39:01",
     "text": "<del>上课迟到的真实原因</del>",
-    "views": 184,
+    "views": 186,
     "forwards": 1,
     "images": [
       {
@@ -105727,7 +105727,7 @@
     "id": 7909,
     "date": "2026-02-19T20:47:29",
     "text": "<del>又到了几个月一度的</del>",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "images": [
       {
@@ -105746,7 +105746,7 @@
     "id": 7910,
     "date": "2026-02-20T09:12:44",
     "text": "想和聊聊玩 <i class=\"custom-emoji\" emoji-src=\"emoji/5458430926683905591.webp\">🌎</i> cobbleverse，然后发现小时候做的防密恐材质包找不到了...\n\n所以重新做了一个，把沙砾 幽匿 紫水晶 地衣 灵魂沙 蘑菇块 海绵 矿 蜘蛛网 青苔 珊瑚都换成了 rE-oCd 材质包里面不那么密恐的版本（有些觉得还是有点密恐的又手动改了一下）\n\n不知道有没有人和我一样对材质密恐，应该没有但是想让自己觉得没有浪费时间就还是发出来好了",
-    "views": 133,
+    "views": 135,
     "forwards": 2,
     "files": [
       {
