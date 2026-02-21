@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7450,
+    "views": 7451,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -104951,7 +104951,7 @@
     "id": 7846,
     "date": "2026-02-11T02:14:10",
     "text": "好生气。\n\n给聊聊的笔记本孬了，插上电没反应，按电源按钮不开机，让我看看能不能修\n\n插上电，闪四黄一白，查了一下是电池问题。所以拆开后盖把电池拆下来，拆下来插上电 20V 1.6W 没反应，装回去插上电依然 20V 1.6W 没反应\n\n然后看了一眼接口，觉得有点不对，设计成这样两块 PCB 直接接触真的能接触上吗？查了一下才发现中间应该有一块连接器，然后问了聊聊才发现她之前拆过但是忘记把连接器装回去了...\n\n更绝望的是，我印象中收拾房间的时候看到过这个连接器，以为是前室友猪猪尝试修 iPad 的时候拆下来的东西就扔掉了...\n\n唉，-￥75，也不知道花了这 ￥75 补回来这个连接器之后能不能找到真正的问题",
-    "views": 267,
+    "views": 268,
     "forwards": 0,
     "media_group_id": 14166208406811629,
     "images": [
@@ -104981,35 +104981,35 @@
     "id": 7848,
     "date": "2026-02-11T05:22:30",
     "text": "<del>想 如果养猫的话起名为「熵」会不会获得噩运</del>\n\n<del>小猫能有什么孬心眼呢</del>",
-    "views": 292,
+    "views": 293,
     "forwards": 0
   },
   {
     "id": 7849,
     "date": "2026-02-11T12:41:45",
     "text": "之前去日本六个月体重上升到了 64kg，现在回加拿大两个月掉到了 58kg\n\n我甚至没有在尝试减肥... 这说明什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 282,
+    "views": 283,
     "forwards": 3
   },
   {
     "id": 7850,
     "date": "2026-02-11T15:04:47",
     "text": "现在主力机器是 windows/linux 双启动，平时用 windows，需要跑 ROCm 或者写程序的时候重启到 linux\n\n但是每次重启都觉得好麻烦，而且没办法在人不在家的时候切换系统\n\n在想能不能做成交叉 VM 双启动，主机跑 win 的时候把 linux 的分区跑在 VM 里、主机跑 linux 的时候把 win 的分区跑在 VM 里，这样也许有些时候就不需要切系统了？ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 272,
+    "views": 273,
     "forwards": 1
   },
   {
     "id": 7851,
     "date": "2026-02-11T20:02:15",
     "text": "寄了一封挂号信到深圳，CA$37.1 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n真的是抢钱",
-    "views": 258,
+    "views": 259,
     "forwards": 2
   },
   {
     "id": 7852,
     "date": "2026-02-12T03:56:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n方便面！\n\n聊聊研究了一下说我在日本胖了可能是因为吃太多碳水，而且每次都把面汤喝完就会让身体存很多水\n\n好像确实，平时吃的拉面牛丼寿司都很高碳水很高糖，而且我也确实每次都会把面汤喝完... 唉，为什么好吃和健康总是要牺牲一个 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "reply": {
       "id": 7849,
@@ -105032,7 +105032,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 243,
+    "views": 244,
     "forwards": 2,
     "media_group_id": 14167074537393133,
     "images": [
@@ -105112,14 +105112,14 @@
     "id": 7860,
     "date": "2026-02-13T07:25:08",
     "text": "好累好累好累。为什么所有事情都需要我的时间... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 1
   },
   {
     "id": 7861,
     "date": "2026-02-13T23:37:30",
     "text": "做三文鱼\n\n看小猫似乎对生三文鱼很感兴趣就给它煎了三文鱼，但是煎完了放在地上之后它闻闻似乎完全没兴趣就走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 4,
     "media_group_id": 14168206803872669,
     "images": [
@@ -105169,7 +105169,7 @@
     "id": 7865,
     "date": "2026-02-14T01:05:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤三文鱼腩！\n\n小猫不吃我吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 1,
     "images": [
       {
@@ -105188,7 +105188,7 @@
     "id": 7866,
     "date": "2026-02-14T16:25:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "media_group_id": 14168690820973429,
     "images": [
@@ -105238,7 +105238,7 @@
     "id": 7870,
     "date": "2026-02-14T18:38:52",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n照烧鸡腿饭！\n\n果然让 llm 翻译日语食谱要比之前用下厨房上中国人写的食谱做出来更好吃 qwq",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 14168754660080061,
     "images": [
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 193,
+    "views": 194,
     "forwards": 1,
     "images": [
       {
@@ -105307,7 +105307,7 @@
     "id": 7875,
     "date": "2026-02-15T05:26:00",
     "text": "新家新柜子搭好了，前几天 $0 捡的二手沙发也差不多清理好了，终于有能用的客厅了 qwq\n\n原本应该是 5x5 = 25 个方格子，但是之前用 1x4 的同款柜子的时候发现 PS5 和唱片机单边太长了没法放进一个格子里，所以这次拼 5x5 柜子的时候故意没有装一些隔板，把两个格子拼起来了（希望结构强度不会受到太多影响",
-    "views": 190,
+    "views": 191,
     "forwards": 0,
     "media_group_id": 14169065281051429,
     "images": [
@@ -105361,14 +105361,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105418,7 +105418,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105458,7 +105458,7 @@
     "id": 7889,
     "date": "2026-02-15T21:02:58",
     "text": "猫猫睡觉",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "reply": {
       "id": 7880,
@@ -105484,7 +105484,7 @@
     "id": 7891,
     "date": "2026-02-16T08:47:27",
     "text": "哭了 睡觉被热醒，房间烧到了 32.5℃... 然后下楼发现是智能恒温器死机了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 去关掉电闸重新开之后算是恢复了。\n\n仔细研究了一下，连上 WiFi 发现它会用 GPS 获取天气、还有据说是检测烟雾报警器声音的内置麦克风... 希望是本地监测，不是上传到云服务上检测。连接 app 还要注册账号输入住址和房子信息和电力公司... 为什么一个空调需要知道这些呀？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n然后我就还是把 WiFi 关了，不太敢相信它的安全性，也不想给它这些信息...\n\n好怀念不智能但是 reliable 的家电。",
-    "views": 197,
+    "views": 198,
     "forwards": 2,
     "files": [
       {
@@ -105505,7 +105505,7 @@
     "id": 7892,
     "date": "2026-02-17T04:27:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n年夜饭！做了烤鸭、鸭架米粉萝卜汤、白菜肉饺子、日式もつ鍋、中式番茄火锅、牛排\n\n总共七个人，有我 聊聊 北燕书 豆腐 猫猫球 西风 羽澄，很热闹很开心喵！<span class=\"spoiler\"><span>（虽然还想邀请更多朋友但是各种意义上都到人数上限了... 无论是物理空间还是座椅/餐具数量还是感官负载）</span></span>\n\n除了吃饭大家还打了 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>（刚搬过来所以其他游戏还没有 setup 好，就只 setup 好了小熊洗衣机）\n\n以及没想到小猫反而没有很社恐呢，虽然刚开始躲了一会但是还是和大家玩得很好 qwq（配图：一只黑色的 LC-LC 10Gbps 光猫）",
-    "views": 178,
+    "views": 179,
     "forwards": 1,
     "media_group_id": 14170419481817413,
     "images": [
@@ -105585,7 +105585,7 @@
     "id": 7899,
     "date": "2026-02-17T20:07:09",
     "text": "猫猫晒太阳\n\n天开始变暖了！现在居然零上 5°C！今年冬天好短呀...",
-    "views": 179,
+    "views": 180,
     "forwards": 0,
     "images": [
       {
@@ -105604,7 +105604,7 @@
     "id": 7900,
     "date": "2026-02-18T02:28:05",
     "text": "恐怖\n\n前几天把我之前想卖掉但是没有卖的旧 iPad 送给 syama 了，然后发现它除了之前说的 FaceID 不能用、有 mdm 锁、左上角会误触的问题之外还有：\n\n❌ 外壳上的 SN 和主板 SN 不匹配\n❌ 主板出厂是 64GB，系统里是 256GB\n❌ 型号读出来是 iPad mini 3（可能是扩容的人写 ROM 写错了）\n\n唉，真的第一次见到这么多问题的苹果设备。<span class=\"spoiler\"><span>这么多明显的 red flag 我当时买它的时候线下验货居然一个 red flag 都没发现...</span></span>",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "reply": {
       "id": 4127,
@@ -105628,7 +105628,7 @@
     "id": 7901,
     "date": "2026-02-18T07:46:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nDIY 蒜香面包！\n\n感觉很用力放黄油了但是依然觉得黄油不够... 原来蒜香面包里面应该有这么多黄油吗",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 14171206519092181,
     "images": [
@@ -105708,7 +105708,7 @@
     "id": 7908,
     "date": "2026-02-18T16:39:01",
     "text": "<del>上课迟到的真实原因</del>",
-    "views": 186,
+    "views": 187,
     "forwards": 1,
     "images": [
       {
@@ -105727,7 +105727,7 @@
     "id": 7909,
     "date": "2026-02-19T20:47:29",
     "text": "<del>又到了几个月一度的</del>",
-    "views": 165,
+    "views": 167,
     "forwards": 1,
     "images": [
       {
@@ -105746,7 +105746,7 @@
     "id": 7910,
     "date": "2026-02-20T09:12:44",
     "text": "想和聊聊玩 <i class=\"custom-emoji\" emoji-src=\"emoji/5458430926683905591.webp\">🌎</i> cobbleverse，然后发现小时候做的防密恐材质包找不到了...\n\n所以重新做了一个，把沙砾 幽匿 紫水晶 地衣 灵魂沙 蘑菇块 海绵 矿 蜘蛛网 青苔 珊瑚都换成了 rE-oCd 材质包里面不那么密恐的版本（有些觉得还是有点密恐的又手动改了一下）\n\n不知道有没有人和我一样对材质密恐，应该没有但是想让自己觉得没有浪费时间就还是发出来好了",
-    "views": 135,
+    "views": 137,
     "forwards": 2,
     "files": [
       {
