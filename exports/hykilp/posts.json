@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8494,
+    "views": 8495,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -104769,7 +104769,7 @@
     "id": 7835,
     "date": "2026-02-09T05:43:24",
     "text": "换了 ebox 有半个月了，bell 还没取消，还在犹豫要不要留下来...\n\n今天去测了一下全球测速，发现结果并没有之前想象的那么好\n\n最主要的问题是，虽然 ping 和中位上行基本上和 Bell 持平，但是中位下行比 Bell 慢很多 (170 Mbps vs 284 Mbps)\n\n还有 ipv6 比 v4 慢的问题、还有在本地的其他网络环境远程桌面连到家会有 24ms 延迟的问题...（虽然因为延迟稳定所以远程桌面体验也没有特别差）\n\n不知道要留哪个... 有点想要更高的下载速度，但是又觉得不值得每年多花 $216（基本上是我一年手机话费价格了）\n\n...是不是能让我这么犹豫就说明两个选择都不错呢？",
-    "views": 238,
+    "views": 239,
     "forwards": 2,
     "reply": {
       "id": 7734,
@@ -105361,14 +105361,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 190,
+    "views": 191,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 177,
+    "views": 178,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105418,7 +105418,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 194,
+    "views": 195,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105585,7 +105585,7 @@
     "id": 7899,
     "date": "2026-02-17T20:07:09",
     "text": "猫猫晒太阳\n\n天开始变暖了！现在居然零上 5°C！今年冬天好短呀...",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "images": [
       {
@@ -105604,7 +105604,7 @@
     "id": 7900,
     "date": "2026-02-18T02:28:05",
     "text": "恐怖\n\n前几天把我之前想卖掉但是没有卖的旧 iPad 送给 syama 了，然后发现它除了之前说的 FaceID 不能用、有 mdm 锁、左上角会误触的问题之外还有：\n\n❌ 外壳上的 SN 和主板 SN 不匹配\n❌ 主板出厂是 64GB，系统里是 256GB\n❌ 型号读出来是 iPad mini 3（可能是扩容的人写 ROM 写错了）\n\n唉，真的第一次见到这么多问题的苹果设备。<span class=\"spoiler\"><span>这么多明显的 red flag 我当时买它的时候线下验货居然一个 red flag 都没发现...</span></span>",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "reply": {
       "id": 4127,
@@ -105763,7 +105763,7 @@
     "id": 7911,
     "date": "2026-02-21T21:39:19",
     "text": "只用主角和猫打赢了 p5r 隐藏 boss 之「p3 主角结城理」！\n\n拿到所有奖励需要 360000 分，每点伤害算 1 分，可是对面只有 15000 点血，要 x24 分数倍率才能达到\n\n分数加成规则是，祝系攻击 x5，猫发起的攻击 x4，如果可以叠加起来 x20 就好了... 但是猫是风系，并没有祝系的技能怎么办呢？\n\n答：做一个祝系技能项链给猫戴上！虽然伤害不高但是上满 buff 的话还挺能用的。\n\n然后只让主角和猫上场，主角上 buff 猫输出，这样保证每一点伤害都有 x20 分数，最后再靠睡眠 buff 让对方回 3000 点血就拿到满分奖励了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n可惜真的很费 SP。因为四个人上场的时候每回合能攻击四次，这种打法每回合只能攻击一次，但是 buff 是按回合算的，而且要上加攻 & 降防两种 buff，而且少带两个人总 SP 就少了一半，所以 SP 成本直接上涨了 16 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 打一次吃完了快一半的 SP 道具囤货... 很不 sustainable 呢。",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "media_group_id": 14173679675617781,
     "images": [
@@ -105813,7 +105813,7 @@
     "id": 7916,
     "date": "2026-02-22T01:21:44",
     "text": "<a href=\"https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\"><em>death by a thousand slops</a></em>\n\n感觉让 Copilot 审核 PR 纯粹是浪费真人 reviewer 的时间。",
-    "views": 141,
+    "views": 143,
     "forwards": 2,
     "media_group_id": 14173786439090613,
     "images": [
