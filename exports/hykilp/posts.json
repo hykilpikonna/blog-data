@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6485,
+    "views": 6486,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -83915,7 +83915,7 @@
     "id": 6133,
     "date": "2025-08-11T11:02:51",
     "text": "昨天开车看到了🦊，今天去动物园反而没看到🦊\n\n旭山动物园，天太热了感觉大部分室外动物都在休息室不出来，剩下的动物里大部分都躲在阴凉里睡睡（<del>卡皮巴拉是例外，卡皮巴拉天冷也会躲在阴凉里睡睡</del>\n\n不过也值了，拍到了好多好看照片！",
-    "views": 199,
+    "views": 200,
     "forwards": 0,
     "media_group_id": 14039281374329013,
     "images": [
@@ -105119,7 +105119,7 @@
     "id": 7861,
     "date": "2026-02-13T23:37:30",
     "text": "做三文鱼\n\n看小猫似乎对生三文鱼很感兴趣就给它煎了三文鱼，但是煎完了放在地上之后它闻闻似乎完全没兴趣就走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 4,
     "media_group_id": 14168206803872669,
     "images": [
@@ -105169,7 +105169,7 @@
     "id": 7865,
     "date": "2026-02-14T01:05:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤三文鱼腩！\n\n小猫不吃我吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "images": [
       {
@@ -105188,7 +105188,7 @@
     "id": 7866,
     "date": "2026-02-14T16:25:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 14168690820973429,
     "images": [
@@ -105238,7 +105238,7 @@
     "id": 7870,
     "date": "2026-02-14T18:38:52",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n照烧鸡腿饭！\n\n果然让 llm 翻译日语食谱要比之前用下厨房上中国人写的食谱做出来更好吃 qwq",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "media_group_id": 14168754660080061,
     "images": [
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 195,
+    "views": 196,
     "forwards": 1,
     "images": [
       {
@@ -105307,7 +105307,7 @@
     "id": 7875,
     "date": "2026-02-15T05:26:00",
     "text": "新家新柜子搭好了，前几天 $0 捡的二手沙发也差不多清理好了，终于有能用的客厅了 qwq\n\n原本应该是 5x5 = 25 个方格子，但是之前用 1x4 的同款柜子的时候发现 PS5 和唱片机单边太长了没法放进一个格子里，所以这次拼 5x5 柜子的时候故意没有装一些隔板，把两个格子拼起来了（希望结构强度不会受到太多影响",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 14169065281051429,
     "images": [
@@ -105361,14 +105361,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 176,
+    "views": 177,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105418,7 +105418,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 193,
+    "views": 194,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105585,7 +105585,7 @@
     "id": 7899,
     "date": "2026-02-17T20:07:09",
     "text": "猫猫晒太阳\n\n天开始变暖了！现在居然零上 5°C！今年冬天好短呀...",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "images": [
       {
@@ -105746,7 +105746,7 @@
     "id": 7910,
     "date": "2026-02-20T09:12:44",
     "text": "想和聊聊玩 <i class=\"custom-emoji\" emoji-src=\"emoji/5458430926683905591.webp\">🌎</i> cobbleverse，然后发现小时候做的防密恐材质包找不到了...\n\n所以重新做了一个，把沙砾 幽匿 紫水晶 地衣 灵魂沙 蘑菇块 海绵 矿 蜘蛛网 青苔 珊瑚都换成了 rE-oCd 材质包里面不那么密恐的版本（有些觉得还是有点密恐的又手动改了一下）\n\n不知道有没有人和我一样对材质密恐，应该没有但是想让自己觉得没有浪费时间就还是发出来好了",
-    "views": 168,
+    "views": 169,
     "forwards": 2,
     "files": [
       {
@@ -105763,7 +105763,7 @@
     "id": 7911,
     "date": "2026-02-21T21:39:19",
     "text": "只用主角和猫打赢了 p5r 隐藏 boss 之「p3 主角结城理」！\n\n拿到所有奖励需要 360000 分，每点伤害算 1 分，可是对面只有 15000 点血，要 x24 分数倍率才能达到\n\n分数加成规则是，祝系攻击 x5，猫发起的攻击 x4，如果可以叠加起来 x20 就好了... 但是猫是风系，并没有祝系的技能怎么办呢？\n\n答：做一个祝系技能项链给猫戴上！虽然伤害不高但是上满 buff 的话还挺能用的。\n\n然后只让主角和猫上场，主角上 buff 猫输出，这样保证每一点伤害都有 x20 分数，最后再靠睡眠 buff 让对方回 3000 点血就拿到满分奖励了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n可惜真的很费 SP。因为四个人上场的时候每回合能攻击四次，这种打法每回合只能攻击一次，但是 buff 是按回合算的，而且要上加攻 & 降防两种 buff，而且少带两个人总 SP 就少了一半，所以 SP 成本直接上涨了 16 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 打一次吃完了快一半的 SP 道具囤货... 很不 sustainable 呢。",
-    "views": 113,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 14173679675617781,
     "images": [
@@ -105813,7 +105813,7 @@
     "id": 7916,
     "date": "2026-02-22T01:21:44",
     "text": "<a href=\"https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\"><em>death by a thousand slops</a></em>\n\n感觉让 Copilot 审核 PR 纯粹是浪费真人 reviewer 的时间。",
-    "views": 127,
+    "views": 132,
     "forwards": 2,
     "media_group_id": 14173786439090613,
     "images": [
