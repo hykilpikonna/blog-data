@@ -58770,7 +58770,7 @@
     "id": 4302,
     "date": "2024-08-10T06:43:02",
     "text": "<a href=\"##ML\">#ML</a> 之前模型还部署在 menci 学校机器上的时候，发现它有一个很大的问题就是说话人非常不准，比如你找瑞希说话的时候突然初音出来说话了...\n\n前几天决定测一下这个问题，写脚本给每个队伍生成了 200 组测试数据，每条是一个随机的人问另一个人最近过得怎么样（比如”絵名：瑞希你最近怎么样？“）让模型生成下一句，看看回复的人对不对。测试出来发现最高居然只有 70% 正确率，明明是这么基础的对话逻辑...\n\n然而昨天把推理库换从 LMD 换成 MLC 之后，测速的时候偶然发现似乎每一条都是正确的，即使运气好也不应该这样。测一下好了，然后发现 MLC 的回复人准确率到了 98% <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n第一次知道原来推理库不止影响模型速度，对回复质量影响也这么大",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "reply": {
       "id": 4295,
@@ -58794,7 +58794,7 @@
     "id": 4303,
     "date": "2024-08-10T07:22:00",
     "text": "发现自己做研究的时候，找到一个比较好的方案就不是很有动力再去从零开始尝试其他的方案了，只会去想办法优化这个方案，因为做新的尝试会消耗很多时间精力和计算资源，也不一定会更好... 可是如果不尝试，即使有更好的方案也没办法知道 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<span class=\"spoiler\"><span>也许人类这个集体就是某种分布式的梯度下降算法，每个人都只会从其他人知识库的顶端继续向下走，直到慢慢在某个局部最低点聚合。真的从零开始走少经之路的人没办法获得资源，靠自己也做不到什么吧...\n\n暴论一下，如果我们的现实是某种模拟的话，我大概理解为什么会有人想要模拟一切事物从零发展了。解决梯度下降卡住一个很常用的办法就是模拟很多次，从不同的随机起点重新跑... 也许我们的现实就是随机起点之一吧</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "reply": {
       "id": 4302,
@@ -58805,7 +58805,7 @@
     "id": 4304,
     "date": "2024-08-11T07:18:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （昨天？\n看到信达超市的鸡皮又有货了就做了烤鸡皮 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> $2 够两个人吃两顿好便宜\n\n之前很长一段时间都下架了（x",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 13786885663459205,
     "images": [
@@ -58845,7 +58845,7 @@
     "id": 4307,
     "date": "2024-08-11T07:23:28",
     "text": "今天去 Queer St West 逛逛，好喜欢这条街的气氛，很热闹，到处都是很好看的涂鸦 qwq",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "media_group_id": 13786888068125157,
     "images": [
@@ -58905,14 +58905,14 @@
     "id": 4312,
     "date": "2024-08-11T07:38:53",
     "text": "白天困困，躺在床上就不困了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 0
   },
   {
     "id": 4313,
     "date": "2024-08-11T07:50:23",
     "text": "起床觅食有被拐角的新叶喵吓到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n...以及拍照的时候手机没拿稳拍出了奇妙照片 quq",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "media_group_id": 13786900988263349,
     "images": [
@@ -58942,7 +58942,7 @@
     "id": 4315,
     "date": "2024-08-11T08:40:04",
     "text": "<a href=\"##ADHD\">#ADHD</a> 发现自己忘了要干什么的时候就会在命令行里反复打 ll <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "images": [
       {
@@ -58961,14 +58961,14 @@
     "id": 4316,
     "date": "2024-08-11T20:12:30",
     "text": "日语输入法的 romaji 键盘和かな键盘的关系是不是就像中文输入法的拼音键盘和双拼一样 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 0
   },
   {
     "id": 4317,
     "date": "2024-08-11T21:56:19",
     "text": "哈哈哈哈这是在画啥",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -58987,7 +58987,7 @@
     "id": 4318,
     "date": "2024-08-11T23:43:24",
     "text": "写了一个 iOS shortcut 在打开音游的时候自动进入音游模式 qwq",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13787358434236013,
     "images": [
@@ -59017,7 +59017,7 @@
     "id": 4320,
     "date": "2024-08-11T23:59:23",
     "text": "切肉肉差点切到手了，还好有指甲 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6487,
+    "views": 6488,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8500,
+    "views": 8501,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -105361,7 +105361,7 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 0
   },
   {
@@ -105458,7 +105458,7 @@
     "id": 7889,
     "date": "2026-02-15T21:02:58",
     "text": "猫猫睡觉",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "reply": {
       "id": 7880,
@@ -105585,7 +105585,7 @@
     "id": 7899,
     "date": "2026-02-17T20:07:09",
     "text": "猫猫晒太阳\n\n天开始变暖了！现在居然零上 5°C！今年冬天好短呀...",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "images": [
       {
@@ -105604,7 +105604,7 @@
     "id": 7900,
     "date": "2026-02-18T02:28:05",
     "text": "恐怖\n\n前几天把我之前想卖掉但是没有卖的旧 iPad 送给 syama 了，然后发现它除了之前说的 FaceID 不能用、有 mdm 锁、左上角会误触的问题之外还有：\n\n❌ 外壳上的 SN 和主板 SN 不匹配\n❌ 主板出厂是 64GB，系统里是 256GB\n❌ 型号读出来是 iPad mini 3（可能是扩容的人写 ROM 写错了）\n\n唉，真的第一次见到这么多问题的苹果设备。<span class=\"spoiler\"><span>这么多明显的 red flag 我当时买它的时候线下验货居然一个 red flag 都没发现...</span></span>",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "reply": {
       "id": 4127,
@@ -105628,7 +105628,7 @@
     "id": 7901,
     "date": "2026-02-18T07:46:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nDIY 蒜香面包！\n\n感觉很用力放黄油了但是依然觉得黄油不够... 原来蒜香面包里面应该有这么多黄油吗",
-    "views": 227,
+    "views": 228,
     "forwards": 0,
     "media_group_id": 14171206519092181,
     "images": [
@@ -105746,7 +105746,7 @@
     "id": 7910,
     "date": "2026-02-20T09:12:44",
     "text": "想和聊聊玩 <i class=\"custom-emoji\" emoji-src=\"emoji/5458430926683905591.webp\">🌎</i> cobbleverse，然后发现小时候做的防密恐材质包找不到了...\n\n所以重新做了一个，把沙砾 幽匿 紫水晶 地衣 灵魂沙 蘑菇块 海绵 矿 蜘蛛网 青苔 珊瑚都换成了 rE-oCd 材质包里面不那么密恐的版本（有些觉得还是有点密恐的又手动改了一下）\n\n不知道有没有人和我一样对材质密恐，应该没有但是想让自己觉得没有浪费时间就还是发出来好了",
-    "views": 213,
+    "views": 214,
     "forwards": 2,
     "files": [
       {
@@ -105763,7 +105763,7 @@
     "id": 7911,
     "date": "2026-02-21T21:39:19",
     "text": "只用主角和猫打赢了 p5r 隐藏 boss 之「p3 主角结城理」！\n\n拿到所有奖励需要 360000 分，每点伤害算 1 分，可是对面只有 15000 点血，要 x24 分数倍率才能达到\n\n分数加成规则是，祝系攻击 x5，猫发起的攻击 x4，如果可以叠加起来 x20 就好了... 但是猫是风系，并没有祝系的技能怎么办呢？\n\n答：做一个祝系技能项链给猫戴上！虽然伤害不高但是上满 buff 的话还挺能用的。\n\n然后只让主角和猫上场，主角上 buff 猫输出，这样保证每一点伤害都有 x20 分数，最后再靠睡眠 buff 让对方回 3000 点血就拿到满分奖励了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n可惜真的很费 SP。因为四个人上场的时候每回合能攻击四次，这种打法每回合只能攻击一次，但是 buff 是按回合算的，而且要上加攻 & 降防两种 buff，而且少带两个人总 SP 就少了一半，所以 SP 成本直接上涨了 16 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 打一次吃完了快一半的 SP 道具囤货... 很不 sustainable 呢。",
-    "views": 177,
+    "views": 178,
     "forwards": 0,
     "media_group_id": 14173679675617781,
     "images": [
@@ -105813,7 +105813,7 @@
     "id": 7916,
     "date": "2026-02-22T01:21:44",
     "text": "<a href=\"https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\"><em>death by a thousand slops</a></em>\n\n感觉让 Copilot 审核 PR 纯粹是浪费真人 reviewer 的时间。",
-    "views": 212,
+    "views": 214,
     "forwards": 2,
     "media_group_id": 14173786439090613,
     "images": [
@@ -105863,14 +105863,14 @@
     "id": 7920,
     "date": "2026-02-22T17:54:40",
     "text": "睡了 15h <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n从昨天 10pm 睡到了今天 1pm... 感觉打破了某种新纪录",
-    "views": 172,
+    "views": 174,
     "forwards": 0
   },
   {
     "id": 7921,
     "date": "2026-02-22T20:44:10",
     "text": "加拿大效率，一次系统维护维护三天 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 161,
+    "views": 163,
     "forwards": 0,
     "images": [
       {
@@ -105889,7 +105889,7 @@
     "id": 7922,
     "date": "2026-02-22T21:31:22",
     "text": "之前路过 Etobicoke 的时候去了之前标记的电子垃圾店 A1 Electronic Parts\n\n去的时候正好是他们刚搬完家重新营业的第一天，我倒旧地址的时候正好看到有人在下架店铺的牌子\n\n有好多有意思的东西，可惜想买的东西都不便宜... 所以什么都没有买",
-    "views": 166,
+    "views": 169,
     "forwards": 0,
     "media_group_id": 14174367057491245,
     "images": [
@@ -105998,7 +105998,7 @@
   {
     "id": 7932,
     "date": "2026-02-23T05:21:30",
-    "views": 178,
+    "views": 181,
     "forwards": 1,
     "media_group_id": 14174592722871285,
     "reply": {
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 154,
+    "views": 160,
     "forwards": 3,
     "images": [
       {
@@ -106030,7 +106030,7 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 114,
+    "views": 120,
     "forwards": 0
   }
 ]
