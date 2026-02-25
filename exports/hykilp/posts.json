@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6488,
+    "views": 6489,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8502,
+    "views": 8503,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -94790,7 +94790,7 @@
     "id": 7026,
     "date": "2025-10-30T08:50:11",
     "text": "旅行相册计划第一天\n\n发出去了三张照片 qwq",
-    "views": 232,
+    "views": 233,
     "forwards": 1,
     "media_group_id": 14094513693486397,
     "images": [
@@ -94840,14 +94840,14 @@
     "id": 7027,
     "date": "2025-10-31T12:39:00",
     "text": "呜呜...\n\n半夜开车看到了死掉的小三花猫躺在对面路上... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 1
   },
   {
     "id": 7028,
     "date": "2025-10-31T13:46:40",
     "text": "躲起来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 2,
     "images": [
       {
@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 578,
+    "views": 579,
     "forwards": 13
   },
   {
@@ -104040,7 +104040,7 @@
     "id": 7774,
     "date": "2026-01-30T04:26:41",
     "text": "今天去把最后一点东西搬走了，把旧家的钥匙还给房东了，还是有点不舍...\n\n从初一出国到大学之前我一直像是在流浪，每年都在搬家，每个住所都感觉很临时，因为知道很快就会搬走也没有心思花精力把住处打造成自己喜欢的样子。所以某种意义上，这里也许是第一个让我拥有归属感、有「家的感觉」的地方\n\n原本以为只要在加拿大就可以一直住在这里，结果还是搬走了。新的房子里目前还只有堆满房间的纸箱，不知道什么时候才能有时间把东西摆好、让这里变成新的家呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 386,
+    "views": 387,
     "forwards": 3,
     "media_group_id": 14157977611886989,
     "images": [
@@ -104090,7 +104090,7 @@
     "id": 7778,
     "date": "2026-01-31T19:16:58",
     "text": "因为去年毕业了，现在 UofT 邮箱马上就要被删掉了，想要备份一下，结果研究了三个小时才备份好...\n\n首先试了 Outlook 客户端，但是学校把已经毕业的人的客户端许可撤掉了所以登不进去，网页版能登录但是不能导出\n\n然后试了 MailStore Home，发现不支持 OAuth 登录。想要用旧方法创建一个应用密码登录，但是发现学校设置禁止了，所以就完全没法登录\n\n然后试了 ThunderBird，完全没有备份的选项，也没办法下载所有附件\n\n然后试了自搭 OpenArchiver，发现入门体验非常差，按文档启动起来第一次打开前端就是一个管理员登录界面也没有地方让我设置账号密码，试了一下默认密码告诉我没法连接到后端\n\n然后试了 eM Client，支持 OAuth 但是登不进去因为学校开了白名单，它没有在 OAuth 应用白名单上所以禁止登录\n\n最后还是，开了一个 MS365 Dev Program 给自己 Outlook 桌面版许可再登录账号导出了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 好累好累",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "media_group_id": 14159096147603869,
     "images": [
@@ -104130,7 +104130,7 @@
     "id": 7781,
     "date": "2026-02-01T02:18:52",
     "text": "玩 persona 5，看到墙上有二维码就想扫，但是视角被挡住了\n\n所以侧一下头找到一个能看到完整的视角截图，然后进行 perspective 矫正，然后再用颜色曲线和黑白工具转成黑白，再把格子对齐降分辨率，再把一些灰色不清楚的地方手动纠正...\n\n结果还是什么都没有扫出来。这合理吗 呜呜",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "media_group_id": 14159298658402061,
     "images": [
@@ -104179,7 +104179,7 @@
   {
     "id": 7785,
     "date": "2026-02-01T09:39:51",
-    "views": 257,
+    "views": 258,
     "forwards": 0,
     "files": [
       {
@@ -104193,7 +104193,7 @@
     "id": 7786,
     "date": "2026-02-01T13:19:18",
     "text": "进行了一次来回 7h 500km 说走就走的看星星旅行！\n\n昨天在 persona 5 里面玩到了大家去池袋满天 planetarium 看星星的剧情，让我也好想看星星了。看了一眼窗外发现今天居然正好没有云，是一两个月都难得一次的完全晴天...\n\n但是窗外却没有看到很多星星，觉得是不是这里光污染太亮了，就查了一下哪里光污染最小，把一些可能在紧急情况用上的生存储备放进后备箱就出发了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n开车三个小时到了之后发现也并没有看到银河，星星也只能看到比较亮的... 下车看到自己的影子才发现，原来今天正好是一个月里月亮最圆最亮的时候，即使到了没有光污染的地方月亮本身的光污染也会让我看不到星星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n然后问了流浪猫，才知道原来冬天即使没有光污染没有云没有月亮也看不到银河，因为在地球对面... 好好笑。不过也不后悔啦，没看到星星也挺有趣的 qwq\n\n（以及真的感谢聊聊愿意跟我一起说走就走... 回程的时候我已经开着车睡着了，如果不是聊聊喊了一下以及帮我开后半程的话我应该已经撞进雪里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 呜呜）",
-    "views": 266,
+    "views": 267,
     "forwards": 2,
     "media_group_id": 14159615671304589,
     "images": [
@@ -104353,7 +104353,7 @@
     "id": 7800,
     "date": "2026-02-04T02:29:54",
     "text": "今天在 github review PR 的时候发现了页面最下面的小猫，好可爱好可爱！",
-    "views": 263,
+    "views": 264,
     "forwards": 0,
     "images": [
       {
@@ -104503,7 +104503,7 @@
     "date": "2026-02-06T05:09:33",
     "text": "花两个小时破解了极米投影仪！adb root magisk 全都有了\n\n今天从中国买的极米 RS20 投影仪到货了，开机发现是安卓 14，但是特别封闭...\n\n系统本身没有「安装第三方应用」的功能。有文件管理器，但是把 apk 文件复制到 U 盘里插上去也会被文件管理器过滤掉。想要开启开发者模式用 adb 安装，去设置连续点击构建版本号没反应，去网上查也没有什么办法。原本想改固件刷进去，但是发现固件格式和 2022 年的格式完全不一样了，用之前的拆包工具拆不出来\n\n不过尝试了两小时之后还是破解出来了！（因为漏洞实在太蠢了我还是不写 writeup 了，属于只要写了可能会被立刻 patch 掉的程度，不过如果有人同样买了极米投影仪想破解的话欢迎 DM 我 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>）",
     "views": 292,
-    "forwards": 3,
+    "forwards": 4,
     "media_group_id": 14162836584280805,
     "images": [
       {
@@ -104561,7 +104561,7 @@
     "date": "2026-02-07T06:28:36",
     "text": "（进行一些不太公平的比较）\n￥5300 的投影仪 vs ￥250 的投影仪",
     "views": 262,
-    "forwards": 2,
+    "forwards": 3,
     "media_group_id": 14163565733129701,
     "images": [
       {
@@ -104816,7 +104816,7 @@
     "id": 7837,
     "date": "2026-02-09T22:09:18",
     "text": "25 分钟！はし好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "files": [
       {
@@ -104839,8 +104839,8 @@
     "id": 7838,
     "date": "2026-02-10T03:09:13",
     "text": "认真整理了地下室的走线！\n\n把上一任租客的 cat5e 转接板上的四根线改成了 cat6a 水晶头、并且把所有网线都替换成了自己打的长度正好的完美网线（强迫症这一块... <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>）\n\n然后用螺钉把猫和路由器和交换机挂在墙上了。AP 没有挂在墙上是因为它没有螺钉的葫芦孔，打算等 3D 打印机架好之后 3D 打印一个支架",
-    "views": 256,
-    "forwards": 0,
+    "views": 257,
+    "forwards": 1,
     "media_group_id": 14165543629564125,
     "images": [
       {
@@ -104889,7 +104889,7 @@
     "id": 7842,
     "date": "2026-02-10T07:14:10",
     "text": "原来 Gemini 拆过宜家",
-    "views": 249,
+    "views": 250,
     "forwards": 1,
     "images": [
       {
@@ -105009,7 +105009,7 @@
     "id": 7852,
     "date": "2026-02-12T03:56:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n方便面！\n\n聊聊研究了一下说我在日本胖了可能是因为吃太多碳水，而且每次都把面汤喝完就会让身体存很多水\n\n好像确实，平时吃的拉面牛丼寿司都很高碳水很高糖，而且我也确实每次都会把面汤喝完... 唉，为什么好吃和健康总是要牺牲一个 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "reply": {
       "id": 7849,
@@ -105169,7 +105169,7 @@
     "id": 7865,
     "date": "2026-02-14T01:05:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤三文鱼腩！\n\n小猫不吃我吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "images": [
       {
@@ -105188,7 +105188,7 @@
     "id": 7866,
     "date": "2026-02-14T16:25:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 223,
+    "views": 224,
     "forwards": 0,
     "media_group_id": 14168690820973429,
     "images": [
@@ -105238,7 +105238,7 @@
     "id": 7870,
     "date": "2026-02-14T18:38:52",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n照烧鸡腿饭！\n\n果然让 llm 翻译日语食谱要比之前用下厨房上中国人写的食谱做出来更好吃 qwq",
-    "views": 221,
+    "views": 222,
     "forwards": 1,
     "media_group_id": 14168754660080061,
     "images": [
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "images": [
       {
@@ -105307,7 +105307,7 @@
     "id": 7875,
     "date": "2026-02-15T05:26:00",
     "text": "新家新柜子搭好了，前几天 $0 捡的二手沙发也差不多清理好了，终于有能用的客厅了 qwq\n\n原本应该是 5x5 = 25 个方格子，但是之前用 1x4 的同款柜子的时候发现 PS5 和唱片机单边太长了没法放进一个格子里，所以这次拼 5x5 柜子的时候故意没有装一些隔板，把两个格子拼起来了（希望结构强度不会受到太多影响",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "media_group_id": 14169065281051429,
     "images": [
@@ -105361,14 +105361,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 204,
+    "views": 205,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105418,7 +105418,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105458,7 +105458,7 @@
     "id": 7889,
     "date": "2026-02-15T21:02:58",
     "text": "猫猫睡觉",
-    "views": 214,
+    "views": 215,
     "forwards": 0,
     "reply": {
       "id": 7880,
@@ -105484,7 +105484,7 @@
     "id": 7891,
     "date": "2026-02-16T08:47:27",
     "text": "哭了 睡觉被热醒，房间烧到了 32.5℃... 然后下楼发现是智能恒温器死机了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 去关掉电闸重新开之后算是恢复了。\n\n仔细研究了一下，连上 WiFi 发现它会用 GPS 获取天气、还有据说是检测烟雾报警器声音的内置麦克风... 希望是本地监测，不是上传到云服务上检测。连接 app 还要注册账号输入住址和房子信息和电力公司... 为什么一个空调需要知道这些呀？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n然后我就还是把 WiFi 关了，不太敢相信它的安全性，也不想给它这些信息...\n\n好怀念不智能但是 reliable 的家电。",
-    "views": 222,
+    "views": 223,
     "forwards": 2,
     "files": [
       {
@@ -105505,7 +105505,7 @@
     "id": 7892,
     "date": "2026-02-17T04:27:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n年夜饭！做了烤鸭、鸭架米粉萝卜汤、白菜肉饺子、日式もつ鍋、中式番茄火锅、牛排\n\n总共七个人，有我 聊聊 北燕书 豆腐 猫猫球 西风 羽澄，很热闹很开心喵！<span class=\"spoiler\"><span>（虽然还想邀请更多朋友但是各种意义上都到人数上限了... 无论是物理空间还是座椅/餐具数量还是感官负载）</span></span>\n\n除了吃饭大家还打了 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>（刚搬过来所以其他游戏还没有 setup 好，就只 setup 好了小熊洗衣机）\n\n以及没想到小猫反而没有很社恐呢，虽然刚开始躲了一会但是还是和大家玩得很好 qwq（配图：一只黑色的 LC-LC 10Gbps 光猫）",
-    "views": 208,
+    "views": 209,
     "forwards": 1,
     "media_group_id": 14170419481817413,
     "images": [
@@ -105585,7 +105585,7 @@
     "id": 7899,
     "date": "2026-02-17T20:07:09",
     "text": "猫猫晒太阳\n\n天开始变暖了！现在居然零上 5°C！今年冬天好短呀...",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "images": [
       {
@@ -105604,7 +105604,7 @@
     "id": 7900,
     "date": "2026-02-18T02:28:05",
     "text": "恐怖\n\n前几天把我之前想卖掉但是没有卖的旧 iPad 送给 syama 了，然后发现它除了之前说的 FaceID 不能用、有 mdm 锁、左上角会误触的问题之外还有：\n\n❌ 外壳上的 SN 和主板 SN 不匹配\n❌ 主板出厂是 64GB，系统里是 256GB\n❌ 型号读出来是 iPad mini 3（可能是扩容的人写 ROM 写错了）\n\n唉，真的第一次见到这么多问题的苹果设备。<span class=\"spoiler\"><span>这么多明显的 red flag 我当时买它的时候线下验货居然一个 red flag 都没发现...</span></span>",
-    "views": 228,
+    "views": 230,
     "forwards": 0,
     "reply": {
       "id": 4127,
@@ -105628,7 +105628,7 @@
     "id": 7901,
     "date": "2026-02-18T07:46:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nDIY 蒜香面包！\n\n感觉很用力放黄油了但是依然觉得黄油不够... 原来蒜香面包里面应该有这么多黄油吗",
-    "views": 231,
+    "views": 233,
     "forwards": 0,
     "media_group_id": 14171206519092181,
     "images": [
@@ -105708,7 +105708,7 @@
     "id": 7908,
     "date": "2026-02-18T16:39:01",
     "text": "<del>上课迟到的真实原因</del>",
-    "views": 258,
+    "views": 260,
     "forwards": 1,
     "images": [
       {
@@ -105727,7 +105727,7 @@
     "id": 7909,
     "date": "2026-02-19T20:47:29",
     "text": "<del>又到了几个月一度的</del>",
-    "views": 231,
+    "views": 233,
     "forwards": 1,
     "images": [
       {
@@ -105746,7 +105746,7 @@
     "id": 7910,
     "date": "2026-02-20T09:12:44",
     "text": "想和聊聊玩 <i class=\"custom-emoji\" emoji-src=\"emoji/5458430926683905591.webp\">🌎</i> cobbleverse，然后发现小时候做的防密恐材质包找不到了...\n\n所以重新做了一个，把沙砾 幽匿 紫水晶 地衣 灵魂沙 蘑菇块 海绵 矿 蜘蛛网 青苔 珊瑚都换成了 rE-oCd 材质包里面不那么密恐的版本（有些觉得还是有点密恐的又手动改了一下）\n\n不知道有没有人和我一样对材质密恐，应该没有但是想让自己觉得没有浪费时间就还是发出来好了",
-    "views": 218,
+    "views": 219,
     "forwards": 2,
     "files": [
       {
@@ -105763,7 +105763,7 @@
     "id": 7911,
     "date": "2026-02-21T21:39:19",
     "text": "只用主角和猫打赢了 p5r 隐藏 boss 之「p3 主角结城理」！\n\n拿到所有奖励需要 360000 分，每点伤害算 1 分，可是对面只有 15000 点血，要 x24 分数倍率才能达到\n\n分数加成规则是，祝系攻击 x5，猫发起的攻击 x4，如果可以叠加起来 x20 就好了... 但是猫是风系，并没有祝系的技能怎么办呢？\n\n答：做一个祝系技能项链给猫戴上！虽然伤害不高但是上满 buff 的话还挺能用的。\n\n然后只让主角和猫上场，主角上 buff 猫输出，这样保证每一点伤害都有 x20 分数，最后再靠睡眠 buff 让对方回 3000 点血就拿到满分奖励了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n可惜真的很费 SP。因为四个人上场的时候每回合能攻击四次，这种打法每回合只能攻击一次，但是 buff 是按回合算的，而且要上加攻 & 降防两种 buff，而且少带两个人总 SP 就少了一半，所以 SP 成本直接上涨了 16 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 打一次吃完了快一半的 SP 道具囤货... 很不 sustainable 呢。",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "media_group_id": 14173679675617781,
     "images": [
@@ -105813,7 +105813,7 @@
     "id": 7916,
     "date": "2026-02-22T01:21:44",
     "text": "<a href=\"https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\"><em>death by a thousand slops</a></em>\n\n感觉让 Copilot 审核 PR 纯粹是浪费真人 reviewer 的时间。",
-    "views": 218,
+    "views": 219,
     "forwards": 2,
     "media_group_id": 14173786439090613,
     "images": [
@@ -105863,14 +105863,14 @@
     "id": 7920,
     "date": "2026-02-22T17:54:40",
     "text": "睡了 15h <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n从昨天 10pm 睡到了今天 1pm... 感觉打破了某种新纪录",
-    "views": 177,
+    "views": 178,
     "forwards": 0
   },
   {
     "id": 7921,
     "date": "2026-02-22T20:44:10",
     "text": "加拿大效率，一次系统维护维护三天 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 166,
+    "views": 167,
     "forwards": 0,
     "images": [
       {
@@ -105889,7 +105889,7 @@
     "id": 7922,
     "date": "2026-02-22T21:31:22",
     "text": "之前路过 Etobicoke 的时候去了之前标记的电子垃圾店 A1 Electronic Parts\n\n去的时候正好是他们刚搬完家重新营业的第一天，我倒旧地址的时候正好看到有人在下架店铺的牌子\n\n有好多有意思的东西，可惜想买的东西都不便宜... 所以什么都没有买",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14174367057491245,
     "images": [
@@ -105998,7 +105998,7 @@
   {
     "id": 7932,
     "date": "2026-02-23T05:21:30",
-    "views": 191,
+    "views": 192,
     "forwards": 1,
     "media_group_id": 14174592722871285,
     "reply": {
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 184,
+    "views": 186,
     "forwards": 4,
     "images": [
       {
@@ -106030,14 +106030,14 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 154,
+    "views": 159,
     "forwards": 0
   },
   {
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 76,
+    "views": 96,
     "forwards": 0
   }
 ]
