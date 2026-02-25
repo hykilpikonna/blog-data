@@ -69310,7 +69310,7 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 802,
+    "views": 803,
     "forwards": 9
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6489,
+    "views": 6490,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -102465,7 +102465,7 @@
     "id": 7650,
     "date": "2026-01-02T03:18:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n锅！（日式火锅！）\n\nTracer 和 Celestium 过来一起吃了。感觉日式火锅也是好吃又好做又便宜又 scalable，四个人吃的食材总共花了不到 $30 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n怪不得摇曳露营里面喜欢在露营的时候煮锅 qwq",
-    "views": 254,
+    "views": 256,
     "forwards": 3,
     "media_group_id": 14138591297711077,
     "images": [
@@ -106030,14 +106030,14 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 159,
+    "views": 160,
     "forwards": 0
   },
   {
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 96,
+    "views": 101,
     "forwards": 0
   }
 ]
