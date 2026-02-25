@@ -21,6 +21,12 @@
             "alternate": {
                 "href": "https://www.zotero.org/hykilpikonna/items/3DBRF9EA",
                 "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/users/8463157/items/6Q3RTMWS",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 295186
             }
         },
         "meta": {
@@ -119,6 +125,12 @@
             "alternate": {
                 "href": "https://www.zotero.org/hykilpikonna/items/VVD9N88Z",
                 "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/users/8463157/items/TWNUDX2Y",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 529421
             }
         },
         "meta": {
@@ -475,7 +487,7 @@
     },
     {
         "key": "X6C9NYPZ",
-        "version": 8316,
+        "version": 9328,
         "library": {
             "type": "user",
             "id": 8463157,
@@ -499,12 +511,16 @@
             "up": {
                 "href": "https://api.zotero.org/users/8463157/publications/items/VVD9N88Z",
                 "type": "application/json"
+            },
+            "enclosure": {
+                "type": "text/html",
+                "href": "https://api.zotero.org/users/8463157/publications/items/X6C9NYPZ/file/view"
             }
         },
         "meta": {},
         "data": {
             "key": "X6C9NYPZ",
-            "version": 8316,
+            "version": 9328,
             "parentItem": "VVD9N88Z",
             "itemType": "attachment",
             "linkMode": "imported_url",
@@ -515,13 +531,13 @@
             "contentType": "text/html",
             "charset": "utf-8",
             "filename": "2409.html",
-            "md5": null,
-            "mtime": null
+            "md5": "a3562b73a52211c8644a6a1e6a17e22e",
+            "mtime": 1761298826920
         }
     },
     {
         "key": "TWNUDX2Y",
-        "version": 8316,
+        "version": 9326,
         "library": {
             "type": "user",
             "id": 8463157,
@@ -545,6 +561,12 @@
             "up": {
                 "href": "https://api.zotero.org/users/8463157/publications/items/VVD9N88Z",
                 "type": "application/json"
+            },
+            "enclosure": {
+                "type": "application/pdf",
+                "href": "https://api.zotero.org/users/8463157/publications/items/TWNUDX2Y/file/view",
+                "title": "Li et al. - 2025 - Addressing Emotion Bias in Music Emotion Recognition and Generation with Frechet Audio Distance.pdf",
+                "length": 529421
             }
         },
         "meta": {
@@ -552,7 +574,7 @@
         },
         "data": {
             "key": "TWNUDX2Y",
-            "version": 8316,
+            "version": 9326,
             "parentItem": "VVD9N88Z",
             "itemType": "attachment",
             "linkMode": "imported_url",
@@ -563,61 +585,13 @@
             "contentType": "application/pdf",
             "charset": "",
             "filename": "Li et al. - 2025 - Addressing Emotion Bias in Music Emotion Recognition and Generation with Frechet Audio Distance.pdf",
-            "md5": null,
-            "mtime": null
-        }
-    },
-    {
-        "key": "6Q3RTMWS",
-        "version": 8313,
-        "library": {
-            "type": "user",
-            "id": 8463157,
-            "name": "Azalea Gui",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/hykilpikonna",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/users/8463157/publications/items/6Q3RTMWS",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/hykilpikonna/items/6Q3RTMWS",
-                "type": "text/html"
-            },
-            "up": {
-                "href": "https://api.zotero.org/users/8463157/publications/items/3DBRF9EA",
-                "type": "application/json"
-            }
-        },
-        "meta": {
-            "numChildren": false
-        },
-        "data": {
-            "key": "6Q3RTMWS",
-            "version": 8313,
-            "parentItem": "3DBRF9EA",
-            "itemType": "attachment",
-            "linkMode": "imported_url",
-            "title": "Preprint PDF",
-            "accessDate": "2025-10-24T09:39:31Z",
-            "url": "http://arxiv.org/pdf/2510.15409v1",
-            "note": "",
-            "contentType": "application/pdf",
-            "charset": "",
-            "filename": "Gui et al. - 2025 - Towards Blind Data Cleaning A Case Study in Music Source Separation.pdf",
-            "md5": null,
-            "mtime": null
+            "md5": "b11bf3f56366988acab87c77f9b76a14",
+            "mtime": 1761298827079
         }
     },
     {
         "key": "HEEKGDR8",
-        "version": 8313,
+        "version": 9317,
         "library": {
             "type": "user",
             "id": 8463157,
@@ -641,12 +615,16 @@
             "up": {
                 "href": "https://api.zotero.org/users/8463157/publications/items/3DBRF9EA",
                 "type": "application/json"
+            },
+            "enclosure": {
+                "type": "text/html",
+                "href": "https://api.zotero.org/users/8463157/publications/items/HEEKGDR8/file/view"
             }
         },
         "meta": {},
         "data": {
             "key": "HEEKGDR8",
-            "version": 8313,
+            "version": 9317,
             "parentItem": "3DBRF9EA",
             "itemType": "attachment",
             "linkMode": "imported_url",
@@ -657,8 +635,62 @@
             "contentType": "text/html",
             "charset": "utf-8",
             "filename": "2510.html",
-            "md5": null,
-            "mtime": null
+            "md5": "59b6d5ae1d17f47bc65fb9e9456200d3",
+            "mtime": 1761298771887
+        }
+    },
+    {
+        "key": "6Q3RTMWS",
+        "version": 9308,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/6Q3RTMWS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/6Q3RTMWS",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/3DBRF9EA",
+                "type": "application/json"
+            },
+            "enclosure": {
+                "type": "application/pdf",
+                "href": "https://api.zotero.org/users/8463157/publications/items/6Q3RTMWS/file/view",
+                "title": "Gui et al. - 2025 - Towards Blind Data Cleaning A Case Study in Music Source Separation.pdf",
+                "length": 295186
+            }
+        },
+        "meta": {
+            "numChildren": false
+        },
+        "data": {
+            "key": "6Q3RTMWS",
+            "version": 9308,
+            "parentItem": "3DBRF9EA",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Preprint PDF",
+            "accessDate": "2025-10-24T09:39:31Z",
+            "url": "http://arxiv.org/pdf/2510.15409v1",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Gui et al. - 2025 - Towards Blind Data Cleaning A Case Study in Music Source Separation.pdf",
+            "md5": "72bedf1ecbf65978021a76b0238bd576",
+            "mtime": 1761298771742
         }
     },
     {
