@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-02-25T22:27:17.290131+00:00</updated>
+  <updated>2026-02-26T00:30:08.987751+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7949</id>
+    <title>小桂桂的回忆录 📒 #7949</title>
+    <updated>2026-02-26T00:26:17+00:00</updated>
+    <content>&lt;p&gt;考完了期中&lt;/p&gt;
+&lt;p&gt;计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......&lt;/p&gt;
+&lt;p&gt;我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...&lt;/p&gt;
+&lt;p&gt;另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了&lt;/p&gt;
+&lt;p&gt;结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7949" rel="alternate"/>
+  </entry>
   <entry>
     <id>7939</id>
     <title>小桂桂的回忆录 📒 #7939</title>
