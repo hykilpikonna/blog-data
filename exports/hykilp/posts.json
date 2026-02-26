@@ -63454,7 +63454,7 @@
     "id": 4629,
     "date": "2024-11-05T05:01:28",
     "text": "Electron Day 快乐！看看大家电脑上装了多少个 Electron\n\n发现我 Linux 工作站/服务器上装了 36 个，Windows 笔记本上装了 17 个 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\nLinux: \n<pre language=\"sh\">find /usr /opt /home -type f -name \"resources.pak\" 2>/dev/null</pre>\nWindows: \n<pre language=\"powershell\">Get-ChildItem -Path \"C:\\Users\", \"C:\\Program Files\", \"C:\\Program Files (x86)\" -Recurse -Filter \"resources.pak\" -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName</pre>",
-    "views": 191,
+    "views": 192,
     "forwards": 5,
     "media_group_id": 13846263111521349,
     "images": [
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1948,
+    "views": 1949,
     "forwards": 55
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1197,
+    "views": 1198,
     "forwards": 12,
     "reply": {
       "id": 5277,
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1247,
+    "views": 1248,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6490,
+    "views": 6491,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 657,
+    "views": 658,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 522,
+    "views": 523,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73169,14 +73169,14 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 563,
+    "views": 564,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 528,
+    "views": 529,
     "forwards": 1,
     "media_group_id": 13968493560159205,
     "images": [
@@ -105505,7 +105505,7 @@
     "id": 7892,
     "date": "2026-02-17T04:27:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n年夜饭！做了烤鸭、鸭架米粉萝卜汤、白菜肉饺子、日式もつ鍋、中式番茄火锅、牛排\n\n总共七个人，有我 聊聊 北燕书 豆腐 猫猫球 西风 羽澄，很热闹很开心喵！<span class=\"spoiler\"><span>（虽然还想邀请更多朋友但是各种意义上都到人数上限了... 无论是物理空间还是座椅/餐具数量还是感官负载）</span></span>\n\n除了吃饭大家还打了 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>（刚搬过来所以其他游戏还没有 setup 好，就只 setup 好了小熊洗衣机）\n\n以及没想到小猫反而没有很社恐呢，虽然刚开始躲了一会但是还是和大家玩得很好 qwq（配图：一只黑色的 LC-LC 10Gbps 光猫）",
-    "views": 211,
+    "views": 212,
     "forwards": 1,
     "media_group_id": 14170419481817413,
     "images": [
@@ -105813,7 +105813,7 @@
     "id": 7916,
     "date": "2026-02-22T01:21:44",
     "text": "<a href=\"https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\"><em>death by a thousand slops</a></em>\n\n感觉让 Copilot 审核 PR 纯粹是浪费真人 reviewer 的时间。",
-    "views": 228,
+    "views": 229,
     "forwards": 2,
     "media_group_id": 14173786439090613,
     "images": [
@@ -105863,14 +105863,14 @@
     "id": 7920,
     "date": "2026-02-22T17:54:40",
     "text": "睡了 15h <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n从昨天 10pm 睡到了今天 1pm... 感觉打破了某种新纪录",
-    "views": 186,
+    "views": 187,
     "forwards": 0
   },
   {
     "id": 7921,
     "date": "2026-02-22T20:44:10",
     "text": "加拿大效率，一次系统维护维护三天 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 177,
+    "views": 178,
     "forwards": 0,
     "images": [
       {
@@ -105889,7 +105889,7 @@
     "id": 7922,
     "date": "2026-02-22T21:31:22",
     "text": "之前路过 Etobicoke 的时候去了之前标记的电子垃圾店 A1 Electronic Parts\n\n去的时候正好是他们刚搬完家重新营业的第一天，我倒旧地址的时候正好看到有人在下架店铺的牌子\n\n有好多有意思的东西，可惜想买的东西都不便宜... 所以什么都没有买",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 14174367057491245,
     "images": [
@@ -105998,7 +105998,7 @@
   {
     "id": 7932,
     "date": "2026-02-23T05:21:30",
-    "views": 198,
+    "views": 199,
     "forwards": 1,
     "media_group_id": 14174592722871285,
     "reply": {
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 199,
+    "views": 200,
     "forwards": 4,
     "images": [
       {
@@ -106030,21 +106030,21 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 182,
+    "views": 183,
     "forwards": 0
   },
   {
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 147,
+    "views": 150,
     "forwards": 0
   },
   {
     "id": 7939,
     "date": "2026-02-25T22:21:31",
     "text": "不经常去学校，但是每次去学校都有好有意思的事情 qwq\n\n今天似乎是某个公益性质的同人/艺术会场\n\n买了一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i> 物理贴纸",
-    "views": 102,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 14176464735711709,
     "images": [
@@ -106154,7 +106154,7 @@
     "id": 7949,
     "date": "2026-02-26T00:26:17",
     "text": "考完了期中\n\n计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......\n\n我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...\n\n另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了\n\n结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完",
-    "views": 101,
+    "views": 111,
     "forwards": 1,
     "images": [
       {
