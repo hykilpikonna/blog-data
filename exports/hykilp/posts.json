@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6493,
+    "views": 6494,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -87390,7 +87390,7 @@
     "id": 6409,
     "date": "2025-08-30T15:02:24",
     "text": "拍月亮！<i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>\n\nAPSC 300mm 居然已经可以拍出这么多细节了！虽然我还是好菜，拉到 300mm 之后发现拿不稳，即使快门速度 1/200 也会有一点点糊... 最后还是架上了同行黑狐 <a href=\"https://t.me/blackfoxsar\">@blackfoxsar</a> 的三脚架（感谢黑狐，我完全忘记带三脚架了）\n\n还有一些路上照片 qwq",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "media_group_id": 14052529158495733,
     "images": [
@@ -87470,7 +87470,7 @@
     "id": 6416,
     "date": "2025-08-30T15:41:03",
     "text": "在那之前和谦谦和黑狐和某葡萄球菌去爬了護摩壇山！夕阳下树林的气氛好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我超喜欢\n\n路过了很漂亮的蘑菇、像旺旺雪饼一样的蘑菇、很扭曲的树、长满了刺的花苞、还有悬停在空中和我招手的小蜜蜂（之后它还落在我的相机上帽子上了，等一个返图 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14052547710403293,
     "images": [
@@ -105998,7 +105998,7 @@
   {
     "id": 7932,
     "date": "2026-02-23T05:21:30",
-    "views": 208,
+    "views": 209,
     "forwards": 1,
     "media_group_id": 14174592722871285,
     "reply": {
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 207,
+    "views": 208,
     "forwards": 4,
     "images": [
       {
@@ -106030,21 +106030,21 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 189,
+    "views": 190,
     "forwards": 0
   },
   {
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 169,
+    "views": 172,
     "forwards": 0
   },
   {
     "id": 7939,
     "date": "2026-02-25T22:21:31",
     "text": "不经常去学校，但是每次去学校都有好有意思的事情 qwq\n\n今天似乎是某个公益性质的同人/艺术会场\n\n买了一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i> 物理贴纸",
-    "views": 150,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14176464735711709,
     "images": [
@@ -106154,7 +106154,7 @@
     "id": 7949,
     "date": "2026-02-26T00:26:17",
     "text": "考完了期中\n\n计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......\n\n我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...\n\n另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了\n\n结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完",
-    "views": 158,
+    "views": 161,
     "forwards": 1,
     "images": [
       {
@@ -106173,14 +106173,14 @@
     "id": 7950,
     "date": "2026-02-26T06:58:10",
     "text": "在和三年前实习的导师写邮件，因为很久没有发邮件了在进行 catch up。\n\n删了又写、写了又删，写太多觉得自己在 overshare、删掉又觉得好冷漠，不知不觉已经盯着这 80 个词改了一个小时了。\n\n这么多年了还是没法摸清楚人类交流的边界呢... 或者说，真的有比三年前的自己更清楚吗",
-    "views": 133,
+    "views": 136,
     "forwards": 0
   },
   {
     "id": 7951,
     "date": "2026-02-26T13:51:28",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n\n♪ 名残り 囁き\n♪ 桜 日没\n♪ 雨滴 過去の日\n♪ 楽な 甘い蜜\n\n每当回想起在日本的那段时光的时候我完全就是这样的心情 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 90,
+    "views": 103,
     "forwards": 0,
     "files": [
       {
@@ -106201,7 +106201,7 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 85,
+    "views": 100,
     "forwards": 2
   }
 ]
