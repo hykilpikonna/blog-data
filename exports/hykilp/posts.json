@@ -68261,8 +68261,8 @@
     "id": 4942,
     "date": "2025-02-19T13:24:38",
     "text": "好久没有打开黑苹果了，今天花了六个小时把黑苹果更新到了 macOS 15 Sequoia，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为要用来编译一些 iOS 应用，但是只有用最新 xcode 编译才能适配新系统，而最新 xcode 又限制了只能在最新 macOS 上跑... 感觉这个设计好蠢）\n\n还算很顺利啦，更新好 efi 之后进启动盘居然一次成功了。之后第一次尝试安装的时候因为忘记了禁用 SecureBoot 安装完验证没过，第二次就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n不过这次更新 kext 的时候发现又有很多人退坑了，包括 itlwm 的作者，AirportItlwm 也因此到现在都还没有 15 支持... 不知道在苹果真的砍掉 Intel 支持之前社区还会维护多久 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 214,
-    "forwards": 1,
+    "views": 222,
+    "forwards": 2,
     "media_group_id": 13919771829884885,
     "images": [
       {
@@ -68296,7 +68296,7 @@
     "id": 4944,
     "date": "2025-02-19T20:22:20",
     "text": "谷歌搜索似乎把 Edge 浏览器的官方下载页面从搜索结果里过滤掉了... 好讨厌，明明 Bing 都没有这样过滤 Chrome 的下载页面",
-    "views": 317,
+    "views": 318,
     "forwards": 2,
     "media_group_id": 13919972321026757,
     "images": [
@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 522,
+    "views": 523,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6496,
+    "views": 6497,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -93412,7 +93412,7 @@
     "id": 6914,
     "date": "2025-10-11T19:49:18",
     "text": "分享一例配网灵异事件\n\nsyama 来苏州在电视上一起玩 persona 3, 是 moonlight 远程连到她杭州家里的电脑上玩的，玩了几个小时之后突然直连连不上了\n\ndebug 了超级久（有五六个小时）之后，排查了这两点之间的所有设备之后，得出的结论是运营商路由表配坏了，udp ipv6 包发出不去，udp ipv4 回复进不来 🌚\n\n在路由器上抓包，测试 udp6 可以看到发送的包从杭州路由器的 wan eth 出去之后消失了，测试 udp4 可以看到回复的包从加拿大 wan eth 出去之后这边路由器完全没有看到... 从杭州 mtr -u 这边的地址也是在很近的地方就没消息了。\n\n所以现在只有 rustdesk 这个可以纯 tcp 连接的远程软件能通，moonlight 和 tailscale 都没法直连了。放弃，打算明天直接给中国移动打电话",
-    "views": 225,
+    "views": 226,
     "forwards": 1,
     "media_group_id": 14081697264565341,
     "images": [
@@ -93462,7 +93462,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 290,
+    "views": 291,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -99898,7 +99898,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 1074,
+    "views": 1075,
     "forwards": 9,
     "images": [
       {
@@ -102365,7 +102365,7 @@
     "id": 7641,
     "date": "2026-01-01T19:06:16",
     "text": "然后今天和 syama 去虚拟京都看了烟花！\n\nvrc 里面的互动感觉真的好真实，感觉像是真的和 syama 一起在逛京都一样 qwq\n\n可惜看到看起来很好吃的焼き鳥和鯛焼き没法吃，用虚拟的手抓住它拿到嘴里只能吃到空气... 然后就好饿好饿好饿好饿好饿 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 1,
     "media_group_id": 14138355013735245,
     "images": [
@@ -104793,7 +104793,7 @@
     "id": 7836,
     "date": "2026-02-09T19:50:39",
     "text": "哭哭\n\n想要和更多人分享全球网速测试的结果，就<a href=\"https://www.reddit.com/r/ebox/comments/1qzvthq/global_speedtest_benchmark_ebox_vs_bell_in/\">发到 reddit 上了</a>... 不知道为什么被 ratio 了\n\n他们好像是觉得 3gbps plan 连到全世界都应该有接近 3gbps...? 不懂，总之对 reddit 社群好失望",
-    "views": 262,
+    "views": 263,
     "forwards": 3,
     "reply": {
       "id": 7835,
@@ -105009,7 +105009,7 @@
     "id": 7852,
     "date": "2026-02-12T03:56:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n方便面！\n\n聊聊研究了一下说我在日本胖了可能是因为吃太多碳水，而且每次都把面汤喝完就会让身体存很多水\n\n好像确实，平时吃的拉面牛丼寿司都很高碳水很高糖，而且我也确实每次都会把面汤喝完... 唉，为什么好吃和健康总是要牺牲一个 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 267,
+    "views": 268,
     "forwards": 1,
     "reply": {
       "id": 7849,
@@ -105032,7 +105032,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 262,
+    "views": 263,
     "forwards": 2,
     "media_group_id": 14167074537393133,
     "images": [
@@ -105238,7 +105238,7 @@
     "id": 7870,
     "date": "2026-02-14T18:38:52",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n照烧鸡腿饭！\n\n果然让 llm 翻译日语食谱要比之前用下厨房上中国人写的食谱做出来更好吃 qwq",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "media_group_id": 14168754660080061,
     "images": [
@@ -105708,7 +105708,7 @@
     "id": 7908,
     "date": "2026-02-18T16:39:01",
     "text": "<del>上课迟到的真实原因</del>",
-    "views": 278,
+    "views": 279,
     "forwards": 1,
     "images": [
       {
@@ -105727,7 +105727,7 @@
     "id": 7909,
     "date": "2026-02-19T20:47:29",
     "text": "<del>又到了几个月一度的</del>",
-    "views": 252,
+    "views": 253,
     "forwards": 1,
     "images": [
       {
@@ -105746,7 +105746,7 @@
     "id": 7910,
     "date": "2026-02-20T09:12:44",
     "text": "想和聊聊玩 <i class=\"custom-emoji\" emoji-src=\"emoji/5458430926683905591.webp\">🌎</i> cobbleverse，然后发现小时候做的防密恐材质包找不到了...\n\n所以重新做了一个，把沙砾 幽匿 紫水晶 地衣 灵魂沙 蘑菇块 海绵 矿 蜘蛛网 青苔 珊瑚都换成了 rE-oCd 材质包里面不那么密恐的版本（有些觉得还是有点密恐的又手动改了一下）\n\n不知道有没有人和我一样对材质密恐，应该没有但是想让自己觉得没有浪费时间就还是发出来好了",
-    "views": 238,
+    "views": 239,
     "forwards": 2,
     "files": [
       {
@@ -105763,7 +105763,7 @@
     "id": 7911,
     "date": "2026-02-21T21:39:19",
     "text": "只用主角和猫打赢了 p5r 隐藏 boss 之「p3 主角结城理」！\n\n拿到所有奖励需要 360000 分，每点伤害算 1 分，可是对面只有 15000 点血，要 x24 分数倍率才能达到\n\n分数加成规则是，祝系攻击 x5，猫发起的攻击 x4，如果可以叠加起来 x20 就好了... 但是猫是风系，并没有祝系的技能怎么办呢？\n\n答：做一个祝系技能项链给猫戴上！虽然伤害不高但是上满 buff 的话还挺能用的。\n\n然后只让主角和猫上场，主角上 buff 猫输出，这样保证每一点伤害都有 x20 分数，最后再靠睡眠 buff 让对方回 3000 点血就拿到满分奖励了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n可惜真的很费 SP。因为四个人上场的时候每回合能攻击四次，这种打法每回合只能攻击一次，但是 buff 是按回合算的，而且要上加攻 & 降防两种 buff，而且少带两个人总 SP 就少了一半，所以 SP 成本直接上涨了 16 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 打一次吃完了快一半的 SP 道具囤货... 很不 sustainable 呢。",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "media_group_id": 14173679675617781,
     "images": [
@@ -105813,7 +105813,7 @@
     "id": 7916,
     "date": "2026-02-22T01:21:44",
     "text": "<a href=\"https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\"><em>death by a thousand slops</a></em>\n\n感觉让 Copilot 审核 PR 纯粹是浪费真人 reviewer 的时间。",
-    "views": 248,
+    "views": 249,
     "forwards": 2,
     "media_group_id": 14173786439090613,
     "images": [
@@ -105863,14 +105863,14 @@
     "id": 7920,
     "date": "2026-02-22T17:54:40",
     "text": "睡了 15h <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n从昨天 10pm 睡到了今天 1pm... 感觉打破了某种新纪录",
-    "views": 209,
+    "views": 210,
     "forwards": 0
   },
   {
     "id": 7921,
     "date": "2026-02-22T20:44:10",
     "text": "加拿大效率，一次系统维护维护三天 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 0,
     "images": [
       {
@@ -105889,7 +105889,7 @@
     "id": 7922,
     "date": "2026-02-22T21:31:22",
     "text": "之前路过 Etobicoke 的时候去了之前标记的电子垃圾店 A1 Electronic Parts\n\n去的时候正好是他们刚搬完家重新营业的第一天，我倒旧地址的时候正好看到有人在下架店铺的牌子\n\n有好多有意思的东西，可惜想买的东西都不便宜... 所以什么都没有买",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "media_group_id": 14174367057491245,
     "images": [
@@ -105998,7 +105998,7 @@
   {
     "id": 7932,
     "date": "2026-02-23T05:21:30",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "media_group_id": 14174592722871285,
     "reply": {
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 224,
+    "views": 225,
     "forwards": 4,
     "images": [
       {
@@ -106030,21 +106030,21 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 207,
+    "views": 208,
     "forwards": 0
   },
   {
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 191,
+    "views": 192,
     "forwards": 0
   },
   {
     "id": 7939,
     "date": "2026-02-25T22:21:31",
     "text": "不经常去学校，但是每次去学校都有好有意思的事情 qwq\n\n今天似乎是某个公益性质的同人/艺术会场\n\n买了一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i> 物理贴纸",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "media_group_id": 14176464735711709,
     "images": [
@@ -106154,7 +106154,7 @@
     "id": 7949,
     "date": "2026-02-26T00:26:17",
     "text": "考完了期中\n\n计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......\n\n我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...\n\n另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了\n\n结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完",
-    "views": 194,
+    "views": 195,
     "forwards": 1,
     "images": [
       {
@@ -106173,14 +106173,14 @@
     "id": 7950,
     "date": "2026-02-26T06:58:10",
     "text": "在和三年前实习的导师写邮件，因为很久没有发邮件了在进行 catch up。\n\n删了又写、写了又删，写太多觉得自己在 overshare、删掉又觉得好冷漠，不知不觉已经盯着这 80 个词改了一个小时了。\n\n这么多年了还是没法摸清楚人类交流的边界呢... 或者说，真的有比三年前的自己更清楚吗",
-    "views": 185,
+    "views": 186,
     "forwards": 0
   },
   {
     "id": 7951,
     "date": "2026-02-26T13:51:28",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n\n♪ 名残り 囁き\n♪ 桜 日没\n♪ 雨滴 過去の日\n♪ 楽な 甘い蜜\n\n每当回想起在日本的那段时光的时候我完全就是这样的心情 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "files": [
       {
@@ -106201,14 +106201,14 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 192,
+    "views": 193,
     "forwards": 4
   },
   {
     "id": 7953,
     "date": "2026-02-26T23:33:07",
     "text": "呜呜 好像触发了 DMCA review... 不懂，可能是因为之前在频道和 blog 里上传过这些照片所以可能被检测到「在其他地方出现过」了吧\n\n要等人工审核了\n\nEDIT: 恢复了",
-    "views": 171,
+    "views": 172,
     "forwards": 1,
     "reply": {
       "id": 7952
@@ -106230,7 +106230,7 @@
     "id": 7954,
     "date": "2026-02-27T02:57:45",
     "text": "仔细研究了一下 unsplash，感觉和我对这个平台的第一印象很不一样...\n\n原本以为是一个摄影社区自己做的免费共享网站，查了一下发现实际上是付费图库大公司 Getty Images 旗下的网站，同样在它旗下的还有 iStock 和 <code>photos.com</code>\n\n原本以为整个平台都是非营利的，实际上只有自己上传的照片是非营利，平台却有 $16/mo 的会员选项，而且即使付费会员下载你的照片也不会有收益\n\n那怎么获得收益呢？答案是加入他们的<a href=\"https://peterorsel.com/why-you-should-not-contribute-to-unsplash-plus/\">摄影外包团队</a>。网站说着创意和热爱，实际上是像外包接单一样的，他们分析会员用户想要什么，给你提内容要求 prompt 和价格（按难度通常是 $5~30）你去按要求拍，然后拍出来的照片只有会员可以下载，只有他们有独家贩卖权利... 不懂，摄影师是什么低价人肉 txt2img 模型吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n有点好奇申请需要什么，然后发现目前提交申请的渠道还关闭了...\n\n不知道怎么看... 虽然很想要免费分享/归档自己的照片，但是还是更不想被这种坏资本家利用，所以觉得可能还是不用 unsplash 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 169,
+    "views": 172,
     "forwards": 2,
     "media_group_id": 14177288519849069,
     "images": [
@@ -106280,14 +106280,14 @@
     "id": 7958,
     "date": "2026-02-27T03:33:09",
     "text": "发烧了... 37.3℃ <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 155,
+    "views": 160,
     "forwards": 0
   },
   {
     "id": 7959,
     "date": "2026-02-27T17:17:45",
     "text": "吃了泰诺睡得香和デエビゴ睡了 13h，感觉不发烧了 qwq（虽然依然困困",
-    "views": 118,
+    "views": 126,
     "forwards": 1,
     "reply": {
       "id": 7958,
@@ -106298,7 +106298,7 @@
     "id": 7960,
     "date": "2026-02-27T20:27:10",
     "text": "LLVM (Large Language Vision Model) <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 86,
+    "views": 97,
     "forwards": 0
   }
 ]
