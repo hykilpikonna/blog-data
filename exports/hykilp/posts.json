@@ -68261,7 +68261,7 @@
     "id": 4942,
     "date": "2025-02-19T13:24:38",
     "text": "好久没有打开黑苹果了，今天花了六个小时把黑苹果更新到了 macOS 15 Sequoia，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为要用来编译一些 iOS 应用，但是只有用最新 xcode 编译才能适配新系统，而最新 xcode 又限制了只能在最新 macOS 上跑... 感觉这个设计好蠢）\n\n还算很顺利啦，更新好 efi 之后进启动盘居然一次成功了。之后第一次尝试安装的时候因为忘记了禁用 SecureBoot 安装完验证没过，第二次就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n不过这次更新 kext 的时候发现又有很多人退坑了，包括 itlwm 的作者，AirportItlwm 也因此到现在都还没有 15 支持... 不知道在苹果真的砍掉 Intel 支持之前社区还会维护多久 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 226,
+    "views": 227,
     "forwards": 2,
     "media_group_id": 13919771829884885,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5774,
+    "views": 5775,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 426,
+    "views": 427,
     "forwards": 3,
     "files": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8507,
+    "views": 8508,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89026,7 +89026,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 415,
+    "views": 416,
     "forwards": 4,
     "files": [
       {
@@ -92017,7 +92017,7 @@
     "id": 6802,
     "date": "2025-10-01T16:27:58",
     "text": "“Java complex”",
-    "views": 690,
+    "views": 691,
     "forwards": 5,
     "images": [
       {
@@ -104090,7 +104090,7 @@
     "id": 7778,
     "date": "2026-01-31T19:16:58",
     "text": "因为去年毕业了，现在 UofT 邮箱马上就要被删掉了，想要备份一下，结果研究了三个小时才备份好...\n\n首先试了 Outlook 客户端，但是学校把已经毕业的人的客户端许可撤掉了所以登不进去，网页版能登录但是不能导出\n\n然后试了 MailStore Home，发现不支持 OAuth 登录。想要用旧方法创建一个应用密码登录，但是发现学校设置禁止了，所以就完全没法登录\n\n然后试了 ThunderBird，完全没有备份的选项，也没办法下载所有附件\n\n然后试了自搭 OpenArchiver，发现入门体验非常差，按文档启动起来第一次打开前端就是一个管理员登录界面也没有地方让我设置账号密码，试了一下默认密码告诉我没法连接到后端\n\n然后试了 eM Client，支持 OAuth 但是登不进去因为学校开了白名单，它没有在 OAuth 应用白名单上所以禁止登录\n\n最后还是，开了一个 MS365 Dev Program 给自己 Outlook 桌面版许可再登录账号导出了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 好累好累",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "media_group_id": 14159096147603869,
     "images": [
@@ -105238,7 +105238,7 @@
     "id": 7870,
     "date": "2026-02-14T18:38:52",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n照烧鸡腿饭！\n\n果然让 llm 翻译日语食谱要比之前用下厨房上中国人写的食谱做出来更好吃 qwq",
-    "views": 235,
+    "views": 236,
     "forwards": 1,
     "media_group_id": 14168754660080061,
     "images": [
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 225,
+    "views": 226,
     "forwards": 1,
     "images": [
       {
@@ -105727,7 +105727,7 @@
     "id": 7909,
     "date": "2026-02-19T20:47:29",
     "text": "<del>又到了几个月一度的</del>",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "images": [
       {
@@ -105746,7 +105746,7 @@
     "id": 7910,
     "date": "2026-02-20T09:12:44",
     "text": "想和聊聊玩 <i class=\"custom-emoji\" emoji-src=\"emoji/5458430926683905591.webp\">🌎</i> cobbleverse，然后发现小时候做的防密恐材质包找不到了...\n\n所以重新做了一个，把沙砾 幽匿 紫水晶 地衣 灵魂沙 蘑菇块 海绵 矿 蜘蛛网 青苔 珊瑚都换成了 rE-oCd 材质包里面不那么密恐的版本（有些觉得还是有点密恐的又手动改了一下）\n\n不知道有没有人和我一样对材质密恐，应该没有但是想让自己觉得没有浪费时间就还是发出来好了",
-    "views": 244,
+    "views": 246,
     "forwards": 2,
     "files": [
       {
@@ -105763,7 +105763,7 @@
     "id": 7911,
     "date": "2026-02-21T21:39:19",
     "text": "只用主角和猫打赢了 p5r 隐藏 boss 之「p3 主角结城理」！\n\n拿到所有奖励需要 360000 分，每点伤害算 1 分，可是对面只有 15000 点血，要 x24 分数倍率才能达到\n\n分数加成规则是，祝系攻击 x5，猫发起的攻击 x4，如果可以叠加起来 x20 就好了... 但是猫是风系，并没有祝系的技能怎么办呢？\n\n答：做一个祝系技能项链给猫戴上！虽然伤害不高但是上满 buff 的话还挺能用的。\n\n然后只让主角和猫上场，主角上 buff 猫输出，这样保证每一点伤害都有 x20 分数，最后再靠睡眠 buff 让对方回 3000 点血就拿到满分奖励了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n可惜真的很费 SP。因为四个人上场的时候每回合能攻击四次，这种打法每回合只能攻击一次，但是 buff 是按回合算的，而且要上加攻 & 降防两种 buff，而且少带两个人总 SP 就少了一半，所以 SP 成本直接上涨了 16 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 打一次吃完了快一半的 SP 道具囤货... 很不 sustainable 呢。",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "media_group_id": 14173679675617781,
     "images": [
@@ -105813,7 +105813,7 @@
     "id": 7916,
     "date": "2026-02-22T01:21:44",
     "text": "<a href=\"https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\"><em>death by a thousand slops</a></em>\n\n感觉让 Copilot 审核 PR 纯粹是浪费真人 reviewer 的时间。",
-    "views": 254,
+    "views": 256,
     "forwards": 2,
     "media_group_id": 14173786439090613,
     "images": [
@@ -105863,14 +105863,14 @@
     "id": 7920,
     "date": "2026-02-22T17:54:40",
     "text": "睡了 15h <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n从昨天 10pm 睡到了今天 1pm... 感觉打破了某种新纪录",
-    "views": 213,
+    "views": 216,
     "forwards": 0
   },
   {
     "id": 7921,
     "date": "2026-02-22T20:44:10",
     "text": "加拿大效率，一次系统维护维护三天 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 201,
+    "views": 203,
     "forwards": 0,
     "images": [
       {
@@ -105889,7 +105889,7 @@
     "id": 7922,
     "date": "2026-02-22T21:31:22",
     "text": "之前路过 Etobicoke 的时候去了之前标记的电子垃圾店 A1 Electronic Parts\n\n去的时候正好是他们刚搬完家重新营业的第一天，我倒旧地址的时候正好看到有人在下架店铺的牌子\n\n有好多有意思的东西，可惜想买的东西都不便宜... 所以什么都没有买",
-    "views": 207,
+    "views": 210,
     "forwards": 0,
     "media_group_id": 14174367057491245,
     "images": [
@@ -105998,7 +105998,7 @@
   {
     "id": 7932,
     "date": "2026-02-23T05:21:30",
-    "views": 229,
+    "views": 232,
     "forwards": 1,
     "media_group_id": 14174592722871285,
     "reply": {
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 239,
+    "views": 240,
     "forwards": 4,
     "images": [
       {
@@ -106030,21 +106030,21 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 220,
+    "views": 222,
     "forwards": 0
   },
   {
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 204,
+    "views": 206,
     "forwards": 0
   },
   {
     "id": 7939,
     "date": "2026-02-25T22:21:31",
     "text": "不经常去学校，但是每次去学校都有好有意思的事情 qwq\n\n今天似乎是某个公益性质的同人/艺术会场\n\n买了一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i> 物理贴纸",
-    "views": 191,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 14176464735711709,
     "images": [
@@ -106154,7 +106154,7 @@
     "id": 7949,
     "date": "2026-02-26T00:26:17",
     "text": "考完了期中\n\n计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......\n\n我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...\n\n另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了\n\n结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完",
-    "views": 227,
+    "views": 231,
     "forwards": 1,
     "images": [
       {
@@ -106201,14 +106201,14 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 205,
+    "views": 212,
     "forwards": 4
   },
   {
     "id": 7953,
     "date": "2026-02-26T23:33:07",
     "text": "呜呜 好像触发了 DMCA review... 不懂，可能是因为之前在频道和 blog 里上传过这些照片所以可能被检测到「在其他地方出现过」了吧\n\n要等人工审核了\n\nEDIT: 恢复了",
-    "views": 187,
+    "views": 189,
     "forwards": 1,
     "reply": {
       "id": 7952
@@ -106230,7 +106230,7 @@
     "id": 7954,
     "date": "2026-02-27T02:57:45",
     "text": "仔细研究了一下 unsplash，感觉和我对这个平台的第一印象很不一样...\n\n原本以为是一个摄影社区自己做的免费共享网站，查了一下发现实际上是付费图库大公司 Getty Images 旗下的网站，同样在它旗下的还有 iStock 和 <code>photos.com</code>\n\n原本以为整个平台都是非营利的，实际上只有自己上传的照片是非营利，平台却有 $16/mo 的会员选项，而且即使付费会员下载你的照片也不会有收益\n\n那怎么获得收益呢？答案是加入他们的<a href=\"https://peterorsel.com/why-you-should-not-contribute-to-unsplash-plus/\">摄影外包团队</a>。网站说着创意和热爱，实际上是像外包接单一样的，他们分析会员用户想要什么，给你提内容要求 prompt 和价格（按难度通常是 $5~30）你去按要求拍，然后拍出来的照片只有会员可以下载，只有他们有独家贩卖权利... 不懂，摄影师是什么低价人肉 txt2img 模型吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n有点好奇申请需要什么，然后发现目前提交申请的渠道还关闭了...\n\n不知道怎么看... 虽然很想要免费分享/归档自己的照片，但是还是更不想被这种坏资本家利用，所以觉得可能还是不用 unsplash 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 190,
+    "views": 193,
     "forwards": 2,
     "media_group_id": 14177288519849069,
     "images": [
@@ -106280,14 +106280,14 @@
     "id": 7958,
     "date": "2026-02-27T03:33:09",
     "text": "发烧了... 37.3℃ <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 193,
+    "views": 196,
     "forwards": 0
   },
   {
     "id": 7959,
     "date": "2026-02-27T17:17:45",
     "text": "吃了泰诺睡得香和デエビゴ睡了 13h，感觉不发烧了 qwq（虽然依然困困",
-    "views": 179,
+    "views": 188,
     "forwards": 1,
     "reply": {
       "id": 7958,
@@ -106298,14 +106298,14 @@
     "id": 7960,
     "date": "2026-02-27T20:27:10",
     "text": "LLVM (Large Language Vision Model) <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 166,
+    "views": 175,
     "forwards": 0
   },
   {
     "id": 7961,
     "date": "2026-03-01T01:30:49",
     "text": "今天车熄火的时候发现电瓶电压在一分钟内从 12.8V 掉到了 11.6V...\n\n感觉五岁的电池可能确实有点老了，决定换一块，于是就去买了一块和 <a href=\"https://t.me/TechCiel\">@TechCiel</a> 一起换了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n但是由于各种螺丝螺母坏掉的原因两个人折腾了快三个小时才换好... 有很多原本应该很轻松但是因为螺纹坏掉了连手电钻都拧不动的螺丝，而且因为螺丝是一个一体的奇妙 OEM 固定件所以我的螺丝箱里也没有平替 \n\n还有一个固定电池横向位置的螺丝断进车身的螺母里了，不知道怎么办，大概想 3d 打印一个固定件代替吧",
-    "views": 114,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 14178629194148141,
     "images": [
@@ -106338,6 +106338,25 @@
         "url": "media/7963.jpg",
         "size": 377027,
         "thumb": "media/7963.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7964,
+    "date": "2026-03-01T14:26:09",
+    "text": "<code>git config --global user.email</code>",
+    "views": 94,
+    "forwards": 3,
+    "images": [
+      {
+        "width": 675,
+        "height": 485,
+        "date": "2026-03-01T14:26:24",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-01_14-26-24.jpg",
+        "url": "media/7964.jpg",
+        "size": 37497,
+        "thumb": "media/7964.jpg_thumb.jpg"
       }
     ]
   }
