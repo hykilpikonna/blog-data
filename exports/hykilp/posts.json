@@ -89071,7 +89071,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 393,
+    "views": 394,
     "forwards": 7,
     "files": [
       {
@@ -97596,7 +97596,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 2135,
+    "views": 2136,
     "forwards": 14,
     "reply": {
       "id": 7212,
@@ -105763,7 +105763,7 @@
     "id": 7911,
     "date": "2026-02-21T21:39:19",
     "text": "只用主角和猫打赢了 p5r 隐藏 boss 之「p3 主角结城理」！\n\n拿到所有奖励需要 360000 分，每点伤害算 1 分，可是对面只有 15000 点血，要 x24 分数倍率才能达到\n\n分数加成规则是，祝系攻击 x5，猫发起的攻击 x4，如果可以叠加起来 x20 就好了... 但是猫是风系，并没有祝系的技能怎么办呢？\n\n答：做一个祝系技能项链给猫戴上！虽然伤害不高但是上满 buff 的话还挺能用的。\n\n然后只让主角和猫上场，主角上 buff 猫输出，这样保证每一点伤害都有 x20 分数，最后再靠睡眠 buff 让对方回 3000 点血就拿到满分奖励了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n可惜真的很费 SP。因为四个人上场的时候每回合能攻击四次，这种打法每回合只能攻击一次，但是 buff 是按回合算的，而且要上加攻 & 降防两种 buff，而且少带两个人总 SP 就少了一半，所以 SP 成本直接上涨了 16 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 打一次吃完了快一半的 SP 道具囤货... 很不 sustainable 呢。",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "media_group_id": 14173679675617781,
     "images": [
@@ -106154,7 +106154,7 @@
     "id": 7949,
     "date": "2026-02-26T00:26:17",
     "text": "考完了期中\n\n计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......\n\n我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...\n\n另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了\n\n结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完",
-    "views": 238,
+    "views": 239,
     "forwards": 1,
     "images": [
       {
@@ -106201,14 +106201,14 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 225,
+    "views": 231,
     "forwards": 4
   },
   {
     "id": 7953,
     "date": "2026-02-26T23:33:07",
     "text": "呜呜 好像触发了 DMCA review... 不懂，可能是因为之前在频道和 blog 里上传过这些照片所以可能被检测到「在其他地方出现过」了吧\n\n要等人工审核了\n\nEDIT: 恢复了",
-    "views": 197,
+    "views": 206,
     "forwards": 1,
     "reply": {
       "id": 7952
@@ -106287,7 +106287,7 @@
     "id": 7959,
     "date": "2026-02-27T17:17:45",
     "text": "吃了泰诺睡得香和デエビゴ睡了 13h，感觉不发烧了 qwq（虽然依然困困",
-    "views": 198,
+    "views": 199,
     "forwards": 1,
     "reply": {
       "id": 7958,
@@ -106298,14 +106298,14 @@
     "id": 7960,
     "date": "2026-02-27T20:27:10",
     "text": "LLVM (Large Language Vision Model) <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 0
   },
   {
     "id": 7961,
     "date": "2026-03-01T01:30:49",
     "text": "今天车熄火的时候发现电瓶电压在一分钟内从 12.8V 掉到了 11.6V...\n\n感觉五岁的电池可能确实有点老了，决定换一块，于是就去买了一块和 <a href=\"https://t.me/TechCiel\">@TechCiel</a> 一起换了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n但是由于各种螺丝螺母坏掉的原因两个人折腾了快三个小时才换好... 有很多原本应该很轻松但是因为螺纹坏掉了连手电钻都拧不动的螺丝，而且因为螺丝是一个一体的奇妙 OEM 固定件所以我的螺丝箱里也没有平替 \n\n还有一个固定电池横向位置的螺丝断进车身的螺母里了，不知道怎么办，大概想 3d 打印一个固定件代替吧",
-    "views": 163,
+    "views": 167,
     "forwards": 0,
     "media_group_id": 14178629194148141,
     "images": [
@@ -106345,7 +106345,7 @@
     "id": 7964,
     "date": "2026-03-01T14:26:09",
     "text": "<code>git config --global user.email</code>",
-    "views": 147,
+    "views": 158,
     "forwards": 3,
     "images": [
       {
@@ -106364,7 +106364,7 @@
     "id": 7965,
     "date": "2026-03-01T21:08:43",
     "text": "是 Pokemon 30 周年！决定开坑一个 Cobbleverse (Minecraft x Pokemon) 模组服务器！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实主要是想和聊聊玩所以开了，大家想玩的话可以一起玩哦 qwq\n\n下载: <a href=\"https://pixeldrain.com/u/SCBjfBKU\">https://pixeldrain.com/u/SCBjfBKU</a>",
-    "views": 61,
+    "views": 94,
     "forwards": 1,
     "images": [
       {
