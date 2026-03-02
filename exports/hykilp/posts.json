@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 365,
+    "views": 366,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 424,
+    "views": 425,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 318,
+    "views": 319,
     "forwards": 1,
     "images": [
       {
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 227,
+    "views": 228,
     "forwards": 0,
     "images": [
       {
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1329,
+    "views": 1330,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -70929,7 +70929,7 @@
     "id": 5129,
     "date": "2025-04-05T04:41:26",
     "text": "还看到了一个很独特的海鸥，长着斑点，拍下来了它在一群海鸥中心向反方向看的样子简直帅爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 回家把照片做了一下高亮模糊感觉好棒\n\n以及在一片枯树枝中间看到了一根长了亮蓝色的果子的叶子，走进点发现是谁把假花放上去了，被骗了喵（不过谁放的创意不错 quq",
-    "views": 245,
+    "views": 246,
     "forwards": 1,
     "media_group_id": 13950624695747709,
     "images": [
@@ -71089,7 +71089,7 @@
     "id": 5142,
     "date": "2025-04-07T02:41:41",
     "text": "<a href=\"##adhd\">#adhd</a> <a href=\"##戴上耳机\">#戴上耳机</a> 在高速上没有开车的两只手和一只脚在干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（当然这段是回家之后录的",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "files": [
       {
@@ -71112,7 +71112,7 @@
     "id": 5143,
     "date": "2025-04-07T04:36:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n又敲了敲各种地方发现这也许可以当作一个完整的架子鼓哇，敲点不那么简单的 quq\n\n（曲子是 Cavetown 的 <em>Sweet Tooth</em>，记得两年前超喜欢这首，在西雅图实习的闲时去 Guitar Center 白嫖钢琴弹的时候弹累了去那边的鼓上练过这段，居然现在还没有忘记 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 223,
+    "views": 224,
     "forwards": 2,
     "reply": {
       "id": 5142,
@@ -71139,7 +71139,7 @@
     "id": 5144,
     "date": "2025-04-07T06:53:42",
     "text": "聊聊：所以刚才你说对不起是对不起什么？\n我：诶我有说嘛？（忘了）\n聊聊：有啊\n我：思考... 那就是对不起床的猫猫说晚安 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 0
   },
   {
@@ -71246,7 +71246,7 @@
     "id": 5153,
     "date": "2025-04-07T19:07:28",
     "text": "补一下昨天的照片 qwq\n\n「练车旅行」第三天和书书、豆腐、猫猫球去 Rattlesnake Point 登了山，感觉是大型猫爬架（？）天气很晴很温和，像是某种春天体验卡\n\n之后去旁边的 Crawford Lake 沿着湖边散散步，吃了野餐（是路上买的打包 subway 三明治）\n\n一月份手术之后第一次爬这么远的路，居然走下来了，看来体力已经完全恢复啦（虽然第二天例常腿酸 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 1,
     "media_group_id": 13952422784275821,
     "images": [
@@ -84915,7 +84915,7 @@
     "id": 6215,
     "date": "2025-08-16T16:12:34",
     "text": "JPEG XL, zstd, AV1, opus <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 265,
+    "views": 267,
     "forwards": 3,
     "images": [
       {
@@ -97976,7 +97976,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 412,
+    "views": 414,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -105119,7 +105119,7 @@
     "id": 7861,
     "date": "2026-02-13T23:37:30",
     "text": "做三文鱼\n\n看小猫似乎对生三文鱼很感兴趣就给它煎了三文鱼，但是煎完了放在地上之后它闻闻似乎完全没兴趣就走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 4,
     "media_group_id": 14168206803872669,
     "images": [
@@ -105169,7 +105169,7 @@
     "id": 7865,
     "date": "2026-02-14T01:05:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤三文鱼腩！\n\n小猫不吃我吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 1,
     "images": [
       {
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "images": [
       {
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 245,
+    "views": 247,
     "forwards": 4,
     "images": [
       {
@@ -106030,7 +106030,7 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 227,
+    "views": 228,
     "forwards": 0
   },
   {
@@ -106201,14 +106201,14 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 240,
+    "views": 242,
     "forwards": 4
   },
   {
     "id": 7953,
     "date": "2026-02-26T23:33:07",
     "text": "呜呜 好像触发了 DMCA review... 不懂，可能是因为之前在频道和 blog 里上传过这些照片所以可能被检测到「在其他地方出现过」了吧\n\n要等人工审核了\n\nEDIT: 恢复了",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "reply": {
       "id": 7952
@@ -106364,7 +106364,7 @@
     "id": 7965,
     "date": "2026-03-01T21:08:43",
     "text": "是 Pokemon 30 周年！决定开坑一个 Cobbleverse (Minecraft x Pokemon) 模组服务器！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实主要是想和聊聊玩所以开了，大家想玩的话可以一起玩哦 qwq\n\n下载: <a href=\"https://pixeldrain.com/u/SCBjfBKU\">https://pixeldrain.com/u/SCBjfBKU</a>",
-    "views": 151,
+    "views": 154,
     "forwards": 1,
     "images": [
       {
@@ -106382,7 +106382,7 @@
   {
     "id": 7966,
     "date": "2026-03-02T06:09:59",
-    "views": 112,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
