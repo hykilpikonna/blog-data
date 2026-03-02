@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1950,
+    "views": 1951,
     "forwards": 55
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1199,
+    "views": 1200,
     "forwards": 12,
     "reply": {
       "id": 5277,
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1249,
+    "views": 1250,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6500,
+    "views": 6501,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 659,
+    "views": 660,
     "forwards": 0,
     "images": [
       {
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 804,
+    "views": 805,
     "forwards": 21,
     "media_group_id": 13969322433734669,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8508,
+    "views": 8510,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -100807,7 +100807,7 @@
     "id": 7505,
     "date": "2025-12-16T20:55:27",
     "text": "睡不好...\n\n这两天住在这个超贵的温泉旅馆，是我在日本所有行程住过的旅馆里最贵的，但是却是唯一一个完全睡不好的旅馆，好生气\n\n因为没有暖气，取暖需要用这个电动灯油炉，这真的是我见过设计最差的产品\n\n除了点灯油会让整个房间充满汽车尾气味以外，它有一个无法禁用的自动关机计时，最长只能设 3 小时，而且会在临近关机的 15、10、5 分钟巨大声滴滴滴叫... 也就是说每三小时我都会被它叫醒起床去按一下“延长”不然就会熄灭、即使我想不管它想让它自动熄灭也会被这几声滴滴滴叫醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 到底是谁会想出这样的设计啊？\n\n以及现在凌晨六点灯油烧完了，也没有服务员醒着可以来加油了，接下来两个小时只能在 10℃ 的房间里睡了...",
-    "views": 308,
+    "views": 309,
     "forwards": 3,
     "images": [
       {
@@ -100826,7 +100826,7 @@
     "id": 7506,
     "date": "2025-12-17T01:50:53",
     "text": "小技巧：如果洗完澡玻璃起雾了，用手擦会留水珠在上面，用热风吹就不会了 qwq",
-    "views": 312,
+    "views": 313,
     "forwards": 3,
     "reply": {
       "id": 7494,
@@ -100851,7 +100851,7 @@
     "id": 7507,
     "date": "2025-12-18T16:39:01",
     "text": "来日本之后变胖了好多... 五月份来之前还是 55，现在已经 64 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>\n\n<a href=\"##戴上耳机\"><del>#戴上耳机</a></del>\n<del>♪ Will you still need me, will you still feed me\n♪ When I'm 64(kg)?</del>",
-    "views": 282,
+    "views": 283,
     "forwards": 2,
     "files": [
       {
@@ -100873,7 +100873,7 @@
     "id": 7508,
     "date": "2025-12-19T01:26:39",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <span class=\"spoiler\"><span>（其实不是今天）</span></span>\n温泉旅店的早饭晚饭\n\n不得不说旅店的饭好好吃，绝对是我吃的种类最多的一顿饭，尝到了很多来日本七个月都没有吃过的东西。\n\n不过也只有这种时候才会意识到自己对什么东西挑食... 平时不喜欢的东西就不会做也不会在外面点",
-    "views": 270,
+    "views": 271,
     "forwards": 2,
     "media_group_id": 14128860791730093,
     "images": [
@@ -105708,7 +105708,7 @@
     "id": 7908,
     "date": "2026-02-18T16:39:01",
     "text": "<del>上课迟到的真实原因</del>",
-    "views": 286,
+    "views": 287,
     "forwards": 1,
     "images": [
       {
@@ -105727,7 +105727,7 @@
     "id": 7909,
     "date": "2026-02-19T20:47:29",
     "text": "<del>又到了几个月一度的</del>",
-    "views": 261,
+    "views": 262,
     "forwards": 1,
     "images": [
       {
@@ -105746,7 +105746,7 @@
     "id": 7910,
     "date": "2026-02-20T09:12:44",
     "text": "想和聊聊玩 <i class=\"custom-emoji\" emoji-src=\"emoji/5458430926683905591.webp\">🌎</i> cobbleverse，然后发现小时候做的防密恐材质包找不到了...\n\n所以重新做了一个，把沙砾 幽匿 紫水晶 地衣 灵魂沙 蘑菇块 海绵 矿 蜘蛛网 青苔 珊瑚都换成了 rE-oCd 材质包里面不那么密恐的版本（有些觉得还是有点密恐的又手动改了一下）\n\n不知道有没有人和我一样对材质密恐，应该没有但是想让自己觉得没有浪费时间就还是发出来好了",
-    "views": 248,
+    "views": 249,
     "forwards": 2,
     "files": [
       {
@@ -105763,7 +105763,7 @@
     "id": 7911,
     "date": "2026-02-21T21:39:19",
     "text": "只用主角和猫打赢了 p5r 隐藏 boss 之「p3 主角结城理」！\n\n拿到所有奖励需要 360000 分，每点伤害算 1 分，可是对面只有 15000 点血，要 x24 分数倍率才能达到\n\n分数加成规则是，祝系攻击 x5，猫发起的攻击 x4，如果可以叠加起来 x20 就好了... 但是猫是风系，并没有祝系的技能怎么办呢？\n\n答：做一个祝系技能项链给猫戴上！虽然伤害不高但是上满 buff 的话还挺能用的。\n\n然后只让主角和猫上场，主角上 buff 猫输出，这样保证每一点伤害都有 x20 分数，最后再靠睡眠 buff 让对方回 3000 点血就拿到满分奖励了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n可惜真的很费 SP。因为四个人上场的时候每回合能攻击四次，这种打法每回合只能攻击一次，但是 buff 是按回合算的，而且要上加攻 & 降防两种 buff，而且少带两个人总 SP 就少了一半，所以 SP 成本直接上涨了 16 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 打一次吃完了快一半的 SP 道具囤货... 很不 sustainable 呢。",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "media_group_id": 14173679675617781,
     "images": [
@@ -105813,7 +105813,7 @@
     "id": 7916,
     "date": "2026-02-22T01:21:44",
     "text": "<a href=\"https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\"><em>death by a thousand slops</a></em>\n\n感觉让 Copilot 审核 PR 纯粹是浪费真人 reviewer 的时间。",
-    "views": 258,
+    "views": 259,
     "forwards": 2,
     "media_group_id": 14173786439090613,
     "images": [
@@ -105863,14 +105863,14 @@
     "id": 7920,
     "date": "2026-02-22T17:54:40",
     "text": "睡了 15h <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n从昨天 10pm 睡到了今天 1pm... 感觉打破了某种新纪录",
-    "views": 218,
+    "views": 219,
     "forwards": 0
   },
   {
     "id": 7921,
     "date": "2026-02-22T20:44:10",
     "text": "加拿大效率，一次系统维护维护三天 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 207,
+    "views": 208,
     "forwards": 0,
     "images": [
       {
@@ -105889,7 +105889,7 @@
     "id": 7922,
     "date": "2026-02-22T21:31:22",
     "text": "之前路过 Etobicoke 的时候去了之前标记的电子垃圾店 A1 Electronic Parts\n\n去的时候正好是他们刚搬完家重新营业的第一天，我倒旧地址的时候正好看到有人在下架店铺的牌子\n\n有好多有意思的东西，可惜想买的东西都不便宜... 所以什么都没有买",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "media_group_id": 14174367057491245,
     "images": [
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 242,
+    "views": 244,
     "forwards": 4,
     "images": [
       {
@@ -106030,21 +106030,21 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 224,
+    "views": 225,
     "forwards": 0
   },
   {
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 208,
+    "views": 211,
     "forwards": 0
   },
   {
     "id": 7939,
     "date": "2026-02-25T22:21:31",
     "text": "不经常去学校，但是每次去学校都有好有意思的事情 qwq\n\n今天似乎是某个公益性质的同人/艺术会场\n\n买了一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i> 物理贴纸",
-    "views": 196,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 14176464735711709,
     "images": [
@@ -106154,7 +106154,7 @@
     "id": 7949,
     "date": "2026-02-26T00:26:17",
     "text": "考完了期中\n\n计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......\n\n我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...\n\n另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了\n\n结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完",
-    "views": 240,
+    "views": 244,
     "forwards": 1,
     "images": [
       {
@@ -106173,14 +106173,14 @@
     "id": 7950,
     "date": "2026-02-26T06:58:10",
     "text": "在和三年前实习的导师写邮件，因为很久没有发邮件了在进行 catch up。\n\n删了又写、写了又删，写太多觉得自己在 overshare、删掉又觉得好冷漠，不知不觉已经盯着这 80 个词改了一个小时了。\n\n这么多年了还是没法摸清楚人类交流的边界呢... 或者说，真的有比三年前的自己更清楚吗",
-    "views": 204,
+    "views": 209,
     "forwards": 0
   },
   {
     "id": 7951,
     "date": "2026-02-26T13:51:28",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n\n♪ 名残り 囁き\n♪ 桜 日没\n♪ 雨滴 過去の日\n♪ 楽な 甘い蜜\n\n每当回想起在日本的那段时光的时候我完全就是这样的心情 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 198,
+    "views": 204,
     "forwards": 0,
     "files": [
       {
@@ -106201,14 +106201,14 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 231,
+    "views": 237,
     "forwards": 4
   },
   {
     "id": 7953,
     "date": "2026-02-26T23:33:07",
     "text": "呜呜 好像触发了 DMCA review... 不懂，可能是因为之前在频道和 blog 里上传过这些照片所以可能被检测到「在其他地方出现过」了吧\n\n要等人工审核了\n\nEDIT: 恢复了",
-    "views": 206,
+    "views": 217,
     "forwards": 1,
     "reply": {
       "id": 7952
@@ -106230,7 +106230,7 @@
     "id": 7954,
     "date": "2026-02-27T02:57:45",
     "text": "仔细研究了一下 unsplash，感觉和我对这个平台的第一印象很不一样...\n\n原本以为是一个摄影社区自己做的免费共享网站，查了一下发现实际上是付费图库大公司 Getty Images 旗下的网站，同样在它旗下的还有 iStock 和 <code>photos.com</code>\n\n原本以为整个平台都是非营利的，实际上只有自己上传的照片是非营利，平台却有 $16/mo 的会员选项，而且即使付费会员下载你的照片也不会有收益\n\n那怎么获得收益呢？答案是加入他们的<a href=\"https://peterorsel.com/why-you-should-not-contribute-to-unsplash-plus/\">摄影外包团队</a>。网站说着创意和热爱，实际上是像外包接单一样的，他们分析会员用户想要什么，给你提内容要求 prompt 和价格（按难度通常是 $5~30）你去按要求拍，然后拍出来的照片只有会员可以下载，只有他们有独家贩卖权利... 不懂，摄影师是什么低价人肉 txt2img 模型吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n有点好奇申请需要什么，然后发现目前提交申请的渠道还关闭了...\n\n不知道怎么看... 虽然很想要免费分享/归档自己的照片，但是还是更不想被这种坏资本家利用，所以觉得可能还是不用 unsplash 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 199,
+    "views": 207,
     "forwards": 2,
     "media_group_id": 14177288519849069,
     "images": [
@@ -106280,14 +106280,14 @@
     "id": 7958,
     "date": "2026-02-27T03:33:09",
     "text": "发烧了... 37.3℃ <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 203,
+    "views": 211,
     "forwards": 0
   },
   {
     "id": 7959,
     "date": "2026-02-27T17:17:45",
     "text": "吃了泰诺睡得香和デエビゴ睡了 13h，感觉不发烧了 qwq（虽然依然困困",
-    "views": 199,
+    "views": 206,
     "forwards": 1,
     "reply": {
       "id": 7958,
@@ -106298,14 +106298,14 @@
     "id": 7960,
     "date": "2026-02-27T20:27:10",
     "text": "LLVM (Large Language Vision Model) <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 189,
+    "views": 199,
     "forwards": 0
   },
   {
     "id": 7961,
     "date": "2026-03-01T01:30:49",
     "text": "今天车熄火的时候发现电瓶电压在一分钟内从 12.8V 掉到了 11.6V...\n\n感觉五岁的电池可能确实有点老了，决定换一块，于是就去买了一块和 <a href=\"https://t.me/TechCiel\">@TechCiel</a> 一起换了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n但是由于各种螺丝螺母坏掉的原因两个人折腾了快三个小时才换好... 有很多原本应该很轻松但是因为螺纹坏掉了连手电钻都拧不动的螺丝，而且因为螺丝是一个一体的奇妙 OEM 固定件所以我的螺丝箱里也没有平替 \n\n还有一个固定电池横向位置的螺丝断进车身的螺母里了，不知道怎么办，大概想 3d 打印一个固定件代替吧",
-    "views": 167,
+    "views": 178,
     "forwards": 0,
     "media_group_id": 14178629194148141,
     "images": [
@@ -106345,7 +106345,7 @@
     "id": 7964,
     "date": "2026-03-01T14:26:09",
     "text": "<code>git config --global user.email</code>",
-    "views": 159,
+    "views": 176,
     "forwards": 3,
     "images": [
       {
@@ -106364,7 +106364,7 @@
     "id": 7965,
     "date": "2026-03-01T21:08:43",
     "text": "是 Pokemon 30 周年！决定开坑一个 Cobbleverse (Minecraft x Pokemon) 模组服务器！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实主要是想和聊聊玩所以开了，大家想玩的话可以一起玩哦 qwq\n\n下载: <a href=\"https://pixeldrain.com/u/SCBjfBKU\">https://pixeldrain.com/u/SCBjfBKU</a>",
-    "views": 100,
+    "views": 130,
     "forwards": 1,
     "images": [
       {
@@ -106376,6 +106376,24 @@
         "url": "media/7965.jpg",
         "size": 594452,
         "thumb": "media/7965.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7966,
+    "date": "2026-03-02T06:09:59",
+    "views": 63,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-02T06:09:59",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-02_06-09-59.jpg",
+        "url": "media/7966.jpg",
+        "size": 781824,
+        "thumb": "media/7966.jpg_thumb.jpg"
       }
     ]
   }
