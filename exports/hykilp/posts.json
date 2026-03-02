@@ -55277,7 +55277,7 @@
     "id": 4056,
     "date": "2024-06-26T17:26:00",
     "text": "刚才和 menci 聊到黑苹果，发现 menci 居然没有听说过 Lilu... 我印象中这是从我入坑开始就一直是必要的 kext\n\n然后翻翻照片发现确实，从我 2018 年末刚入坑黑苹果就有 Lilu 了，然而那个时候 menci 已经退坑黑苹果了 🌚",
-    "views": 123,
+    "views": 124,
     "forwards": 1,
     "media_group_id": 13755382086855445,
     "images": [
@@ -55307,7 +55307,7 @@
     "id": 4058,
     "date": "2024-06-26T19:02:44",
     "text": "为什么是存疑呢，原本是和聊聊父母想给我准备的见面礼，结果因为没有及时送到变成聊聊给我的生日礼物了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "reply": {
       "id": 4055,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6501,
+    "views": 6502,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 660,
+    "views": 661,
     "forwards": 0,
     "images": [
       {
@@ -73119,7 +73119,7 @@
     "id": 5291,
     "date": "2025-04-30T13:25:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸肉片拉面！\n\n奇妙，原本没放油煎肉片，过一会再看一眼油已经没过肉片变成炸肉片了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n虽然知道这样会长胖胖但是还是倒了一些肉油到面汤里，不得不说肉油好香 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 523,
+    "views": 524,
     "forwards": 0,
     "media_group_id": 13968156351355757,
     "images": [
@@ -73169,14 +73169,14 @@
     "id": 5295,
     "date": "2025-04-30T15:53:07",
     "text": "看到杏铃被人炸号的过程，感觉 tg 好可怕... 好害怕哪天同样的事情也会发生在自己身上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n也许需要自动化一下账号备份",
-    "views": 564,
+    "views": 565,
     "forwards": 0
   },
   {
     "id": 5296,
     "date": "2025-05-01T01:08:15",
     "text": "踩坑了... 刚才尝试跨过半个地球给妈妈远程 IT support，需要一个远程桌面\n\n首先试了 TeamViewer，它觉得我是商业用户不让我连\n\n然后试了 ToDesk，它说全球节点繁忙要再花 ￥66 才能连... 想换，但是妈妈说她不想折腾了、让我不要想着省这点钱。那就买吧，买完之后连接速度只有 5KB/s，延迟 >3s 完全没法用也没办法退款... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n最后试了 AnyDesk 发现可以用，虽然不是直连，是连了官方 relay，但是速度还不错",
-    "views": 529,
+    "views": 530,
     "forwards": 1,
     "media_group_id": 13968493560159205,
     "images": [
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 623,
+    "views": 624,
     "forwards": 1,
     "images": [
       {
@@ -73235,7 +73235,7 @@
     "id": 5300,
     "date": "2025-05-02T05:55:04",
     "text": "提权漏洞的后续: clash verge rev 开发者来找我了，回想一下好像确实说得有点过火，以后还是不猜测是不是后门了。现在知道了开发者是真心想要让用户...少按两个按钮...才写成这种结构的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n给ta提了一些也许会有用的建议，相信他们那边也在努力修复了。不过因为现在这些问题都还存在，所以暂时不推荐用 verge rev。如果开发者能够修好的话，我会重新在这里跟进的\n\n以及因为理解作者很辛苦，而且是 win/linux 平台上唯一还在维护的 clash 前端，所以还是赞助 $20 支持一下好了 qwq",
-    "views": 805,
+    "views": 806,
     "forwards": 21,
     "media_group_id": 13969322433734669,
     "images": [
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 579,
+    "views": 580,
     "forwards": 3,
     "media_group_id": 13969779211072469,
     "images": [
@@ -79586,7 +79586,7 @@
     "id": 5798,
     "date": "2025-07-07T17:11:19",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被网易云随机到了很久以前在某音游里遇到的这首，查查来源发现是泽野弘之的曲子，同样很喜欢的还有 aLIEz 和 Cage <NTv>\n\n然后查了一下这三首曲子对应的动画，分别是「终结的炽天使」和「ALDNOAH.ZERO」和「高达 NT」... 🌚\n\n...这么好的曲子给这三部动画真的太可惜了",
-    "views": 196,
+    "views": 197,
     "forwards": 0,
     "files": [
       {
@@ -85381,7 +85381,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 862,
+    "views": 863,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8510,
+    "views": 8512,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "images": [
       {
@@ -105307,7 +105307,7 @@
     "id": 7875,
     "date": "2026-02-15T05:26:00",
     "text": "新家新柜子搭好了，前几天 $0 捡的二手沙发也差不多清理好了，终于有能用的客厅了 qwq\n\n原本应该是 5x5 = 25 个方格子，但是之前用 1x4 的同款柜子的时候发现 PS5 和唱片机单边太长了没法放进一个格子里，所以这次拼 5x5 柜子的时候故意没有装一些隔板，把两个格子拼起来了（希望结构强度不会受到太多影响",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14169065281051429,
     "images": [
@@ -105361,14 +105361,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105418,7 +105418,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105585,7 +105585,7 @@
     "id": 7899,
     "date": "2026-02-17T20:07:09",
     "text": "猫猫晒太阳\n\n天开始变暖了！现在居然零上 5°C！今年冬天好短呀...",
-    "views": 252,
+    "views": 253,
     "forwards": 0,
     "images": [
       {
@@ -106280,14 +106280,14 @@
     "id": 7958,
     "date": "2026-02-27T03:33:09",
     "text": "发烧了... 37.3℃ <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 0
   },
   {
     "id": 7959,
     "date": "2026-02-27T17:17:45",
     "text": "吃了泰诺睡得香和デエビゴ睡了 13h，感觉不发烧了 qwq（虽然依然困困",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "reply": {
       "id": 7958,
@@ -106298,14 +106298,14 @@
     "id": 7960,
     "date": "2026-02-27T20:27:10",
     "text": "LLVM (Large Language Vision Model) <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 0
   },
   {
     "id": 7961,
     "date": "2026-03-01T01:30:49",
     "text": "今天车熄火的时候发现电瓶电压在一分钟内从 12.8V 掉到了 11.6V...\n\n感觉五岁的电池可能确实有点老了，决定换一块，于是就去买了一块和 <a href=\"https://t.me/TechCiel\">@TechCiel</a> 一起换了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n但是由于各种螺丝螺母坏掉的原因两个人折腾了快三个小时才换好... 有很多原本应该很轻松但是因为螺纹坏掉了连手电钻都拧不动的螺丝，而且因为螺丝是一个一体的奇妙 OEM 固定件所以我的螺丝箱里也没有平替 \n\n还有一个固定电池横向位置的螺丝断进车身的螺母里了，不知道怎么办，大概想 3d 打印一个固定件代替吧",
-    "views": 180,
+    "views": 181,
     "forwards": 0,
     "media_group_id": 14178629194148141,
     "images": [
@@ -106345,7 +106345,7 @@
     "id": 7964,
     "date": "2026-03-01T14:26:09",
     "text": "<code>git config --global user.email</code>",
-    "views": 184,
+    "views": 185,
     "forwards": 3,
     "images": [
       {
@@ -106364,7 +106364,7 @@
     "id": 7965,
     "date": "2026-03-01T21:08:43",
     "text": "是 Pokemon 30 周年！决定开坑一个 Cobbleverse (Minecraft x Pokemon) 模组服务器！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实主要是想和聊聊玩所以开了，大家想玩的话可以一起玩哦 qwq\n\n下载: <a href=\"https://pixeldrain.com/u/SCBjfBKU\">https://pixeldrain.com/u/SCBjfBKU</a>",
-    "views": 145,
+    "views": 149,
     "forwards": 1,
     "images": [
       {
@@ -106382,7 +106382,7 @@
   {
     "id": 7966,
     "date": "2026-03-02T06:09:59",
-    "views": 96,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
