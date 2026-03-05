@@ -97456,7 +97456,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 581,
+    "views": 582,
     "forwards": 13
   },
   {
@@ -98853,7 +98853,7 @@
     "id": 7351,
     "date": "2025-11-30T09:22:42",
     "text": "猫猫乱按键盘.gif",
-    "views": 298,
+    "views": 299,
     "forwards": 3,
     "files": [
       {
@@ -98873,7 +98873,7 @@
   {
     "id": 7352,
     "date": "2025-11-30T10:32:59",
-    "views": 299,
+    "views": 300,
     "forwards": 1,
     "images": [
       {
@@ -105288,7 +105288,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "images": [
       {
@@ -106011,7 +106011,7 @@
     "id": 7936,
     "date": "2026-02-23T19:58:49",
     "text": "也许终于理解为什么自己不喜欢去上课了\n\n这个教授不讲人话，能用人话讲的东西非要用数学符号讲... 课上讲了半小时没听懂的 LFSR 我让 llm 翻译成人话瞬间就理解了。",
-    "views": 260,
+    "views": 261,
     "forwards": 4,
     "images": [
       {
@@ -106030,7 +106030,7 @@
     "id": 7937,
     "date": "2026-02-24T07:14:28",
     "text": "凌晨两点，我还在复习，小猫决定躲猫猫\n\n两个人把三层的房子找了两遍都没找到，然后小猫出来了，在室友床下面的抽屉后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n纯黑的小猫好坏呀",
-    "views": 242,
+    "views": 243,
     "forwards": 0
   },
   {
@@ -106208,7 +106208,7 @@
     "id": 7953,
     "date": "2026-02-26T23:33:07",
     "text": "呜呜 好像触发了 DMCA review... 不懂，可能是因为之前在频道和 blog 里上传过这些照片所以可能被检测到「在其他地方出现过」了吧\n\n要等人工审核了\n\nEDIT: 恢复了",
-    "views": 262,
+    "views": 263,
     "forwards": 1,
     "reply": {
       "id": 7952
@@ -106230,7 +106230,7 @@
     "id": 7954,
     "date": "2026-02-27T02:57:45",
     "text": "仔细研究了一下 unsplash，感觉和我对这个平台的第一印象很不一样...\n\n原本以为是一个摄影社区自己做的免费共享网站，查了一下发现实际上是付费图库大公司 Getty Images 旗下的网站，同样在它旗下的还有 iStock 和 <code>photos.com</code>\n\n原本以为整个平台都是非营利的，实际上只有自己上传的照片是非营利，平台却有 $16/mo 的会员选项，而且即使付费会员下载你的照片也不会有收益\n\n那怎么获得收益呢？答案是加入他们的<a href=\"https://peterorsel.com/why-you-should-not-contribute-to-unsplash-plus/\">摄影外包团队</a>。网站说着创意和热爱，实际上是像外包接单一样的，他们分析会员用户想要什么，给你提内容要求 prompt 和价格（按难度通常是 $5~30）你去按要求拍，然后拍出来的照片只有会员可以下载，只有他们有独家贩卖权利... 不懂，摄影师是什么低价人肉 txt2img 模型吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n有点好奇申请需要什么，然后发现目前提交申请的渠道还关闭了...\n\n不知道怎么看... 虽然很想要免费分享/归档自己的照片，但是还是更不想被这种坏资本家利用，所以觉得可能还是不用 unsplash 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 2,
     "media_group_id": 14177288519849069,
     "images": [
@@ -106364,7 +106364,7 @@
     "id": 7965,
     "date": "2026-03-01T21:08:43",
     "text": "是 Pokemon 30 周年！决定开坑一个 Cobbleverse (Minecraft x Pokemon) 模组服务器！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实主要是想和聊聊玩所以开了，大家想玩的话可以一起玩哦 qwq\n\n下载: <a href=\"https://pixeldrain.com/u/SCBjfBKU\">https://pixeldrain.com/u/SCBjfBKU</a>",
-    "views": 214,
+    "views": 215,
     "forwards": 1,
     "images": [
       {
@@ -106382,7 +106382,7 @@
   {
     "id": 7966,
     "date": "2026-03-02T06:09:59",
-    "views": 200,
+    "views": 201,
     "forwards": 0,
     "images": [
       {
@@ -106526,7 +106526,7 @@
     "id": 7977,
     "date": "2026-03-04T02:44:23",
     "text": "插座长了胡子！🧔",
-    "views": 181,
+    "views": 183,
     "forwards": 0,
     "images": [
       {
@@ -106545,7 +106545,7 @@
     "id": 7978,
     "date": "2026-03-04T06:11:26",
     "text": "发现自己每次停止录音过一会继续录音的时候声线就会变，而且怎样都找不到之前的声线 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么呢？",
-    "views": 178,
+    "views": 180,
     "forwards": 1,
     "files": [
       {
@@ -106568,7 +106568,7 @@
     "id": 7979,
     "date": "2026-03-04T15:45:33",
     "text": "原本还在想之前法拍这些操作值不值\n\n然后今天新的 macbook neo 发售了就完全不犹豫了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n$678，CPU 是手机上的 A18 Pro，内存只有 8+256/512，屏幕只是一般的 sRGB 没有 True Tone，充电只有 20W，11h 续航还不如 M1 Air，还只有 512 的版本有指纹解锁...\n\n不过这些都还好，最难以理解的是居然 2026 年的设备上仅存的两个 type-C 口居然一个是 USB 3.0 一个是 USB 2.0？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n<del>聊聊：不如再配一个光驱</del>",
-    "views": 164,
+    "views": 166,
     "forwards": 0,
     "reply": {
       "id": 7967,
@@ -106592,7 +106592,7 @@
     "id": 7980,
     "date": "2026-03-05T04:58:40",
     "text": "猫猫跳到栏杆上面了！\n\n（不过好怕它摔下去，毕竟这个栏杆是用来防止从楼梯掉下去的，感觉如果猫猫摔下去的话不一定没事）",
-    "views": 125,
+    "views": 129,
     "forwards": 1,
     "media_group_id": 14181493767658029,
     "images": [
