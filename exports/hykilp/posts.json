@@ -97105,7 +97105,7 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 1087,
+    "views": 1088,
     "forwards": 12
   },
   {
@@ -103585,7 +103585,7 @@
     "id": 7734,
     "date": "2026-01-20T22:13:11",
     "text": "换 ebox 了！说说体验吧\n\n首先是终于有 ipv6 了，每台设备都有公网 ip 好不错！\n\n其次网络设备也很不错，之前用 Bell 的时候给的是一个带光纤的路由器，所以如果想用自己的路由器就只能自己买光猫棒... 相比之下 EBox 是直接给了一个 10G ONT，想接自己的路由器直接用它接就可以了（我接了豆腐球给我的 MikroTik hAP ac，好用喵感谢豆腐）\n\n不过激活体验真的很孬，我 12.28 开的账号居然 1.20 才有人来安装... 明明只要给我 ONT 我自己就会装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n网络线路的话，是 1 gbps 下 750 mbps 上的套餐，实测有线上下都在 700 mbps 左右。\n\n以及确实所有路由都要绕蒙特利尔，所以增加了 10 ms 的延迟，从之前的 2ms 变成了 11ms... 好像也不影响什么，反而因为和很多云服务 ISP 有直连的 peering 所以跳转次数更少了，测了全球连进来的延迟也不比之前差\n\n总之还很满意喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 282,
+    "views": 283,
     "forwards": 3,
     "media_group_id": 14151577535205573,
     "images": [
@@ -105032,7 +105032,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 267,
+    "views": 268,
     "forwards": 2,
     "media_group_id": 14167074537393133,
     "images": [
@@ -106345,7 +106345,7 @@
     "id": 7964,
     "date": "2026-03-01T14:26:09",
     "text": "<code>git config --global user.email</code>",
-    "views": 224,
+    "views": 226,
     "forwards": 3,
     "images": [
       {
@@ -106401,7 +106401,7 @@
     "id": 7967,
     "date": "2026-03-03T05:17:04",
     "text": "心情过山车 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n之前法拍上拍到了四个坏掉的 macbook 盲盒，今天去取了，仔细检查了一下发现他们是：\n\n1. A2337 屏幕坏了\n2. A2337 iCloud 激活锁\n3. A2179 风扇狂转、CPU 降频、没有系统（而且还被拆过，没有一个螺丝在原本它应该在的位置）\n4. A2289 屏幕坏了\n\n想要试试把 2 的屏幕换到 1 身上能不能把 1 修好\n\n首先好的屏幕换上去之后可以开机了，但是坏消息是开机之后发现别人登了账号没法解锁。不过发现这个人的名字挺独特的，搜名字能找到一个 ins 账号，但是坏消息是这个 ins 不是很活跃，而且我尝试给她发消息结果我的号被封了。\n\n最后发现原来根本就没有激活锁，登录了 iCloud 并不代表有激活锁，只要重置数据然后正常联网激活就行了（如果用户在重置之前把设备从 find 中删掉的话就会变成这样）\n\n总之在过山车的尽头得到了一个好用的 m1 macbook air! <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> （虽然只有 8+256...）没想到我的第一个 arm 白苹果是这么绕弯拿到的",
-    "views": 182,
+    "views": 183,
     "forwards": 1,
     "media_group_id": 14180120193926557,
     "images": [
@@ -106481,7 +106481,7 @@
     "id": 7974,
     "date": "2026-03-03T15:35:45",
     "text": "Copilot 的 PR 审核是即使没有问题也要编一些问题出来吗... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "media_group_id": 14180417160204389,
     "images": [
@@ -106526,7 +106526,7 @@
     "id": 7977,
     "date": "2026-03-04T02:44:23",
     "text": "插座长了胡子！🧔",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
@@ -106545,7 +106545,7 @@
     "id": 7978,
     "date": "2026-03-04T06:11:26",
     "text": "发现自己每次停止录音过一会继续录音的时候声线就会变，而且怎样都找不到之前的声线 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么呢？",
-    "views": 160,
+    "views": 161,
     "forwards": 1,
     "files": [
       {
@@ -106568,7 +106568,7 @@
     "id": 7979,
     "date": "2026-03-04T15:45:33",
     "text": "原本还在想之前法拍这些操作值不值\n\n然后今天新的 macbook neo 发售了就完全不犹豫了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n$678，CPU 是手机上的 A18 Pro，内存只有 8+256/512，屏幕只是一般的 sRGB 没有 True Tone，充电只有 20W，11h 续航还不如 M1 Air，还只有 512 的版本有指纹解锁...\n\n不过这些都还好，最难以理解的是居然 2026 年的设备上仅存的两个 type-C 口居然一个是 USB 3.0 一个是 USB 2.0？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n<del>聊聊：不如再配一个光驱</del>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 7967,
