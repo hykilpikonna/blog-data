@@ -70445,7 +70445,7 @@
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 365,
+    "views": 366,
     "forwards": 2
   },
   {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5780,
+    "views": 5781,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6502,
+    "views": 6503,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -92844,7 +92844,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 353,
+    "views": 354,
     "forwards": 2
   },
   {
@@ -106201,7 +106201,7 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 267,
+    "views": 268,
     "forwards": 4
   },
   {
@@ -106280,14 +106280,14 @@
     "id": 7958,
     "date": "2026-02-27T03:33:09",
     "text": "发烧了... 37.3℃ <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 245,
+    "views": 246,
     "forwards": 0
   },
   {
     "id": 7959,
     "date": "2026-02-27T17:17:45",
     "text": "吃了泰诺睡得香和デエビゴ睡了 13h，感觉不发烧了 qwq（虽然依然困困",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "reply": {
       "id": 7958,
@@ -106345,7 +106345,7 @@
     "id": 7964,
     "date": "2026-03-01T14:26:09",
     "text": "<code>git config --global user.email</code>",
-    "views": 238,
+    "views": 239,
     "forwards": 3,
     "images": [
       {
@@ -106364,7 +106364,7 @@
     "id": 7965,
     "date": "2026-03-01T21:08:43",
     "text": "是 Pokemon 30 周年！决定开坑一个 Cobbleverse (Minecraft x Pokemon) 模组服务器！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实主要是想和聊聊玩所以开了，大家想玩的话可以一起玩哦 qwq\n\n下载: <a href=\"https://pixeldrain.com/u/SCBjfBKU\">https://pixeldrain.com/u/SCBjfBKU</a>",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "images": [
       {
@@ -106382,7 +106382,7 @@
   {
     "id": 7966,
     "date": "2026-03-02T06:09:59",
-    "views": 205,
+    "views": 207,
     "forwards": 0,
     "images": [
       {
@@ -106401,7 +106401,7 @@
     "id": 7967,
     "date": "2026-03-03T05:17:04",
     "text": "心情过山车 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n之前法拍上拍到了四个坏掉的 macbook 盲盒，今天去取了，仔细检查了一下发现他们是：\n\n1. A2337 屏幕坏了\n2. A2337 iCloud 激活锁\n3. A2179 风扇狂转、CPU 降频、没有系统（而且还被拆过，没有一个螺丝在原本它应该在的位置）\n4. A2289 屏幕坏了\n\n想要试试把 2 的屏幕换到 1 身上能不能把 1 修好\n\n首先好的屏幕换上去之后可以开机了，但是坏消息是开机之后发现别人登了账号没法解锁。不过发现这个人的名字挺独特的，搜名字能找到一个 ins 账号，但是坏消息是这个 ins 不是很活跃，而且我尝试给她发消息结果我的号被封了。\n\n最后发现原来根本就没有激活锁，登录了 iCloud 并不代表有激活锁，只要重置数据然后正常联网激活就行了（如果用户在重置之前把设备从 find 中删掉的话就会变成这样）\n\n总之在过山车的尽头得到了一个好用的 m1 macbook air! <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> （虽然只有 8+256...）没想到我的第一个 arm 白苹果是这么绕弯拿到的",
-    "views": 192,
+    "views": 194,
     "forwards": 1,
     "media_group_id": 14180120193926557,
     "images": [
@@ -106481,7 +106481,7 @@
     "id": 7974,
     "date": "2026-03-03T15:35:45",
     "text": "Copilot 的 PR 审核是即使没有问题也要编一些问题出来吗... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 186,
+    "views": 187,
     "forwards": 0,
     "media_group_id": 14180417160204389,
     "images": [
@@ -106568,7 +106568,7 @@
     "id": 7979,
     "date": "2026-03-04T15:45:33",
     "text": "原本还在想之前法拍这些操作值不值\n\n然后今天新的 macbook neo 发售了就完全不犹豫了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n$678，CPU 是手机上的 A18 Pro，内存只有 8+256/512，屏幕只是一般的 sRGB 没有 True Tone，充电只有 20W，11h 续航还不如 M1 Air，还只有 512 的版本有指纹解锁...\n\n不过这些都还好，最难以理解的是居然 2026 年的设备上仅存的两个 type-C 口居然一个是 USB 3.0 一个是 USB 2.0？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n<del>聊聊：不如再配一个光驱</del>",
-    "views": 176,
+    "views": 179,
     "forwards": 0,
     "reply": {
       "id": 7967,
@@ -106592,7 +106592,7 @@
     "id": 7980,
     "date": "2026-03-05T04:58:40",
     "text": "猫猫跳到栏杆上面了！\n\n（不过好怕它摔下去，毕竟这个栏杆是用来防止从楼梯掉下去的，感觉如果猫猫摔下去的话不一定没事）",
-    "views": 149,
+    "views": 155,
     "forwards": 1,
     "media_group_id": 14181493767658029,
     "images": [
@@ -106642,7 +106642,7 @@
     "id": 7984,
     "date": "2026-03-05T18:58:01",
     "text": "猫箱",
-    "views": 89,
+    "views": 114,
     "forwards": 1,
     "images": [
       {
@@ -106654,6 +106654,46 @@
         "url": "media/7984.jpg",
         "size": 482071,
         "thumb": "media/7984.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7985,
+    "date": "2026-03-06T04:43:17",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n不是麻婆豆腐\n\n想做麻婆豆腐但是用软豆腐挤出来做成豆腐碎了，应该用豆腐块...",
+    "views": 45,
+    "forwards": 0,
+    "media_group_id": 14182177581103685,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-05T19:30:06",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-05_19-30-06.jpg",
+        "url": "media/7985.jpg",
+        "size": 1218532,
+        "thumb": "media/7985.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-05T19:27:30",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-05_19-27-30.jpg",
+        "url": "media/7986.jpg",
+        "size": 872458,
+        "thumb": "media/7986.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-06T04:36:28",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-06_04-36-28.jpg",
+        "url": "media/7987.jpg",
+        "size": 615186,
+        "thumb": "media/7987.jpg_thumb.jpg"
       }
     ]
   }
