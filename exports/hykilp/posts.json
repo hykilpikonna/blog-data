@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7462,
+    "views": 7464,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6503,
+    "views": 6504,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8517,
+    "views": 8518,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -106401,7 +106401,7 @@
     "id": 7967,
     "date": "2026-03-03T05:17:04",
     "text": "心情过山车 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n之前法拍上拍到了四个坏掉的 macbook 盲盒，今天去取了，仔细检查了一下发现他们是：\n\n1. A2337 屏幕坏了\n2. A2337 iCloud 激活锁\n3. A2179 风扇狂转、CPU 降频、没有系统（而且还被拆过，没有一个螺丝在原本它应该在的位置）\n4. A2289 屏幕坏了\n\n想要试试把 2 的屏幕换到 1 身上能不能把 1 修好\n\n首先好的屏幕换上去之后可以开机了，但是坏消息是开机之后发现别人登了账号没法解锁。不过发现这个人的名字挺独特的，搜名字能找到一个 ins 账号，但是坏消息是这个 ins 不是很活跃，而且我尝试给她发消息结果我的号被封了。\n\n最后发现原来根本就没有激活锁，登录了 iCloud 并不代表有激活锁，只要重置数据然后正常联网激活就行了（如果用户在重置之前把设备从 find 中删掉的话就会变成这样）\n\n总之在过山车的尽头得到了一个好用的 m1 macbook air! <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> （虽然只有 8+256...）没想到我的第一个 arm 白苹果是这么绕弯拿到的",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "media_group_id": 14180120193926557,
     "images": [
@@ -106481,7 +106481,7 @@
     "id": 7974,
     "date": "2026-03-03T15:35:45",
     "text": "Copilot 的 PR 审核是即使没有问题也要编一些问题出来吗... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 194,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 14180417160204389,
     "images": [
@@ -106568,7 +106568,7 @@
     "id": 7979,
     "date": "2026-03-04T15:45:33",
     "text": "原本还在想之前法拍这些操作值不值\n\n然后今天新的 macbook neo 发售了就完全不犹豫了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n$678，CPU 是手机上的 A18 Pro，内存只有 8+256/512，屏幕只是一般的 sRGB 没有 True Tone，充电只有 20W，11h 续航还不如 M1 Air，还只有 512 的版本有指纹解锁...\n\n不过这些都还好，最难以理解的是居然 2026 年的设备上仅存的两个 type-C 口居然一个是 USB 3.0 一个是 USB 2.0？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n<del>聊聊：不如再配一个光驱</del>",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "reply": {
       "id": 7967,
@@ -106592,7 +106592,7 @@
     "id": 7980,
     "date": "2026-03-05T04:58:40",
     "text": "猫猫跳到栏杆上面了！\n\n（不过好怕它摔下去，毕竟这个栏杆是用来防止从楼梯掉下去的，感觉如果猫猫摔下去的话不一定没事）",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 14181493767658029,
     "images": [
@@ -106642,7 +106642,7 @@
     "id": 7984,
     "date": "2026-03-05T18:58:01",
     "text": "猫箱",
-    "views": 140,
+    "views": 141,
     "forwards": 1,
     "images": [
       {
@@ -106661,7 +106661,7 @@
     "id": 7985,
     "date": "2026-03-06T04:43:17",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n不是麻婆豆腐\n\n想做麻婆豆腐但是用软豆腐挤出来做成豆腐碎了，应该用豆腐块...",
-    "views": 110,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 14182177581103685,
     "images": [
