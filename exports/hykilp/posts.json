@@ -58905,14 +58905,14 @@
     "id": 4312,
     "date": "2024-08-11T07:38:53",
     "text": "白天困困，躺在床上就不困了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 112,
+    "views": 113,
     "forwards": 0
   },
   {
     "id": 4313,
     "date": "2024-08-11T07:50:23",
     "text": "起床觅食有被拐角的新叶喵吓到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n...以及拍照的时候手机没拿稳拍出了奇妙照片 quq",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "media_group_id": 13786900988263349,
     "images": [
@@ -58942,7 +58942,7 @@
     "id": 4315,
     "date": "2024-08-11T08:40:04",
     "text": "<a href=\"##ADHD\">#ADHD</a> 发现自己忘了要干什么的时候就会在命令行里反复打 ll <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -85393,7 +85393,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8521,
+    "views": 8522,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -99578,7 +99578,7 @@
     "id": 7404,
     "date": "2025-12-06T04:43:37",
     "text": "🏕",
-    "views": 349,
+    "views": 350,
     "forwards": 0,
     "images": [
       {
@@ -99597,14 +99597,14 @@
     "id": 7405,
     "date": "2025-12-06T05:54:02",
     "text": "在想怎样做覆盖全世界的真无线充电的时候，突然想到这个东西其实早就已经被实现了，它叫做太阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i> 太阳在给全世界的太阳能板无线充电",
-    "views": 363,
+    "views": 364,
     "forwards": 2
   },
   {
     "id": 7406,
     "date": "2025-12-06T20:01:45",
     "text": "猫咪烤箱 <i class=\"custom-emoji\" emoji-src=\"emoji/5458822541801956370.webp\">🔥</i>",
-    "views": 329,
+    "views": 330,
     "forwards": 0,
     "reply": {
       "id": 7401,
@@ -103067,14 +103067,14 @@
     "id": 7696,
     "date": "2026-01-13T06:58:29",
     "text": "好犹豫好犹豫好犹豫\n\n搬到新家之后，可以继续用 Bell 3Gbps $71（在这里新注册 Bell 需要 $125 了） 也可以换成 EBox 1Gbps $55...\n\n继续用 Bell 的好处是网速快、可以留着这个价格，坏处是我真的不太需要 3Gbps（我统计最近每月总共上传 40TB = 平均下来 121Mbps）\n\n换成 Ebox 的好处是有 ipv6、而且似乎 peering 更好，而且更便宜，坏处是网络包需要绕 700km 到蒙特利尔进行路由也许会添加延迟，以及换了就回不去了\n\n不知道怎么选...",
-    "views": 319,
+    "views": 320,
     "forwards": 3
   },
   {
     "id": 7697,
     "date": "2026-01-13T14:48:33",
     "text": "梦见我的 tg 和小号同时被销号了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 294,
+    "views": 295,
     "forwards": 0
   },
   {
@@ -103585,7 +103585,7 @@
     "id": 7734,
     "date": "2026-01-20T22:13:11",
     "text": "换 ebox 了！说说体验吧\n\n首先是终于有 ipv6 了，每台设备都有公网 ip 好不错！\n\n其次网络设备也很不错，之前用 Bell 的时候给的是一个带光纤的路由器，所以如果想用自己的路由器就只能自己买光猫棒... 相比之下 EBox 是直接给了一个 10G ONT，想接自己的路由器直接用它接就可以了（我接了豆腐球给我的 MikroTik hAP ac，好用喵感谢豆腐）\n\n不过激活体验真的很孬，我 12.28 开的账号居然 1.20 才有人来安装... 明明只要给我 ONT 我自己就会装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n网络线路的话，是 1 gbps 下 750 mbps 上的套餐，实测有线上下都在 700 mbps 左右。\n\n以及确实所有路由都要绕蒙特利尔，所以增加了 10 ms 的延迟，从之前的 2ms 变成了 11ms... 好像也不影响什么，反而因为和很多云服务 ISP 有直连的 peering 所以跳转次数更少了，测了全球连进来的延迟也不比之前差\n\n总之还很满意喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 284,
+    "views": 285,
     "forwards": 3,
     "media_group_id": 14151577535205573,
     "images": [
@@ -103649,7 +103649,7 @@
     "id": 7739,
     "date": "2026-01-21T06:17:41",
     "text": "难得的没有云的晚上，可惜明天有早八………….",
-    "views": 350,
+    "views": 351,
     "forwards": 0,
     "reply": {
       "id": 7718,
@@ -103660,8 +103660,8 @@
     "id": 7740,
     "date": "2026-01-22T06:40:10",
     "text": "每次查电磁波相关的事情都会被「人居然有两只宽频无线电接收器」这件事震撼到\n\n曾经幻想过插在头顶的天线可以让人接收到 wifi 之类的，明明眼睛已经完全超过这些了嘛... 虽然大脑的处理速度连 60Hz 都完全跟不上\n\n不过，如果真的有可以把 GHz 或者 MHz 电波等比例映射到可见光的眼镜就好了，毕竟在不同频率下不同材料和设备会变得透明/不透明/反射性、发光/不发光之类的，感觉会是完全不同的世界 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 338,
-    "forwards": 0,
+    "views": 339,
+    "forwards": 1,
     "reply": {
       "id": 7405,
       "text": "在想怎样做覆盖全世界的真无线充电的时候，突然想到这个东西其实早就已经被实现了，它叫做太阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i> 太阳在给全世界的太阳能板无线充电"
@@ -106037,14 +106037,14 @@
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 231,
+    "views": 232,
     "forwards": 0
   },
   {
     "id": 7939,
     "date": "2026-02-25T22:21:31",
     "text": "不经常去学校，但是每次去学校都有好有意思的事情 qwq\n\n今天似乎是某个公益性质的同人/艺术会场\n\n买了一些 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i><i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i> 物理贴纸",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "media_group_id": 14176464735711709,
     "images": [
@@ -106642,7 +106642,7 @@
     "id": 7984,
     "date": "2026-03-05T18:58:01",
     "text": "猫箱",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "images": [
       {
@@ -106661,7 +106661,7 @@
     "id": 7985,
     "date": "2026-03-06T04:43:17",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n不是麻婆豆腐\n\n想做麻婆豆腐但是用软豆腐挤出来做成豆腐碎了，应该用豆腐块...",
-    "views": 126,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14182177581103685,
     "images": [
