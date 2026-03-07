@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6504,
+    "views": 6505,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -106592,7 +106592,7 @@
     "id": 7980,
     "date": "2026-03-05T04:58:40",
     "text": "猫猫跳到栏杆上面了！\n\n（不过好怕它摔下去，毕竟这个栏杆是用来防止从楼梯掉下去的，感觉如果猫猫摔下去的话不一定没事）",
-    "views": 167,
+    "views": 168,
     "forwards": 1,
     "media_group_id": 14181493767658029,
     "images": [
@@ -106642,7 +106642,7 @@
     "id": 7984,
     "date": "2026-03-05T18:58:01",
     "text": "猫箱",
-    "views": 147,
+    "views": 148,
     "forwards": 1,
     "images": [
       {
@@ -106661,7 +106661,7 @@
     "id": 7985,
     "date": "2026-03-06T04:43:17",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n不是麻婆豆腐\n\n想做麻婆豆腐但是用软豆腐挤出来做成豆腐碎了，应该用豆腐块...",
-    "views": 122,
+    "views": 124,
     "forwards": 0,
     "media_group_id": 14182177581103685,
     "images": [
