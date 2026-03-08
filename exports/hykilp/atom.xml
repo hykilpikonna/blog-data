@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-03-08T12:23:14.222859+00:00</updated>
+  <updated>2026-03-08T14:19:34.845944+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>7990</id>
+    <title>小桂桂的回忆录 📒 #7990</title>
+    <updated>2026-03-08T13:51:43+00:00</updated>
+    <content>&lt;p&gt;感觉设计和工程完全是两个世界... 用工程软件做出好看的设计好难，同样的用设计软件做出能完美定义出生产规格和细节的生产稿也好难&lt;/p&gt;
+&lt;p&gt;无论在什么领域都是，比如 Blender vs Onshape/Shapr、比如 Affinity vs 立创 EDA 面板模式&lt;/p&gt;
+&lt;p&gt;今天想要定制一个孔位尺寸精准的亚克力板，用 Affinity 做完设计发现找厂商生产的时候把点阵图转成精确的生产稿是很难的事情... 立创 EDA 可以导入图片但是似乎也没办法把一个非矢量轮廓转成切割边框 &lt;i class="custom-emoji" emoji-src="emoji/6169953432485496291.webm"&gt;😶&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;所以又花了好久矢量化、对齐尺寸之类的，累累 &lt;i class="custom-emoji" emoji-src="emoji/6323364467388188938.webp"&gt;😴&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=7990" rel="alternate"/>
+  </entry>
   <entry>
     <id>7989</id>
     <title>小桂桂的回忆录 📒 #7989</title>
