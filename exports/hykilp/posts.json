@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7468,
+    "views": 7469,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -91746,7 +91746,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 538,
+    "views": 539,
     "forwards": 8,
     "media_group_id": 14073654712928549,
     "images": [
@@ -97676,7 +97676,7 @@
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 615,
+    "views": 616,
     "forwards": 7
   },
   {
@@ -99801,7 +99801,7 @@
     "id": 7425,
     "date": "2025-12-08T14:41:27",
     "text": "恐怖",
-    "views": 291,
+    "views": 292,
     "forwards": 1,
     "images": [
       {
@@ -99820,7 +99820,7 @@
     "id": 7426,
     "date": "2025-12-08T18:16:45",
     "text": "每次写前端都能学到新 hack。感觉前端就是 hack to fix a hack to fix a hack to fix hack...\n\n最早让一个固定视图竖向占满整个屏幕的方法是 height: 100% 从最上层一路传下去。但百分比是相对单位，相对于上一层的高度，用来计算屏幕高度很麻烦，所以就添加了 vh 这个单位，100vh = 屏幕高度。\n\n但是手机浏览器为了最大化阅读空间会在滚动的时候隐藏地址栏，可是让 vh 动态改变的话就会让一些依赖 vh 不变的页面显示内容跳来跳去，所以就添加了 dvh svh 这些单位，dvh 是地址栏收缩的时候会变的高度，svh 是地址栏不隐藏的时候最小的高度。\n\n但是因为不是所有浏览器都支持 dvh svh 所以我还要再添加一个变量，如果支持就等于 100dvh，不支持就掉回到 100vh... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 291,
+    "views": 292,
     "forwards": 2,
     "images": [
       {
@@ -99839,7 +99839,7 @@
     "id": 7427,
     "date": "2025-12-08T19:24:42",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 更新 1.0.3\n\n这两个版本大幅改善了移动端的显示适配和输入体验 <i class=\"custom-emoji\" emoji-src=\"emoji/4999093039189197866.webm\">💓</i>\n\n（我也逐渐开始适应日语九宫格输入法了！从最开始每个字都要找半天，到现在能花 23 分钟打完 6 分钟的歌词感觉好欣慰）",
-    "views": 288,
+    "views": 289,
     "forwards": 0,
     "media_group_id": 14121775057606277,
     "images": [
@@ -99884,7 +99884,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 1080,
+    "views": 1081,
     "forwards": 9,
     "images": [
       {
@@ -99903,7 +99903,7 @@
     "id": 7431,
     "date": "2025-12-08T21:38:17",
     "text": "作息是小猫",
-    "views": 344,
+    "views": 345,
     "forwards": 0,
     "images": [
       {
@@ -99922,7 +99922,7 @@
     "id": 7432,
     "date": "2025-12-09T15:13:23",
     "text": "这一天终于到了\n\n我的 blog 之前一直是在 Github Pages 上部署的，因为是开源项目所以感觉也没什么关系。Github 说整个网站的最大容量限制是 1GB，四年前刚架起我的 blog 的时候还觉得 1GB 是不可能用完的...\n\n然而早在三年前就已经超过 1GB 了。当时只是提示了一个「部署可能会失败」但是最终还是成功了，所以就没有管。就这样，2GB，3GB，4GB 过去了，依然没有被限制的迹象，直到今天终于部署失败了，提示的居然是 \"No space left on device\" 而不是什么人为的限制... 最后一次成功部署是 4.64GB\n\nGithub 还是太良心了，想想怎样把网站迁移到 homelab 上好啦",
-    "views": 364,
+    "views": 365,
     "forwards": 4,
     "media_group_id": 14122345626874821,
     "images": [
@@ -99952,7 +99952,7 @@
     "id": 7434,
     "date": "2025-12-09T16:50:56",
     "text": "在日本住过的好处是 回到加拿大之后可以和朋友说 \"I lived in a mansion\" while being technically correct <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 322,
+    "views": 323,
     "forwards": 2
   },
   {
@@ -106023,7 +106023,7 @@
     "id": 7938,
     "date": "2026-02-25T12:54:53",
     "text": "聊：开心果壳不能回收哦\n我：<del>为什么可以回收水瓶重新装水但是不能回收开心果壳重新装开心果</del>",
-    "views": 242,
+    "views": 243,
     "forwards": 0
   },
   {
@@ -106710,14 +106710,14 @@
     "id": 7989,
     "date": "2026-03-08T07:03:10",
     "text": "咦 一个小时消失了！<i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i>",
-    "views": 179,
+    "views": 180,
     "forwards": 2
   },
   {
     "id": 7990,
     "date": "2026-03-08T13:51:43",
     "text": "感觉设计和工程完全是两个世界... 用工程软件做出好看的设计好难，同样的用设计软件做出能完美定义出生产规格和细节的生产稿也好难\n\n无论在什么领域都是，比如 Blender vs Onshape/Shapr、比如 Affinity vs 立创 EDA 面板模式\n\n今天想要定制一个孔位尺寸精准的亚克力板，用 Affinity 做完设计发现找厂商生产的时候把点阵图转成精确的生产稿是很难的事情... 立创 EDA 可以导入图片但是似乎也没办法把一个非矢量轮廓转成切割边框 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n所以又花了好久矢量化、对齐尺寸之类的，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 165,
+    "views": 166,
     "forwards": 2,
     "media_group_id": 14183823231330373,
     "images": [
@@ -106747,7 +106747,7 @@
     "id": 7992,
     "date": "2026-03-08T14:25:18",
     "text": "……?",
-    "views": 183,
+    "views": 184,
     "forwards": 2,
     "images": [
       {
@@ -106766,8 +106766,8 @@
     "id": 7993,
     "date": "2026-03-09T23:18:23",
     "text": "看到朋友的 Jellyfin 媒体库很好看，我也想搭一个，原本以为很好搭的就开坑了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n然后发现它需要一个特殊的文件结构，但是大部分种子下载下来都不是这种文件结构... 怎么办呢？\n\n朋友推荐我用 Sonarr，是一个\"自动\"整理媒体文件结构的软件，然而试了一下发现它完全不自动... 从文件夹名自动识别番剧有 >90% 识别的都是错的 (p2)，手动加进去之后识别剧集也识别不对 (p3)... 折腾了四个小时之后直接放弃 Sonarr 了\n\n最后又花了 6h 手搓了一个小工具 <a href=\"https://github.com/hykilpikonna/MTfin\">MTfin</a>，输入 IMDB ID 自动从 M-Team 获取种子列表用 GPT5 选种、调 qB 下载、然后自动用 GPT5 生成映射表映射到 Jellyfin 的文件结构 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n正好趁这两天 M-Team 站免，把之前存的总共 4TB 的番剧电影都用这个脚本统一重新下载了一遍，不知道运营商看到我 1gbps 跑满一整天会怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>（希望不会被找麻烦",
-    "views": 137,
-    "forwards": 1,
+    "views": 141,
+    "forwards": 2,
     "media_group_id": 14184786424218413,
     "images": [
       {
@@ -106816,7 +106816,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 150,
+    "views": 157,
     "forwards": 4,
     "media_group_id": 14184936480305877,
     "files": [
