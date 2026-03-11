@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6508,
+    "views": 6509,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -106467,7 +106467,7 @@
     "id": 7974,
     "date": "2026-03-03T15:35:45",
     "text": "Copilot 的 PR 审核是即使没有问题也要编一些问题出来吗... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "media_group_id": 14180417160204389,
     "images": [
@@ -106512,7 +106512,7 @@
     "id": 7977,
     "date": "2026-03-04T02:44:23",
     "text": "插座长了胡子！🧔",
-    "views": 259,
+    "views": 260,
     "forwards": 0,
     "images": [
       {
@@ -106531,7 +106531,7 @@
     "id": 7978,
     "date": "2026-03-04T06:11:26",
     "text": "发现自己每次停止录音过一会继续录音的时候声线就会变，而且怎样都找不到之前的声线 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 为什么呢？",
-    "views": 271,
+    "views": 272,
     "forwards": 1,
     "files": [
       {
@@ -106554,7 +106554,7 @@
     "id": 7979,
     "date": "2026-03-04T15:45:33",
     "text": "原本还在想之前法拍这些操作值不值\n\n然后今天新的 macbook neo 发售了就完全不犹豫了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n$678，CPU 是手机上的 A18 Pro，内存只有 8+256/512，屏幕只是一般的 sRGB 没有 True Tone，充电只有 20W，11h 续航还不如 M1 Air，还只有 512 的版本有指纹解锁...\n\n不过这些都还好，最难以理解的是居然 2026 年的设备上仅存的两个 type-C 口居然一个是 USB 3.0 一个是 USB 2.0？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n<del>聊聊：不如再配一个光驱</del>",
-    "views": 247,
+    "views": 248,
     "forwards": 0,
     "reply": {
       "id": 7967,
@@ -106578,7 +106578,7 @@
     "id": 7980,
     "date": "2026-03-05T04:58:40",
     "text": "猫猫跳到栏杆上面了！\n\n（不过好怕它摔下去，毕竟这个栏杆是用来防止从楼梯掉下去的，感觉如果猫猫摔下去的话不一定没事）",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "media_group_id": 14181493767658029,
     "images": [
@@ -106628,7 +106628,7 @@
     "id": 7984,
     "date": "2026-03-05T18:58:01",
     "text": "猫箱",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "images": [
       {
@@ -106647,7 +106647,7 @@
     "id": 7985,
     "date": "2026-03-06T04:43:17",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n不是麻婆豆腐\n\n想做麻婆豆腐但是用软豆腐挤出来做成豆腐碎了，应该用豆腐块...",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "media_group_id": 14182177581103685,
     "images": [
@@ -106687,7 +106687,7 @@
     "id": 7988,
     "date": "2026-03-07T20:22:54",
     "text": "唉 Affinity 还是不够好啊\n\nAffinity 里面有一个「Symbol」功能，大概就是把一个图形组变成一个变量，可以复制很多个，然后改变原本的图形的时候复制的也会一起改变（和 Unity Prefab 是同样的概念）\n\n然后我尝试做递归，把一个 Symbol 放进定义它自己的图形组里，Affinity 闪退了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 220,
+    "views": 222,
     "forwards": 1,
     "files": [
       {
@@ -106710,14 +106710,14 @@
     "id": 7989,
     "date": "2026-03-08T07:03:10",
     "text": "咦 一个小时消失了！<i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 2
   },
   {
     "id": 7990,
     "date": "2026-03-08T13:51:43",
     "text": "感觉设计和工程完全是两个世界... 用工程软件做出好看的设计好难，同样的用设计软件做出能完美定义出生产规格和细节的生产稿也好难\n\n无论在什么领域都是，比如 Blender vs Onshape/Shapr、比如 Affinity vs 立创 EDA 面板模式\n\n今天想要定制一个孔位尺寸精准的亚克力板，用 Affinity 做完设计发现找厂商生产的时候把点阵图转成精确的生产稿是很难的事情... 立创 EDA 可以导入图片但是似乎也没办法把一个非矢量轮廓转成切割边框 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n所以又花了好久矢量化、对齐尺寸之类的，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 187,
+    "views": 190,
     "forwards": 2,
     "media_group_id": 14183823231330373,
     "images": [
@@ -106747,7 +106747,7 @@
     "id": 7992,
     "date": "2026-03-08T14:25:18",
     "text": "……?",
-    "views": 200,
+    "views": 202,
     "forwards": 3,
     "images": [
       {
@@ -106766,7 +106766,7 @@
     "id": 7993,
     "date": "2026-03-09T23:18:23",
     "text": "看到朋友的 Jellyfin 媒体库很好看，我也想搭一个，原本以为很好搭的就开坑了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n然后发现它需要一个特殊的文件结构，但是大部分种子下载下来都不是这种文件结构... 怎么办呢？\n\n朋友推荐我用 Sonarr，是一个\"自动\"整理媒体文件结构的软件，然而试了一下发现它完全不自动... 从文件夹名自动识别番剧有 >90% 识别的都是错的 (p2)，手动加进去之后识别剧集也识别不对 (p3)... 折腾了四个小时之后直接放弃 Sonarr 了\n\n最后又花了 6h 手搓了一个小工具 <a href=\"https://github.com/hykilpikonna/MTfin\">MTfin</a>，输入 IMDB ID 自动从 M-Team 获取种子列表用 GPT5 选种、调 qB 下载、然后自动用 GPT5 生成映射表映射到 Jellyfin 的文件结构 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n正好趁这两天 M-Team 站免，把之前存的总共 4TB 的番剧电影都用这个脚本统一重新下载了一遍，不知道运营商看到我 1gbps 跑满一整天会怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>（希望不会被找麻烦",
-    "views": 176,
+    "views": 177,
     "forwards": 3,
     "media_group_id": 14184786424218413,
     "images": [
@@ -106816,7 +106816,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 5,
     "media_group_id": 14184936480305877,
     "files": [
@@ -106851,7 +106851,7 @@
   {
     "id": 7999,
     "date": "2026-03-11T05:06:36",
-    "views": 137,
+    "views": 141,
     "forwards": 0,
     "images": [
       {
@@ -106869,7 +106869,7 @@
   {
     "id": 8000,
     "date": "2026-03-11T17:30:41",
-    "views": 66,
+    "views": 72,
     "forwards": 1,
     "images": [
       {
@@ -106888,7 +106888,7 @@
     "id": 8001,
     "date": "2026-03-11T18:18:04",
     "text": "真的每次每次去学校都能遇到好玩的活动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>\n\n这次是 capstone design 项目的展会，大家的项目都好有意思 qwq",
-    "views": 44,
+    "views": 53,
     "forwards": 0,
     "media_group_id": 14186024678191165,
     "images": [
