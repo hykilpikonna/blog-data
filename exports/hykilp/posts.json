@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6507,
+    "views": 6508,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -92830,7 +92830,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 354,
+    "views": 355,
     "forwards": 2
   },
   {
@@ -106816,7 +106816,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 163,
+    "views": 164,
     "forwards": 4,
     "media_group_id": 14184936480305877,
     "files": [
