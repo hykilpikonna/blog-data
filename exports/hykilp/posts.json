@@ -106554,7 +106554,7 @@
     "id": 7979,
     "date": "2026-03-04T15:45:33",
     "text": "原本还在想之前法拍这些操作值不值\n\n然后今天新的 macbook neo 发售了就完全不犹豫了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n$678，CPU 是手机上的 A18 Pro，内存只有 8+256/512，屏幕只是一般的 sRGB 没有 True Tone，充电只有 20W，11h 续航还不如 M1 Air，还只有 512 的版本有指纹解锁...\n\n不过这些都还好，最难以理解的是居然 2026 年的设备上仅存的两个 type-C 口居然一个是 USB 3.0 一个是 USB 2.0？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n<del>聊聊：不如再配一个光驱</del>",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "reply": {
       "id": 7967,
@@ -106747,7 +106747,7 @@
     "id": 7992,
     "date": "2026-03-08T14:25:18",
     "text": "……?",
-    "views": 190,
+    "views": 191,
     "forwards": 3,
     "images": [
       {
@@ -106766,7 +106766,7 @@
     "id": 7993,
     "date": "2026-03-09T23:18:23",
     "text": "看到朋友的 Jellyfin 媒体库很好看，我也想搭一个，原本以为很好搭的就开坑了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n然后发现它需要一个特殊的文件结构，但是大部分种子下载下来都不是这种文件结构... 怎么办呢？\n\n朋友推荐我用 Sonarr，是一个\"自动\"整理媒体文件结构的软件，然而试了一下发现它完全不自动... 从文件夹名自动识别番剧有 >90% 识别的都是错的 (p2)，手动加进去之后识别剧集也识别不对 (p3)... 折腾了四个小时之后直接放弃 Sonarr 了\n\n最后又花了 6h 手搓了一个小工具 <a href=\"https://github.com/hykilpikonna/MTfin\">MTfin</a>，输入 IMDB ID 自动从 M-Team 获取种子列表用 GPT5 选种、调 qB 下载、然后自动用 GPT5 生成映射表映射到 Jellyfin 的文件结构 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n正好趁这两天 M-Team 站免，把之前存的总共 4TB 的番剧电影都用这个脚本统一重新下载了一遍，不知道运营商看到我 1gbps 跑满一整天会怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>（希望不会被找麻烦",
-    "views": 161,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 14184786424218413,
     "images": [
@@ -106816,7 +106816,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 187,
+    "views": 190,
     "forwards": 4,
     "media_group_id": 14184936480305877,
     "files": [
@@ -106851,7 +106851,7 @@
   {
     "id": 7999,
     "date": "2026-03-11T05:06:36",
-    "views": 85,
+    "views": 92,
     "forwards": 0,
     "images": [
       {
