@@ -2775,7 +2775,7 @@
     "id": 295,
     "date": "2021-11-28T09:06:10",
     "text": "以后一定要早睡，晚睡就会没意义的伤心（x\n明明说过每天都要元气满满w\n\n《春よ、来い》\n马上就要立春了，再过几天就好w\n\n<a href=\"https://y.music.163.com/m/song?id=465266014\">https://y.music.163.com/m/song?id=465266014</a>",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "reply": {
       "id": 294,
@@ -69120,7 +69120,7 @@
     "id": 5006,
     "date": "2025-03-08T18:41:28",
     "text": "把花花种起来了，房间香香的 <i class=\"custom-emoji\" emoji-src=\"emoji/6163291628971758736.webp\">😺</i>\n\n女生节快乐哦",
-    "views": 309,
+    "views": 311,
     "forwards": 0,
     "reply": {
       "id": 5000,
@@ -69223,7 +69223,7 @@
     "id": 5012,
     "date": "2025-03-11T04:50:09",
     "text": "好讨厌 Meta...\n\n今天拿起来 Quest 3 发现系统自动更新了，更新之后没办法打开第三方输入法了，打开微信输入法还会直接让系统卡死自动重启... 系统自带的输入法还不支持中文，不知道怎么办\n\n以及 UI 也被大改了... 主观觉得新 UI 的这个渐变像是十年前流行的设计",
-    "views": 296,
+    "views": 297,
     "forwards": 1,
     "reply": {
       "id": 4849,
@@ -69247,7 +69247,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 427,
+    "views": 428,
     "forwards": 3,
     "images": [
       {
@@ -69266,7 +69266,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 317,
+    "views": 318,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -69296,14 +69296,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 807,
+    "views": 809,
     "forwards": 10
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1332,
+    "views": 1335,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -69325,7 +69325,7 @@
   {
     "id": 5019,
     "date": "2025-03-13T04:43:20",
-    "views": 294,
+    "views": 296,
     "forwards": 3,
     "images": [
       {
@@ -69344,7 +69344,7 @@
     "id": 5020,
     "date": "2025-03-13T05:32:56",
     "text": "至少 AquaDX 在用的这套 JVM 老框架没有在 Hello world 吞吐量上输给 Bun JS...",
-    "views": 304,
+    "views": 306,
     "forwards": 0,
     "media_group_id": 13934751814323477,
     "images": [
@@ -69374,14 +69374,14 @@
     "id": 5022,
     "date": "2025-03-14T18:48:15",
     "text": "syama: 最近一个节日是什么，要不要加一些节日彩蛋\n我: 清明节 🌚",
-    "views": 243,
+    "views": 245,
     "forwards": 0
   },
   {
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 357,
+    "views": 359,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -69415,7 +69415,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 234,
+    "views": 236,
     "forwards": 2,
     "images": [
       {
@@ -69434,7 +69434,7 @@
     "id": 5026,
     "date": "2025-03-16T05:45:06",
     "text": "折腾了好久终于能和 syama 远程拼机中二了，开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nsyama 买了台 tasoller+，然后我帮忙拼了台主机，但是因为各种差错折腾了一周才亮机\n\n最开始是一个朋友两周之后要送给 syama 一台 x99 板子，所以我围绕着这块主板配了一套其他的硬件... 结果买完这些 syama 急急不想等两周就又买了一块 x99 板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n拼好开机，首先是内存频率不对开机自检报错，换了内存之后自检报错 00 CPU 错误... 换了 CPU 还是一样。没工具没法测试，但是只有主板或者电源有可能是坏的了，所以叫了维修人工带电源过来测试，结果真的换了电源就能开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>折腾得 syama 好折磨的样子... 好自责，以后还是不给别人拼灵车机器了，家里没有工具也没办法排错嘛...</span></span>",
-    "views": 222,
+    "views": 225,
     "forwards": 1,
     "media_group_id": 13936831249867949,
     "images": [
@@ -69468,7 +69468,7 @@
     "id": 5028,
     "date": "2025-03-16T05:56:11",
     "text": "<span class=\"spoiler\"><span>以及发现 syama 家里真的没有任何家常工具 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 装机过程中发现没有然后赶快叫外卖买的东西包括：\n\n1. 螺丝刀\n2. aux 线\n3. 橡皮（用来擦金手指）\n4. usb hub\n5. 插线板\n6. 电源线/电饭锅线\n7. 主板螺丝\n8. 一根可以写字的笔（用来写退货条）\n9. 家常工具箱（内六扳手，锤子，etc）\n10. U盘（用来放系统盘）\n\n原本还觉得这么常见的东西肯定每个人家里都会有的... </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i> 哭哭",
-    "views": 214,
+    "views": 215,
     "forwards": 0,
     "reply": {
       "id": 5026,
@@ -69480,7 +69480,7 @@
     "id": 5029,
     "date": "2025-03-16T11:15:53",
     "text": "前几天去宠物店看到了好可爱的一对鹦鹉 qwq\n\n感觉有点可怜，只能在可能没有两立方米大的鸟笼里活动感觉会很无聊... <del>不过好像两立方米按鸟的体积等比例缩放的话差不多已经是人类的一个小 studio 公寓了吧</del> 好像不能这样算 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好喜欢看鸟，在宠物店看了好久才走。想要养鸟但是又不想把他们一直关在笼子里... 好矛盾，如果有花园可以投喂野生的鸟就好了",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 13936990031689701,
     "images": [
@@ -69530,7 +69530,7 @@
     "id": 5033,
     "date": "2025-03-16T13:07:14",
     "text": "AquaDX 真的被 DDoS 了... 抓包看似乎是用 SSDP 放大在打 8443 Billing 端口，被打的时候局域网 ping 路由器都有 2000ms 延迟\n\n服务器系统上有 ufw 可以屏蔽 1900 端口进来，但是似乎在流量进到系统之前家里的路由器就先撑不住了...\n\n不知道怎么办，在线求助 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 253,
+    "views": 254,
     "forwards": 3,
     "media_group_id": 13937043478141885,
     "images": [
@@ -69560,7 +69560,7 @@
     "id": 5035,
     "date": "2025-03-16T22:19:06",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n认真做了一次肉酱意面\n\n之前做意面一直是北美超懒猫做法，煮面然后微波炉热一罐酱热几个肉丸混在一起就好了。这次真的切了洋葱热了黄油炒了肉沫，还放了几片生火腿，虽然麻烦了很多但是确实有更好吃 qwq",
-    "views": 247,
+    "views": 248,
     "forwards": 4,
     "media_group_id": 13937308371538373,
     "images": [
@@ -69590,7 +69590,7 @@
     "id": 5037,
     "date": "2025-03-17T07:06:44",
     "text": "聊聊：小桂桂脑袋尖尖的\n\n...看了一下还真是 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "images": [
       {
@@ -69609,7 +69609,7 @@
     "id": 5038,
     "date": "2025-03-17T11:43:38",
     "text": "众所周知 在图片上叠加水印的话，只要暴露了水印原本的样子就很容易逆向叠加来去水印了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 221,
+    "views": 222,
     "forwards": 4,
     "files": [
       {
@@ -69632,7 +69632,7 @@
     "id": 5039,
     "date": "2025-03-18T00:22:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nTracer 和 Celestium 来这里玩，做了炖鸡拉面！\n\n比较幸运，虽然没有提前准备但是冰箱里正好有五人份的鸡肉，而且炖鸡也不需要提前解冻什么 qwq\n\n如果上次去超市没有贪便宜多买一盒就惨惨了",
-    "views": 202,
+    "views": 203,
     "forwards": 1,
     "media_group_id": 13938058989712541,
     "images": [
@@ -69682,7 +69682,7 @@
     "id": 5043,
     "date": "2025-03-18T03:22:00",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 甘い夢溶けて目を瞑って\n♪ 覚めない様に祈っている\n\n♪ 思い浮かぶ何回忘れても\n♪ 残ったままで消えやしない\n♪ 生まれ変わったら消えやしない...\n\n人真的好矛盾，在研究着控制大模型的记忆的同时，明明自己的记忆都还没法控制——有忘记的事情想要回忆起，有记住的事情想要消去，实际上却两边都做不到...\n\n<span class=\"spoiler\"><span>「即使是重生 也无法消去」 吗</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 2,
     "files": [
       {
@@ -69704,7 +69704,7 @@
     "id": 5044,
     "date": "2025-03-18T03:58:15",
     "text": "啊啊 看 aquadx 群里 vc 在看 girls band cry 就进来看了一集，我真的超爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> 立即下载\n\n电波完全对上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "images": [
       {
@@ -69723,7 +69723,7 @@
     "id": 5045,
     "date": "2025-03-18T11:30:27",
     "text": "哇 我居然晚上十二点睡了、早上七点醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这两个月唯一一个作息正常的天",
-    "views": 213,
+    "views": 214,
     "forwards": 1,
     "images": [
       {
@@ -69742,7 +69742,7 @@
     "id": 5046,
     "date": "2025-03-18T13:50:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听哭了... 好心疼灯灯 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> \n\n♪ 隔てられたガラスは檻じゃなかったよ\n（将我与他人隔开的玻璃并非牢笼）\n♪ 傷つく僕を守ってくれていたのに\n（而是一直在保护伤痕累累的我）\n\n刚走出独自一人的气泡、创造出幸福耀眼的回忆，就要看着它被结束，仿佛只是一场梦... <span class=\"spoiler\"><span>面对着无法挽回的失去，也许更希望自己不曾拥有。这样的话，隔开我与世界的屏障确实在保护着我</span></span>",
-    "views": 227,
+    "views": 228,
     "forwards": 1,
     "files": [
       {
@@ -100133,7 +100133,7 @@
     "id": 7449,
     "date": "2025-12-13T02:36:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6100679789004199810.webp\">🌖</i> 259°<span class=\"spoiler\"><span>（12 月 11 日）</span></span>\n\n和 tracer 去看了 ALL OF EVANGELION 30 周年展，好多超级炫酷的原画、设定稿，还有结束之后大家在「恭喜真嗣」留言墙上留下的画，好不错好不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好喜欢 Eva 的设计语言，虽然已经三十年了但是放在今天也不会觉得过时。懂了，下次做网页就试试设计成 Eva 风好了\n\n因为是为数不多允许拍照的展，所以变身人形扫描仪把所有喜欢的原画都拍下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>（虽然之后还是在出口商店买了原画集，所以其实拍照并没有什么意义...）\n\n有点想三刷 Eva 了",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "media_group_id": 14124747270962341,
     "images": [
@@ -103945,7 +103945,7 @@
     "id": 7769,
     "date": "2026-01-29T15:28:05",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n熏肉三明治！\n\n这家超好吃，好吃到几乎每年都会获得 Best of XX 的奖项，有点厉害\n\n...不过因为搬家了，也许这是最后一次吃这家了。搬家之后还要重新探索新家周围的店，觉得又麻烦又有点期待",
-    "views": 280,
+    "views": 281,
     "forwards": 1,
     "media_group_id": 14157603885617205,
     "images": [
@@ -106687,7 +106687,7 @@
     "id": 7988,
     "date": "2026-03-07T20:22:54",
     "text": "唉 Affinity 还是不够好啊\n\nAffinity 里面有一个「Symbol」功能，大概就是把一个图形组变成一个变量，可以复制很多个，然后改变原本的图形的时候复制的也会一起改变（和 Unity Prefab 是同样的概念）\n\n然后我尝试做递归，把一个 Symbol 放进定义它自己的图形组里，Affinity 闪退了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 237,
+    "views": 241,
     "forwards": 1,
     "files": [
       {
@@ -106710,7 +106710,7 @@
     "id": 7989,
     "date": "2026-03-08T07:03:10",
     "text": "咦 一个小时消失了！<i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i>",
-    "views": 213,
+    "views": 215,
     "forwards": 2
   },
   {
@@ -106747,7 +106747,7 @@
     "id": 7992,
     "date": "2026-03-08T14:25:18",
     "text": "……?",
-    "views": 210,
+    "views": 211,
     "forwards": 3,
     "images": [
       {
@@ -106816,7 +106816,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 5,
     "media_group_id": 14184936480305877,
     "files": [
@@ -106851,7 +106851,7 @@
   {
     "id": 7999,
     "date": "2026-03-11T05:06:36",
-    "views": 154,
+    "views": 159,
     "forwards": 0,
     "images": [
       {
@@ -106869,7 +106869,7 @@
   {
     "id": 8000,
     "date": "2026-03-11T17:30:41",
-    "views": 119,
+    "views": 130,
     "forwards": 1,
     "images": [
       {
@@ -106888,7 +106888,7 @@
     "id": 8001,
     "date": "2026-03-11T18:18:04",
     "text": "真的每次每次去学校都能遇到好玩的活动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>\n\n这次是 capstone design 项目的展会，大家的项目都好有意思 qwq",
-    "views": 103,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 14186024678191165,
     "images": [
@@ -106998,7 +106998,7 @@
     "id": 8011,
     "date": "2026-03-11T22:25:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>",
-    "views": 75,
+    "views": 91,
     "forwards": 0,
     "files": [
       {
@@ -107014,5 +107014,16 @@
         "thumb": "media/8011.mp4_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 8012,
+    "date": "2026-03-12T04:05:20",
+    "text": "又到了植树节 qwq\n\n想起去年的频道树好好玩，不知道要不要重启一下（一方面想要让去年没参与的频道主可以参与，另一方面觉得同样的事情第二次会有点无聊... 怎么办呢）",
+    "views": 37,
+    "forwards": 0,
+    "reply": {
+      "id": 5017,
+      "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>"
+    }
   }
 ]
