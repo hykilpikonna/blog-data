@@ -72889,7 +72889,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1954,
+    "views": 1955,
     "forwards": 55
   },
   {
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6515,
+    "views": 6517,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -106687,7 +106687,7 @@
     "id": 7988,
     "date": "2026-03-07T20:22:54",
     "text": "唉 Affinity 还是不够好啊\n\nAffinity 里面有一个「Symbol」功能，大概就是把一个图形组变成一个变量，可以复制很多个，然后改变原本的图形的时候复制的也会一起改变（和 Unity Prefab 是同样的概念）\n\n然后我尝试做递归，把一个 Symbol 放进定义它自己的图形组里，Affinity 闪退了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 309,
+    "views": 310,
     "forwards": 1,
     "files": [
       {
@@ -106851,7 +106851,7 @@
   {
     "id": 7999,
     "date": "2026-03-11T05:06:36",
-    "views": 330,
+    "views": 331,
     "forwards": 0,
     "images": [
       {
@@ -106869,7 +106869,7 @@
   {
     "id": 8000,
     "date": "2026-03-11T17:30:41",
-    "views": 357,
+    "views": 359,
     "forwards": 1,
     "images": [
       {
@@ -106888,7 +106888,7 @@
     "id": 8001,
     "date": "2026-03-11T18:18:04",
     "text": "真的每次每次去学校都能遇到好玩的活动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>\n\n这次是 capstone design 项目的展会，大家的项目都好有意思 qwq",
-    "views": 411,
+    "views": 412,
     "forwards": 0,
     "media_group_id": 14186024678191165,
     "images": [
@@ -106998,7 +106998,7 @@
     "id": 8011,
     "date": "2026-03-11T22:25:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>",
-    "views": 531,
+    "views": 533,
     "forwards": 0,
     "files": [
       {
@@ -107019,7 +107019,7 @@
     "id": 8012,
     "date": "2026-03-12T04:05:20",
     "text": "又到了植树节 qwq\n\n想起去年的频道树好好玩，不知道要不要重启一下（一方面想要让去年没参与的频道主可以参与，另一方面觉得同样的事情第二次会有点无聊... 怎么办呢）",
-    "views": 607,
+    "views": 609,
     "forwards": 0,
     "reply": {
       "id": 5017,
@@ -107030,7 +107030,7 @@
     "id": 8013,
     "date": "2026-03-12T06:50:39",
     "text": "又到了植树节！想和大家一起再种一颗 tgcn 频道树🌳！（这次有更多功能可以玩哦~）\n\n这里是 小桂桂的回忆录 📒，是频道树的树根 🌳\n\n（如果你也有公开频道，想成为这个频道的树叶的话，就点击下面的「成为树叶」吧！ > <） <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fazaneko&rhash=d96b84e483dc30\">‎</a>",
-    "views": 718,
+    "views": 719,
     "forwards": 8,
     "forwarded_from": {
       "name": "🌲 TGCN 植树机器人 🌲",
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1240,
+    "views": 1243,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107051,7 +107051,7 @@
   {
     "id": 8015,
     "date": "2026-03-12T18:43:51",
-    "views": 429,
+    "views": 430,
     "forwards": 1,
     "images": [
       {
@@ -107070,7 +107070,7 @@
     "id": 8016,
     "date": "2026-03-13T01:24:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n做了一天一夜的味噌豚骨拉面！\n\n这次没有用现成汤底，而是从骨筒开始，加上聊聊熬的猪油用高压锅熬超浓骨汤，大火煮白，再用芝麻油炒姜蒜泥和味噌调味和骨汤混在一起，再加入味玉麻竹玉米和骨筒上拆下来的肉 qwq\n\n感觉完全还原了餐厅的味道！（虽然好像有点太浓了，下次感觉这些料可以做两顿/六人份）",
-    "views": 437,
+    "views": 439,
     "forwards": 4,
     "media_group_id": 14186920450049317,
     "images": [
@@ -107180,7 +107180,7 @@
     "id": 8026,
     "date": "2026-03-13T07:59:33",
     "text": "随着最后一个时区离开 3/12，今年的频道树也种好了！是时候把它封印起来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>\n\n不过浇水和树洞大概会继续开放哦！\n\n（实际上这是一个定时消息，我大概已经睡着啦，所以明早才会有这次的分析 qwq）",
-    "views": 408,
+    "views": 412,
     "forwards": 0,
     "reply": {
       "id": 8013,
@@ -107191,13 +107191,13 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 2383,
+    "views": 2405,
     "forwards": 24
   },
   {
     "id": 8028,
     "date": "2026-03-14T23:54:59",
-    "views": 284,
+    "views": 289,
     "forwards": 2,
     "media_group_id": 14188259998768245,
     "images": [
@@ -107247,7 +107247,7 @@
     "id": 8032,
     "date": "2026-03-15T22:45:28",
     "text": "站起来了！（好长！",
-    "views": 158,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 14188917830126149,
     "files": [
