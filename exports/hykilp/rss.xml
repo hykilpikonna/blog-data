@@ -12,7 +12,14 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Mar 2026 03:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 04:50:15 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #8034</title>
+      <link>https://aza.moe/life?post=8034</link>
+      <description>&lt;p&gt;家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！&lt;/p&gt;
+&lt;p&gt;Wii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库&lt;a href="https://github.com/MewoLab/Nunchuck2GF"&gt;写一个 100 行的 HID 固件&lt;/a&gt;就好啦 qwq&lt;/p&gt;</description>
+      <guid isPermaLink="false">8034</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #8032</title>
       <link>https://aza.moe/life?post=8032</link>

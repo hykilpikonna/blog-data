@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-03-17T03:16:40.972861+00:00</updated>
+  <updated>2026-03-17T04:50:15.419618+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8034</id>
+    <title>小桂桂的回忆录 📒 #8034</title>
+    <updated>2026-03-17T04:28:19+00:00</updated>
+    <content>&lt;p&gt;家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！&lt;/p&gt;
+&lt;p&gt;Wii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库&lt;a href="https://github.com/MewoLab/Nunchuck2GF"&gt;写一个 100 行的 HID 固件&lt;/a&gt;就好啦 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8034" rel="alternate"/>
+  </entry>
   <entry>
     <id>8032</id>
     <title>小桂桂的回忆录 📒 #8032</title>
