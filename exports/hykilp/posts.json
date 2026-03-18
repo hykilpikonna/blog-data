@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8532,
+    "views": 8533,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -105444,7 +105444,7 @@
     "id": 7889,
     "date": "2026-02-15T21:02:58",
     "text": "猫猫睡觉",
-    "views": 243,
+    "views": 244,
     "forwards": 0,
     "reply": {
       "id": 7880,
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1371,
+    "views": 1379,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,13 +107191,13 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 3035,
+    "views": 3057,
     "forwards": 25
   },
   {
     "id": 8028,
     "date": "2026-03-14T23:54:59",
-    "views": 356,
+    "views": 357,
     "forwards": 2,
     "media_group_id": 14188259998768245,
     "images": [
@@ -107247,7 +107247,7 @@
     "id": 8032,
     "date": "2026-03-15T22:45:28",
     "text": "站起来了！（好长！",
-    "views": 272,
+    "views": 274,
     "forwards": 2,
     "media_group_id": 14188917830126149,
     "files": [
@@ -107282,7 +107282,7 @@
     "id": 8034,
     "date": "2026-03-17T04:28:19",
     "text": "家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！\n\nWii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库<a href=\"https://github.com/MewoLab/Nunchuck2GF\">写一个 100 行的 HID 固件</a>就好啦 qwq",
-    "views": 232,
+    "views": 234,
     "forwards": 0,
     "media_group_id": 14189773592335341,
     "images": [
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 799,
+    "views": 808,
     "forwards": 4,
     "images": [
       {
@@ -107350,7 +107350,7 @@
   {
     "id": 8039,
     "date": "2026-03-18T05:47:25",
-    "views": 126,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 14190502766583605,
     "images": [
@@ -107390,7 +107390,7 @@
     "id": 8042,
     "date": "2026-03-18T06:01:02",
     "text": "好累... 为什么每次我开坑想要做什么都会低估这件事需要的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 119,
+    "views": 129,
     "forwards": 0
   }
 ]
