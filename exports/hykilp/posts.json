@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6521,
+    "views": 6522,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1422,
+    "views": 1427,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 3353,
+    "views": 3378,
     "forwards": 26
   },
   {
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 873,
+    "views": 874,
     "forwards": 4,
     "images": [
       {
@@ -107350,7 +107350,7 @@
   {
     "id": 8039,
     "date": "2026-03-18T05:47:25",
-    "views": 204,
+    "views": 205,
     "forwards": 0,
     "media_group_id": 14190502766583605,
     "images": [
@@ -107390,14 +107390,14 @@
     "id": 8042,
     "date": "2026-03-18T06:01:02",
     "text": "好累... 为什么每次我开坑想要做什么都会低估这件事需要的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 207,
+    "views": 208,
     "forwards": 0
   },
   {
     "id": 8043,
     "date": "2026-03-18T15:27:16",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 多想要张开双手触及 宇宙的边缘\n♪ 却在合理与自由之间 给自己设边界\n♪ 若只身一人一再涉险 也到不了多远\n♪ 反复自我催眠\n♪ 平凡也算一种 和解\n\n每次被做不完的事情累到崩溃的时候都会去听这首歌，似乎对我来说已经是每年都会发生几次的事情了\n\n不知道为什么无论累倒多少次还依然不想放弃任何一件想做的事... <span class=\"spoiler\"><span>也许我实际上还不想接受自己的平凡，还不想变成无聊的大人吧</span></span>",
-    "views": 165,
+    "views": 168,
     "forwards": 1,
     "files": [
       {
@@ -107419,7 +107419,7 @@
     "id": 8044,
     "date": "2026-03-19T05:34:11",
     "text": "配好 gitadora DM 了！好玩喵\n\n从二手店 $250 收了一套 td6 电子鼓，midi 接到电脑上，又收了一个显示器，设计了一个挂到天花板的挂钩，再把街机 hdd 和本地服务器跑起来，终于玩上 DM 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n马上就有可以吉他和鼓联动的完整 gitadora 配置了，虽然还有几个问题要解决...\n\n1. 现在没有第二台可以跑街机的电脑，所以没法同时跑 gf 和 dm... 打算在闲置的服务器上插两张显卡进行 pcie 穿透。2. 这个吊显示器方案会斜而且没办法矫正，想要重新设计。3. 现在选歌刷卡输密码要掏出物理大键盘，好麻烦\n\n明天再继续想怎么办好了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 103,
+    "views": 109,
     "forwards": 1,
     "media_group_id": 14191187613811525,
     "images": [
