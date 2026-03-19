@@ -97702,7 +97702,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 406,
+    "views": 407,
     "forwards": 3,
     "reply": {
       "id": 7256,
@@ -97713,7 +97713,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 386,
+    "views": 387,
     "forwards": 3,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97748,8 +97748,8 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 349,
-    "forwards": 0,
+    "views": 350,
+    "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
       "url": "https://t.me/hykilpikonna"
@@ -97798,7 +97798,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 322,
+    "views": 323,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -97826,7 +97826,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 352,
+    "views": 353,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -97906,7 +97906,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 339,
+    "views": 340,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97929,7 +97929,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 356,
+    "views": 357,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97951,7 +97951,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 392,
+    "views": 393,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97962,7 +97962,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 456,
+    "views": 457,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98062,14 +98062,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 405,
+    "views": 406,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 406,
+    "views": 407,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98080,7 +98080,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 394,
+    "views": 395,
     "forwards": 4,
     "images": [
       {
@@ -98709,7 +98709,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 298,
+    "views": 299,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -106851,7 +106851,7 @@
   {
     "id": 7999,
     "date": "2026-03-11T05:06:36",
-    "views": 349,
+    "views": 350,
     "forwards": 0,
     "images": [
       {
@@ -106869,7 +106869,7 @@
   {
     "id": 8000,
     "date": "2026-03-11T17:30:41",
-    "views": 379,
+    "views": 380,
     "forwards": 1,
     "images": [
       {
@@ -106888,7 +106888,7 @@
     "id": 8001,
     "date": "2026-03-11T18:18:04",
     "text": "真的每次每次去学校都能遇到好玩的活动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>\n\n这次是 capstone design 项目的展会，大家的项目都好有意思 qwq",
-    "views": 432,
+    "views": 433,
     "forwards": 0,
     "media_group_id": 14186024678191165,
     "images": [
@@ -107070,7 +107070,7 @@
     "id": 8016,
     "date": "2026-03-13T01:24:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n做了一天一夜的味噌豚骨拉面！\n\n这次没有用现成汤底，而是从骨筒开始，加上聊聊熬的猪油用高压锅熬超浓骨汤，大火煮白，再用芝麻油炒姜蒜泥和味噌调味和骨汤混在一起，再加入味玉麻竹玉米和骨筒上拆下来的肉 qwq\n\n感觉完全还原了餐厅的味道！（虽然好像有点太浓了，下次感觉这些料可以做两顿/六人份）",
-    "views": 488,
+    "views": 491,
     "forwards": 4,
     "media_group_id": 14186920450049317,
     "images": [
@@ -107180,7 +107180,7 @@
     "id": 8026,
     "date": "2026-03-13T07:59:33",
     "text": "随着最后一个时区离开 3/12，今年的频道树也种好了！是时候把它封印起来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>\n\n不过浇水和树洞大概会继续开放哦！\n\n（实际上这是一个定时消息，我大概已经睡着啦，所以明早才会有这次的分析 qwq）",
-    "views": 489,
+    "views": 490,
     "forwards": 0,
     "reply": {
       "id": 8013,
@@ -107191,13 +107191,13 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 3229,
+    "views": 3243,
     "forwards": 26
   },
   {
     "id": 8028,
     "date": "2026-03-14T23:54:59",
-    "views": 371,
+    "views": 374,
     "forwards": 2,
     "media_group_id": 14188259998768245,
     "images": [
@@ -107247,7 +107247,7 @@
     "id": 8032,
     "date": "2026-03-15T22:45:28",
     "text": "站起来了！（好长！",
-    "views": 288,
+    "views": 295,
     "forwards": 2,
     "media_group_id": 14188917830126149,
     "files": [
@@ -107282,7 +107282,7 @@
     "id": 8034,
     "date": "2026-03-17T04:28:19",
     "text": "家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！\n\nWii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库<a href=\"https://github.com/MewoLab/Nunchuck2GF\">写一个 100 行的 HID 固件</a>就好啦 qwq",
-    "views": 249,
+    "views": 251,
     "forwards": 0,
     "media_group_id": 14189773592335341,
     "images": [
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 857,
+    "views": 860,
     "forwards": 4,
     "images": [
       {
@@ -107350,7 +107350,7 @@
   {
     "id": 8039,
     "date": "2026-03-18T05:47:25",
-    "views": 186,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14190502766583605,
     "images": [
@@ -107390,14 +107390,14 @@
     "id": 8042,
     "date": "2026-03-18T06:01:02",
     "text": "好累... 为什么每次我开坑想要做什么都会低估这件事需要的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 188,
+    "views": 196,
     "forwards": 0
   },
   {
     "id": 8043,
     "date": "2026-03-18T15:27:16",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 多想要张开双手触及 宇宙的边缘\n♪ 却在合理与自由之间 给自己设边界\n♪ 若只身一人一再涉险 也到不了多远\n♪ 反复自我催眠\n♪ 平凡也算一种 和解\n\n每次被做不完的事情累到崩溃的时候都会去听这首歌，似乎对我来说已经是每年都会发生几次的事情了\n\n不知道为什么无论累倒多少次还依然不想放弃任何一件想做的事... <span class=\"spoiler\"><span>也许我实际上还不想接受自己的平凡，还不想变成无聊的大人吧</span></span>",
-    "views": 124,
+    "views": 140,
     "forwards": 1,
     "files": [
       {
@@ -107414,5 +107414,120 @@
         "thumb": "media/8043.mp3_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 8044,
+    "date": "2026-03-19T05:34:11",
+    "text": "配好 gitadora DM 了！好玩喵\n\n从二手店 $250 收了一套 td6 电子鼓，midi 接到电脑上，又收了一个显示器，设计了一个挂到天花板的挂钩，再把街机 hdd 和本地服务器跑起来，终于玩上 DM 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n马上就有可以吉他和鼓联动的完整 gitadora 配置了，虽然还有几个问题要解决...\n\n1. 现在没有第二台可以跑街机的电脑，所以没法同时跑 gf 和 dm... 打算在闲置的服务器上插两张显卡进行 pcie 穿透。2. 这个吊显示器方案会斜而且没办法矫正，想要重新设计。3. 现在选歌刷卡输密码要掏出物理大键盘，好麻烦\n\n明天再继续想怎么办好了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
+    "views": 53,
+    "forwards": 1,
+    "media_group_id": 14191187613811525,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-19T05:33:48",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_05-33-48.jpg",
+        "url": "media/8044.jpg",
+        "size": 775157,
+        "thumb": "media/8044.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-03-19T05:33:51",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_05-33-51.jpg",
+        "url": "media/8045.jpg",
+        "size": 757181,
+        "thumb": "media/8045.jpg_thumb.jpg"
+      },
+      {
+        "width": 1996,
+        "height": 2560,
+        "date": "2026-03-19T05:33:53",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_05-33-53.jpg",
+        "url": "media/8046.jpg",
+        "size": 586412,
+        "thumb": "media/8046.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-03-19T03:14:51",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_03-14-51.jpg",
+        "url": "media/8047.jpg",
+        "size": 408466,
+        "thumb": "media/8047.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-03-19T05:33:55",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_05-33-55.jpg",
+        "url": "media/8048.jpg",
+        "size": 374356,
+        "thumb": "media/8048.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-19T05:33:59",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_05-33-59.jpg",
+        "url": "media/8049.jpg",
+        "size": 1441807,
+        "thumb": "media/8049.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-19T05:34:08",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_05-34-08.jpg",
+        "url": "media/8050.jpg",
+        "size": 602232,
+        "thumb": "media/8050.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-14T19:34:22",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-14_19-34-22.jpg",
+        "url": "media/8051.jpg",
+        "size": 1012950,
+        "thumb": "media/8051.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-19T05:34:03",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_05-34-03.jpg",
+        "url": "media/8052.jpg",
+        "size": 844074,
+        "thumb": "media/8052.jpg_thumb.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2026-03-19T05:34:11",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-19_05-34-11.jpg",
+        "url": "media/8053.jpg",
+        "size": 274242,
+        "thumb": "media/8053.jpg_thumb.jpg"
+      }
+    ],
+    "reply": {
+      "id": 8034,
+      "text": "家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！\n\nWii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库<a href=\"https://github.com/MewoLab/Nunchuck2GF\">写一个 100 行的 HID 固件</a>就好啦 qwq",
+      "thumb": "media/8034.jpg_thumb.jpg"
+    }
   }
 ]
