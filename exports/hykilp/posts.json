@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6520,
+    "views": 6521,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97442,21 +97442,21 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 583,
+    "views": 584,
     "forwards": 13
   },
   {
     "id": 7246,
     "date": "2025-11-17T03:14:13",
     "text": "呜呜 发现在日本买的便携吹风机带到中国之后没法用，因为是 110V\n\n想买一个同时兼容 110V 和 220V 的吹风机，但是能找到的所有吹风机都只兼容一个电压... 好难办 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 337,
+    "views": 338,
     "forwards": 1
   },
   {
     "id": 7247,
     "date": "2025-11-17T08:23:45",
     "text": "<a href=\"##鸡尾酒实验室\">#鸡尾酒实验室</a>\n因为家里打开了一瓶梅酒就正好试着调调酒，发现梅酒 + calpis 还是 + 姜汁都好不错 qwq\n\n（也试了 + 乌龙茶 / + 茉莉茶 但是并不是很喜欢）\n\n喝完酒大困困，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 328,
+    "views": 329,
     "forwards": 0,
     "media_group_id": 14106942604793301,
     "images": [
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1408,
+    "views": 1410,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,13 +107191,13 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 3214,
+    "views": 3229,
     "forwards": 26
   },
   {
     "id": 8028,
     "date": "2026-03-14T23:54:59",
-    "views": 370,
+    "views": 371,
     "forwards": 2,
     "media_group_id": 14188259998768245,
     "images": [
@@ -107247,7 +107247,7 @@
     "id": 8032,
     "date": "2026-03-15T22:45:28",
     "text": "站起来了！（好长！",
-    "views": 287,
+    "views": 288,
     "forwards": 2,
     "media_group_id": 14188917830126149,
     "files": [
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 851,
+    "views": 857,
     "forwards": 4,
     "images": [
       {
@@ -107350,7 +107350,7 @@
   {
     "id": 8039,
     "date": "2026-03-18T05:47:25",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 14190502766583605,
     "images": [
@@ -107390,14 +107390,14 @@
     "id": 8042,
     "date": "2026-03-18T06:01:02",
     "text": "好累... 为什么每次我开坑想要做什么都会低估这件事需要的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 186,
+    "views": 188,
     "forwards": 0
   },
   {
     "id": 8043,
     "date": "2026-03-18T15:27:16",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 多想要张开双手触及 宇宙的边缘\n♪ 却在合理与自由之间 给自己设边界\n♪ 若只身一人一再涉险 也到不了多远\n♪ 反复自我催眠\n♪ 平凡也算一种 和解\n\n每次被做不完的事情累到崩溃的时候都会去听这首歌，似乎对我来说已经是每年都会发生几次的事情了\n\n不知道为什么无论累倒多少次还依然不想放弃任何一件想做的事... <span class=\"spoiler\"><span>也许我实际上还不想接受自己的平凡，还不想变成无聊的大人吧</span></span>",
-    "views": 119,
+    "views": 124,
     "forwards": 1,
     "files": [
       {
