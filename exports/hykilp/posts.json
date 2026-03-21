@@ -73022,7 +73022,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 991,
+    "views": 992,
     "forwards": 2,
     "images": [
       {
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6522,
+    "views": 6523,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -106687,7 +106687,7 @@
     "id": 7988,
     "date": "2026-03-07T20:22:54",
     "text": "唉 Affinity 还是不够好啊\n\nAffinity 里面有一个「Symbol」功能，大概就是把一个图形组变成一个变量，可以复制很多个，然后改变原本的图形的时候复制的也会一起改变（和 Unity Prefab 是同样的概念）\n\n然后我尝试做递归，把一个 Symbol 放进定义它自己的图形组里，Affinity 闪退了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 329,
+    "views": 331,
     "forwards": 1,
     "files": [
       {
@@ -106710,14 +106710,14 @@
     "id": 7989,
     "date": "2026-03-08T07:03:10",
     "text": "咦 一个小时消失了！<i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i>",
-    "views": 307,
+    "views": 308,
     "forwards": 2
   },
   {
     "id": 7990,
     "date": "2026-03-08T13:51:43",
     "text": "感觉设计和工程完全是两个世界... 用工程软件做出好看的设计好难，同样的用设计软件做出能完美定义出生产规格和细节的生产稿也好难\n\n无论在什么领域都是，比如 Blender vs Onshape/Shapr、比如 Affinity vs 立创 EDA 面板模式\n\n今天想要定制一个孔位尺寸精准的亚克力板，用 Affinity 做完设计发现找厂商生产的时候把点阵图转成精确的生产稿是很难的事情... 立创 EDA 可以导入图片但是似乎也没办法把一个非矢量轮廓转成切割边框 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n所以又花了好久矢量化、对齐尺寸之类的，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 340,
+    "views": 341,
     "forwards": 2,
     "media_group_id": 14183823231330373,
     "images": [
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1554,
+    "views": 1558,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107180,7 +107180,7 @@
     "id": 8026,
     "date": "2026-03-13T07:59:33",
     "text": "随着最后一个时区离开 3/12，今年的频道树也种好了！是时候把它封印起来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>\n\n不过浇水和树洞大概会继续开放哦！\n\n（实际上这是一个定时消息，我大概已经睡着啦，所以明早才会有这次的分析 qwq）",
-    "views": 518,
+    "views": 519,
     "forwards": 0,
     "reply": {
       "id": 8013,
@@ -107191,13 +107191,13 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 3731,
+    "views": 3739,
     "forwards": 27
   },
   {
     "id": 8028,
     "date": "2026-03-14T23:54:59",
-    "views": 405,
+    "views": 406,
     "forwards": 2,
     "media_group_id": 14188259998768245,
     "images": [
@@ -107247,7 +107247,7 @@
     "id": 8032,
     "date": "2026-03-15T22:45:28",
     "text": "站起来了！（好长！",
-    "views": 345,
+    "views": 346,
     "forwards": 2,
     "media_group_id": 14188917830126149,
     "files": [
@@ -107282,7 +107282,7 @@
     "id": 8034,
     "date": "2026-03-17T04:28:19",
     "text": "家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！\n\nWii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库<a href=\"https://github.com/MewoLab/Nunchuck2GF\">写一个 100 行的 HID 固件</a>就好啦 qwq",
-    "views": 289,
+    "views": 290,
     "forwards": 0,
     "media_group_id": 14189773592335341,
     "images": [
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 956,
+    "views": 959,
     "forwards": 4,
     "images": [
       {
@@ -107350,7 +107350,7 @@
   {
     "id": 8039,
     "date": "2026-03-18T05:47:25",
-    "views": 246,
+    "views": 249,
     "forwards": 0,
     "media_group_id": 14190502766583605,
     "images": [
@@ -107390,14 +107390,14 @@
     "id": 8042,
     "date": "2026-03-18T06:01:02",
     "text": "好累... 为什么每次我开坑想要做什么都会低估这件事需要的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 252,
+    "views": 254,
     "forwards": 0
   },
   {
     "id": 8043,
     "date": "2026-03-18T15:27:16",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 多想要张开双手触及 宇宙的边缘\n♪ 却在合理与自由之间 给自己设边界\n♪ 若只身一人一再涉险 也到不了多远\n♪ 反复自我催眠\n♪ 平凡也算一种 和解\n\n每次被做不完的事情累到崩溃的时候都会去听这首歌，似乎对我来说已经是每年都会发生几次的事情了\n\n不知道为什么无论累倒多少次还依然不想放弃任何一件想做的事... <span class=\"spoiler\"><span>也许我实际上还不想接受自己的平凡，还不想变成无聊的大人吧</span></span>",
-    "views": 228,
+    "views": 230,
     "forwards": 1,
     "files": [
       {
@@ -107419,7 +107419,7 @@
     "id": 8044,
     "date": "2026-03-19T05:34:11",
     "text": "配好 gitadora DM 了！好玩喵\n\n从二手店 $250 收了一套 td6 电子鼓，midi 接到电脑上，又收了一个显示器，设计了一个挂到天花板的挂钩，再把街机 hdd 和本地服务器跑起来，终于玩上 DM 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n马上就有可以吉他和鼓联动的完整 gitadora 配置了，虽然还有几个问题要解决...\n\n1. 现在没有第二台可以跑街机的电脑，所以没法同时跑 gf 和 dm... 打算在闲置的服务器上插两张显卡进行 pcie 穿透。2. 这个吊显示器方案会斜而且没办法矫正，想要重新设计。3. 现在选歌刷卡输密码要掏出物理大键盘，好麻烦\n\n明天再继续想怎么办好了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 201,
+    "views": 203,
     "forwards": 1,
     "media_group_id": 14191187613811525,
     "images": [
@@ -107534,7 +107534,7 @@
     "id": 8054,
     "date": "2026-03-19T16:47:30",
     "text": "现在的软件啊... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 200,
+    "views": 202,
     "forwards": 3,
     "media_group_id": 14191510806460045,
     "images": [
@@ -107574,7 +107574,7 @@
     "id": 8057,
     "date": "2026-03-20T04:32:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （可能不是今天）\n炸鸡皮！还有烤鸡皮！\n\n炸鸡皮是第一次做，味道很不错！不过总感觉鸡皮这种很油的东西用油炸有点不太对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（虽然每次做鸡皮都会吐槽它真的很便宜，但是它真的很便宜，1kg $1 哇... 可惜不是每次去都有）",
-    "views": 175,
+    "views": 177,
     "forwards": 0,
     "media_group_id": 14191849317312709,
     "images": [
@@ -107634,7 +107634,7 @@
     "id": 8062,
     "date": "2026-03-20T22:00:24",
     "text": "哭哭 好累\n\n发现手上的 2080 显卡正好支持 vgpu（就是把一个显卡分给多个虚拟机的功能）就决定试试能不能用 vgpu 解决街机需要很多个性能要求不高的机器的问题\n\n结果在坐和放宽了一整天之后放弃了... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n最后虽然 vm 认显卡了，但是即使只是在桌面上每帧渲染也都要等几秒，经常黑屏卡住之类的。问了 vgpu 群群友也没有想法，不知道怎么办",
-    "views": 151,
+    "views": 155,
     "forwards": 1,
     "media_group_id": 14192352194150061,
     "images": [
@@ -107714,7 +107714,7 @@
     "id": 8069,
     "date": "2026-03-20T23:21:32",
     "text": "哇 降级系统之后完全工作了！\n\n感谢群友 <a href=\"https://t.me/rbqvq\">@rbqvq</a> 发现问题 qwq\n\n实际上所有步骤都对了，只不过我装的 PVE 9.1.1 太新了, 内核版本 6.17 支持还不是很好，宿主机驱动在一直崩溃。降级内核到 6.11 之后就好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 152,
+    "views": 156,
     "forwards": 2,
     "reply": {
       "id": 8062,
@@ -107737,7 +107737,7 @@
   {
     "id": 8070,
     "date": "2026-03-21T01:59:21",
-    "views": 138,
+    "views": 144,
     "forwards": 1,
     "media_group_id": 14192466892853637,
     "images": [
@@ -107787,7 +107787,7 @@
     "id": 8074,
     "date": "2026-03-21T06:25:05",
     "text": "有被天气的 scale 震撼到\n\n刚刚手机上的极光 app 给我发通知说可能能看到极光，就打开看了一下，发现只有 1% 的概率，实际上并没有看到极光\n\n想起一个月前想去看星星即兴开车往返每程 250km 的事情，然后再看一眼地图，发现即使开 250km 也依然离不开 10% 几率的区间。要开 800km (8h) 才能开到 20% 几率的绿色区间，然而那时候已经天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n要想到 >50% 概率的红色区间的话，需要开车 2000km (22h) 去 Pickle Lake... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 也差不多是开一般车道能到的最北的地方了，再向北谷歌地图就不工作了\n\n<span class=\"spoiler\"><span>好想哪天去看看</span></span>",
-    "views": 109,
+    "views": 118,
     "forwards": 1,
     "media_group_id": 14192594447730581,
     "images": [
