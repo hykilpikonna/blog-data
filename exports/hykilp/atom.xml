@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-03-20T22:24:07.057924+00:00</updated>
+  <updated>2026-03-21T00:28:36.496925+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8069</id>
+    <title>小桂桂的回忆录 📒 #8069</title>
+    <updated>2026-03-20T23:21:32+00:00</updated>
+    <content>&lt;p&gt;哇 降级系统之后完全工作了！&lt;/p&gt;
+&lt;p&gt;感谢群友 &lt;a href="https://t.me/rbqvq"&gt;@rbqvq&lt;/a&gt; 发现问题 qwq&lt;/p&gt;
+&lt;p&gt;实际上所有步骤都对了，只不过我装的 PVE 9.1.1 太新了, 内核版本 6.17 支持还不是很好，宿主机驱动在一直崩溃。降级内核到 6.11 之后就好啦 &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8069" rel="alternate"/>
+  </entry>
   <entry>
     <id>8062</id>
     <title>小桂桂的回忆录 📒 #8062</title>
