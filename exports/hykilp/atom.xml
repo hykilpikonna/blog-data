@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-03-22T18:22:38.839204+00:00</updated>
+  <updated>2026-03-22T20:21:28.773587+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8077</id>
+    <title>小桂桂的回忆录 📒 #8077</title>
+    <updated>2026-03-22T18:45:01+00:00</updated>
+    <content>&lt;p&gt;之前法拍还基本上是零元捡两台 R630，然后昨晚尝试开机... 原本以为是很简单的事情结果又踩进坑里了，凌晨五点才解决&lt;/p&gt;
+&lt;p&gt;首先通电之后管理界面密码不是默认的，没有写在任何地方。试试启动，虽然灯说正常但是 VGA 和串口都没有输出... 怀疑是不是我的 VGA 和串口的接收器有问题，用示波器点了一下也是毫无波动 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;按照维护手册上的方法把主板上的重置密码重置设置跳线切过去也没有用，依然需要密码&lt;/p&gt;
+&lt;p&gt;最后拔了一下 RTC 纽扣电池然后它就好了... 我怀疑是上一位所有者关掉了所有输出并且把硬件重置密码也关掉了（为什么这种 failsafe 要设计成可以被关掉的... &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;不过终于点亮啦 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8077" rel="alternate"/>
+  </entry>
   <entry>
     <id>8076</id>
     <title>小桂桂的回忆录 📒 #8076</title>
