@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-03-24T20:32:58.589526+00:00</updated>
+  <updated>2026-03-24T22:28:14.674806+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8090</id>
+    <title>小桂桂的回忆录 📒 #8090</title>
+    <updated>2026-03-24T20:42:35+00:00</updated>
+    <content>&lt;p&gt;画了一个 PCIe 拆分 PCB！&lt;/p&gt;
+&lt;p&gt;其实是改了 KCORES OldMonster 的开源拆分卡，因为淘宝闲鱼都完全找不到间隔两个槽位能插显卡的 x16 转 x4x4x4x4 物理 x16 的拆分卡（可能这个需求本身就比较小吧...&lt;/p&gt;
+&lt;p&gt;然后再一次理所当然地花了比画板子更多的时间配丝印 &lt;i class="custom-emoji" emoji-src="emoji/5325819430553263482.webm"&gt;🤩&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;总之验证完设计之后会把它开源出来的！&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8090" rel="alternate"/>
+  </entry>
   <entry>
     <id>8084</id>
     <title>小桂桂的回忆录 📒 #8084</title>
