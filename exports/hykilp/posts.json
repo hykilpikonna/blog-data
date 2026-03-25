@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5792,
+    "views": 5793,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -100969,7 +100969,7 @@
     "id": 7518,
     "date": "2025-12-19T04:49:45",
     "text": "Steam -100% 我还是第一次见\n\n<a href=\"https://store.steampowered.com/app/282800/100_Orange_Juice/\">https://store.steampowered.com/app/282800/100_Orange_Juice/</a>",
-    "views": 321,
+    "views": 322,
     "forwards": 5,
     "images": [
       {
@@ -100988,7 +100988,7 @@
     "id": 7519,
     "date": "2025-12-19T13:49:51",
     "text": "去了草津西の河原公園！\n\n河里流着热得下不去脚的温泉水、到处都冒着热蒸汽的同时，地上的雪还没有融化的迹象，好奇妙\n\n以及晚上的灯光照着这片云雾好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n山的尽头有一个露天温泉池的样子，而且没有人在泡诶。<del>好想哪天趁凌晨没人在这里泡真·露天温泉</del>",
-    "views": 252,
+    "views": 253,
     "forwards": 3,
     "media_group_id": 14129217535506077,
     "images": [
@@ -101098,7 +101098,7 @@
     "id": 7529,
     "date": "2025-12-19T14:55:37",
     "text": "谷歌好孬啊",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "images": [
       {
@@ -101117,14 +101117,14 @@
     "id": 7530,
     "date": "2025-12-19T16:24:11",
     "text": "发现冷天整理照片做颜色校准的时候我会下意识地把色温调暖... <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 241,
+    "views": 242,
     "forwards": 0
   },
   {
     "id": 7531,
     "date": "2025-12-19T17:10:06",
     "text": "从草津回家的路上去了臨江閣！好喜欢日式复古风木屋的走廊，尤其是下午的太阳光照进来的时候真的太好看了 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n而且是为数不多可以免费参观的地方，可能因为当初建造的时候是前桥市民捐款建的所以才免费吧。\n\n明治时期是天皇住过的旅店以及接待其他高官的地方，现在是可以按房间短期租借的多功能活动场所。比如说如果我想举办一个很有仪式感的下午茶会的话，可以花 JP￥5610 租一下午的茶室在里面举办，没钱的话可以花 JP￥920 租六畳的敷次の間，好不错呀 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没想到现在花 JP￥5090 就可以在曾经接待明治天皇的无价房间里睡一整天，不得不感叹时代真的变了",
-    "views": 245,
+    "views": 246,
     "forwards": 0,
     "media_group_id": 14129313654791061,
     "images": [
@@ -106140,7 +106140,7 @@
     "id": 7949,
     "date": "2026-02-26T00:26:17",
     "text": "考完了期中\n\n计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......\n\n我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...\n\n另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了\n\n结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完",
-    "views": 312,
+    "views": 313,
     "forwards": 1,
     "images": [
       {
@@ -106816,7 +106816,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 413,
+    "views": 414,
     "forwards": 5,
     "media_group_id": 14184936480305877,
     "files": [
@@ -106869,7 +106869,7 @@
   {
     "id": 8000,
     "date": "2026-03-11T17:30:41",
-    "views": 396,
+    "views": 397,
     "forwards": 1,
     "images": [
       {
@@ -106888,7 +106888,7 @@
     "id": 8001,
     "date": "2026-03-11T18:18:04",
     "text": "真的每次每次去学校都能遇到好玩的活动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>\n\n这次是 capstone design 项目的展会，大家的项目都好有意思 qwq",
-    "views": 447,
+    "views": 448,
     "forwards": 0,
     "media_group_id": 14186024678191165,
     "images": [
@@ -106998,7 +106998,7 @@
     "id": 8011,
     "date": "2026-03-11T22:25:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>",
-    "views": 575,
+    "views": 576,
     "forwards": 0,
     "files": [
       {
@@ -107019,7 +107019,7 @@
     "id": 8012,
     "date": "2026-03-12T04:05:20",
     "text": "又到了植树节 qwq\n\n想起去年的频道树好好玩，不知道要不要重启一下（一方面想要让去年没参与的频道主可以参与，另一方面觉得同样的事情第二次会有点无聊... 怎么办呢）",
-    "views": 657,
+    "views": 658,
     "forwards": 0,
     "reply": {
       "id": 5017,
@@ -107030,7 +107030,7 @@
     "id": 8013,
     "date": "2026-03-12T06:50:39",
     "text": "又到了植树节！想和大家一起再种一颗 tgcn 频道树🌳！（这次有更多功能可以玩哦~）\n\n这里是 小桂桂的回忆录 📒，是频道树的树根 🌳\n\n（如果你也有公开频道，想成为这个频道的树叶的话，就点击下面的「成为树叶」吧！ > <） <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fazaneko&rhash=d96b84e483dc30\">‎</a>",
-    "views": 793,
+    "views": 795,
     "forwards": 8,
     "forwarded_from": {
       "name": "🌲 TGCN 植树机器人 🌲",
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1643,
+    "views": 1646,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107051,7 +107051,7 @@
   {
     "id": 8015,
     "date": "2026-03-12T18:43:51",
-    "views": 498,
+    "views": 499,
     "forwards": 1,
     "images": [
       {
@@ -107070,7 +107070,7 @@
     "id": 8016,
     "date": "2026-03-13T01:24:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n做了一天一夜的味噌豚骨拉面！\n\n这次没有用现成汤底，而是从骨筒开始，加上聊聊熬的猪油用高压锅熬超浓骨汤，大火煮白，再用芝麻油炒姜蒜泥和味噌调味和骨汤混在一起，再加入味玉麻竹玉米和骨筒上拆下来的肉 qwq\n\n感觉完全还原了餐厅的味道！（虽然好像有点太浓了，下次感觉这些料可以做两顿/六人份）",
-    "views": 521,
+    "views": 522,
     "forwards": 4,
     "media_group_id": 14186920450049317,
     "images": [
@@ -107180,7 +107180,7 @@
     "id": 8026,
     "date": "2026-03-13T07:59:33",
     "text": "随着最后一个时区离开 3/12，今年的频道树也种好了！是时候把它封印起来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>\n\n不过浇水和树洞大概会继续开放哦！\n\n（实际上这是一个定时消息，我大概已经睡着啦，所以明早才会有这次的分析 qwq）",
-    "views": 536,
+    "views": 537,
     "forwards": 0,
     "reply": {
       "id": 8013,
@@ -107191,13 +107191,13 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4130,
+    "views": 4138,
     "forwards": 27
   },
   {
     "id": 8028,
     "date": "2026-03-14T23:54:59",
-    "views": 421,
+    "views": 422,
     "forwards": 2,
     "media_group_id": 14188259998768245,
     "images": [
@@ -107247,7 +107247,7 @@
     "id": 8032,
     "date": "2026-03-15T22:45:28",
     "text": "站起来了！（好长！",
-    "views": 370,
+    "views": 371,
     "forwards": 2,
     "media_group_id": 14188917830126149,
     "files": [
@@ -107282,7 +107282,7 @@
     "id": 8034,
     "date": "2026-03-17T04:28:19",
     "text": "家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！\n\nWii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库<a href=\"https://github.com/MewoLab/Nunchuck2GF\">写一个 100 行的 HID 固件</a>就好啦 qwq",
-    "views": 317,
+    "views": 318,
     "forwards": 0,
     "media_group_id": 14189773592335341,
     "images": [
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 1031,
+    "views": 1033,
     "forwards": 4,
     "images": [
       {
@@ -107534,7 +107534,7 @@
     "id": 8054,
     "date": "2026-03-19T16:47:30",
     "text": "现在的软件啊... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 239,
+    "views": 240,
     "forwards": 3,
     "media_group_id": 14191510806460045,
     "images": [
@@ -107574,7 +107574,7 @@
     "id": 8057,
     "date": "2026-03-20T04:32:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （可能不是今天）\n炸鸡皮！还有烤鸡皮！\n\n炸鸡皮是第一次做，味道很不错！不过总感觉鸡皮这种很油的东西用油炸有点不太对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（虽然每次做鸡皮都会吐槽它真的很便宜，但是它真的很便宜，1kg $1 哇... 可惜不是每次去都有）",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "media_group_id": 14191849317312709,
     "images": [
@@ -107634,7 +107634,7 @@
     "id": 8062,
     "date": "2026-03-20T22:00:24",
     "text": "哭哭 好累\n\n发现手上的 2080 显卡正好支持 vgpu（就是把一个显卡分给多个虚拟机的功能）就决定试试能不能用 vgpu 解决街机需要很多个性能要求不高的机器的问题\n\n结果在坐和放宽了一整天之后放弃了... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n最后虽然 vm 认显卡了，但是即使只是在桌面上每帧渲染也都要等几秒，经常黑屏卡住之类的。问了 vgpu 群群友也没有想法，不知道怎么办",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "media_group_id": 14192352194150061,
     "images": [
@@ -107714,7 +107714,7 @@
     "id": 8069,
     "date": "2026-03-20T23:21:32",
     "text": "哇 降级系统之后完全工作了！\n\n感谢群友 <a href=\"https://t.me/rbqvq\">@rbqvq</a> 发现问题 qwq\n\n实际上所有步骤都对了，只不过我装的 PVE 9.1.1 太新了, 内核版本 6.17 支持还不是很好，宿主机驱动在一直崩溃。降级内核到 6.11 之后就好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 3,
     "reply": {
       "id": 8062,
@@ -107737,7 +107737,7 @@
   {
     "id": 8070,
     "date": "2026-03-21T01:59:21",
-    "views": 240,
+    "views": 242,
     "forwards": 1,
     "media_group_id": 14192466892853637,
     "images": [
@@ -107787,7 +107787,7 @@
     "id": 8074,
     "date": "2026-03-21T06:25:05",
     "text": "有被天气的 scale 震撼到\n\n刚刚手机上的极光 app 给我发通知说可能能看到极光，就打开看了一下，发现只有 1% 的概率，实际上并没有看到极光\n\n想起一个月前想去看星星即兴开车往返每程 250km 的事情，然后再看一眼地图，发现即使开 250km 也依然离不开 10% 几率的区间。要开 800km (8h) 才能开到 20% 几率的绿色区间，然而那时候已经天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n要想到 >50% 概率的红色区间的话，需要开车 2000km (22h) 去 Pickle Lake... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 也差不多是开一般车道能到的最北的地方了，再向北谷歌地图就不工作了\n\n<span class=\"spoiler\"><span>好想哪天去看看</span></span>",
-    "views": 253,
+    "views": 258,
     "forwards": 1,
     "media_group_id": 14192594447730581,
     "images": [
@@ -107822,7 +107822,7 @@
     "id": 8076,
     "date": "2026-03-22T12:37:20",
     "text": "因为油价大涨，很难得的加拿大路上没车\n\n可惜也正因为油价大涨，我也不舍得开得很快了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 243,
+    "views": 246,
     "forwards": 1,
     "images": [
       {
@@ -107841,7 +107841,7 @@
     "id": 8077,
     "date": "2026-03-22T18:45:01",
     "text": "之前法拍还基本上是零元捡两台 R630，然后昨晚尝试开机... 原本以为是很简单的事情结果又踩进坑里了，凌晨五点才解决\n\n首先通电之后管理界面密码不是默认的，没有写在任何地方。试试启动，虽然灯说正常但是 VGA 和串口都没有输出... 怀疑是不是我的 VGA 和串口的接收器有问题，用示波器点了一下也是毫无波动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n按照维护手册上的方法把主板上的重置密码重置设置跳线切过去也没有用，依然需要密码\n\n最后拔了一下 RTC 纽扣电池然后它就好了... 我怀疑是上一位所有者关掉了所有输出并且把硬件重置密码也关掉了（为什么这种 failsafe 要设计成可以被关掉的... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过终于点亮啦 qwq",
-    "views": 195,
+    "views": 201,
     "forwards": 1,
     "media_group_id": 14193640812339189,
     "images": [
@@ -107921,7 +107921,7 @@
     "id": 8084,
     "date": "2026-03-23T01:35:01",
     "text": "和猫猫一起看小鸟 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 185,
+    "views": 193,
     "forwards": 2,
     "media_group_id": 14193837614158741,
     "images": [
@@ -107991,7 +107991,7 @@
     "id": 8090,
     "date": "2026-03-24T20:42:35",
     "text": "画了一个 PCIe 拆分 PCB！\n\n其实是改了 KCORES OldMonster 的开源拆分卡，因为淘宝闲鱼都完全找不到间隔两个槽位能插显卡的 x16 转 x4x4x4x4 物理 x16 的拆分卡（可能这个需求本身就比较小吧...\n\n然后再一次理所当然地花了比画板子更多的时间配丝印 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n总之验证完设计之后会把它开源出来的！",
-    "views": 112,
+    "views": 135,
     "forwards": 0,
     "media_group_id": 14195079641159133,
     "images": [
@@ -108034,6 +108034,36 @@
         "url": "media/8093.jpg",
         "size": 483741,
         "thumb": "media/8093.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8094,
+    "date": "2026-03-25T11:02:24",
+    "text": "一时兴起和 ppt 和 ellie 一起开车 550km 去了一趟 windsor <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n刚刚回到家，之后再整理照片吧，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
+    "views": 58,
+    "forwards": 0,
+    "media_group_id": 14195492356678253,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2026-03-25T11:02:22",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-25_11-02-22.jpg",
+        "url": "media/8094.jpg",
+        "size": 265929,
+        "thumb": "media/8094.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2026-03-25T11:02:24",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-25_11-02-24.jpg",
+        "url": "media/8095.jpg",
+        "size": 246871,
+        "thumb": "media/8095.jpg_thumb.jpg"
       }
     ]
   }
