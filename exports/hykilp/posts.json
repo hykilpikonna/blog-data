@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8536,
+    "views": 8537,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -103486,7 +103486,7 @@
     "id": 7730,
     "date": "2026-01-18T19:23:23",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n在新的家做的第一顿饭是方便面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n（聊聊要了 extra 肉肉）\n\n以及在想，方便面虽然说是 \"instant ramen\"，但是实际上也并不是瞬间就能煮好，煮的时间也和一般挂面差不多...  <del>有没有可能真的做一个瞬间煮好的方便面呢？比如进行一次可控爆炸瞬间把所有水和面热熟</del>",
-    "views": 312,
+    "views": 313,
     "forwards": 1,
     "images": [
       {
@@ -103505,7 +103505,7 @@
     "id": 7731,
     "date": "2026-01-18T22:18:47",
     "text": "绝望...\n\n不知道周三顶着 5.8cm 的雪怎么上课\n\n<del>不过好消息是，安省规定雪停后的 24 小时内必须扫雪，如果 24 小时内又下雪了的话就按新的停雪时间算，所以如果每天都下雪就永远不用扫雪了</del>",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "images": [
       {
@@ -103524,7 +103524,7 @@
     "id": 7732,
     "date": "2026-01-19T07:17:10",
     "text": "amazon 处理事情的方式太奇妙了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n刚刚打开 amazon 发现所有平台都被登出了，重新登录之后要求换密码，进去之后发现我前天下的订单在订单列表里看不到了，新家的地址也谜之消失了...\n\n还以为是 db 回档了之类的，但是问了一下其他在加拿大的朋友和在 amazon 工作的朋友都说没有问题，那是为什么呢？\n\n问了一下客服，客服说最近给新地址下单贵的东西被标记为账号被偷了（？？）\n\n首先 $272 的铲雪机算哪门子贵的东西，其次为什么恢复了账号之后会删掉订单和地址呀？（而且订单里的东西都已经送到了......）",
-    "views": 287,
+    "views": 288,
     "forwards": 0,
     "images": [
       {
@@ -103543,7 +103543,7 @@
     "id": 7733,
     "date": "2026-01-20T00:51:23",
     "text": "终于调好了完美的 iPad thin client 方案，可以不用带电脑去学校了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n之前因为默认的 sunshine/moonlight 远程桌面不能自动适配分辨率，我就去试了一下用 Windows RDP... 结果折腾了超级久把系统搞坏了又修好了还依然不能用（现在是抓包看到连接进来之后立即被 TCP RST...）\n\n然后就放弃 RDP 了，找找其他方案，找到了 Apollo (sunshine fork) 和 Void Link (moonlight fork)。一个增加了自适配分辨率的虚拟显示器驱动，另一个增加了多点触摸适配，这两个加起来就是现在这个完美的 windows 触屏远程桌面方案啦！\n\n还是开源软件好，自己想要什么原版没有的功能 fork 就好了",
-    "views": 308,
+    "views": 309,
     "forwards": 4,
     "reply": {
       "id": 7698,
@@ -103571,7 +103571,7 @@
     "id": 7734,
     "date": "2026-01-20T22:13:11",
     "text": "换 ebox 了！说说体验吧\n\n首先是终于有 ipv6 了，每台设备都有公网 ip 好不错！\n\n其次网络设备也很不错，之前用 Bell 的时候给的是一个带光纤的路由器，所以如果想用自己的路由器就只能自己买光猫棒... 相比之下 EBox 是直接给了一个 10G ONT，想接自己的路由器直接用它接就可以了（我接了豆腐球给我的 MikroTik hAP ac，好用喵感谢豆腐）\n\n不过激活体验真的很孬，我 12.28 开的账号居然 1.20 才有人来安装... 明明只要给我 ONT 我自己就会装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n网络线路的话，是 1 gbps 下 750 mbps 上的套餐，实测有线上下都在 700 mbps 左右。\n\n以及确实所有路由都要绕蒙特利尔，所以增加了 10 ms 的延迟，从之前的 2ms 变成了 11ms... 好像也不影响什么，反而因为和很多云服务 ISP 有直连的 peering 所以跳转次数更少了，测了全球连进来的延迟也不比之前差\n\n总之还很满意喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 291,
+    "views": 292,
     "forwards": 3,
     "media_group_id": 14151577535205573,
     "images": [
@@ -104179,7 +104179,7 @@
     "id": 7786,
     "date": "2026-02-01T13:19:18",
     "text": "进行了一次来回 7h 500km 说走就走的看星星旅行！\n\n昨天在 persona 5 里面玩到了大家去池袋满天 planetarium 看星星的剧情，让我也好想看星星了。看了一眼窗外发现今天居然正好没有云，是一两个月都难得一次的完全晴天...\n\n但是窗外却没有看到很多星星，觉得是不是这里光污染太亮了，就查了一下哪里光污染最小，把一些可能在紧急情况用上的生存储备放进后备箱就出发了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n开车三个小时到了之后发现也并没有看到银河，星星也只能看到比较亮的... 下车看到自己的影子才发现，原来今天正好是一个月里月亮最圆最亮的时候，即使到了没有光污染的地方月亮本身的光污染也会让我看不到星星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n然后问了流浪猫，才知道原来冬天即使没有光污染没有云没有月亮也看不到银河，因为在地球对面... 好好笑。不过也不后悔啦，没看到星星也挺有趣的 qwq\n\n（以及真的感谢聊聊愿意跟我一起说走就走... 回程的时候我已经开着车睡着了，如果不是聊聊喊了一下以及帮我开后半程的话我应该已经撞进雪里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 呜呜）",
-    "views": 289,
+    "views": 290,
     "forwards": 3,
     "media_group_id": 14159615671304589,
     "images": [
@@ -104779,7 +104779,7 @@
     "id": 7836,
     "date": "2026-02-09T19:50:39",
     "text": "哭哭\n\n想要和更多人分享全球网速测试的结果，就<a href=\"https://www.reddit.com/r/ebox/comments/1qzvthq/global_speedtest_benchmark_ebox_vs_bell_in/\">发到 reddit 上了</a>... 不知道为什么被 ratio 了\n\n他们好像是觉得 3gbps plan 连到全世界都应该有接近 3gbps...? 不懂，总之对 reddit 社群好失望",
-    "views": 282,
+    "views": 283,
     "forwards": 3,
     "reply": {
       "id": 7835,
@@ -104802,7 +104802,7 @@
     "id": 7837,
     "date": "2026-02-09T22:09:18",
     "text": "25 分钟！はし好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 264,
+    "views": 265,
     "forwards": 0,
     "files": [
       {
@@ -104825,7 +104825,7 @@
     "id": 7838,
     "date": "2026-02-10T03:09:13",
     "text": "认真整理了地下室的走线！\n\n把上一任租客的 cat5e 转接板上的四根线改成了 cat6a 水晶头、并且把所有网线都替换成了自己打的长度正好的完美网线（强迫症这一块... <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>）\n\n然后用螺钉把猫和路由器和交换机挂在墙上了。AP 没有挂在墙上是因为它没有螺钉的葫芦孔，打算等 3D 打印机架好之后 3D 打印一个支架",
-    "views": 282,
+    "views": 283,
     "forwards": 1,
     "media_group_id": 14165543629564125,
     "images": [
@@ -104875,7 +104875,7 @@
     "id": 7842,
     "date": "2026-02-10T07:14:10",
     "text": "原来 Gemini 拆过宜家",
-    "views": 277,
+    "views": 278,
     "forwards": 1,
     "images": [
       {
@@ -104894,7 +104894,7 @@
     "id": 7843,
     "date": "2026-02-10T07:42:23",
     "text": "仔细想想觉得还是不 DIY 柜子了。\n\n节省沙发后面的空间怎样都不太可能... 感觉即使把这个设计做出来了，应该也不会想每天把沙发推来推去吧，感觉自己绝对会懒懒直接把沙发留在外面，然后这个设计就白做了（xx）\n\n当时想做这个设计的另一个原因是因为之前的 1*4 Kallax 电视桌的一个格子有很多东西放不下，比如 PS5 和唱片机都因为单边过长只能放在上面/外面。但是刚刚查了一下说明书发现 Kallax 两个格子中间的挡板是可以去掉的，去掉了变成一个大格子就没有这个问题了\n\n所以就决定还是直接买 Kallax 好啦，废稿睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/6320940220342601246.webp\">😴</i>",
-    "views": 288,
+    "views": 289,
     "forwards": 0,
     "reply": {
       "id": 7805,
@@ -104906,7 +104906,7 @@
     "id": 7844,
     "date": "2026-02-11T00:22:44",
     "text": "两周前买的沃尔玛土豆变绿了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 291,
+    "views": 293,
     "forwards": 1,
     "media_group_id": 14166154914537349,
     "images": [
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1655,
+    "views": 1656,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4205,
+    "views": 4209,
     "forwards": 27
   },
   {
@@ -107247,7 +107247,7 @@
     "id": 8032,
     "date": "2026-03-15T22:45:28",
     "text": "站起来了！（好长！",
-    "views": 375,
+    "views": 376,
     "forwards": 2,
     "media_group_id": 14188917830126149,
     "files": [
@@ -107282,7 +107282,7 @@
     "id": 8034,
     "date": "2026-03-17T04:28:19",
     "text": "家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！\n\nWii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库<a href=\"https://github.com/MewoLab/Nunchuck2GF\">写一个 100 行的 HID 固件</a>就好啦 qwq",
-    "views": 322,
+    "views": 323,
     "forwards": 0,
     "media_group_id": 14189773592335341,
     "images": [
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 1039,
+    "views": 1040,
     "forwards": 4,
     "images": [
       {
@@ -107350,7 +107350,7 @@
   {
     "id": 8039,
     "date": "2026-03-18T05:47:25",
-    "views": 283,
+    "views": 284,
     "forwards": 0,
     "media_group_id": 14190502766583605,
     "images": [
@@ -107390,14 +107390,14 @@
     "id": 8042,
     "date": "2026-03-18T06:01:02",
     "text": "好累... 为什么每次我开坑想要做什么都会低估这件事需要的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 288,
+    "views": 289,
     "forwards": 0
   },
   {
     "id": 8043,
     "date": "2026-03-18T15:27:16",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 多想要张开双手触及 宇宙的边缘\n♪ 却在合理与自由之间 给自己设边界\n♪ 若只身一人一再涉险 也到不了多远\n♪ 反复自我催眠\n♪ 平凡也算一种 和解\n\n每次被做不完的事情累到崩溃的时候都会去听这首歌，似乎对我来说已经是每年都会发生几次的事情了\n\n不知道为什么无论累倒多少次还依然不想放弃任何一件想做的事... <span class=\"spoiler\"><span>也许我实际上还不想接受自己的平凡，还不想变成无聊的大人吧</span></span>",
-    "views": 272,
+    "views": 273,
     "forwards": 1,
     "files": [
       {
@@ -107419,7 +107419,7 @@
     "id": 8044,
     "date": "2026-03-19T05:34:11",
     "text": "配好 gitadora DM 了！好玩喵\n\n从二手店 $250 收了一套 td6 电子鼓，midi 接到电脑上，又收了一个显示器，设计了一个挂到天花板的挂钩，再把街机 hdd 和本地服务器跑起来，终于玩上 DM 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n马上就有可以吉他和鼓联动的完整 gitadora 配置了，虽然还有几个问题要解决...\n\n1. 现在没有第二台可以跑街机的电脑，所以没法同时跑 gf 和 dm... 打算在闲置的服务器上插两张显卡进行 pcie 穿透。2. 这个吊显示器方案会斜而且没办法矫正，想要重新设计。3. 现在选歌刷卡输密码要掏出物理大键盘，好麻烦\n\n明天再继续想怎么办好了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 245,
+    "views": 246,
     "forwards": 1,
     "media_group_id": 14191187613811525,
     "images": [
@@ -107534,7 +107534,7 @@
     "id": 8054,
     "date": "2026-03-19T16:47:30",
     "text": "现在的软件啊... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 246,
+    "views": 247,
     "forwards": 3,
     "media_group_id": 14191510806460045,
     "images": [
@@ -107574,7 +107574,7 @@
     "id": 8057,
     "date": "2026-03-20T04:32:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （可能不是今天）\n炸鸡皮！还有烤鸡皮！\n\n炸鸡皮是第一次做，味道很不错！不过总感觉鸡皮这种很油的东西用油炸有点不太对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（虽然每次做鸡皮都会吐槽它真的很便宜，但是它真的很便宜，1kg $1 哇... 可惜不是每次去都有）",
-    "views": 226,
+    "views": 228,
     "forwards": 0,
     "media_group_id": 14191849317312709,
     "images": [
@@ -107634,7 +107634,7 @@
     "id": 8062,
     "date": "2026-03-20T22:00:24",
     "text": "哭哭 好累\n\n发现手上的 2080 显卡正好支持 vgpu（就是把一个显卡分给多个虚拟机的功能）就决定试试能不能用 vgpu 解决街机需要很多个性能要求不高的机器的问题\n\n结果在坐和放宽了一整天之后放弃了... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n最后虽然 vm 认显卡了，但是即使只是在桌面上每帧渲染也都要等几秒，经常黑屏卡住之类的。问了 vgpu 群群友也没有想法，不知道怎么办",
-    "views": 222,
+    "views": 225,
     "forwards": 2,
     "media_group_id": 14192352194150061,
     "images": [
@@ -107714,7 +107714,7 @@
     "id": 8069,
     "date": "2026-03-20T23:21:32",
     "text": "哇 降级系统之后完全工作了！\n\n感谢群友 <a href=\"https://t.me/rbqvq\">@rbqvq</a> 发现问题 qwq\n\n实际上所有步骤都对了，只不过我装的 PVE 9.1.1 太新了, 内核版本 6.17 支持还不是很好，宿主机驱动在一直崩溃。降级内核到 6.11 之后就好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 238,
+    "views": 240,
     "forwards": 3,
     "reply": {
       "id": 8062,
@@ -107737,7 +107737,7 @@
   {
     "id": 8070,
     "date": "2026-03-21T01:59:21",
-    "views": 254,
+    "views": 256,
     "forwards": 1,
     "media_group_id": 14192466892853637,
     "images": [
@@ -107787,7 +107787,7 @@
     "id": 8074,
     "date": "2026-03-21T06:25:05",
     "text": "有被天气的 scale 震撼到\n\n刚刚手机上的极光 app 给我发通知说可能能看到极光，就打开看了一下，发现只有 1% 的概率，实际上并没有看到极光\n\n想起一个月前想去看星星即兴开车往返每程 250km 的事情，然后再看一眼地图，发现即使开 250km 也依然离不开 10% 几率的区间。要开 800km (8h) 才能开到 20% 几率的绿色区间，然而那时候已经天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n要想到 >50% 概率的红色区间的话，需要开车 2000km (22h) 去 Pickle Lake... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 也差不多是开一般车道能到的最北的地方了，再向北谷歌地图就不工作了\n\n<span class=\"spoiler\"><span>好想哪天去看看</span></span>",
-    "views": 279,
+    "views": 284,
     "forwards": 1,
     "media_group_id": 14192594447730581,
     "images": [
@@ -107822,7 +107822,7 @@
     "id": 8076,
     "date": "2026-03-22T12:37:20",
     "text": "因为油价大涨，很难得的加拿大路上没车\n\n可惜也正因为油价大涨，我也不舍得开得很快了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 274,
+    "views": 278,
     "forwards": 1,
     "images": [
       {
@@ -107841,7 +107841,7 @@
     "id": 8077,
     "date": "2026-03-22T18:45:01",
     "text": "之前法拍还基本上是零元捡两台 R630，然后昨晚尝试开机... 原本以为是很简单的事情结果又踩进坑里了，凌晨五点才解决\n\n首先通电之后管理界面密码不是默认的，没有写在任何地方。试试启动，虽然灯说正常但是 VGA 和串口都没有输出... 怀疑是不是我的 VGA 和串口的接收器有问题，用示波器点了一下也是毫无波动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n按照维护手册上的方法把主板上的重置密码重置设置跳线切过去也没有用，依然需要密码\n\n最后拔了一下 RTC 纽扣电池然后它就好了... 我怀疑是上一位所有者关掉了所有输出并且把硬件重置密码也关掉了（为什么这种 failsafe 要设计成可以被关掉的... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过终于点亮啦 qwq",
-    "views": 233,
+    "views": 237,
     "forwards": 1,
     "media_group_id": 14193640812339189,
     "images": [
@@ -107921,7 +107921,7 @@
     "id": 8084,
     "date": "2026-03-23T01:35:01",
     "text": "和猫猫一起看小鸟 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 228,
+    "views": 232,
     "forwards": 2,
     "media_group_id": 14193837614158741,
     "images": [
@@ -107991,7 +107991,7 @@
     "id": 8090,
     "date": "2026-03-24T20:42:35",
     "text": "画了一个 PCIe 拆分 PCB！\n\n其实是改了 KCORES OldMonster 的开源拆分卡，因为淘宝闲鱼都完全找不到间隔两个槽位能插显卡的 x16 转 x4x4x4x4 物理 x16 的拆分卡（可能这个需求本身就比较小吧...\n\n然后再一次理所当然地花了比画板子更多的时间配丝印 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n总之验证完设计之后会把它开源出来的！",
-    "views": 190,
+    "views": 194,
     "forwards": 1,
     "media_group_id": 14195079641159133,
     "images": [
@@ -108041,7 +108041,7 @@
     "id": 8094,
     "date": "2026-03-25T11:02:24",
     "text": "一时兴起和 ppt 和 ellie 一起开车 550km 去了一趟 windsor <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n刚刚回到家，之后再整理照片吧，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 175,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 14195492356678253,
     "images": [
@@ -108071,7 +108071,7 @@
     "id": 8096,
     "date": "2026-03-25T18:56:11",
     "text": "<a href=\"##生草翻译\">#生草翻译</a>",
-    "views": 164,
+    "views": 177,
     "forwards": 2,
     "images": [
       {
@@ -108090,7 +108090,7 @@
     "id": 8097,
     "date": "2026-03-26T06:25:53",
     "text": "照片整理完了！\n\n昨天在路上没有光污染也没有云的地方停下来看了星星！（虽然月亮依然很亮）\n\n然后到 Windsor 之后去河边看了对面的美国 Detroit，在水上被拉长的灯光倒影好好看！可惜没法从这里过去呢（虽然好像真的能过去的话从美国向这边看反而不好看，Windsor 这边和 Detroit 比起来感觉像农村）\n\n以及没有带三脚架好可惜... 在小屏幕上以为自己手很稳，结果回家整理照片发现大部分都糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> F/3.5~6.3 好不适合晚上用，可惜我只有这一个镜头了",
-    "views": 106,
+    "views": 122,
     "forwards": 1,
     "media_group_id": 14196050825014629,
     "images": [
@@ -108205,7 +108205,7 @@
     "id": 8107,
     "date": "2026-03-26T10:38:55",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5413703918947413540.tgs\">🐈‍⬛</i>",
-    "views": 96,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 14196172280566141,
     "images": [
@@ -108238,6 +108238,86 @@
         "url": "media/8109.jpg",
         "size": 412704,
         "thumb": "media/8109.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8110,
+    "date": "2026-03-26T16:42:13",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n牛骨汤粉！\n\n用和做猪骨汤同样的方式炖了牛骨汤，感觉有高压锅炖什么都很好喝而且很便宜 qwq",
+    "views": 48,
+    "forwards": 0,
+    "media_group_id": 14196346666629861,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-03-26T16:42:10",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-26_16-42-10.jpg",
+        "url": "media/8110.jpg",
+        "size": 566684,
+        "thumb": "media/8110.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-03-26T16:42:10",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-26_16-42-10.jpg",
+        "url": "media/8111.jpg",
+        "size": 498960,
+        "thumb": "media/8111.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-03-26T16:42:11",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-26_16-42-11.jpg",
+        "url": "media/8112.jpg",
+        "size": 743902,
+        "thumb": "media/8112.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-03-26T16:42:11",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-26_16-42-11.jpg",
+        "url": "media/8113.jpg",
+        "size": 606484,
+        "thumb": "media/8113.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2026-03-26T16:42:11",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-26_16-42-11.jpg",
+        "url": "media/8114.jpg",
+        "size": 493130,
+        "thumb": "media/8114.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2026-03-26T16:42:12",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-26_16-42-12.jpg",
+        "url": "media/8115.jpg",
+        "size": 424320,
+        "thumb": "media/8115.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2026-03-26T16:42:12",
+        "media_type": "photo",
+        "original_name": "photo_2026-03-26_16-42-12.jpg",
+        "url": "media/8116.jpg",
+        "size": 400144,
+        "thumb": "media/8116.jpg_thumb.jpg"
       }
     ]
   }
