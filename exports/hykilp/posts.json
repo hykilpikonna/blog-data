@@ -104165,7 +104165,7 @@
   {
     "id": 7785,
     "date": "2026-02-01T09:39:51",
-    "views": 281,
+    "views": 282,
     "forwards": 0,
     "files": [
       {
@@ -104488,7 +104488,7 @@
     "id": 7812,
     "date": "2026-02-06T05:09:33",
     "text": "花两个小时破解了极米投影仪！adb root magisk 全都有了\n\n今天从中国买的极米 RS20 投影仪到货了，开机发现是安卓 14，但是特别封闭...\n\n系统本身没有「安装第三方应用」的功能。有文件管理器，但是把 apk 文件复制到 U 盘里插上去也会被文件管理器过滤掉。想要开启开发者模式用 adb 安装，去设置连续点击构建版本号没反应，去网上查也没有什么办法。原本想改固件刷进去，但是发现固件格式和 2022 年的格式完全不一样了，用之前的拆包工具拆不出来\n\n不过尝试了两小时之后还是破解出来了！（因为漏洞实在太蠢了我还是不写 writeup 了，属于只要写了可能会被立刻 patch 掉的程度，不过如果有人同样买了极米投影仪想破解的话欢迎 DM 我 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>）",
-    "views": 309,
+    "views": 310,
     "forwards": 4,
     "media_group_id": 14162836584280805,
     "images": [
@@ -104967,35 +104967,35 @@
     "id": 7848,
     "date": "2026-02-11T05:22:30",
     "text": "<del>想 如果养猫的话起名为「熵」会不会获得噩运</del>\n\n<del>小猫能有什么孬心眼呢</del>",
-    "views": 324,
+    "views": 325,
     "forwards": 0
   },
   {
     "id": 7849,
     "date": "2026-02-11T12:41:45",
     "text": "之前去日本六个月体重上升到了 64kg，现在回加拿大两个月掉到了 58kg\n\n我甚至没有在尝试减肥... 这说明什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 312,
+    "views": 313,
     "forwards": 3
   },
   {
     "id": 7850,
     "date": "2026-02-11T15:04:47",
     "text": "现在主力机器是 windows/linux 双启动，平时用 windows，需要跑 ROCm 或者写程序的时候重启到 linux\n\n但是每次重启都觉得好麻烦，而且没办法在人不在家的时候切换系统\n\n在想能不能做成交叉 VM 双启动，主机跑 win 的时候把 linux 的分区跑在 VM 里、主机跑 linux 的时候把 win 的分区跑在 VM 里，这样也许有些时候就不需要切系统了？ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 301,
+    "views": 302,
     "forwards": 1
   },
   {
     "id": 7851,
     "date": "2026-02-11T20:02:15",
     "text": "寄了一封挂号信到深圳，CA$37.1 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n真的是抢钱",
-    "views": 289,
+    "views": 290,
     "forwards": 2
   },
   {
     "id": 7852,
     "date": "2026-02-12T03:56:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n方便面！\n\n聊聊研究了一下说我在日本胖了可能是因为吃太多碳水，而且每次都把面汤喝完就会让身体存很多水\n\n好像确实，平时吃的拉面牛丼寿司都很高碳水很高糖，而且我也确实每次都会把面汤喝完... 唉，为什么好吃和健康总是要牺牲一个 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 290,
+    "views": 291,
     "forwards": 1,
     "reply": {
       "id": 7849,
@@ -105018,7 +105018,7 @@
     "id": 7853,
     "date": "2026-02-12T08:18:37",
     "text": "记录一下今天遇到的灵车网络问题\n\n用投影仪远程玩游戏，连接非常卡。看了一眼 AP 的控制面板，发现居然只协商到了 8mbps... 明明是 WiFi6 连接、明明信号是所有设备里最好的、明明这两个设备之间有 direct line of sight，为什么速度反而是所有设备里最慢的呢？\n\n问了问群友才发现 g-HE 虽然是 WiFi6 但是是 2.4GHz 🌚 试了一下把 AP 上的 2.4G 关掉只留 5GHz，但是这样的话投影仪就看不到这个 WiFi 了，为什么呢？这么贵的投影仪不可能只支持 2.4G 吧...\n\n还好我有 root，打 iw 指令看了一下发现支持 5GHz，但是 AP 所在的 100 频段被禁用了。再看看网卡的地区发现是中国 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 可能中国不让用 100 频段所以它才被禁用了，手动设成美国就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n然后发现之前我的一加 13 手机 LAN 传文件慢也是同样的问题... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 不好笑。",
-    "views": 284,
+    "views": 285,
     "forwards": 2,
     "media_group_id": 14167074537393133,
     "images": [
@@ -105098,14 +105098,14 @@
     "id": 7860,
     "date": "2026-02-13T07:25:08",
     "text": "好累好累好累。为什么所有事情都需要我的时间... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 276,
+    "views": 277,
     "forwards": 1
   },
   {
     "id": 7861,
     "date": "2026-02-13T23:37:30",
     "text": "做三文鱼\n\n看小猫似乎对生三文鱼很感兴趣就给它煎了三文鱼，但是煎完了放在地上之后它闻闻似乎完全没兴趣就走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 277,
+    "views": 278,
     "forwards": 4,
     "media_group_id": 14168206803872669,
     "images": [
@@ -105155,7 +105155,7 @@
     "id": 7865,
     "date": "2026-02-14T01:05:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤三文鱼腩！\n\n小猫不吃我吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 273,
+    "views": 274,
     "forwards": 1,
     "images": [
       {
@@ -105174,7 +105174,7 @@
     "id": 7866,
     "date": "2026-02-14T16:25:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "media_group_id": 14168690820973429,
     "images": [
@@ -105224,7 +105224,7 @@
     "id": 7870,
     "date": "2026-02-14T18:38:52",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n照烧鸡腿饭！\n\n果然让 llm 翻译日语食谱要比之前用下厨房上中国人写的食谱做出来更好吃 qwq",
-    "views": 251,
+    "views": 252,
     "forwards": 1,
     "media_group_id": 14168754660080061,
     "images": [
@@ -105274,7 +105274,7 @@
     "id": 7874,
     "date": "2026-02-15T00:07:52",
     "text": "起猛了，家旁边出现了雪山（？）\n\n<del>富士山 at home</del>",
-    "views": 244,
+    "views": 245,
     "forwards": 1,
     "images": [
       {
@@ -105293,7 +105293,7 @@
     "id": 7875,
     "date": "2026-02-15T05:26:00",
     "text": "新家新柜子搭好了，前几天 $0 捡的二手沙发也差不多清理好了，终于有能用的客厅了 qwq\n\n原本应该是 5x5 = 25 个方格子，但是之前用 1x4 的同款柜子的时候发现 PS5 和唱片机单边太长了没法放进一个格子里，所以这次拼 5x5 柜子的时候故意没有装一些隔板，把两个格子拼起来了（希望结构强度不会受到太多影响",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "media_group_id": 14169065281051429,
     "images": [
@@ -105347,14 +105347,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 234,
+    "views": 235,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105404,7 +105404,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 241,
+    "views": 242,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105444,7 +105444,7 @@
     "id": 7889,
     "date": "2026-02-15T21:02:58",
     "text": "猫猫睡觉",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "reply": {
       "id": 7880,
@@ -105470,7 +105470,7 @@
     "id": 7891,
     "date": "2026-02-16T08:47:27",
     "text": "哭了 睡觉被热醒，房间烧到了 32.5℃... 然后下楼发现是智能恒温器死机了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 去关掉电闸重新开之后算是恢复了。\n\n仔细研究了一下，连上 WiFi 发现它会用 GPS 获取天气、还有据说是检测烟雾报警器声音的内置麦克风... 希望是本地监测，不是上传到云服务上检测。连接 app 还要注册账号输入住址和房子信息和电力公司... 为什么一个空调需要知道这些呀？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n然后我就还是把 WiFi 关了，不太敢相信它的安全性，也不想给它这些信息...\n\n好怀念不智能但是 reliable 的家电。",
-    "views": 268,
+    "views": 269,
     "forwards": 2,
     "files": [
       {
@@ -105491,7 +105491,7 @@
     "id": 7892,
     "date": "2026-02-17T04:27:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n年夜饭！做了烤鸭、鸭架米粉萝卜汤、白菜肉饺子、日式もつ鍋、中式番茄火锅、牛排\n\n总共七个人，有我 聊聊 北燕书 豆腐 猫猫球 西风 羽澄，很热闹很开心喵！<span class=\"spoiler\"><span>（虽然还想邀请更多朋友但是各种意义上都到人数上限了... 无论是物理空间还是座椅/餐具数量还是感官负载）</span></span>\n\n除了吃饭大家还打了 maimai <i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i>（刚搬过来所以其他游戏还没有 setup 好，就只 setup 好了小熊洗衣机）\n\n以及没想到小猫反而没有很社恐呢，虽然刚开始躲了一会但是还是和大家玩得很好 qwq（配图：一只黑色的 LC-LC 10Gbps 光猫）",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "media_group_id": 14170419481817413,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4285,
+    "views": 4291,
     "forwards": 27
   },
   {
@@ -107822,7 +107822,7 @@
     "id": 8076,
     "date": "2026-03-22T12:37:20",
     "text": "因为油价大涨，很难得的加拿大路上没车\n\n可惜也正因为油价大涨，我也不舍得开得很快了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 290,
+    "views": 291,
     "forwards": 1,
     "images": [
       {
@@ -107841,7 +107841,7 @@
     "id": 8077,
     "date": "2026-03-22T18:45:01",
     "text": "之前法拍还基本上是零元捡两台 R630，然后昨晚尝试开机... 原本以为是很简单的事情结果又踩进坑里了，凌晨五点才解决\n\n首先通电之后管理界面密码不是默认的，没有写在任何地方。试试启动，虽然灯说正常但是 VGA 和串口都没有输出... 怀疑是不是我的 VGA 和串口的接收器有问题，用示波器点了一下也是毫无波动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n按照维护手册上的方法把主板上的重置密码重置设置跳线切过去也没有用，依然需要密码\n\n最后拔了一下 RTC 纽扣电池然后它就好了... 我怀疑是上一位所有者关掉了所有输出并且把硬件重置密码也关掉了（为什么这种 failsafe 要设计成可以被关掉的... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过终于点亮啦 qwq",
-    "views": 249,
+    "views": 250,
     "forwards": 1,
     "media_group_id": 14193640812339189,
     "images": [
@@ -108041,7 +108041,7 @@
     "id": 8094,
     "date": "2026-03-25T11:02:24",
     "text": "一时兴起和 ppt 和 ellie 一起开车 550km 去了一趟 windsor <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n刚刚回到家，之后再整理照片吧，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 199,
+    "views": 201,
     "forwards": 0,
     "media_group_id": 14195492356678253,
     "images": [
@@ -108071,7 +108071,7 @@
     "id": 8096,
     "date": "2026-03-25T18:56:11",
     "text": "<a href=\"##生草翻译\">#生草翻译</a>",
-    "views": 200,
+    "views": 201,
     "forwards": 2,
     "images": [
       {
@@ -108090,7 +108090,7 @@
     "id": 8097,
     "date": "2026-03-26T06:25:53",
     "text": "照片整理完了！\n\n昨天在路上没有光污染也没有云的地方停下来看了星星！（虽然月亮依然很亮）\n\n然后到 Windsor 之后去河边看了对面的美国 Detroit，在水上被拉长的灯光倒影好好看！可惜没法从这里过去呢（虽然好像真的能过去的话从美国向这边看反而不好看，Windsor 这边和 Detroit 比起来感觉像农村）\n\n以及没有带三脚架好可惜... 在小屏幕上以为自己手很稳，结果回家整理照片发现大部分都糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> F/3.5~6.3 好不适合晚上用，可惜我只有这一个镜头了",
-    "views": 162,
+    "views": 164,
     "forwards": 1,
     "media_group_id": 14196050825014629,
     "images": [
@@ -108205,7 +108205,7 @@
     "id": 8107,
     "date": "2026-03-26T10:38:55",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5413703918947413540.tgs\">🐈‍⬛</i>",
-    "views": 181,
+    "views": 184,
     "forwards": 1,
     "media_group_id": 14196172280566141,
     "images": [
@@ -108245,7 +108245,7 @@
     "id": 8110,
     "date": "2026-03-26T16:42:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n牛骨汤粉！\n\n用和做猪骨汤同样的方式炖了牛骨汤，感觉有高压锅炖什么都很好喝而且很便宜 qwq",
-    "views": 177,
+    "views": 187,
     "forwards": 0,
     "media_group_id": 14196346666629861,
     "images": [
@@ -108325,7 +108325,7 @@
     "id": 8117,
     "date": "2026-03-27T03:15:29",
     "text": "看到<a href=\"https://t.me/rynif/39471\">喜欢的频道主</a>填了所以我也来填\n\n感觉喜欢的动画每年都有很多很多，但是真的能说是「构成了我」的作品实际上留九个格子很足够了\n\n<a href=\"https://my9.shatranj.space/work/s/86969fee20417a23\">https://my9.shatranj.space/work/s/86969fee20417a23</a>",
-    "views": 189,
+    "views": 204,
     "forwards": 3,
     "images": [
       {
@@ -108344,7 +108344,7 @@
     "id": 8118,
     "date": "2026-03-27T23:42:50",
     "text": "神圣猫猫",
-    "views": 93,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 14197239764256053,
     "images": [
@@ -108394,8 +108394,8 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 44,
-    "forwards": 0,
+    "views": 89,
+    "forwards": 4,
     "media_group_id": 14197325572283533,
     "images": [
       {
