@@ -12,7 +12,17 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Mar 2026 06:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 08:29:51 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #8130</title>
+      <link>https://aza.moe/life?post=8130</link>
+      <description>&lt;p&gt;因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架&lt;/p&gt;
+&lt;p&gt;但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）&lt;/p&gt;
+&lt;p&gt;所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）&lt;/p&gt;
+&lt;p&gt;最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hykilpikonna/ColdStartTest"&gt;测试源码在这里&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8130</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #8122</title>
       <link>https://aza.moe/life?post=8122</link>

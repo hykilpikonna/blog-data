@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-03-28T06:38:47.581210+00:00</updated>
+  <updated>2026-03-28T08:29:51.004733+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8130</id>
+    <title>小桂桂的回忆录 📒 #8130</title>
+    <updated>2026-03-28T07:01:47+00:00</updated>
+    <content>&lt;p&gt;因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架&lt;/p&gt;
+&lt;p&gt;但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）&lt;/p&gt;
+&lt;p&gt;所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）&lt;/p&gt;
+&lt;p&gt;最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hykilpikonna/ColdStartTest"&gt;测试源码在这里&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8130" rel="alternate"/>
+  </entry>
   <entry>
     <id>8122</id>
     <title>小桂桂的回忆录 📒 #8122</title>
