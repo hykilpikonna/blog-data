@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7476,
+    "views": 7477,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6531,
+    "views": 6532,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -98839,7 +98839,7 @@
     "id": 7351,
     "date": "2025-11-30T09:22:42",
     "text": "猫猫乱按键盘.gif",
-    "views": 302,
+    "views": 303,
     "forwards": 3,
     "files": [
       {
@@ -106816,7 +106816,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 421,
+    "views": 422,
     "forwards": 5,
     "media_group_id": 14184936480305877,
     "files": [
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1680,
+    "views": 1681,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4341,
+    "views": 4345,
     "forwards": 27
   },
   {
@@ -107921,7 +107921,7 @@
     "id": 8084,
     "date": "2026-03-23T01:35:01",
     "text": "和猫猫一起看小鸟 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 2,
     "media_group_id": 14193837614158741,
     "images": [
@@ -107991,7 +107991,7 @@
     "id": 8090,
     "date": "2026-03-24T20:42:35",
     "text": "画了一个 PCIe 拆分 PCB！\n\n其实是改了 KCORES OldMonster 的开源拆分卡，因为淘宝闲鱼都完全找不到间隔两个槽位能插显卡的 x16 转 x4x4x4x4 物理 x16 的拆分卡（可能这个需求本身就比较小吧...\n\n然后再一次理所当然地花了比画板子更多的时间配丝印 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n总之验证完设计之后会把它开源出来的！",
-    "views": 219,
+    "views": 220,
     "forwards": 1,
     "media_group_id": 14195079641159133,
     "images": [
@@ -108041,7 +108041,7 @@
     "id": 8094,
     "date": "2026-03-25T11:02:24",
     "text": "一时兴起和 ppt 和 ellie 一起开车 550km 去了一趟 windsor <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n刚刚回到家，之后再整理照片吧，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "media_group_id": 14195492356678253,
     "images": [
@@ -108071,7 +108071,7 @@
     "id": 8096,
     "date": "2026-03-25T18:56:11",
     "text": "<a href=\"##生草翻译\">#生草翻译</a>",
-    "views": 211,
+    "views": 212,
     "forwards": 2,
     "images": [
       {
@@ -108090,7 +108090,7 @@
     "id": 8097,
     "date": "2026-03-26T06:25:53",
     "text": "照片整理完了！\n\n昨天在路上没有光污染也没有云的地方停下来看了星星！（虽然月亮依然很亮）\n\n然后到 Windsor 之后去河边看了对面的美国 Detroit，在水上被拉长的灯光倒影好好看！可惜没法从这里过去呢（虽然好像真的能过去的话从美国向这边看反而不好看，Windsor 这边和 Detroit 比起来感觉像农村）\n\n以及没有带三脚架好可惜... 在小屏幕上以为自己手很稳，结果回家整理照片发现大部分都糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> F/3.5~6.3 好不适合晚上用，可惜我只有这一个镜头了",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "media_group_id": 14196050825014629,
     "images": [
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 166,
+    "views": 167,
     "forwards": 4,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 129,
+    "views": 133,
     "forwards": 2,
     "media_group_id": 14197450458582693,
     "images": [
