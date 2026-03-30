@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8538,
+    "views": 8539,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -97951,7 +97951,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 402,
+    "views": 403,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97962,7 +97962,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 472,
+    "views": 474,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98062,14 +98062,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 415,
+    "views": 417,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 416,
+    "views": 418,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98080,7 +98080,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 405,
+    "views": 406,
     "forwards": 4,
     "images": [
       {
@@ -98709,7 +98709,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 304,
+    "views": 305,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -103865,7 +103865,7 @@
     "id": 7762,
     "date": "2026-01-28T04:29:31",
     "text": "配好新家的 WiFi 了！\n\n新家是一个三层的 townhouse，入户光纤在地下室，但是如果把路由器放在地下室的话第三层就基本上连不上了... 怎么办呢？\n\n原本打算买几个 OpenWRT 组 mesh，不过聊这件事的时候某本王发现了 ebay 上很便宜的 Aruba AP 535，就和豆腐一起从美国转运了五个过来（其中两个是她想买的，加上运费和税每个 CA$54.3）\n\n今天终于全都 setup 好啦，交换机放在楼下，PoE 接上去每层一个 AP，在每层都会切换到当前层的 AP，不用再担心穿墙能力之类的了 qwq\n\n不过还需要想想怎样挂到墙上... 原本以为很小很轻的，想一个钉子挂墙上，结果到了之后发现又大又重，只好先放地上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323109926151390915.webp\">😪</i>",
-    "views": 341,
+    "views": 342,
     "forwards": 4,
     "media_group_id": 14156596574746813,
     "images": [
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1687,
+    "views": 1688,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4367,
+    "views": 4369,
     "forwards": 27
   },
   {
@@ -108071,7 +108071,7 @@
     "id": 8096,
     "date": "2026-03-25T18:56:11",
     "text": "<a href=\"##生草翻译\">#生草翻译</a>",
-    "views": 216,
+    "views": 217,
     "forwards": 2,
     "images": [
       {
@@ -108325,7 +108325,7 @@
     "id": 8117,
     "date": "2026-03-27T03:15:29",
     "text": "看到<a href=\"https://t.me/rynif/39471\">喜欢的频道主</a>填了所以我也来填\n\n感觉喜欢的动画每年都有很多很多，但是真的能说是「构成了我」的作品实际上留九个格子很足够了\n\n<a href=\"https://my9.shatranj.space/work/s/86969fee20417a23\">https://my9.shatranj.space/work/s/86969fee20417a23</a>",
-    "views": 231,
+    "views": 232,
     "forwards": 4,
     "images": [
       {
@@ -108344,7 +108344,7 @@
     "id": 8118,
     "date": "2026-03-27T23:42:50",
     "text": "神圣猫猫",
-    "views": 183,
+    "views": 184,
     "forwards": 1,
     "media_group_id": 14197239764256053,
     "images": [
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 4,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 160,
+    "views": 164,
     "forwards": 2,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 95,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
