@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-03-30T05:13:46.669765+00:00</updated>
+  <updated>2026-03-30T09:06:41.756506+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8133</id>
+    <title>小桂桂的回忆录 📒 #8133</title>
+    <updated>2026-03-30T08:16:33+00:00</updated>
+    <content>&lt;p&gt;网安课作业，用 rust 写了一个 TLS 实现 &lt;i class="custom-emoji" emoji-src="emoji/6170432338518869955.webm"&gt;🦀&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！&lt;/p&gt;
+&lt;p&gt;从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 &lt;i class="custom-emoji" emoji-src="emoji/5325819430553263482.webm"&gt;🤩&lt;/i&gt; 感觉某种课程内容的边界被打破了&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8133" rel="alternate"/>
+  </entry>
   <entry>
     <id>8132</id>
     <title>小桂桂的回忆录 📒 #8132</title>
