@@ -67103,7 +67103,7 @@
     "id": 4866,
     "date": "2025-01-17T21:29:59",
     "text": "给 AquaDX 加了最新最热 PRiSM 的支持 qwq",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "images": [
       {
@@ -67122,14 +67122,14 @@
     "id": 4867,
     "date": "2025-01-18T01:53:38",
     "text": "好累",
-    "views": 160,
+    "views": 161,
     "forwards": 0
   },
   {
     "id": 4868,
     "date": "2025-01-18T02:17:14",
     "text": "PRiSM 新更新的游戏内容是这个万花镜挑战模式，叫做「KaleidxScope」...\n\n玩法是，一般游戏打完某个地图之后解锁这个模式并且提示你需要找到钥匙，然后打通所有区域曲目之后拿到钥匙就可以开始挑战了。挑战难度是全服同步的，最开始是 1 血（必须三首歌都 AP 才能通关），有一个人打通之后难度降到 10 血，有 10 个人打通之后降到 50 血，以此类推\n\n今天因为新版本漏了，被催着给服务器加适配就随便写了一个看上去没问题的实现方法，然后我还没拿到数据还没有测试就部署上去了... 结果完全搞错了，地图跑完了模式解锁存不上，修了之后发现打完所有歌钥匙拿不到，又修了之后发现难度锁定在了 1 血的难度... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 可能这个服务器再过一年也不会有人打通 1 血难度",
-    "views": 161,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 13897333072213493,
     "images": [
@@ -67169,7 +67169,7 @@
     "id": 4871,
     "date": "2025-01-18T19:18:17",
     "text": "发现手也是某种小语言模型，走神的时候手就会给我自动补全奇怪东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 166,
+    "views": 167,
     "forwards": 0,
     "images": [
       {
@@ -67188,7 +67188,7 @@
     "id": 4872,
     "date": "2025-01-19T02:34:41",
     "text": "我警告你们.jpg <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不要买没有接地的电视，不然一手握住 hdmi 头另一手碰电脑会被电到...\n\n测了一下发现 HDMI 头那边原本应该是接地的地方在漏 +1.96V 的电，甚至够点亮 LED 灯了",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "media_group_id": 13898032654839197,
     "images": [
@@ -67228,7 +67228,7 @@
     "id": 4875,
     "date": "2025-01-19T06:13:57",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n（切午餐肉的时候不小心打翻切菜板撒了一半 呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> -$2",
-    "views": 167,
+    "views": 168,
     "forwards": 0,
     "media_group_id": 13898137897954357,
     "images": [
@@ -67258,7 +67258,7 @@
     "id": 4877,
     "date": "2025-01-19T06:31:18",
     "text": "奇妙小 bug，有人反馈说玩联机的时候背景时不时会发出 Windows 那个错误提示音\n\ndebug 了半天想不出为什么，盯着日志看的时候，看着这些不可打印字符，突然想起来 ASCII 有一个控制字符叫 Bell 0x07，最初的用途是打印到命令行里会发出铃铛的声音提醒用户，虽然说现在基本上没人用甚至很少有人知道了...\n\n实在想不出可能的问题，不妨试一下把所有控制字符都去掉... 然后居然真的就没有错误提示音了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 草\n\n居然 Windows 现在还会读这个 Bell 字符，奇妙",
-    "views": 191,
+    "views": 192,
     "forwards": 1,
     "images": [
       {
@@ -67449,7 +67449,7 @@
     "id": 4889,
     "date": "2025-01-21T23:29:28",
     "text": "（视频转载）\n之前 my sekai 刚出来的时候我说了想做一个动补录自己打中二然后转移到 my sekai 模型上做动画，但是一直没时间开坑，然后现在发现有人做出来了 qwq\n\n<span class=\"spoiler\"><span>感觉人类作为一个分布式计算机有时候真的挺方便的， 把想法说出来过几天就会有别人把它做出来</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 277,
+    "views": 278,
     "forwards": 1,
     "files": [
       {
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1688,
+    "views": 1690,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4369,
+    "views": 4372,
     "forwards": 27
   },
   {
@@ -107787,7 +107787,7 @@
     "id": 8074,
     "date": "2026-03-21T06:25:05",
     "text": "有被天气的 scale 震撼到\n\n刚刚手机上的极光 app 给我发通知说可能能看到极光，就打开看了一下，发现只有 1% 的概率，实际上并没有看到极光\n\n想起一个月前想去看星星即兴开车往返每程 250km 的事情，然后再看一眼地图，发现即使开 250km 也依然离不开 10% 几率的区间。要开 800km (8h) 才能开到 20% 几率的绿色区间，然而那时候已经天亮了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n要想到 >50% 概率的红色区间的话，需要开车 2000km (22h) 去 Pickle Lake... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 也差不多是开一般车道能到的最北的地方了，再向北谷歌地图就不工作了\n\n<span class=\"spoiler\"><span>好想哪天去看看</span></span>",
-    "views": 303,
+    "views": 304,
     "forwards": 1,
     "media_group_id": 14192594447730581,
     "images": [
@@ -107822,7 +107822,7 @@
     "id": 8076,
     "date": "2026-03-22T12:37:20",
     "text": "因为油价大涨，很难得的加拿大路上没车\n\n可惜也正因为油价大涨，我也不舍得开得很快了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 298,
+    "views": 299,
     "forwards": 1,
     "images": [
       {
@@ -107841,7 +107841,7 @@
     "id": 8077,
     "date": "2026-03-22T18:45:01",
     "text": "之前法拍还基本上是零元捡两台 R630，然后昨晚尝试开机... 原本以为是很简单的事情结果又踩进坑里了，凌晨五点才解决\n\n首先通电之后管理界面密码不是默认的，没有写在任何地方。试试启动，虽然灯说正常但是 VGA 和串口都没有输出... 怀疑是不是我的 VGA 和串口的接收器有问题，用示波器点了一下也是毫无波动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n按照维护手册上的方法把主板上的重置密码重置设置跳线切过去也没有用，依然需要密码\n\n最后拔了一下 RTC 纽扣电池然后它就好了... 我怀疑是上一位所有者关掉了所有输出并且把硬件重置密码也关掉了（为什么这种 failsafe 要设计成可以被关掉的... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不过终于点亮啦 qwq",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "media_group_id": 14193640812339189,
     "images": [
@@ -107921,7 +107921,7 @@
     "id": 8084,
     "date": "2026-03-23T01:35:01",
     "text": "和猫猫一起看小鸟 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 2,
     "media_group_id": 14193837614158741,
     "images": [
@@ -107991,7 +107991,7 @@
     "id": 8090,
     "date": "2026-03-24T20:42:35",
     "text": "画了一个 PCIe 拆分 PCB！\n\n其实是改了 KCORES OldMonster 的开源拆分卡，因为淘宝闲鱼都完全找不到间隔两个槽位能插显卡的 x16 转 x4x4x4x4 物理 x16 的拆分卡（可能这个需求本身就比较小吧...\n\n然后再一次理所当然地花了比画板子更多的时间配丝印 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n总之验证完设计之后会把它开源出来的！",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "media_group_id": 14195079641159133,
     "images": [
@@ -108041,7 +108041,7 @@
     "id": 8094,
     "date": "2026-03-25T11:02:24",
     "text": "一时兴起和 ppt 和 ellie 一起开车 550km 去了一趟 windsor <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n刚刚回到家，之后再整理照片吧，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "media_group_id": 14195492356678253,
     "images": [
@@ -108071,7 +108071,7 @@
     "id": 8096,
     "date": "2026-03-25T18:56:11",
     "text": "<a href=\"##生草翻译\">#生草翻译</a>",
-    "views": 217,
+    "views": 218,
     "forwards": 2,
     "images": [
       {
@@ -108090,7 +108090,7 @@
     "id": 8097,
     "date": "2026-03-26T06:25:53",
     "text": "照片整理完了！\n\n昨天在路上没有光污染也没有云的地方停下来看了星星！（虽然月亮依然很亮）\n\n然后到 Windsor 之后去河边看了对面的美国 Detroit，在水上被拉长的灯光倒影好好看！可惜没法从这里过去呢（虽然好像真的能过去的话从美国向这边看反而不好看，Windsor 这边和 Detroit 比起来感觉像农村）\n\n以及没有带三脚架好可惜... 在小屏幕上以为自己手很稳，结果回家整理照片发现大部分都糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> F/3.5~6.3 好不适合晚上用，可惜我只有这一个镜头了",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "media_group_id": 14196050825014629,
     "images": [
@@ -108205,7 +108205,7 @@
     "id": 8107,
     "date": "2026-03-26T10:38:55",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5413703918947413540.tgs\">🐈‍⬛</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 1,
     "media_group_id": 14196172280566141,
     "images": [
@@ -108245,7 +108245,7 @@
     "id": 8110,
     "date": "2026-03-26T16:42:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n牛骨汤粉！\n\n用和做猪骨汤同样的方式炖了牛骨汤，感觉有高压锅炖什么都很好喝而且很便宜 qwq",
-    "views": 205,
+    "views": 206,
     "forwards": 0,
     "media_group_id": 14196346666629861,
     "images": [
@@ -108325,7 +108325,7 @@
     "id": 8117,
     "date": "2026-03-27T03:15:29",
     "text": "看到<a href=\"https://t.me/rynif/39471\">喜欢的频道主</a>填了所以我也来填\n\n感觉喜欢的动画每年都有很多很多，但是真的能说是「构成了我」的作品实际上留九个格子很足够了\n\n<a href=\"https://my9.shatranj.space/work/s/86969fee20417a23\">https://my9.shatranj.space/work/s/86969fee20417a23</a>",
-    "views": 232,
+    "views": 233,
     "forwards": 4,
     "images": [
       {
@@ -108344,7 +108344,7 @@
     "id": 8118,
     "date": "2026-03-27T23:42:50",
     "text": "神圣猫猫",
-    "views": 184,
+    "views": 186,
     "forwards": 1,
     "media_group_id": 14197239764256053,
     "images": [
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 186,
+    "views": 189,
     "forwards": 4,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 164,
+    "views": 168,
     "forwards": 2,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 105,
+    "views": 109,
     "forwards": 0,
     "images": [
       {
