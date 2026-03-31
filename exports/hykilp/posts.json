@@ -106766,7 +106766,7 @@
     "id": 7993,
     "date": "2026-03-09T23:18:23",
     "text": "看到朋友的 Jellyfin 媒体库很好看，我也想搭一个，原本以为很好搭的就开坑了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n然后发现它需要一个特殊的文件结构，但是大部分种子下载下来都不是这种文件结构... 怎么办呢？\n\n朋友推荐我用 Sonarr，是一个\"自动\"整理媒体文件结构的软件，然而试了一下发现它完全不自动... 从文件夹名自动识别番剧有 >90% 识别的都是错的 (p2)，手动加进去之后识别剧集也识别不对 (p3)... 折腾了四个小时之后直接放弃 Sonarr 了\n\n最后又花了 6h 手搓了一个小工具 <a href=\"https://github.com/hykilpikonna/MTfin\">MTfin</a>，输入 IMDB ID 自动从 M-Team 获取种子列表用 GPT5 选种、调 qB 下载、然后自动用 GPT5 生成映射表映射到 Jellyfin 的文件结构 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n正好趁这两天 M-Team 站免，把之前存的总共 4TB 的番剧电影都用这个脚本统一重新下载了一遍，不知道运营商看到我 1gbps 跑满一整天会怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>（希望不会被找麻烦",
-    "views": 305,
+    "views": 306,
     "forwards": 4,
     "media_group_id": 14184786424218413,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4408,
+    "views": 4419,
     "forwards": 27
   },
   {
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 1079,
+    "views": 1095,
     "forwards": 4,
     "images": [
       {
@@ -108205,7 +108205,7 @@
     "id": 8107,
     "date": "2026-03-26T10:38:55",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5413703918947413540.tgs\">🐈‍⬛</i>",
-    "views": 213,
+    "views": 214,
     "forwards": 1,
     "media_group_id": 14196172280566141,
     "images": [
@@ -108245,7 +108245,7 @@
     "id": 8110,
     "date": "2026-03-26T16:42:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n牛骨汤粉！\n\n用和做猪骨汤同样的方式炖了牛骨汤，感觉有高压锅炖什么都很好喝而且很便宜 qwq",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14196346666629861,
     "images": [
@@ -108325,7 +108325,7 @@
     "id": 8117,
     "date": "2026-03-27T03:15:29",
     "text": "看到<a href=\"https://t.me/rynif/39471\">喜欢的频道主</a>填了所以我也来填\n\n感觉喜欢的动画每年都有很多很多，但是真的能说是「构成了我」的作品实际上留九个格子很足够了\n\n<a href=\"https://my9.shatranj.space/work/s/86969fee20417a23\">https://my9.shatranj.space/work/s/86969fee20417a23</a>",
-    "views": 260,
+    "views": 261,
     "forwards": 4,
     "images": [
       {
@@ -108344,7 +108344,7 @@
     "id": 8118,
     "date": "2026-03-27T23:42:50",
     "text": "神圣猫猫",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "media_group_id": 14197239764256053,
     "images": [
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 223,
+    "views": 224,
     "forwards": 5,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 203,
+    "views": 205,
     "forwards": 1,
     "images": [
       {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 207,
+    "views": 209,
     "forwards": 0,
     "images": [
       {
@@ -108551,7 +108551,7 @@
   {
     "id": 8134,
     "date": "2026-03-30T18:32:45",
-    "views": 169,
+    "views": 172,
     "forwards": 1,
     "images": [
       {
@@ -108570,7 +108570,7 @@
     "id": 8135,
     "date": "2026-03-31T03:49:18",
     "text": "（？）",
-    "views": 120,
+    "views": 123,
     "forwards": 0,
     "images": [
       {
