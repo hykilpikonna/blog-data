@@ -71582,7 +71582,7 @@
     "id": 5179,
     "date": "2025-04-11T21:30:19",
     "text": "现实就是 无论是不是一个好电影，只是因为「是一部 Minecraft 电影」就会有人看，就会一周内冲到全年 #3 的票房，只是因为有钱赚就会出续作...",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "reply": {
       "id": 5120,
@@ -71605,7 +71605,7 @@
     "id": 5180,
     "date": "2025-04-11T21:45:52",
     "text": "现实就是 无论是不是一个好电影，只是因为「中国人口多还没什么好电影看」就会有人看，就冲到全年 #1 的票房，只是因为有钱赚就会出续作...",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "forwarded_from": {
       "name": "豆腐"
@@ -71622,7 +71622,7 @@
     "id": 5182,
     "date": "2025-04-13T01:59:15",
     "text": "打算继续直播 Split Fiction\n\n这次换上了 RTX 2080 希望不会像之前那样全损画质还只有 20fps（x）\n\n以及因为 tg 网络灵车，除了频道以外也会同时推到其他地方啦:\n* 自搭直播间: <a href=\"https://cast.hydev.org/\">https://cast.hydev.org/</a>\n* YouTube: （结束了）",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "reply": {
       "id": 5054,
@@ -71639,7 +71639,7 @@
     "id": 5184,
     "date": "2025-04-13T02:11:17",
     "text": "技术问题解决了，大家想发评论在这里发w",
-    "views": 253,
+    "views": 254,
     "forwards": 0,
     "reply": {
       "id": 5182,
@@ -71656,7 +71656,7 @@
     "id": 5186,
     "date": "2025-04-14T01:30:39",
     "text": "今天尝试用 3D 打印机的时候发现打印效果非常差，分层的地方多出来了好多洞洞，查了一下发现是挤出不足的问题\n\n然后猫猫球教我校准了挤出量——在耗材上离入口 200mm 的位置做好记号，打开串口终端命令它挤 200mm，然后测量实际上挤了多少，最后再算出正确的挤出量写进打印机记忆里 qwq\n\n校准了然后顺便换了挤出头，重新打了一次质量差距居然这么大哇 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>（感谢猫猫球）",
-    "views": 247,
+    "views": 248,
     "forwards": 0,
     "media_group_id": 13956753914018021,
     "images": [
@@ -71736,7 +71736,7 @@
     "id": 5193,
     "date": "2025-04-14T05:57:16",
     "text": "<a href=\"##新番\">#新番</a> 看了《杂旅》的第一集，感觉完全是旅行模拟器了，无论是画面还是经历都好真实\n\n...好想去日本旅游 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 如果哪天有机会去的话，也许可以跟着杂旅的路线吗 quq",
-    "views": 272,
+    "views": 273,
     "forwards": 0,
     "media_group_id": 13956881890784125,
     "images": [
@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5794,
+    "views": 5795,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72889,7 +72889,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1956,
+    "views": 1957,
     "forwards": 55
   },
   {
@@ -79118,7 +79118,7 @@
     "id": 5759,
     "date": "2025-06-30T22:17:55",
     "text": "思考\n\n看到国内充电宝被安检扣的事情寻思，是不是可以做一个「交换充电宝」网页 app：过安检之前把充电宝存到寄存箱里提交到网页上，然后如果在飞行期间匹配到了目的地那边提交了类似的充电宝的人，就互相交换寄存箱取件码，这样下飞机之后就可以互相取出对方的充电宝用了\n\n如果怕交换到更差的产品的话，也许可以提交的时候加上匹配要求的选项，比如说必须是同样容量/同样快充标准什么的\n\n人多的话说不定可以任意人数交换，只要每个人的出发地和目的地能形成一个环 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>",
-    "views": 318,
+    "views": 319,
     "forwards": 2
   },
   {
@@ -80742,7 +80742,7 @@
     "id": 5893,
     "date": "2025-07-13T01:22:42",
     "text": "八月7号~11号去北海道有人一起吗 qwq",
-    "views": 222,
+    "views": 223,
     "forwards": 1
   },
   {
@@ -81215,7 +81215,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 281,
+    "views": 282,
     "forwards": 1,
     "reply": {
       "id": 5923
@@ -92830,7 +92830,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 358,
+    "views": 359,
     "forwards": 2
   },
   {
@@ -96404,7 +96404,7 @@
     "id": 7164,
     "date": "2025-11-09T10:16:02",
     "text": "精品神药.jpg",
-    "views": 242,
+    "views": 243,
     "forwards": 2,
     "images": [
       {
@@ -106766,7 +106766,7 @@
     "id": 7993,
     "date": "2026-03-09T23:18:23",
     "text": "看到朋友的 Jellyfin 媒体库很好看，我也想搭一个，原本以为很好搭的就开坑了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n然后发现它需要一个特殊的文件结构，但是大部分种子下载下来都不是这种文件结构... 怎么办呢？\n\n朋友推荐我用 Sonarr，是一个\"自动\"整理媒体文件结构的软件，然而试了一下发现它完全不自动... 从文件夹名自动识别番剧有 >90% 识别的都是错的 (p2)，手动加进去之后识别剧集也识别不对 (p3)... 折腾了四个小时之后直接放弃 Sonarr 了\n\n最后又花了 6h 手搓了一个小工具 <a href=\"https://github.com/hykilpikonna/MTfin\">MTfin</a>，输入 IMDB ID 自动从 M-Team 获取种子列表用 GPT5 选种、调 qB 下载、然后自动用 GPT5 生成映射表映射到 Jellyfin 的文件结构 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n正好趁这两天 M-Team 站免，把之前存的总共 4TB 的番剧电影都用这个脚本统一重新下载了一遍，不知道运营商看到我 1gbps 跑满一整天会怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>（希望不会被找麻烦",
-    "views": 307,
+    "views": 308,
     "forwards": 4,
     "media_group_id": 14184786424218413,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4487,
+    "views": 4494,
     "forwards": 27
   },
   {
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 1117,
+    "views": 1119,
     "forwards": 4,
     "images": [
       {
@@ -107419,7 +107419,7 @@
     "id": 8044,
     "date": "2026-03-19T05:34:11",
     "text": "配好 gitadora DM 了！好玩喵\n\n从二手店 $250 收了一套 td6 电子鼓，midi 接到电脑上，又收了一个显示器，设计了一个挂到天花板的挂钩，再把街机 hdd 和本地服务器跑起来，终于玩上 DM 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n马上就有可以吉他和鼓联动的完整 gitadora 配置了，虽然还有几个问题要解决...\n\n1. 现在没有第二台可以跑街机的电脑，所以没法同时跑 gf 和 dm... 打算在闲置的服务器上插两张显卡进行 pcie 穿透。2. 这个吊显示器方案会斜而且没办法矫正，想要重新设计。3. 现在选歌刷卡输密码要掏出物理大键盘，好麻烦\n\n明天再继续想怎么办好了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 275,
+    "views": 276,
     "forwards": 2,
     "media_group_id": 14191187613811525,
     "images": [
@@ -108205,7 +108205,7 @@
     "id": 8107,
     "date": "2026-03-26T10:38:55",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5413703918947413540.tgs\">🐈‍⬛</i>",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "media_group_id": 14196172280566141,
     "images": [
@@ -108245,7 +108245,7 @@
     "id": 8110,
     "date": "2026-03-26T16:42:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n牛骨汤粉！\n\n用和做猪骨汤同样的方式炖了牛骨汤，感觉有高压锅炖什么都很好喝而且很便宜 qwq",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "media_group_id": 14196346666629861,
     "images": [
@@ -108325,7 +108325,7 @@
     "id": 8117,
     "date": "2026-03-27T03:15:29",
     "text": "看到<a href=\"https://t.me/rynif/39471\">喜欢的频道主</a>填了所以我也来填\n\n感觉喜欢的动画每年都有很多很多，但是真的能说是「构成了我」的作品实际上留九个格子很足够了\n\n<a href=\"https://my9.shatranj.space/work/s/86969fee20417a23\">https://my9.shatranj.space/work/s/86969fee20417a23</a>",
-    "views": 285,
+    "views": 288,
     "forwards": 4,
     "images": [
       {
@@ -108344,7 +108344,7 @@
     "id": 8118,
     "date": "2026-03-27T23:42:50",
     "text": "神圣猫猫",
-    "views": 238,
+    "views": 239,
     "forwards": 1,
     "media_group_id": 14197239764256053,
     "images": [
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 255,
+    "views": 258,
     "forwards": 5,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 248,
+    "views": 254,
     "forwards": 2,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "images": [
       {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "images": [
       {
@@ -108551,7 +108551,7 @@
   {
     "id": 8134,
     "date": "2026-03-30T18:32:45",
-    "views": 228,
+    "views": 230,
     "forwards": 1,
     "images": [
       {
@@ -108570,7 +108570,7 @@
     "id": 8135,
     "date": "2026-03-31T03:49:18",
     "text": "（？）",
-    "views": 227,
+    "views": 230,
     "forwards": 0,
     "images": [
       {
@@ -108589,7 +108589,7 @@
     "id": 8136,
     "date": "2026-03-31T14:41:22",
     "text": "<b>她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩</b>\nTrans in Academia!\n<a href=\"https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw\">https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw</a>\n\n各位好，今天是3月31日🏳️‍⚧️跨性别现身日‍，祝大家节日快乐。\n\n在这个特殊的日子，TiA! 的三名作者 发条鼬、Robbin Gan、塗塗狐 共同创作了《她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩》一文，欢迎大家点击上方链接阅读！",
-    "views": 136,
+    "views": 139,
     "forwards": 1,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -108611,14 +108611,14 @@
     "id": 8137,
     "date": "2026-03-31T17:23:07",
     "text": "<em>This message cannot be displayed because it violated Telegram's Terms of Service.</em>",
-    "views": 224,
+    "views": 230,
     "forwards": 1
   },
   {
     "id": 8138,
     "date": "2026-03-31T18:41:24",
     "text": "<b>公告：我们从「AquaDX」全新更名为「OceanDX」！</b>\n\n做出这一改变是为了与之前的 Aqua 项目区分开来，因为我们现在正在开发一个完全独立的衍生源代码！为了减少混淆、并鼓励“海”量的新贡献者和用户加入我们改了名字。\n\n此外，我们的网站和群组已经更新，以体现这些全新的品牌元素！\n\n我们全新的「OceanNet」网站在 <a href=\"oceandx.net\">oceandx.net</a>\n\n由于域名的更改，您可能需要重新登录。目前，DNS 将保持不变以防止出现兼容性问题（请不要修改 segatools.ini 文件）\n\n感谢使用 OceanDX 并成为我们社区的一员！",
-    "views": 205,
+    "views": 212,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -108641,7 +108641,7 @@
     "id": 8139,
     "date": "2026-03-31T18:57:15",
     "text": "开源了！<a href=\"https://github.com/MewoLab/OceanDX\">https://github.com/MewoLab/OceanDX</a>",
-    "views": 194,
+    "views": 203,
     "forwards": 0,
     "reply": {
       "id": 8138,
@@ -108652,7 +108652,7 @@
     "id": 8140,
     "date": "2026-04-01T09:04:58",
     "text": "谷歌这次更新又来治强迫症了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 140,
+    "views": 164,
     "forwards": 1,
     "media_group_id": 14200274383817613,
     "images": [
@@ -108687,7 +108687,7 @@
     "id": 8142,
     "date": "2026-04-01T14:24:12",
     "text": "是老了还是这几天睡眠债太多... 发现没办法像以前一样在爆肝一晚演讲稿只睡四个小时之后还能有力气起床演讲了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 58,
+    "views": 106,
     "forwards": 0
   }
 ]
