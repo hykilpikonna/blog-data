@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-04-02T06:43:22.210967+00:00</updated>
+  <updated>2026-04-02T08:39:53.469477+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8149</id>
+    <title>小桂桂的回忆录 📒 #8149</title>
+    <updated>2026-04-02T08:16:49+00:00</updated>
+    <content>&lt;p&gt;今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想&lt;/p&gt;
+&lt;p&gt;按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt; 感觉像是时间旅行程度的超能力&lt;/p&gt;
+&lt;p&gt;唉 如果我也能有这种一键暂停/唤醒的功能就好了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8149" rel="alternate"/>
+  </entry>
   <entry>
     <id>8147</id>
     <title>小桂桂的回忆录 📒 #8147</title>
