@@ -62104,7 +62104,7 @@
     "id": 4530,
     "date": "2024-10-12T17:20:44",
     "text": "刚刚看完了瑞希的五箱剧情，好心痛\n\n(剧透警告) tldr: <span class=\"spoiler\"><span>瑞希犹豫了太久太久终于下定决心和绘名出柜了，原本计划在天台上慢慢聊，但是出了差错被反跨同学先爆了柜，瑞希回来看到这一幕情绪崩溃逃走了，绘名追上去之后瑞希哭喊着诉说了一切</span></span>\n\n...这样的经历好心痛。想想我也会因为想要和重要的朋友出柜烦恼，想要和他们分享那些没办法说的日常琐事，但是又害怕像无数次先例一样被拒绝，害怕友情因此改变\n\n最后一次这样做大概是去年实习结束之后和麻薯见面。麻薯大概是我当时的社交圈里认识时间最久的人了，是初中在游戏上认识的幼馴染。去年去纽约和他旅游的空隙出了柜，他真的这六七年来完全没有察觉，被理解也是非常开心！不过这也是在已经认识他喜欢过他的七年之后，在我们都各自脱了单之后，在旅途的终末差不多要告别的最后一天才拼凑出勇气说出来的事\n\n实际上，我还是变成了胆小鬼呢... 不知道从什么时候开始，我是跨性别这件事似乎成为了某种公开的秘密——接触过跨儿的人一定会觉得很明显，没那么敏感的人也看不出哪里不对，无论怎样都不想再和新的朋友重新说明一切了\n\n<span class=\"spoiler\"><span>...感觉自己会害怕和很好的朋友进入亲密关系也是因为害怕改变，如果我真的很需要一个人的话，多么心动也更不想揭开这个未知数</span></span>",
-    "views": 143,
+    "views": 144,
     "forwards": 3,
     "media_group_id": 13830029154140445,
     "images": [
@@ -63688,7 +63688,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 238,
+    "views": 239,
     "forwards": 1,
     "images": [
       {
@@ -68855,7 +68855,7 @@
     "id": 4987,
     "date": "2025-03-07T03:56:24",
     "text": "把几个月前写的 <a href=\"https://github.com/MewoLab/worldlinkd\">WorldLink mod</a> 正式发布了！终于可以远程和任何人拼机 maimai 了 qwq\n\n（然后还在🇸🇬🇺🇸🇳🇱🇨🇦开了四个联机服务器，感谢 digital ocean 给我白嫖hhhh",
-    "views": 287,
+    "views": 288,
     "forwards": 4,
     "images": [
       {
@@ -68874,7 +68874,7 @@
     "id": 4988,
     "date": "2025-03-07T11:34:15",
     "text": "这个项目的 CI 同时要编译网页、C# mod、还有 kt jvm 服务器... 一次构建总共 1 分 22 秒\n\n...\n\nBun 编译网页上传总共花了 5 秒，\n安装 .NET 编译 mod 总共花了 12 秒\n...剩下的一分钟都用来编译 kt 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "reply": {
       "id": 4987,
@@ -68897,7 +68897,7 @@
     "id": 4989,
     "date": "2025-03-07T11:44:35",
     "text": "写了一个实时查看联机房间的网页 qwq <a href=\"https://link.aquadx.net/\">https://link.aquadx.net/</a>\n\n进行了一个计时速通，写完网页花了一个小时，然后写 CI 想办法集成进服务器部署又花了两个小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>\n\n也许以后这种小网页还是不用框架直接纯手搓 js html css 更方便一点",
-    "views": 200,
+    "views": 201,
     "forwards": 0,
     "media_group_id": 13930783004204845,
     "images": [
@@ -68931,7 +68931,7 @@
     "id": 4991,
     "date": "2025-03-08T09:57:02",
     "text": "今天发现某云服务厂可以白嫖 DeepSeek r1 70b，就去搭了一个 openwebui\n\n...然后发现它说的 “openai 兼容” 但是实际上只有 /completions 这一个节点，并没有实现 /models 列出模型也没有实现模型选择，而且思考的时候还不会输出最开始的 <think> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n所以又花两个小时写了一个代理用来转发 api，实现了模型列表和模型切换，把响应头的 <think> 补上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n结果就是花了三个小时去白嫖 $100 左右的 api... 值得吗？<span class=\"spoiler\"><span>其实实际上 r1 的 api 真的非常便宜了，但是按用量收费的东西即使再便宜也会想节省，只有白嫖的东西才可以放心浪费，甚至会觉得用不完就亏了，至少从这个角度看这三个小时是绝对值得的</span></span>",
-    "views": 203,
+    "views": 204,
     "forwards": 0,
     "media_group_id": 13931422578567677,
     "images": [
@@ -68971,7 +68971,7 @@
     "id": 4994,
     "date": "2025-03-08T12:13:44",
     "text": "<a href=\"##桂桂最近吃什么\">#桂桂最近吃什么</a> （夜宵）\n每天换一种口味的方便面 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 0,
     "media_group_id": 13931488199598397,
     "images": [
@@ -69609,7 +69609,7 @@
     "id": 5038,
     "date": "2025-03-17T11:43:38",
     "text": "众所周知 在图片上叠加水印的话，只要暴露了水印原本的样子就很容易逆向叠加来去水印了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 224,
+    "views": 225,
     "forwards": 4,
     "files": [
       {
@@ -69632,7 +69632,7 @@
     "id": 5039,
     "date": "2025-03-18T00:22:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nTracer 和 Celestium 来这里玩，做了炖鸡拉面！\n\n比较幸运，虽然没有提前准备但是冰箱里正好有五人份的鸡肉，而且炖鸡也不需要提前解冻什么 qwq\n\n如果上次去超市没有贪便宜多买一盒就惨惨了",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "media_group_id": 13938058989712541,
     "images": [
@@ -69682,7 +69682,7 @@
     "id": 5043,
     "date": "2025-03-18T03:22:00",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 甘い夢溶けて目を瞑って\n♪ 覚めない様に祈っている\n\n♪ 思い浮かぶ何回忘れても\n♪ 残ったままで消えやしない\n♪ 生まれ変わったら消えやしない...\n\n人真的好矛盾，在研究着控制大模型的记忆的同时，明明自己的记忆都还没法控制——有忘记的事情想要回忆起，有记住的事情想要消去，实际上却两边都做不到...\n\n<span class=\"spoiler\"><span>「即使是重生 也无法消去」 吗</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 258,
+    "views": 259,
     "forwards": 2,
     "files": [
       {
@@ -69704,7 +69704,7 @@
     "id": 5044,
     "date": "2025-03-18T03:58:15",
     "text": "啊啊 看 aquadx 群里 vc 在看 girls band cry 就进来看了一集，我真的超爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i> 立即下载\n\n电波完全对上了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 254,
+    "views": 255,
     "forwards": 1,
     "images": [
       {
@@ -69723,7 +69723,7 @@
     "id": 5045,
     "date": "2025-03-18T11:30:27",
     "text": "哇 我居然晚上十二点睡了、早上七点醒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这两个月唯一一个作息正常的天",
-    "views": 214,
+    "views": 215,
     "forwards": 1,
     "images": [
       {
@@ -69742,7 +69742,7 @@
     "id": 5046,
     "date": "2025-03-18T13:50:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听哭了... 好心疼灯灯 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> \n\n♪ 隔てられたガラスは檻じゃなかったよ\n（将我与他人隔开的玻璃并非牢笼）\n♪ 傷つく僕を守ってくれていたのに\n（而是一直在保护伤痕累累的我）\n\n刚走出独自一人的气泡、创造出幸福耀眼的回忆，就要看着它被结束，仿佛只是一场梦... <span class=\"spoiler\"><span>面对着无法挽回的失去，也许更希望自己不曾拥有。这样的话，隔开我与世界的屏障确实在保护着我</span></span>",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "files": [
       {
@@ -69764,7 +69764,7 @@
     "id": 5047,
     "date": "2025-03-18T21:52:33",
     "text": "不愉快\n\n买了 Split Fiction，想和聊聊玩，但是聊聊想给大家直播然后录下来... <span class=\"spoiler\"><span>明明感觉身边的朋友都很忙直播了也不会有人看</span></span>，不过聊聊想播就试试好了，我也想把一起玩游戏的回忆记录下来 <i class=\"custom-emoji\" emoji-src=\"emoji/5470078478558700075.webp\">🙏</i>\n\n原本聊聊买的是 Xbox 版本，但是没有合适的捕捉卡... 有一个只有单向输入的捕捉卡，如果用它的话就只能在带延迟的捕捉画面里面玩了。配上一个 HDMI 交换机应该可以，但是需要额外两根 HDMI 线这里也没有\n\n所以我在 PC 上重新买了一份，在客厅里 AquaDX 的宿主机服务器上跑起来了，这里正好插了一张 1660S 勉强能带动 1080p60。因为蓝牙卡不太行，手柄接了一根很长的有线。然后还要接摄像头录视频和声音...\n\n现在一切都搭好了，好累好累。<span class=\"spoiler\"><span>一想到之后还要玩游戏就觉得更累了，明明两小时前想玩游戏只是其他事情做累了想要休息一下...</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 259,
+    "views": 260,
     "forwards": 0,
     "images": [
       {
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6534,
+    "views": 6535,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4517,
+    "views": 4524,
     "forwards": 27
   },
   {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 249,
+    "views": 251,
     "forwards": 0,
     "images": [
       {
@@ -108761,7 +108761,7 @@
     "id": 8146,
     "date": "2026-04-02T05:14:55",
     "text": "？",
-    "views": 166,
+    "views": 170,
     "forwards": 0,
     "images": [
       {
@@ -108780,7 +108780,7 @@
     "id": 8147,
     "date": "2026-04-02T05:31:45",
     "text": "后续节目：",
-    "views": 172,
+    "views": 177,
     "forwards": 2,
     "media_group_id": 14200863245056029,
     "images": [
@@ -108814,7 +108814,7 @@
     "id": 8149,
     "date": "2026-04-02T08:16:49",
     "text": "今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想\n\n按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 感觉像是时间旅行程度的超能力\n\n唉 如果我也能有这种一键暂停/唤醒的功能就好了",
-    "views": 118,
+    "views": 125,
     "forwards": 0
   }
 ]
