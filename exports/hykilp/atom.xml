@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-04-03T16:27:43.067358+00:00</updated>
+  <updated>2026-04-03T18:28:03.340100+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8154</id>
+    <title>小桂桂的回忆录 📒 #8154</title>
+    <updated>2026-04-03T17:26:24+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##桂桂今天吃什么"&gt;#桂桂今天吃什么&lt;/a&gt;
+肉乌冬！&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8154" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>8153</id>
+    <title>小桂桂的回忆录 📒 #8153</title>
+    <updated>2026-04-03T16:47:22+00:00</updated>
+    <content>&lt;p&gt;终于发现之前的 C:\dev\null 文件是怎么回事了，是 VSCode 远程开发的隔离有 bug&lt;/p&gt;
+&lt;p&gt;今天用 VSCode Copilot Agent 在专门开的虚拟机的 SSH 环境里写代码，然后它写文件写到我宿主机上了...&lt;/p&gt;
+&lt;p&gt;看来不能假设远程开发功能有任何隔离了...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8153" rel="alternate"/>
+  </entry>
   <entry>
     <id>8152</id>
     <title>小桂桂的回忆录 📒 #8152</title>
