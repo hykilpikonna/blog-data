@@ -41153,14 +41153,14 @@
     "id": 3047,
     "date": "2023-12-20T06:27:01",
     "text": "Celestium 住进来会不会是我和聊聊恢复作息的契机呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 2
   },
   {
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41194,7 +41194,7 @@
     "id": 3050,
     "date": "2023-12-20T18:53:08",
     "text": "聊聊买了一个这个鼓，没有压感感觉接上 garageband 的音源也救不了它...",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -41213,7 +41213,7 @@
     "id": 3051,
     "date": "2023-12-21T02:57:01",
     "text": "？🫠",
-    "views": 122,
+    "views": 123,
     "forwards": 1,
     "images": [
       {
@@ -41232,21 +41232,21 @@
     "id": 3052,
     "date": "2023-12-22T08:18:05",
     "text": "之前投完 Bilibili 视频从私信认识了几位同样在多伦多喜欢玩街机音游的朋友，今天 CauBaC 来这里玩，见到了新朋友好开心 qwq\n\n感觉好神奇，即使没有互相发过照片依然一眼认出了是网友（以及 CauBaC 好可爱！）而且发现我真的不社恐了诶，<del>想起来两三年前这样见网友还会觉得认错人会好尴尬，然后就会在约定地点旁边打字问∞个问题之后发现网友就在眼前</del>（？）\n\n玩得很开心！她好厉害！> < 刚过来她还说没怎么玩过中二，然后我很耐心地讲了各种流程结果她上来就打 13+ 打了一个 995 (╯’ – ‘)╯︵ ┻━┻ <del>被音游人的例常卖菜骗到了</del>\n\n好想快点把 Wacca 和 maimai 也搭起来...",
-    "views": 134,
+    "views": 135,
     "forwards": 0
   },
   {
     "id": 3053,
     "date": "2023-12-22T09:11:04",
     "text": "又发生了睡觉 deadlock，我在等聊聊睡觉的时候聊聊在等我睡觉，结果就到凌晨四点了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 133,
+    "views": 134,
     "forwards": 2
   },
   {
     "id": 3054,
     "date": "2023-12-22T23:19:55",
     "text": "更新完了！<a href=\"https://github.com/hykilpikonna/AquaDX\">AquaDX</a> 和 <a href=\"lux.hydev.org\">lux.hydev.org</a> 都支持中二 SUN Plus 了！所有数据也都同步了哦",
-    "views": 143,
+    "views": 144,
     "forwards": 1,
     "media_group_id": 13626297563827117,
     "images": [
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 232,
+    "views": 233,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,7 +41322,7 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 320,
+    "views": 321,
     "forwards": 0
   },
   {
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4550,
+    "views": 4551,
     "forwards": 27
   },
   {
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 264,
+    "views": 265,
     "forwards": 1,
     "images": [
       {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 279,
+    "views": 280,
     "forwards": 0,
     "images": [
       {
@@ -108589,7 +108589,7 @@
     "id": 8136,
     "date": "2026-03-31T14:41:22",
     "text": "<b>她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩</b>\nTrans in Academia!\n<a href=\"https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw\">https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw</a>\n\n各位好，今天是3月31日🏳️‍⚧️跨性别现身日‍，祝大家节日快乐。\n\n在这个特殊的日子，TiA! 的三名作者 发条鼬、Robbin Gan、塗塗狐 共同创作了《她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩》一文，欢迎大家点击上方链接阅读！",
-    "views": 188,
+    "views": 191,
     "forwards": 1,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -108611,14 +108611,14 @@
     "id": 8137,
     "date": "2026-03-31T17:23:07",
     "text": "<em>This message cannot be displayed because it violated Telegram's Terms of Service.</em>",
-    "views": 291,
+    "views": 292,
     "forwards": 1
   },
   {
     "id": 8138,
     "date": "2026-03-31T18:41:24",
     "text": "<b>公告：我们从「AquaDX」全新更名为「OceanDX」！</b>\n\n做出这一改变是为了与之前的 Aqua 项目区分开来，因为我们现在正在开发一个完全独立的衍生源代码！为了减少混淆、并鼓励“海”量的新贡献者和用户加入我们改了名字。\n\n此外，我们的网站和群组已经更新，以体现这些全新的品牌元素！\n\n我们全新的「OceanNet」网站在 <a href=\"oceandx.net\">oceandx.net</a>\n\n由于域名的更改，您可能需要重新登录。目前，DNS 将保持不变以防止出现兼容性问题（请不要修改 segatools.ini 文件）\n\n感谢使用 OceanDX 并成为我们社区的一员！",
-    "views": 309,
+    "views": 311,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -108641,7 +108641,7 @@
     "id": 8139,
     "date": "2026-03-31T18:57:15",
     "text": "开源了！<a href=\"https://github.com/MewoLab/OceanDX\">https://github.com/MewoLab/OceanDX</a>",
-    "views": 295,
+    "views": 298,
     "forwards": 0,
     "reply": {
       "id": 8138,
@@ -108652,7 +108652,7 @@
     "id": 8140,
     "date": "2026-04-01T09:04:58",
     "text": "谷歌这次更新又来治强迫症了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 281,
+    "views": 282,
     "forwards": 1,
     "media_group_id": 14200274383817613,
     "images": [
@@ -108715,7 +108715,7 @@
   {
     "id": 8144,
     "date": "2026-04-01T20:46:09",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "files": [
       {
@@ -108740,7 +108740,7 @@
     "id": 8145,
     "date": "2026-04-01T23:35:38",
     "text": "一袋长了眼睛的可乐",
-    "views": 298,
+    "views": 302,
     "forwards": 4,
     "files": [
       {
@@ -108761,7 +108761,7 @@
     "id": 8146,
     "date": "2026-04-02T05:14:55",
     "text": "？",
-    "views": 291,
+    "views": 295,
     "forwards": 0,
     "images": [
       {
@@ -108780,7 +108780,7 @@
     "id": 8147,
     "date": "2026-04-02T05:31:45",
     "text": "后续节目：",
-    "views": 330,
+    "views": 333,
     "forwards": 2,
     "media_group_id": 14200863245056029,
     "images": [
@@ -108814,13 +108814,13 @@
     "id": 8149,
     "date": "2026-04-02T08:16:49",
     "text": "今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想\n\n按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 感觉像是时间旅行程度的超能力\n\n唉 如果我也能有这种一键暂停/唤醒的功能就好了",
-    "views": 340,
+    "views": 344,
     "forwards": 0
   },
   {
     "id": 8150,
     "date": "2026-04-03T01:37:14",
-    "views": 333,
+    "views": 339,
     "forwards": 1,
     "media_group_id": 14201441874134237,
     "images": [
@@ -108850,14 +108850,14 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 1687,
+    "views": 1781,
     "forwards": 27
   },
   {
     "id": 8153,
     "date": "2026-04-03T16:47:22",
     "text": "终于发现之前的 C:\\dev\\null 文件是怎么回事了，是 VSCode 远程开发的隔离有 bug\n\n今天用 VSCode Copilot Agent 在专门开的虚拟机的 SSH 环境里写代码，然后它写文件写到我宿主机上了...\n\n看来不能假设远程开发功能有任何隔离了...",
-    "views": 128,
+    "views": 154,
     "forwards": 3,
     "reply": {
       "id": 8146,
@@ -108880,7 +108880,7 @@
     "id": 8154,
     "date": "2026-04-03T17:26:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！",
-    "views": 91,
+    "views": 119,
     "forwards": 0,
     "media_group_id": 14201897473416885,
     "images": [
@@ -108923,6 +108923,56 @@
         "url": "media/8157.jpg",
         "size": 515678,
         "thumb": "media/8157.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8158,
+    "date": "2026-04-03T23:52:20",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱！（是室友做的）\n\n想念北海道了 qwq",
+    "views": 39,
+    "forwards": 0,
+    "media_group_id": 14202082725553261,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2026-04-03T23:52:18",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-03_23-52-18.jpg",
+        "url": "media/8158.jpg",
+        "size": 449477,
+        "thumb": "media/8158.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2026-04-03T23:52:18",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-03_23-52-18.jpg",
+        "url": "media/8159.jpg",
+        "size": 621313,
+        "thumb": "media/8159.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "date": "2026-04-03T23:52:19",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-03_23-52-19.jpg",
+        "url": "media/8160.jpg",
+        "size": 542916,
+        "thumb": "media/8160.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-04-03T23:52:19",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-03_23-52-19.jpg",
+        "url": "media/8161.jpg",
+        "size": 954833,
+        "thumb": "media/8161.jpg_thumb.jpg"
       }
     ]
   }
