@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Apr 2026 18:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 20:28:22 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #8171</title>
+      <link>https://aza.moe/life?post=8171</link>
+      <description>&lt;p&gt;AI agent 相关的代码库好草台，感觉很多东西都不按标准写&lt;/p&gt;
+&lt;p&gt;今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references&lt;/p&gt;
+&lt;p&gt;然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt; 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重&lt;/p&gt;
+&lt;p&gt;agno 一个 39.2k star 的项目... 这是为什么呢？&lt;/p&gt;</description>
+      <guid isPermaLink="false">8171</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #8166</title>
       <link>https://aza.moe/life?post=8166</link>

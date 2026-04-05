@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-04-05T18:26:36.091421+00:00</updated>
+  <updated>2026-04-05T20:28:22.527552+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8171</id>
+    <title>小桂桂的回忆录 📒 #8171</title>
+    <updated>2026-04-05T18:42:09+00:00</updated>
+    <content>&lt;p&gt;AI agent 相关的代码库好草台，感觉很多东西都不按标准写&lt;/p&gt;
+&lt;p&gt;今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references&lt;/p&gt;
+&lt;p&gt;然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt; 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重&lt;/p&gt;
+&lt;p&gt;agno 一个 39.2k star 的项目... 这是为什么呢？&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8171" rel="alternate"/>
+  </entry>
   <entry>
     <id>8166</id>
     <title>小桂桂的回忆录 📒 #8166</title>
