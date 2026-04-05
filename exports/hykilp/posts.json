@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6538,
+    "views": 6539,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8547,
+    "views": 8548,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -92830,7 +92830,7 @@
     "id": 6869,
     "date": "2025-10-06T05:39:34",
     "text": "<a href=\"https://t.me/ShuChann/3099\">https://t.me/ShuChann/3099</a>",
-    "views": 359,
+    "views": 360,
     "forwards": 2
   },
   {
@@ -97826,7 +97826,7 @@
     "id": 7269,
     "date": "2025-11-25T06:21:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n之前在乌冬县买了山田家的生乌冬，今天用它做了肉乌冬，超好吃！\n\n以及原来生乌冬要煮 15 分钟哇，第一次煮 15 分钟的面 quq",
-    "views": 365,
+    "views": 366,
     "forwards": 1,
     "media_group_id": 14112413629006701,
     "images": [
@@ -97906,7 +97906,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 348,
+    "views": 350,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97929,7 +97929,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 369,
+    "views": 371,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97951,7 +97951,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 412,
+    "views": 414,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97962,7 +97962,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 489,
+    "views": 491,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98062,14 +98062,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 428,
+    "views": 429,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 427,
+    "views": 428,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98080,7 +98080,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 414,
+    "views": 415,
     "forwards": 4,
     "images": [
       {
@@ -98099,7 +98099,7 @@
     "id": 7292,
     "date": "2025-11-27T14:21:37",
     "text": "今天和 <a href=\"https://t.me/Aoino_Skynext\">@Aoino_Skynext</a> 和 <a href=\"https://t.me/renna_z\">@renna_z</a> 去了广州<i class=\"custom-emoji\" emoji-src=\"emoji/6291579304216103504.webp\">🏳️‍⚧️</i>塔！\n\n还去旁边的桥上看了日落，风景好不错好不错！没有带相机真的太可惜了\n\n<del>以及看到了对面的桥在播 bad apple</del>（存疑）",
-    "views": 305,
+    "views": 307,
     "forwards": 2,
     "media_group_id": 14114026380721021,
     "images": [
@@ -98209,7 +98209,7 @@
     "id": 7302,
     "date": "2025-11-28T05:01:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n广式牛丼（...？）",
-    "views": 291,
+    "views": 292,
     "forwards": 0,
     "images": [
       {
@@ -98228,7 +98228,7 @@
     "id": 7303,
     "date": "2025-11-28T10:16:31",
     "text": "感觉广州好猫猫喵喵的，今天已经遇到了十多只猫猫了",
-    "views": 285,
+    "views": 286,
     "forwards": 1,
     "media_group_id": 14114599932668413,
     "images": [
@@ -98709,7 +98709,7 @@
     "id": 7340,
     "date": "2025-11-30T04:51:34",
     "text": "去了华强北，现在依然好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n有面向消费者的电子产品和配件店、有面向极客的 DIY 零件元件店、还有面向商业的批发店，感觉好厉害\n\n现在依然觉得线下这种能够摸到实物的购物方式比网购靠谱很多，以及在这里也不用担心 DIY 硬件的时候会因为缺零件阻碍进度了。好想以后搬到这附近住呀",
-    "views": 308,
+    "views": 310,
     "forwards": 0,
     "media_group_id": 14115826358390605,
     "images": [
@@ -98888,7 +98888,7 @@
     "id": 7354,
     "date": "2025-12-01T10:25:19",
     "text": "热转印打印耗材好奇妙\n\n今天正好打完了一卷耗材，因为好奇就拆开看了一下，发现耗材上居然还保留着图片的纹路\n\n把黄紫蓝三段卡带剪开、再叠起来之后果然就复原出了原图的负片！放在一个光源上拍下来，再后期进行一下反色就还原出原图了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看来以后打印完的耗材也要留下来了 qwq",
-    "views": 276,
+    "views": 277,
     "forwards": 3,
     "media_group_id": 14116677755987317,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4577,
+    "views": 4581,
     "forwards": 27
   },
   {
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 1133,
+    "views": 1136,
     "forwards": 4,
     "images": [
       {
@@ -108694,7 +108694,7 @@
     "id": 8143,
     "date": "2026-04-01T20:46:04",
     "text": "话说昨天吃汉堡王因为是coupon所以是四人份套餐，可乐喝不完，桂桂昨天告诉我放冰箱里了\n我今天打开冰箱看到的可乐：",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -108715,7 +108715,7 @@
   {
     "id": 8144,
     "date": "2026-04-01T20:46:09",
-    "views": 294,
+    "views": 295,
     "forwards": 1,
     "files": [
       {
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 2684,
+    "views": 2700,
     "forwards": 29
   },
   {
@@ -108980,7 +108980,7 @@
     "id": 8163,
     "date": "2026-04-04T09:55:10",
     "text": "袋子在摇尾巴！",
-    "views": 199,
+    "views": 200,
     "forwards": 1,
     "files": [
       {
@@ -109000,7 +109000,7 @@
   {
     "id": 8164,
     "date": "2026-04-04T15:19:28",
-    "views": 174,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 14202527751806357,
     "images": [
@@ -109030,7 +109030,7 @@
     "id": 8166,
     "date": "2026-04-05T08:06:10",
     "text": "变色！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nGitadora DM 配好到现在半个月，已经会打一些打起来很爽的谱子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n（等再熟练一点找时间录录手元）",
-    "views": 104,
+    "views": 110,
     "forwards": 0,
     "media_group_id": 14203010963494653,
     "images": [
