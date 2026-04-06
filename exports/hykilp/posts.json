@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4599,
+    "views": 4600,
     "forwards": 27
   },
   {
@@ -108850,14 +108850,14 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 2795,
+    "views": 2806,
     "forwards": 29
   },
   {
     "id": 8153,
     "date": "2026-04-03T16:47:22",
     "text": "终于发现之前的 C:\\dev\\null 文件是怎么回事了，是 VSCode 远程开发的隔离有 bug\n\n今天用 VSCode Copilot Agent 在专门开的虚拟机的 SSH 环境里写代码，然后它写文件写到我宿主机上了...\n\n看来不能假设远程开发功能有任何隔离了...",
-    "views": 283,
+    "views": 285,
     "forwards": 4,
     "reply": {
       "id": 8146,
@@ -108880,7 +108880,7 @@
     "id": 8154,
     "date": "2026-04-03T17:26:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！",
-    "views": 248,
+    "views": 250,
     "forwards": 1,
     "media_group_id": 14201897473416885,
     "images": [
@@ -108930,7 +108930,7 @@
     "id": 8158,
     "date": "2026-04-03T23:52:20",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱！（是室友做的）\n\n想念北海道了 qwq",
-    "views": 237,
+    "views": 239,
     "forwards": 1,
     "media_group_id": 14202082725553261,
     "images": [
@@ -108980,7 +108980,7 @@
     "id": 8163,
     "date": "2026-04-04T09:55:10",
     "text": "袋子在摇尾巴！",
-    "views": 223,
+    "views": 225,
     "forwards": 2,
     "files": [
       {
@@ -109000,7 +109000,7 @@
   {
     "id": 8164,
     "date": "2026-04-04T15:19:28",
-    "views": 203,
+    "views": 205,
     "forwards": 0,
     "media_group_id": 14202527751806357,
     "images": [
@@ -109030,7 +109030,7 @@
     "id": 8166,
     "date": "2026-04-05T08:06:10",
     "text": "变色！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nGitadora DM 配好到现在半个月，已经会打一些打起来很爽的谱子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n（等再熟练一点找时间录录手元）",
-    "views": 163,
+    "views": 165,
     "forwards": 0,
     "media_group_id": 14203010963494653,
     "images": [
@@ -109095,7 +109095,7 @@
     "id": 8171,
     "date": "2026-04-05T18:42:09",
     "text": "AI agent 相关的代码库好草台，感觉很多东西都不按标准写\n\n今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references\n\n然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重\n\nagno 一个 39.2k star 的项目... 这是为什么呢？",
-    "views": 135,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 14203316239623157,
     "images": [
