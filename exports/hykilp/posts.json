@@ -97442,7 +97442,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 590,
+    "views": 591,
     "forwards": 13
   },
   {
@@ -106216,7 +106216,7 @@
     "id": 7954,
     "date": "2026-02-27T02:57:45",
     "text": "仔细研究了一下 unsplash，感觉和我对这个平台的第一印象很不一样...\n\n原本以为是一个摄影社区自己做的免费共享网站，查了一下发现实际上是付费图库大公司 Getty Images 旗下的网站，同样在它旗下的还有 iStock 和 <code>photos.com</code>\n\n原本以为整个平台都是非营利的，实际上只有自己上传的照片是非营利，平台却有 $16/mo 的会员选项，而且即使付费会员下载你的照片也不会有收益\n\n那怎么获得收益呢？答案是加入他们的<a href=\"https://peterorsel.com/why-you-should-not-contribute-to-unsplash-plus/\">摄影外包团队</a>。网站说着创意和热爱，实际上是像外包接单一样的，他们分析会员用户想要什么，给你提内容要求 prompt 和价格（按难度通常是 $5~30）你去按要求拍，然后拍出来的照片只有会员可以下载，只有他们有独家贩卖权利... 不懂，摄影师是什么低价人肉 txt2img 模型吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n有点好奇申请需要什么，然后发现目前提交申请的渠道还关闭了...\n\n不知道怎么看... 虽然很想要免费分享/归档自己的照片，但是还是更不想被这种坏资本家利用，所以觉得可能还是不用 unsplash 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 301,
+    "views": 302,
     "forwards": 2,
     "media_group_id": 14177288519849069,
     "images": [
@@ -106266,14 +106266,14 @@
     "id": 7958,
     "date": "2026-02-27T03:33:09",
     "text": "发烧了... 37.3℃ <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 318,
+    "views": 319,
     "forwards": 0
   },
   {
     "id": 7959,
     "date": "2026-02-27T17:17:45",
     "text": "吃了泰诺睡得香和デエビゴ睡了 13h，感觉不发烧了 qwq（虽然依然困困",
-    "views": 319,
+    "views": 320,
     "forwards": 1,
     "reply": {
       "id": 7958,
@@ -106284,14 +106284,14 @@
     "id": 7960,
     "date": "2026-02-27T20:27:10",
     "text": "LLVM (Large Language Vision Model) <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 304,
+    "views": 305,
     "forwards": 0
   },
   {
     "id": 7961,
     "date": "2026-03-01T01:30:49",
     "text": "今天车熄火的时候发现电瓶电压在一分钟内从 12.8V 掉到了 11.6V...\n\n感觉五岁的电池可能确实有点老了，决定换一块，于是就去买了一块和 <a href=\"https://t.me/TechCiel\">@TechCiel</a> 一起换了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n但是由于各种螺丝螺母坏掉的原因两个人折腾了快三个小时才换好... 有很多原本应该很轻松但是因为螺纹坏掉了连手电钻都拧不动的螺丝，而且因为螺丝是一个一体的奇妙 OEM 固定件所以我的螺丝箱里也没有平替 \n\n还有一个固定电池横向位置的螺丝断进车身的螺母里了，不知道怎么办，大概想 3d 打印一个固定件代替吧",
-    "views": 295,
+    "views": 296,
     "forwards": 0,
     "media_group_id": 14178629194148141,
     "images": [
@@ -106331,7 +106331,7 @@
     "id": 7964,
     "date": "2026-03-01T14:26:09",
     "text": "<code>git config --global user.email</code>",
-    "views": 330,
+    "views": 331,
     "forwards": 3,
     "images": [
       {
@@ -106350,7 +106350,7 @@
     "id": 7965,
     "date": "2026-03-01T21:08:43",
     "text": "是 Pokemon 30 周年！决定开坑一个 Cobbleverse (Minecraft x Pokemon) 模组服务器！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实主要是想和聊聊玩所以开了，大家想玩的话可以一起玩哦 qwq\n\n下载: <a href=\"https://pixeldrain.com/u/SCBjfBKU\">https://pixeldrain.com/u/SCBjfBKU</a>",
-    "views": 317,
+    "views": 318,
     "forwards": 1,
     "images": [
       {
@@ -106368,7 +106368,7 @@
   {
     "id": 7966,
     "date": "2026-03-02T06:09:59",
-    "views": 295,
+    "views": 296,
     "forwards": 0,
     "images": [
       {
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1741,
+    "views": 1743,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4624,
+    "views": 4627,
     "forwards": 27
   },
   {
@@ -108071,7 +108071,7 @@
     "id": 8096,
     "date": "2026-03-25T18:56:11",
     "text": "<a href=\"##生草翻译\">#生草翻译</a>",
-    "views": 277,
+    "views": 278,
     "forwards": 2,
     "images": [
       {
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3163,
+    "views": 3173,
     "forwards": 30
   },
   {
@@ -109161,7 +109161,7 @@
     "id": 8177,
     "date": "2026-04-07T01:46:50",
     "text": "猫猫帮我写代码",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "media_group_id": 14204211284790165,
     "images": [
@@ -109190,7 +109190,7 @@
   {
     "id": 8178,
     "date": "2026-04-07T02:37:26",
-    "views": 200,
+    "views": 202,
     "forwards": 1,
     "files": [
       {
@@ -109211,14 +109211,14 @@
     "id": 8179,
     "date": "2026-04-07T07:46:07",
     "text": "需要禁止吃 dayvigo 后 sudo",
-    "views": 181,
+    "views": 183,
     "forwards": 2
   },
   {
     "id": 8180,
     "date": "2026-04-07T08:03:12",
     "text": "今天把新的想法加入 project backlog 的时候发现里面有一百项了，有一百个想做但是没时间做的想法了... 是值得庆祝的事情吗？",
-    "views": 180,
+    "views": 185,
     "forwards": 1,
     "images": [
       {
@@ -109237,7 +109237,7 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 139,
+    "views": 148,
     "forwards": 2,
     "images": [
       {
@@ -109256,7 +109256,7 @@
     "id": 8182,
     "date": "2026-04-07T17:03:55",
     "text": "猫猫也想吃",
-    "views": 76,
+    "views": 87,
     "forwards": 1,
     "media_group_id": 14204651481908421,
     "images": [
@@ -109290,7 +109290,7 @@
     "id": 8184,
     "date": "2026-04-07T17:24:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 60,
+    "views": 75,
     "forwards": 0,
     "images": [
       {
