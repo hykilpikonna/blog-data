@@ -69151,7 +69151,7 @@
     "id": 5008,
     "date": "2025-03-09T16:40:06",
     "text": "今天最新最热中二 verse 公开漏了，熬夜给 verse 加了 day 1 支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n虽然说其实之前一直都有人有 verse 的私有数据，总是能看到别人发截图，也有人过来让我加 verse 的功能... 但是总感觉作为开放开源服务器，给大家拿不到的版本做支持不太好，所以还是等到所有人都能拿到的时候才做支持啦 qwq",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "media_group_id": 13932307255524245,
     "images": [
@@ -84761,7 +84761,7 @@
     "id": 6203,
     "date": "2025-08-15T16:21:53",
     "text": "到了浜松，迎接我的是黑白猫猫和夜晚的霓虹街道\n\n买了些猫零食喂猫，这两只好怕人，我们走了之后才过去吃",
-    "views": 251,
+    "views": 252,
     "forwards": 0,
     "media_group_id": 14042199310333165,
     "images": [
@@ -89967,7 +89967,7 @@
     "id": 6619,
     "date": "2025-09-20T01:31:49",
     "text": "实习结束了。导师组织了离别派对（实际上是晚餐）\n\n每次都好不想要离开...",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "media_group_id": 14066655278384837,
     "images": [
@@ -90047,7 +90047,7 @@
     "id": 6626,
     "date": "2025-09-20T01:40:06",
     "text": "见到 syama 了，syama 可爱喵",
-    "views": 223,
+    "views": 224,
     "forwards": 0,
     "media_group_id": 14066659255534285,
     "images": [
@@ -90097,7 +90097,7 @@
     "id": 6631,
     "date": "2025-09-20T10:43:28",
     "text": "黑猫：盯——",
-    "views": 207,
+    "views": 208,
     "forwards": 0,
     "images": [
       {
@@ -91010,7 +91010,7 @@
     "id": 6718,
     "date": "2025-09-25T09:51:52",
     "text": "一些东京的航拍（？）\n\n（其实是送 syama 去羽田机场的路上在东京<i class=\"custom-emoji\" emoji-src=\"emoji/6131921986705688808.webp\">🚉</i>单轨上拍的，来回车票花了 JP￥1200 好贵）\n\n好天气拍什么都好好看呀",
-    "views": 188,
+    "views": 189,
     "forwards": 2,
     "media_group_id": 14070351299313197,
     "images": [
@@ -91160,7 +91160,7 @@
     "id": 6731,
     "date": "2025-09-25T10:44:14",
     "text": "最后一天和 syama 和 rastvas 去了上野公园，看到了东照宫\n\n好华丽的神社，整个神社到处都被镀上金还是挺少见的，授付所的建筑是很好看的现代风格，甚至御神籤都镀了金，<del>結び所上挂满了金色传说级厄运</del>\n\n御朱印也超级华丽还有镀金边（不过要 JP￥1000 好贵，一般神社都是 300~500，以及为什么写的是简体中文的「东」而不是「東」哇）",
-    "views": 180,
+    "views": 181,
     "forwards": 2,
     "media_group_id": 14070376438114677,
     "images": [
@@ -93398,7 +93398,7 @@
     "id": 6914,
     "date": "2025-10-11T19:49:18",
     "text": "分享一例配网灵异事件\n\nsyama 来苏州在电视上一起玩 persona 3, 是 moonlight 远程连到她杭州家里的电脑上玩的，玩了几个小时之后突然直连连不上了\n\ndebug 了超级久（有五六个小时）之后，排查了这两点之间的所有设备之后，得出的结论是运营商路由表配坏了，udp ipv6 包发出不去，udp ipv4 回复进不来 🌚\n\n在路由器上抓包，测试 udp6 可以看到发送的包从杭州路由器的 wan eth 出去之后消失了，测试 udp4 可以看到回复的包从加拿大 wan eth 出去之后这边路由器完全没有看到... 从杭州 mtr -u 这边的地址也是在很近的地方就没消息了。\n\n所以现在只有 rustdesk 这个可以纯 tcp 连接的远程软件能通，moonlight 和 tailscale 都没法直连了。放弃，打算明天直接给中国移动打电话",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "media_group_id": 14081697264565341,
     "images": [
@@ -93448,7 +93448,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 291,
+    "views": 292,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -102351,7 +102351,7 @@
     "id": 7641,
     "date": "2026-01-01T19:06:16",
     "text": "然后今天和 syama 去虚拟京都看了烟花！\n\nvrc 里面的互动感觉真的好真实，感觉像是真的和 syama 一起在逛京都一样 qwq\n\n可惜看到看起来很好吃的焼き鳥和鯛焼き没法吃，用虚拟的手抓住它拿到嘴里只能吃到空气... 然后就好饿好饿好饿好饿好饿 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 223,
+    "views": 224,
     "forwards": 1,
     "media_group_id": 14138355013735245,
     "images": [
@@ -102711,7 +102711,7 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 528,
+    "views": 529,
     "forwards": 10,
     "images": [
       {
@@ -105590,7 +105590,7 @@
     "id": 7900,
     "date": "2026-02-18T02:28:05",
     "text": "恐怖\n\n前几天把我之前想卖掉但是没有卖的旧 iPad 送给 syama 了，然后发现它除了之前说的 FaceID 不能用、有 mdm 锁、左上角会误触的问题之外还有：\n\n❌ 外壳上的 SN 和主板 SN 不匹配\n❌ 主板出厂是 64GB，系统里是 256GB\n❌ 型号读出来是 iPad mini 3（可能是扩容的人写 ROM 写错了）\n\n唉，真的第一次见到这么多问题的苹果设备。<span class=\"spoiler\"><span>这么多明显的 red flag 我当时买它的时候线下验货居然一个 red flag 都没发现...</span></span>",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "reply": {
       "id": 4127,
@@ -108570,7 +108570,7 @@
     "id": 8135,
     "date": "2026-03-31T03:49:18",
     "text": "（？）",
-    "views": 298,
+    "views": 299,
     "forwards": 0,
     "images": [
       {
@@ -108618,7 +108618,7 @@
     "id": 8138,
     "date": "2026-03-31T18:41:24",
     "text": "<b>公告：我们从「AquaDX」全新更名为「OceanDX」！</b>\n\n做出这一改变是为了与之前的 Aqua 项目区分开来，因为我们现在正在开发一个完全独立的衍生源代码！为了减少混淆、并鼓励“海”量的新贡献者和用户加入我们改了名字。\n\n此外，我们的网站和群组已经更新，以体现这些全新的品牌元素！\n\n我们全新的「OceanNet」网站在 <a href=\"oceandx.net\">oceandx.net</a>\n\n由于域名的更改，您可能需要重新登录。目前，DNS 将保持不变以防止出现兼容性问题（请不要修改 segatools.ini 文件）\n\n感谢使用 OceanDX 并成为我们社区的一员！",
-    "views": 353,
+    "views": 354,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -108761,7 +108761,7 @@
     "id": 8146,
     "date": "2026-04-02T05:14:55",
     "text": "？",
-    "views": 347,
+    "views": 348,
     "forwards": 0,
     "images": [
       {
@@ -108780,7 +108780,7 @@
     "id": 8147,
     "date": "2026-04-02T05:31:45",
     "text": "后续节目：",
-    "views": 389,
+    "views": 392,
     "forwards": 2,
     "media_group_id": 14200863245056029,
     "images": [
@@ -108814,13 +108814,13 @@
     "id": 8149,
     "date": "2026-04-02T08:16:49",
     "text": "今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想\n\n按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 感觉像是时间旅行程度的超能力\n\n唉 如果我也能有这种一键暂停/唤醒的功能就好了",
-    "views": 406,
+    "views": 408,
     "forwards": 0
   },
   {
     "id": 8150,
     "date": "2026-04-03T01:37:14",
-    "views": 422,
+    "views": 423,
     "forwards": 1,
     "media_group_id": 14201441874134237,
     "images": [
@@ -108850,14 +108850,14 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 2950,
+    "views": 2981,
     "forwards": 29
   },
   {
     "id": 8153,
     "date": "2026-04-03T16:47:22",
     "text": "终于发现之前的 C:\\dev\\null 文件是怎么回事了，是 VSCode 远程开发的隔离有 bug\n\n今天用 VSCode Copilot Agent 在专门开的虚拟机的 SSH 环境里写代码，然后它写文件写到我宿主机上了...\n\n看来不能假设远程开发功能有任何隔离了...",
-    "views": 302,
+    "views": 303,
     "forwards": 4,
     "reply": {
       "id": 8146,
@@ -108880,7 +108880,7 @@
     "id": 8154,
     "date": "2026-04-03T17:26:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "media_group_id": 14201897473416885,
     "images": [
@@ -108930,7 +108930,7 @@
     "id": 8158,
     "date": "2026-04-03T23:52:20",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱！（是室友做的）\n\n想念北海道了 qwq",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "media_group_id": 14202082725553261,
     "images": [
@@ -108980,7 +108980,7 @@
     "id": 8163,
     "date": "2026-04-04T09:55:10",
     "text": "袋子在摇尾巴！",
-    "views": 240,
+    "views": 244,
     "forwards": 2,
     "files": [
       {
@@ -109000,7 +109000,7 @@
   {
     "id": 8164,
     "date": "2026-04-04T15:19:28",
-    "views": 225,
+    "views": 228,
     "forwards": 0,
     "media_group_id": 14202527751806357,
     "images": [
@@ -109030,7 +109030,7 @@
     "id": 8166,
     "date": "2026-04-05T08:06:10",
     "text": "变色！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nGitadora DM 配好到现在半个月，已经会打一些打起来很爽的谱子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n（等再熟练一点找时间录录手元）",
-    "views": 196,
+    "views": 198,
     "forwards": 0,
     "media_group_id": 14203010963494653,
     "images": [
@@ -109095,7 +109095,7 @@
     "id": 8171,
     "date": "2026-04-05T18:42:09",
     "text": "AI agent 相关的代码库好草台，感觉很多东西都不按标准写\n\n今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references\n\n然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重\n\nagno 一个 39.2k star 的项目... 这是为什么呢？",
-    "views": 204,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14203316239623157,
     "images": [
@@ -109135,7 +109135,7 @@
     "id": 8174,
     "date": "2026-04-06T16:35:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n咖喱乌冬！<span class=\"spoiler\"><span>∩ ∪ ∩</span></span>",
-    "views": 168,
+    "views": 175,
     "forwards": 0,
     "images": [
       {
@@ -109154,14 +109154,14 @@
     "id": 8175,
     "date": "2026-04-06T17:53:07",
     "text": "如果社交软件有「知道对方有没有看到我已读了」的功能就好了",
-    "views": 160,
+    "views": 170,
     "forwards": 1
   },
   {
     "id": 8177,
     "date": "2026-04-07T01:46:50",
     "text": "猫猫帮我写代码",
-    "views": 92,
+    "views": 113,
     "forwards": 0,
     "media_group_id": 14204211284790165,
     "images": [
@@ -109190,7 +109190,7 @@
   {
     "id": 8178,
     "date": "2026-04-07T02:37:26",
-    "views": 54,
+    "views": 84,
     "forwards": 1,
     "files": [
       {
