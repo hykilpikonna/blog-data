@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6539,
+    "views": 6540,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97582,7 +97582,7 @@
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 2155,
+    "views": 2156,
     "forwards": 14,
     "reply": {
       "id": 7212,
@@ -101430,7 +101430,7 @@
   {
     "id": 7566,
     "date": "2025-12-22T01:57:36",
-    "views": 271,
+    "views": 272,
     "forwards": 1,
     "reply": {
       "id": 7218,
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1743,
+    "views": 1744,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4635,
+    "views": 4636,
     "forwards": 27
   },
   {
@@ -108652,7 +108652,7 @@
     "id": 8140,
     "date": "2026-04-01T09:04:58",
     "text": "谷歌这次更新又来治强迫症了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 329,
+    "views": 330,
     "forwards": 2,
     "media_group_id": 14200274383817613,
     "images": [
@@ -108850,14 +108850,14 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3272,
+    "views": 3299,
     "forwards": 30
   },
   {
     "id": 8153,
     "date": "2026-04-03T16:47:22",
     "text": "终于发现之前的 C:\\dev\\null 文件是怎么回事了，是 VSCode 远程开发的隔离有 bug\n\n今天用 VSCode Copilot Agent 在专门开的虚拟机的 SSH 环境里写代码，然后它写文件写到我宿主机上了...\n\n看来不能假设远程开发功能有任何隔离了...",
-    "views": 320,
+    "views": 321,
     "forwards": 5,
     "reply": {
       "id": 8146,
@@ -108880,7 +108880,7 @@
     "id": 8154,
     "date": "2026-04-03T17:26:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！",
-    "views": 274,
+    "views": 275,
     "forwards": 1,
     "media_group_id": 14201897473416885,
     "images": [
@@ -108930,7 +108930,7 @@
     "id": 8158,
     "date": "2026-04-03T23:52:20",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱！（是室友做的）\n\n想念北海道了 qwq",
-    "views": 261,
+    "views": 263,
     "forwards": 1,
     "media_group_id": 14202082725553261,
     "images": [
@@ -108980,7 +108980,7 @@
     "id": 8163,
     "date": "2026-04-04T09:55:10",
     "text": "袋子在摇尾巴！",
-    "views": 262,
+    "views": 264,
     "forwards": 2,
     "files": [
       {
@@ -109000,7 +109000,7 @@
   {
     "id": 8164,
     "date": "2026-04-04T15:19:28",
-    "views": 250,
+    "views": 251,
     "forwards": 0,
     "media_group_id": 14202527751806357,
     "images": [
@@ -109135,7 +109135,7 @@
     "id": 8174,
     "date": "2026-04-06T16:35:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n咖喱乌冬！<span class=\"spoiler\"><span>∩ ∪ ∩</span></span>",
-    "views": 237,
+    "views": 238,
     "forwards": 0,
     "images": [
       {
@@ -109154,14 +109154,14 @@
     "id": 8175,
     "date": "2026-04-06T17:53:07",
     "text": "如果社交软件有「知道对方有没有看到我已读了」的功能就好了",
-    "views": 242,
+    "views": 243,
     "forwards": 1
   },
   {
     "id": 8177,
     "date": "2026-04-07T01:46:50",
     "text": "猫猫帮我写代码",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "media_group_id": 14204211284790165,
     "images": [
@@ -109190,7 +109190,7 @@
   {
     "id": 8178,
     "date": "2026-04-07T02:37:26",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "files": [
       {
@@ -109211,14 +109211,14 @@
     "id": 8179,
     "date": "2026-04-07T07:46:07",
     "text": "需要禁止吃 dayvigo 后 sudo",
-    "views": 206,
+    "views": 207,
     "forwards": 2
   },
   {
     "id": 8180,
     "date": "2026-04-07T08:03:12",
     "text": "今天把新的想法加入 project backlog 的时候发现里面有一百项了，有一百个想做但是没时间做的想法了... 是值得庆祝的事情吗？",
-    "views": 214,
+    "views": 216,
     "forwards": 1,
     "images": [
       {
@@ -109237,8 +109237,8 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 214,
-    "forwards": 3,
+    "views": 223,
+    "forwards": 4,
     "images": [
       {
         "width": 611,
@@ -109256,7 +109256,7 @@
     "id": 8182,
     "date": "2026-04-07T17:03:55",
     "text": "猫猫也想吃",
-    "views": 165,
+    "views": 169,
     "forwards": 1,
     "media_group_id": 14204651481908421,
     "images": [
@@ -109290,7 +109290,7 @@
     "id": 8184,
     "date": "2026-04-07T17:24:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 157,
+    "views": 161,
     "forwards": 0,
     "images": [
       {
@@ -109309,7 +109309,7 @@
     "id": 8185,
     "date": "2026-04-08T01:41:54",
     "text": "流浪猫是懂我的\n\n（话说 大概想计划两三天在巴塞罗那玩，有人一起玩吗 qwq",
-    "views": 115,
+    "views": 126,
     "forwards": 0,
     "images": [
       {
