@@ -99884,7 +99884,7 @@
     "id": 7430,
     "date": "2025-12-08T21:07:07",
     "text": "想起之前有人和我说搭好了 homelab 服务器不知道要跑什么服务，我的回答是「感觉很多时候 self host 一个东西不是因为真的能解决什么需求，只是因为我有硬件跑」但是现在觉得能够控制自己用的服务还是挺实用的。\n\n比如今天想要和地球对面的人同时签一份文件，但是因为有个人信息所以不想让这份文件出现在大公司的服务器上，不想让 Docusign 用我的隐私训练 AI，就花半小时 self host 了一个 DocuSeal <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 1086,
+    "views": 1087,
     "forwards": 9,
     "images": [
       {
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4633,
+    "views": 4635,
     "forwards": 27
   },
   {
@@ -108694,7 +108694,7 @@
     "id": 8143,
     "date": "2026-04-01T20:46:04",
     "text": "话说昨天吃汉堡王因为是coupon所以是四人份套餐，可乐喝不完，桂桂昨天告诉我放冰箱里了\n我今天打开冰箱看到的可乐：",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -108715,7 +108715,7 @@
   {
     "id": 8144,
     "date": "2026-04-01T20:46:09",
-    "views": 322,
+    "views": 323,
     "forwards": 1,
     "files": [
       {
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3258,
+    "views": 3272,
     "forwards": 30
   },
   {
@@ -108880,7 +108880,7 @@
     "id": 8154,
     "date": "2026-04-03T17:26:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！",
-    "views": 273,
+    "views": 274,
     "forwards": 1,
     "media_group_id": 14201897473416885,
     "images": [
@@ -108930,7 +108930,7 @@
     "id": 8158,
     "date": "2026-04-03T23:52:20",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱！（是室友做的）\n\n想念北海道了 qwq",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "media_group_id": 14202082725553261,
     "images": [
@@ -108980,7 +108980,7 @@
     "id": 8163,
     "date": "2026-04-04T09:55:10",
     "text": "袋子在摇尾巴！",
-    "views": 261,
+    "views": 262,
     "forwards": 2,
     "files": [
       {
@@ -109000,7 +109000,7 @@
   {
     "id": 8164,
     "date": "2026-04-04T15:19:28",
-    "views": 249,
+    "views": 250,
     "forwards": 0,
     "media_group_id": 14202527751806357,
     "images": [
@@ -109030,7 +109030,7 @@
     "id": 8166,
     "date": "2026-04-05T08:06:10",
     "text": "变色！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nGitadora DM 配好到现在半个月，已经会打一些打起来很爽的谱子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n（等再熟练一点找时间录录手元）",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "media_group_id": 14203010963494653,
     "images": [
@@ -109095,7 +109095,7 @@
     "id": 8171,
     "date": "2026-04-05T18:42:09",
     "text": "AI agent 相关的代码库好草台，感觉很多东西都不按标准写\n\n今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references\n\n然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重\n\nagno 一个 39.2k star 的项目... 这是为什么呢？",
-    "views": 230,
+    "views": 231,
     "forwards": 0,
     "media_group_id": 14203316239623157,
     "images": [
@@ -109135,7 +109135,7 @@
     "id": 8174,
     "date": "2026-04-06T16:35:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n咖喱乌冬！<span class=\"spoiler\"><span>∩ ∪ ∩</span></span>",
-    "views": 235,
+    "views": 237,
     "forwards": 0,
     "images": [
       {
@@ -109154,14 +109154,14 @@
     "id": 8175,
     "date": "2026-04-06T17:53:07",
     "text": "如果社交软件有「知道对方有没有看到我已读了」的功能就好了",
-    "views": 239,
+    "views": 242,
     "forwards": 1
   },
   {
     "id": 8177,
     "date": "2026-04-07T01:46:50",
     "text": "猫猫帮我写代码",
-    "views": 213,
+    "views": 215,
     "forwards": 0,
     "media_group_id": 14204211284790165,
     "images": [
@@ -109190,7 +109190,7 @@
   {
     "id": 8178,
     "date": "2026-04-07T02:37:26",
-    "views": 215,
+    "views": 217,
     "forwards": 1,
     "files": [
       {
@@ -109211,14 +109211,14 @@
     "id": 8179,
     "date": "2026-04-07T07:46:07",
     "text": "需要禁止吃 dayvigo 后 sudo",
-    "views": 203,
+    "views": 206,
     "forwards": 2
   },
   {
     "id": 8180,
     "date": "2026-04-07T08:03:12",
     "text": "今天把新的想法加入 project backlog 的时候发现里面有一百项了，有一百个想做但是没时间做的想法了... 是值得庆祝的事情吗？",
-    "views": 211,
+    "views": 214,
     "forwards": 1,
     "images": [
       {
@@ -109237,7 +109237,7 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 210,
+    "views": 214,
     "forwards": 3,
     "images": [
       {
@@ -109256,7 +109256,7 @@
     "id": 8182,
     "date": "2026-04-07T17:03:55",
     "text": "猫猫也想吃",
-    "views": 162,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 14204651481908421,
     "images": [
@@ -109290,7 +109290,7 @@
     "id": 8184,
     "date": "2026-04-07T17:24:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 154,
+    "views": 157,
     "forwards": 0,
     "images": [
       {
@@ -109309,7 +109309,7 @@
     "id": 8185,
     "date": "2026-04-08T01:41:54",
     "text": "流浪猫是懂我的\n\n（话说 大概想计划两三天在巴塞罗那玩，有人一起玩吗 qwq",
-    "views": 106,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
