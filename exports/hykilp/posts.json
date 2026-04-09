@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4646,
+    "views": 4647,
     "forwards": 27
   },
   {
@@ -107282,7 +107282,7 @@
     "id": 8034,
     "date": "2026-03-17T04:28:19",
     "text": "家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！\n\nWii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库<a href=\"https://github.com/MewoLab/Nunchuck2GF\">写一个 100 行的 HID 固件</a>就好啦 qwq",
-    "views": 353,
+    "views": 354,
     "forwards": 0,
     "media_group_id": 14189773592335341,
     "images": [
@@ -107332,7 +107332,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 1148,
+    "views": 1149,
     "forwards": 4,
     "images": [
       {
@@ -108090,7 +108090,7 @@
     "id": 8097,
     "date": "2026-03-26T06:25:53",
     "text": "照片整理完了！\n\n昨天在路上没有光污染也没有云的地方停下来看了星星！（虽然月亮依然很亮）\n\n然后到 Windsor 之后去河边看了对面的美国 Detroit，在水上被拉长的灯光倒影好好看！可惜没法从这里过去呢（虽然好像真的能过去的话从美国向这边看反而不好看，Windsor 这边和 Detroit 比起来感觉像农村）\n\n以及没有带三脚架好可惜... 在小屏幕上以为自己手很稳，结果回家整理照片发现大部分都糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> F/3.5~6.3 好不适合晚上用，可惜我只有这一个镜头了",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "media_group_id": 14196050825014629,
     "images": [
@@ -108570,7 +108570,7 @@
     "id": 8135,
     "date": "2026-03-31T03:49:18",
     "text": "（？）",
-    "views": 310,
+    "views": 311,
     "forwards": 0,
     "images": [
       {
@@ -108761,7 +108761,7 @@
     "id": 8146,
     "date": "2026-04-02T05:14:55",
     "text": "？",
-    "views": 362,
+    "views": 363,
     "forwards": 0,
     "images": [
       {
@@ -108780,7 +108780,7 @@
     "id": 8147,
     "date": "2026-04-02T05:31:45",
     "text": "后续节目：",
-    "views": 405,
+    "views": 406,
     "forwards": 3,
     "media_group_id": 14200863245056029,
     "images": [
@@ -108814,13 +108814,13 @@
     "id": 8149,
     "date": "2026-04-02T08:16:49",
     "text": "今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想\n\n按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 感觉像是时间旅行程度的超能力\n\n唉 如果我也能有这种一键暂停/唤醒的功能就好了",
-    "views": 429,
+    "views": 430,
     "forwards": 1
   },
   {
     "id": 8150,
     "date": "2026-04-03T01:37:14",
-    "views": 449,
+    "views": 450,
     "forwards": 1,
     "media_group_id": 14201441874134237,
     "images": [
@@ -108850,14 +108850,14 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3556,
+    "views": 3568,
     "forwards": 30
   },
   {
     "id": 8153,
     "date": "2026-04-03T16:47:22",
     "text": "终于发现之前的 C:\\dev\\null 文件是怎么回事了，是 VSCode 远程开发的隔离有 bug\n\n今天用 VSCode Copilot Agent 在专门开的虚拟机的 SSH 环境里写代码，然后它写文件写到我宿主机上了...\n\n看来不能假设远程开发功能有任何隔离了...",
-    "views": 338,
+    "views": 339,
     "forwards": 5,
     "reply": {
       "id": 8146,
@@ -108880,7 +108880,7 @@
     "id": 8154,
     "date": "2026-04-03T17:26:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！",
-    "views": 290,
+    "views": 291,
     "forwards": 1,
     "media_group_id": 14201897473416885,
     "images": [
@@ -108930,7 +108930,7 @@
     "id": 8158,
     "date": "2026-04-03T23:52:20",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱！（是室友做的）\n\n想念北海道了 qwq",
-    "views": 277,
+    "views": 278,
     "forwards": 1,
     "media_group_id": 14202082725553261,
     "images": [
@@ -108980,7 +108980,7 @@
     "id": 8163,
     "date": "2026-04-04T09:55:10",
     "text": "袋子在摇尾巴！",
-    "views": 286,
+    "views": 287,
     "forwards": 2,
     "files": [
       {
@@ -109000,7 +109000,7 @@
   {
     "id": 8164,
     "date": "2026-04-04T15:19:28",
-    "views": 274,
+    "views": 276,
     "forwards": 0,
     "media_group_id": 14202527751806357,
     "images": [
@@ -109030,7 +109030,7 @@
     "id": 8166,
     "date": "2026-04-05T08:06:10",
     "text": "变色！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nGitadora DM 配好到现在半个月，已经会打一些打起来很爽的谱子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n（等再熟练一点找时间录录手元）",
-    "views": 238,
+    "views": 240,
     "forwards": 1,
     "media_group_id": 14203010963494653,
     "images": [
@@ -109095,7 +109095,7 @@
     "id": 8171,
     "date": "2026-04-05T18:42:09",
     "text": "AI agent 相关的代码库好草台，感觉很多东西都不按标准写\n\n今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references\n\n然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重\n\nagno 一个 39.2k star 的项目... 这是为什么呢？",
-    "views": 255,
+    "views": 257,
     "forwards": 1,
     "media_group_id": 14203316239623157,
     "images": [
@@ -109135,7 +109135,7 @@
     "id": 8174,
     "date": "2026-04-06T16:35:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n咖喱乌冬！<span class=\"spoiler\"><span>∩ ∪ ∩</span></span>",
-    "views": 266,
+    "views": 267,
     "forwards": 0,
     "images": [
       {
@@ -109154,14 +109154,14 @@
     "id": 8175,
     "date": "2026-04-06T17:53:07",
     "text": "如果社交软件有「知道对方有没有看到我已读了」的功能就好了",
-    "views": 272,
+    "views": 273,
     "forwards": 1
   },
   {
     "id": 8177,
     "date": "2026-04-07T01:46:50",
     "text": "猫猫帮我写代码",
-    "views": 250,
+    "views": 252,
     "forwards": 0,
     "media_group_id": 14204211284790165,
     "images": [
@@ -109190,7 +109190,7 @@
   {
     "id": 8178,
     "date": "2026-04-07T02:37:26",
-    "views": 250,
+    "views": 252,
     "forwards": 1,
     "files": [
       {
@@ -109211,14 +109211,14 @@
     "id": 8179,
     "date": "2026-04-07T07:46:07",
     "text": "需要禁止吃 dayvigo 后 sudo",
-    "views": 242,
+    "views": 244,
     "forwards": 2
   },
   {
     "id": 8180,
     "date": "2026-04-07T08:03:12",
     "text": "今天把新的想法加入 project backlog 的时候发现里面有一百项了，有一百个想做但是没时间做的想法了... 是值得庆祝的事情吗？",
-    "views": 252,
+    "views": 254,
     "forwards": 1,
     "images": [
       {
@@ -109237,7 +109237,7 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 282,
+    "views": 283,
     "forwards": 4,
     "images": [
       {
@@ -109256,7 +109256,7 @@
     "id": 8182,
     "date": "2026-04-07T17:03:55",
     "text": "猫猫也想吃",
-    "views": 237,
+    "views": 239,
     "forwards": 1,
     "media_group_id": 14204651481908421,
     "images": [
@@ -109290,7 +109290,7 @@
     "id": 8184,
     "date": "2026-04-07T17:24:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 247,
+    "views": 249,
     "forwards": 0,
     "images": [
       {
@@ -109309,7 +109309,7 @@
     "id": 8185,
     "date": "2026-04-08T01:41:54",
     "text": "流浪猫是懂我的\n\n（话说 大概想计划两三天在巴塞罗那玩，有人一起玩吗 qwq",
-    "views": 246,
+    "views": 248,
     "forwards": 0,
     "images": [
       {
@@ -109328,7 +109328,7 @@
     "id": 8186,
     "date": "2026-04-08T14:11:17",
     "text": "好好笑",
-    "views": 922,
+    "views": 946,
     "forwards": 3,
     "images": [
       {
@@ -109346,7 +109346,7 @@
   {
     "id": 8187,
     "date": "2026-04-08T18:13:47",
-    "views": 167,
+    "views": 171,
     "forwards": 1,
     "images": [
       {
@@ -109365,7 +109365,7 @@
     "id": 8189,
     "date": "2026-04-08T23:33:22",
     "text": "草... 我在打字，打着打着猫猫上来按了一个回车 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（所以如果有人刚才看到了什么的话，是我还没编辑完的频道消息）",
-    "views": 141,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -109384,7 +109384,7 @@
     "id": 8190,
     "date": "2026-04-08T23:41:28",
     "text": "发现 Affinity 并不是合格的 SVG 设计软件...\n\n今天用它设计了渲染 OpenGraph 用的 SVG，导出之后发现所有东西包括文字全都被点阵化了。如果选择「不进行点阵化」的话，导出的效果和设计图完全不一样。\n\n最终用 Boxy 手动重做了纯 SVG",
-    "views": 147,
+    "views": 155,
     "forwards": 1,
     "images": [
       {
@@ -109403,7 +109403,7 @@
     "id": 8191,
     "date": "2026-04-09T00:53:27",
     "text": "怪不得 ClawdBot 要改名 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n(source: <a href=\"https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf\">mythos model card</a>)",
-    "views": 123,
+    "views": 134,
     "forwards": 0,
     "images": [
       {
