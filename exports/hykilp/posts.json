@@ -68646,7 +68646,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 540,
+    "views": 541,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6542,
+    "views": 6543,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85367,7 +85367,7 @@
     "id": 6254,
     "date": "2025-08-17T16:25:55",
     "text": "マモル写了回忆我就不写啦，总之露营很开心！期待下次露营，应该就不会踩坑了 qwq",
-    "views": 867,
+    "views": 868,
     "forwards": 1,
     "reply": {
       "id": 6244,
@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8551,
+    "views": 8552,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -85424,7 +85424,7 @@
     "id": 6258,
     "date": "2025-08-18T15:43:40",
     "text": "去听了青葉市子的 live「<a href=\"https://x.com/ichikoaoba/status/1957400417471795339\">Luminescent Creatures</a>」！\n\n好棒！轻柔空灵的曲风配上神秘氛围灯光感觉像是走进了声音的梦境 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i> \n\n有几首平时会循环听的吉他弹唱 solo 曲子加上提琴竖琴和打击乐器瞬间感觉就好不一样，尤其特别喜欢低音提琴的声音 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 如果有乐队编成的曲子出售就好了，可惜看起来并没有...\n\n以及那个小键盘 <a href=\"https://www.youtube.com/watch?v=h6elMmzgVCA\">reface CP</a> 的音色也好梦幻。结束之后凑到舞台前面看到键盘旁边还放了小贝壳和珊瑚🪸，可爱死了\n\n出门看了一下谷子设计都好好看，没忍住买了比门票贵两倍的谷子（悲）",
-    "views": 468,
+    "views": 469,
     "forwards": 1,
     "media_group_id": 14044254560493069,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4664,
+    "views": 4666,
     "forwards": 28
   },
   {
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3723,
+    "views": 3731,
     "forwards": 30
   },
   {
@@ -109161,7 +109161,7 @@
     "id": 8177,
     "date": "2026-04-07T01:46:50",
     "text": "猫猫帮我写代码",
-    "views": 266,
+    "views": 268,
     "forwards": 0,
     "media_group_id": 14204211284790165,
     "images": [
@@ -109190,7 +109190,7 @@
   {
     "id": 8178,
     "date": "2026-04-07T02:37:26",
-    "views": 267,
+    "views": 269,
     "forwards": 1,
     "files": [
       {
@@ -109365,7 +109365,7 @@
     "id": 8189,
     "date": "2026-04-08T23:33:22",
     "text": "草... 我在打字，打着打着猫猫上来按了一个回车 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（所以如果有人刚才看到了什么的话，是我还没编辑完的频道消息）",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "images": [
       {
@@ -109384,7 +109384,7 @@
     "id": 8190,
     "date": "2026-04-08T23:41:28",
     "text": "发现 Affinity 并不是合格的 SVG 设计软件...\n\n今天用它设计了渲染 OpenGraph 用的 SVG，导出之后发现所有东西包括文字全都被点阵化了。如果选择「不进行点阵化」的话，导出的效果和设计图完全不一样。\n\n最终用 Boxy 手动重做了纯 SVG",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "images": [
       {
@@ -109403,7 +109403,7 @@
     "id": 8191,
     "date": "2026-04-09T00:53:27",
     "text": "怪不得 ClawdBot 要改名 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n(source: <a href=\"https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf\">mythos model card</a>)",
-    "views": 230,
+    "views": 231,
     "forwards": 0,
     "images": [
       {
@@ -109422,7 +109422,7 @@
     "id": 8192,
     "date": "2026-04-09T13:11:07",
     "text": "昨晚的日落和小猫",
-    "views": 191,
+    "views": 192,
     "forwards": 3,
     "media_group_id": 14205922142036349,
     "images": [
@@ -109492,7 +109492,7 @@
     "id": 8198,
     "date": "2026-04-09T14:24:20",
     "text": "显示器长脚了",
-    "views": 191,
+    "views": 193,
     "forwards": 0,
     "files": [
       {
@@ -109514,7 +109514,7 @@
     "id": 8199,
     "date": "2026-04-09T19:00:17",
     "text": "呜呜 后悔没开 snapshot 了...",
-    "views": 169,
+    "views": 171,
     "forwards": 0,
     "images": [
       {
@@ -109533,7 +109533,7 @@
     "id": 8200,
     "date": "2026-04-09T19:54:54",
     "text": "我觉得我需要写一个 log，每次在任何机器上做什么的时候都要记到 log 里，不然就会忘掉...",
-    "views": 164,
+    "views": 169,
     "forwards": 1,
     "reply": {
       "id": 8199,
@@ -109544,8 +109544,8 @@
     "id": 8201,
     "date": "2026-04-10T07:21:38",
     "text": "1/3",
-    "views": 107,
-    "forwards": 0,
+    "views": 114,
+    "forwards": 1,
     "media_group_id": 14206445587329341,
     "images": [
       {
