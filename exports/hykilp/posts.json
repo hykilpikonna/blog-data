@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8552,
+    "views": 8553,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -99473,7 +99473,7 @@
     "id": 7397,
     "date": "2025-12-04T04:30:10",
     "text": "说起来，我在飞机上的时候其实并不记得光速和音速都是多少，只记得大概范围\n\n但是我觉得这么常用的两个数字在能存储 640 亿个 64 位数字的手机上不可能没有出现过，所以就打开应用列表一个一个找可能会存储离线信息的 app\n\n第一个找到的是日语词典，打开词典查了一下光速和音速，果然有数值 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 然后发现计算器里也有\n\n感觉离线知识好实用，今天下载了一个 Kiwix 离线维基百科和一个 ollama gemma3:1b 本地小模型，希望再次需要离线奇思妙想的时候、或者在没网的地方旅游露营的时候会派上用场 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 436,
+    "views": 437,
     "forwards": 5,
     "media_group_id": 14118580884675037,
     "images": [
@@ -99527,14 +99527,14 @@
     "id": 7401,
     "date": "2025-12-05T05:47:59",
     "text": "哭哭 似乎感冒了...",
-    "views": 351,
+    "views": 352,
     "forwards": 0
   },
   {
     "id": 7402,
     "date": "2025-12-06T02:23:34",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n软骨酸汤面！\n\n以及昨天マモル做了软骨汤和煎鱼干和酱白菜和酱油菜，マモル做饭超好吃 qwq",
-    "views": 327,
+    "views": 328,
     "forwards": 2,
     "media_group_id": 14119902511699885,
     "images": [
@@ -99564,7 +99564,7 @@
     "id": 7404,
     "date": "2025-12-06T04:43:37",
     "text": "🏕",
-    "views": 352,
+    "views": 353,
     "forwards": 0,
     "images": [
       {
@@ -99583,14 +99583,14 @@
     "id": 7405,
     "date": "2025-12-06T05:54:02",
     "text": "在想怎样做覆盖全世界的真无线充电的时候，突然想到这个东西其实早就已经被实现了，它叫做太阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6327798110588242183.webp\">🌞</i> 太阳在给全世界的太阳能板无线充电",
-    "views": 366,
+    "views": 367,
     "forwards": 2
   },
   {
     "id": 7406,
     "date": "2025-12-06T20:01:45",
     "text": "猫咪烤箱 <i class=\"custom-emoji\" emoji-src=\"emoji/5458822541801956370.webp\">🔥</i>",
-    "views": 332,
+    "views": 333,
     "forwards": 0,
     "reply": {
       "id": 7401,
@@ -99613,14 +99613,14 @@
     "id": 7407,
     "date": "2025-12-07T01:06:23",
     "text": "迷惑，TransUnion 和 Trans 和 Union 都有什么关系 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 335,
+    "views": 336,
     "forwards": 2
   },
   {
     "id": 7410,
     "date": "2025-12-07T05:51:38",
     "text": "记得四年前租第一个公寓的时候看了一圈加拿大运营商，大部分还停留在同轴线，最贵的套餐上行也只有 50M。当时唯一的两家光纤是 Bell 和 FibreStream，上下对等，但是都不支持 IPv6...\n\n四年过去之后现在要搬家了，又看了一圈。除了某些顽固的老牌<span class=\"spoiler\"><span> Rogers </span></span>还在用同轴以外，其他运营商大部分都换到了纯光，还有很多新的运营商出现，但是 Bell 和大部分新的纯光运营商（Beanfield, oxio, teksavvy）依然不支持 IPv6\n\n给新家选了 Ebox，是为数不多同时有上下对等光纤和 IPv6 还便宜还在 homelab 社区有不错的评价的运营商。\n\n唉，真希望哪天某 CDN 公司或者其他大公司可以宣告一个计划停止 IPv4 支持的截止日期，不然的话感觉加拿大这种不缺 v4 的地方 v6 支持永远起不来...",
-    "views": 345,
+    "views": 346,
     "forwards": 0,
     "images": [
       {
@@ -99762,7 +99762,7 @@
     "id": 7422,
     "date": "2025-12-08T05:03:06",
     "text": "发现 telegram 安卓客户端<b>按原图文件</b>发送 jpg 也依然会删除 EXIF 里面的 GPS 位置信息，导致发送的文件和接收到的文件数据可能并不完全相等\n\n试过了去「发送文件」tab 手动选择文件路径依然会被删\n\n测试了：\n- 安卓发送 .jpg：GPS 被删除\n- 安卓发送 .heic: 没有处理\n- 电脑发送两种格式：没有处理\n- iOS 发送两种格式：大部分第三方相机 app 拍出来的照片的 GPS 会被删，官方相机拍出来的照片的 GPS 不会（也许因为第三方相机 app 缺少某些 GPS tag?）",
-    "views": 318,
+    "views": 319,
     "forwards": 3,
     "images": [
       {
@@ -99781,7 +99781,7 @@
     "id": 7423,
     "date": "2025-12-08T08:35:15",
     "text": "呜呜 用 docker 的人一定要记得勤清缓存，我好久没清今天跑了一下 <code>docker system prune</code> 清出来 358GB <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 302,
+    "views": 303,
     "forwards": 5,
     "media_group_id": 14121463326705389,
     "images": [
@@ -102175,14 +102175,14 @@
     "id": 7621,
     "date": "2025-12-31T03:04:00",
     "text": "找房好累...",
-    "views": 274,
+    "views": 275,
     "forwards": 0
   },
   {
     "id": 7622,
     "date": "2025-12-31T23:00:35",
     "text": "锂电池烟花好好看，<del>想点</del>\n\n（源视频连接：<a href=\"https://www.youtube.com/watch?v=Mkgo_CLVbzg\"><em>Ignoring All Lithium Battery Safety Warnings.. For Science!</a></em>）",
-    "views": 303,
+    "views": 304,
     "forwards": 2,
     "files": [
       {
@@ -102205,7 +102205,7 @@
     "id": 7625,
     "date": "2026-01-01T01:18:26",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n食材花了 $10 左右，1.2kg 的巴沙鱼居然只要 $6, 太便宜了8\n\n（相比之下，同样重量的五花肉要 $14.7，小鸡腿要 $6.3）",
-    "views": 255,
+    "views": 256,
     "forwards": 1,
     "media_group_id": 14137842453924805,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4679,
+    "views": 4680,
     "forwards": 28
   },
   {
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 347,
+    "views": 348,
     "forwards": 3,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 294,
+    "views": 295,
     "forwards": 1,
     "images": [
       {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 319,
+    "views": 320,
     "forwards": 0,
     "images": [
       {
@@ -108551,7 +108551,7 @@
   {
     "id": 8134,
     "date": "2026-03-30T18:32:45",
-    "views": 312,
+    "views": 313,
     "forwards": 1,
     "images": [
       {
@@ -108570,7 +108570,7 @@
     "id": 8135,
     "date": "2026-03-31T03:49:18",
     "text": "（？）",
-    "views": 312,
+    "views": 313,
     "forwards": 0,
     "images": [
       {
@@ -108589,7 +108589,7 @@
     "id": 8136,
     "date": "2026-03-31T14:41:22",
     "text": "<b>她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩</b>\nTrans in Academia!\n<a href=\"https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw\">https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw</a>\n\n各位好，今天是3月31日🏳️‍⚧️跨性别现身日‍，祝大家节日快乐。\n\n在这个特殊的日子，TiA! 的三名作者 发条鼬、Robbin Gan、塗塗狐 共同创作了《她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩》一文，欢迎大家点击上方链接阅读！",
-    "views": 241,
+    "views": 242,
     "forwards": 2,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -108611,14 +108611,14 @@
     "id": 8137,
     "date": "2026-03-31T17:23:07",
     "text": "<em>This message cannot be displayed because it violated Telegram's Terms of Service.</em>",
-    "views": 339,
+    "views": 340,
     "forwards": 1
   },
   {
     "id": 8138,
     "date": "2026-03-31T18:41:24",
     "text": "<b>公告：我们从「AquaDX」全新更名为「OceanDX」！</b>\n\n做出这一改变是为了与之前的 Aqua 项目区分开来，因为我们现在正在开发一个完全独立的衍生源代码！为了减少混淆、并鼓励“海”量的新贡献者和用户加入我们改了名字。\n\n此外，我们的网站和群组已经更新，以体现这些全新的品牌元素！\n\n我们全新的「OceanNet」网站在 <a href=\"oceandx.net\">oceandx.net</a>\n\n由于域名的更改，您可能需要重新登录。目前，DNS 将保持不变以防止出现兼容性问题（请不要修改 segatools.ini 文件）\n\n感谢使用 OceanDX 并成为我们社区的一员！",
-    "views": 374,
+    "views": 375,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -108641,7 +108641,7 @@
     "id": 8139,
     "date": "2026-03-31T18:57:15",
     "text": "开源了！<a href=\"https://github.com/MewoLab/OceanDX\">https://github.com/MewoLab/OceanDX</a>",
-    "views": 350,
+    "views": 351,
     "forwards": 0,
     "reply": {
       "id": 8138,
@@ -108652,7 +108652,7 @@
     "id": 8140,
     "date": "2026-04-01T09:04:58",
     "text": "谷歌这次更新又来治强迫症了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 340,
+    "views": 341,
     "forwards": 2,
     "media_group_id": 14200274383817613,
     "images": [
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3787,
+    "views": 3789,
     "forwards": 30
   },
   {
@@ -109135,7 +109135,7 @@
     "id": 8174,
     "date": "2026-04-06T16:35:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n咖喱乌冬！<span class=\"spoiler\"><span>∩ ∪ ∩</span></span>",
-    "views": 297,
+    "views": 299,
     "forwards": 0,
     "images": [
       {
@@ -109161,7 +109161,7 @@
     "id": 8177,
     "date": "2026-04-07T01:46:50",
     "text": "猫猫帮我写代码",
-    "views": 286,
+    "views": 287,
     "forwards": 0,
     "media_group_id": 14204211284790165,
     "images": [
@@ -109190,7 +109190,7 @@
   {
     "id": 8178,
     "date": "2026-04-07T02:37:26",
-    "views": 284,
+    "views": 285,
     "forwards": 1,
     "files": [
       {
@@ -109211,14 +109211,14 @@
     "id": 8179,
     "date": "2026-04-07T07:46:07",
     "text": "需要禁止吃 dayvigo 后 sudo",
-    "views": 273,
+    "views": 274,
     "forwards": 2
   },
   {
     "id": 8180,
     "date": "2026-04-07T08:03:12",
     "text": "今天把新的想法加入 project backlog 的时候发现里面有一百项了，有一百个想做但是没时间做的想法了... 是值得庆祝的事情吗？",
-    "views": 277,
+    "views": 278,
     "forwards": 1,
     "images": [
       {
@@ -109237,7 +109237,7 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 323,
+    "views": 324,
     "forwards": 4,
     "images": [
       {
@@ -109290,7 +109290,7 @@
     "id": 8184,
     "date": "2026-04-07T17:24:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 280,
+    "views": 281,
     "forwards": 0,
     "images": [
       {
@@ -109309,7 +109309,7 @@
     "id": 8185,
     "date": "2026-04-08T01:41:54",
     "text": "流浪猫是懂我的\n\n（话说 大概想计划两三天在巴塞罗那玩，有人一起玩吗 qwq",
-    "views": 282,
+    "views": 284,
     "forwards": 0,
     "images": [
       {
@@ -109328,7 +109328,7 @@
     "id": 8186,
     "date": "2026-04-08T14:11:17",
     "text": "好好笑",
-    "views": 1110,
+    "views": 1114,
     "forwards": 3,
     "images": [
       {
@@ -109346,7 +109346,7 @@
   {
     "id": 8187,
     "date": "2026-04-08T18:13:47",
-    "views": 246,
+    "views": 248,
     "forwards": 1,
     "images": [
       {
@@ -109365,7 +109365,7 @@
     "id": 8189,
     "date": "2026-04-08T23:33:22",
     "text": "草... 我在打字，打着打着猫猫上来按了一个回车 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（所以如果有人刚才看到了什么的话，是我还没编辑完的频道消息）",
-    "views": 250,
+    "views": 252,
     "forwards": 0,
     "images": [
       {
@@ -109384,7 +109384,7 @@
     "id": 8190,
     "date": "2026-04-08T23:41:28",
     "text": "发现 Affinity 并不是合格的 SVG 设计软件...\n\n今天用它设计了渲染 OpenGraph 用的 SVG，导出之后发现所有东西包括文字全都被点阵化了。如果选择「不进行点阵化」的话，导出的效果和设计图完全不一样。\n\n最终用 Boxy 手动重做了纯 SVG",
-    "views": 254,
+    "views": 258,
     "forwards": 1,
     "images": [
       {
@@ -109403,7 +109403,7 @@
     "id": 8191,
     "date": "2026-04-09T00:53:27",
     "text": "怪不得 ClawdBot 要改名 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n(source: <a href=\"https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf\">mythos model card</a>)",
-    "views": 254,
+    "views": 258,
     "forwards": 0,
     "images": [
       {
@@ -109422,7 +109422,7 @@
     "id": 8192,
     "date": "2026-04-09T13:11:07",
     "text": "昨晚的日落和小猫",
-    "views": 220,
+    "views": 224,
     "forwards": 3,
     "media_group_id": 14205922142036349,
     "images": [
@@ -109492,7 +109492,7 @@
     "id": 8198,
     "date": "2026-04-09T14:24:20",
     "text": "显示器长脚了",
-    "views": 230,
+    "views": 232,
     "forwards": 0,
     "files": [
       {
@@ -109514,7 +109514,7 @@
     "id": 8199,
     "date": "2026-04-09T19:00:17",
     "text": "呜呜 后悔没开 snapshot 了...",
-    "views": 224,
+    "views": 230,
     "forwards": 0,
     "images": [
       {
@@ -109533,7 +109533,7 @@
     "id": 8200,
     "date": "2026-04-09T19:54:54",
     "text": "我觉得我需要写一个 log，每次在任何机器上做什么的时候都要记到 log 里，不然就会忘掉...",
-    "views": 224,
+    "views": 230,
     "forwards": 1,
     "reply": {
       "id": 8199,
@@ -109544,7 +109544,7 @@
     "id": 8201,
     "date": "2026-04-10T07:21:38",
     "text": "1/3",
-    "views": 202,
+    "views": 208,
     "forwards": 1,
     "media_group_id": 14206445587329341,
     "images": [
@@ -109594,7 +109594,7 @@
     "id": 8205,
     "date": "2026-04-10T17:28:45",
     "text": "<a href=\"##桂桂家的猫今天吃什么\">#桂桂家的猫今天吃什么</a>\n鸡汤！",
-    "views": 205,
+    "views": 210,
     "forwards": 1,
     "media_group_id": 14206737001506189,
     "images": [
@@ -109633,7 +109633,7 @@
   {
     "id": 8209,
     "date": "2026-04-10T22:19:54",
-    "views": 190,
+    "views": 197,
     "forwards": 2,
     "images": [
       {
@@ -109652,7 +109652,7 @@
     "id": 8210,
     "date": "2026-04-11T04:17:46",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 175,
+    "views": 184,
     "forwards": 1,
     "images": [
       {
@@ -109671,7 +109671,67 @@
     "id": 8211,
     "date": "2026-04-11T07:47:29",
     "text": "让小猫占领一下频道 qwq\n\n因为这几天在期末考试，所以大概不会有很值得记录的事情，除了小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6163291628971758736.webp\">😺</i>",
-    "views": 142,
+    "views": 162,
     "forwards": 0
+  },
+  {
+    "id": 8212,
+    "date": "2026-04-11T17:27:23",
+    "text": "猫 .zip",
+    "views": 65,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-04-11T17:27:23",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-11_17-27-23.jpg",
+        "url": "media/8212.jpg",
+        "size": 1357434,
+        "thumb": "media/8212.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8213,
+    "date": "2026-04-11T17:34:46",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n墨西哥肉夹馍！（室友做的）\n\n好辣 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
+    "views": 59,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2026-04-11T17:34:56",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-11_17-34-56.jpg",
+        "url": "media/8213.jpg",
+        "size": 268575,
+        "thumb": "media/8213.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8214,
+    "date": "2026-04-11T17:49:36",
+    "text": "小猫吃草",
+    "views": 40,
+    "forwards": 1,
+    "files": [
+      {
+        "width": 1280,
+        "height": 720,
+        "duration": 11,
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2026-04-11T17:49:36",
+        "media_type": "video_file",
+        "original_name": "video_2026-04-11_17-49-36.mp4",
+        "url": "media/8214.mp4",
+        "size": 10606969,
+        "thumb": "media/8214.mp4_thumb.jpg"
+      }
+    ]
   }
 ]
