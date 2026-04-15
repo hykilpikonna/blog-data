@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5800,
+    "views": 5801,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8555,
+    "views": 8556,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -106851,7 +106851,7 @@
   {
     "id": 7999,
     "date": "2026-03-11T05:06:36",
-    "views": 382,
+    "views": 383,
     "forwards": 0,
     "images": [
       {
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1771,
+    "views": 1772,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107051,7 +107051,7 @@
   {
     "id": 8015,
     "date": "2026-03-12T18:43:51",
-    "views": 534,
+    "views": 535,
     "forwards": 1,
     "images": [
       {
@@ -107070,7 +107070,7 @@
     "id": 8016,
     "date": "2026-03-13T01:24:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n做了一天一夜的味噌豚骨拉面！\n\n这次没有用现成汤底，而是从骨筒开始，加上聊聊熬的猪油用高压锅熬超浓骨汤，大火煮白，再用芝麻油炒姜蒜泥和味噌调味和骨汤混在一起，再加入味玉麻竹玉米和骨筒上拆下来的肉 qwq\n\n感觉完全还原了餐厅的味道！（虽然好像有点太浓了，下次感觉这些料可以做两顿/六人份）",
-    "views": 554,
+    "views": 555,
     "forwards": 4,
     "media_group_id": 14186920450049317,
     "images": [
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3922,
+    "views": 3924,
     "forwards": 30
   },
   {
@@ -109514,7 +109514,7 @@
     "id": 8199,
     "date": "2026-04-09T19:00:17",
     "text": "呜呜 后悔没开 snapshot 了...",
-    "views": 282,
+    "views": 283,
     "forwards": 0,
     "images": [
       {
@@ -109533,7 +109533,7 @@
     "id": 8200,
     "date": "2026-04-09T19:54:54",
     "text": "我觉得我需要写一个 log，每次在任何机器上做什么的时候都要记到 log 里，不然就会忘掉...",
-    "views": 278,
+    "views": 279,
     "forwards": 1,
     "reply": {
       "id": 8199,
@@ -109697,7 +109697,7 @@
     "id": 8213,
     "date": "2026-04-11T17:34:46",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n墨西哥肉夹馍！（室友做的）\n\n好辣 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 262,
+    "views": 264,
     "forwards": 0,
     "images": [
       {
@@ -109716,7 +109716,7 @@
     "id": 8214,
     "date": "2026-04-11T17:49:36",
     "text": "小猫吃草",
-    "views": 271,
+    "views": 273,
     "forwards": 2,
     "files": [
       {
@@ -109818,7 +109818,7 @@
     "id": 8219,
     "date": "2026-04-13T16:17:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 226,
+    "views": 227,
     "forwards": 2,
     "images": [
       {
@@ -109837,7 +109837,7 @@
     "id": 8220,
     "date": "2026-04-13T19:36:24",
     "text": "2/3",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14208871873572573,
     "images": [
@@ -109907,13 +109907,13 @@
     "id": 8226,
     "date": "2026-04-14T15:48:37",
     "text": "考完了！好累",
-    "views": 186,
+    "views": 190,
     "forwards": 0
   },
   {
     "id": 8227,
     "date": "2026-04-14T18:41:07",
-    "views": 160,
+    "views": 166,
     "forwards": 1,
     "images": [
       {
@@ -109932,7 +109932,7 @@
     "id": 8228,
     "date": "2026-04-14T18:44:23",
     "text": "你凝视深渊，深渊还以凝视，并喵了一声",
-    "views": 159,
+    "views": 164,
     "forwards": 1,
     "forwarded_from": {
       "name": "无聊至极"
@@ -109941,7 +109941,7 @@
   {
     "id": 8229,
     "date": "2026-04-14T22:26:50",
-    "views": 147,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 14209644881438541,
     "images": [
@@ -109971,7 +109971,7 @@
     "id": 8231,
     "date": "2026-04-15T07:23:17",
     "text": "实际上养了一只猫头鹰",
-    "views": 96,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
