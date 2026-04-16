@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5801,
+    "views": 5802,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -101361,7 +101361,7 @@
     "id": 7560,
     "date": "2025-12-21T02:14:36",
     "text": "设计了一个架子，3D 打印出来把マモル的交换机架到天上了！",
-    "views": 240,
+    "views": 241,
     "forwards": 3,
     "media_group_id": 14130266213399045,
     "images": [
@@ -106140,7 +106140,7 @@
     "id": 7949,
     "date": "2026-02-26T00:26:17",
     "text": "考完了期中\n\n计网课出题太 cursed 了... 有一道题要我计算延迟，写了线长 100 m 传播速度 2*10^8 m/s 数据速度 200 b/s 数据大小 100 Kb......\n\n我想了超级久为什么算出来是 500.0000001s 类似的，检查了好多遍是不是把 10^3 看成了 10^8，然后就这样写了答案...\n\n另一道题也是，考的是线性发包和并行发包的效率计算，结果给的数字完全体现不出并行的优势，延迟大头完全不在握手上... 最后算出来不并行 15020s 并行 15000s 的样子，太 cursed 了\n\n结果时间都花在怀疑自己有没有做错上了... 最后剩一两道题没做完",
-    "views": 324,
+    "views": 325,
     "forwards": 1,
     "images": [
       {
@@ -106159,15 +106159,15 @@
     "id": 7950,
     "date": "2026-02-26T06:58:10",
     "text": "在和三年前实习的导师写邮件，因为很久没有发邮件了在进行 catch up。\n\n删了又写、写了又删，写太多觉得自己在 overshare、删掉又觉得好冷漠，不知不觉已经盯着这 80 个词改了一个小时了。\n\n这么多年了还是没法摸清楚人类交流的边界呢... 或者说，真的有比三年前的自己更清楚吗",
-    "views": 283,
+    "views": 284,
     "forwards": 0
   },
   {
     "id": 7951,
     "date": "2026-02-26T13:51:28",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n\n♪ 名残り 囁き\n♪ 桜 日没\n♪ 雨滴 過去の日\n♪ 楽な 甘い蜜\n\n每当回想起在日本的那段时光的时候我完全就是这样的心情 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 284,
-    "forwards": 0,
+    "views": 285,
+    "forwards": 1,
     "files": [
       {
         "duration": 227,
@@ -106187,14 +106187,14 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 328,
+    "views": 329,
     "forwards": 4
   },
   {
     "id": 7953,
     "date": "2026-02-26T23:33:07",
     "text": "呜呜 好像触发了 DMCA review... 不懂，可能是因为之前在频道和 blog 里上传过这些照片所以可能被检测到「在其他地方出现过」了吧\n\n要等人工审核了\n\nEDIT: 恢复了",
-    "views": 322,
+    "views": 323,
     "forwards": 1,
     "reply": {
       "id": 7952
@@ -106387,7 +106387,7 @@
     "id": 7967,
     "date": "2026-03-03T05:17:04",
     "text": "心情过山车 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n之前法拍上拍到了四个坏掉的 macbook 盲盒，今天去取了，仔细检查了一下发现他们是：\n\n1. A2337 屏幕坏了\n2. A2337 iCloud 激活锁\n3. A2179 风扇狂转、CPU 降频、没有系统（而且还被拆过，没有一个螺丝在原本它应该在的位置）\n4. A2289 屏幕坏了\n\n想要试试把 2 的屏幕换到 1 身上能不能把 1 修好\n\n首先好的屏幕换上去之后可以开机了，但是坏消息是开机之后发现别人登了账号没法解锁。不过发现这个人的名字挺独特的，搜名字能找到一个 ins 账号，但是坏消息是这个 ins 不是很活跃，而且我尝试给她发消息结果我的号被封了。\n\n最后发现原来根本就没有激活锁，登录了 iCloud 并不代表有激活锁，只要重置数据然后正常联网激活就行了（如果用户在重置之前把设备从 find 中删掉的话就会变成这样）\n\n总之在过山车的尽头得到了一个好用的 m1 macbook air! <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> （虽然只有 8+256...）没想到我的第一个 arm 白苹果是这么绕弯拿到的",
-    "views": 290,
+    "views": 291,
     "forwards": 1,
     "media_group_id": 14180120193926557,
     "images": [
@@ -106578,7 +106578,7 @@
     "id": 7980,
     "date": "2026-03-05T04:58:40",
     "text": "猫猫跳到栏杆上面了！\n\n（不过好怕它摔下去，毕竟这个栏杆是用来防止从楼梯掉下去的，感觉如果猫猫摔下去的话不一定没事）",
-    "views": 311,
+    "views": 312,
     "forwards": 1,
     "media_group_id": 14181493767658029,
     "images": [
@@ -106628,7 +106628,7 @@
     "id": 7984,
     "date": "2026-03-05T18:58:01",
     "text": "猫箱",
-    "views": 321,
+    "views": 322,
     "forwards": 1,
     "images": [
       {
@@ -106647,7 +106647,7 @@
     "id": 7985,
     "date": "2026-03-06T04:43:17",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n不是麻婆豆腐\n\n想做麻婆豆腐但是用软豆腐挤出来做成豆腐碎了，应该用豆腐块...",
-    "views": 310,
+    "views": 311,
     "forwards": 0,
     "media_group_id": 14182177581103685,
     "images": [
@@ -106687,7 +106687,7 @@
     "id": 7988,
     "date": "2026-03-07T20:22:54",
     "text": "唉 Affinity 还是不够好啊\n\nAffinity 里面有一个「Symbol」功能，大概就是把一个图形组变成一个变量，可以复制很多个，然后改变原本的图形的时候复制的也会一起改变（和 Unity Prefab 是同样的概念）\n\n然后我尝试做递归，把一个 Symbol 放进定义它自己的图形组里，Affinity 闪退了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 354,
+    "views": 355,
     "forwards": 1,
     "files": [
       {
@@ -106710,14 +106710,14 @@
     "id": 7989,
     "date": "2026-03-08T07:03:10",
     "text": "咦 一个小时消失了！<i class=\"custom-emoji\" emoji-src=\"emoji/6169979404152735531.webm\">❓</i>",
-    "views": 329,
+    "views": 330,
     "forwards": 2
   },
   {
     "id": 7990,
     "date": "2026-03-08T13:51:43",
     "text": "感觉设计和工程完全是两个世界... 用工程软件做出好看的设计好难，同样的用设计软件做出能完美定义出生产规格和细节的生产稿也好难\n\n无论在什么领域都是，比如 Blender vs Onshape/Shapr、比如 Affinity vs 立创 EDA 面板模式\n\n今天想要定制一个孔位尺寸精准的亚克力板，用 Affinity 做完设计发现找厂商生产的时候把点阵图转成精确的生产稿是很难的事情... 立创 EDA 可以导入图片但是似乎也没办法把一个非矢量轮廓转成切割边框 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n所以又花了好久矢量化、对齐尺寸之类的，累累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>",
-    "views": 362,
+    "views": 363,
     "forwards": 2,
     "media_group_id": 14183823231330373,
     "images": [
@@ -106747,7 +106747,7 @@
     "id": 7992,
     "date": "2026-03-08T14:25:18",
     "text": "……?",
-    "views": 339,
+    "views": 340,
     "forwards": 3,
     "images": [
       {
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 354,
+    "views": 355,
     "forwards": 3,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108618,7 +108618,7 @@
     "id": 8138,
     "date": "2026-03-31T18:41:24",
     "text": "<b>公告：我们从「AquaDX」全新更名为「OceanDX」！</b>\n\n做出这一改变是为了与之前的 Aqua 项目区分开来，因为我们现在正在开发一个完全独立的衍生源代码！为了减少混淆、并鼓励“海”量的新贡献者和用户加入我们改了名字。\n\n此外，我们的网站和群组已经更新，以体现这些全新的品牌元素！\n\n我们全新的「OceanNet」网站在 <a href=\"oceandx.net\">oceandx.net</a>\n\n由于域名的更改，您可能需要重新登录。目前，DNS 将保持不变以防止出现兼容性问题（请不要修改 segatools.ini 文件）\n\n感谢使用 OceanDX 并成为我们社区的一员！",
-    "views": 384,
+    "views": 385,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -108687,14 +108687,14 @@
     "id": 8142,
     "date": "2026-04-01T14:24:12",
     "text": "是老了还是这几天睡眠债太多... 发现没办法像以前一样在爆肝一晚演讲稿只睡四个小时之后还能有力气起床演讲了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 353,
+    "views": 355,
     "forwards": 0
   },
   {
     "id": 8143,
     "date": "2026-04-01T20:46:04",
     "text": "话说昨天吃汉堡王因为是coupon所以是四人份套餐，可乐喝不完，桂桂昨天告诉我放冰箱里了\n我今天打开冰箱看到的可乐：",
-    "views": 281,
+    "views": 283,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -108715,7 +108715,7 @@
   {
     "id": 8144,
     "date": "2026-04-01T20:46:09",
-    "views": 341,
+    "views": 343,
     "forwards": 1,
     "files": [
       {
@@ -108740,7 +108740,7 @@
     "id": 8145,
     "date": "2026-04-01T23:35:38",
     "text": "一袋长了眼睛的可乐",
-    "views": 384,
+    "views": 386,
     "forwards": 4,
     "files": [
       {
@@ -108761,7 +108761,7 @@
     "id": 8146,
     "date": "2026-04-02T05:14:55",
     "text": "？",
-    "views": 379,
+    "views": 380,
     "forwards": 0,
     "images": [
       {
@@ -108780,7 +108780,7 @@
     "id": 8147,
     "date": "2026-04-02T05:31:45",
     "text": "后续节目：",
-    "views": 428,
+    "views": 429,
     "forwards": 3,
     "media_group_id": 14200863245056029,
     "images": [
@@ -108814,13 +108814,13 @@
     "id": 8149,
     "date": "2026-04-02T08:16:49",
     "text": "今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想\n\n按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 感觉像是时间旅行程度的超能力\n\n唉 如果我也能有这种一键暂停/唤醒的功能就好了",
-    "views": 448,
+    "views": 449,
     "forwards": 1
   },
   {
     "id": 8150,
     "date": "2026-04-03T01:37:14",
-    "views": 476,
+    "views": 478,
     "forwards": 1,
     "media_group_id": 14201441874134237,
     "images": [
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3929,
+    "views": 3930,
     "forwards": 30
   },
   {
@@ -108930,7 +108930,7 @@
     "id": 8158,
     "date": "2026-04-03T23:52:20",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱！（是室友做的）\n\n想念北海道了 qwq",
-    "views": 304,
+    "views": 305,
     "forwards": 1,
     "media_group_id": 14202082725553261,
     "images": [
@@ -109095,7 +109095,7 @@
     "id": 8171,
     "date": "2026-04-05T18:42:09",
     "text": "AI agent 相关的代码库好草台，感觉很多东西都不按标准写\n\n今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references\n\n然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重\n\nagno 一个 39.2k star 的项目... 这是为什么呢？",
-    "views": 287,
+    "views": 288,
     "forwards": 1,
     "media_group_id": 14203316239623157,
     "images": [
@@ -109190,7 +109190,7 @@
   {
     "id": 8178,
     "date": "2026-04-07T02:37:26",
-    "views": 305,
+    "views": 306,
     "forwards": 1,
     "files": [
       {
@@ -109211,14 +109211,14 @@
     "id": 8179,
     "date": "2026-04-07T07:46:07",
     "text": "需要禁止吃 dayvigo 后 sudo",
-    "views": 294,
+    "views": 295,
     "forwards": 2
   },
   {
     "id": 8180,
     "date": "2026-04-07T08:03:12",
     "text": "今天把新的想法加入 project backlog 的时候发现里面有一百项了，有一百个想做但是没时间做的想法了... 是值得庆祝的事情吗？",
-    "views": 298,
+    "views": 299,
     "forwards": 1,
     "images": [
       {
@@ -109237,8 +109237,8 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 370,
-    "forwards": 4,
+    "views": 371,
+    "forwards": 5,
     "images": [
       {
         "width": 611,
@@ -109256,7 +109256,7 @@
     "id": 8182,
     "date": "2026-04-07T17:03:55",
     "text": "猫猫也想吃",
-    "views": 289,
+    "views": 290,
     "forwards": 1,
     "media_group_id": 14204651481908421,
     "images": [
@@ -109365,7 +109365,7 @@
     "id": 8189,
     "date": "2026-04-08T23:33:22",
     "text": "草... 我在打字，打着打着猫猫上来按了一个回车 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（所以如果有人刚才看到了什么的话，是我还没编辑完的频道消息）",
-    "views": 285,
+    "views": 286,
     "forwards": 0,
     "images": [
       {
@@ -109403,7 +109403,7 @@
     "id": 8191,
     "date": "2026-04-09T00:53:27",
     "text": "怪不得 ClawdBot 要改名 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n(source: <a href=\"https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf\">mythos model card</a>)",
-    "views": 293,
+    "views": 294,
     "forwards": 0,
     "images": [
       {
@@ -109422,7 +109422,7 @@
     "id": 8192,
     "date": "2026-04-09T13:11:07",
     "text": "昨晚的日落和小猫",
-    "views": 264,
+    "views": 265,
     "forwards": 3,
     "media_group_id": 14205922142036349,
     "images": [
@@ -109492,7 +109492,7 @@
     "id": 8198,
     "date": "2026-04-09T14:24:20",
     "text": "显示器长脚了",
-    "views": 271,
+    "views": 273,
     "forwards": 0,
     "files": [
       {
@@ -109514,7 +109514,7 @@
     "id": 8199,
     "date": "2026-04-09T19:00:17",
     "text": "呜呜 后悔没开 snapshot 了...",
-    "views": 285,
+    "views": 287,
     "forwards": 0,
     "images": [
       {
@@ -109533,7 +109533,7 @@
     "id": 8200,
     "date": "2026-04-09T19:54:54",
     "text": "我觉得我需要写一个 log，每次在任何机器上做什么的时候都要记到 log 里，不然就会忘掉...",
-    "views": 281,
+    "views": 283,
     "forwards": 1,
     "reply": {
       "id": 8199,
@@ -109544,7 +109544,7 @@
     "id": 8201,
     "date": "2026-04-10T07:21:38",
     "text": "1/3",
-    "views": 261,
+    "views": 264,
     "forwards": 1,
     "media_group_id": 14206445587329341,
     "images": [
@@ -109594,7 +109594,7 @@
     "id": 8205,
     "date": "2026-04-10T17:28:45",
     "text": "<a href=\"##桂桂家的猫今天吃什么\">#桂桂家的猫今天吃什么</a>\n鸡汤！",
-    "views": 271,
+    "views": 274,
     "forwards": 1,
     "media_group_id": 14206737001506189,
     "images": [
@@ -109633,7 +109633,7 @@
   {
     "id": 8209,
     "date": "2026-04-10T22:19:54",
-    "views": 267,
+    "views": 271,
     "forwards": 3,
     "images": [
       {
@@ -109652,7 +109652,7 @@
     "id": 8210,
     "date": "2026-04-11T04:17:46",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 262,
+    "views": 267,
     "forwards": 2,
     "images": [
       {
@@ -109671,14 +109671,14 @@
     "id": 8211,
     "date": "2026-04-11T07:47:29",
     "text": "让小猫占领一下频道 qwq\n\n因为这几天在期末考试，所以大概不会有很值得记录的事情，除了小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6163291628971758736.webp\">😺</i>",
-    "views": 256,
+    "views": 260,
     "forwards": 0
   },
   {
     "id": 8212,
     "date": "2026-04-11T17:27:23",
     "text": "猫 .zip",
-    "views": 251,
+    "views": 256,
     "forwards": 0,
     "images": [
       {
@@ -109697,7 +109697,7 @@
     "id": 8213,
     "date": "2026-04-11T17:34:46",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n墨西哥肉夹馍！（室友做的）\n\n好辣 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 268,
+    "views": 273,
     "forwards": 0,
     "images": [
       {
@@ -109716,7 +109716,7 @@
     "id": 8214,
     "date": "2026-04-11T17:49:36",
     "text": "小猫吃草",
-    "views": 280,
+    "views": 285,
     "forwards": 2,
     "files": [
       {
@@ -109738,7 +109738,7 @@
     "id": 8215,
     "date": "2026-04-12T01:43:28",
     "text": "我：需要专心复习\n脑子：对哦，既然宇宙中没有空气那么飞船怎样散热？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 257,
+    "views": 261,
     "forwards": 1,
     "images": [
       {
@@ -109757,7 +109757,7 @@
     "id": 8216,
     "date": "2026-04-12T05:13:14",
     "text": "好喜欢这张照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（Credit: <a href=\"https://www.nasa.gov/artemis-ii-multimedia/\">NASA</a>）",
-    "views": 248,
+    "views": 251,
     "forwards": 3,
     "images": [
       {
@@ -109776,7 +109776,7 @@
     "id": 8217,
     "date": "2026-04-12T21:01:30",
     "text": "和猫猫跳舞",
-    "views": 239,
+    "views": 245,
     "forwards": 2,
     "files": [
       {
@@ -109797,7 +109797,7 @@
     "id": 8218,
     "date": "2026-04-13T00:59:26",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 244,
+    "views": 247,
     "forwards": 2,
     "files": [
       {
@@ -109818,7 +109818,7 @@
     "id": 8219,
     "date": "2026-04-13T16:17:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 234,
+    "views": 237,
     "forwards": 2,
     "images": [
       {
@@ -109837,7 +109837,7 @@
     "id": 8220,
     "date": "2026-04-13T19:36:24",
     "text": "2/3",
-    "views": 213,
+    "views": 217,
     "forwards": 0,
     "media_group_id": 14208871873572573,
     "images": [
@@ -109907,13 +109907,13 @@
     "id": 8226,
     "date": "2026-04-14T15:48:37",
     "text": "考完了！好累",
-    "views": 199,
+    "views": 205,
     "forwards": 0
   },
   {
     "id": 8227,
     "date": "2026-04-14T18:41:07",
-    "views": 189,
+    "views": 196,
     "forwards": 1,
     "images": [
       {
@@ -109932,7 +109932,7 @@
     "id": 8228,
     "date": "2026-04-14T18:44:23",
     "text": "你凝视深渊，深渊还以凝视，并喵了一声",
-    "views": 189,
+    "views": 197,
     "forwards": 1,
     "forwarded_from": {
       "name": "无聊至极"
@@ -109941,7 +109941,7 @@
   {
     "id": 8229,
     "date": "2026-04-14T22:26:50",
-    "views": 183,
+    "views": 191,
     "forwards": 0,
     "media_group_id": 14209644881438541,
     "images": [
@@ -109971,7 +109971,7 @@
     "id": 8231,
     "date": "2026-04-15T07:23:17",
     "text": "实际上养了一只猫头鹰",
-    "views": 173,
+    "views": 189,
     "forwards": 0,
     "images": [
       {
@@ -109990,7 +109990,7 @@
     "id": 8233,
     "date": "2026-04-15T17:19:48",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n我是小猫眼睛 👀",
-    "views": 117,
+    "views": 151,
     "forwards": 0,
     "files": [
       {
@@ -110012,7 +110012,7 @@
     "id": 8234,
     "date": "2026-04-15T18:22:49",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n每次下高速看到这个牌子都会想到",
-    "views": 338,
+    "views": 493,
     "forwards": 1,
     "images": [
       {
@@ -110031,7 +110031,7 @@
     "id": 8235,
     "date": "2026-04-15T23:42:38",
     "text": "旅行小猫",
-    "views": 47,
+    "views": 100,
     "forwards": 1,
     "media_group_id": 14210372465753613,
     "images": [
@@ -110104,6 +110104,36 @@
         "url": "media/8241.jpg",
         "size": 1013414,
         "thumb": "media/8241.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8242,
+    "date": "2026-04-16T02:50:15",
+    "text": "今天去西班牙大使馆\n\n三月份发了签证申请的邮件，但是到现在一直都没有收到回信，电话也打不通（说语音信箱没有被启用），网上其他人好像也都是发完邮件完全没有收到回复 ... 所以决定线下去敲门问问\n\n到门口，员工说可能是人没看到，让我发一封 follow up 邮件写 URGENT、把会议的名字放在标题里、把邀请信加到附件，我发出去之后过一会就收到回复了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，好草台... 明明网站上说邮件申请是自动化系统不能加任何要求以外的信息的，还在想到底是谁觉得自动解析可能格式不同的邮件是个好主意，结果原来指的是能工智人自动化吗... 希望最后的 15 天时间还够把签证办下来\n\n（以及在门口看到了用翻盖手机的白人？！好厉害）",
+    "views": 45,
+    "forwards": 0,
+    "media_group_id": 14210462527080125,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-04-16T02:50:15",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-16_02-50-15.jpg",
+        "url": "media/8242.jpg",
+        "size": 584671,
+        "thumb": "media/8242.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 2026,
+        "date": "2026-04-16T02:50:15",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-16_02-50-15.jpg",
+        "url": "media/8243.jpg",
+        "size": 371949,
+        "thumb": "media/8243.jpg_thumb.jpg"
       }
     ]
   }
