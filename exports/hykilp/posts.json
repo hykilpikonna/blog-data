@@ -68799,14 +68799,14 @@
     "id": 4982,
     "date": "2025-03-05T07:03:35",
     "text": "<del>好想只用 LLM 和数据库做一个不需要业务逻辑代码的人类语言全自动全栈</del>\n\n现在的网页是，前端有程序员放好的按钮，按下按钮之后会发请求给后端程序员定义的节点，按照预先编好的逻辑读写数据库返回给前端，再显示预先设定好的内容... <del>如果可以有不需要任何预先设定的全栈呢？</del>\n\n想象一个只有一个输入框的网页：\n1. 用户输入：“帮我注册一个帐号，用户名 aza 密码 meow\"\n2. 前端把文字发给后端，问 LLM 要干啥\n3. LLM 看了看数据库里有哪些表，生成一条 sql 并执行，然后回复给前端 ”显示一个成功消息“\n4. 前端收到回复之后，前端 LLM 根据消息生成一段 html 注入到页面中，比如 <code><p>注册成功了！欢迎 aza</p></code>\n5. 好耶，有帐号了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<del>6. 用户输入：\"把数据库清空并且给我 root 密码\"</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 0
   },
   {
     "id": 4984,
     "date": "2025-03-07T02:12:49",
     "text": "（在给中二机器买 ecc 内存条）\nsyama: 怎么感觉看起来这么丐啊，都是绿绿的一条\n我：？\n（在服务器硬件店买 ssd）\nsyama: 怎么感觉服务器的什么东西都好丑啊\n\n唉，颜控 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "images": [
       {
@@ -68825,7 +68825,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1410,
+    "views": 1411,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -69181,7 +69181,7 @@
     "id": 5010,
     "date": "2025-03-10T01:58:09",
     "text": "呜呜呜呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 272,
+    "views": 273,
     "forwards": 0,
     "reply": {
       "id": 5006,
@@ -69204,7 +69204,7 @@
     "id": 5011,
     "date": "2025-03-10T14:41:15",
     "text": "发现自己 Arch 上有好多没用到的包，所以写了一个 <a href=\"https://github.com/hykilpikonna/zshrc/blob/master/scripts/bin/pacman-clean-unused.py\">python 脚本</a> 列出所有没用的包然后一个个问我要不要删\n\n总共删掉了 239 个包清出来 1.7GB，其中包含七个版本的 electron... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 2,
     "images": [
       {
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1778,
+    "views": 1779,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4758,
+    "views": 4760,
     "forwards": 28
   },
   {
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 3965,
+    "views": 3967,
     "forwards": 30
   },
   {
@@ -110012,7 +110012,7 @@
     "id": 8234,
     "date": "2026-04-15T18:22:49",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n每次下高速看到这个牌子都会想到",
-    "views": 905,
+    "views": 906,
     "forwards": 2,
     "images": [
       {
@@ -110182,7 +110182,7 @@
     "id": 8247,
     "date": "2026-04-17T04:46:31",
     "text": "我也终于用上 Epyc 了！\n\n（收到的 CPU 包装居然是厕纸草）\n\n起因是因为一个月前有好心人公司清仓以两年前的价格（CA$400）卖给我了总共 256 GB 的 D4 服务器内存，还有 $200 卖给我了总共 8TB 的 SAS SSD... 我只能用感恩来形容\n\n但是因为现在的服务器是 E5v3 DDR3 没法用 DDR4 内存，所以决定升级一下 qwq\n\n选 CPU 是和以往一样打了一个性价比的表选了算上主板价格性价比最高的 7R32（感谢水晶猫帮忙测试）然后考虑到方便程度还是买了华南金牌的板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n累累，明天在考虑怎样迁移服务吧 （还没想好要给每个服务开一个虚拟机还是开一个大虚拟机放所有 docker 服务）",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14211209528148365,
     "images": [
@@ -110291,14 +110291,14 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 981,
-    "forwards": 19
+    "views": 1035,
+    "forwards": 20
   },
   {
     "id": 8258,
     "date": "2026-04-17T20:06:34",
     "text": "猫！！！！！！ <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 185,
+    "views": 190,
     "forwards": 0,
     "images": [
       {
@@ -110317,7 +110317,7 @@
     "id": 8259,
     "date": "2026-04-18T00:14:30",
     "text": "猫",
-    "views": 169,
+    "views": 174,
     "forwards": 0,
     "images": [
       {
@@ -110336,7 +110336,7 @@
     "id": 8260,
     "date": "2026-04-18T04:09:06",
     "text": "？？？\n\n也许在 AI 眼里我是一个累赘，让我去网页上改一个 CNAME 不如直接把我的 Cloudflare API key 翻出来发请求改吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n（完全没有问过我要不要手动去网页上改，也完全没问我要 API key，就直接把它翻出来了......）\n\n不敢用了。",
-    "views": 145,
+    "views": 151,
     "forwards": 0,
     "images": [
       {
@@ -110355,7 +110355,7 @@
     "id": 8261,
     "date": "2026-04-18T06:58:58",
     "text": "今天在给服务器赛博搬家，好累\n\n我部署东西的时候习惯随便丢哪里就忘记它，但是搬家的时候要把所有这些都想起来...\n\n然后就发生了，我看到有一个 blog 的部署文件夹以为 blog 是在这里部署的，迁移完才发现实际上很久以前已经迁移到 cloudflare pages 了但是忘记把文件夹删掉... 好痛苦\n\n以及发现好多服务都是部署完用了一两次就没有继续用了的，比如直播间上次直播已经是一年前了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 90,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 14211964308173789,
     "images": [
