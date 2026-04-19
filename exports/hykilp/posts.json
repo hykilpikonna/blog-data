@@ -66815,7 +66815,7 @@
     "id": 4846,
     "date": "2025-01-08T17:53:31",
     "text": "每次想玩中二的时候群里都会有人一起玩好开心 qwq",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "reply": {
       "id": 4841,
@@ -66826,7 +66826,7 @@
     "id": 4847,
     "date": "2025-01-09T00:54:09",
     "text": "猫脑过载",
-    "views": 185,
+    "views": 186,
     "forwards": 3,
     "images": [
       {
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6545,
+    "views": 6546,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97962,7 +97962,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 511,
+    "views": 512,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -99665,7 +99665,7 @@
     "id": 7413,
     "date": "2025-12-07T16:15:57",
     "text": "🐱：自贩机居然不贩卖它自己\n🐴：是“自动”不是“自己“啦\n（沉默）\n🐱：人是不是一种自贩机，会投简历贩卖自己",
-    "views": 312,
+    "views": 313,
     "forwards": 2
   },
   {
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 339,
+    "views": 340,
     "forwards": 5,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 309,
+    "views": 310,
     "forwards": 1,
     "images": [
       {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 333,
+    "views": 334,
     "forwards": 0,
     "images": [
       {
@@ -108814,7 +108814,7 @@
     "id": 8149,
     "date": "2026-04-02T08:16:49",
     "text": "今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想\n\n按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 感觉像是时间旅行程度的超能力\n\n唉 如果我也能有这种一键暂停/唤醒的功能就好了",
-    "views": 454,
+    "views": 455,
     "forwards": 1
   },
   {
@@ -109738,7 +109738,7 @@
     "id": 8215,
     "date": "2026-04-12T01:43:28",
     "text": "我：需要专心复习\n脑子：对哦，既然宇宙中没有空气那么飞船怎样散热？<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 297,
+    "views": 300,
     "forwards": 1,
     "images": [
       {
@@ -109757,7 +109757,7 @@
     "id": 8216,
     "date": "2026-04-12T05:13:14",
     "text": "好喜欢这张照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n（Credit: <a href=\"https://www.nasa.gov/artemis-ii-multimedia/\">NASA</a>）",
-    "views": 284,
+    "views": 285,
     "forwards": 3,
     "images": [
       {
@@ -109776,7 +109776,7 @@
     "id": 8217,
     "date": "2026-04-12T21:01:30",
     "text": "和猫猫跳舞",
-    "views": 292,
+    "views": 293,
     "forwards": 2,
     "files": [
       {
@@ -109797,7 +109797,7 @@
     "id": 8218,
     "date": "2026-04-13T00:59:26",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 291,
+    "views": 292,
     "forwards": 2,
     "files": [
       {
@@ -109818,7 +109818,7 @@
     "id": 8219,
     "date": "2026-04-13T16:17:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 280,
+    "views": 281,
     "forwards": 2,
     "images": [
       {
@@ -109837,7 +109837,7 @@
     "id": 8220,
     "date": "2026-04-13T19:36:24",
     "text": "2/3",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "media_group_id": 14208871873572573,
     "images": [
@@ -109907,13 +109907,13 @@
     "id": 8226,
     "date": "2026-04-14T15:48:37",
     "text": "考完了！好累",
-    "views": 261,
+    "views": 262,
     "forwards": 0
   },
   {
     "id": 8227,
     "date": "2026-04-14T18:41:07",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "images": [
       {
@@ -109932,7 +109932,7 @@
     "id": 8228,
     "date": "2026-04-14T18:44:23",
     "text": "你凝视深渊，深渊还以凝视，并喵了一声",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "forwarded_from": {
       "name": "无聊至极"
@@ -109941,7 +109941,7 @@
   {
     "id": 8229,
     "date": "2026-04-14T22:26:50",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "media_group_id": 14209644881438541,
     "images": [
@@ -109971,7 +109971,7 @@
     "id": 8231,
     "date": "2026-04-15T07:23:17",
     "text": "实际上养了一只猫头鹰",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "images": [
       {
@@ -109990,7 +109990,7 @@
     "id": 8233,
     "date": "2026-04-15T17:19:48",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n我是小猫眼睛 👀",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "files": [
       {
@@ -110012,7 +110012,7 @@
     "id": 8234,
     "date": "2026-04-15T18:22:49",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n每次下高速看到这个牌子都会想到",
-    "views": 935,
+    "views": 937,
     "forwards": 2,
     "images": [
       {
@@ -110031,7 +110031,7 @@
     "id": 8235,
     "date": "2026-04-15T23:42:38",
     "text": "旅行小猫",
-    "views": 223,
+    "views": 224,
     "forwards": 1,
     "media_group_id": 14210372465753613,
     "images": [
@@ -110111,7 +110111,7 @@
     "id": 8242,
     "date": "2026-04-16T02:50:15",
     "text": "今天去西班牙大使馆\n\n三月份发了签证申请的邮件，但是到现在一直都没有收到回信，电话也打不通（说语音信箱没有被启用），网上其他人好像也都是发完邮件完全没有收到回复 ... 所以决定线下去敲门问问\n\n到门口，员工说可能是人没看到，让我发一封 follow up 邮件写 URGENT、把会议的名字放在标题里、把邀请信加到附件，我发出去之后过一会就收到回复了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，好草台... 明明网站上说邮件申请是自动化系统不能加任何要求以外的信息的，还在想到底是谁觉得自动解析可能格式不同的邮件是个好主意，结果原来指的是能工智人自动化吗... 希望最后的 15 天时间还够把签证办下来\n\n（以及在门口看到了用翻盖手机的白人？！好厉害）",
-    "views": 217,
+    "views": 219,
     "forwards": 2,
     "media_group_id": 14210462527080125,
     "images": [
@@ -110141,7 +110141,7 @@
     "id": 8244,
     "date": "2026-04-17T00:43:54",
     "text": "昨天吃 dayvigo 第一次经历了 sleep paralysis，俗称鬼压床\n\n和清醒梦是同样的原理，身体睡着了但是意识还很清醒，只不过还没有进入梦。感觉自己像是卡在某种现实和梦境之间的虚空中，像往常一样想要移动身体但是身体不动，想要向躺在旁边的聊聊求助但是嘴也张不开 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n还好以前心理课上学过，知道在发生什么，但是依然好可怕...",
-    "views": 223,
+    "views": 224,
     "forwards": 0,
     "reply": {
       "id": 1555,
@@ -110152,7 +110152,7 @@
     "id": 8245,
     "date": "2026-04-17T01:42:31",
     "text": "<a href=\"##开箱\">#开箱</a>\n一只小猫",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "media_group_id": 14211121213851181,
     "images": [
@@ -110182,7 +110182,7 @@
     "id": 8247,
     "date": "2026-04-17T04:46:31",
     "text": "我也终于用上 Epyc 了！\n\n（收到的 CPU 包装居然是厕纸草）\n\n起因是因为一个月前有好心人公司清仓以两年前的价格（CA$400）卖给我了总共 256 GB 的 D4 服务器内存，还有 $200 卖给我了总共 8TB 的 SAS SSD... 我只能用感恩来形容\n\n但是因为现在的服务器是 E5v3 DDR3 没法用 DDR4 内存，所以决定升级一下 qwq\n\n选 CPU 是和以往一样打了一个性价比的表选了算上主板价格性价比最高的 7R32（感谢水晶猫帮忙测试）然后考虑到方便程度还是买了华南金牌的板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n累累，明天在考虑怎样迁移服务吧 （还没想好要给每个服务开一个虚拟机还是开一个大虚拟机放所有 docker 服务）",
-    "views": 233,
+    "views": 235,
     "forwards": 0,
     "media_group_id": 14211209528148365,
     "images": [
@@ -110291,14 +110291,14 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1212,
-    "forwards": 22
+    "views": 1227,
+    "forwards": 23
   },
   {
     "id": 8258,
     "date": "2026-04-17T20:06:34",
     "text": "猫！！！！！！ <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 225,
+    "views": 227,
     "forwards": 0,
     "images": [
       {
@@ -110317,7 +110317,7 @@
     "id": 8259,
     "date": "2026-04-18T00:14:30",
     "text": "猫",
-    "views": 224,
+    "views": 226,
     "forwards": 0,
     "images": [
       {
@@ -110336,7 +110336,7 @@
     "id": 8260,
     "date": "2026-04-18T04:09:06",
     "text": "？？？\n\n也许在 AI 眼里我是一个累赘，让我去网页上改一个 CNAME 不如直接把我的 Cloudflare API key 翻出来发请求改吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n（完全没有问过我要不要手动去网页上改，也完全没问我要 API key，就直接把它翻出来了......）\n\n不敢用了。",
-    "views": 217,
+    "views": 219,
     "forwards": 0,
     "images": [
       {
@@ -110355,7 +110355,7 @@
     "id": 8261,
     "date": "2026-04-18T06:58:58",
     "text": "今天在给服务器赛博搬家，好累\n\n我部署东西的时候习惯随便丢哪里就忘记它，但是搬家的时候要把所有这些都想起来...\n\n然后就发生了，我看到有一个 blog 的部署文件夹以为 blog 是在这里部署的，迁移完才发现实际上很久以前已经迁移到 cloudflare pages 了但是忘记把文件夹删掉... 好痛苦\n\n以及发现好多服务都是部署完用了一两次就没有继续用了的，比如直播间上次直播已经是一年前了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 194,
+    "views": 198,
     "forwards": 0,
     "media_group_id": 14211964308173789,
     "images": [
@@ -110390,7 +110390,7 @@
     "id": 8263,
     "date": "2026-04-18T15:30:31",
     "text": "map 了一下家里的网络设备拓扑结构\n\nMermaid 好用喵",
-    "views": 172,
+    "views": 176,
     "forwards": 1,
     "images": [
       {
@@ -110409,7 +110409,7 @@
     "id": 8264,
     "date": "2026-04-18T20:29:38",
     "text": "看了 mygo 总集篇的猫猫小故事，好看喵\n\n好羡慕猫猫，真希望我能有勇气像猫猫那样<span class=\"spoiler\"><span>无视社会礼仪常识、遇到不喜欢的事情可以直接跑掉</span></span> 感觉这样也许可以省下很多精力去做更想做的事情",
-    "views": 145,
+    "views": 150,
     "forwards": 1,
     "images": [
       {
@@ -110428,7 +110428,7 @@
     "id": 8265,
     "date": "2026-04-18T20:55:17",
     "text": "谁设计的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 137,
+    "views": 143,
     "forwards": 0,
     "reply": {
       "id": 8122,
@@ -110452,7 +110452,7 @@
     "id": 8266,
     "date": "2026-04-19T02:04:39",
     "text": "遛猫",
-    "views": 98,
+    "views": 111,
     "forwards": 1,
     "media_group_id": 14212514239392477,
     "images": [
