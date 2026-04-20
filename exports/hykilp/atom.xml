@@ -2,11 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-04-19T22:25:53.781327+00:00</updated>
+  <updated>2026-04-20T00:36:25.115937+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8280</id>
+    <title>小桂桂的回忆录 📒 #8280</title>
+    <updated>2026-04-19T23:53:20+00:00</updated>
+    <content>&lt;p&gt;光纤线彻底断掉了（这次的罪魁祸首是聊聊绊到了）&lt;/p&gt;
+&lt;p&gt;因为光纤冷接头比这条线更贵，所以只能换线了&lt;/p&gt;
+&lt;p&gt;于是用它当绳子挂了 AP&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8280" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>8279</id>
+    <title>小桂桂的回忆录 📒 #8279</title>
+    <updated>2026-04-19T23:49:34+00:00</updated>
+    <content/>
+    <link href="https://aza.moe/life?post=8279" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>8277</id>
+    <title>小桂桂的回忆录 📒 #8277</title>
+    <updated>2026-04-19T22:53:55+00:00</updated>
+    <content>&lt;p&gt;呜呜 被坑了... gitadora 的存档丢了&lt;/p&gt;
+&lt;p&gt;之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用&lt;/p&gt;
+&lt;p&gt;但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了&lt;/p&gt;
+&lt;p&gt;然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内&lt;/p&gt;
+&lt;p&gt;呜呜呜 看来以后不能相信随机网友的 docker 配置了 &lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8277" rel="alternate"/>
+  </entry>
   <entry>
     <id>8276</id>
     <title>小桂桂的回忆录 📒 #8276</title>
