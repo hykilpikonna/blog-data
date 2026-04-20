@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4792,
+    "views": 4793,
     "forwards": 28
   },
   {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1409,
+    "views": 1426,
     "forwards": 25
   },
   {
@@ -110562,7 +110562,7 @@
     "id": 8276,
     "date": "2026-04-19T09:20:36",
     "text": "啊？一年没关心 bcachefs 原本想再看看能不能用的... 有被震撼到 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n<a href=\"https://poc.bcachefs.org/\">https://poc.bcachefs.org/</a>",
-    "views": 255,
+    "views": 256,
     "forwards": 2,
     "images": [
       {
@@ -110581,7 +110581,7 @@
     "id": 8277,
     "date": "2026-04-19T22:53:55",
     "text": "呜呜 被坑了... gitadora 的存档丢了\n\n之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用\n\n但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了\n\n然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内\n\n呜呜呜 看来以后不能相信随机网友的 docker 配置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 185,
+    "views": 187,
     "forwards": 1,
     "media_group_id": 14213113883732813,
     "images": [
@@ -110610,7 +110610,7 @@
   {
     "id": 8279,
     "date": "2026-04-19T23:49:34",
-    "views": 171,
+    "views": 173,
     "forwards": 0,
     "files": [
       {
@@ -110631,7 +110631,7 @@
     "id": 8280,
     "date": "2026-04-19T23:53:20",
     "text": "光纤线彻底断掉了（这次的罪魁祸首是聊聊绊到了）\n\n因为光纤冷接头比这条线更贵，所以只能换线了\n\n于是用它当绳子挂了 AP",
-    "views": 173,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 14213142405975557,
     "images": [
@@ -110671,7 +110671,7 @@
     "id": 8283,
     "date": "2026-04-20T18:24:30",
     "text": "为什么我家小猫这么喜欢吃草呀，每次带它出门都在吃草... 是不是兔兔变的",
-    "views": 47,
+    "views": 61,
     "forwards": 0
   }
 ]
