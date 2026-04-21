@@ -567,7 +567,7 @@
     "id": 50,
     "date": "2021-09-16T00:03:12",
     "text": "仍然在工作的三个电话亭w",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "reply": {
       "id": 38
@@ -589,7 +589,7 @@
     "id": 51,
     "date": "2021-09-16T00:07:10",
     "text": "电箱上的涂鸦w",
-    "views": 77,
+    "views": 78,
     "forwards": 0,
     "reply": {
       "id": 38
@@ -611,7 +611,7 @@
     "id": 52,
     "date": "2021-09-16T00:09:38",
     "text": "钉满订书钉的路牌w（每个钉都是某个人很早很早之前钉下的公告",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 38
@@ -633,7 +633,7 @@
     "id": 53,
     "date": "2021-09-16T03:48:49",
     "text": "不会写影评，随便写写好啦：<a href=\"https://telegra.ph/尚气感想-09-16\">https://telegra.ph/尚气感想-09-16</a>",
-    "views": 92,
+    "views": 93,
     "forwards": 1,
     "reply": {
       "id": 49,
@@ -56129,7 +56129,7 @@
     "id": 4115,
     "date": "2024-07-10T10:05:26",
     "text": "训练好了 Sekai LLM 之后现在正在训练 Sekai TTS，目前训练到第一代 250 epoch，效果意外不错 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>开放了一个测试网页大家可以来玩玩 </del><a href=\"https://sekai-test.aquadx.net/\"><del>https://sekai-test.aquadx.net/</a></del> （edit: 测试结束下线了，感谢关注）\n\n架构用的是 2021 年的 <a href=\"https://arxiv.org/abs/2106.06103\">VITS</a>，训练用了 <a href=\"https://github.com/Plachtaa/VITS-fast-fine-tuning\">Plachtaa 的微调仓库</a>，把 pjsk 拆好的资源下下来把文本音频对应上之后就开始训练啦，都是别人走过的路。第一代用了每人 200 个音频，看起来有些数据集外的音频听起来怪怪的，下一代打算把游戏里的全部 210308 条音频都喂进去（虽然那样应该会需要训练更久\n\n以及感谢 menci 借给我 4090 机器 qwq",
-    "views": 132,
+    "views": 133,
     "forwards": 1,
     "images": [
       {
@@ -56148,14 +56148,14 @@
     "id": 4116,
     "date": "2024-07-10T16:03:25",
     "text": "在中国只是日常写程序就能学到很多寄网知识 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n刚才开 gradio 不知道为什么提交生成的时候没有反应，甚至服务器端没有收到请求，然后发现是 gradio 自己需要访问 localhost，然而开了 all_proxy 环境变量之后 localhost 也被代跑了",
-    "views": 111,
+    "views": 112,
     "forwards": 1
   },
   {
     "id": 4117,
     "date": "2024-07-10T16:40:29",
     "text": "最近 AquaDX 和其他服务器经常宕机的原因\n\n相信聊聊已经尽力了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 2,
     "media_group_id": 13765037034951597,
     "images": [
@@ -56195,7 +56195,7 @@
     "id": 4120,
     "date": "2024-07-11T05:31:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nAdo 的声线好疯！转粉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "files": [
       {
@@ -56217,7 +56217,7 @@
     "id": 4121,
     "date": "2024-07-11T07:14:30",
     "text": "给 maimai 手台买了一个漫步者 C2X 音响，它自带的功放 EQ 真的有大问题...\n\n拆开功放发现是 TDA7303 EQ + TDA7379 的廉价方案，感觉救不了，重新配了一个 DIY 功放\n\n这次用了两片 TPA3116D2 的方案，一片 50W * 2 给左右双声道，另一片 100W 单声道给低音炮，配了一个 24V 8A 电源，效果真的立竿见影\n\n今天给它画了一个壳子 3D 打印出来了，看起来也还不错呢 qwq",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "media_group_id": 13765456567346213,
     "images": [
@@ -56287,7 +56287,7 @@
     "id": 4127,
     "date": "2024-07-11T17:01:07",
     "text": "<a href=\"##出售\">#出售</a> <a href=\"##电子产品\">#电子产品</a> <a href=\"##iPad\">#iPad</a> <a href=\"##苹果\">#苹果</a> <a href=\"##A12X\">#A12X</a> <a href=\"##aarch64\">#aarch64</a> \n联系 Azalea  价格 2333\n便宜出缺陷机 iPad Pro 11\" 256G A12X A2013\n美版 Cellular 4G 插卡支持 eSIM，电池 87%，系统 17.4.1\n\n两周前 ￥2650 从咸鱼上入的，面交被卖家坑了，当面验货的时候觉得很好但是之后发现了好多暗病，因此换了新 M1 iPad Pro。带钢化膜，带定制的 🏳️‍⚧️ PJSK 「25 时」 磁吸壳，买了纸模还没贴需要的话可以一起发过去。\n\n❌ FaceID 不能用\n❌ 左上角非常偶尔会误触（玩游戏如果返回/暂停键在左上角的话可能需要旋转 180°）\n❌ 有美国 JetBlue 的 MDM 锁（可以解，刷机/重置/继承/恢复备份之后需要连电脑解，解锁之后不刷机就和正常机器一样完全分辨不出来... 当时面交应该当面重置的 😭）\n\n总之就是这样，全都是当面验货没找出来藏得很深的小毛病，被闲鱼坑了不想去坑下一家就便宜挂在这里好了。🉑小刀。帮你们查了 GSX 记录，更多详情见评论区",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "forwarded_from": {
       "name": "二手🐴——投稿看简介"
@@ -56390,7 +56390,7 @@
     "id": 4136,
     "date": "2024-07-12T03:38:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<a href=\"https://t.me/Azuelle\">@Azuelle</a> 从日本带回来的博多纯情らーめん <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 好吃诶",
-    "views": 120,
+    "views": 121,
     "forwards": 2,
     "media_group_id": 13766044269129149,
     "images": [
@@ -56440,7 +56440,7 @@
     "id": 4140,
     "date": "2024-07-12T07:47:26",
     "text": "？",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -56459,13 +56459,13 @@
     "id": 4141,
     "date": "2024-07-12T11:18:33",
     "text": "在想 为什么有酿十年的酒但是没有炖十年的肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 113,
+    "views": 114,
     "forwards": 0
   },
   {
     "id": 4142,
     "date": "2024-07-12T12:14:00",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13766291520648917,
     "files": [
@@ -56499,7 +56499,7 @@
     "id": 4144,
     "date": "2024-07-12T12:14:12",
     "text": "第一代模型和第二代模型的对比 qwq\n\n都是 VITS 架构，v1 是从每个角色 200 条 10s 音频的 900 MB 小数据集训练 500 轮出来的，v2 是由全游戏总共 173k 条音频的 30GB 大数据集训练现在刚 50 轮就已经比 v1 好太多了哇\n\n不过大数据集训练好慢... 即使为了防止显存炸掉限制了 10s（因为要把整个音频读进显存里才能训练，最长长度不一致的话很容易 OOM）即使把 batch size 调到 48 用 4090 训练，每轮也要半小时这么久...\n\n新的模型也开放了一个测试网页，欢迎来玩哦 <a href=\"http://sekai-test2.aquadx.net/\">http://sekai-test2.aquadx.net/</a> （之后下线的时候会把这条编辑掉）",
-    "views": 113,
+    "views": 116,
     "forwards": 0,
     "reply": {
       "id": 4142
@@ -56509,7 +56509,7 @@
     "id": 4145,
     "date": "2024-07-12T19:47:31",
     "text": "接上桂桂TTS了.说话有声音了",
-    "views": 117,
+    "views": 121,
     "forwards": 0,
     "forwarded_from": {
       "name": "Own",
@@ -56536,7 +56536,7 @@
     "id": 4146,
     "date": "2024-07-12T19:48:04",
     "text": "Syama 那边在做 Unity 前端，好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我给开了一个 API 之后她好快就写好了\n\n居然还有嘴型哇",
-    "views": 118,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 4145,
@@ -56547,7 +56547,7 @@
     "id": 4147,
     "date": "2024-07-12T23:04:21",
     "text": "欢乐",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "media_group_id": 13766603691716701,
     "images": [
@@ -56587,7 +56587,7 @@
     "id": 4150,
     "date": "2024-07-13T20:40:40",
     "text": "呜呜 好想吃瑞希做的咖喱意面 quq",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
@@ -56606,14 +56606,14 @@
     "id": 4151,
     "date": "2024-07-16T04:38:34",
     "text": "好无力",
-    "views": 94,
+    "views": 95,
     "forwards": 0
   },
   {
     "id": 4152,
     "date": "2024-07-16T08:54:10",
     "text": "帮聊聊给在看守所的朋友寄了信...\n\n这个年代似乎已经没有人寄平邮的信了。打印店老板说没寄过，去楼下中国邮政老板还一脸诧异笑了笑说不接，说整个城区只有一家邮政寄平邮。\n\n骑车去了那唯一一家，发现那家邮政老板意外人很好，并没有质疑为什么这个年代还需要寄平邮，我也没有因此被取笑。明明寄平邮就应该是这样简单的事情，封上信口交了钱就结束了，看着他熟练地贴上邮票把信丢进寄信箱让我很安心。",
-    "views": 101,
+    "views": 102,
     "forwards": 2,
     "media_group_id": 13768960404856437,
     "images": [
@@ -56653,7 +56653,7 @@
     "id": 4155,
     "date": "2024-07-16T09:49:41",
     "text": "GPT4 还是 4o 都答错了的问题我的 LoRA 瑞希答对了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 不愧是瑞希",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 13768987049704909,
     "images": [
@@ -56728,7 +56728,7 @@
     "id": 4161,
     "date": "2024-07-16T17:42:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 syama 一起吃深夜烧鸟 quq",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13769214187057997,
     "images": [
@@ -56788,20 +56788,20 @@
     "id": 4166,
     "date": "2024-07-17T17:16:04",
     "text": "syama 家有一组两个灯有三个按钮开关，开关 A 打开会让 a 亮，B 会让 b 亮，C 会让 a = !a, b = ! b，也就是说如果 A 和 C 同时开着，只有 b 亮\n\n<span class=\"spoiler\"><span>突然好想把家里的智能开关改造成一个布尔可满足性谜题，每个开关控制三个灯的布尔条件，每组特定的亮灭组合都可以用一种特定的开关组合达成</span></span>",
-    "views": 102,
+    "views": 103,
     "forwards": 0
   },
   {
     "id": 4167,
     "date": "2024-07-17T17:25:15",
     "text": "为什么鱼罐头是鱼做的但是猫罐头不是猫做的 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0
   },
   {
     "id": 4168,
     "date": "2024-07-17T21:48:54",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -56824,7 +56824,7 @@
     "id": 4169,
     "date": "2024-07-18T11:23:14",
     "text": "？？？？ CloudFlare 真的好智能？\n\n今天起来发现服务炸了，请求直接域名不见... 驱虫了半天，原本觉得 CF 应该是最不容易出问题的但是也看一眼吧，然后发现真的就是 CF 的锅\n\n我的 CF 隧道上有很多条 <a href=\"sekai.aquadx.net\">sekai.aquadx.net</a> 的不同子路径代理到不同端口上，昨天晚上加了一个测试路径然后把它删掉了，然后现在发现 CF 删那个子路径的时候直接把我整个 <a href=\"sekai.aquadx.net\">sekai.aquadx.net</a> 的 DNS 映射删掉了......\n\n怎么这么基础的逻辑还能出错啊 CF <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "media_group_id": 13770414354579493,
     "images": [
@@ -56854,14 +56854,14 @@
     "id": 4171,
     "date": "2024-07-18T20:36:36",
     "text": "我火星 刚看到 niconico 数据丢失的那件事，完全 🤯\n\n发现现在日语创作社区已经移居 YouTube 了，弹幕文化就这样死掉了吗... 感觉好可惜",
-    "views": 97,
+    "views": 98,
     "forwards": 0
   },
   {
     "id": 4172,
     "date": "2024-07-19T10:57:17",
     "text": "跟我学单词：\nCrowd，人群\nStrike，罢工\nCrowdStrike，集体罢工\n\n例句：\nJuly 19th, we CrowdStrike. 7月19日，我们集体罢工了",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "forwarded_from": {
       "name": "一个频道"
@@ -56871,7 +56871,7 @@
     "id": 4173,
     "date": "2024-07-19T10:58:45",
     "text": "感觉会有很多一般路过吃瓜群众觉得这次的蓝屏事故是微软的锅...",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "reply": {
       "id": 4172,
@@ -56882,7 +56882,7 @@
     "id": 4174,
     "date": "2024-07-19T14:30:25",
     "text": "今天在研究中日文翻译，去🤗上找了一圈发现并没有人训练中文翻日文的模型，即使语言很全的比如 Helsinki-NLP opus 系列也大部分都是转英语的模型。\n\n然后就在想，要做一个语言覆盖全面的翻译模型需要的资源好多啊，模型数量和语言数量是 n² 关系，如果要支持 33 种语言互相翻译就需要训练 1089 个模型... 那现有的翻译工具是怎么做的呢？\n\n然后发现谷歌翻译其实是用英语做了中间语言，先把所有语言翻译到英语再翻译到目标语言... 这样就只需要 2n 个模型了，但是会有很大问题，英语有歧义的东西就会翻错，比如「字符串」 > \"String\" > 「弦」\n\n那 DeepL 是怎么做的呢？简单测试一下发现是没有英语歧义问题的，字符串不会翻译成弦，弦也不会翻译成字符串... 但是仔细测试一下发现 DeepL 其实也是用英语中转的，因为中英翻译爆炸的时候中日会把英语的爆炸结果翻出来。那它是怎么做到消歧义的呢？好奇妙",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13771195402520333,
     "images": [
@@ -56922,7 +56922,7 @@
     "id": 4177,
     "date": "2024-07-19T14:42:19",
     "text": "没事了，DeepL 英语歧义也会翻错",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "reply": {
       "id": 4174,
@@ -56946,7 +56946,7 @@
     "id": 4178,
     "date": "2024-07-19T15:36:21",
     "text": "测试了半天百度翻译，百度翻译确实没有英语歧义的问题\n\n...因为百度的中转语言是中文，当然没有英语歧义的问题，只有中文歧义的问题 🌚\n\n\"Beat a car\" > 「打车」 > 「タクシーを拾う」 (\"Take a taxi\")\n\n不过感觉中文确实比英文更难出现歧义，而且因为亚洲语言离中文更近，感觉百度翻译翻亚洲语言的准确率肯定比英语中转的 Google / DeepL 高",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "reply": {
       "id": 4174,
@@ -58637,7 +58637,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -67957,7 +67957,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1384,
+    "views": 1385,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67979,7 +67979,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1174,
+    "views": 1175,
     "forwards": 7,
     "files": [
       {
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1788,
+    "views": 1790,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4793,
+    "views": 4794,
     "forwards": 28
   },
   {
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 344,
+    "views": 345,
     "forwards": 5,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108652,7 +108652,7 @@
     "id": 8140,
     "date": "2026-04-01T09:04:58",
     "text": "谷歌这次更新又来治强迫症了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 357,
+    "views": 358,
     "forwards": 2,
     "media_group_id": 14200274383817613,
     "images": [
@@ -108930,7 +108930,7 @@
     "id": 8158,
     "date": "2026-04-03T23:52:20",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱！（是室友做的）\n\n想念北海道了 qwq",
-    "views": 317,
+    "views": 318,
     "forwards": 1,
     "media_group_id": 14202082725553261,
     "images": [
@@ -108980,7 +108980,7 @@
     "id": 8163,
     "date": "2026-04-04T09:55:10",
     "text": "袋子在摇尾巴！",
-    "views": 330,
+    "views": 331,
     "forwards": 2,
     "files": [
       {
@@ -109135,7 +109135,7 @@
     "id": 8174,
     "date": "2026-04-06T16:35:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n咖喱乌冬！<span class=\"spoiler\"><span>∩ ∪ ∩</span></span>",
-    "views": 335,
+    "views": 336,
     "forwards": 0,
     "images": [
       {
@@ -109154,7 +109154,7 @@
     "id": 8175,
     "date": "2026-04-06T17:53:07",
     "text": "如果社交软件有「知道对方有没有看到我已读了」的功能就好了",
-    "views": 332,
+    "views": 333,
     "forwards": 2
   },
   {
@@ -109384,7 +109384,7 @@
     "id": 8190,
     "date": "2026-04-08T23:41:28",
     "text": "发现 Affinity 并不是合格的 SVG 设计软件...\n\n今天用它设计了渲染 OpenGraph 用的 SVG，导出之后发现所有东西包括文字全都被点阵化了。如果选择「不进行点阵化」的话，导出的效果和设计图完全不一样。\n\n最终用 Boxy 手动重做了纯 SVG",
-    "views": 311,
+    "views": 312,
     "forwards": 1,
     "images": [
       {
@@ -109403,7 +109403,7 @@
     "id": 8191,
     "date": "2026-04-09T00:53:27",
     "text": "怪不得 ClawdBot 要改名 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n(source: <a href=\"https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf\">mythos model card</a>)",
-    "views": 317,
+    "views": 318,
     "forwards": 0,
     "images": [
       {
@@ -109990,7 +109990,7 @@
     "id": 8233,
     "date": "2026-04-15T17:19:48",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n我是小猫眼睛 👀",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "files": [
       {
@@ -110012,7 +110012,7 @@
     "id": 8234,
     "date": "2026-04-15T18:22:49",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n每次下高速看到这个牌子都会想到",
-    "views": 968,
+    "views": 972,
     "forwards": 2,
     "images": [
       {
@@ -110031,7 +110031,7 @@
     "id": 8235,
     "date": "2026-04-15T23:42:38",
     "text": "旅行小猫",
-    "views": 237,
+    "views": 240,
     "forwards": 1,
     "media_group_id": 14210372465753613,
     "images": [
@@ -110111,7 +110111,7 @@
     "id": 8242,
     "date": "2026-04-16T02:50:15",
     "text": "今天去西班牙大使馆\n\n三月份发了签证申请的邮件，但是到现在一直都没有收到回信，电话也打不通（说语音信箱没有被启用），网上其他人好像也都是发完邮件完全没有收到回复 ... 所以决定线下去敲门问问\n\n到门口，员工说可能是人没看到，让我发一封 follow up 邮件写 URGENT、把会议的名字放在标题里、把邀请信加到附件，我发出去之后过一会就收到回复了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，好草台... 明明网站上说邮件申请是自动化系统不能加任何要求以外的信息的，还在想到底是谁觉得自动解析可能格式不同的邮件是个好主意，结果原来指的是能工智人自动化吗... 希望最后的 15 天时间还够把签证办下来\n\n（以及在门口看到了用翻盖手机的白人？！好厉害）",
-    "views": 232,
+    "views": 236,
     "forwards": 2,
     "media_group_id": 14210462527080125,
     "images": [
@@ -110141,7 +110141,7 @@
     "id": 8244,
     "date": "2026-04-17T00:43:54",
     "text": "昨天吃 dayvigo 第一次经历了 sleep paralysis，俗称鬼压床\n\n和清醒梦是同样的原理，身体睡着了但是意识还很清醒，只不过还没有进入梦。感觉自己像是卡在某种现实和梦境之间的虚空中，像往常一样想要移动身体但是身体不动，想要向躺在旁边的聊聊求助但是嘴也张不开 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n还好以前心理课上学过，知道在发生什么，但是依然好可怕...",
-    "views": 240,
+    "views": 244,
     "forwards": 0,
     "reply": {
       "id": 1555,
@@ -110152,7 +110152,7 @@
     "id": 8245,
     "date": "2026-04-17T01:42:31",
     "text": "<a href=\"##开箱\">#开箱</a>\n一只小猫",
-    "views": 251,
+    "views": 254,
     "forwards": 1,
     "media_group_id": 14211121213851181,
     "images": [
@@ -110182,7 +110182,7 @@
     "id": 8247,
     "date": "2026-04-17T04:46:31",
     "text": "我也终于用上 Epyc 了！\n\n（收到的 CPU 包装居然是厕纸草）\n\n起因是因为一个月前有好心人公司清仓以两年前的价格（CA$400）卖给我了总共 256 GB 的 D4 服务器内存，还有 $200 卖给我了总共 8TB 的 SAS SSD... 我只能用感恩来形容\n\n但是因为现在的服务器是 E5v3 DDR3 没法用 DDR4 内存，所以决定升级一下 qwq\n\n选 CPU 是和以往一样打了一个性价比的表选了算上主板价格性价比最高的 7R32（感谢水晶猫帮忙测试）然后考虑到方便程度还是买了华南金牌的板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n累累，明天在考虑怎样迁移服务吧 （还没想好要给每个服务开一个虚拟机还是开一个大虚拟机放所有 docker 服务）",
-    "views": 254,
+    "views": 257,
     "forwards": 0,
     "media_group_id": 14211209528148365,
     "images": [
@@ -110291,14 +110291,14 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1445,
+    "views": 1464,
     "forwards": 25
   },
   {
     "id": 8258,
     "date": "2026-04-17T20:06:34",
     "text": "猫！！！！！！ <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 246,
+    "views": 249,
     "forwards": 0,
     "images": [
       {
@@ -110317,7 +110317,7 @@
     "id": 8259,
     "date": "2026-04-18T00:14:30",
     "text": "猫",
-    "views": 246,
+    "views": 248,
     "forwards": 0,
     "images": [
       {
@@ -110336,7 +110336,7 @@
     "id": 8260,
     "date": "2026-04-18T04:09:06",
     "text": "？？？\n\n也许在 AI 眼里我是一个累赘，让我去网页上改一个 CNAME 不如直接把我的 Cloudflare API key 翻出来发请求改吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n（完全没有问过我要不要手动去网页上改，也完全没问我要 API key，就直接把它翻出来了......）\n\n不敢用了。",
-    "views": 239,
+    "views": 240,
     "forwards": 1,
     "images": [
       {
@@ -110355,7 +110355,7 @@
     "id": 8261,
     "date": "2026-04-18T06:58:58",
     "text": "今天在给服务器赛博搬家，好累\n\n我部署东西的时候习惯随便丢哪里就忘记它，但是搬家的时候要把所有这些都想起来...\n\n然后就发生了，我看到有一个 blog 的部署文件夹以为 blog 是在这里部署的，迁移完才发现实际上很久以前已经迁移到 cloudflare pages 了但是忘记把文件夹删掉... 好痛苦\n\n以及发现好多服务都是部署完用了一两次就没有继续用了的，比如直播间上次直播已经是一年前了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 231,
+    "views": 233,
     "forwards": 1,
     "media_group_id": 14211964308173789,
     "images": [
@@ -110390,7 +110390,7 @@
     "id": 8263,
     "date": "2026-04-18T15:30:31",
     "text": "map 了一下家里的网络设备拓扑结构\n\nMermaid 好用喵",
-    "views": 226,
+    "views": 230,
     "forwards": 2,
     "images": [
       {
@@ -110409,7 +110409,7 @@
     "id": 8264,
     "date": "2026-04-18T20:29:38",
     "text": "看了 mygo 总集篇的猫猫小故事，好看喵\n\n好羡慕猫猫，真希望我能有勇气像猫猫那样<span class=\"spoiler\"><span>无视社会礼仪常识、遇到不喜欢的事情可以直接跑掉</span></span> 感觉这样也许可以省下很多精力去做更想做的事情",
-    "views": 226,
+    "views": 230,
     "forwards": 1,
     "images": [
       {
@@ -110428,7 +110428,7 @@
     "id": 8265,
     "date": "2026-04-18T20:55:17",
     "text": "谁设计的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 219,
+    "views": 227,
     "forwards": 0,
     "reply": {
       "id": 8122,
@@ -110452,7 +110452,7 @@
     "id": 8266,
     "date": "2026-04-19T02:04:39",
     "text": "遛猫",
-    "views": 219,
+    "views": 226,
     "forwards": 1,
     "media_group_id": 14212514239392477,
     "images": [
@@ -110562,7 +110562,7 @@
     "id": 8276,
     "date": "2026-04-19T09:20:36",
     "text": "啊？一年没关心 bcachefs 原本想再看看能不能用的... 有被震撼到 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n<a href=\"https://poc.bcachefs.org/\">https://poc.bcachefs.org/</a>",
-    "views": 258,
+    "views": 264,
     "forwards": 2,
     "images": [
       {
@@ -110581,7 +110581,7 @@
     "id": 8277,
     "date": "2026-04-19T22:53:55",
     "text": "呜呜 被坑了... gitadora 的存档丢了\n\n之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用\n\n但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了\n\n然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内\n\n呜呜呜 看来以后不能相信随机网友的 docker 配置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 193,
+    "views": 208,
     "forwards": 2,
     "media_group_id": 14213113883732813,
     "images": [
@@ -110610,7 +110610,7 @@
   {
     "id": 8279,
     "date": "2026-04-19T23:49:34",
-    "views": 180,
+    "views": 203,
     "forwards": 0,
     "files": [
       {
@@ -110631,7 +110631,7 @@
     "id": 8280,
     "date": "2026-04-19T23:53:20",
     "text": "光纤线彻底断掉了（这次的罪魁祸首是聊聊绊到了）\n\n因为光纤冷接头比这条线更贵，所以只能换线了\n\n于是用它当绳子挂了 AP",
-    "views": 182,
+    "views": 204,
     "forwards": 0,
     "media_group_id": 14213142405975557,
     "images": [
@@ -110671,7 +110671,67 @@
     "id": 8283,
     "date": "2026-04-20T18:24:30",
     "text": "为什么我家小猫这么喜欢吃草呀，每次带它出门都在吃草... 是不是兔兔变的",
-    "views": 85,
+    "views": 143,
     "forwards": 0
+  },
+  {
+    "id": 8284,
+    "date": "2026-04-21T00:47:07",
+    "text": "好讨厌直接插到 AC 插座的电源...",
+    "views": 109,
+    "forwards": 0,
+    "media_group_id": 14213859418763101,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-04-21T00:47:06",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-21_00-47-06.jpg",
+        "url": "media/8284.jpg",
+        "size": 666954,
+        "thumb": "media/8284.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-04-21T00:47:06",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-21_00-47-06.jpg",
+        "url": "media/8285.jpg",
+        "size": 496149,
+        "thumb": "media/8285.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8288,
+    "date": "2026-04-21T01:34:15",
+    "text": "终于把所有服务都搬到新的服务器上了... 好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
+    "views": 77,
+    "forwards": 1,
+    "media_group_id": 14213882042560941,
+    "images": [
+      {
+        "width": 975,
+        "height": 1611,
+        "date": "2026-04-21T01:34:13",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-21_01-34-13.jpg",
+        "url": "media/8288.jpg",
+        "size": 177750,
+        "thumb": "media/8288.jpg_thumb.jpg"
+      },
+      {
+        "width": 1021,
+        "height": 1375,
+        "date": "2026-04-21T01:34:14",
+        "media_type": "photo",
+        "original_name": "photo_2026-04-21_01-34-14.jpg",
+        "url": "media/8289.jpg",
+        "size": 333695,
+        "thumb": "media/8289.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
