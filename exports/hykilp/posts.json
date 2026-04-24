@@ -86532,7 +86532,7 @@
     "id": 6342,
     "date": "2025-08-24T00:01:54",
     "text": "给 oau 后端机器人写了一个 gpt5 早安 bot！（想法其实来源于每天早九的定时重启消息hhh）\n\n实现起来比预想要难，感觉想开启 gpt5 的脑洞让它输出随机无厘头的文字绕了好多圈圈。\n\n写了篇 <a href=\"https://aza.moe/blog?post=2025-08-24-%E6%97%A9%E5%AE%89%E6%9C%BA%E5%99%A8%E4%BA%BA\">writeup</a>，感兴趣欢迎读读",
-    "views": 373,
+    "views": 374,
     "forwards": 3,
     "media_group_id": 14047949714238109,
     "images": [
@@ -96592,7 +96592,7 @@
     "id": 7180,
     "date": "2025-11-11T13:49:49",
     "text": "今天是 k-on 梓喵的生日！早上和 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起去立豊郷小学校进行了圣地巡礼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n学校从建筑布局到气氛都和动画里面完全一样哇，回想起来了不少第一次看 k-on 的时候的回忆\n\n以及看到了梓喵给其他人写的笔记，还有来参拜的大家留下的留言，都好温馨 qwq",
-    "views": 261,
+    "views": 262,
     "forwards": 0,
     "media_group_id": 14102951917738565,
     "images": [
@@ -97962,7 +97962,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 517,
+    "views": 518,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -106628,7 +106628,7 @@
     "id": 7984,
     "date": "2026-03-05T18:58:01",
     "text": "猫箱",
-    "views": 325,
+    "views": 326,
     "forwards": 1,
     "images": [
       {
@@ -110182,7 +110182,7 @@
     "id": 8247,
     "date": "2026-04-17T04:46:31",
     "text": "我也终于用上 Epyc 了！\n\n（收到的 CPU 包装居然是厕纸草）\n\n起因是因为一个月前有好心人公司清仓以两年前的价格（CA$400）卖给我了总共 256 GB 的 D4 服务器内存，还有 $200 卖给我了总共 8TB 的 SAS SSD... 我只能用感恩来形容\n\n但是因为现在的服务器是 E5v3 DDR3 没法用 DDR4 内存，所以决定升级一下 qwq\n\n选 CPU 是和以往一样打了一个性价比的表选了算上主板价格性价比最高的 7R32（感谢水晶猫帮忙测试）然后考虑到方便程度还是买了华南金牌的板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n累累，明天在考虑怎样迁移服务吧 （还没想好要给每个服务开一个虚拟机还是开一个大虚拟机放所有 docker 服务）",
-    "views": 274,
+    "views": 275,
     "forwards": 0,
     "media_group_id": 14211209528148365,
     "images": [
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1680,
+    "views": 1683,
     "forwards": 27
   },
   {
@@ -110562,7 +110562,7 @@
     "id": 8276,
     "date": "2026-04-19T09:20:36",
     "text": "啊？一年没关心 bcachefs 原本想再看看能不能用的... 有被震撼到 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n<a href=\"https://poc.bcachefs.org/\">https://poc.bcachefs.org/</a>",
-    "views": 316,
+    "views": 317,
     "forwards": 2,
     "images": [
       {
@@ -110581,7 +110581,7 @@
     "id": 8277,
     "date": "2026-04-19T22:53:55",
     "text": "呜呜 被坑了... gitadora 的存档丢了\n\n之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用\n\n但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了\n\n然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内\n\n呜呜呜 看来以后不能相信随机网友的 docker 配置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 272,
+    "views": 273,
     "forwards": 3,
     "media_group_id": 14213113883732813,
     "images": [
@@ -110610,7 +110610,7 @@
   {
     "id": 8279,
     "date": "2026-04-19T23:49:34",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "files": [
       {
@@ -110631,7 +110631,7 @@
     "id": 8280,
     "date": "2026-04-19T23:53:20",
     "text": "光纤线彻底断掉了（这次的罪魁祸首是聊聊绊到了）\n\n因为光纤冷接头比这条线更贵，所以只能换线了\n\n于是用它当绳子挂了 AP",
-    "views": 257,
+    "views": 258,
     "forwards": 0,
     "media_group_id": 14213142405975557,
     "images": [
@@ -110671,14 +110671,14 @@
     "id": 8283,
     "date": "2026-04-20T18:24:30",
     "text": "为什么我家小猫这么喜欢吃草呀，每次带它出门都在吃草... 是不是兔兔变的",
-    "views": 225,
+    "views": 227,
     "forwards": 0
   },
   {
     "id": 8284,
     "date": "2026-04-21T00:47:07",
     "text": "好讨厌直接插到 AC 插座的电源...",
-    "views": 221,
+    "views": 223,
     "forwards": 0,
     "media_group_id": 14213859418763101,
     "images": [
@@ -110708,7 +110708,7 @@
     "id": 8288,
     "date": "2026-04-21T01:34:15",
     "text": "终于把所有服务都搬到新的服务器上了... 好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 222,
+    "views": 223,
     "forwards": 3,
     "media_group_id": 14213882042560941,
     "images": [
@@ -110738,7 +110738,7 @@
     "id": 8290,
     "date": "2026-04-21T06:06:28",
     "text": "什么叫欲速则不达... \n\n因为想要节省时间没有更新系统就安装包，结果把系统炸掉了花了一个小时才修好\n\n感谢 archlinuxcn 群友帮忙",
-    "views": 225,
+    "views": 226,
     "forwards": 2,
     "images": [
       {
@@ -110757,7 +110757,7 @@
     "id": 8291,
     "date": "2026-04-21T21:17:54",
     "text": "被诅咒了",
-    "views": 224,
+    "views": 231,
     "forwards": 3,
     "images": [
       {
@@ -110776,7 +110776,7 @@
     "id": 8292,
     "date": "2026-04-21T23:42:03",
     "text": "之前画的 PCIe 拆分板到货了！它工作！\n\n可能是我至今为止第一个第一次打样就完全工作的板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 205,
+    "views": 207,
     "forwards": 1,
     "media_group_id": 14214519386921605,
     "images": [
@@ -110861,7 +110861,7 @@
     "id": 8299,
     "date": "2026-04-22T03:40:47",
     "text": "唉 什么时候能做点不是这么小众的东西呀...",
-    "views": 193,
+    "views": 198,
     "forwards": 0,
     "media_group_id": 14214633981848557,
     "images": [
@@ -110896,7 +110896,7 @@
     "id": 8301,
     "date": "2026-04-22T18:50:48",
     "text": "猫 .zip",
-    "views": 162,
+    "views": 168,
     "forwards": 1,
     "media_group_id": 14215070786163869,
     "images": [
@@ -110936,7 +110936,7 @@
     "id": 8304,
     "date": "2026-04-23T16:10:05",
     "text": "昨天的公路照片\n\n因为高速堵车谷歌让我下高速了，然后路过了马场，里面走着马，路边还有人骑马的路牌，好奇妙",
-    "views": 91,
+    "views": 107,
     "forwards": 0,
     "media_group_id": 14215684840822773,
     "images": [
@@ -111016,7 +111016,7 @@
     "id": 8311,
     "date": "2026-04-23T19:10:21",
     "text": "设计了摇曳露营车牌框！\n\n（感谢前室友 <a href=\"https://vgen.co/AuraMage\">AuraMage</a> 帮忙画上面的小人）\n\n把设计文件开源到<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/YurucampLicensePlate\">这里</a>啦，想用的人欢迎拿去制作 qwq（不过禁止商用）",
-    "views": 53,
+    "views": 78,
     "forwards": 2,
     "media_group_id": 14215771367837749,
     "images": [
@@ -111066,7 +111066,7 @@
     "id": 8316,
     "date": "2026-04-23T21:47:43",
     "text": "今天带猫猫去后院它去抓鸟了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 29,
+    "views": 64,
     "forwards": 0
   }
 ]
