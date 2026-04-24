@@ -97442,7 +97442,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 596,
+    "views": 597,
     "forwards": 13
   },
   {
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4069,
+    "views": 4070,
     "forwards": 30
   },
   {
@@ -109328,7 +109328,7 @@
     "id": 8186,
     "date": "2026-04-08T14:11:17",
     "text": "好好笑",
-    "views": 1217,
+    "views": 1218,
     "forwards": 3,
     "images": [
       {
@@ -110111,7 +110111,7 @@
     "id": 8242,
     "date": "2026-04-16T02:50:15",
     "text": "今天去西班牙大使馆\n\n三月份发了签证申请的邮件，但是到现在一直都没有收到回信，电话也打不通（说语音信箱没有被启用），网上其他人好像也都是发完邮件完全没有收到回复 ... 所以决定线下去敲门问问\n\n到门口，员工说可能是人没看到，让我发一封 follow up 邮件写 URGENT、把会议的名字放在标题里、把邀请信加到附件，我发出去之后过一会就收到回复了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，好草台... 明明网站上说邮件申请是自动化系统不能加任何要求以外的信息的，还在想到底是谁觉得自动解析可能格式不同的邮件是个好主意，结果原来指的是能工智人自动化吗... 希望最后的 15 天时间还够把签证办下来\n\n（以及在门口看到了用翻盖手机的白人？！好厉害）",
-    "views": 252,
+    "views": 253,
     "forwards": 2,
     "media_group_id": 14210462527080125,
     "images": [
@@ -110141,7 +110141,7 @@
     "id": 8244,
     "date": "2026-04-17T00:43:54",
     "text": "昨天吃 dayvigo 第一次经历了 sleep paralysis，俗称鬼压床\n\n和清醒梦是同样的原理，身体睡着了但是意识还很清醒，只不过还没有进入梦。感觉自己像是卡在某种现实和梦境之间的虚空中，像往常一样想要移动身体但是身体不动，想要向躺在旁边的聊聊求助但是嘴也张不开 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n还好以前心理课上学过，知道在发生什么，但是依然好可怕...",
-    "views": 263,
+    "views": 264,
     "forwards": 0,
     "reply": {
       "id": 1555,
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1712,
+    "views": 1714,
     "forwards": 28
   },
   {
@@ -110757,7 +110757,7 @@
     "id": 8291,
     "date": "2026-04-21T21:17:54",
     "text": "被诅咒了",
-    "views": 287,
+    "views": 291,
     "forwards": 3,
     "images": [
       {
@@ -110861,7 +110861,7 @@
     "id": 8299,
     "date": "2026-04-22T03:40:47",
     "text": "唉 什么时候能做点不是这么小众的东西呀...",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14214633981848557,
     "images": [
@@ -110936,7 +110936,7 @@
     "id": 8304,
     "date": "2026-04-23T16:10:05",
     "text": "昨天的公路照片\n\n因为高速堵车谷歌让我下高速了，然后路过了马场，里面走着马，路边还有人骑马的路牌，好奇妙",
-    "views": 144,
+    "views": 145,
     "forwards": 0,
     "media_group_id": 14215684840822773,
     "images": [
@@ -111016,7 +111016,7 @@
     "id": 8311,
     "date": "2026-04-23T19:10:21",
     "text": "设计了摇曳露营车牌框！\n\n（感谢前室友 <a href=\"https://vgen.co/AuraMage\">AuraMage</a> 帮忙画上面的小人）\n\n把设计文件开源到<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/YurucampLicensePlate\">这里</a>啦，想用的人欢迎拿去制作 qwq（不过禁止商用）",
-    "views": 130,
+    "views": 133,
     "forwards": 2,
     "media_group_id": 14215771367837749,
     "images": [
@@ -111066,14 +111066,14 @@
     "id": 8316,
     "date": "2026-04-23T21:47:43",
     "text": "今天带猫猫去后院它去抓鸟了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 129,
+    "views": 133,
     "forwards": 0
   },
   {
     "id": 8317,
     "date": "2026-04-24T03:01:55",
     "text": "虽然没有拍到猫猫抓鸟但是依然拍到了好看照片 qwq",
-    "views": 94,
+    "views": 100,
     "forwards": 1,
     "images": [
       {
