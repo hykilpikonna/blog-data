@@ -36,7 +36,7 @@ I also love rhythm games and cats =^･-･^=
 * **Embedded**: C++ (PlatformIO Arduino toolchain), EasyEDA (JLCEDA)
 * **Mobile**: Kotlin for Android, Swift for iOS
 
-### 🔮 Open-source Everything!
+### 🔮 Open-source Everything! <!--{ collapseSection() }-->
 
 I aim to open-source not only code, but everything I make! This includes hardware projects and other multimedia projects. Check them out!
 
