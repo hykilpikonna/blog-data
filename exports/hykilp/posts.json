@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8575,
+    "views": 8576,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 371,
+    "views": 372,
     "forwards": 3,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 322,
+    "views": 323,
     "forwards": 1,
     "images": [
       {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 345,
+    "views": 346,
     "forwards": 0,
     "images": [
       {
@@ -108551,7 +108551,7 @@
   {
     "id": 8134,
     "date": "2026-03-30T18:32:45",
-    "views": 330,
+    "views": 331,
     "forwards": 1,
     "images": [
       {
@@ -108570,7 +108570,7 @@
     "id": 8135,
     "date": "2026-03-31T03:49:18",
     "text": "（？）",
-    "views": 330,
+    "views": 331,
     "forwards": 0,
     "images": [
       {
@@ -108589,7 +108589,7 @@
     "id": 8136,
     "date": "2026-03-31T14:41:22",
     "text": "<b>她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩</b>\nTrans in Academia!\n<a href=\"https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw\">https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw</a>\n\n各位好，今天是3月31日🏳️‍⚧️跨性别现身日‍，祝大家节日快乐。\n\n在这个特殊的日子，TiA! 的三名作者 发条鼬、Robbin Gan、塗塗狐 共同创作了《她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩》一文，欢迎大家点击上方链接阅读！",
-    "views": 257,
+    "views": 258,
     "forwards": 2,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -108611,14 +108611,14 @@
     "id": 8137,
     "date": "2026-03-31T17:23:07",
     "text": "<em>This message cannot be displayed because it violated Telegram's Terms of Service.</em>",
-    "views": 355,
+    "views": 356,
     "forwards": 1
   },
   {
     "id": 8138,
     "date": "2026-03-31T18:41:24",
     "text": "<b>公告：我们从「AquaDX」全新更名为「OceanDX」！</b>\n\n做出这一改变是为了与之前的 Aqua 项目区分开来，因为我们现在正在开发一个完全独立的衍生源代码！为了减少混淆、并鼓励“海”量的新贡献者和用户加入我们改了名字。\n\n此外，我们的网站和群组已经更新，以体现这些全新的品牌元素！\n\n我们全新的「OceanNet」网站在 <a href=\"oceandx.net\">oceandx.net</a>\n\n由于域名的更改，您可能需要重新登录。目前，DNS 将保持不变以防止出现兼容性问题（请不要修改 segatools.ini 文件）\n\n感谢使用 OceanDX 并成为我们社区的一员！",
-    "views": 393,
+    "views": 394,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -108641,7 +108641,7 @@
     "id": 8139,
     "date": "2026-03-31T18:57:15",
     "text": "开源了！<a href=\"https://github.com/MewoLab/OceanDX\">https://github.com/MewoLab/OceanDX</a>",
-    "views": 368,
+    "views": 369,
     "forwards": 0,
     "reply": {
       "id": 8138,
@@ -108652,7 +108652,7 @@
     "id": 8140,
     "date": "2026-04-01T09:04:58",
     "text": "谷歌这次更新又来治强迫症了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 362,
+    "views": 363,
     "forwards": 2,
     "media_group_id": 14200274383817613,
     "images": [
@@ -109776,7 +109776,7 @@
     "id": 8217,
     "date": "2026-04-12T21:01:30",
     "text": "和猫猫跳舞",
-    "views": 313,
+    "views": 314,
     "forwards": 2,
     "files": [
       {
@@ -110291,14 +110291,14 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1776,
+    "views": 1781,
     "forwards": 29
   },
   {
     "id": 8258,
     "date": "2026-04-17T20:06:34",
     "text": "猫！！！！！！ <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 274,
+    "views": 275,
     "forwards": 0,
     "images": [
       {
@@ -110317,7 +110317,7 @@
     "id": 8259,
     "date": "2026-04-18T00:14:30",
     "text": "猫",
-    "views": 276,
+    "views": 277,
     "forwards": 0,
     "images": [
       {
@@ -110336,7 +110336,7 @@
     "id": 8260,
     "date": "2026-04-18T04:09:06",
     "text": "？？？\n\n也许在 AI 眼里我是一个累赘，让我去网页上改一个 CNAME 不如直接把我的 Cloudflare API key 翻出来发请求改吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n（完全没有问过我要不要手动去网页上改，也完全没问我要 API key，就直接把它翻出来了......）\n\n不敢用了。",
-    "views": 271,
+    "views": 273,
     "forwards": 1,
     "images": [
       {
@@ -110355,7 +110355,7 @@
     "id": 8261,
     "date": "2026-04-18T06:58:58",
     "text": "今天在给服务器赛博搬家，好累\n\n我部署东西的时候习惯随便丢哪里就忘记它，但是搬家的时候要把所有这些都想起来...\n\n然后就发生了，我看到有一个 blog 的部署文件夹以为 blog 是在这里部署的，迁移完才发现实际上很久以前已经迁移到 cloudflare pages 了但是忘记把文件夹删掉... 好痛苦\n\n以及发现好多服务都是部署完用了一两次就没有继续用了的，比如直播间上次直播已经是一年前了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 261,
+    "views": 263,
     "forwards": 1,
     "media_group_id": 14211964308173789,
     "images": [
@@ -110390,7 +110390,7 @@
     "id": 8263,
     "date": "2026-04-18T15:30:31",
     "text": "map 了一下家里的网络设备拓扑结构\n\nMermaid 好用喵",
-    "views": 259,
+    "views": 261,
     "forwards": 2,
     "images": [
       {
@@ -110409,7 +110409,7 @@
     "id": 8264,
     "date": "2026-04-18T20:29:38",
     "text": "看了 mygo 总集篇的猫猫小故事，好看喵\n\n好羡慕猫猫，真希望我能有勇气像猫猫那样<span class=\"spoiler\"><span>无视社会礼仪常识、遇到不喜欢的事情可以直接跑掉</span></span> 感觉这样也许可以省下很多精力去做更想做的事情",
-    "views": 260,
+    "views": 263,
     "forwards": 1,
     "images": [
       {
@@ -110428,7 +110428,7 @@
     "id": 8265,
     "date": "2026-04-18T20:55:17",
     "text": "谁设计的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 261,
+    "views": 264,
     "forwards": 0,
     "reply": {
       "id": 8122,
@@ -110452,7 +110452,7 @@
     "id": 8266,
     "date": "2026-04-19T02:04:39",
     "text": "遛猫",
-    "views": 266,
+    "views": 269,
     "forwards": 1,
     "media_group_id": 14212514239392477,
     "images": [
@@ -110562,7 +110562,7 @@
     "id": 8276,
     "date": "2026-04-19T09:20:36",
     "text": "啊？一年没关心 bcachefs 原本想再看看能不能用的... 有被震撼到 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n<a href=\"https://poc.bcachefs.org/\">https://poc.bcachefs.org/</a>",
-    "views": 325,
+    "views": 326,
     "forwards": 2,
     "images": [
       {
@@ -110581,7 +110581,7 @@
     "id": 8277,
     "date": "2026-04-19T22:53:55",
     "text": "呜呜 被坑了... gitadora 的存档丢了\n\n之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用\n\n但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了\n\n然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内\n\n呜呜呜 看来以后不能相信随机网友的 docker 配置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 282,
+    "views": 283,
     "forwards": 3,
     "media_group_id": 14213113883732813,
     "images": [
@@ -110610,7 +110610,7 @@
   {
     "id": 8279,
     "date": "2026-04-19T23:49:34",
-    "views": 258,
+    "views": 260,
     "forwards": 0,
     "files": [
       {
@@ -110631,7 +110631,7 @@
     "id": 8280,
     "date": "2026-04-19T23:53:20",
     "text": "光纤线彻底断掉了（这次的罪魁祸首是聊聊绊到了）\n\n因为光纤冷接头比这条线更贵，所以只能换线了\n\n于是用它当绳子挂了 AP",
-    "views": 267,
+    "views": 268,
     "forwards": 0,
     "media_group_id": 14213142405975557,
     "images": [
@@ -110671,14 +110671,14 @@
     "id": 8283,
     "date": "2026-04-20T18:24:30",
     "text": "为什么我家小猫这么喜欢吃草呀，每次带它出门都在吃草... 是不是兔兔变的",
-    "views": 242,
+    "views": 244,
     "forwards": 0
   },
   {
     "id": 8284,
     "date": "2026-04-21T00:47:07",
     "text": "好讨厌直接插到 AC 插座的电源...",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "media_group_id": 14213859418763101,
     "images": [
@@ -110708,7 +110708,7 @@
     "id": 8288,
     "date": "2026-04-21T01:34:15",
     "text": "终于把所有服务都搬到新的服务器上了... 好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 241,
+    "views": 243,
     "forwards": 3,
     "media_group_id": 14213882042560941,
     "images": [
@@ -110738,7 +110738,7 @@
     "id": 8290,
     "date": "2026-04-21T06:06:28",
     "text": "什么叫欲速则不达... \n\n因为想要节省时间没有更新系统就安装包，结果把系统炸掉了花了一个小时才修好\n\n感谢 archlinuxcn 群友帮忙",
-    "views": 248,
+    "views": 250,
     "forwards": 2,
     "images": [
       {
@@ -110757,7 +110757,7 @@
     "id": 8291,
     "date": "2026-04-21T21:17:54",
     "text": "被诅咒了",
-    "views": 316,
+    "views": 318,
     "forwards": 3,
     "images": [
       {
@@ -110776,7 +110776,7 @@
     "id": 8292,
     "date": "2026-04-21T23:42:03",
     "text": "之前画的 PCIe 拆分板到货了！它工作！\n\n可能是我至今为止第一个第一次打样就完全工作的板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 229,
+    "views": 231,
     "forwards": 1,
     "media_group_id": 14214519386921605,
     "images": [
@@ -110861,7 +110861,7 @@
     "id": 8299,
     "date": "2026-04-22T03:40:47",
     "text": "唉 什么时候能做点不是这么小众的东西呀...",
-    "views": 224,
+    "views": 226,
     "forwards": 0,
     "media_group_id": 14214633981848557,
     "images": [
@@ -110896,7 +110896,7 @@
     "id": 8301,
     "date": "2026-04-22T18:50:48",
     "text": "猫 .zip",
-    "views": 199,
+    "views": 200,
     "forwards": 1,
     "media_group_id": 14215070786163869,
     "images": [
@@ -110936,7 +110936,7 @@
     "id": 8304,
     "date": "2026-04-23T16:10:05",
     "text": "昨天的公路照片\n\n因为高速堵车谷歌让我下高速了，然后路过了马场，里面走着马，路边还有人骑马的路牌，好奇妙",
-    "views": 161,
+    "views": 163,
     "forwards": 1,
     "media_group_id": 14215684840822773,
     "images": [
@@ -111016,7 +111016,7 @@
     "id": 8311,
     "date": "2026-04-23T19:10:21",
     "text": "设计了摇曳露营车牌框！\n\n（感谢前室友 <a href=\"https://vgen.co/AuraMage\">AuraMage</a> 帮忙画上面的小人）\n\n把设计文件开源到<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/YurucampLicensePlate\">这里</a>啦，想用的人欢迎拿去制作 qwq（不过禁止商用）",
-    "views": 179,
+    "views": 189,
     "forwards": 5,
     "media_group_id": 14215771367837749,
     "images": [
@@ -111066,14 +111066,14 @@
     "id": 8316,
     "date": "2026-04-23T21:47:43",
     "text": "今天带猫猫去后院它去抓鸟了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 158,
+    "views": 161,
     "forwards": 0
   },
   {
     "id": 8317,
     "date": "2026-04-24T03:01:55",
     "text": "虽然没有拍到猫猫抓鸟但是依然拍到了好看照片 qwq",
-    "views": 144,
+    "views": 151,
     "forwards": 1,
     "images": [
       {
@@ -111092,7 +111092,7 @@
     "id": 8319,
     "date": "2026-04-25T14:37:17",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n咖喱！黄焖鸡拌面！\n\n和室友一起做的 qwq（实际上大部分是室友在做）\n\n（实际上是昨天和前天）",
-    "views": 103,
+    "views": 120,
     "forwards": 0,
     "media_group_id": 14217022696212189,
     "images": [
@@ -111115,6 +111115,28 @@
         "url": "media/8320.jpg",
         "size": 458023,
         "thumb": "media/8320.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8321,
+    "date": "2026-04-25T23:35:48",
+    "text": "翻翻猫",
+    "views": 39,
+    "forwards": 0,
+    "files": [
+      {
+        "width": 1280,
+        "height": 720,
+        "duration": 10,
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2026-04-25T23:35:48",
+        "media_type": "video_file",
+        "original_name": "video_2026-04-25_23-35-48.mp4",
+        "url": "media/8321.mp4",
+        "size": 9713123,
+        "thumb": "media/8321.mp4_thumb.jpg"
       }
     ]
   }
