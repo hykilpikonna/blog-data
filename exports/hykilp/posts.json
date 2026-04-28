@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8585,
+    "views": 8586,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -106816,7 +106816,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 444,
+    "views": 445,
     "forwards": 5,
     "media_group_id": 14184936480305877,
     "files": [
@@ -110012,7 +110012,7 @@
     "id": 8234,
     "date": "2026-04-15T18:22:49",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n每次下高速看到这个牌子都会想到",
-    "views": 1015,
+    "views": 1016,
     "forwards": 2,
     "images": [
       {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1856,
+    "views": 1858,
     "forwards": 30
   },
   {
@@ -111016,7 +111016,7 @@
     "id": 8311,
     "date": "2026-04-23T19:10:21",
     "text": "设计了摇曳露营车牌框！\n\n（感谢前室友 <a href=\"https://vgen.co/AuraMage\">AuraMage</a> 帮忙画上面的小人）\n\n把设计文件开源到<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/YurucampLicensePlate\">这里</a>啦，想用的人欢迎拿去制作 qwq（不过禁止商用）",
-    "views": 258,
+    "views": 259,
     "forwards": 5,
     "media_group_id": 14215771367837749,
     "images": [
@@ -111295,7 +111295,7 @@
     "id": 8332,
     "date": "2026-04-26T19:08:31",
     "text": "无心撒的猫草种子发芽了！大自然好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 229,
+    "views": 230,
     "forwards": 0,
     "media_group_id": 14217844092352861,
     "images": [
@@ -111335,7 +111335,7 @@
     "id": 8335,
     "date": "2026-04-27T04:25:58",
     "text": "啊啊啊啊啊啊啊啊啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n再也不敢 YOLO 了，我让 agent 挂载一个盘，agent 不看一眼分区表就以为它是空盘把它格了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n还好没有开 trim，用 btrfs rescue 救回来了。但是真的再也不敢跳过审核让 agent sudo 了",
-    "views": 277,
+    "views": 278,
     "forwards": 10,
     "images": [
       {
@@ -111354,7 +111354,7 @@
     "id": 8336,
     "date": "2026-04-27T14:44:49",
     "text": "试了各种不同的用 yubikey 保护 ssh key 的方式，最终还是直接给它设了一个静态密码，触摸一下就打出一串特别长的密码 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为其他办法都没办法让我从 iPad 远程桌面的时候工作所以",
-    "views": 211,
+    "views": 215,
     "forwards": 0,
     "images": [
       {
@@ -111373,7 +111373,7 @@
     "id": 8337,
     "date": "2026-04-28T07:03:26",
     "text": "猫猫晒太阳睡大觉",
-    "views": 167,
+    "views": 173,
     "forwards": 0,
     "images": [
       {
@@ -111392,7 +111392,7 @@
     "id": 8338,
     "date": "2026-04-28T08:17:56",
     "text": "看到这条思考了很多，但是也许我也没有很好的答案\n\n首先是，作为人类，感觉又一项竞赛被 AI 超过很不甘。为什么会这样想呢？明明算法题目最终也只是一种游戏而已，像数独谜题围棋赛跑音游一样，喜欢做谜题的时候也不会因为电脑能 1ms 解出这个谜题有感觉不甘。\n\n其次是，为什么 llm 这么聪明了，依然没有办法解决实际影响无数人的社会问题... 比如全球气候变化的问题，反而是 llm 在导致恶化。如果把建 llm 数据中心的资源重定向一下也许反而能更好解决这些问题\n\n<span class=\"spoiler\"><span>又或者是不是「有能力解决问题的人都只想着造更聪明的 llm」这件事本身就说明人类社会实际上已经被 llm 控制了呢</span></span>",
-    "views": 179,
+    "views": 189,
     "forwards": 5,
     "images": [
       {
