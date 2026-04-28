@@ -45115,8 +45115,7 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480,
-        "thumb": "media/3328.webm_thumb.jpg"
+        "size": 39480
       }
     ]
   },
@@ -73052,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6556,
+    "views": 6557,
     "forwards": 151,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85379,7 +85378,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8582,
+    "views": 8584,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -107041,7 +107040,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1806,
+    "views": 1807,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -111335,7 +111334,7 @@
     "id": 8335,
     "date": "2026-04-27T04:25:58",
     "text": "啊啊啊啊啊啊啊啊啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n再也不敢 YOLO 了，我让 agent 挂载一个盘，agent 不看一眼分区表就以为它是空盘把它格了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n还好没有开 trim，用 btrfs rescue 救回来了。但是真的再也不敢跳过审核让 agent sudo 了",
-    "views": 270,
+    "views": 273,
     "forwards": 10,
     "images": [
       {
@@ -111354,7 +111353,7 @@
     "id": 8336,
     "date": "2026-04-27T14:44:49",
     "text": "试了各种不同的用 yubikey 保护 ssh key 的方式，最终还是直接给它设了一个静态密码，触摸一下就打出一串特别长的密码 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为其他办法都没办法让我从 iPad 远程桌面的时候工作所以",
-    "views": 205,
+    "views": 209,
     "forwards": 0,
     "images": [
       {
@@ -111373,7 +111372,7 @@
     "id": 8337,
     "date": "2026-04-28T07:03:26",
     "text": "猫猫晒太阳睡大觉",
-    "views": 134,
+    "views": 151,
     "forwards": 0,
     "images": [
       {
@@ -111392,7 +111391,7 @@
     "id": 8338,
     "date": "2026-04-28T08:17:56",
     "text": "看到这条思考了很多，但是也许我也没有很好的答案\n\n首先是，作为人类，感觉又一项竞赛被 AI 超过很不甘。为什么会这样想呢？明明算法题目最终也只是一种游戏而已，像数独谜题围棋赛跑音游一样，喜欢做谜题的时候也不会因为电脑能 1ms 解出这个谜题有感觉不甘。\n\n其次是，为什么 llm 这么聪明了，依然没有办法解决实际影响无数人的社会问题... 比如全球气候变化的问题，反而是 llm 在导致恶化。如果把建 llm 数据中心的资源重定向一下也许反而能更好解决这些问题\n\n<span class=\"spoiler\"><span>又或者是不是「有能力解决问题的人都只想着造更聪明的 llm」这件事本身就说明人类社会实际上已经被 llm 控制了呢</span></span>",
-    "views": 129,
+    "views": 154,
     "forwards": 1,
     "images": [
       {
