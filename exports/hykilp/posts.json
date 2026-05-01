@@ -43472,7 +43472,7 @@
     "id": 3215,
     "date": "2024-01-19T03:53:44",
     "text": "今生最后一片 12.5mg 色谱龙，决定从明天开始就不吃了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "images": [
       {
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4875,
+    "views": 4876,
     "forwards": 29
   },
   {
@@ -110631,7 +110631,7 @@
     "id": 8280,
     "date": "2026-04-19T23:53:20",
     "text": "光纤线彻底断掉了（这次的罪魁祸首是聊聊绊到了）\n\n因为光纤冷接头比这条线更贵，所以只能换线了\n\n于是用它当绳子挂了 AP",
-    "views": 309,
+    "views": 310,
     "forwards": 1,
     "media_group_id": 14213142405975557,
     "images": [
@@ -110757,7 +110757,7 @@
     "id": 8291,
     "date": "2026-04-21T21:17:54",
     "text": "被诅咒了",
-    "views": 375,
+    "views": 376,
     "forwards": 4,
     "images": [
       {
@@ -110776,7 +110776,7 @@
     "id": 8292,
     "date": "2026-04-21T23:42:03",
     "text": "之前画的 PCIe 拆分板到货了！它工作！\n\n可能是我至今为止第一个第一次打样就完全工作的板子 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 270,
+    "views": 271,
     "forwards": 2,
     "media_group_id": 14214519386921605,
     "images": [
@@ -111335,7 +111335,7 @@
     "id": 8335,
     "date": "2026-04-27T04:25:58",
     "text": "啊啊啊啊啊啊啊啊啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n再也不敢 YOLO 了，我让 agent 挂载一个盘，agent 不看一眼分区表就以为它是空盘把它格了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n还好没有开 trim，用 btrfs rescue 救回来了。但是真的再也不敢跳过审核让 agent sudo 了",
-    "views": 323,
+    "views": 327,
     "forwards": 11,
     "images": [
       {
@@ -111432,7 +111432,7 @@
     "id": 8341,
     "date": "2026-04-29T14:51:20",
     "text": "哭哭\n\n原本想着把 yubikey 挂在手机上就不会忘记带了… 然后今天醒来发现挂绳断了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 找了两圈没找到",
-    "views": 198,
+    "views": 200,
     "forwards": 1,
     "images": [
       {
@@ -111451,7 +111451,7 @@
     "id": 8342,
     "date": "2026-04-29T17:11:51",
     "text": "我焊 PCB 和烫头发的温度都是 370",
-    "views": 180,
+    "views": 182,
     "forwards": 0,
     "images": [
       {
@@ -111470,7 +111470,7 @@
     "id": 8343,
     "date": "2026-04-29T19:07:48",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好喜欢 mono\n\n♪ 効率だとか ナンセンスだとか\n♪ その辺は置いといて\n♪ 興味わくコト 気になるコト\n♪ 憧れで やってみちゃおう直感だ",
-    "views": 169,
+    "views": 171,
     "forwards": 0,
     "files": [
       {
@@ -111492,7 +111492,7 @@
     "id": 8344,
     "date": "2026-04-30T08:49:52",
     "text": "凌晨在朋友家修 CVE... <a href=\"https://copy.fail\">https://copy.fail</a>\n\n我所有的 linux 服务器都中枪，所以连到每个服务器一个一个修，也许到了能反映出哪个发行版好用的时候了\n\narch 的服务器最好修，直接 pacman -Syu 重启就修好了\n\nproxmox 因为是刚装的所以直接 apt upgrade 也修好了\n\nfedora 两个新的直接 dnf update 就好了，一个旧的要 dnf system-upgrade 跳两次 (40 > 42 > 44)\n\nubuntu... 我的三个 ubuntu 全都火葬场。因为 ubuntu 只有最新的 26 修了，其他版本都没修，所以要把所有系统更新到 26。有一个系统不知道为什么 do-release-upgrade 就是没法更新到 26，所以就 22 > 24 > 25 > 26 了，一天重启了不知道多少次。另一个系统 do-release-upgrade 的过程中和 oracle cloud 的定时任务冲突了，dpkg 报错导致失败还没法回滚，重要的是 sudo 没了，oracle 还禁止 root 登录... 试了一下 copyfail 的 PoC 也不行（因为 PoC 是 x86 的，我是 arm64）。最后还是开了一个新的虚拟机，把盘挂上去修好再挂回去把新的虚拟机删掉，然后继续 24 > 25 > 26...\n\n好累好累，现在快凌晨五点了，我凌晨六点还要开车一个小时回家...",
-    "views": 168,
+    "views": 171,
     "forwards": 2,
     "images": [
       {
@@ -111511,7 +111511,7 @@
     "id": 8345,
     "date": "2026-04-30T10:32:32",
     "text": "看到了多伦多的日出！",
-    "views": 142,
+    "views": 145,
     "forwards": 3,
     "media_group_id": 14220361217987037,
     "images": [
@@ -111541,7 +111541,7 @@
     "id": 8347,
     "date": "2026-04-30T18:17:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n味噌豚骨拉面！（昨天在 tracer 和 celestium 家做的）\n\n实际上是 原本只是想去玩，但是路过日超看到了冷冻面条和叉烧卷和超便宜猪骨所以就决定做拉面了！\n\n...结果即使有高压锅帮忙也依然花了 3.5h，七点开始做十点半才做好，累累\n\n以及可怜 celestium 没有第三个面碗只能用盆吃了，感觉用宽底的盆装面虽然倒了同样多的汤和面和肉但是看起来就是好少呀 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 76,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 14220584420286541,
     "images": [
