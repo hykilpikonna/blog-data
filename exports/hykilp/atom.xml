@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-05-02T16:32:44.333615+00:00</updated>
+  <updated>2026-05-02T18:37:26.407577+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8364</id>
+    <title>小桂桂的回忆录 📒 #8364</title>
+    <updated>2026-05-02T17:28:25+00:00</updated>
+    <content>&lt;p&gt;五月了，东京已经 25℃ 了，Waterloo 还在飘雪花...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8364" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>8363</id>
+    <title>小桂桂的回忆录 📒 #8363</title>
+    <updated>2026-05-02T16:59:35+00:00</updated>
+    <content>&lt;p&gt;还是觉得静态随机密码不太安全，换成了正经安全方案&lt;/p&gt;
+&lt;p&gt;对比了 FIDO2 和 PIV 和 GPG 之后选择了 PIV，因为这里面只有 PIV 支持远程桌面（RDP）并且不需要每次验证都触摸&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8363" rel="alternate"/>
+  </entry>
   <entry>
     <id>8362</id>
     <title>小桂桂的回忆录 📒 #8362</title>
