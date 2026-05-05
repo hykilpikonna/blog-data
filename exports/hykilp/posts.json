@@ -111335,7 +111335,7 @@
     "id": 8335,
     "date": "2026-04-27T04:25:58",
     "text": "啊啊啊啊啊啊啊啊啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n再也不敢 YOLO 了，我让 agent 挂载一个盘，agent 不看一眼分区表就以为它是空盘把它格了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n还好没有开 trim，用 btrfs rescue 救回来了。但是真的再也不敢跳过审核让 agent sudo 了",
-    "views": 380,
+    "views": 381,
     "forwards": 11,
     "images": [
       {
@@ -111492,7 +111492,7 @@
     "id": 8344,
     "date": "2026-04-30T08:49:52",
     "text": "凌晨在朋友家修 CVE... <a href=\"https://copy.fail\">https://copy.fail</a>\n\n我所有的 linux 服务器都中枪，所以连到每个服务器一个一个修，也许到了能反映出哪个发行版好用的时候了\n\narch 的服务器最好修，直接 pacman -Syu 重启就修好了\n\nproxmox 因为是刚装的所以直接 apt upgrade 也修好了\n\nfedora 两个新的直接 dnf update 就好了，一个旧的要 dnf system-upgrade 跳两次 (40 > 42 > 44)\n\nubuntu... 我的三个 ubuntu 全都火葬场。因为 ubuntu 只有最新的 26 修了，其他版本都没修，所以要把所有系统更新到 26。有一个系统不知道为什么 do-release-upgrade 就是没法更新到 26，所以就 22 > 24 > 25 > 26 了，一天重启了不知道多少次。另一个系统 do-release-upgrade 的过程中和 oracle cloud 的定时任务冲突了，dpkg 报错导致失败还没法回滚，重要的是 sudo 没了，oracle 还禁止 root 登录... 试了一下 copyfail 的 PoC 也不行（因为 PoC 是 x86 的，我是 arm64）。最后还是开了一个新的虚拟机，把盘挂上去修好再挂回去把新的虚拟机删掉，然后继续 24 > 25 > 26...\n\n好累好累，现在快凌晨五点了，我凌晨六点还要开车一个小时回家...",
-    "views": 249,
+    "views": 250,
     "forwards": 2,
     "images": [
       {
@@ -111511,7 +111511,7 @@
     "id": 8345,
     "date": "2026-04-30T10:32:32",
     "text": "看到了多伦多的日出！",
-    "views": 229,
+    "views": 230,
     "forwards": 4,
     "media_group_id": 14220361217987037,
     "images": [
@@ -111541,7 +111541,7 @@
     "id": 8347,
     "date": "2026-04-30T18:17:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n味噌豚骨拉面！（昨天在 tracer 和 celestium 家做的）\n\n实际上是 原本只是想去玩，但是路过日超看到了冷冻面条和叉烧卷和超便宜猪骨所以就决定做拉面了！\n\n...结果即使有高压锅帮忙也依然花了 3.5h，七点开始做十点半才做好，累累\n\n以及可怜 celestium 没有第三个面碗只能用盆吃了，感觉用宽底的盆装面虽然倒了同样多的汤和面和肉但是看起来就是好少呀 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "media_group_id": 14220584420286541,
     "images": [
@@ -111601,21 +111601,21 @@
     "id": 8352,
     "date": "2026-05-01T02:53:19",
     "text": "我：I need a rest\n聊聊：<span class=\"spoiler\"><span>用手铐可以吗</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5370947515220761242.tgs\">😇</i>",
-    "views": 229,
+    "views": 230,
     "forwards": 0
   },
   {
     "id": 8353,
     "date": "2026-05-01T03:51:24",
     "text": "...听到隔壁在超级大声放 Gangnam Style <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n今年是何年",
-    "views": 223,
+    "views": 224,
     "forwards": 0
   },
   {
     "id": 8354,
     "date": "2026-05-01T12:31:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫在学鸟叫",
-    "views": 218,
+    "views": 219,
     "forwards": 2,
     "files": [
       {
@@ -111637,7 +111637,7 @@
     "id": 8355,
     "date": "2026-05-01T12:33:19",
     "text": "猫",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "media_group_id": 14221110396956861,
     "images": [
@@ -111696,7 +111696,7 @@
   {
     "id": 8360,
     "date": "2026-05-01T13:07:40",
-    "views": 229,
+    "views": 230,
     "forwards": 0,
     "images": [
       {
@@ -111715,7 +111715,7 @@
     "id": 8361,
     "date": "2026-05-01T22:57:12",
     "text": "录到了猫猫捉鸟",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "files": [
       {
@@ -111774,7 +111774,7 @@
     "id": 8365,
     "date": "2026-05-02T18:45:58",
     "text": "坏掉的屏幕像星空 🌃",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "media_group_id": 14221980469778677,
     "images": [
@@ -111804,7 +111804,7 @@
     "id": 8367,
     "date": "2026-05-02T20:24:21",
     "text": "喵呼呼",
-    "views": 223,
+    "views": 224,
     "forwards": 1,
     "images": [
       {
@@ -111823,21 +111823,21 @@
     "id": 8368,
     "date": "2026-05-03T00:09:24",
     "text": "五月了\n\n好怀念去年在日本的时间... 也许应该每天去看看去年这一天的照片，然后把没有发/修过的照片补上",
-    "views": 223,
+    "views": 224,
     "forwards": 0
   },
   {
     "id": 8369,
     "date": "2026-05-03T12:43:29",
     "text": "小猫第一次打碎了玻璃杯... 孬猫",
-    "views": 211,
+    "views": 213,
     "forwards": 0
   },
   {
     "id": 8370,
     "date": "2026-05-03T14:01:24",
     "text": "哭哭 没去成巴塞罗那... 因为签证没按时办下来\n\n(前情提要: <a href=\"https://t.me/azaneko/8242\">https://t.me/azaneko/8242</a>)",
-    "views": 202,
+    "views": 204,
     "forwards": 1,
     "reply": {
       "id": 7754,
@@ -111860,7 +111860,7 @@
     "id": 8371,
     "date": "2026-05-03T16:37:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鸡蛋面包！",
-    "views": 181,
+    "views": 187,
     "forwards": 0,
     "images": [
       {
@@ -111879,7 +111879,7 @@
     "id": 8374,
     "date": "2026-05-03T21:32:22",
     "text": "猫！！！！！！！！",
-    "views": 476,
+    "views": 484,
     "forwards": 4,
     "media_group_id": 14222751540259805,
     "images": [
@@ -111919,7 +111919,7 @@
     "id": 8375,
     "date": "2026-05-04T21:39:24",
     "text": "隔着纱窗看外面像是在看屏幕一样，有大颗粒像素点",
-    "views": 29,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
