@@ -107051,7 +107051,7 @@
   {
     "id": 8015,
     "date": "2026-03-12T18:43:51",
-    "views": 544,
+    "views": 545,
     "forwards": 1,
     "images": [
       {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1949,
+    "views": 1950,
     "forwards": 30
   },
   {
@@ -111492,7 +111492,7 @@
     "id": 8344,
     "date": "2026-04-30T08:49:52",
     "text": "凌晨在朋友家修 CVE... <a href=\"https://copy.fail\">https://copy.fail</a>\n\n我所有的 linux 服务器都中枪，所以连到每个服务器一个一个修，也许到了能反映出哪个发行版好用的时候了\n\narch 的服务器最好修，直接 pacman -Syu 重启就修好了\n\nproxmox 因为是刚装的所以直接 apt upgrade 也修好了\n\nfedora 两个新的直接 dnf update 就好了，一个旧的要 dnf system-upgrade 跳两次 (40 > 42 > 44)\n\nubuntu... 我的三个 ubuntu 全都火葬场。因为 ubuntu 只有最新的 26 修了，其他版本都没修，所以要把所有系统更新到 26。有一个系统不知道为什么 do-release-upgrade 就是没法更新到 26，所以就 22 > 24 > 25 > 26 了，一天重启了不知道多少次。另一个系统 do-release-upgrade 的过程中和 oracle cloud 的定时任务冲突了，dpkg 报错导致失败还没法回滚，重要的是 sudo 没了，oracle 还禁止 root 登录... 试了一下 copyfail 的 PoC 也不行（因为 PoC 是 x86 的，我是 arm64）。最后还是开了一个新的虚拟机，把盘挂上去修好再挂回去把新的虚拟机删掉，然后继续 24 > 25 > 26...\n\n好累好累，现在快凌晨五点了，我凌晨六点还要开车一个小时回家...",
-    "views": 255,
+    "views": 256,
     "forwards": 2,
     "images": [
       {
@@ -111737,14 +111737,14 @@
     "id": 8362,
     "date": "2026-05-02T09:45:19",
     "text": "感觉也许很快就会需要重新读读《Flowers for Algernon》了",
-    "views": 239,
+    "views": 240,
     "forwards": 2
   },
   {
     "id": 8363,
     "date": "2026-05-02T16:59:35",
     "text": "还是觉得静态随机密码不太安全，换成了正经安全方案\n\n对比了 FIDO2 和 PIV 和 GPG 之后选择了 PIV，因为这里面只有 PIV 支持远程桌面（RDP）并且不需要每次验证都触摸",
-    "views": 227,
+    "views": 229,
     "forwards": 0,
     "reply": {
       "id": 8336,
@@ -111767,14 +111767,14 @@
     "id": 8364,
     "date": "2026-05-02T17:28:25",
     "text": "五月了，东京已经 25℃ 了，Waterloo 还在飘雪花...",
-    "views": 222,
+    "views": 224,
     "forwards": 1
   },
   {
     "id": 8365,
     "date": "2026-05-02T18:45:58",
     "text": "坏掉的屏幕像星空 🌃",
-    "views": 218,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14221980469778677,
     "images": [
@@ -111804,7 +111804,7 @@
     "id": 8367,
     "date": "2026-05-02T20:24:21",
     "text": "喵呼呼",
-    "views": 235,
+    "views": 236,
     "forwards": 1,
     "images": [
       {
@@ -111823,14 +111823,14 @@
     "id": 8368,
     "date": "2026-05-03T00:09:24",
     "text": "五月了\n\n好怀念去年在日本的时间... 也许应该每天去看看去年这一天的照片，然后把没有发/修过的照片补上",
-    "views": 235,
+    "views": 236,
     "forwards": 0
   },
   {
     "id": 8369,
     "date": "2026-05-03T12:43:29",
     "text": "小猫第一次打碎了玻璃杯... 孬猫",
-    "views": 228,
+    "views": 229,
     "forwards": 0
   },
   {
@@ -111879,7 +111879,7 @@
     "id": 8374,
     "date": "2026-05-03T21:32:22",
     "text": "猫！！！！！！！！",
-    "views": 543,
+    "views": 546,
     "forwards": 4,
     "media_group_id": 14222751540259805,
     "images": [
@@ -111919,7 +111919,7 @@
     "id": 8375,
     "date": "2026-05-04T21:39:24",
     "text": "隔着纱窗看外面像是在看屏幕一样，有大颗粒像素点",
-    "views": 161,
+    "views": 167,
     "forwards": 0,
     "images": [
       {
@@ -111938,7 +111938,7 @@
     "id": 8376,
     "date": "2026-05-05T15:11:55",
     "text": "猫猫跃跃欲试",
-    "views": 92,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 14223951321653117,
     "images": [
@@ -111961,6 +111961,47 @@
         "url": "media/8377.jpg",
         "size": 248974,
         "thumb": "media/8377.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8378,
+    "date": "2026-05-05T20:30:25",
+    "text": "days without Google AI outage: 0",
+    "views": 20,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 731,
+        "date": "2026-05-05T20:30:24",
+        "media_type": "photo",
+        "original_name": "photo_2026-05-05_20-30-24.jpg",
+        "url": "media/8378.jpg",
+        "size": 63808,
+        "thumb": "media/8378.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8379,
+    "date": "2026-05-05T20:42:20",
+    "text": "前几天开车的时候看到的\n\n感谢某神奇逗号把这一幕录下来了",
+    "views": 15,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "fcamera-out.mp4",
+        "mime_type": "video/mp4",
+        "date": "2026-05-05T20:42:20",
+        "width": 1920,
+        "height": 1080,
+        "duration": 7,
+        "media_type": "animation",
+        "original_name": "fcamera-out.mp4",
+        "url": "media/8379.mp4",
+        "size": 4489184,
+        "thumb": "media/8379.mp4_thumb.jpg"
       }
     ]
   }
