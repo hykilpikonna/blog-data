@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-05-06T16:55:48.853512+00:00</updated>
+  <updated>2026-05-06T18:48:51.293812+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8381</id>
+    <title>小桂桂的回忆录 📒 #8381</title>
+    <updated>2026-05-06T17:14:15+00:00</updated>
+    <content>&lt;p&gt;github 已经完全不能用了...&lt;/p&gt;
+&lt;p&gt;今天想要审核一个 PR，首先是 clone 速度超级慢，然后尝试加 comment 的时候还 HTTP 422 了...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8381" rel="alternate"/>
+  </entry>
   <entry>
     <id>8380</id>
     <title>小桂桂的回忆录 📒 #8380</title>
