@@ -15005,7 +15005,7 @@
     "id": 1197,
     "date": "2022-09-11T23:15:58",
     "text": "<a href=\"##桂桂聊聊书书今天吃什么\">#桂桂聊聊书书今天吃什么</a>\n香菇炒油菜和芹菜炒肉w\n\n...切肉还是切得太慢了，炒完芹菜炒肉之后油菜已经凉了 😭",
-    "views": 176,
+    "views": 177,
     "forwards": 1,
     "media_group_id": 13303505268259725,
     "images": [
@@ -18671,7 +18671,7 @@
     "id": 1453,
     "date": "2022-11-04T00:27:41",
     "text": "<a href=\"##桂桂聊聊书书今天吃什么\">#桂桂聊聊书书今天吃什么</a>\n照烧鸡腿饭！\n\n本来感觉 500g 好像够了就只买了四个鸡腿，然后发现去掉骨头之后只剩 337g 了，烧完更小了（xx\n\n下次还是多买点鸡腿好了，这次只花了 $2",
-    "views": 574,
+    "views": 575,
     "forwards": 1,
     "media_group_id": 13340173288967597,
     "images": [
@@ -33089,7 +33089,7 @@
     "id": 2473,
     "date": "2023-08-02T08:29:28",
     "text": "发现计划旅行没头绪不知所措的时候，想做的第一件事是先把航班和路程的时间定下来，给旅行加上各种限制...\n\n定好限制反而感觉决定去哪里怎样玩变得没有那么 impossible 了，明明在限制内做出的不一定是最合适的计划... 人真的好矛盾\n\n<del>如果有模型可以让我把想去的地方和时间精力各种因素丢进一个加权图 BFS 一遍找到最合适的计划就好了</del>",
-    "views": 86,
+    "views": 87,
     "forwards": 1,
     "images": [
       {
@@ -33108,7 +33108,7 @@
     "id": 2474,
     "date": "2023-08-02T21:42:26",
     "text": "去年暑假被 numba 折腾，今年继续被 numba 折腾 (╯’ – ‘)╯︵ ┻━┻\n\nnumba 的初衷是想要简单地把 python 函数编译成二进制加快速度，只要加一个 <code>@njit</code> 就好了这么简单，然而实际效果并不是这样。\n\n加上 <code>@njit</code>，然后发现 logger 不支持要换成 print，修了然后发现 atleast_1d 不支持 float16 要换成 float32，修了然后发现 sqrtm 不支持要手动重造轮子，造了然后发现字符串 % 替换不支持需要换成 f-string，换了然后发现同名变量不能用不同精度，改了然后发现 np.diagonal 不支持要重造轮子，造了然后发现 np.allclose 参数要求太多要重造轮子，造了然后给我一个报错消息里面只写了 “float16” 也没有说在哪行... 给几乎所有变量赋值都加了 .astype(float32) 之后终于可以了，然后跟我说 np.eig 产生复数就不能编译？？我真的不知道怎么修了，问问 GPT，GPT 直接说别优化了把 <code>@njit</code> 删了吧 🙃\n\n原本应该是加一个 <code>@njit</code> 就好的事情结果改了一小时放弃了，决定以后再也不碰 numba 了，要优化还是直接 rust 重写吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 95,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13528100371661525,
     "images": [
@@ -33143,7 +33143,7 @@
     "id": 2476,
     "date": "2023-08-03T03:52:20",
     "text": "<del>好色哦</del>",
-    "views": 99,
+    "views": 101,
     "forwards": 0,
     "forwarded_from": {
       "name": "生草邻国"
@@ -33221,7 +33221,7 @@
     "id": 2481,
     "date": "2023-08-06T07:47:32",
     "text": "给 one among us 推代码的时候告诉我有一个安全漏洞，点进去看看是什么呢？ \"sweetalert2 一个版本以后在一些域名后缀会放和功能无关的音视频\" <i class=\"custom-emoji\" emoji-src=\"emoji/6330064332902107450.webp\">🤔</i>\n\n查了一下，发现是作者给它加了一个功能，只要是俄罗斯域名的网站就会让点击失效并且播放乌克兰国歌 🤯\n\n...感觉有点蠢蠢？感觉这样比起对俄罗斯政府的影响还是给一般通过网页工程师添的麻烦更多，但是一般俄人对现在的政治局势应该也和我们一样无力 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> （而且政府网站谁会为了弹窗框好看专门加一个外部库呀 <i class=\"custom-emoji\" emoji-src=\"emoji/6330184098065156656.webp\">🙃</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 1,
     "images": [
       {
@@ -33240,14 +33240,14 @@
     "id": 2482,
     "date": "2023-08-07T03:49:01",
     "text": "和聊聊连麦，说想给手机买一个 Gimbal 平衡环架，但是觉得好贵\n\n聊聊：那你买一只活着的鸡然后把手机绑在鸡的头上 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0
   },
   {
     "id": 2483,
     "date": "2023-08-07T06:14:31",
     "text": "刚到 Extended Family 那单元，问我翻译「娘は五歳です」然后我看汉字下意识点了我妈五岁 🌚\n\n然后才想起来娘（むすめ）是女儿",
-    "views": 78,
+    "views": 79,
     "forwards": 1,
     "forwarded_from": {
       "name": "生草邻国"
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4932,
+    "views": 4934,
     "forwards": 29
   },
   {
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4155,
+    "views": 4156,
     "forwards": 31
   },
   {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1971,
+    "views": 1972,
     "forwards": 31
   },
   {
@@ -111451,7 +111451,7 @@
     "id": 8342,
     "date": "2026-04-29T17:11:51",
     "text": "我焊 PCB 和烫头发的温度都是 370",
-    "views": 259,
+    "views": 260,
     "forwards": 1,
     "images": [
       {
@@ -111470,7 +111470,7 @@
     "id": 8343,
     "date": "2026-04-29T19:07:48",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好喜欢 mono\n\n♪ 効率だとか ナンセンスだとか\n♪ その辺は置いといて\n♪ 興味わくコト 気になるコト\n♪ 憧れで やってみちゃおう直感だ",
-    "views": 250,
+    "views": 251,
     "forwards": 0,
     "files": [
       {
@@ -111492,7 +111492,7 @@
     "id": 8344,
     "date": "2026-04-30T08:49:52",
     "text": "凌晨在朋友家修 CVE... <a href=\"https://copy.fail\">https://copy.fail</a>\n\n我所有的 linux 服务器都中枪，所以连到每个服务器一个一个修，也许到了能反映出哪个发行版好用的时候了\n\narch 的服务器最好修，直接 pacman -Syu 重启就修好了\n\nproxmox 因为是刚装的所以直接 apt upgrade 也修好了\n\nfedora 两个新的直接 dnf update 就好了，一个旧的要 dnf system-upgrade 跳两次 (40 > 42 > 44)\n\nubuntu... 我的三个 ubuntu 全都火葬场。因为 ubuntu 只有最新的 26 修了，其他版本都没修，所以要把所有系统更新到 26。有一个系统不知道为什么 do-release-upgrade 就是没法更新到 26，所以就 22 > 24 > 25 > 26 了，一天重启了不知道多少次。另一个系统 do-release-upgrade 的过程中和 oracle cloud 的定时任务冲突了，dpkg 报错导致失败还没法回滚，重要的是 sudo 没了，oracle 还禁止 root 登录... 试了一下 copyfail 的 PoC 也不行（因为 PoC 是 x86 的，我是 arm64）。最后还是开了一个新的虚拟机，把盘挂上去修好再挂回去把新的虚拟机删掉，然后继续 24 > 25 > 26...\n\n好累好累，现在快凌晨五点了，我凌晨六点还要开车一个小时回家...",
-    "views": 271,
+    "views": 272,
     "forwards": 2,
     "images": [
       {
@@ -111511,7 +111511,7 @@
     "id": 8345,
     "date": "2026-04-30T10:32:32",
     "text": "看到了多伦多的日出！",
-    "views": 249,
+    "views": 250,
     "forwards": 4,
     "media_group_id": 14220361217987037,
     "images": [
@@ -111541,7 +111541,7 @@
     "id": 8347,
     "date": "2026-04-30T18:17:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n味噌豚骨拉面！（昨天在 tracer 和 celestium 家做的）\n\n实际上是 原本只是想去玩，但是路过日超看到了冷冻面条和叉烧卷和超便宜猪骨所以就决定做拉面了！\n\n...结果即使有高压锅帮忙也依然花了 3.5h，七点开始做十点半才做好，累累\n\n以及可怜 celestium 没有第三个面碗只能用盆吃了，感觉用宽底的盆装面虽然倒了同样多的汤和面和肉但是看起来就是好少呀 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 247,
+    "views": 248,
     "forwards": 0,
     "media_group_id": 14220584420286541,
     "images": [
@@ -111601,21 +111601,21 @@
     "id": 8352,
     "date": "2026-05-01T02:53:19",
     "text": "我：I need a rest\n聊聊：<span class=\"spoiler\"><span>用手铐可以吗</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5370947515220761242.tgs\">😇</i>",
-    "views": 261,
+    "views": 262,
     "forwards": 0
   },
   {
     "id": 8353,
     "date": "2026-05-01T03:51:24",
     "text": "...听到隔壁在超级大声放 Gangnam Style <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n今年是何年",
-    "views": 247,
+    "views": 248,
     "forwards": 0
   },
   {
     "id": 8354,
     "date": "2026-05-01T12:31:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫在学鸟叫",
-    "views": 242,
+    "views": 243,
     "forwards": 2,
     "files": [
       {
@@ -111637,7 +111637,7 @@
     "id": 8355,
     "date": "2026-05-01T12:33:19",
     "text": "猫",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "media_group_id": 14221110396956861,
     "images": [
@@ -111696,7 +111696,7 @@
   {
     "id": 8360,
     "date": "2026-05-01T13:07:40",
-    "views": 261,
+    "views": 262,
     "forwards": 0,
     "images": [
       {
@@ -111715,7 +111715,7 @@
     "id": 8361,
     "date": "2026-05-01T22:57:12",
     "text": "录到了猫猫捉鸟",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "files": [
       {
@@ -111737,7 +111737,7 @@
     "id": 8362,
     "date": "2026-05-02T09:45:19",
     "text": "感觉也许很快就会需要重新读读《Flowers for Algernon》了",
-    "views": 274,
+    "views": 275,
     "forwards": 2
   },
   {
@@ -111804,7 +111804,7 @@
     "id": 8367,
     "date": "2026-05-02T20:24:21",
     "text": "喵呼呼",
-    "views": 306,
+    "views": 307,
     "forwards": 1,
     "images": [
       {
@@ -111823,21 +111823,21 @@
     "id": 8368,
     "date": "2026-05-03T00:09:24",
     "text": "五月了\n\n好怀念去年在日本的时间... 也许应该每天去看看去年这一天的照片，然后把没有发/修过的照片补上",
-    "views": 304,
+    "views": 305,
     "forwards": 0
   },
   {
     "id": 8369,
     "date": "2026-05-03T12:43:29",
     "text": "小猫第一次打碎了玻璃杯... 孬猫",
-    "views": 289,
+    "views": 290,
     "forwards": 0
   },
   {
     "id": 8370,
     "date": "2026-05-03T14:01:24",
     "text": "哭哭 没去成巴塞罗那... 因为签证没按时办下来\n\n(前情提要: <a href=\"https://t.me/azaneko/8242\">https://t.me/azaneko/8242</a>)",
-    "views": 289,
+    "views": 291,
     "forwards": 1,
     "reply": {
       "id": 7754,
@@ -111860,7 +111860,7 @@
     "id": 8371,
     "date": "2026-05-03T16:37:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鸡蛋面包！",
-    "views": 286,
+    "views": 288,
     "forwards": 0,
     "images": [
       {
@@ -111879,7 +111879,7 @@
     "id": 8374,
     "date": "2026-05-03T21:32:22",
     "text": "猫！！！！！！！！",
-    "views": 620,
+    "views": 622,
     "forwards": 4,
     "media_group_id": 14222751540259805,
     "images": [
@@ -111919,7 +111919,7 @@
     "id": 8375,
     "date": "2026-05-04T21:39:24",
     "text": "隔着纱窗看外面像是在看屏幕一样，有大颗粒像素点",
-    "views": 238,
+    "views": 241,
     "forwards": 0,
     "images": [
       {
@@ -111938,7 +111938,7 @@
     "id": 8376,
     "date": "2026-05-05T15:11:55",
     "text": "猫猫跃跃欲试",
-    "views": 224,
+    "views": 226,
     "forwards": 0,
     "media_group_id": 14223951321653117,
     "images": [
@@ -111968,7 +111968,7 @@
     "id": 8378,
     "date": "2026-05-05T20:30:25",
     "text": "days without Google AI outage: 0",
-    "views": 222,
+    "views": 223,
     "forwards": 1,
     "images": [
       {
@@ -111987,7 +111987,7 @@
     "id": 8379,
     "date": "2026-05-05T20:42:20",
     "text": "前几天开车的时候看到的\n\n感谢某神奇逗号把这一幕录下来了",
-    "views": 227,
+    "views": 228,
     "forwards": 2,
     "files": [
       {
@@ -112009,7 +112009,7 @@
     "id": 8380,
     "date": "2026-05-06T05:13:26",
     "text": "获得了 方形喇叭的音响",
-    "views": 221,
+    "views": 223,
     "forwards": 0,
     "images": [
       {
@@ -112028,7 +112028,7 @@
     "id": 8381,
     "date": "2026-05-06T17:14:15",
     "text": "github 已经完全不能用了...\n\n今天想要审核一个 PR，首先是 clone 速度超级慢，然后尝试加 comment 的时候还 HTTP 422 了...",
-    "views": 222,
+    "views": 224,
     "forwards": 1,
     "media_group_id": 14224701246897629,
     "images": [
@@ -112058,7 +112058,7 @@
     "id": 8383,
     "date": "2026-05-07T05:33:00",
     "text": "又去买二手，沿路拍了一些照片\n\n这里感觉开四五分钟出去就一路全都是 <del>Windows XP 壁纸</del>，今天路上也没有很多车，好喜欢这种安静的乡下道路\n\n这次花了 $20 买了这个落地大音箱，回来测试了一下声音很不错，只不过... 卖家是个烟鬼，带回家之后车里身上手上全都是烟味 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 用白醋擦了表面，现在在车库里晾着\n\n以及卖家有一匹巨大狗狗，真的看上去比我还大，然后打开门的时候狗狗想跑出来，那位大叔直接把狗狗夹在两腿中间（算不算骑上去了我不知道）好奇妙... 感觉如果让我和这种狗狗打一架我完全会输 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 157,
+    "views": 161,
     "forwards": 1,
     "media_group_id": 14225055843041325,
     "images": [
@@ -112138,7 +112138,7 @@
     "id": 8390,
     "date": "2026-05-07T19:26:04",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 東京うるさい時折too big sigh\n♪ みんなまとめて休んだら\n♪ いいんだわ、ね?\n♪ 地元みたいな田舎は嫌い\n♪ 「だった」になったわ\n\n想起来去年在东京实习的时候我也好经常往乡下跑，好怀念 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> <del>我也真的去过伊香保IC</del>",
-    "views": 110,
+    "views": 118,
     "forwards": 1,
     "files": [
       {
@@ -112160,7 +112160,7 @@
     "id": 8391,
     "date": "2026-05-08T04:54:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好奇妙啊，在显卡加速的 tg desktop 上拖动一张放大的图的时候能听到显卡的叫声 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n和大模型 inference 的时候的显卡叫声差不多",
-    "views": 77,
+    "views": 94,
     "forwards": 0,
     "files": [
       {
