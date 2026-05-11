@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 4950,
+    "views": 4951,
     "forwards": 29
   },
   {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 1985,
+    "views": 1987,
     "forwards": 31
   },
   {
@@ -110581,7 +110581,7 @@
     "id": 8277,
     "date": "2026-04-19T22:53:55",
     "text": "呜呜 被坑了... gitadora 的存档丢了\n\n之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用\n\n但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了\n\n然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内\n\n呜呜呜 看来以后不能相信随机网友的 docker 配置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 328,
+    "views": 329,
     "forwards": 3,
     "media_group_id": 14213113883732813,
     "images": [
@@ -110610,7 +110610,7 @@
   {
     "id": 8279,
     "date": "2026-04-19T23:49:34",
-    "views": 295,
+    "views": 296,
     "forwards": 0,
     "files": [
       {
@@ -111335,7 +111335,7 @@
     "id": 8335,
     "date": "2026-04-27T04:25:58",
     "text": "啊啊啊啊啊啊啊啊啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n再也不敢 YOLO 了，我让 agent 挂载一个盘，agent 不看一眼分区表就以为它是空盘把它格了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n还好没有开 trim，用 btrfs rescue 救回来了。但是真的再也不敢跳过审核让 agent sudo 了",
-    "views": 398,
+    "views": 399,
     "forwards": 11,
     "images": [
       {
@@ -111354,7 +111354,7 @@
     "id": 8336,
     "date": "2026-04-27T14:44:49",
     "text": "试了各种不同的用 yubikey 保护 ssh key 的方式，最终还是直接给它设了一个静态密码，触摸一下就打出一串特别长的密码 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为其他办法都没办法让我从 iPad 远程桌面的时候工作所以",
-    "views": 314,
+    "views": 315,
     "forwards": 0,
     "images": [
       {
@@ -111541,7 +111541,7 @@
     "id": 8347,
     "date": "2026-04-30T18:17:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n味噌豚骨拉面！（昨天在 tracer 和 celestium 家做的）\n\n实际上是 原本只是想去玩，但是路过日超看到了冷冻面条和叉烧卷和超便宜猪骨所以就决定做拉面了！\n\n...结果即使有高压锅帮忙也依然花了 3.5h，七点开始做十点半才做好，累累\n\n以及可怜 celestium 没有第三个面碗只能用盆吃了，感觉用宽底的盆装面虽然倒了同样多的汤和面和肉但是看起来就是好少呀 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "media_group_id": 14220584420286541,
     "images": [
@@ -111879,7 +111879,7 @@
     "id": 8374,
     "date": "2026-05-03T21:32:22",
     "text": "猫！！！！！！！！",
-    "views": 670,
+    "views": 671,
     "forwards": 4,
     "media_group_id": 14222751540259805,
     "images": [
@@ -111919,7 +111919,7 @@
     "id": 8375,
     "date": "2026-05-04T21:39:24",
     "text": "隔着纱窗看外面像是在看屏幕一样，有大颗粒像素点",
-    "views": 284,
+    "views": 285,
     "forwards": 0,
     "images": [
       {
@@ -111968,7 +111968,7 @@
     "id": 8378,
     "date": "2026-05-05T20:30:25",
     "text": "days without Google AI outage: 0",
-    "views": 297,
+    "views": 298,
     "forwards": 1,
     "images": [
       {
@@ -111987,7 +111987,7 @@
     "id": 8379,
     "date": "2026-05-05T20:42:20",
     "text": "前几天开车的时候看到的\n\n感谢某神奇逗号把这一幕录下来了",
-    "views": 304,
+    "views": 305,
     "forwards": 2,
     "files": [
       {
@@ -112232,7 +112232,7 @@
     "id": 8395,
     "date": "2026-05-09T06:41:52",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n降落到了日本，认识了谦谦并且通过谦谦认识了很多其他的日本朋友（居然已经一年了！）\n\n感觉当时每天都很新鲜很动态，完全无法预测下一天会做什么经历什么发生什么。如果每天都可以继续这样难以预测就好了\n\n可惜自己是一个碳基大模型，拟合数据是无法控制的本能，经历过的事情都会变得可预测起来... 所以在现在平淡的日常中才格外珍惜那个时候的回忆，想要把当时漏掉的重新记录上 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n大概这里是这个回忆 tag 的起点 qwq",
-    "views": 267,
+    "views": 268,
     "forwards": 2,
     "reply": {
       "id": 5327,
@@ -112244,7 +112244,7 @@
     "id": 8397,
     "date": "2026-05-09T23:38:37",
     "text": "好想离开 github...",
-    "views": 250,
+    "views": 252,
     "forwards": 2,
     "reply": {
       "id": 8381,
@@ -112268,7 +112268,7 @@
     "id": 8398,
     "date": "2026-05-10T05:41:59",
     "text": "affinity 又崩溃 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 217,
+    "views": 225,
     "forwards": 1,
     "files": [
       {
@@ -112291,7 +112291,7 @@
     "id": 8399,
     "date": "2026-05-10T15:11:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n荞麦面！\n\n猫猫也爱吃",
-    "views": 172,
+    "views": 187,
     "forwards": 0,
     "media_group_id": 14227407187648189,
     "images": [
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 156,
+    "views": 176,
     "forwards": 4,
     "media_group_id": 14227451747839885,
     "images": [
@@ -112375,8 +112375,8 @@
     "id": 8406,
     "date": "2026-05-10T20:10:57",
     "text": "头发还没睡醒",
-    "views": 103,
-    "forwards": 2,
+    "views": 132,
+    "forwards": 3,
     "images": [
       {
         "width": 1920,
