@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2001,
+    "views": 2002,
     "forwards": 31
   },
   {
@@ -111392,7 +111392,7 @@
     "id": 8338,
     "date": "2026-04-28T08:17:56",
     "text": "看到这条思考了很多，但是也许我也没有很好的答案\n\n首先是，作为人类，感觉又一项竞赛被 AI 超过很不甘。为什么会这样想呢？明明算法题目最终也只是一种游戏而已，像数独谜题围棋赛跑音游一样，喜欢做谜题的时候也不会因为电脑能 1ms 解出这个谜题有感觉不甘。\n\n其次是，为什么 llm 这么聪明了，依然没有办法解决实际影响无数人的社会问题... 比如全球气候变化的问题，反而是 llm 在导致恶化。如果把建 llm 数据中心的资源重定向一下也许反而能更好解决这些问题\n\n<span class=\"spoiler\"><span>又或者是不是「有能力解决问题的人都只想着造更聪明的 llm」这件事本身就说明人类社会实际上已经被 llm 控制了呢</span></span>",
-    "views": 350,
+    "views": 351,
     "forwards": 5,
     "images": [
       {
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 251,
+    "views": 252,
     "forwards": 5,
     "media_group_id": 14227451747839885,
     "images": [
