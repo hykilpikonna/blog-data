@@ -109030,7 +109030,7 @@
     "id": 8166,
     "date": "2026-04-05T08:06:10",
     "text": "变色！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\nGitadora DM 配好到现在半个月，已经会打一些打起来很爽的谱子了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n（等再熟练一点找时间录录手元）",
-    "views": 298,
+    "views": 299,
     "forwards": 1,
     "media_group_id": 14203010963494653,
     "images": [
@@ -109095,8 +109095,8 @@
     "id": 8171,
     "date": "2026-04-05T18:42:09",
     "text": "AI agent 相关的代码库好草台，感觉很多东西都不按标准写\n\n今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references\n\n然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重\n\nagno 一个 39.2k star 的项目... 这是为什么呢？",
-    "views": 321,
-    "forwards": 1,
+    "views": 323,
+    "forwards": 2,
     "media_group_id": 14203316239623157,
     "images": [
       {
@@ -109135,7 +109135,7 @@
     "id": 8174,
     "date": "2026-04-06T16:35:01",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n咖喱乌冬！<span class=\"spoiler\"><span>∩ ∪ ∩</span></span>",
-    "views": 352,
+    "views": 353,
     "forwards": 0,
     "images": [
       {
@@ -109218,7 +109218,7 @@
     "id": 8180,
     "date": "2026-04-07T08:03:12",
     "text": "今天把新的想法加入 project backlog 的时候发现里面有一百项了，有一百个想做但是没时间做的想法了... 是值得庆祝的事情吗？",
-    "views": 341,
+    "views": 342,
     "forwards": 1,
     "images": [
       {
@@ -109237,7 +109237,7 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 411,
+    "views": 412,
     "forwards": 5,
     "images": [
       {
@@ -109256,7 +109256,7 @@
     "id": 8182,
     "date": "2026-04-07T17:03:55",
     "text": "猫猫也想吃",
-    "views": 323,
+    "views": 324,
     "forwards": 1,
     "media_group_id": 14204651481908421,
     "images": [
@@ -110031,7 +110031,7 @@
     "id": 8235,
     "date": "2026-04-15T23:42:38",
     "text": "旅行小猫",
-    "views": 303,
+    "views": 304,
     "forwards": 1,
     "media_group_id": 14210372465753613,
     "images": [
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2038,
+    "views": 2039,
     "forwards": 31
   },
   {
@@ -112765,7 +112765,7 @@
     "id": 8435,
     "date": "2026-05-15T02:29:33",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n工作的第一周，收到了上周度假的导师带回来的紅芋タルト\n\n也因为它知道了冲绳特产是什么、了解到了度假回来的人要给大家带おみやげ的习俗。当时肯定想不到几周之后我也会去冲绳然后带おみやげ回来  <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "reply": {
       "id": 5372,
@@ -112789,7 +112789,7 @@
     "id": 8436,
     "date": "2026-05-15T02:37:46",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n三文鱼丼 / poke bowl / 分解寿司\n\n好久没做这个了 qwq",
-    "views": 284,
+    "views": 286,
     "forwards": 0,
     "images": [
       {
@@ -112808,14 +112808,14 @@
     "id": 8437,
     "date": "2026-05-15T03:35:11",
     "text": "某 LLM 应用每个平台的「换行不发送」快捷键都不一样好讨厌...\n\nWindows Terminal 是 Ctrl+Enter\nLinux KDE Kitty 是 Alt+Enter\n网页上是 Shift+Enter\n\n而且这三个平台按错了都会直接把消息发出去 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 308,
+    "views": 311,
     "forwards": 2
   },
   {
     "id": 8438,
     "date": "2026-05-15T03:46:36",
     "text": "小猫好喜欢这套ミク衣服\n\n刚说完，它在上面睡着了",
-    "views": 283,
+    "views": 286,
     "forwards": 2,
     "media_group_id": 14230534374095989,
     "images": [
@@ -112845,7 +112845,7 @@
     "id": 8440,
     "date": "2026-05-15T15:43:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 266,
+    "views": 273,
     "forwards": 0,
     "reply": {
       "id": 8438,
@@ -112869,7 +112869,7 @@
     "id": 8441,
     "date": "2026-05-16T07:02:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n叉烧面！（室友做的叉烧，好厉害 qwq",
-    "views": 259,
+    "views": 267,
     "forwards": 0,
     "images": [
       {
@@ -112888,7 +112888,7 @@
     "id": 8442,
     "date": "2026-05-16T17:47:07",
     "text": "输入法脏了",
-    "views": 261,
+    "views": 262,
     "forwards": 2,
     "images": [
       {
@@ -112907,7 +112907,7 @@
     "id": 8443,
     "date": "2026-05-17T02:29:18",
     "text": "之前和 syama 连 vrchat 总是会想为什么冰箱里拿出来的食物是固体，反转也不会撒出来\n\n今天在现实中复现了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 249,
+    "views": 251,
     "forwards": 3,
     "media_group_id": 14231879668132773,
     "images": [
@@ -112947,7 +112947,7 @@
     "id": 8446,
     "date": "2026-05-18T00:24:48",
     "text": "选择恐惧症 be like...",
-    "views": 239,
+    "views": 241,
     "forwards": 2,
     "images": [
       {
@@ -112966,7 +112966,7 @@
     "id": 8447,
     "date": "2026-05-18T04:41:36",
     "text": "猫猫吃冰淇淋",
-    "views": 235,
+    "views": 237,
     "forwards": 1,
     "files": [
       {
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 253,
+    "views": 256,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113010,14 +113010,14 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 226,
+    "views": 231,
     "forwards": 3
   },
   {
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 866,
+    "views": 875,
     "forwards": 12,
     "images": [
       {
@@ -113036,7 +113036,7 @@
     "id": 8451,
     "date": "2026-05-20T04:59:08",
     "text": "完 我更新到 Antigravity 2.0 然后 IDE 没了，只有 agent...",
-    "views": 191,
+    "views": 197,
     "forwards": 3,
     "forwarded_from": {
       "name": "Azalea",
@@ -113059,7 +113059,7 @@
     "id": 8452,
     "date": "2026-05-20T07:21:52",
     "text": "所有软的地方都会刷新出睡睡小猫 <span class=\"spoiler\"><span>和它的毛</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 144,
+    "views": 152,
     "forwards": 0,
     "images": [
       {
@@ -113071,6 +113071,25 @@
         "url": "media/8452.jpg",
         "size": 463003,
         "thumb": "media/8452.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8453,
+    "date": "2026-05-20T21:20:27",
+    "text": "猫草",
+    "views": 38,
+    "forwards": 2,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-05-20T21:20:27",
+        "media_type": "photo",
+        "original_name": "photo_2026-05-20_21-20-27.jpg",
+        "url": "media/8453.jpg",
+        "size": 732410,
+        "thumb": "media/8453.jpg_thumb.jpg"
       }
     ]
   }
