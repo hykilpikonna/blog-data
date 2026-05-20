@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7516,
+    "views": 7517,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5811,
+    "views": 5812,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2037,
+    "views": 2038,
     "forwards": 31
   },
   {
@@ -112736,7 +112736,7 @@
     "id": 8433,
     "date": "2026-05-14T05:04:50",
     "text": "和 miku 共同演奏的乐队也好厉害！乐队成员介绍这段超燃！",
-    "views": 266,
+    "views": 267,
     "forwards": 0,
     "files": [
       {
@@ -112815,7 +112815,7 @@
     "id": 8438,
     "date": "2026-05-15T03:46:36",
     "text": "小猫好喜欢这套ミク衣服\n\n刚说完，它在上面睡着了",
-    "views": 282,
+    "views": 283,
     "forwards": 2,
     "media_group_id": 14230534374095989,
     "images": [
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 251,
+    "views": 253,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113010,14 +113010,14 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 224,
+    "views": 225,
     "forwards": 3
   },
   {
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 849,
+    "views": 859,
     "forwards": 12,
     "images": [
       {
@@ -113036,7 +113036,7 @@
     "id": 8451,
     "date": "2026-05-20T04:59:08",
     "text": "完 我更新到 Antigravity 2.0 然后 IDE 没了，只有 agent...",
-    "views": 185,
+    "views": 189,
     "forwards": 3,
     "forwarded_from": {
       "name": "Azalea",
@@ -113059,7 +113059,7 @@
     "id": 8452,
     "date": "2026-05-20T07:21:52",
     "text": "所有软的地方都会刷新出睡睡小猫 <span class=\"spoiler\"><span>和它的毛</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 137,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
