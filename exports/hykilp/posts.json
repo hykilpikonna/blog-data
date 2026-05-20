@@ -86433,7 +86433,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 344,
+    "views": 345,
     "forwards": 5,
     "images": [
       {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2034,
+    "views": 2035,
     "forwards": 31
   },
   {
@@ -112009,7 +112009,7 @@
     "id": 8380,
     "date": "2026-05-06T05:13:26",
     "text": "获得了 方形喇叭的音响",
-    "views": 349,
+    "views": 350,
     "forwards": 0,
     "images": [
       {
@@ -112028,7 +112028,7 @@
     "id": 8381,
     "date": "2026-05-06T17:14:15",
     "text": "github 已经完全不能用了...\n\n今天想要审核一个 PR，首先是 clone 速度超级慢，然后尝试加 comment 的时候还 HTTP 422 了...",
-    "views": 353,
+    "views": 354,
     "forwards": 3,
     "media_group_id": 14224701246897629,
     "images": [
@@ -112058,7 +112058,7 @@
     "id": 8383,
     "date": "2026-05-07T05:33:00",
     "text": "又去买二手，沿路拍了一些照片\n\n这里感觉开四五分钟出去就一路全都是 <del>Windows XP 壁纸</del>，今天路上也没有很多车，好喜欢这种安静的乡下道路\n\n这次花了 $20 买了这个落地大音箱，回来测试了一下声音很不错，只不过... 卖家是个烟鬼，带回家之后车里身上手上全都是烟味 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 用白醋擦了表面，现在在车库里晾着\n\n以及卖家有一匹巨大狗狗，真的看上去比我还大，然后打开门的时候狗狗想跑出来，那位大叔直接把狗狗夹在两腿中间（算不算骑上去了我不知道）好奇妙... 感觉如果让我和这种狗狗打一架我完全会输 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 303,
+    "views": 304,
     "forwards": 1,
     "media_group_id": 14225055843041325,
     "images": [
@@ -112232,7 +112232,7 @@
     "id": 8395,
     "date": "2026-05-09T06:41:52",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n降落到了日本，认识了谦谦并且通过谦谦认识了很多其他的日本朋友（居然已经一年了！）\n\n感觉当时每天都很新鲜很动态，完全无法预测下一天会做什么经历什么发生什么。如果每天都可以继续这样难以预测就好了\n\n可惜自己是一个碳基大模型，拟合数据是无法控制的本能，经历过的事情都会变得可预测起来... 所以在现在平淡的日常中才格外珍惜那个时候的回忆，想要把当时漏掉的重新记录上 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n大概这里是这个回忆 tag 的起点 qwq",
-    "views": 356,
+    "views": 357,
     "forwards": 2,
     "reply": {
       "id": 5327,
@@ -112244,7 +112244,7 @@
     "id": 8397,
     "date": "2026-05-09T23:38:37",
     "text": "好想离开 github...",
-    "views": 342,
+    "views": 343,
     "forwards": 2,
     "reply": {
       "id": 8381,
@@ -112268,7 +112268,7 @@
     "id": 8398,
     "date": "2026-05-10T05:41:59",
     "text": "affinity 又崩溃 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 316,
+    "views": 317,
     "forwards": 1,
     "files": [
       {
@@ -112291,7 +112291,7 @@
     "id": 8399,
     "date": "2026-05-10T15:11:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n荞麦面！\n\n猫猫也爱吃",
-    "views": 312,
+    "views": 313,
     "forwards": 0,
     "media_group_id": 14227407187648189,
     "images": [
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 593,
+    "views": 595,
     "forwards": 9,
     "media_group_id": 14227451747839885,
     "images": [
@@ -112473,7 +112473,7 @@
     "id": 8416,
     "date": "2026-05-13T00:36:25",
     "text": "猫",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "media_group_id": 14229060685984493,
     "images": [
@@ -112533,7 +112533,7 @@
     "id": 8417,
     "date": "2026-05-13T01:03:22",
     "text": "发现我家猫猫喜欢吃草莓冰淇凌",
-    "views": 243,
+    "views": 244,
     "forwards": 0,
     "images": [
       {
@@ -112552,7 +112552,7 @@
     "id": 8418,
     "date": "2026-05-13T23:22:52",
     "text": "去 miku expo!",
-    "views": 224,
+    "views": 225,
     "forwards": 0,
     "media_group_id": 14229716582978997,
     "images": [
@@ -112602,7 +112602,7 @@
     "id": 8422,
     "date": "2026-05-14T04:12:35",
     "text": "有故事的车窗 🐾",
-    "views": 241,
+    "views": 242,
     "forwards": 3,
     "images": [
       {
@@ -112621,7 +112621,7 @@
     "id": 8423,
     "date": "2026-05-14T04:41:35",
     "text": "Miku Expo 好棒！\n\n好多超级喜欢听到跟着唱出来的歌（比如神っぽいな）也有很多没听过的歌（之前的演唱会都是基本上作者的所有曲子我都听过，但是毕竟ミク不是制作人，能听过所有ボカロ还是好难的）\n\n而且好多人都打扮成了 miku！还看到了很多 pjsk 角色！感觉像 pjsk 里面虚拟演出一样，大家都在演出之前给自己/豆腐换上喜欢的角色的皮肤 qwq（还有同样会变色的光棒\n\n第一次在一般的街上看到这么多 miku",
-    "views": 223,
+    "views": 224,
     "forwards": 3,
     "media_group_id": 14229869563599613,
     "images": [
@@ -112736,7 +112736,7 @@
     "id": 8433,
     "date": "2026-05-14T05:04:50",
     "text": "和 miku 共同演奏的乐队也好厉害！乐队成员介绍这段超燃！",
-    "views": 259,
+    "views": 260,
     "forwards": 0,
     "files": [
       {
@@ -112758,14 +112758,14 @@
     "id": 8434,
     "date": "2026-05-14T06:10:54",
     "text": "回到家了 腿好酸（蹦蹦跳跳两个小时会发生什么.jpg）",
-    "views": 244,
+    "views": 245,
     "forwards": 0
   },
   {
     "id": 8435,
     "date": "2026-05-15T02:29:33",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n工作的第一周，收到了上周度假的导师带回来的紅芋タルト\n\n也因为它知道了冲绳特产是什么、了解到了度假回来的人要给大家带おみやげ的习俗。当时肯定想不到几周之后我也会去冲绳然后带おみやげ回来  <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 250,
+    "views": 251,
     "forwards": 0,
     "reply": {
       "id": 5372,
@@ -112789,7 +112789,7 @@
     "id": 8436,
     "date": "2026-05-15T02:37:46",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n三文鱼丼 / poke bowl / 分解寿司\n\n好久没做这个了 qwq",
-    "views": 261,
+    "views": 263,
     "forwards": 0,
     "images": [
       {
@@ -112808,14 +112808,14 @@
     "id": 8437,
     "date": "2026-05-15T03:35:11",
     "text": "某 LLM 应用每个平台的「换行不发送」快捷键都不一样好讨厌...\n\nWindows Terminal 是 Ctrl+Enter\nLinux KDE Kitty 是 Alt+Enter\n网页上是 Shift+Enter\n\n而且这三个平台按错了都会直接把消息发出去 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 271,
+    "views": 274,
     "forwards": 2
   },
   {
     "id": 8438,
     "date": "2026-05-15T03:46:36",
     "text": "小猫好喜欢这套ミク衣服\n\n刚说完，它在上面睡着了",
-    "views": 233,
+    "views": 234,
     "forwards": 2,
     "media_group_id": 14230534374095989,
     "images": [
@@ -112845,7 +112845,7 @@
     "id": 8440,
     "date": "2026-05-15T15:43:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 240,
+    "views": 242,
     "forwards": 0,
     "reply": {
       "id": 8438,
@@ -112869,7 +112869,7 @@
     "id": 8441,
     "date": "2026-05-16T07:02:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n叉烧面！（室友做的叉烧，好厉害 qwq",
-    "views": 243,
+    "views": 245,
     "forwards": 0,
     "images": [
       {
@@ -112888,7 +112888,7 @@
     "id": 8442,
     "date": "2026-05-16T17:47:07",
     "text": "输入法脏了",
-    "views": 244,
+    "views": 245,
     "forwards": 2,
     "images": [
       {
@@ -112907,7 +112907,7 @@
     "id": 8443,
     "date": "2026-05-17T02:29:18",
     "text": "之前和 syama 连 vrchat 总是会想为什么冰箱里拿出来的食物是固体，反转也不会撒出来\n\n今天在现实中复现了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 233,
+    "views": 234,
     "forwards": 3,
     "media_group_id": 14231879668132773,
     "images": [
@@ -112947,7 +112947,7 @@
     "id": 8446,
     "date": "2026-05-18T00:24:48",
     "text": "选择恐惧症 be like...",
-    "views": 225,
+    "views": 226,
     "forwards": 2,
     "images": [
       {
@@ -112966,7 +112966,7 @@
     "id": 8447,
     "date": "2026-05-18T04:41:36",
     "text": "猫猫吃冰淇淋",
-    "views": 214,
+    "views": 216,
     "forwards": 1,
     "files": [
       {
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 218,
+    "views": 221,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113010,7 +113010,7 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 157,
+    "views": 163,
     "forwards": 2
   }
 ]
