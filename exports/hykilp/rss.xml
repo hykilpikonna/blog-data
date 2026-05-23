@@ -12,7 +12,23 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 23 May 2026 07:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:01:50 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #8479</title>
+      <link>https://aza.moe/life?post=8479</link>
+      <description>&lt;p&gt;修好了一个低音炮 &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;我原本去本地二手想收一个 BOSE Companion 3 Series II 低音炮，但是卖家想要插上线给我 demo 的时候发现它不响了，我说我可能会修就免费送我了&lt;/p&gt;
+&lt;p&gt;拿回来拆开，没有可见问题，没有短路，上电电压都正常，喇叭也是 2Ω，但是 line out 和 amp 都调到最大声音输出也只有 mV 级别（我怀疑是干扰）&lt;/p&gt;
+&lt;p&gt;然后找到原理图，打开示波器，电脑播放 200Hz 正弦波，插上电从喇叭一路向前戳。戳到 U951 p8 发现是有输出的，但是下一个点 U951 p12 没有... 然后在这两个电之间测连通性发现是 p8 和 R969 之间的铜 trace 断了，飞一根线过去修好了 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;太奇妙了，第一次见到 pcb 上的铜线能无故断开这种事... &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;然后因为太 hyperfocus 了原本打算做的菜没有做，结果到凌晨才想起来吃晚饭，吃了白米饭 + 咸菜 + 罐头&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8479</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #8478</title>
+      <link>https://aza.moe/life?post=8478</link>
+      <guid isPermaLink="false">8478</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #8477</title>
       <link>https://aza.moe/life?post=8477</link>
