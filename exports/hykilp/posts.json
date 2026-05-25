@@ -70666,7 +70666,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2814,
+    "views": 2815,
     "forwards": 29,
     "images": [
       {
@@ -70704,7 +70704,7 @@
     "id": 5114,
     "date": "2025-04-02T07:48:08",
     "text": "这个网页做得好安全，从弹窗里打开 devtools 完全找不到游戏的 js 代码... 脚本似乎是通过弹窗加载之后回调给主窗口然后主窗口注入进来的，奇妙\n\n弹窗里无论断点打在哪里都没办法暂停进 js 源码，因为这个窗口里没有源码，主窗口里有源码但是又没办法通过断点很方便地找到调用的地方... 这样反调试好聪明\n\n最后找到了存档位置（是 localStorage.ClickerGameStore）然后通过改存档通关了 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（以及发现 discord 客户端居然把 localStorage 全局变量删掉了... 确实能防止其他脚本读到 localStorage，私货好多啊",
-    "views": 295,
+    "views": 296,
     "forwards": 2,
     "reply": {
       "id": 5113,
@@ -83792,7 +83792,7 @@
     "id": 6125,
     "date": "2025-08-10T13:10:27",
     "text": "小狐狸！\n\n我：哇有小狐狸（一脚急刹车从 90 刹到 0）\n🦊：（躲进🌱里）\n我：盯——\n🦊：👀\n我：盯——\n🦊：👀\n我：盯——\n🦊：（钻出来，用头点点地板）\n好可爱 我死了\n\n可惜感觉在车道上喂小狐狸不太好，要是小狐狸觉得车车能给它食物到路上送死就不好了。",
-    "views": 274,
+    "views": 275,
     "forwards": 2,
     "media_group_id": 14038651420384293,
     "images": [
@@ -107419,7 +107419,7 @@
     "id": 8044,
     "date": "2026-03-19T05:34:11",
     "text": "配好 gitadora DM 了！好玩喵\n\n从二手店 $250 收了一套 td6 电子鼓，midi 接到电脑上，又收了一个显示器，设计了一个挂到天花板的挂钩，再把街机 hdd 和本地服务器跑起来，终于玩上 DM 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n马上就有可以吉他和鼓联动的完整 gitadora 配置了，虽然还有几个问题要解决...\n\n1. 现在没有第二台可以跑街机的电脑，所以没法同时跑 gf 和 dm... 打算在闲置的服务器上插两张显卡进行 pcie 穿透。2. 这个吊显示器方案会斜而且没办法矫正，想要重新设计。3. 现在选歌刷卡输密码要掏出物理大键盘，好麻烦\n\n明天再继续想怎么办好了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 313,
+    "views": 314,
     "forwards": 3,
     "media_group_id": 14191187613811525,
     "images": [
@@ -112966,7 +112966,7 @@
     "id": 8447,
     "date": "2026-05-18T04:41:36",
     "text": "猫猫吃冰淇淋",
-    "views": 290,
+    "views": 291,
     "forwards": 1,
     "files": [
       {
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 337,
+    "views": 338,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113010,14 +113010,14 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 301,
+    "views": 302,
     "forwards": 3
   },
   {
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 1134,
+    "views": 1137,
     "forwards": 14,
     "images": [
       {
@@ -113036,7 +113036,7 @@
     "id": 8451,
     "date": "2026-05-20T04:59:08",
     "text": "完 我更新到 Antigravity 2.0 然后 IDE 没了，只有 agent...",
-    "views": 277,
+    "views": 278,
     "forwards": 3,
     "forwarded_from": {
       "name": "Azalea",
@@ -113059,7 +113059,7 @@
     "id": 8452,
     "date": "2026-05-20T07:21:52",
     "text": "所有软的地方都会刷新出睡睡小猫 <span class=\"spoiler\"><span>和它的毛</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "images": [
       {
@@ -113078,7 +113078,7 @@
     "id": 8453,
     "date": "2026-05-20T21:20:27",
     "text": "猫草",
-    "views": 246,
+    "views": 247,
     "forwards": 2,
     "images": [
       {
@@ -113204,7 +113204,7 @@
     "id": 8461,
     "date": "2026-05-22T16:37:57",
     "text": "蒲公英季节",
-    "views": 192,
+    "views": 193,
     "forwards": 3,
     "media_group_id": 14235743019594813,
     "images": [
@@ -113264,7 +113264,7 @@
     "id": 8466,
     "date": "2026-05-22T16:39:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/1VNgZtVfD-4\">https://youtu.be/1VNgZtVfD-4</a>",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "reply": {
       "id": 8461,
@@ -113276,7 +113276,7 @@
     "id": 8467,
     "date": "2026-05-22T17:48:50",
     "text": "When life gives you dandelions",
-    "views": 198,
+    "views": 199,
     "forwards": 2,
     "media_group_id": 14235777045726061,
     "images": [
@@ -113509,7 +113509,7 @@
     "id": 8486,
     "date": "2026-05-23T15:15:53",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在 gitadora 上发现的这首曲子，觉得好好听想要收藏起来结果发现各大音乐平台上都找不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "files": [
       {
@@ -113530,7 +113530,7 @@
   {
     "id": 8487,
     "date": "2026-05-23T15:16:07",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "images": [
       {
@@ -113549,7 +113549,7 @@
     "id": 8488,
     "date": "2026-05-23T18:21:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n唐揚げ！",
-    "views": 165,
+    "views": 168,
     "forwards": 0,
     "media_group_id": 14236483987704117,
     "images": [
@@ -113599,7 +113599,7 @@
     "id": 8492,
     "date": "2026-05-23T21:48:30",
     "text": "猫 证件照",
-    "views": 162,
+    "views": 166,
     "forwards": 0,
     "images": [
       {
@@ -113618,7 +113618,7 @@
     "id": 8493,
     "date": "2026-05-23T23:00:59",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n第一次吃汤咖喱是在新宿的東京ドミニカ，然后就爱上汤咖喱了！\n\n这家店是某天川推荐的，在一个超级窄的楼的地下一层，入口堆满了纸箱，刚下去的时候还以为是走错了... 不过味道真的很不错。感觉日本好多很不错的餐馆都是这种特别小又在特别难找的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n以及看完电影回家的路上路过了歌舞伎町但是没有敢过去转转... 感觉不是很能一个人去转的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好希望有人能带我去<span class=\"spoiler\"><span>（感觉有很多想在日本玩的东西都是需要有人在我身边盯着我不上瘾的，比如 host club、弹珠机...）</span></span>",
-    "views": 161,
+    "views": 166,
     "forwards": 1,
     "media_group_id": 14236618075845325,
     "images": [
@@ -113663,7 +113663,7 @@
     "id": 8496,
     "date": "2026-05-24T22:03:43",
     "text": "猫猫追兔兔\n\n（没追到，不太聪明喵）",
-    "views": 96,
+    "views": 112,
     "forwards": 2,
     "media_group_id": 14237281791067189,
     "images": [
