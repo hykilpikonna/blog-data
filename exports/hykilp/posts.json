@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6574,
+    "views": 6575,
     "forwards": 152,
     "media_group_id": 13966976157341773,
     "images": [
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1838,
+    "views": 1839,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5017,
+    "views": 5018,
     "forwards": 29
   },
   {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2050,
+    "views": 2052,
     "forwards": 31
   },
   {
@@ -111774,7 +111774,7 @@
     "id": 8365,
     "date": "2026-05-02T18:45:58",
     "text": "坏掉的屏幕像星空 🌃",
-    "views": 316,
+    "views": 317,
     "forwards": 0,
     "media_group_id": 14221980469778677,
     "images": [
@@ -112058,7 +112058,7 @@
     "id": 8383,
     "date": "2026-05-07T05:33:00",
     "text": "又去买二手，沿路拍了一些照片\n\n这里感觉开四五分钟出去就一路全都是 <del>Windows XP 壁纸</del>，今天路上也没有很多车，好喜欢这种安静的乡下道路\n\n这次花了 $20 买了这个落地大音箱，回来测试了一下声音很不错，只不过... 卖家是个烟鬼，带回家之后车里身上手上全都是烟味 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 用白醋擦了表面，现在在车库里晾着\n\n以及卖家有一匹巨大狗狗，真的看上去比我还大，然后打开门的时候狗狗想跑出来，那位大叔直接把狗狗夹在两腿中间（算不算骑上去了我不知道）好奇妙... 感觉如果让我和这种狗狗打一架我完全会输 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 309,
+    "views": 310,
     "forwards": 1,
     "media_group_id": 14225055843041325,
     "images": [
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 644,
+    "views": 645,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -113509,7 +113509,7 @@
     "id": 8486,
     "date": "2026-05-23T15:15:53",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在 gitadora 上发现的这首曲子，觉得好好听想要收藏起来结果发现各大音乐平台上都找不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 1,
     "files": [
       {
@@ -113530,7 +113530,7 @@
   {
     "id": 8487,
     "date": "2026-05-23T15:16:07",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "images": [
       {
@@ -113549,7 +113549,7 @@
     "id": 8488,
     "date": "2026-05-23T18:21:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n唐揚げ！",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "media_group_id": 14236483987704117,
     "images": [
@@ -113599,7 +113599,7 @@
     "id": 8492,
     "date": "2026-05-23T21:48:30",
     "text": "猫 证件照",
-    "views": 167,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
@@ -113618,7 +113618,7 @@
     "id": 8493,
     "date": "2026-05-23T23:00:59",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n第一次吃汤咖喱是在新宿的東京ドミニカ，然后就爱上汤咖喱了！\n\n这家店是某天川推荐的，在一个超级窄的楼的地下一层，入口堆满了纸箱，刚下去的时候还以为是走错了... 不过味道真的很不错。感觉日本好多很不错的餐馆都是这种特别小又在特别难找的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n以及看完电影回家的路上路过了歌舞伎町但是没有敢过去转转... 感觉不是很能一个人去转的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好希望有人能带我去<span class=\"spoiler\"><span>（感觉有很多想在日本玩的东西都是需要有人在我身边盯着我不上瘾的，比如 host club、弹珠机...）</span></span>",
-    "views": 167,
+    "views": 169,
     "forwards": 1,
     "media_group_id": 14236618075845325,
     "images": [
@@ -113663,7 +113663,7 @@
     "id": 8496,
     "date": "2026-05-24T22:03:43",
     "text": "猫猫追兔兔\n\n（没追到，不太聪明喵）",
-    "views": 117,
+    "views": 123,
     "forwards": 2,
     "media_group_id": 14237281791067189,
     "images": [
