@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6576,
+    "views": 6577,
     "forwards": 152,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8619,
+    "views": 8620,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1840,
+    "views": 1841,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -111421,7 +111421,7 @@
     "id": 8340,
     "date": "2026-04-29T06:32:12",
     "text": "好羡慕这样的老师\n\n我觉得也是这样，感觉现在的开发者太重视效率了... 用 AI 达到 5x 10x 效率的过程中失去的是什么呢",
-    "views": 341,
+    "views": 342,
     "forwards": 3,
     "reply": {
       "id": 8339,
@@ -112888,7 +112888,7 @@
     "id": 8442,
     "date": "2026-05-16T17:47:07",
     "text": "输入法脏了",
-    "views": 314,
+    "views": 315,
     "forwards": 2,
     "images": [
       {
@@ -112947,7 +112947,7 @@
     "id": 8446,
     "date": "2026-05-18T00:24:48",
     "text": "选择恐惧症 be like...",
-    "views": 300,
+    "views": 301,
     "forwards": 2,
     "images": [
       {
@@ -112966,7 +112966,7 @@
     "id": 8447,
     "date": "2026-05-18T04:41:36",
     "text": "猫猫吃冰淇淋",
-    "views": 294,
+    "views": 295,
     "forwards": 1,
     "files": [
       {
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 341,
+    "views": 343,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113010,14 +113010,14 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 305,
+    "views": 306,
     "forwards": 3
   },
   {
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 1145,
+    "views": 1147,
     "forwards": 14,
     "images": [
       {
@@ -113036,7 +113036,7 @@
     "id": 8451,
     "date": "2026-05-20T04:59:08",
     "text": "完 我更新到 Antigravity 2.0 然后 IDE 没了，只有 agent...",
-    "views": 281,
+    "views": 282,
     "forwards": 3,
     "forwarded_from": {
       "name": "Azalea",
@@ -113059,7 +113059,7 @@
     "id": 8452,
     "date": "2026-05-20T07:21:52",
     "text": "所有软的地方都会刷新出睡睡小猫 <span class=\"spoiler\"><span>和它的毛</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "images": [
       {
@@ -113078,7 +113078,7 @@
     "id": 8453,
     "date": "2026-05-20T21:20:27",
     "text": "猫草",
-    "views": 251,
+    "views": 252,
     "forwards": 2,
     "images": [
       {
@@ -113097,7 +113097,7 @@
     "id": 8454,
     "date": "2026-05-21T01:31:26",
     "text": "猫穿拖鞋",
-    "views": 271,
+    "views": 272,
     "forwards": 2,
     "media_group_id": 14234616688821181,
     "images": [
@@ -113127,7 +113127,7 @@
     "id": 8456,
     "date": "2026-05-21T05:06:33",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n下班的路上被东京塔吸引走到很近的地方拍了照片！好看的 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n以及当时最喜欢的工作午餐是某蓝色便利店的大鲑饭团 🍙 可惜不久之后就下架了",
-    "views": 240,
+    "views": 241,
     "forwards": 2,
     "media_group_id": 14234719946624717,
     "images": [
@@ -113182,7 +113182,7 @@
     "id": 8460,
     "date": "2026-05-22T15:23:52",
     "text": "在门口发现的知更鸟窝…",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -113204,7 +113204,7 @@
     "id": 8461,
     "date": "2026-05-22T16:37:57",
     "text": "蒲公英季节",
-    "views": 196,
+    "views": 197,
     "forwards": 3,
     "media_group_id": 14235743019594813,
     "images": [
@@ -113264,7 +113264,7 @@
     "id": 8466,
     "date": "2026-05-22T16:39:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/1VNgZtVfD-4\">https://youtu.be/1VNgZtVfD-4</a>",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "reply": {
       "id": 8461,
@@ -113276,7 +113276,7 @@
     "id": 8467,
     "date": "2026-05-22T17:48:50",
     "text": "When life gives you dandelions",
-    "views": 202,
+    "views": 203,
     "forwards": 2,
     "media_group_id": 14235777045726061,
     "images": [
@@ -113386,7 +113386,7 @@
     "id": 8477,
     "date": "2026-05-22T21:05:03",
     "text": "最后一个没有按 token 长度限制用量的订阅服务也沦陷了...",
-    "views": 207,
+    "views": 208,
     "forwards": 0,
     "reply": {
       "id": 8450,
@@ -113408,7 +113408,7 @@
   {
     "id": 8478,
     "date": "2026-05-23T08:10:02",
-    "views": 179,
+    "views": 180,
     "forwards": 0,
     "files": [
       {
@@ -113429,7 +113429,7 @@
     "id": 8479,
     "date": "2026-05-23T08:21:12",
     "text": "修好了一个低音炮 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n我原本去本地二手想收一个 BOSE Companion 3 Series II 低音炮，但是卖家想要插上线给我 demo 的时候发现它不响了，我说我可能会修就免费送我了\n\n拿回来拆开，没有可见问题，没有短路，上电电压都正常，喇叭也是 2Ω，但是 line out 和 amp 都调到最大声音输出也只有 mV 级别（我怀疑是干扰）\n\n然后找到原理图，打开示波器，电脑播放 200Hz 正弦波，插上电从喇叭一路向前戳。戳到 U951 p8 发现是有输出的，但是下一个点 U951 p12 没有... 然后在这两个电之间测连通性发现是 p8 和 R969 之间的铜 trace 断了，飞一根线过去修好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n太奇妙了，第一次见到 pcb 上的铜线能无故断开这种事... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<span class=\"spoiler\"><span>然后因为太 hyperfocus 了原本打算做的菜没有做，结果到凌晨才想起来吃晚饭，吃了白米饭 + 咸菜 + 罐头</span></span>",
-    "views": 178,
+    "views": 179,
     "forwards": 1,
     "media_group_id": 14236195776904485,
     "images": [
@@ -113509,7 +113509,7 @@
     "id": 8486,
     "date": "2026-05-23T15:15:53",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在 gitadora 上发现的这首曲子，觉得好好听想要收藏起来结果发现各大音乐平台上都找不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "files": [
       {
@@ -113530,7 +113530,7 @@
   {
     "id": 8487,
     "date": "2026-05-23T15:16:07",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "images": [
       {
@@ -113549,7 +113549,7 @@
     "id": 8488,
     "date": "2026-05-23T18:21:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n唐揚げ！",
-    "views": 172,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14236483987704117,
     "images": [
@@ -113599,7 +113599,7 @@
     "id": 8492,
     "date": "2026-05-23T21:48:30",
     "text": "猫 证件照",
-    "views": 171,
+    "views": 173,
     "forwards": 0,
     "images": [
       {
@@ -113618,7 +113618,7 @@
     "id": 8493,
     "date": "2026-05-23T23:00:59",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n第一次吃汤咖喱是在新宿的東京ドミニカ，然后就爱上汤咖喱了！\n\n这家店是某天川推荐的，在一个超级窄的楼的地下一层，入口堆满了纸箱，刚下去的时候还以为是走错了... 不过味道真的很不错。感觉日本好多很不错的餐馆都是这种特别小又在特别难找的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n以及看完电影回家的路上路过了歌舞伎町但是没有敢过去转转... 感觉不是很能一个人去转的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好希望有人能带我去<span class=\"spoiler\"><span>（感觉有很多想在日本玩的东西都是需要有人在我身边盯着我不上瘾的，比如 host club、弹珠机...）</span></span>",
-    "views": 172,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 14236618075845325,
     "images": [
@@ -113663,7 +113663,7 @@
     "id": 8496,
     "date": "2026-05-24T22:03:43",
     "text": "猫猫追兔兔\n\n（没追到，不太聪明喵）",
-    "views": 131,
+    "views": 136,
     "forwards": 2,
     "media_group_id": 14237281791067189,
     "images": [
