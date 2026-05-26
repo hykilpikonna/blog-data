@@ -104076,7 +104076,7 @@
     "id": 7778,
     "date": "2026-01-31T19:16:58",
     "text": "因为去年毕业了，现在 UofT 邮箱马上就要被删掉了，想要备份一下，结果研究了三个小时才备份好...\n\n首先试了 Outlook 客户端，但是学校把已经毕业的人的客户端许可撤掉了所以登不进去，网页版能登录但是不能导出\n\n然后试了 MailStore Home，发现不支持 OAuth 登录。想要用旧方法创建一个应用密码登录，但是发现学校设置禁止了，所以就完全没法登录\n\n然后试了 ThunderBird，完全没有备份的选项，也没办法下载所有附件\n\n然后试了自搭 OpenArchiver，发现入门体验非常差，按文档启动起来第一次打开前端就是一个管理员登录界面也没有地方让我设置账号密码，试了一下默认密码告诉我没法连接到后端\n\n然后试了 eM Client，支持 OAuth 但是登不进去因为学校开了白名单，它没有在 OAuth 应用白名单上所以禁止登录\n\n最后还是，开了一个 MS365 Dev Program 给自己 Outlook 桌面版许可再登录账号导出了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 好累好累",
-    "views": 278,
+    "views": 279,
     "forwards": 1,
     "media_group_id": 14159096147603869,
     "images": [
@@ -104165,7 +104165,7 @@
   {
     "id": 7785,
     "date": "2026-02-01T09:39:51",
-    "views": 287,
+    "views": 288,
     "forwards": 0,
     "files": [
       {
@@ -104179,7 +104179,7 @@
     "id": 7786,
     "date": "2026-02-01T13:19:18",
     "text": "进行了一次来回 7h 500km 说走就走的看星星旅行！\n\n昨天在 persona 5 里面玩到了大家去池袋满天 planetarium 看星星的剧情，让我也好想看星星了。看了一眼窗外发现今天居然正好没有云，是一两个月都难得一次的完全晴天...\n\n但是窗外却没有看到很多星星，觉得是不是这里光污染太亮了，就查了一下哪里光污染最小，把一些可能在紧急情况用上的生存储备放进后备箱就出发了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n开车三个小时到了之后发现也并没有看到银河，星星也只能看到比较亮的... 下车看到自己的影子才发现，原来今天正好是一个月里月亮最圆最亮的时候，即使到了没有光污染的地方月亮本身的光污染也会让我看不到星星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n然后问了流浪猫，才知道原来冬天即使没有光污染没有云没有月亮也看不到银河，因为在地球对面... 好好笑。不过也不后悔啦，没看到星星也挺有趣的 qwq\n\n（以及真的感谢聊聊愿意跟我一起说走就走... 回程的时候我已经开着车睡着了，如果不是聊聊喊了一下以及帮我开后半程的话我应该已经撞进雪里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 呜呜）",
-    "views": 300,
+    "views": 301,
     "forwards": 3,
     "media_group_id": 14159615671304589,
     "images": [
@@ -109237,7 +109237,7 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 413,
+    "views": 414,
     "forwards": 5,
     "images": [
       {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2055,
+    "views": 2057,
     "forwards": 31
   },
   {
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 648,
+    "views": 649,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 353,
+    "views": 354,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113010,14 +113010,14 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 318,
+    "views": 319,
     "forwards": 3
   },
   {
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 1166,
+    "views": 1167,
     "forwards": 14,
     "images": [
       {
@@ -113429,7 +113429,7 @@
     "id": 8479,
     "date": "2026-05-23T08:21:12",
     "text": "修好了一个低音炮 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n我原本去本地二手想收一个 BOSE Companion 3 Series II 低音炮，但是卖家想要插上线给我 demo 的时候发现它不响了，我说我可能会修就免费送我了\n\n拿回来拆开，没有可见问题，没有短路，上电电压都正常，喇叭也是 2Ω，但是 line out 和 amp 都调到最大声音输出也只有 mV 级别（我怀疑是干扰）\n\n然后找到原理图，打开示波器，电脑播放 200Hz 正弦波，插上电从喇叭一路向前戳。戳到 U951 p8 发现是有输出的，但是下一个点 U951 p12 没有... 然后在这两个电之间测连通性发现是 p8 和 R969 之间的铜 trace 断了，飞一根线过去修好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n太奇妙了，第一次见到 pcb 上的铜线能无故断开这种事... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<span class=\"spoiler\"><span>然后因为太 hyperfocus 了原本打算做的菜没有做，结果到凌晨才想起来吃晚饭，吃了白米饭 + 咸菜 + 罐头</span></span>",
-    "views": 189,
+    "views": 190,
     "forwards": 1,
     "media_group_id": 14236195776904485,
     "images": [
@@ -113509,7 +113509,7 @@
     "id": 8486,
     "date": "2026-05-23T15:15:53",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在 gitadora 上发现的这首曲子，觉得好好听想要收藏起来结果发现各大音乐平台上都找不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "files": [
       {
@@ -113530,7 +113530,7 @@
   {
     "id": 8487,
     "date": "2026-05-23T15:16:07",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "images": [
       {
@@ -113549,7 +113549,7 @@
     "id": 8488,
     "date": "2026-05-23T18:21:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n唐揚げ！",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "media_group_id": 14236483987704117,
     "images": [
@@ -113663,7 +113663,7 @@
     "id": 8496,
     "date": "2026-05-24T22:03:43",
     "text": "猫猫追兔兔\n\n（没追到，不太聪明喵）",
-    "views": 176,
+    "views": 178,
     "forwards": 2,
     "media_group_id": 14237281791067189,
     "images": [
@@ -113703,7 +113703,7 @@
     "id": 8499,
     "date": "2026-05-25T17:07:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n〆さば寿司！\n\n<del>服务器寿司</del>\n\n在日本吃过的寿司里面最喜欢的就是さば了，可惜这边好难买到，超市里卖的青花鱼也都不是生食级别... 不过前几天找到了一个供货商终于做出来了！",
-    "views": 146,
+    "views": 150,
     "forwards": 0,
     "media_group_id": 14237830708822909,
     "images": [
@@ -113763,7 +113763,7 @@
     "id": 8504,
     "date": "2026-05-25T19:01:52",
     "text": "谷歌：3.5-flash 很聪明哦！\n3.5-flash：",
-    "views": 147,
+    "views": 151,
     "forwards": 1,
     "reply": {
       "id": 8450,
@@ -113786,7 +113786,7 @@
     "id": 8505,
     "date": "2026-05-25T20:09:04",
     "text": "Workaround: Please count the listed static routes in the table. <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 107,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
