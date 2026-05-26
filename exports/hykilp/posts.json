@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 646,
+    "views": 647,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -113017,7 +113017,7 @@
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 1161,
+    "views": 1162,
     "forwards": 14,
     "images": [
       {
@@ -113036,7 +113036,7 @@
     "id": 8451,
     "date": "2026-05-20T04:59:08",
     "text": "完 我更新到 Antigravity 2.0 然后 IDE 没了，只有 agent...",
-    "views": 293,
+    "views": 294,
     "forwards": 3,
     "forwarded_from": {
       "name": "Azalea",
@@ -113182,7 +113182,7 @@
     "id": 8460,
     "date": "2026-05-22T15:23:52",
     "text": "在门口发现的知更鸟窝…",
-    "views": 191,
+    "views": 192,
     "forwards": 1,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -113204,7 +113204,7 @@
     "id": 8461,
     "date": "2026-05-22T16:37:57",
     "text": "蒲公英季节",
-    "views": 205,
+    "views": 206,
     "forwards": 3,
     "media_group_id": 14235743019594813,
     "images": [
@@ -113264,7 +113264,7 @@
     "id": 8466,
     "date": "2026-05-22T16:39:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/1VNgZtVfD-4\">https://youtu.be/1VNgZtVfD-4</a>",
-    "views": 205,
+    "views": 206,
     "forwards": 0,
     "reply": {
       "id": 8461,
@@ -113276,7 +113276,7 @@
     "id": 8467,
     "date": "2026-05-22T17:48:50",
     "text": "When life gives you dandelions",
-    "views": 210,
+    "views": 211,
     "forwards": 2,
     "media_group_id": 14235777045726061,
     "images": [
@@ -113386,7 +113386,7 @@
     "id": 8477,
     "date": "2026-05-22T21:05:03",
     "text": "最后一个没有按 token 长度限制用量的订阅服务也沦陷了...",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "reply": {
       "id": 8450,
@@ -113408,7 +113408,7 @@
   {
     "id": 8478,
     "date": "2026-05-23T08:10:02",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "files": [
       {
@@ -113429,7 +113429,7 @@
     "id": 8479,
     "date": "2026-05-23T08:21:12",
     "text": "修好了一个低音炮 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n我原本去本地二手想收一个 BOSE Companion 3 Series II 低音炮，但是卖家想要插上线给我 demo 的时候发现它不响了，我说我可能会修就免费送我了\n\n拿回来拆开，没有可见问题，没有短路，上电电压都正常，喇叭也是 2Ω，但是 line out 和 amp 都调到最大声音输出也只有 mV 级别（我怀疑是干扰）\n\n然后找到原理图，打开示波器，电脑播放 200Hz 正弦波，插上电从喇叭一路向前戳。戳到 U951 p8 发现是有输出的，但是下一个点 U951 p12 没有... 然后在这两个电之间测连通性发现是 p8 和 R969 之间的铜 trace 断了，飞一根线过去修好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n太奇妙了，第一次见到 pcb 上的铜线能无故断开这种事... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<span class=\"spoiler\"><span>然后因为太 hyperfocus 了原本打算做的菜没有做，结果到凌晨才想起来吃晚饭，吃了白米饭 + 咸菜 + 罐头</span></span>",
-    "views": 187,
+    "views": 188,
     "forwards": 1,
     "media_group_id": 14236195776904485,
     "images": [
@@ -113509,7 +113509,7 @@
     "id": 8486,
     "date": "2026-05-23T15:15:53",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在 gitadora 上发现的这首曲子，觉得好好听想要收藏起来结果发现各大音乐平台上都找不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 187,
+    "views": 189,
     "forwards": 1,
     "files": [
       {
@@ -113530,7 +113530,7 @@
   {
     "id": 8487,
     "date": "2026-05-23T15:16:07",
-    "views": 189,
+    "views": 191,
     "forwards": 1,
     "images": [
       {
@@ -113549,7 +113549,7 @@
     "id": 8488,
     "date": "2026-05-23T18:21:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n唐揚げ！",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "media_group_id": 14236483987704117,
     "images": [
@@ -113599,7 +113599,7 @@
     "id": 8492,
     "date": "2026-05-23T21:48:30",
     "text": "猫 证件照",
-    "views": 185,
+    "views": 187,
     "forwards": 0,
     "images": [
       {
@@ -113618,7 +113618,7 @@
     "id": 8493,
     "date": "2026-05-23T23:00:59",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n第一次吃汤咖喱是在新宿的東京ドミニカ，然后就爱上汤咖喱了！\n\n这家店是某天川推荐的，在一个超级窄的楼的地下一层，入口堆满了纸箱，刚下去的时候还以为是走错了... 不过味道真的很不错。感觉日本好多很不错的餐馆都是这种特别小又在特别难找的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n以及看完电影回家的路上路过了歌舞伎町但是没有敢过去转转... 感觉不是很能一个人去转的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好希望有人能带我去<span class=\"spoiler\"><span>（感觉有很多想在日本玩的东西都是需要有人在我身边盯着我不上瘾的，比如 host club、弹珠机...）</span></span>",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "media_group_id": 14236618075845325,
     "images": [
@@ -113663,7 +113663,7 @@
     "id": 8496,
     "date": "2026-05-24T22:03:43",
     "text": "猫猫追兔兔\n\n（没追到，不太聪明喵）",
-    "views": 169,
+    "views": 171,
     "forwards": 2,
     "media_group_id": 14237281791067189,
     "images": [
@@ -113703,7 +113703,7 @@
     "id": 8499,
     "date": "2026-05-25T17:07:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n〆さば寿司！\n\n<del>服务器寿司</del>\n\n在日本吃过的寿司里面最喜欢的就是さば了，可惜这边好难买到，超市里卖的青花鱼也都不是生食级别... 不过前几天找到了一个供货商终于做出来了！",
-    "views": 121,
+    "views": 134,
     "forwards": 0,
     "media_group_id": 14237830708822909,
     "images": [
@@ -113763,7 +113763,7 @@
     "id": 8504,
     "date": "2026-05-25T19:01:52",
     "text": "谷歌：3.5-flash 很聪明哦！\n3.5-flash：",
-    "views": 98,
+    "views": 123,
     "forwards": 1,
     "reply": {
       "id": 8450,
@@ -113786,7 +113786,7 @@
     "id": 8505,
     "date": "2026-05-25T20:09:04",
     "text": "Workaround: Please count the listed static routes in the table. <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 65,
+    "views": 86,
     "forwards": 0,
     "images": [
       {
