@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5813,
+    "views": 5814,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -106187,14 +106187,14 @@
   {
     "id": 7952,
     "date": "2026-02-26T14:25:05",
-    "views": 334,
+    "views": 335,
     "forwards": 4
   },
   {
     "id": 7953,
     "date": "2026-02-26T23:33:07",
     "text": "呜呜 好像触发了 DMCA review... 不懂，可能是因为之前在频道和 blog 里上传过这些照片所以可能被检测到「在其他地方出现过」了吧\n\n要等人工审核了\n\nEDIT: 恢复了",
-    "views": 328,
+    "views": 329,
     "forwards": 1,
     "reply": {
       "id": 7952
@@ -106216,7 +106216,7 @@
     "id": 7954,
     "date": "2026-02-27T02:57:45",
     "text": "仔细研究了一下 unsplash，感觉和我对这个平台的第一印象很不一样...\n\n原本以为是一个摄影社区自己做的免费共享网站，查了一下发现实际上是付费图库大公司 Getty Images 旗下的网站，同样在它旗下的还有 iStock 和 <code>photos.com</code>\n\n原本以为整个平台都是非营利的，实际上只有自己上传的照片是非营利，平台却有 $16/mo 的会员选项，而且即使付费会员下载你的照片也不会有收益\n\n那怎么获得收益呢？答案是加入他们的<a href=\"https://peterorsel.com/why-you-should-not-contribute-to-unsplash-plus/\">摄影外包团队</a>。网站说着创意和热爱，实际上是像外包接单一样的，他们分析会员用户想要什么，给你提内容要求 prompt 和价格（按难度通常是 $5~30）你去按要求拍，然后拍出来的照片只有会员可以下载，只有他们有独家贩卖权利... 不懂，摄影师是什么低价人肉 txt2img 模型吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n有点好奇申请需要什么，然后发现目前提交申请的渠道还关闭了...\n\n不知道怎么看... 虽然很想要免费分享/归档自己的照片，但是还是更不想被这种坏资本家利用，所以觉得可能还是不用 unsplash 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 310,
+    "views": 311,
     "forwards": 2,
     "media_group_id": 14177288519849069,
     "images": [
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 650,
+    "views": 651,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -112907,7 +112907,7 @@
     "id": 8443,
     "date": "2026-05-17T02:29:18",
     "text": "之前和 syama 连 vrchat 总是会想为什么冰箱里拿出来的食物是固体，反转也不会撒出来\n\n今天在现实中复现了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 290,
+    "views": 291,
     "forwards": 3,
     "media_group_id": 14231879668132773,
     "images": [
