@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7521,
+    "views": 7522,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 654,
+    "views": 656,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -113429,7 +113429,7 @@
     "id": 8479,
     "date": "2026-05-23T08:21:12",
     "text": "修好了一个低音炮 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n我原本去本地二手想收一个 BOSE Companion 3 Series II 低音炮，但是卖家想要插上线给我 demo 的时候发现它不响了，我说我可能会修就免费送我了\n\n拿回来拆开，没有可见问题，没有短路，上电电压都正常，喇叭也是 2Ω，但是 line out 和 amp 都调到最大声音输出也只有 mV 级别（我怀疑是干扰）\n\n然后找到原理图，打开示波器，电脑播放 200Hz 正弦波，插上电从喇叭一路向前戳。戳到 U951 p8 发现是有输出的，但是下一个点 U951 p12 没有... 然后在这两个电之间测连通性发现是 p8 和 R969 之间的铜 trace 断了，飞一根线过去修好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n太奇妙了，第一次见到 pcb 上的铜线能无故断开这种事... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<span class=\"spoiler\"><span>然后因为太 hyperfocus 了原本打算做的菜没有做，结果到凌晨才想起来吃晚饭，吃了白米饭 + 咸菜 + 罐头</span></span>",
-    "views": 196,
+    "views": 197,
     "forwards": 1,
     "media_group_id": 14236195776904485,
     "images": [
@@ -113509,7 +113509,7 @@
     "id": 8486,
     "date": "2026-05-23T15:15:53",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在 gitadora 上发现的这首曲子，觉得好好听想要收藏起来结果发现各大音乐平台上都找不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 199,
+    "views": 200,
     "forwards": 2,
     "files": [
       {
@@ -113530,7 +113530,7 @@
   {
     "id": 8487,
     "date": "2026-05-23T15:16:07",
-    "views": 201,
+    "views": 202,
     "forwards": 1,
     "images": [
       {
@@ -113549,7 +113549,7 @@
     "id": 8488,
     "date": "2026-05-23T18:21:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n唐揚げ！",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14236483987704117,
     "images": [
@@ -113599,7 +113599,7 @@
     "id": 8492,
     "date": "2026-05-23T21:48:30",
     "text": "猫 证件照",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "images": [
       {
@@ -113703,7 +113703,7 @@
     "id": 8499,
     "date": "2026-05-25T17:07:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n〆さば寿司！\n\n<del>服务器寿司</del>\n\n在日本吃过的寿司里面最喜欢的就是さば了，可惜这边好难买到，超市里卖的青花鱼也都不是生食级别... 不过前几天找到了一个供货商终于做出来了！",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 14237830708822909,
     "images": [
@@ -113763,7 +113763,7 @@
     "id": 8504,
     "date": "2026-05-25T19:01:52",
     "text": "谷歌：3.5-flash 很聪明哦！\n3.5-flash：",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "reply": {
       "id": 8450,
@@ -113786,7 +113786,7 @@
     "id": 8505,
     "date": "2026-05-25T20:09:04",
     "text": "Workaround: Please count the listed static routes in the table. <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "images": [
       {
@@ -113805,7 +113805,7 @@
     "id": 8506,
     "date": "2026-05-28T01:59:06",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n想起当时在公司吃完午饭之后会在公司后院散步、背日语单词。感觉散步是重置心情的事情，每天出门走走就会很开心，好想捡回这个习惯\n\n不过当然这是还没有进入酷暑之前... 七八月在东京就真的完全不想出门了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
-    "views": 96,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 14239468372599085,
     "images": [
