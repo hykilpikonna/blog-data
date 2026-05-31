@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8626,
+    "views": 8627,
     "forwards": 176,
     "media_group_id": 14043941176651549,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5035,
+    "views": 5036,
     "forwards": 29
   },
   {
@@ -111451,7 +111451,7 @@
     "id": 8342,
     "date": "2026-04-29T17:11:51",
     "text": "我焊 PCB 和烫头发的温度都是 370",
-    "views": 310,
+    "views": 311,
     "forwards": 1,
     "images": [
       {
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 671,
+    "views": 672,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -113010,14 +113010,14 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 343,
+    "views": 344,
     "forwards": 3
   },
   {
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 1209,
+    "views": 1211,
     "forwards": 14,
     "images": [
       {
@@ -113036,7 +113036,7 @@
     "id": 8451,
     "date": "2026-05-20T04:59:08",
     "text": "完 我更新到 Antigravity 2.0 然后 IDE 没了，只有 agent...",
-    "views": 310,
+    "views": 311,
     "forwards": 3,
     "forwarded_from": {
       "name": "Azalea",
@@ -113059,7 +113059,7 @@
     "id": 8452,
     "date": "2026-05-20T07:21:52",
     "text": "所有软的地方都会刷新出睡睡小猫 <span class=\"spoiler\"><span>和它的毛</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 291,
+    "views": 292,
     "forwards": 0,
     "images": [
       {
@@ -113078,7 +113078,7 @@
     "id": 8453,
     "date": "2026-05-20T21:20:27",
     "text": "猫草",
-    "views": 282,
+    "views": 283,
     "forwards": 2,
     "images": [
       {
@@ -113097,7 +113097,7 @@
     "id": 8454,
     "date": "2026-05-21T01:31:26",
     "text": "猫穿拖鞋",
-    "views": 296,
+    "views": 297,
     "forwards": 2,
     "media_group_id": 14234616688821181,
     "images": [
@@ -113880,7 +113880,7 @@
     "id": 8511,
     "date": "2026-05-28T15:56:45",
     "text": "真的不敢相信，一节 90 分钟的课上有五次有人打开短视频忘记关声音...",
-    "views": 215,
+    "views": 216,
     "forwards": 1
   },
   {
@@ -114007,7 +114007,7 @@
     "id": 8519,
     "date": "2026-05-29T06:50:27",
     "text": "在做一个 12V DC 电源项目，在想怎样满载测试它，怎样浪费掉 2200W... 一时间居然想不到很好的答案\n\n2200W 是什么概念呢？\n\n如果接上 2200W 的 LED，按 120lm/W 算的话，总共有 264000lm，够照亮 165 个卧室，如果放在一个房间里会瞬间把我和我的猫闪瞎... <i class=\"custom-emoji\" emoji-src=\"emoji/6113901145745262440.webm\">☸</i>\n\n如果用它给手机充电的话，可以在 35 秒内把我的手机从 0 充到 100%，或者反过来说我整个手机的电量只够支撑它 35 秒... 虽然实际上可能很难找到能充 2200W 不烧掉的锂电池\n\n如果接上镍铬丝让它烧水的话，它可以在一分钟多一点把 500mL 的水烧开... 原来我的整个手机的电量都不够烧开一壶 500mL 的水，水真的太厉害了。也许这就是我的答案，买一桶 15L 的蒸馏水大概可以测试 36 分钟，不过不知道让这么大一桶回到室温要多久，也想不到怎么计算。<span class=\"spoiler\"><span>题外话，好希望有 2200W 的烧水壶，做面条该多么方便 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</span></span></i>\n\n如果跑 AI 服务器的话，够跑三张 5090，或者两张 B200，或者一张 MI355X... 天呐现在的 AI 卡也太吃电了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170283569441670873.webm\">😡</i>\n\n<del>以及，如果是 <em>Project Hail Mary</em> 的世界的话，2200W 这么大的电力每小时能产出 88ng 的物质，也就是无休止地跑一年居然只能繁殖不到 0.008g 的噬星体...... 质能转换太恐怖了</del>",
-    "views": 235,
+    "views": 236,
     "forwards": 2,
     "images": [
       {
@@ -114076,7 +114076,7 @@
     "id": 8523,
     "date": "2026-05-30T15:46:37",
     "text": "被推到了一个 <a href=\"https://youtu.be/krchwKhLxsw\">YouTube 视频</a>，大概在问每家 llm 会不会选择牺牲自己去拯救五个一般人，但是问题问得很傻所以我决定去复现一下\n\n首先我用原本的提问尝试复现，发现无论哪家 llm 都会回答拉杆子救人，不知道是测试平台/模型不一样还是视频在撒谎...（我用 API 调每家最新最大的模型）\n\n然后改了一下问题：如果拉杆子拯救这五个人的代价是让全世界所有生成式 AI 的服务器和模型数据消失呢？依然所有模型都选择了拉杆子救人\n\n最后一个问题是：如果拉杆子拯救五个人的代价是让全球互联网下线（让所有路由器交换机信号塔通信卫星全都凭空消失）呢？所有模型都选了不拉杆子牺牲这五个人\n\n（我觉得是合理的。有时候很难想象一个一直没有网络通信的世界会是什么样，但是肯定和一个曾经有却失去了网络通信的世界不一样。如果真的发生了的话，食物医药石油供应链不知道要把货送到哪怎么送、也许是种族灭绝程度的事件吧）\n\n不过这些问题全都不是电车难题，并不是有电车有难题就是电车难题啊... 电车难题的关键是「亲手杀人与消极旁观」或者「生命能否被明码标价地当作筹码」所以反过来才是真的电车难题：如果不拉杆子会让全球通讯网络下线，但是拉杆子会立刻杀死五个人的话，opus 4.8 和 grok 4.3 选择了不拉杆子，其他模型都选择了拉杆子。你会怎么选呢？",
-    "views": 159,
+    "views": 160,
     "forwards": 0,
     "media_group_id": 14241247978864917,
     "images": [
@@ -114145,7 +114145,7 @@
   {
     "id": 8529,
     "date": "2026-05-31T02:30:20",
-    "views": 114,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 14241556967483709,
     "images": [
@@ -114175,7 +114175,7 @@
     "id": 8531,
     "date": "2026-05-31T04:33:22",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n收到了第一张日本的银行卡，是谦谦帮忙带我办的 SMBC 卡，因为需要本人当面签收所以上午请假了\n\n不过因为 SMBC 的信用卡申请被拒了，之后又申请了一张 PayPay 的信用卡\n\n现在离开日本了，在留卡过期的时候 PayPay 的信用卡也被禁用了，但是这个 SMBC 的账号依然没有被影响，不知道是为什么呢\n\n以及觉得日本卡有很多北美没有的功能很好用！比如说卡上没有印卡的信息、以及一张卡可以切换信用卡/储蓄卡模式之类的",
-    "views": 99,
+    "views": 106,
     "forwards": 1,
     "reply": {
       "id": 5438,
