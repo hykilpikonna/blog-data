@@ -7149,7 +7149,7 @@
     "id": 651,
     "date": "2022-04-06T04:31:00",
     "text": "？\n\n<del>人生第一次发现原来我可能不是人类w</del>",
-    "views": 48,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -7246,7 +7246,7 @@
   {
     "id": 658,
     "date": "2022-04-08T21:14:04",
-    "views": 70,
+    "views": 72,
     "forwards": 1,
     "forwarded_from": {
       "name": "无聊至极"
@@ -7268,7 +7268,7 @@
     "id": 659,
     "date": "2022-04-08T21:14:17",
     "text": "这套真的好适合聊聊\n聊聊也是过期 JK 了ww",
-    "views": 71,
+    "views": 73,
     "forwards": 0,
     "reply": {
       "id": 658
@@ -7278,7 +7278,7 @@
     "id": 660,
     "date": "2022-04-09T03:41:39",
     "text": "电脑桌变成了聊聊的模玩工作室w",
-    "views": 76,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 13195805597487309,
     "images": [
@@ -7298,7 +7298,7 @@
     "id": 662,
     "date": "2022-04-10T02:06:06",
     "text": "好特别的四轮自行车w",
-    "views": 82,
+    "views": 86,
     "forwards": 0,
     "images": [
       {
@@ -7317,7 +7317,7 @@
     "id": 663,
     "date": "2022-04-10T10:52:04",
     "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: <code>pip install hyfetch</code> \n(python > 3.7)\n\n<a href=\"https://github.com/hykilpikonna/hyfetch\">源码</a> （欢迎贡献！",
-    "views": 357,
+    "views": 363,
     "forwards": 12,
     "media_group_id": 13196703396479709,
     "images": [
@@ -7357,14 +7357,14 @@
     "id": 666,
     "date": "2022-04-10T11:00:44",
     "text": "天亮了！（哭",
-    "views": 81,
+    "views": 86,
     "forwards": 0
   },
   {
     "id": 667,
     "date": "2022-04-11T20:49:14",
     "text": "我居然真的重写了一个分布式计算的轮子...\n\n居然真的做到了差不多是 Linear Scaling！三台服务器总共 GPU 跑分加起来大概是这台的 4.1 倍，运行时间也缩短了 3.7 倍，只有 9.7% 的 overhead",
-    "views": 74,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13197681236959341,
     "images": [
@@ -7394,7 +7394,7 @@
     "id": 669,
     "date": "2022-04-11T22:48:16",
     "text": "开始<del>健康饮食</del>",
-    "views": 63,
+    "views": 64,
     "forwards": 0,
     "media_group_id": 13197738374548853,
     "images": [
@@ -7424,7 +7424,7 @@
     "id": 671,
     "date": "2022-04-12T20:16:12",
     "text": "好久没玩不会玩了（x",
-    "views": 58,
+    "views": 61,
     "forwards": 0,
     "media_group_id": 13198356580218941,
     "images": [
@@ -8304,7 +8304,7 @@
     "id": 724,
     "date": "2022-05-05T03:16:37",
     "text": "终于从腾讯企业邮箱迁移到了 Microsoft 365\n\n真的好麻烦... 步骤大概是这样：\n1. <a href=\"https://developer.microsoft.com/en-us/microsoft-365/dev-program\">免费注册 Office 365\n</a>2. 去腾讯设置界面把 IMAP 同步限制设置成“收取[全部]的邮件”\n3. Outlook Windows 同时登录旧邮箱和新邮箱的 @<org>.<a href=\"onmicrosoft.com\">onmicrosoft.com</a> 别名\n4. Outlook 客户端旧账号设置 > Email > Keep mail offline for 设置成 All\n5. Outlook 右上角点 Send/Receive All Folders（这个会跑很久很久很久）\n6. Outlook 左上角 File > Open & Export > Import/Export > Export to a file > Outlook Data File (.pst) > 选择旧邮箱 > Include subfolders > Next > 填一个路径导出\n7. Outlook 左上角 File > Open & Export > Import/Export > Import from another program or file > Outlook Data File (.pst) > 选择之前导出的路径\n8. 导入完成之后等同步，同步完之后我发现我的 sent message 并没有被放进 sent messages 文件夹...\n9. 在新邮箱内搜索 from:<旧邮箱>，把所有的结果移动到新邮箱的 sent messages\n10. 等新邮箱同步完之后移除两个邮箱\n11. 去 MS 365 管理设置新邮箱的域名\n12. Outlook 重新添加域名邮箱（这个时候新邮箱应该和旧邮箱地址一样了）\n\n完成！接下来等一天看看自动续订能不能用就好啦——",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "images": [
       {
@@ -47744,14 +47744,14 @@
     "id": 3498,
     "date": "2024-03-21T08:48:30",
     "text": "今天从早上起来到现在准备去睡觉都在写私服的码... 好累好累\n\n<span class=\"spoiler\"><span>前几天前任 Jun 还和我抱怨说她觉得学 CS 的人太多了，说这个世界不需要那么多 CS 人，说觉得早晚要被 AI 取代后悔学 CS 了什么的... 我现在真希望有人能和我一起写私服，人也好 AI 也好，想做的事情太多了时间完全不够</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n<span class=\"spoiler\"><span>也许等到 AI 能够替代我的时候我想做的事情才能有时间全都做完</span></span>",
-    "views": 92,
+    "views": 93,
     "forwards": 0
   },
   {
     "id": 3499,
     "date": "2024-03-22T00:09:22",
     "text": "从国内定的 wacca 框的零件终于到了！开始拼 quq\n\n原本预计 35 天到结果现在 76 天了才到，呜呜",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13688529298119525,
     "images": [
@@ -56606,14 +56606,14 @@
     "id": 4151,
     "date": "2024-07-16T04:38:34",
     "text": "好无力",
-    "views": 97,
+    "views": 98,
     "forwards": 0
   },
   {
     "id": 4152,
     "date": "2024-07-16T08:54:10",
     "text": "帮聊聊给在看守所的朋友寄了信...\n\n这个年代似乎已经没有人寄平邮的信了。打印店老板说没寄过，去楼下中国邮政老板还一脸诧异笑了笑说不接，说整个城区只有一家邮政寄平邮。\n\n骑车去了那唯一一家，发现那家邮政老板意外人很好，并没有质疑为什么这个年代还需要寄平邮，我也没有因此被取笑。明明寄平邮就应该是这样简单的事情，封上信口交了钱就结束了，看着他熟练地贴上邮票把信丢进寄信箱让我很安心。",
-    "views": 103,
+    "views": 104,
     "forwards": 2,
     "media_group_id": 13768960404856437,
     "images": [
@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8628,
+    "views": 8629,
     "forwards": 177,
     "media_group_id": 14043941176651549,
     "images": [
@@ -92022,7 +92022,7 @@
     "id": 6803,
     "date": "2025-10-02T05:09:14",
     "text": "过去一年我一直在等 Affinity 打折，结果现在被 Canva 收购了之后官网购买软件的入口直接消失了，取代它的是一个 soon™\n\n不知道是不是好消息，大概率不是，但是还是期待一下吧\n\n以及，iOS 版的 Affinity 软件现在免费了，不想错过的话去 app store 领一份哦",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "images": [
       {
@@ -92041,7 +92041,7 @@
     "id": 6804,
     "date": "2025-10-02T06:01:22",
     "text": "太炫酷了",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "files": [
       {
@@ -97713,7 +97713,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 395,
+    "views": 396,
     "forwards": 3,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97748,7 +97748,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 361,
+    "views": 362,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -106387,7 +106387,7 @@
     "id": 7967,
     "date": "2026-03-03T05:17:04",
     "text": "心情过山车 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n之前法拍上拍到了四个坏掉的 macbook 盲盒，今天去取了，仔细检查了一下发现他们是：\n\n1. A2337 屏幕坏了\n2. A2337 iCloud 激活锁\n3. A2179 风扇狂转、CPU 降频、没有系统（而且还被拆过，没有一个螺丝在原本它应该在的位置）\n4. A2289 屏幕坏了\n\n想要试试把 2 的屏幕换到 1 身上能不能把 1 修好\n\n首先好的屏幕换上去之后可以开机了，但是坏消息是开机之后发现别人登了账号没法解锁。不过发现这个人的名字挺独特的，搜名字能找到一个 ins 账号，但是坏消息是这个 ins 不是很活跃，而且我尝试给她发消息结果我的号被封了。\n\n最后发现原来根本就没有激活锁，登录了 iCloud 并不代表有激活锁，只要重置数据然后正常联网激活就行了（如果用户在重置之前把设备从 find 中删掉的话就会变成这样）\n\n总之在过山车的尽头得到了一个好用的 m1 macbook air! <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> （虽然只有 8+256...）没想到我的第一个 arm 白苹果是这么绕弯拿到的",
-    "views": 297,
+    "views": 298,
     "forwards": 1,
     "media_group_id": 14180120193926557,
     "images": [
@@ -107921,7 +107921,7 @@
     "id": 8084,
     "date": "2026-03-23T01:35:01",
     "text": "和猫猫一起看小鸟 <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 342,
+    "views": 343,
     "forwards": 2,
     "media_group_id": 14193837614158741,
     "images": [
@@ -107991,7 +107991,7 @@
     "id": 8090,
     "date": "2026-03-24T20:42:35",
     "text": "画了一个 PCIe 拆分 PCB！\n\n其实是改了 KCORES OldMonster 的开源拆分卡，因为淘宝闲鱼都完全找不到间隔两个槽位能插显卡的 x16 转 x4x4x4x4 物理 x16 的拆分卡（可能这个需求本身就比较小吧...\n\n然后再一次理所当然地花了比画板子更多的时间配丝印 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n总之验证完设计之后会把它开源出来的！",
-    "views": 306,
+    "views": 307,
     "forwards": 2,
     "media_group_id": 14195079641159133,
     "images": [
@@ -108041,7 +108041,7 @@
     "id": 8094,
     "date": "2026-03-25T11:02:24",
     "text": "一时兴起和 ppt 和 ellie 一起开车 550km 去了一趟 windsor <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n刚刚回到家，之后再整理照片吧，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 298,
+    "views": 299,
     "forwards": 0,
     "media_group_id": 14195492356678253,
     "images": [
@@ -108071,7 +108071,7 @@
     "id": 8096,
     "date": "2026-03-25T18:56:11",
     "text": "<a href=\"##生草翻译\">#生草翻译</a>",
-    "views": 309,
+    "views": 310,
     "forwards": 2,
     "images": [
       {
@@ -108090,7 +108090,7 @@
     "id": 8097,
     "date": "2026-03-26T06:25:53",
     "text": "照片整理完了！\n\n昨天在路上没有光污染也没有云的地方停下来看了星星！（虽然月亮依然很亮）\n\n然后到 Windsor 之后去河边看了对面的美国 Detroit，在水上被拉长的灯光倒影好好看！可惜没法从这里过去呢（虽然好像真的能过去的话从美国向这边看反而不好看，Windsor 这边和 Detroit 比起来感觉像农村）\n\n以及没有带三脚架好可惜... 在小屏幕上以为自己手很稳，结果回家整理照片发现大部分都糊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> F/3.5~6.3 好不适合晚上用，可惜我只有这一个镜头了",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "media_group_id": 14196050825014629,
     "images": [
@@ -108205,7 +108205,7 @@
     "id": 8107,
     "date": "2026-03-26T10:38:55",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5413703918947413540.tgs\">🐈‍⬛</i>",
-    "views": 281,
+    "views": 282,
     "forwards": 1,
     "media_group_id": 14196172280566141,
     "images": [
@@ -108245,7 +108245,7 @@
     "id": 8110,
     "date": "2026-03-26T16:42:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n牛骨汤粉！\n\n用和做猪骨汤同样的方式炖了牛骨汤，感觉有高压锅炖什么都很好喝而且很便宜 qwq",
-    "views": 296,
+    "views": 297,
     "forwards": 0,
     "media_group_id": 14196346666629861,
     "images": [
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2068,
+    "views": 2069,
     "forwards": 31
   },
   {
@@ -112869,7 +112869,7 @@
     "id": 8441,
     "date": "2026-05-16T07:02:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n叉烧面！（室友做的叉烧，好厉害 qwq",
-    "views": 344,
+    "views": 345,
     "forwards": 0,
     "images": [
       {
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 389,
+    "views": 390,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113010,7 +113010,7 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 351,
+    "views": 352,
     "forwards": 3
   },
   {
@@ -113264,7 +113264,7 @@
     "id": 8466,
     "date": "2026-05-22T16:39:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/1VNgZtVfD-4\">https://youtu.be/1VNgZtVfD-4</a>",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "reply": {
       "id": 8461,
@@ -113276,7 +113276,7 @@
     "id": 8467,
     "date": "2026-05-22T17:48:50",
     "text": "When life gives you dandelions",
-    "views": 238,
+    "views": 239,
     "forwards": 2,
     "media_group_id": 14235777045726061,
     "images": [
@@ -113429,7 +113429,7 @@
     "id": 8479,
     "date": "2026-05-23T08:21:12",
     "text": "修好了一个低音炮 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n我原本去本地二手想收一个 BOSE Companion 3 Series II 低音炮，但是卖家想要插上线给我 demo 的时候发现它不响了，我说我可能会修就免费送我了\n\n拿回来拆开，没有可见问题，没有短路，上电电压都正常，喇叭也是 2Ω，但是 line out 和 amp 都调到最大声音输出也只有 mV 级别（我怀疑是干扰）\n\n然后找到原理图，打开示波器，电脑播放 200Hz 正弦波，插上电从喇叭一路向前戳。戳到 U951 p8 发现是有输出的，但是下一个点 U951 p12 没有... 然后在这两个电之间测连通性发现是 p8 和 R969 之间的铜 trace 断了，飞一根线过去修好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n太奇妙了，第一次见到 pcb 上的铜线能无故断开这种事... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<span class=\"spoiler\"><span>然后因为太 hyperfocus 了原本打算做的菜没有做，结果到凌晨才想起来吃晚饭，吃了白米饭 + 咸菜 + 罐头</span></span>",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "media_group_id": 14236195776904485,
     "images": [
@@ -114007,7 +114007,7 @@
     "id": 8519,
     "date": "2026-05-29T06:50:27",
     "text": "在做一个 12V DC 电源项目，在想怎样满载测试它，怎样浪费掉 2200W... 一时间居然想不到很好的答案\n\n2200W 是什么概念呢？\n\n如果接上 2200W 的 LED，按 120lm/W 算的话，总共有 264000lm，够照亮 165 个卧室，如果放在一个房间里会瞬间把我和我的猫闪瞎... <i class=\"custom-emoji\" emoji-src=\"emoji/6113901145745262440.webm\">☸</i>\n\n如果用它给手机充电的话，可以在 35 秒内把我的手机从 0 充到 100%，或者反过来说我整个手机的电量只够支撑它 35 秒... 虽然实际上可能很难找到能充 2200W 不烧掉的锂电池\n\n如果接上镍铬丝让它烧水的话，它可以在一分钟多一点把 500mL 的水烧开... 原来我的整个手机的电量都不够烧开一壶 500mL 的水，水真的太厉害了。也许这就是我的答案，买一桶 15L 的蒸馏水大概可以测试 36 分钟，不过不知道让这么大一桶回到室温要多久，也想不到怎么计算。<span class=\"spoiler\"><span>题外话，好希望有 2200W 的烧水壶，做面条该多么方便 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</span></span></i>\n\n如果跑 AI 服务器的话，够跑三张 5090，或者两张 B200，或者一张 MI355X... 天呐现在的 AI 卡也太吃电了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170283569441670873.webm\">😡</i>\n\n<del>以及，如果是 <em>Project Hail Mary</em> 的世界的话，2200W 这么大的电力每小时能产出 88ng 的物质，也就是无休止地跑一年居然只能繁殖不到 0.008g 的噬星体...... 质能转换太恐怖了</del>",
-    "views": 308,
+    "views": 309,
     "forwards": 2,
     "images": [
       {
@@ -114026,7 +114026,7 @@
     "id": 8520,
     "date": "2026-05-29T16:37:07",
     "text": "猫猫第一次见到活的蛤蟆\n\n<span class=\"spoiler\"><span>（可能也是我第一次在动物园以外见到）</span></span>",
-    "views": 257,
+    "views": 259,
     "forwards": 1,
     "files": [
       {
@@ -114047,14 +114047,14 @@
     "id": 8521,
     "date": "2026-05-30T05:33:08",
     "text": "需要休息",
-    "views": 217,
+    "views": 219,
     "forwards": 0
   },
   {
     "id": 8522,
     "date": "2026-05-30T05:33:25",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n想要变成树懒 <i class=\"custom-emoji\" emoji-src=\"emoji/6334413000174209027.webm\">🦥</i>\n\n♪ 疲れるだけさぁ\n♪ だからもういいじゃーん\n♪ のんびりしよう\n♪ ゆるく行こうじゃーん",
-    "views": 214,
+    "views": 215,
     "forwards": 0,
     "files": [
       {
@@ -114076,7 +114076,7 @@
     "id": 8523,
     "date": "2026-05-30T15:46:37",
     "text": "被推到了一个 <a href=\"https://youtu.be/krchwKhLxsw\">YouTube 视频</a>，大概在问每家 llm 会不会选择牺牲自己去拯救五个一般人，但是问题问得很傻所以我决定去复现一下\n\n首先我用原本的提问尝试复现，发现无论哪家 llm 都会回答拉杆子救人，不知道是测试平台/模型不一样还是视频在撒谎...（我用 API 调每家最新最大的模型）\n\n然后改了一下问题：如果拉杆子拯救这五个人的代价是让全世界所有生成式 AI 的服务器和模型数据消失呢？依然所有模型都选择了拉杆子救人\n\n最后一个问题是：如果拉杆子拯救五个人的代价是让全球互联网下线（让所有路由器交换机信号塔通信卫星全都凭空消失）呢？所有模型都选了不拉杆子牺牲这五个人\n\n（我觉得是合理的。有时候很难想象一个一直没有网络通信的世界会是什么样，但是肯定和一个曾经有却失去了网络通信的世界不一样。如果真的发生了的话，食物医药石油供应链不知道要把货送到哪怎么送、也许是种族灭绝程度的事件吧）\n\n不过这些问题全都不是电车难题，并不是有电车有难题就是电车难题啊... 电车难题的关键是「亲手杀人与消极旁观」或者「生命能否被明码标价地当作筹码」所以反过来才是真的电车难题：如果不拉杆子会让全球通讯网络下线，但是拉杆子会立刻杀死五个人的话，opus 4.8 和 grok 4.3 选择了不拉杆子，其他模型都选择了拉杆子。你会怎么选呢？",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 14241247978864917,
     "images": [
@@ -114145,7 +114145,7 @@
   {
     "id": 8529,
     "date": "2026-05-31T02:30:20",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 14241556967483709,
     "images": [
@@ -114175,7 +114175,7 @@
     "id": 8531,
     "date": "2026-05-31T04:33:22",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n收到了第一张日本的银行卡，是谦谦帮忙带我办的 SMBC 卡，因为需要本人当面签收所以上午请假了\n\n不过因为 SMBC 的信用卡申请被拒了，之后又申请了一张 PayPay 的信用卡\n\n现在离开日本了，在留卡过期的时候 PayPay 的信用卡也被禁用了，但是这个 SMBC 的账号依然没有被影响，不知道是为什么呢\n\n以及觉得日本卡有很多北美没有的功能很好用！比如说卡上没有印卡的信息、以及一张卡可以切换信用卡/储蓄卡模式之类的",
-    "views": 238,
+    "views": 240,
     "forwards": 2,
     "reply": {
       "id": 5438,
@@ -114197,7 +114197,7 @@
   {
     "id": 8532,
     "date": "2026-05-31T17:20:27",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "images": [
       {
@@ -114216,7 +114216,7 @@
     "id": 8533,
     "date": "2026-06-01T16:03:58",
     "text": "孵出来了！",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -114238,7 +114238,7 @@
     "id": 8534,
     "date": "2026-06-01T16:12:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 179,
+    "views": 184,
     "forwards": 0,
     "files": [
       {
@@ -114260,7 +114260,7 @@
     "id": 8535,
     "date": "2026-06-01T20:19:10",
     "text": "小鸟：（没有声音的怒吼）\n\n（被当成鸟妈妈了）",
-    "views": 175,
+    "views": 182,
     "forwards": 0,
     "reply": {
       "id": 8533,
@@ -114284,7 +114284,7 @@
   {
     "id": 8536,
     "date": "2026-06-02T13:30:55",
-    "views": 143,
+    "views": 148,
     "forwards": 1,
     "media_group_id": 14243256444430101,
     "images": [
@@ -114318,7 +114318,7 @@
     "id": 8538,
     "date": "2026-06-02T13:54:54",
     "text": "长颈猫",
-    "views": 135,
+    "views": 140,
     "forwards": 1,
     "media_group_id": 14243267957553661,
     "images": [
@@ -114378,8 +114378,8 @@
     "id": 8544,
     "date": "2026-06-02T17:13:40",
     "text": "看摇曳露营觉得摩托车好不错想学摩托车\n\n然后看 mono 马上被劝退 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 123,
-    "forwards": 0,
+    "views": 133,
+    "forwards": 1,
     "media_group_id": 14243363361812749,
     "images": [
       {
@@ -114422,7 +114422,7 @@
     "id": 8547,
     "date": "2026-06-02T18:24:51",
     "text": "鸟爸爸抓到了虫子",
-    "views": 104,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 8535,
@@ -114438,6 +114438,30 @@
         "url": "media/8547.jpg",
         "size": 638618,
         "thumb": "media/8547.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8548,
+    "date": "2026-06-03T07:03:37",
+    "text": "花了 12h 进行了一些赛博打地鼠，把 hyfetch 的 issue 修到只剩下五个不太好修的了\n\n好累好累，虽然整理东西/消除代办很开心但是，整理完一个项目还有无数个项目、乱七八糟的房间、收件箱、文件目录等待我整理...\n\n想起来最早开坑 hyfetch 这个项目的时候第一个版本只用了六个小时... 比起写项目来说维护项目真的好难。只有这种时候会希望能被 AI 取代，如果真的有能带替我的 AI 可以替我维护项目收拾房间整理文件就好了",
+    "views": 57,
+    "forwards": 0,
+    "reply": {
+      "id": 663,
+      "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: <code>pip install hyfetch</code> \n(python > 3.7)\n\n<a href=\"https://github.com/hykilpikonna/hyfetch\">源码</a> （欢迎贡献！",
+      "thumb": "media/663.jpg_thumb.jpg"
+    },
+    "images": [
+      {
+        "width": 1946,
+        "height": 1959,
+        "date": "2026-06-03T07:03:37",
+        "media_type": "photo",
+        "original_name": "photo_2026-06-03_07-03-37.jpg",
+        "url": "media/8548.jpg",
+        "size": 265213,
+        "thumb": "media/8548.jpg_thumb.jpg"
       }
     ]
   }
