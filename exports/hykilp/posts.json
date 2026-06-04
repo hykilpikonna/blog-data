@@ -68124,7 +68124,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1500,
+    "views": 1501,
     "forwards": 10,
     "files": [
       {
@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5815,
+    "views": 5816,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -113017,7 +113017,7 @@
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 1233,
+    "views": 1234,
     "forwards": 14,
     "images": [
       {
@@ -113509,7 +113509,7 @@
     "id": 8486,
     "date": "2026-05-23T15:15:53",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在 gitadora 上发现的这首曲子，觉得好好听想要收藏起来结果发现各大音乐平台上都找不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 2,
     "files": [
       {
@@ -113530,7 +113530,7 @@
   {
     "id": 8487,
     "date": "2026-05-23T15:16:07",
-    "views": 237,
+    "views": 238,
     "forwards": 1,
     "images": [
       {
@@ -113703,7 +113703,7 @@
     "id": 8499,
     "date": "2026-05-25T17:07:18",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n〆さば寿司！\n\n<del>服务器寿司</del>\n\n在日本吃过的寿司里面最喜欢的就是さば了，可惜这边好难买到，超市里卖的青花鱼也都不是生食级别... 不过前几天找到了一个供货商终于做出来了！",
-    "views": 241,
+    "views": 242,
     "forwards": 0,
     "media_group_id": 14237830708822909,
     "images": [
@@ -113763,7 +113763,7 @@
     "id": 8504,
     "date": "2026-05-25T19:01:52",
     "text": "谷歌：3.5-flash 很聪明哦！\n3.5-flash：",
-    "views": 292,
+    "views": 293,
     "forwards": 2,
     "reply": {
       "id": 8450,
@@ -113786,7 +113786,7 @@
     "id": 8505,
     "date": "2026-05-25T20:09:04",
     "text": "Workaround: Please count the listed static routes in the table. <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 266,
+    "views": 267,
     "forwards": 0,
     "images": [
       {
@@ -114007,7 +114007,7 @@
     "id": 8519,
     "date": "2026-05-29T06:50:27",
     "text": "在做一个 12V DC 电源项目，在想怎样满载测试它，怎样浪费掉 2200W... 一时间居然想不到很好的答案\n\n2200W 是什么概念呢？\n\n如果接上 2200W 的 LED，按 120lm/W 算的话，总共有 264000lm，够照亮 165 个卧室，如果放在一个房间里会瞬间把我和我的猫闪瞎... <i class=\"custom-emoji\" emoji-src=\"emoji/6113901145745262440.webm\">☸</i>\n\n如果用它给手机充电的话，可以在 35 秒内把我的手机从 0 充到 100%，或者反过来说我整个手机的电量只够支撑它 35 秒... 虽然实际上可能很难找到能充 2200W 不烧掉的锂电池\n\n如果接上镍铬丝让它烧水的话，它可以在一分钟多一点把 500mL 的水烧开... 原来我的整个手机的电量都不够烧开一壶 500mL 的水，水真的太厉害了。也许这就是我的答案，买一桶 15L 的蒸馏水大概可以测试 36 分钟，不过不知道让这么大一桶回到室温要多久，也想不到怎么计算。<span class=\"spoiler\"><span>题外话，好希望有 2200W 的烧水壶，做面条该多么方便 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</span></span></i>\n\n如果跑 AI 服务器的话，够跑三张 5090，或者两张 B200，或者一张 MI355X... 天呐现在的 AI 卡也太吃电了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170283569441670873.webm\">😡</i>\n\n<del>以及，如果是 <em>Project Hail Mary</em> 的世界的话，2200W 这么大的电力每小时能产出 88ng 的物质，也就是无休止地跑一年居然只能繁殖不到 0.008g 的噬星体...... 质能转换太恐怖了</del>",
-    "views": 321,
+    "views": 322,
     "forwards": 2,
     "images": [
       {
@@ -114026,7 +114026,7 @@
     "id": 8520,
     "date": "2026-05-29T16:37:07",
     "text": "猫猫第一次见到活的蛤蟆\n\n<span class=\"spoiler\"><span>（可能也是我第一次在动物园以外见到）</span></span>",
-    "views": 271,
+    "views": 272,
     "forwards": 1,
     "files": [
       {
@@ -114047,7 +114047,7 @@
     "id": 8521,
     "date": "2026-05-30T05:33:08",
     "text": "需要休息",
-    "views": 232,
+    "views": 233,
     "forwards": 0
   },
   {
@@ -114469,7 +114469,7 @@
     "id": 8549,
     "date": "2026-06-03T08:23:17",
     "text": "来到滑铁卢一个学期了每次路过 EIT 都在赶路，今天停下脚步看了一下 EIT 的博物馆（其实是聊聊想去看看所以）\n\n有好多好好看的石头，方解石里面的∞好奇妙，还发现了巨大的 Gneiss <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n说起来我对地质学有一点点兴趣和了解也是因为很久之前被推到了 <a href=\"https://youtube.com/@gneissname\">@gneissname</a> 的视频来着，拍下来想去 Gneiss 群里发发但是果然两年前已经有另一位 uw 学生发过了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "media_group_id": 14243799980067533,
     "images": [
@@ -114579,7 +114579,7 @@
     "id": 8559,
     "date": "2026-06-03T14:36:13",
     "text": "「11 年前发的所以不是 AI 安心了」",
-    "views": 197,
+    "views": 198,
     "forwards": 4,
     "reply": {
       "id": 7504,
@@ -114602,7 +114602,7 @@
     "id": 8560,
     "date": "2026-06-03T16:51:37",
     "text": "祝湊巧生日都在今天的Telegram群友們生日快樂<i class=\"custom-emoji\" emoji-src=\"emoji/5370999492914976897.tgs\">🎂</i>（？",
-    "views": 111,
+    "views": 113,
     "forwards": 1,
     "forwarded_from": {
       "name": "Laoself 🫈"
@@ -114611,7 +114611,7 @@
   {
     "id": 8562,
     "date": "2026-06-04T15:36:16",
-    "views": 78,
+    "views": 87,
     "forwards": 0,
     "files": [
       {
