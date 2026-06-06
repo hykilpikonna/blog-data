@@ -71406,7 +71406,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 246,
+    "views": 247,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -97091,14 +97091,14 @@
     "id": 7218,
     "date": "2025-11-13T09:04:23",
     "text": "<a href=\"https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432\"><em>On November 13, 2026, Voyager Will Reach One Full Light-Day Away From Earth</a></em>\n\n读了这篇，觉得能够做出 48 年没法物理维护还依然能够正常运转的设备好厉害（或者说，需要计算需要通信的设备的供电能够维持 48 年这件事情本身就好厉害）\n\n以及很难想象 48 年前就已经造出了可以穿过 250 亿公里传输信息的飞行器，48 年后人类却依然造不出可以穿过几面墙的 WiFi AP <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 1102,
+    "views": 1103,
     "forwards": 12
   },
   {
     "id": 7219,
     "date": "2025-11-14T01:17:26",
     "text": "上上次写 python 写出 segfault\n上次写 C# 写出 segfault\n这次写网页 ts 都能写出 segfault\n谁懂啊 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 326,
+    "views": 327,
     "forwards": 1,
     "reply": {
       "id": 4950,
@@ -97178,7 +97178,7 @@
     "id": 7224,
     "date": "2025-11-16T02:03:52",
     "text": "怀念一蘭<span class=\"spoiler\"><span>（的厕所）</span></span>了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 305,
+    "views": 306,
     "forwards": 2,
     "media_group_id": 14106069059511125,
     "images": [
@@ -97212,7 +97212,7 @@
     "id": 7226,
     "date": "2025-11-16T08:27:47",
     "text": "发现了野生的木琴！（不过为什么所有琴键都是同样的音色 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 286,
+    "views": 287,
     "forwards": 0,
     "media_group_id": 14106253338050181,
     "files": [
@@ -97247,7 +97247,7 @@
     "id": 7228,
     "date": "2025-11-16T12:16:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6102860812051814101.webp\">🌗</i> 234°<span class=\"spoiler\"><span>（11 月 16 日）</span></span>\n\n去翻墙了！（物理）\n\n爬墙好累呀... 台阶超级陡，而且刚上坡就下坡的好折磨，好难想象建的人到底是怎样把每一块转搬上来的，感觉让我搬的话每一块转都需要一天的体力\n\n以及中国的长城感觉好荒凉，是一条两边都看不到边界的分界线。哪边是里是外、是保护还是牢笼也已经分不清了。\n\n<del>地球是圆的，所以我用石子原地摆个圈圈就是保护全世界的长城 </del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</del></i>",
-    "views": 279,
+    "views": 280,
     "forwards": 1,
     "media_group_id": 14106363105405861,
     "images": [
@@ -97357,7 +97357,7 @@
     "id": 7238,
     "date": "2025-11-16T12:34:35",
     "text": "出片（物理）\n\n和长城下面的并不长的小猫",
-    "views": 287,
+    "views": 288,
     "forwards": 0,
     "media_group_id": 14106371805346341,
     "images": [
@@ -97535,7 +97535,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 374,
+    "views": 375,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
@@ -114636,7 +114636,7 @@
     "id": 8563,
     "date": "2026-06-04T23:57:54",
     "text": "保存按钮物理周边",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "images": [
       {
@@ -114655,7 +114655,7 @@
     "id": 8564,
     "date": "2026-06-05T03:01:05",
     "text": "神秘生物",
-    "views": 168,
+    "views": 169,
     "forwards": 1,
     "images": [
       {
@@ -114674,7 +114674,7 @@
     "id": 8565,
     "date": "2026-06-05T21:35:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##神秘仪式\">#神秘仪式</a>\nふわふわパンケーキ！ 🥞",
-    "views": 114,
+    "views": 119,
     "forwards": 1,
     "media_group_id": 14245562478085045,
     "images": [
@@ -114714,7 +114714,7 @@
     "id": 8568,
     "date": "2026-06-05T21:46:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 110,
+    "views": 117,
     "forwards": 0,
     "files": [
       {
@@ -114736,7 +114736,7 @@
     "id": 8569,
     "date": "2026-06-06T01:22:42",
     "text": "种的白菜发芽了",
-    "views": 89,
+    "views": 101,
     "forwards": 1,
     "media_group_id": 14245671696713693,
     "images": [
