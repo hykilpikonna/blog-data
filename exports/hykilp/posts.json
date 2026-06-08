@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6587,
+    "views": 6588,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73424,7 +73424,7 @@
     "id": 5313,
     "date": "2025-05-05T23:39:01",
     "text": "今生第二次错过毕业仪式",
-    "views": 417,
+    "views": 418,
     "forwards": 0,
     "images": [
       {
@@ -73443,7 +73443,7 @@
     "id": 5314,
     "date": "2025-05-07T04:48:40",
     "text": "<del>需要改水冷</del>",
-    "views": 352,
+    "views": 353,
     "forwards": 0,
     "images": [
       {
@@ -73462,7 +73462,7 @@
     "id": 5315,
     "date": "2025-05-07T10:41:07",
     "text": "在床上聊天聊起回忆，聊到小时候超级喜欢 Tron Legacy，当时买了 BD 光碟还刷了好多遍，但是不记得讲什么了只记得摩托车和丢飞盘很炫酷！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<span class=\"spoiler\"><span>（meanwhile 聊聊只看了两遍却能背出台词... 这就是记忆力的差距吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</span></span></i>\n\n不过我们上次看这部电影都已经是十几年前了，有点想知道以现在的审美看它会觉得怎么样，所以就即兴和聊聊重新看了一遍！结果就是... <span class=\"spoiler\"><span>现在依然觉得摩托车和丢飞盘很炫酷！</span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</span></span></i>\n\n仔细想想的话，这部电影剧情叙事还是设定都有很大问题，看起来高科技也只是用计算机的名词讲了飞盘与魔法... 不过也正是这样无厘头的设定才能够让它所设想的世界可以这样炫酷，也没什么不好嘛<span class=\"spoiler\"><span>（真实的程序员/黑客工作画面很无聊的哦！</span></span>\n\n（以及真的超喜欢 daft punk 的配乐！原来我听的第一首 daft punk 在这里 qwq",
-    "views": 317,
+    "views": 318,
     "forwards": 2,
     "media_group_id": 13972915740570293,
     "images": [
@@ -91746,7 +91746,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 545,
+    "views": 546,
     "forwards": 8,
     "media_group_id": 14073654712928549,
     "images": [
@@ -102711,7 +102711,7 @@
     "id": 7670,
     "date": "2026-01-04T22:06:51",
     "text": "去玩了小游戏「<a href=\"https://thiori.itch.io/deep-fry\">Deep Fry</a>」（递归天妇罗？）好可爱好生草\n\n游戏全流程只有十五分钟，大家也可以去玩玩 qwq",
-    "views": 536,
+    "views": 537,
     "forwards": 10,
     "images": [
       {
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5064,
+    "views": 5065,
     "forwards": 29
   },
   {
@@ -108325,7 +108325,7 @@
     "id": 8117,
     "date": "2026-03-27T03:15:29",
     "text": "看到<a href=\"https://t.me/rynif/39471\">喜欢的频道主</a>填了所以我也来填\n\n感觉喜欢的动画每年都有很多很多，但是真的能说是「构成了我」的作品实际上留九个格子很足够了\n\n<a href=\"https://my9.shatranj.space/work/s/86969fee20417a23\">https://my9.shatranj.space/work/s/86969fee20417a23</a>",
-    "views": 367,
+    "views": 368,
     "forwards": 4,
     "images": [
       {
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2079,
+    "views": 2080,
     "forwards": 31
   },
   {
@@ -111421,7 +111421,7 @@
     "id": 8340,
     "date": "2026-04-29T06:32:12",
     "text": "好羡慕这样的老师\n\n我觉得也是这样，感觉现在的开发者太重视效率了... 用 AI 达到 5x 10x 效率的过程中失去的是什么呢",
-    "views": 351,
+    "views": 352,
     "forwards": 3,
     "reply": {
       "id": 8339,
@@ -114007,7 +114007,7 @@
     "id": 8519,
     "date": "2026-05-29T06:50:27",
     "text": "在做一个 12V DC 电源项目，在想怎样满载测试它，怎样浪费掉 2200W... 一时间居然想不到很好的答案\n\n2200W 是什么概念呢？\n\n如果接上 2200W 的 LED，按 120lm/W 算的话，总共有 264000lm，够照亮 165 个卧室，如果放在一个房间里会瞬间把我和我的猫闪瞎... <i class=\"custom-emoji\" emoji-src=\"emoji/6113901145745262440.webm\">☸</i>\n\n如果用它给手机充电的话，可以在 35 秒内把我的手机从 0 充到 100%，或者反过来说我整个手机的电量只够支撑它 35 秒... 虽然实际上可能很难找到能充 2200W 不烧掉的锂电池\n\n如果接上镍铬丝让它烧水的话，它可以在一分钟多一点把 500mL 的水烧开... 原来我的整个手机的电量都不够烧开一壶 500mL 的水，水真的太厉害了。也许这就是我的答案，买一桶 15L 的蒸馏水大概可以测试 36 分钟，不过不知道让这么大一桶回到室温要多久，也想不到怎么计算。<span class=\"spoiler\"><span>题外话，好希望有 2200W 的烧水壶，做面条该多么方便 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</span></span></i>\n\n如果跑 AI 服务器的话，够跑三张 5090，或者两张 B200，或者一张 MI355X... 天呐现在的 AI 卡也太吃电了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170283569441670873.webm\">😡</i>\n\n<del>以及，如果是 <em>Project Hail Mary</em> 的世界的话，2200W 这么大的电力每小时能产出 88ng 的物质，也就是无休止地跑一年居然只能繁殖不到 0.008g 的噬星体...... 质能转换太恐怖了</del>",
-    "views": 345,
+    "views": 346,
     "forwards": 2,
     "images": [
       {
@@ -114197,7 +114197,7 @@
   {
     "id": 8532,
     "date": "2026-05-31T17:20:27",
-    "views": 243,
+    "views": 244,
     "forwards": 2,
     "images": [
       {
@@ -114216,7 +114216,7 @@
     "id": 8533,
     "date": "2026-06-01T16:03:58",
     "text": "孵出来了！",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -114238,7 +114238,7 @@
     "id": 8534,
     "date": "2026-06-01T16:12:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "files": [
       {
@@ -114636,7 +114636,7 @@
     "id": 8563,
     "date": "2026-06-04T23:57:54",
     "text": "保存按钮物理周边",
-    "views": 219,
+    "views": 220,
     "forwards": 2,
     "images": [
       {
@@ -114655,7 +114655,7 @@
     "id": 8564,
     "date": "2026-06-05T03:01:05",
     "text": "神秘生物",
-    "views": 214,
+    "views": 215,
     "forwards": 1,
     "images": [
       {
@@ -114674,7 +114674,7 @@
     "id": 8565,
     "date": "2026-06-05T21:35:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##神秘仪式\">#神秘仪式</a>\nふわふわパンケーキ！ 🥞",
-    "views": 183,
+    "views": 184,
     "forwards": 1,
     "media_group_id": 14245562478085045,
     "images": [
@@ -114714,7 +114714,7 @@
     "id": 8568,
     "date": "2026-06-05T21:46:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "files": [
       {
@@ -114736,7 +114736,7 @@
     "id": 8569,
     "date": "2026-06-06T01:22:42",
     "text": "种的白菜发芽了",
-    "views": 187,
+    "views": 188,
     "forwards": 2,
     "media_group_id": 14245671696713693,
     "images": [
@@ -114776,7 +114776,7 @@
     "id": 8572,
     "date": "2026-06-06T19:22:47",
     "text": "老鼠：我死了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 187,
+    "views": 188,
     "forwards": 2,
     "files": [
       {
@@ -114797,7 +114797,7 @@
     "id": 8573,
     "date": "2026-06-06T19:31:47",
     "text": "猫猫抓到了第一只活的老鼠！\n\n...实际上是 猫猫叼着活的老鼠就跑进来了然后老鼠在房间里乱窜，窜进了储物间，我把门关上门缝堵上我和猫猫一起抓才终于抓到瓶子里了。\n\n猫猫好像比起吃老鼠来说更想和老鼠玩，我也没有杀死它的决心，所以暂时决定把它封印在瓶子里了（戳了透气孔）",
-    "views": 207,
+    "views": 208,
     "forwards": 4,
     "media_group_id": 14246194458684965,
     "images": [
@@ -114867,7 +114867,7 @@
     "id": 8579,
     "date": "2026-06-06T19:58:56",
     "text": "想想还是放生了",
-    "views": 185,
+    "views": 186,
     "forwards": 1,
     "reply": {
       "id": 8573,
@@ -114879,7 +114879,7 @@
     "id": 8580,
     "date": "2026-06-07T02:41:21",
     "text": "整理照片 昨天和云欣和 lowb 去 Laurel Creek 湖边走了一圈，湖边气氛好不错\n\n不知道为什么 Road Closed，在地上的神秘黄色阴影区域进行了灵魂停车（？）\n\n以及捡到了巨大鹅羽毛 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不知道鸟掉羽毛是和人掉头发一样没有感觉",
-    "views": 186,
+    "views": 187,
     "forwards": 1,
     "media_group_id": 14246400652662629,
     "images": [
@@ -114959,7 +114959,7 @@
     "id": 8587,
     "date": "2026-06-07T15:34:36",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n从阳台上看到了正在举办的第20回「ふれ愛まつりだ、芝地区！」祭典环游，各种年龄的人一起穿法被拉小车敲太鼓好热闹 qwq\n\n（因为是阳台照片，现在不用担心暴露住址终于可以发了）\n\n到了夏天日本各地都在举行不同规模但是都很热闹的祭り，当时周末出去玩的时候总是会路过某个地方的祭り，真好呀",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "reply": {
       "id": 5562,
@@ -114983,7 +114983,7 @@
     "id": 8588,
     "date": "2026-06-07T18:45:49",
     "text": "<a href=\"##TIL\">#TIL</a> 「嫉妒」的日语是「ヤキモチ」 aka. 烧饼... 感觉和中文的「吃醋」有异曲同工之妙",
-    "views": 173,
+    "views": 178,
     "forwards": 1,
     "images": [
       {
@@ -115002,7 +115002,7 @@
     "id": 8589,
     "date": "2026-06-08T00:33:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在看《恋爱中的小行星》，目前感觉真的超甜超可爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>",
-    "views": 140,
+    "views": 146,
     "forwards": 2,
     "files": [
       {
@@ -115024,7 +115024,7 @@
     "id": 8590,
     "date": "2026-06-08T12:08:34",
     "text": "好好笑",
-    "views": 95,
+    "views": 112,
     "forwards": 1,
     "images": [
       {
@@ -115042,7 +115042,7 @@
   {
     "id": 8591,
     "date": "2026-06-08T12:52:04",
-    "views": 77,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
