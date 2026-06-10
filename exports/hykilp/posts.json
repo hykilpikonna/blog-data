@@ -68282,7 +68282,7 @@
     "id": 4944,
     "date": "2025-02-19T20:22:20",
     "text": "谷歌搜索似乎把 Edge 浏览器的官方下载页面从搜索结果里过滤掉了... 好讨厌，明明 Bing 都没有这样过滤 Chrome 的下载页面",
-    "views": 322,
+    "views": 323,
     "forwards": 2,
     "media_group_id": 13919972321026757,
     "images": [
@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5817,
+    "views": 5818,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6588,
+    "views": 6589,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -113017,7 +113017,7 @@
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 1248,
+    "views": 1249,
     "forwards": 14,
     "images": [
       {
@@ -114636,7 +114636,7 @@
     "id": 8563,
     "date": "2026-06-04T23:57:54",
     "text": "保存按钮物理周边",
-    "views": 257,
+    "views": 258,
     "forwards": 2,
     "images": [
       {
@@ -114655,7 +114655,7 @@
     "id": 8564,
     "date": "2026-06-05T03:01:05",
     "text": "神秘生物",
-    "views": 259,
+    "views": 260,
     "forwards": 1,
     "images": [
       {
@@ -114674,7 +114674,7 @@
     "id": 8565,
     "date": "2026-06-05T21:35:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##神秘仪式\">#神秘仪式</a>\nふわふわパンケーキ！ 🥞",
-    "views": 225,
+    "views": 226,
     "forwards": 1,
     "media_group_id": 14245562478085045,
     "images": [
@@ -114714,7 +114714,7 @@
     "id": 8568,
     "date": "2026-06-05T21:46:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 218,
+    "views": 219,
     "forwards": 0,
     "files": [
       {
@@ -114736,7 +114736,7 @@
     "id": 8569,
     "date": "2026-06-06T01:22:42",
     "text": "种的白菜发芽了",
-    "views": 217,
+    "views": 218,
     "forwards": 2,
     "media_group_id": 14245671696713693,
     "images": [
@@ -114776,7 +114776,7 @@
     "id": 8572,
     "date": "2026-06-06T19:22:47",
     "text": "老鼠：我死了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 2,
     "files": [
       {
@@ -114797,7 +114797,7 @@
     "id": 8573,
     "date": "2026-06-06T19:31:47",
     "text": "猫猫抓到了第一只活的老鼠！\n\n...实际上是 猫猫叼着活的老鼠就跑进来了然后老鼠在房间里乱窜，窜进了储物间，我把门关上门缝堵上我和猫猫一起抓才终于抓到瓶子里了。\n\n猫猫好像比起吃老鼠来说更想和老鼠玩，我也没有杀死它的决心，所以暂时决定把它封印在瓶子里了（戳了透气孔）",
-    "views": 245,
+    "views": 246,
     "forwards": 4,
     "media_group_id": 14246194458684965,
     "images": [
@@ -114867,7 +114867,7 @@
     "id": 8579,
     "date": "2026-06-06T19:58:56",
     "text": "想想还是放生了",
-    "views": 211,
+    "views": 212,
     "forwards": 1,
     "reply": {
       "id": 8573,
@@ -114879,7 +114879,7 @@
     "id": 8580,
     "date": "2026-06-07T02:41:21",
     "text": "整理照片 昨天和云欣和 lowb 去 Laurel Creek 湖边走了一圈，湖边气氛好不错\n\n不知道为什么 Road Closed，在地上的神秘黄色阴影区域进行了灵魂停车（？）\n\n以及捡到了巨大鹅羽毛 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不知道鸟掉羽毛是和人掉头发一样没有感觉",
-    "views": 213,
+    "views": 214,
     "forwards": 1,
     "media_group_id": 14246400652662629,
     "images": [
@@ -115024,7 +115024,7 @@
     "id": 8590,
     "date": "2026-06-08T12:08:34",
     "text": "好好笑",
-    "views": 201,
+    "views": 202,
     "forwards": 3,
     "images": [
       {
@@ -115061,7 +115061,7 @@
     "id": 8592,
     "date": "2026-06-08T22:35:09",
     "text": "现在 VSCode 启动越来越慢了，想编辑简单文本文件的时候绝对不想等 VSCode 启动\n\n之前有想过用 Zed 代替基础文本编辑器，但是用了半年发现，虽然启动很快，但是更新太频繁了，基本上每次启动都因为自动更新导致 UI 完全无响应...\n\n所以 2026 年我又回到了 Notepad++ <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "images": [
       {
@@ -115079,7 +115079,7 @@
   {
     "id": 8593,
     "date": "2026-06-09T01:06:15",
-    "views": 194,
+    "views": 196,
     "forwards": 4,
     "files": [
       {
@@ -115101,14 +115101,14 @@
     "id": 8594,
     "date": "2026-06-09T04:44:47",
     "text": "我也会觉得说出一些宏大/遥远的理想很难为情...",
-    "views": 173,
+    "views": 174,
     "forwards": 1
   },
   {
     "id": 8595,
     "date": "2026-06-10T03:50:49",
     "text": "因为之前拍小猫照片大家都说像 toothless，所以今天去二刷了驯龙高手... 果然很像！龙也太可爱了，无论是外观还是行为细节都完全就是我家小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 121,
+    "views": 126,
     "forwards": 2,
     "media_group_id": 14248507598228581,
     "images": [
