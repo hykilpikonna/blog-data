@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6590,
+    "views": 6591,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -114797,7 +114797,7 @@
     "id": 8573,
     "date": "2026-06-06T19:31:47",
     "text": "猫猫抓到了第一只活的老鼠！\n\n...实际上是 猫猫叼着活的老鼠就跑进来了然后老鼠在房间里乱窜，窜进了储物间，我把门关上门缝堵上我和猫猫一起抓才终于抓到瓶子里了。\n\n猫猫好像比起吃老鼠来说更想和老鼠玩，我也没有杀死它的决心，所以暂时决定把它封印在瓶子里了（戳了透气孔）",
-    "views": 253,
+    "views": 254,
     "forwards": 4,
     "media_group_id": 14246194458684965,
     "images": [
@@ -114983,7 +114983,7 @@
     "id": 8588,
     "date": "2026-06-07T18:45:49",
     "text": "<a href=\"##TIL\">#TIL</a> 「嫉妒」的日语是「ヤキモチ」 aka. 烧饼... 感觉和中文的「吃醋」有异曲同工之妙",
-    "views": 234,
+    "views": 235,
     "forwards": 1,
     "images": [
       {
@@ -115002,7 +115002,7 @@
     "id": 8589,
     "date": "2026-06-08T00:33:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在看《恋爱中的小行星》，目前感觉真的超甜超可爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>",
-    "views": 209,
+    "views": 210,
     "forwards": 2,
     "files": [
       {
@@ -115061,7 +115061,7 @@
     "id": 8592,
     "date": "2026-06-08T22:35:09",
     "text": "现在 VSCode 启动越来越慢了，想编辑简单文本文件的时候绝对不想等 VSCode 启动\n\n之前有想过用 Zed 代替基础文本编辑器，但是用了半年发现，虽然启动很快，但是更新太频繁了，基本上每次启动都因为自动更新导致 UI 完全无响应...\n\n所以 2026 年我又回到了 Notepad++ <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 209,
+    "views": 210,
     "forwards": 1,
     "images": [
       {
@@ -115108,7 +115108,7 @@
     "id": 8595,
     "date": "2026-06-10T03:50:49",
     "text": "因为之前拍小猫照片大家都说像 toothless，所以今天去二刷了驯龙高手... 果然很像！龙也太可爱了，无论是外观还是行为细节都完全就是我家小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 14248507598228581,
     "images": [
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 116,
+    "views": 135,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
