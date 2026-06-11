@@ -108245,7 +108245,7 @@
     "id": 8110,
     "date": "2026-03-26T16:42:13",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n牛骨汤粉！\n\n用和做猪骨汤同样的方式炖了牛骨汤，感觉有高压锅炖什么都很好喝而且很便宜 qwq",
-    "views": 297,
+    "views": 298,
     "forwards": 0,
     "media_group_id": 14196346666629861,
     "images": [
@@ -108325,7 +108325,7 @@
     "id": 8117,
     "date": "2026-03-27T03:15:29",
     "text": "看到<a href=\"https://t.me/rynif/39471\">喜欢的频道主</a>填了所以我也来填\n\n感觉喜欢的动画每年都有很多很多，但是真的能说是「构成了我」的作品实际上留九个格子很足够了\n\n<a href=\"https://my9.shatranj.space/work/s/86969fee20417a23\">https://my9.shatranj.space/work/s/86969fee20417a23</a>",
-    "views": 368,
+    "views": 369,
     "forwards": 4,
     "images": [
       {
@@ -108344,7 +108344,7 @@
     "id": 8118,
     "date": "2026-03-27T23:42:50",
     "text": "神圣猫猫",
-    "views": 319,
+    "views": 320,
     "forwards": 1,
     "media_group_id": 14197239764256053,
     "images": [
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 366,
+    "views": 367,
     "forwards": 5,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 389,
+    "views": 390,
     "forwards": 3,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 336,
+    "views": 337,
     "forwards": 1,
     "images": [
       {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 359,
+    "views": 360,
     "forwards": 0,
     "images": [
       {
@@ -108551,7 +108551,7 @@
   {
     "id": 8134,
     "date": "2026-03-30T18:32:45",
-    "views": 342,
+    "views": 343,
     "forwards": 1,
     "images": [
       {
@@ -108570,7 +108570,7 @@
     "id": 8135,
     "date": "2026-03-31T03:49:18",
     "text": "（？）",
-    "views": 343,
+    "views": 344,
     "forwards": 0,
     "images": [
       {
@@ -108589,7 +108589,7 @@
     "id": 8136,
     "date": "2026-03-31T14:41:22",
     "text": "<b>她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩</b>\nTrans in Academia!\n<a href=\"https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw\">https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw</a>\n\n各位好，今天是3月31日🏳️‍⚧️跨性别现身日‍，祝大家节日快乐。\n\n在这个特殊的日子，TiA! 的三名作者 发条鼬、Robbin Gan、塗塗狐 共同创作了《她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩》一文，欢迎大家点击上方链接阅读！",
-    "views": 271,
+    "views": 272,
     "forwards": 3,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -108611,14 +108611,14 @@
     "id": 8137,
     "date": "2026-03-31T17:23:07",
     "text": "<em>This message cannot be displayed because it violated Telegram's Terms of Service.</em>",
-    "views": 369,
+    "views": 370,
     "forwards": 1
   },
   {
     "id": 8138,
     "date": "2026-03-31T18:41:24",
     "text": "<b>公告：我们从「AquaDX」全新更名为「OceanDX」！</b>\n\n做出这一改变是为了与之前的 Aqua 项目区分开来，因为我们现在正在开发一个完全独立的衍生源代码！为了减少混淆、并鼓励“海”量的新贡献者和用户加入我们改了名字。\n\n此外，我们的网站和群组已经更新，以体现这些全新的品牌元素！\n\n我们全新的「OceanNet」网站在 <a href=\"oceandx.net\">oceandx.net</a>\n\n由于域名的更改，您可能需要重新登录。目前，DNS 将保持不变以防止出现兼容性问题（请不要修改 segatools.ini 文件）\n\n感谢使用 OceanDX 并成为我们社区的一员！",
-    "views": 408,
+    "views": 409,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -108641,7 +108641,7 @@
     "id": 8139,
     "date": "2026-03-31T18:57:15",
     "text": "开源了！<a href=\"https://github.com/MewoLab/OceanDX\">https://github.com/MewoLab/OceanDX</a>",
-    "views": 380,
+    "views": 381,
     "forwards": 0,
     "reply": {
       "id": 8138,
@@ -108652,7 +108652,7 @@
     "id": 8140,
     "date": "2026-04-01T09:04:58",
     "text": "谷歌这次更新又来治强迫症了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 377,
+    "views": 378,
     "forwards": 2,
     "media_group_id": 14200274383817613,
     "images": [
@@ -108687,14 +108687,14 @@
     "id": 8142,
     "date": "2026-04-01T14:24:12",
     "text": "是老了还是这几天睡眠债太多... 发现没办法像以前一样在爆肝一晚演讲稿只睡四个小时之后还能有力气起床演讲了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 384,
+    "views": 385,
     "forwards": 0
   },
   {
     "id": 8143,
     "date": "2026-04-01T20:46:04",
     "text": "话说昨天吃汉堡王因为是coupon所以是四人份套餐，可乐喝不完，桂桂昨天告诉我放冰箱里了\n我今天打开冰箱看到的可乐：",
-    "views": 309,
+    "views": 310,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -108715,7 +108715,7 @@
   {
     "id": 8144,
     "date": "2026-04-01T20:46:09",
-    "views": 376,
+    "views": 377,
     "forwards": 1,
     "files": [
       {
@@ -108740,7 +108740,7 @@
     "id": 8145,
     "date": "2026-04-01T23:35:38",
     "text": "一袋长了眼睛的可乐",
-    "views": 420,
+    "views": 421,
     "forwards": 4,
     "files": [
       {
@@ -108761,7 +108761,7 @@
     "id": 8146,
     "date": "2026-04-02T05:14:55",
     "text": "？",
-    "views": 409,
+    "views": 410,
     "forwards": 0,
     "images": [
       {
@@ -108780,7 +108780,7 @@
     "id": 8147,
     "date": "2026-04-02T05:31:45",
     "text": "后续节目：",
-    "views": 458,
+    "views": 459,
     "forwards": 3,
     "media_group_id": 14200863245056029,
     "images": [
@@ -108814,13 +108814,13 @@
     "id": 8149,
     "date": "2026-04-02T08:16:49",
     "text": "今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想\n\n按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 感觉像是时间旅行程度的超能力\n\n唉 如果我也能有这种一键暂停/唤醒的功能就好了",
-    "views": 481,
+    "views": 482,
     "forwards": 1
   },
   {
     "id": 8150,
     "date": "2026-04-03T01:37:14",
-    "views": 517,
+    "views": 518,
     "forwards": 1,
     "media_group_id": 14201441874134237,
     "images": [
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4243,
+    "views": 4244,
     "forwards": 31
   },
   {
@@ -112268,7 +112268,7 @@
     "id": 8398,
     "date": "2026-05-10T05:41:59",
     "text": "affinity 又崩溃 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 352,
+    "views": 353,
     "forwards": 1,
     "files": [
       {
@@ -112291,7 +112291,7 @@
     "id": 8399,
     "date": "2026-05-10T15:11:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n荞麦面！\n\n猫猫也爱吃",
-    "views": 342,
+    "views": 343,
     "forwards": 0,
     "media_group_id": 14227407187648189,
     "images": [
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 696,
+    "views": 697,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -112375,7 +112375,7 @@
     "id": 8406,
     "date": "2026-05-10T20:10:57",
     "text": "头发还没睡醒",
-    "views": 358,
+    "views": 359,
     "forwards": 7,
     "images": [
       {
@@ -112395,7 +112395,7 @@
     "id": 8407,
     "date": "2026-05-11T05:53:48",
     "text": "昨天去看了 Project Hail Mary\n\n林子给我安利的时候说是工程师爽文，我看完觉得真的是爽文，太爽了，感觉第一次看到这么充满希望的科幻电影。\n\n我真的超喜欢这个所有人能好好让科学家解决科学问题的世界... 遇到灾难地球整体可以达成一致、没有政治博弈和人类贪婪的喧哗；唯一的敌人也只是纯粹的物理现象、也因此成为了最终解决方案的一部分。如果我们的现实也是这样就好了\n\n以及好喜欢它的科幻设定以及 rocky 这个角色的设定，每个看似很随机的细节背后都有实际的理论原因。Rocky 是一个从完全不同的环境进化出来又在关键的地方很相似的外星研究员，五条腿没有脸没有眼睛（因为他们的进化环境没有光，像是在地球海底一样）靠震动定位、生活在高温但是因为高压所以水依然是液体的星球，和人类的 Grace 完全没法在同一个温度压力环境下存在、却依然可以通过翻译器理解对方的语言产生感情关联真的太浪漫了\n\n不过说到语言，可能语言是唯一一个我觉得不太真实的地方，两个文明的个体第一次接触感觉完全不像是第一次接触。在搭好翻译器之前感觉就已经靠肢体语言互相理解意图了，搭翻译器的过程只是逐词录音替换，搭好之后就真的完全是在说英语，还是很地道完全没有翻译偏差的英语... <del>原来 Erid 也是英国殖民地</del>\n\n不过总体上是很喜欢的电影！推荐大家看。感觉和最近 NASA 载人深空探索的复兴一起给我了很多对世界的希望 qwq",
-    "views": 343,
+    "views": 344,
     "forwards": 5,
     "images": [
       {
@@ -112621,7 +112621,7 @@
     "id": 8423,
     "date": "2026-05-14T04:41:35",
     "text": "Miku Expo 好棒！\n\n好多超级喜欢听到跟着唱出来的歌（比如神っぽいな）也有很多没听过的歌（之前的演唱会都是基本上作者的所有曲子我都听过，但是毕竟ミク不是制作人，能听过所有ボカロ还是好难的）\n\n而且好多人都打扮成了 miku！还看到了很多 pjsk 角色！感觉像 pjsk 里面虚拟演出一样，大家都在演出之前给自己/豆腐换上喜欢的角色的皮肤 qwq（还有同样会变色的光棒\n\n第一次在一般的街上看到这么多 miku",
-    "views": 264,
+    "views": 265,
     "forwards": 3,
     "media_group_id": 14229869563599613,
     "images": [
@@ -115101,14 +115101,14 @@
     "id": 8594,
     "date": "2026-06-09T04:44:47",
     "text": "我也会觉得说出一些宏大/遥远的理想很难为情...",
-    "views": 195,
+    "views": 196,
     "forwards": 1
   },
   {
     "id": 8595,
     "date": "2026-06-10T03:50:49",
     "text": "因为之前拍小猫照片大家都说像 toothless，所以今天去二刷了驯龙高手... 果然很像！龙也太可爱了，无论是外观还是行为细节都完全就是我家小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 162,
+    "views": 167,
     "forwards": 2,
     "media_group_id": 14248507598228581,
     "images": [
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 135,
+    "views": 150,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
