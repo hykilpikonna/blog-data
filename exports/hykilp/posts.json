@@ -105347,14 +105347,14 @@
     "id": 7880,
     "date": "2026-02-15T06:03:53",
     "text": "怎么感觉猫从来不睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n我醒着的时候猫醒着，我睡觉的时候会被猫踩醒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 243,
+    "views": 244,
     "forwards": 0
   },
   {
     "id": 7885,
     "date": "2026-02-15T14:38:29",
     "text": "今日猫片",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "media_group_id": 14169330478080565,
     "images": [
@@ -105404,7 +105404,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 251,
+    "views": 252,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -105571,7 +105571,7 @@
     "id": 7899,
     "date": "2026-02-17T20:07:09",
     "text": "猫猫晒太阳\n\n天开始变暖了！现在居然零上 5°C！今年冬天好短呀...",
-    "views": 283,
+    "views": 284,
     "forwards": 0,
     "images": [
       {
@@ -113940,7 +113940,7 @@
     "id": 8515,
     "date": "2026-05-28T23:33:31",
     "text": "猫猫追飞虫 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 244,
+    "views": 245,
     "forwards": 1,
     "files": [
       {
@@ -115108,7 +115108,7 @@
     "id": 8595,
     "date": "2026-06-10T03:50:49",
     "text": "因为之前拍小猫照片大家都说像 toothless，所以今天去二刷了驯龙高手... 果然很像！龙也太可爱了，无论是外观还是行为细节都完全就是我家小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 224,
+    "views": 225,
     "forwards": 2,
     "media_group_id": 14248507598228581,
     "images": [
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 257,
+    "views": 259,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
@@ -115222,7 +115222,7 @@
     "id": 8604,
     "date": "2026-06-11T12:42:07",
     "text": "有什么从天上掉下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 199,
+    "views": 203,
     "forwards": 1,
     "media_group_id": 14249453816810885,
     "images": [
@@ -115272,7 +115272,7 @@
     "id": 8608,
     "date": "2026-06-11T16:49:37",
     "text": "门口小鸟的变化过程",
-    "views": 161,
+    "views": 164,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -115365,7 +115365,7 @@
     "id": 8616,
     "date": "2026-06-11T23:26:02",
     "text": "还在想 PowerToys 会不会终于要到 v1 了",
-    "views": 590,
+    "views": 595,
     "forwards": 4,
     "images": [
       {
@@ -115384,7 +115384,7 @@
     "id": 8617,
     "date": "2026-06-12T04:59:58",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概会宕机一段时间\n\n因为在没有 KVM 也不在物理机器旁边的情况下 -Syu 重启导致机器起不来了也没办法调试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 188,
+    "views": 192,
     "forwards": 1,
     "images": [
       {
@@ -115403,7 +115403,7 @@
     "id": 8618,
     "date": "2026-06-12T06:02:23",
     "text": "听到今天这次 <a href=\"https://t.me/archlinuxcn/336\">AUR 被投毒</a>的消息其实我很不开心...\n\n因为其实一年半前我注意到了可以大规模 take orphan 投毒的这个可能性，当时准备了一个无害 payload 准备愚人节投出去恶搞一下... 我觉得只有让所有人意识到有这个可能性才能够让 aur 管理员有动力改变 aur 系统的工作方式\n\n不过当时很重要的朋友都劝退觉得我不应该这样做，觉得我会打扰到用户，觉得我会被炎上，觉得软件源应该是被信任的地方... 所以就放弃了，然后现在真的被恶意投毒了\n\n如果当时没有被劝退是不是这次投毒就不会发生了呢？",
-    "views": 208,
+    "views": 211,
     "forwards": 3,
     "media_group_id": 14249953150937525,
     "images": [
@@ -115463,7 +115463,7 @@
     "id": 8623,
     "date": "2026-06-12T16:26:31",
     "text": "修好了另一个低音炮 qwq\n\n结果这次只是输入接口被捅坏掉了，焊出来两根线重新接一个 RCA 接口就修好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <del>太简单了甚至没有在修的时候拍照片</del>",
-    "views": 147,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 14250252728871005,
     "images": [
@@ -115518,7 +115518,7 @@
     "id": 8627,
     "date": "2026-06-12T18:51:11",
     "text": "「29%」",
-    "views": 136,
+    "views": 141,
     "forwards": 2,
     "images": [
       {
@@ -115537,7 +115537,7 @@
     "id": 8628,
     "date": "2026-06-12T23:29:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n寿司！\n\n因为在卖さば的网站上看到了 plant based salmon 就决定试了一下，然后后悔了，只有看上去像三文鱼，口感和味道都完全不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 116,
+    "views": 122,
     "forwards": 0,
     "media_group_id": 14250455811664181,
     "images": [
@@ -115597,14 +115597,14 @@
     "id": 8635,
     "date": "2026-06-13T03:00:32",
     "text": "大概知道为什么用 Youtube 人工字幕数据训练的 ASR 模型日语不好了\n\n发现有些日语视频用人工字幕做文字，然后视频的声音轨道就是纯音乐，没有人声配音那样... 感觉日本人总能想出一个软件设计外的奇妙用法",
-    "views": 87,
+    "views": 93,
     "forwards": 0
   },
   {
     "id": 8636,
     "date": "2026-06-13T03:01:24",
     "text": "期待一下 canada post 会不会给我昨天送到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 88,
+    "views": 95,
     "forwards": 1,
     "images": [
       {
