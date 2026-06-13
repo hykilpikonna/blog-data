@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8636,
+    "views": 8637,
     "forwards": 177,
     "media_group_id": 14043941176651549,
     "images": [
@@ -89035,7 +89035,7 @@
     "id": 6549,
     "date": "2025-09-07T21:08:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "files": [
       {
@@ -89057,7 +89057,7 @@
     "id": 6550,
     "date": "2025-09-08T14:08:17",
     "text": "我喜欢用 ffmpeg 压视频，但是每次都打很长的命令感觉好烦人，而且不能批处理...\n\n不想每次压 av1 都要打一遍 <code>ffmpeg -i input.mp4 -c:v libsvtav1 -crf 36 -preset 8 -c:a libopus -b:a 96k -vbr on input.av1.mp4 && rm input.mp4</code> 了（虽然已经背下来了\n\n所以写了一个小工具 <a href=\"https://github.com/hykilpikonna/formtool\">formtool</a>，安装只要 <code>pip install formtool</code>\n\n从此压视频压音频都是一键 <code>fav1 *.mp4</code> 或者 <code>fmp3 *.flac</code> 就能解决的事情了，默认参数是我个人习惯最常用的参数，可以覆盖参数可以批处理有进度条还会自动删掉生肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 394,
+    "views": 395,
     "forwards": 7,
     "files": [
       {
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 259,
+    "views": 261,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
@@ -115272,7 +115272,7 @@
     "id": 8608,
     "date": "2026-06-11T16:49:37",
     "text": "门口小鸟的变化过程",
-    "views": 164,
+    "views": 165,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -115365,7 +115365,7 @@
     "id": 8616,
     "date": "2026-06-11T23:26:02",
     "text": "还在想 PowerToys 会不会终于要到 v1 了",
-    "views": 597,
+    "views": 601,
     "forwards": 4,
     "images": [
       {
@@ -115384,7 +115384,7 @@
     "id": 8617,
     "date": "2026-06-12T04:59:58",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概会宕机一段时间\n\n因为在没有 KVM 也不在物理机器旁边的情况下 -Syu 重启导致机器起不来了也没办法调试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "images": [
       {
@@ -115403,7 +115403,7 @@
     "id": 8618,
     "date": "2026-06-12T06:02:23",
     "text": "听到今天这次 <a href=\"https://t.me/archlinuxcn/336\">AUR 被投毒</a>的消息其实我很不开心...\n\n因为其实一年半前我注意到了可以大规模 take orphan 投毒的这个可能性，当时准备了一个无害 payload 准备愚人节投出去恶搞一下... 我觉得只有让所有人意识到有这个可能性才能够让 aur 管理员有动力改变 aur 系统的工作方式\n\n不过当时很重要的朋友都劝退觉得我不应该这样做，觉得我会打扰到用户，觉得我会被炎上，觉得软件源应该是被信任的地方... 所以就放弃了，然后现在真的被恶意投毒了\n\n如果当时没有被劝退是不是这次投毒就不会发生了呢？",
-    "views": 211,
+    "views": 212,
     "forwards": 3,
     "media_group_id": 14249953150937525,
     "images": [
@@ -115463,7 +115463,7 @@
     "id": 8623,
     "date": "2026-06-12T16:26:31",
     "text": "修好了另一个低音炮 qwq\n\n结果这次只是输入接口被捅坏掉了，焊出来两根线重新接一个 RCA 接口就修好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <del>太简单了甚至没有在修的时候拍照片</del>",
-    "views": 155,
+    "views": 156,
     "forwards": 0,
     "media_group_id": 14250252728871005,
     "images": [
@@ -115518,7 +115518,7 @@
     "id": 8627,
     "date": "2026-06-12T18:51:11",
     "text": "「29%」",
-    "views": 144,
+    "views": 146,
     "forwards": 2,
     "images": [
       {
@@ -115537,7 +115537,7 @@
     "id": 8628,
     "date": "2026-06-12T23:29:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n寿司！\n\n因为在卖さば的网站上看到了 plant based salmon 就决定试了一下，然后后悔了，只有看上去像三文鱼，口感和味道都完全不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 14250455811664181,
     "images": [
@@ -115597,14 +115597,14 @@
     "id": 8635,
     "date": "2026-06-13T03:00:32",
     "text": "大概知道为什么用 Youtube 人工字幕数据训练的 ASR 模型日语不好了\n\n发现有些日语视频用人工字幕做文字，然后视频的声音轨道就是纯音乐，没有人声配音那样... 感觉日本人总能想出一个软件设计外的奇妙用法",
-    "views": 100,
+    "views": 104,
     "forwards": 0
   },
   {
     "id": 8636,
     "date": "2026-06-13T03:01:24",
     "text": "期待一下 canada post 会不会给我昨天送到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 104,
+    "views": 108,
     "forwards": 1,
     "images": [
       {
