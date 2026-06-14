@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 704,
+    "views": 705,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 269,
+    "views": 270,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
@@ -115718,7 +115718,7 @@
     "id": 8645,
     "date": "2026-06-13T23:58:59",
     "text": "发现我不太会日语的日常对话，所以让流浪猫给 LibreChat 加了一个语法警察，如果我说话太正式了/不够日常会提醒我这样（语法警察的 context 是分开的，这样不会让语法提示的 context 和对话混在一起）\n\n<a href=\"https://github.com/AzaContrib/LibreJPartner\">源码在这里</a>（虽然觉得开源无脑 vibe 出来的东西挺没意思的，但是因为可能会有人觉得有用就还是开源了）",
-    "views": 121,
+    "views": 123,
     "forwards": 1,
     "images": [
       {
