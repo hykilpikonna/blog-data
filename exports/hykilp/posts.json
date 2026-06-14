@@ -58637,7 +58637,7 @@
     "id": 4295,
     "date": "2024-08-09T03:18:49",
     "text": "<a href=\"##ML\">#ML</a> 今天把 Sekai LLM 的大模型部署到新的 V100 服务器上了！\n\n为了最大化部署效率试了很多不同的框架，首先看到了别人的<a href=\"https://bentoml.com/blog/benchmarking-llm-inference-backends\">测试结果</a>，大概是 LMDeploy 效率最高，其次是 MLC，再其次是 vLLM。所以我首先试了 LMDeploy，然后遇到了一堆问题...\n\n首先试了 vLLM 因为它是星星<i class=\"custom-emoji\" emoji-src=\"emoji/6107338590335799902.webp\">⭐️</i>最多的，但是发现它会提示内存不够，即使在 24GB 的 4090 上加载 4bit 量化过的模型都提示内存不够（量化过之后用一般的 HF Transformers 加载只需要 8GB 多一点的显存）可能 vLLM 在尝试把 Qwen2 的 128K 上下文全都预留出来吧，那肯定是不够的。试了各种解决方案都跑不起来就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n把训练好的 7B LoRA 模型文件挪到新机器上之后跑 LMD 发现 16GB 显存不够，确实不够，那试试两个显卡一起吧，然后直接 segfault 崩溃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i> 那用 AWQ 量化到 4bit 之后总可以了吧？发现输出是乱码，去 issue 里面查才发现最新版本的 LMD 还不支持 V100 AWQ <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i> 但是已经有人加了支持，开了一个 <a href=\"https://github.com/InternLM/lmdeploy/pull/2090\">+12120 -4990 的巨大 PR</a> 还没有合进去，那试试吧？发现用这个 PR 的话 AWQ 可以跑了但是很慢，而且多卡还是会崩溃... 算了算了换别的试试吧\n\n最后试了 MLC，从量化到运行没有遇到任何问题，多显卡推理也是加一个参数没有调其他的就成功了，每个请求 0.43 秒的性能也相当不错。不过发现多加一张 V100 在没有批量的情况下跑张量并行只能提升 13% 的性能，基本上就只能作为一张显存更大的 V100 用... 还是对 Sxm2 的带宽好失望，不过也很够用啦",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13785388234834757,
     "images": [
@@ -58667,7 +58667,7 @@
     "id": 4297,
     "date": "2024-08-09T05:03:32",
     "text": "今天七七在 AquaDX 群里说 AquaDX 的群头像看起来总感觉像是没加载出来的模糊图的样子，怎么办呢？正好昨天是国际猫猫日，让 DALLE 在里面填一些猫吧",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "images": [
       {
@@ -70431,7 +70431,7 @@
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 370,
+    "views": 371,
     "forwards": 2
   },
   {
@@ -81406,7 +81406,7 @@
     "id": 5936,
     "date": "2025-07-23T13:45:10",
     "text": "感谢マモル借给我 Pixel 5a，终于不用抱着 iPad 到处跑了<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "reply": {
       "id": 5935,
@@ -81417,7 +81417,7 @@
     "id": 5937,
     "date": "2025-07-23T16:03:58",
     "text": "我拍到了双头四翼鸟（？）",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "images": [
       {
@@ -81436,7 +81436,7 @@
     "id": 5938,
     "date": "2025-07-24T05:28:44",
     "text": "这次选新手机，因为已经买了相机所以不考虑照相了。比较在意的是充电和续航和可玩性。认真看了一圈对比了各种参数之后，在考虑从下面这三个中选一个：\n\n1. 红米 Note 12 Turbo 好处是超便宜而且有特别多三方 ROM 适配，但是指标（续航、充电速度）一般\n\n2. 一加 Ace 3 的好处是指标还好而且挺便宜的，还有三方 ROM，虽然只有一个 PixelOS 在被维护\n\n3. 一加 Ace 5 Pro 性能续航充电都是绝对顶配，价格也不贵，是我最看好的一款。但是第三方 ROM 只有一个社区适配的 OxygenOS，现在差不多就只是 ColorOS 国际版了。不过 ColorOS 能开谷歌服务的话也不是不能用？不刷的话说不定还可以过 Play Integrity 用谷歌 Pay... <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i> <del>或者我要试试自己适配 PixelOS 上去吗</del>\n\n所以又选择恐惧症了，感觉每个都有可能会后悔的地方，不知道怎么选... 问问群友 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "reply": {
       "id": 5935,
@@ -81459,7 +81459,7 @@
     "id": 5939,
     "date": "2025-07-24T12:03:51",
     "text": "周末三连休和谦谦和半喵和マモル从东京开车去了金沢和能登半岛！\n\n因为距离远日程排得太满导致大家回家都累累，今天才有力气整理照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 下次不排这么满了\n\n这次旅程的第一件事是开车... 和谦谦轮换着开车单程八小时竖跨整个日本，三天下来总共开了 1400km，加了 92.6L 油 <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n不过还好白天开车风景不错，而且都外大部分路段车也挺少的不太需要被堵车折磨。<del>而且选的这条路测速少可以体验 180kmh 飙车（不）</del>总之并没有很无聊啦\n\n发一些往返拍得比较好看的公路照片 qwq",
-    "views": 195,
+    "views": 196,
     "forwards": 1,
     "media_group_id": 14026869051925621,
     "images": [
@@ -81836,7 +81836,7 @@
     "id": 5971,
     "date": "2025-07-24T18:10:25",
     "text": "震惊，借给我的 Pixel 5a 三整天过去之后依然有电... <span class=\"spoiler\"><span>可能从超大功耗火龙 888 过来的人用什么手机都会觉得续航好吧</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 0,
     "reply": {
       "id": 5936,
@@ -81847,7 +81847,7 @@
     "id": 5972,
     "date": "2025-07-25T09:44:01",
     "text": "最后买了一加 13！不过因为是从中国买的两周之后才能到手\n\n其实 Ace 5 Pro 就是 13 砍了一些功能的版本啦，大部分其他参数都是一样的。看了下觉得这些功能 +CN￥550 完全值得，所以买了贵一点的 13，算上国补 CN￥3100\n\n打算先试试 ColorOS + GApps 能不能用顺手啦，如果不能的话打算试试自己适配 PixelOS 过去，反正现在一加依然可以随便解锁（希望不会踩大坑 ;-;",
-    "views": 244,
+    "views": 245,
     "forwards": 2,
     "reply": {
       "id": 5938,
@@ -84260,7 +84260,7 @@
     "id": 6163,
     "date": "2025-08-13T02:25:41",
     "text": "拿到了新手机一加 13，用了一周 ColorOS 15，写写体验\n\n比 MIUI 14 好用的地方：\n- GMS 开箱就能用\n- 解锁 BL 毫无困难\n- 安装梯子不会报诈骗软件\n- 换启动器可以保留手势 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n- 可以卸载很多系统应用比如视频和钱包和主题商店\n\n比 Pixel UI 好用的地方：\n- 动态锁屏很好看！\n- 有更多很有用的小功能，比如指纹快速启动、熄屏手势、侧边栏、流体云\n\n不好用的地方：\n- 从 Pixel 转移没法转移应用数据\n- 快捷键设置不灵活，没办法让双击电源打开相机，只能选打开卡包还是刷卡页。长按电源只能选语音助手还是关机\n- 广告（虽然没有小米多）\n- 开启开发者模式之后永远会有一条通知说开发者模式已开启\n\n所以试着刷了 OxygenOS，刷完之后所有不满意的地方都解决了！能用 Android auto，修好 Play Integrity 之后甚至能用 Google pay。\n\n之前听朋友说 Oxygen 是 Color 套壳我还有点害怕的，但是实际用起来真的非常原生，而且还保留了 Color 那些有用的小功能，总之就是非常满意 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 229,
+    "views": 230,
     "forwards": 3,
     "media_group_id": 14040415534348789,
     "images": [
@@ -99665,7 +99665,7 @@
     "id": 7413,
     "date": "2025-12-07T16:15:57",
     "text": "🐱：自贩机居然不贩卖它自己\n🐴：是“自动”不是“自己“啦\n（沉默）\n🐱：人是不是一种自贩机，会投简历贩卖自己",
-    "views": 313,
+    "views": 314,
     "forwards": 2
   },
   {
@@ -105849,14 +105849,14 @@
     "id": 7920,
     "date": "2026-02-22T17:54:40",
     "text": "睡了 15h <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n从昨天 10pm 睡到了今天 1pm... 感觉打破了某种新纪录",
-    "views": 266,
+    "views": 267,
     "forwards": 0
   },
   {
     "id": 7921,
     "date": "2026-02-22T20:44:10",
     "text": "加拿大效率，一次系统维护维护三天 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "images": [
       {
@@ -107030,7 +107030,7 @@
     "id": 8013,
     "date": "2026-03-12T06:50:39",
     "text": "又到了植树节！想和大家一起再种一颗 tgcn 频道树🌳！（这次有更多功能可以玩哦~）\n\n这里是 小桂桂的回忆录 📒，是频道树的树根 🌳\n\n（如果你也有公开频道，想成为这个频道的树叶的话，就点击下面的「成为树叶」吧！ > <） <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fazaneko&rhash=d96b84e483dc30\">‎</a>",
-    "views": 843,
+    "views": 845,
     "forwards": 8,
     "forwarded_from": {
       "name": "🌲 TGCN 植树机器人 🌲",
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5081,
+    "views": 5082,
     "forwards": 29
   },
   {
@@ -109211,14 +109211,14 @@
     "id": 8179,
     "date": "2026-04-07T07:46:07",
     "text": "需要禁止吃 dayvigo 后 sudo",
-    "views": 341,
+    "views": 342,
     "forwards": 2
   },
   {
     "id": 8180,
     "date": "2026-04-07T08:03:12",
     "text": "今天把新的想法加入 project backlog 的时候发现里面有一百项了，有一百个想做但是没时间做的想法了... 是值得庆祝的事情吗？",
-    "views": 348,
+    "views": 349,
     "forwards": 1,
     "images": [
       {
@@ -109237,7 +109237,7 @@
     "id": 8181,
     "date": "2026-04-07T16:25:20",
     "text": "被骂了\n<span class=\"spoiler\"><span>Useless cat.</span></span>",
-    "views": 421,
+    "views": 422,
     "forwards": 5,
     "images": [
       {
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 399,
+    "views": 400,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -114636,7 +114636,7 @@
     "id": 8563,
     "date": "2026-06-04T23:57:54",
     "text": "保存按钮物理周边",
-    "views": 278,
+    "views": 279,
     "forwards": 2,
     "images": [
       {
@@ -114655,7 +114655,7 @@
     "id": 8564,
     "date": "2026-06-05T03:01:05",
     "text": "神秘生物",
-    "views": 280,
+    "views": 281,
     "forwards": 1,
     "images": [
       {
@@ -114674,7 +114674,7 @@
     "id": 8565,
     "date": "2026-06-05T21:35:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##神秘仪式\">#神秘仪式</a>\nふわふわパンケーキ！ 🥞",
-    "views": 258,
+    "views": 259,
     "forwards": 2,
     "media_group_id": 14245562478085045,
     "images": [
@@ -114714,7 +114714,7 @@
     "id": 8568,
     "date": "2026-06-05T21:46:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 244,
+    "views": 245,
     "forwards": 0,
     "files": [
       {
@@ -114736,7 +114736,7 @@
     "id": 8569,
     "date": "2026-06-06T01:22:42",
     "text": "种的白菜发芽了",
-    "views": 240,
+    "views": 241,
     "forwards": 2,
     "media_group_id": 14245671696713693,
     "images": [
@@ -114776,7 +114776,7 @@
     "id": 8572,
     "date": "2026-06-06T19:22:47",
     "text": "老鼠：我死了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 236,
+    "views": 237,
     "forwards": 2,
     "files": [
       {
@@ -114797,7 +114797,7 @@
     "id": 8573,
     "date": "2026-06-06T19:31:47",
     "text": "猫猫抓到了第一只活的老鼠！\n\n...实际上是 猫猫叼着活的老鼠就跑进来了然后老鼠在房间里乱窜，窜进了储物间，我把门关上门缝堵上我和猫猫一起抓才终于抓到瓶子里了。\n\n猫猫好像比起吃老鼠来说更想和老鼠玩，我也没有杀死它的决心，所以暂时决定把它封印在瓶子里了（戳了透气孔）",
-    "views": 282,
+    "views": 284,
     "forwards": 4,
     "media_group_id": 14246194458684965,
     "images": [
@@ -114867,7 +114867,7 @@
     "id": 8579,
     "date": "2026-06-06T19:58:56",
     "text": "想想还是放生了",
-    "views": 237,
+    "views": 238,
     "forwards": 1,
     "reply": {
       "id": 8573,
@@ -115061,7 +115061,7 @@
     "id": 8592,
     "date": "2026-06-08T22:35:09",
     "text": "现在 VSCode 启动越来越慢了，想编辑简单文本文件的时候绝对不想等 VSCode 启动\n\n之前有想过用 Zed 代替基础文本编辑器，但是用了半年发现，虽然启动很快，但是更新太频繁了，基本上每次启动都因为自动更新导致 UI 完全无响应...\n\n所以 2026 年我又回到了 Notepad++ <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 262,
+    "views": 263,
     "forwards": 1,
     "images": [
       {
@@ -115079,7 +115079,7 @@
   {
     "id": 8593,
     "date": "2026-06-09T01:06:15",
-    "views": 252,
+    "views": 253,
     "forwards": 4,
     "files": [
       {
@@ -115101,14 +115101,14 @@
     "id": 8594,
     "date": "2026-06-09T04:44:47",
     "text": "我也会觉得说出一些宏大/遥远的理想很难为情...",
-    "views": 243,
+    "views": 244,
     "forwards": 1
   },
   {
     "id": 8595,
     "date": "2026-06-10T03:50:49",
     "text": "因为之前拍小猫照片大家都说像 toothless，所以今天去二刷了驯龙高手... 果然很像！龙也太可爱了，无论是外观还是行为细节都完全就是我家小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 2,
     "media_group_id": 14248507598228581,
     "images": [
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 265,
+    "views": 266,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
@@ -115222,7 +115222,7 @@
     "id": 8604,
     "date": "2026-06-11T12:42:07",
     "text": "有什么从天上掉下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "media_group_id": 14249453816810885,
     "images": [
@@ -115365,7 +115365,7 @@
     "id": 8616,
     "date": "2026-06-11T23:26:02",
     "text": "还在想 PowerToys 会不会终于要到 v1 了",
-    "views": 624,
+    "views": 629,
     "forwards": 4,
     "images": [
       {
@@ -115384,7 +115384,7 @@
     "id": 8617,
     "date": "2026-06-12T04:59:58",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概会宕机一段时间\n\n因为在没有 KVM 也不在物理机器旁边的情况下 -Syu 重启导致机器起不来了也没办法调试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 1,
     "images": [
       {
@@ -115463,7 +115463,7 @@
     "id": 8623,
     "date": "2026-06-12T16:26:31",
     "text": "修好了另一个低音炮 qwq\n\n结果这次只是输入接口被捅坏掉了，焊出来两根线重新接一个 RCA 接口就修好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <del>太简单了甚至没有在修的时候拍照片</del>",
-    "views": 172,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14250252728871005,
     "images": [
@@ -115518,7 +115518,7 @@
     "id": 8627,
     "date": "2026-06-12T18:51:11",
     "text": "「29%」",
-    "views": 166,
+    "views": 167,
     "forwards": 2,
     "images": [
       {
@@ -115604,7 +115604,7 @@
     "id": 8636,
     "date": "2026-06-13T03:01:24",
     "text": "期待一下 canada post 会不会给我昨天送到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 1,
     "images": [
       {
@@ -115623,7 +115623,7 @@
     "id": 8637,
     "date": "2026-06-13T15:45:38",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n和マモル去冲绳的第一天逛了那覇市区，吃了「冲绳そば」\n\n虽然叫そば但是并不是荞麦面哦！实际上更像中华面。名字大概是某种历史遗留：小麦面传入冲绳的时候因为没有对应的词，就用了本地面类的词そば\n\n本土復帰之后本州的公正取引委员会有尝试过把它改名成「冲绳风中华面」，但是因为「冲绳そば」这个名字已经成为了本地文化的一部分，所以在冲绳生面协会反抗下还是继续用了这个名字 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（大概是「<a href=\"https://oki-soba.jp/history/day/\">沖縄そばの日</a>」的来源！\n\n那覇市区还有好多奇妙特产，比如午餐肉饭团、二千円、还有ハブ毒蛇的泡盛酒... 因为ハブ能连续交配 26 小时所以ハブ酒也有种春药的含义，虽然实际上是都市传说 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 132,
+    "views": 137,
     "forwards": 2,
     "media_group_id": 14250924311363349,
     "images": [
@@ -115718,7 +115718,7 @@
     "id": 8645,
     "date": "2026-06-13T23:58:59",
     "text": "发现我不太会日语的日常对话，所以让流浪猫给 LibreChat 加了一个语法警察，如果我说话太正式了/不够日常会提醒我这样（语法警察的 context 是分开的，这样不会让语法提示的 context 和对话混在一起）\n\n<a href=\"https://github.com/AzaContrib/LibreJPartner\">源码在这里</a>（虽然觉得开源无脑 vibe 出来的东西挺没意思的，但是因为可能会有人觉得有用就还是开源了）",
-    "views": 99,
+    "views": 109,
     "forwards": 0,
     "images": [
       {
