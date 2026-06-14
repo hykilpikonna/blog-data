@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5082,
+    "views": 5083,
     "forwards": 29
   },
   {
@@ -111492,7 +111492,7 @@
     "id": 8344,
     "date": "2026-04-30T08:49:52",
     "text": "凌晨在朋友家修 CVE... <a href=\"https://copy.fail\">https://copy.fail</a>\n\n我所有的 linux 服务器都中枪，所以连到每个服务器一个一个修，也许到了能反映出哪个发行版好用的时候了\n\narch 的服务器最好修，直接 pacman -Syu 重启就修好了\n\nproxmox 因为是刚装的所以直接 apt upgrade 也修好了\n\nfedora 两个新的直接 dnf update 就好了，一个旧的要 dnf system-upgrade 跳两次 (40 > 42 > 44)\n\nubuntu... 我的三个 ubuntu 全都火葬场。因为 ubuntu 只有最新的 26 修了，其他版本都没修，所以要把所有系统更新到 26。有一个系统不知道为什么 do-release-upgrade 就是没法更新到 26，所以就 22 > 24 > 25 > 26 了，一天重启了不知道多少次。另一个系统 do-release-upgrade 的过程中和 oracle cloud 的定时任务冲突了，dpkg 报错导致失败还没法回滚，重要的是 sudo 没了，oracle 还禁止 root 登录... 试了一下 copyfail 的 PoC 也不行（因为 PoC 是 x86 的，我是 arm64）。最后还是开了一个新的虚拟机，把盘挂上去修好再挂回去把新的虚拟机删掉，然后继续 24 > 25 > 26...\n\n好累好累，现在快凌晨五点了，我凌晨六点还要开车一个小时回家...",
-    "views": 299,
+    "views": 300,
     "forwards": 3,
     "images": [
       {
@@ -115365,7 +115365,7 @@
     "id": 8616,
     "date": "2026-06-11T23:26:02",
     "text": "还在想 PowerToys 会不会终于要到 v1 了",
-    "views": 636,
+    "views": 638,
     "forwards": 4,
     "images": [
       {
@@ -115718,7 +115718,7 @@
     "id": 8645,
     "date": "2026-06-13T23:58:59",
     "text": "发现我不太会日语的日常对话，所以让流浪猫给 LibreChat 加了一个语法警察，如果我说话太正式了/不够日常会提醒我这样（语法警察的 context 是分开的，这样不会让语法提示的 context 和对话混在一起）\n\n<a href=\"https://github.com/AzaContrib/LibreJPartner\">源码在这里</a>（虽然觉得开源无脑 vibe 出来的东西挺没意思的，但是因为可能会有人觉得有用就还是开源了）",
-    "views": 123,
+    "views": 125,
     "forwards": 1,
     "images": [
       {
