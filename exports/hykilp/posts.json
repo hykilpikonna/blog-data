@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6594,
+    "views": 6595,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -115463,7 +115463,7 @@
     "id": 8623,
     "date": "2026-06-12T16:26:31",
     "text": "修好了另一个低音炮 qwq\n\n结果这次只是输入接口被捅坏掉了，焊出来两根线重新接一个 RCA 接口就修好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <del>太简单了甚至没有在修的时候拍照片</del>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "media_group_id": 14250252728871005,
     "images": [
@@ -115518,7 +115518,7 @@
     "id": 8627,
     "date": "2026-06-12T18:51:11",
     "text": "「29%」",
-    "views": 186,
+    "views": 187,
     "forwards": 2,
     "images": [
       {
@@ -115623,7 +115623,7 @@
     "id": 8637,
     "date": "2026-06-13T15:45:38",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n和マモル去冲绳的第一天逛了那覇市区，吃了「冲绳そば」\n\n虽然叫そば但是并不是荞麦面哦！实际上更像中华面。名字大概是某种历史遗留：小麦面传入冲绳的时候因为没有对应的词，就用了本地面类的词そば\n\n本土復帰之后本州的公正取引委员会有尝试过把它改名成「冲绳风中华面」，但是因为「冲绳そば」这个名字已经成为了本地文化的一部分，所以在冲绳生面协会反抗下还是继续用了这个名字 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（大概是「<a href=\"https://oki-soba.jp/history/day/\">沖縄そばの日</a>」的来源！\n\n那覇市区还有好多奇妙特产，比如午餐肉饭团、二千円、还有ハブ毒蛇的泡盛酒... 因为ハブ能连续交配 26 小时所以ハブ酒也有种春药的含义，虽然实际上是都市传说 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 171,
+    "views": 172,
     "forwards": 2,
     "media_group_id": 14250924311363349,
     "images": [
@@ -115718,7 +115718,7 @@
     "id": 8645,
     "date": "2026-06-13T23:58:59",
     "text": "发现我不太会日语的日常对话，所以让流浪猫给 LibreChat 加了一个语法警察，如果我说话太正式了/不够日常会提醒我这样（语法警察的 context 是分开的，这样不会让语法提示的 context 和对话混在一起）\n\n<a href=\"https://github.com/AzaContrib/LibreJPartner\">源码在这里</a>（虽然觉得开源无脑 vibe 出来的东西挺没意思的，但是因为可能会有人觉得有用就还是开源了）",
-    "views": 183,
+    "views": 184,
     "forwards": 1,
     "images": [
       {
@@ -115737,7 +115737,7 @@
     "id": 8646,
     "date": "2026-06-15T04:23:08",
     "text": "最后一只小鸟今天离开了，留下了空巢和一个没有变成小鸟的蛋",
-    "views": 168,
+    "views": 170,
     "forwards": 2,
     "media_group_id": 14251979104699813,
     "images": [
@@ -115772,7 +115772,7 @@
     "id": 8648,
     "date": "2026-06-15T14:48:31",
     "text": "整理照片 发现拍到了空中出现的奇妙未识别飞行物 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 102,
+    "views": 104,
     "forwards": 0,
     "images": [
       {
