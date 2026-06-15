@@ -30569,7 +30569,7 @@
     "id": 2272,
     "date": "2023-06-12T03:46:26",
     "text": "<a href=\"##租房广告\">#租房广告</a>\n九月份多伦多北约克的两居公寓又空出一个房间了，想合租欢迎联系 <a href=\"https://t.me/hykilpikonna\">Azalea</a>！\n\n座标在 Wilson 地铁站旁边走路五分钟，价格大概 CA$950/mo，离 Costco 走路十五分钟。大概是图上那么大的房间，有两个小衣橱、书桌书架椅子、独立卫生间浴室、停车位，共享客厅和厨房。\n\n共享设施的话，有灶台烤箱洗碗机搅拌机洗衣机烘干机、有上下 1 Gbps 光纤 WiFi6、可以分配动态公网 IP 给服务器、可以用我们的两台 3D 打印机、焊接/手工工作台、电钢琴和吉他和 <del>DIY 马林巴琴</del>、电视、VR 头显和各种游戏机和音游手台 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n住在主卧的是 UofT 计算机系本科三年生 Azalea（<a href=\"https://github.com/hykilpikonna\">Github</a> | <a href=\"https://aza.moe/\">Blog</a>）和约克大学软件工程研究生 Lindsey（<a href=\"https://twitter.com/youquzhiji\">Twitter</a>），对室友的要求是 1. 支持 LGBTQ+ <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>，2. 是任意方面的 nerd（有感兴趣到能聊上一整天的东西就满足，比如开源项目/运维/心理/工程/音游/流行文化/铁道/游戏/etc）3. 和我们有越多交集越好\n\n总之想要合租欢迎联系哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 1076,
+    "views": 1077,
     "forwards": 22,
     "media_group_id": 13492332690096989,
     "images": [
@@ -44603,7 +44603,7 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 124,
+    "views": 125,
     "forwards": 1
   },
   {
@@ -77115,7 +77115,7 @@
     "id": 5592,
     "date": "2025-06-14T12:30:05",
     "text": "和海边的猫猫聊天\n\n第一次用喵喵语和本地母语猫聊天，虽然我有很重的地球人口音，但是对方居然听懂了耶！开心，我喵喵语本当上手 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/ZSFM4JiXlM4\">YouTube</a> / <a href=\"https://pixeldrain.com/u/hDCWSXDV\">无压原画</a>",
-    "views": 306,
+    "views": 307,
     "forwards": 2,
     "files": [
       {
@@ -110581,7 +110581,7 @@
     "id": 8277,
     "date": "2026-04-19T22:53:55",
     "text": "呜呜 被坑了... gitadora 的存档丢了\n\n之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用\n\n但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了\n\n然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内\n\n呜呜呜 看来以后不能相信随机网友的 docker 配置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 339,
+    "views": 340,
     "forwards": 3,
     "media_group_id": 14213113883732813,
     "images": [
@@ -112375,7 +112375,7 @@
     "id": 8406,
     "date": "2026-05-10T20:10:57",
     "text": "头发还没睡醒",
-    "views": 361,
+    "views": 362,
     "forwards": 7,
     "images": [
       {
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 272,
+    "views": 273,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
