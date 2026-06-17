@@ -12,7 +12,16 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:56:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:02:49 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #8666</title>
+      <link>https://aza.moe/life?post=8666</link>
+      <description>&lt;p&gt;没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了&lt;/p&gt;
+&lt;p&gt;今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手&lt;/p&gt;
+&lt;p&gt;好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有&lt;/p&gt;
+&lt;p&gt;修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以&lt;a href="https://github.com/caddyserver/caddy/pull/7825"&gt;改了源码给 caddy 启用了旧加密算法支持&lt;/a&gt;（开源软件真好）&lt;/p&gt;</description>
+      <guid isPermaLink="false">8666</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #8665</title>
       <link>https://aza.moe/life?post=8665</link>

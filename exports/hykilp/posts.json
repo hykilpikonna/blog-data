@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 390,
+    "views": 391,
     "forwards": 3,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 337,
+    "views": 338,
     "forwards": 1,
     "images": [
       {
@@ -108533,7 +108533,7 @@
     "id": 8133,
     "date": "2026-03-30T08:16:33",
     "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>",
-    "views": 361,
+    "views": 365,
     "forwards": 0,
     "images": [
       {
@@ -108551,7 +108551,7 @@
   {
     "id": 8134,
     "date": "2026-03-30T18:32:45",
-    "views": 343,
+    "views": 345,
     "forwards": 1,
     "images": [
       {
@@ -108570,7 +108570,7 @@
     "id": 8135,
     "date": "2026-03-31T03:49:18",
     "text": "（？）",
-    "views": 344,
+    "views": 346,
     "forwards": 0,
     "images": [
       {
@@ -108589,7 +108589,7 @@
     "id": 8136,
     "date": "2026-03-31T14:41:22",
     "text": "<b>她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩</b>\nTrans in Academia!\n<a href=\"https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw\">https://mp.weixin.qq.com/s/Ekip9Fe4z26YWelD7hZeFw</a>\n\n各位好，今天是3月31日🏳️‍⚧️跨性别现身日‍，祝大家节日快乐。\n\n在这个特殊的日子，TiA! 的三名作者 发条鼬、Robbin Gan、塗塗狐 共同创作了《她的性别被设定为“？”——晓山瑞希的性别、欲望与酷儿游玩》一文，欢迎大家点击上方链接阅读！",
-    "views": 273,
+    "views": 275,
     "forwards": 3,
     "forwarded_from": {
       "name": "One Channel! 跨儿骄傲联合广播"
@@ -108611,14 +108611,14 @@
     "id": 8137,
     "date": "2026-03-31T17:23:07",
     "text": "<em>This message cannot be displayed because it violated Telegram's Terms of Service.</em>",
-    "views": 371,
+    "views": 373,
     "forwards": 1
   },
   {
     "id": 8138,
     "date": "2026-03-31T18:41:24",
     "text": "<b>公告：我们从「AquaDX」全新更名为「OceanDX」！</b>\n\n做出这一改变是为了与之前的 Aqua 项目区分开来，因为我们现在正在开发一个完全独立的衍生源代码！为了减少混淆、并鼓励“海”量的新贡献者和用户加入我们改了名字。\n\n此外，我们的网站和群组已经更新，以体现这些全新的品牌元素！\n\n我们全新的「OceanNet」网站在 <a href=\"oceandx.net\">oceandx.net</a>\n\n由于域名的更改，您可能需要重新登录。目前，DNS 将保持不变以防止出现兼容性问题（请不要修改 segatools.ini 文件）\n\n感谢使用 OceanDX 并成为我们社区的一员！",
-    "views": 410,
+    "views": 411,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -108641,7 +108641,7 @@
     "id": 8139,
     "date": "2026-03-31T18:57:15",
     "text": "开源了！<a href=\"https://github.com/MewoLab/OceanDX\">https://github.com/MewoLab/OceanDX</a>",
-    "views": 382,
+    "views": 383,
     "forwards": 0,
     "reply": {
       "id": 8138,
@@ -108652,7 +108652,7 @@
     "id": 8140,
     "date": "2026-04-01T09:04:58",
     "text": "谷歌这次更新又来治强迫症了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 379,
+    "views": 380,
     "forwards": 2,
     "media_group_id": 14200274383817613,
     "images": [
@@ -108687,14 +108687,14 @@
     "id": 8142,
     "date": "2026-04-01T14:24:12",
     "text": "是老了还是这几天睡眠债太多... 发现没办法像以前一样在爆肝一晚演讲稿只睡四个小时之后还能有力气起床演讲了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 385,
+    "views": 386,
     "forwards": 0
   },
   {
     "id": 8143,
     "date": "2026-04-01T20:46:04",
     "text": "话说昨天吃汉堡王因为是coupon所以是四人份套餐，可乐喝不完，桂桂昨天告诉我放冰箱里了\n我今天打开冰箱看到的可乐：",
-    "views": 311,
+    "views": 312,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -108715,7 +108715,7 @@
   {
     "id": 8144,
     "date": "2026-04-01T20:46:09",
-    "views": 377,
+    "views": 378,
     "forwards": 1,
     "files": [
       {
@@ -108740,7 +108740,7 @@
     "id": 8145,
     "date": "2026-04-01T23:35:38",
     "text": "一袋长了眼睛的可乐",
-    "views": 421,
+    "views": 422,
     "forwards": 4,
     "files": [
       {
@@ -108761,7 +108761,7 @@
     "id": 8146,
     "date": "2026-04-02T05:14:55",
     "text": "？",
-    "views": 410,
+    "views": 411,
     "forwards": 0,
     "images": [
       {
@@ -108780,7 +108780,7 @@
     "id": 8147,
     "date": "2026-04-02T05:31:45",
     "text": "后续节目：",
-    "views": 462,
+    "views": 463,
     "forwards": 3,
     "media_group_id": 14200863245056029,
     "images": [
@@ -108814,13 +108814,13 @@
     "id": 8149,
     "date": "2026-04-02T08:16:49",
     "text": "今天让 agent 分析了一下日志，看 agent 写了超慢的代码然后跑它的时候完全没有想要优化它的意愿，就突然在想\n\n按现在 agent 这样子，把指令跑起来 LLM 就被暂停，指令跑完了之后 LLM 再被唤醒，这样是不是对于 LLM 来说无论多慢的代码都是一瞬间就处理完了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 感觉像是时间旅行程度的超能力\n\n唉 如果我也能有这种一键暂停/唤醒的功能就好了",
-    "views": 484,
+    "views": 485,
     "forwards": 1
   },
   {
     "id": 8150,
     "date": "2026-04-03T01:37:14",
-    "views": 520,
+    "views": 521,
     "forwards": 1,
     "media_group_id": 14201441874134237,
     "images": [
@@ -108850,14 +108850,14 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4252,
+    "views": 4253,
     "forwards": 31
   },
   {
     "id": 8153,
     "date": "2026-04-03T16:47:22",
     "text": "终于发现之前的 C:\\dev\\null 文件是怎么回事了，是 VSCode 远程开发的隔离有 bug\n\n今天用 VSCode Copilot Agent 在专门开的虚拟机的 SSH 环境里写代码，然后它写文件写到我宿主机上了...\n\n看来不能假设远程开发功能有任何隔离了...",
-    "views": 414,
+    "views": 415,
     "forwards": 6,
     "reply": {
       "id": 8146,
@@ -108880,7 +108880,7 @@
     "id": 8154,
     "date": "2026-04-03T17:26:24",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！",
-    "views": 353,
+    "views": 354,
     "forwards": 1,
     "media_group_id": 14201897473416885,
     "images": [
@@ -109797,7 +109797,7 @@
     "id": 8218,
     "date": "2026-04-13T00:59:26",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 332,
+    "views": 333,
     "forwards": 2,
     "files": [
       {
@@ -109818,7 +109818,7 @@
     "id": 8219,
     "date": "2026-04-13T16:17:07",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 319,
+    "views": 320,
     "forwards": 2,
     "images": [
       {
@@ -109837,7 +109837,7 @@
     "id": 8220,
     "date": "2026-04-13T19:36:24",
     "text": "2/3",
-    "views": 312,
+    "views": 313,
     "forwards": 0,
     "media_group_id": 14208871873572573,
     "images": [
@@ -110291,7 +110291,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2093,
+    "views": 2094,
     "forwards": 31
   },
   {
@@ -111492,7 +111492,7 @@
     "id": 8344,
     "date": "2026-04-30T08:49:52",
     "text": "凌晨在朋友家修 CVE... <a href=\"https://copy.fail\">https://copy.fail</a>\n\n我所有的 linux 服务器都中枪，所以连到每个服务器一个一个修，也许到了能反映出哪个发行版好用的时候了\n\narch 的服务器最好修，直接 pacman -Syu 重启就修好了\n\nproxmox 因为是刚装的所以直接 apt upgrade 也修好了\n\nfedora 两个新的直接 dnf update 就好了，一个旧的要 dnf system-upgrade 跳两次 (40 > 42 > 44)\n\nubuntu... 我的三个 ubuntu 全都火葬场。因为 ubuntu 只有最新的 26 修了，其他版本都没修，所以要把所有系统更新到 26。有一个系统不知道为什么 do-release-upgrade 就是没法更新到 26，所以就 22 > 24 > 25 > 26 了，一天重启了不知道多少次。另一个系统 do-release-upgrade 的过程中和 oracle cloud 的定时任务冲突了，dpkg 报错导致失败还没法回滚，重要的是 sudo 没了，oracle 还禁止 root 登录... 试了一下 copyfail 的 PoC 也不行（因为 PoC 是 x86 的，我是 arm64）。最后还是开了一个新的虚拟机，把盘挂上去修好再挂回去把新的虚拟机删掉，然后继续 24 > 25 > 26...\n\n好累好累，现在快凌晨五点了，我凌晨六点还要开车一个小时回家...",
-    "views": 301,
+    "views": 302,
     "forwards": 3,
     "images": [
       {
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 402,
+    "views": 403,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113078,7 +113078,7 @@
     "id": 8453,
     "date": "2026-05-20T21:20:27",
     "text": "猫草",
-    "views": 303,
+    "views": 304,
     "forwards": 2,
     "images": [
       {
@@ -113097,7 +113097,7 @@
     "id": 8454,
     "date": "2026-05-21T01:31:26",
     "text": "猫穿拖鞋",
-    "views": 319,
+    "views": 320,
     "forwards": 2,
     "media_group_id": 14234616688821181,
     "images": [
@@ -113127,7 +113127,7 @@
     "id": 8456,
     "date": "2026-05-21T05:06:33",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n下班的路上被东京塔吸引走到很近的地方拍了照片！好看的 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n以及当时最喜欢的工作午餐是某蓝色便利店的大鲑饭团 🍙 可惜不久之后就下架了",
-    "views": 287,
+    "views": 288,
     "forwards": 2,
     "media_group_id": 14234719946624717,
     "images": [
@@ -114959,7 +114959,7 @@
     "id": 8587,
     "date": "2026-06-07T15:34:36",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n从阳台上看到了正在举办的第20回「ふれ愛まつりだ、芝地区！」祭典环游，各种年龄的人一起穿法被拉小车敲太鼓好热闹 qwq\n\n（因为是阳台照片，现在不用担心暴露住址终于可以发了）\n\n到了夏天日本各地都在举行不同规模但是都很热闹的祭り，当时周末出去玩的时候总是会路过某个地方的祭り，真好呀",
-    "views": 251,
+    "views": 252,
     "forwards": 0,
     "reply": {
       "id": 5562,
@@ -114983,7 +114983,7 @@
     "id": 8588,
     "date": "2026-06-07T18:45:49",
     "text": "<a href=\"##TIL\">#TIL</a> 「嫉妒」的日语是「ヤキモチ」 aka. 烧饼... 感觉和中文的「吃醋」有异曲同工之妙",
-    "views": 273,
+    "views": 274,
     "forwards": 1,
     "images": [
       {
@@ -115079,7 +115079,7 @@
   {
     "id": 8593,
     "date": "2026-06-09T01:06:15",
-    "views": 266,
+    "views": 267,
     "forwards": 4,
     "files": [
       {
@@ -115101,14 +115101,14 @@
     "id": 8594,
     "date": "2026-06-09T04:44:47",
     "text": "我也会觉得说出一些宏大/遥远的理想很难为情...",
-    "views": 255,
+    "views": 256,
     "forwards": 1
   },
   {
     "id": 8595,
     "date": "2026-06-10T03:50:49",
     "text": "因为之前拍小猫照片大家都说像 toothless，所以今天去二刷了驯龙高手... 果然很像！龙也太可爱了，无论是外观还是行为细节都完全就是我家小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 2,
     "media_group_id": 14248507598228581,
     "images": [
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 288,
+    "views": 289,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
@@ -115222,7 +115222,7 @@
     "id": 8604,
     "date": "2026-06-11T12:42:07",
     "text": "有什么从天上掉下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "media_group_id": 14249453816810885,
     "images": [
@@ -115272,7 +115272,7 @@
     "id": 8608,
     "date": "2026-06-11T16:49:37",
     "text": "门口小鸟的变化过程",
-    "views": 200,
+    "views": 202,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -115384,7 +115384,7 @@
     "id": 8617,
     "date": "2026-06-12T04:59:58",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概会宕机一段时间\n\n因为在没有 KVM 也不在物理机器旁边的情况下 -Syu 重启导致机器起不来了也没办法调试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "images": [
       {
@@ -115403,7 +115403,7 @@
     "id": 8618,
     "date": "2026-06-12T06:02:23",
     "text": "听到今天这次 <a href=\"https://t.me/archlinuxcn/336\">AUR 被投毒</a>的消息其实我很不开心...\n\n因为其实一年半前我注意到了可以大规模 take orphan 投毒的这个可能性，当时准备了一个无害 payload 准备愚人节投出去恶搞一下... 我觉得只有让所有人意识到有这个可能性才能够让 aur 管理员有动力改变 aur 系统的工作方式\n\n不过当时很重要的朋友都劝退觉得我不应该这样做，觉得我会打扰到用户，觉得我会被炎上，觉得软件源应该是被信任的地方... 所以就放弃了，然后现在真的被恶意投毒了\n\n如果当时没有被劝退是不是这次投毒就不会发生了呢？",
-    "views": 257,
+    "views": 260,
     "forwards": 3,
     "media_group_id": 14249953150937525,
     "images": [
@@ -115463,7 +115463,7 @@
     "id": 8623,
     "date": "2026-06-12T16:26:31",
     "text": "修好了另一个低音炮 qwq\n\n结果这次只是输入接口被捅坏掉了，焊出来两根线重新接一个 RCA 接口就修好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <del>太简单了甚至没有在修的时候拍照片</del>",
-    "views": 206,
+    "views": 209,
     "forwards": 0,
     "media_group_id": 14250252728871005,
     "images": [
@@ -115518,7 +115518,7 @@
     "id": 8627,
     "date": "2026-06-12T18:51:11",
     "text": "「29%」",
-    "views": 207,
+    "views": 210,
     "forwards": 2,
     "images": [
       {
@@ -115537,7 +115537,7 @@
     "id": 8628,
     "date": "2026-06-12T23:29:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n寿司！\n\n因为在卖さば的网站上看到了 plant based salmon 就决定试了一下，然后后悔了，只有看上去像三文鱼，口感和味道都完全不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 195,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 14250455811664181,
     "images": [
@@ -115597,14 +115597,14 @@
     "id": 8635,
     "date": "2026-06-13T03:00:32",
     "text": "大概知道为什么用 Youtube 人工字幕数据训练的 ASR 模型日语不好了\n\n发现有些日语视频用人工字幕做文字，然后视频的声音轨道就是纯音乐，没有人声配音那样... 感觉日本人总能想出一个软件设计外的奇妙用法",
-    "views": 198,
+    "views": 200,
     "forwards": 0
   },
   {
     "id": 8636,
     "date": "2026-06-13T03:01:24",
     "text": "期待一下 canada post 会不会给我昨天送到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 216,
+    "views": 221,
     "forwards": 1,
     "images": [
       {
@@ -115623,7 +115623,7 @@
     "id": 8637,
     "date": "2026-06-13T15:45:38",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n和マモル去冲绳的第一天逛了那覇市区，吃了「冲绳そば」\n\n虽然叫そば但是并不是荞麦面哦！实际上更像中华面。名字大概是某种历史遗留：小麦面传入冲绳的时候因为没有对应的词，就用了本地面类的词そば\n\n本土復帰之后本州的公正取引委员会有尝试过把它改名成「冲绳风中华面」，但是因为「冲绳そば」这个名字已经成为了本地文化的一部分，所以在冲绳生面协会反抗下还是继续用了这个名字 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>（大概是「<a href=\"https://oki-soba.jp/history/day/\">沖縄そばの日</a>」的来源！\n\n那覇市区还有好多奇妙特产，比如午餐肉饭团、二千円、还有ハブ毒蛇的泡盛酒... 因为ハブ能连续交配 26 小时所以ハブ酒也有种春药的含义，虽然实际上是都市传说 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 200,
+    "views": 202,
     "forwards": 2,
     "media_group_id": 14250924311363349,
     "images": [
@@ -115718,7 +115718,7 @@
     "id": 8645,
     "date": "2026-06-13T23:58:59",
     "text": "发现我不太会日语的日常对话，所以让流浪猫给 LibreChat 加了一个语法警察，如果我说话太正式了/不够日常会提醒我这样（语法警察的 context 是分开的，这样不会让语法提示的 context 和对话混在一起）\n\n<a href=\"https://github.com/AzaContrib/LibreJPartner\">源码在这里</a>（虽然觉得开源无脑 vibe 出来的东西挺没意思的，但是因为可能会有人觉得有用就还是开源了）",
-    "views": 211,
+    "views": 214,
     "forwards": 2,
     "images": [
       {
@@ -115737,7 +115737,7 @@
     "id": 8646,
     "date": "2026-06-15T04:23:08",
     "text": "最后一只小鸟今天离开了，留下了空巢和一个没有变成小鸟的蛋",
-    "views": 213,
+    "views": 215,
     "forwards": 2,
     "media_group_id": 14251979104699813,
     "images": [
@@ -115772,7 +115772,7 @@
     "id": 8648,
     "date": "2026-06-15T14:48:31",
     "text": "整理照片 发现拍到了空中出现的奇妙未识别飞行物 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 196,
+    "views": 201,
     "forwards": 0,
     "images": [
       {
@@ -115790,7 +115790,7 @@
   {
     "id": 8649,
     "date": "2026-06-16T01:38:27",
-    "views": 146,
+    "views": 151,
     "forwards": 0,
     "forwarded_from": {
       "name": "fox_porn🦊"
@@ -115812,7 +115812,7 @@
     "id": 8651,
     "date": "2026-06-16T02:53:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\npho!",
-    "views": 175,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 14252627115678861,
     "images": [
@@ -115842,14 +115842,14 @@
     "id": 8652,
     "date": "2026-06-16T03:59:51",
     "text": "好像感冒了... 原本以为是吸入太多助焊剂烟导致鼻子嗓子疼，结果过了一天半还没好所以大概是感冒了",
-    "views": 171,
+    "views": 176,
     "forwards": 0
   },
   {
     "id": 8653,
     "date": "2026-06-16T13:21:13",
     "text": "猫",
-    "views": 158,
+    "views": 162,
     "forwards": 1,
     "media_group_id": 14252928589715213,
     "images": [
@@ -115929,7 +115929,7 @@
     "id": 8660,
     "date": "2026-06-16T17:13:59",
     "text": "啊啊... Linux 上居然真的让你把屏幕亮度调到 0, 然后鼠标挪走了就看不见亮度条在哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 需要摸黑找亮度条...",
-    "views": 141,
+    "views": 149,
     "forwards": 0,
     "images": [
       {
@@ -115947,7 +115947,7 @@
   {
     "id": 8661,
     "date": "2026-06-16T18:55:47",
-    "views": 123,
+    "views": 140,
     "forwards": 1,
     "images": [
       {
@@ -115966,7 +115966,7 @@
     "id": 8662,
     "date": "2026-06-16T21:52:39",
     "text": "呜呜",
-    "views": 111,
+    "views": 138,
     "forwards": 0,
     "media_group_id": 14253174072981661,
     "images": [
@@ -115996,7 +115996,7 @@
     "id": 8665,
     "date": "2026-06-17T00:19:16",
     "text": "种的白菜/油菜",
-    "views": 90,
+    "views": 123,
     "forwards": 1,
     "media_group_id": 14253244451626341,
     "images": [
@@ -116019,6 +116019,29 @@
         "url": "media/8665.jpg",
         "size": 1494108,
         "thumb": "media/8665.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8666,
+    "date": "2026-06-17T06:43:05",
+    "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
+    "views": 76,
+    "forwards": 1,
+    "reply": {
+      "id": 8133,
+      "text": "网安课作业，用 rust 写了一个 TLS 实现 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n虽然重新搓轮子是有点无聊，但是第一次读 RFC 写实现，最后真的成功和公网上的正经 HTTPS 网页和客户端连通的时候真的好开心！\n\n从小课上学的都是现实世界的无限简化版，没想到这次真的达到了能和真货说话的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i> 感觉某种课程内容的边界被打破了\n\n<span class=\"spoiler\"><span>（虽然好像依然是简化内容，毕竟实现的是旧版本 TLS 1.2、只实现了其中两个 Cipher Suite、只有最低限度的扩展...</span></span>"
+    },
+    "images": [
+      {
+        "width": 1907,
+        "height": 1531,
+        "date": "2026-06-17T06:43:05",
+        "media_type": "photo",
+        "original_name": "photo_2026-06-17_06-43-05.jpg",
+        "url": "media/8666.jpg",
+        "size": 423392,
+        "thumb": "media/8666.jpg_thumb.jpg"
       }
     ]
   }
