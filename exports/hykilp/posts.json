@@ -115024,7 +115024,7 @@
     "id": 8590,
     "date": "2026-06-08T12:08:34",
     "text": "好好笑",
-    "views": 266,
+    "views": 267,
     "forwards": 3,
     "images": [
       {
@@ -115042,7 +115042,7 @@
   {
     "id": 8591,
     "date": "2026-06-08T12:52:04",
-    "views": 267,
+    "views": 268,
     "forwards": 0,
     "images": [
       {
@@ -115222,7 +115222,7 @@
     "id": 8604,
     "date": "2026-06-11T12:42:07",
     "text": "有什么从天上掉下来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 232,
+    "views": 233,
     "forwards": 1,
     "media_group_id": 14249453816810885,
     "images": [
@@ -115272,7 +115272,7 @@
     "id": 8608,
     "date": "2026-06-11T16:49:37",
     "text": "门口小鸟的变化过程",
-    "views": 207,
+    "views": 208,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -115365,7 +115365,7 @@
     "id": 8616,
     "date": "2026-06-11T23:26:02",
     "text": "还在想 PowerToys 会不会终于要到 v1 了",
-    "views": 715,
+    "views": 716,
     "forwards": 4,
     "images": [
       {
@@ -115737,7 +115737,7 @@
     "id": 8646,
     "date": "2026-06-15T04:23:08",
     "text": "最后一只小鸟今天离开了，留下了空巢和一个没有变成小鸟的蛋",
-    "views": 234,
+    "views": 235,
     "forwards": 2,
     "media_group_id": 14251979104699813,
     "images": [
@@ -115849,7 +115849,7 @@
     "id": 8653,
     "date": "2026-06-16T13:21:13",
     "text": "猫",
-    "views": 193,
+    "views": 194,
     "forwards": 2,
     "media_group_id": 14252928589715213,
     "images": [
@@ -115929,7 +115929,7 @@
     "id": 8660,
     "date": "2026-06-16T17:13:59",
     "text": "啊啊... Linux 上居然真的让你把屏幕亮度调到 0, 然后鼠标挪走了就看不见亮度条在哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 需要摸黑找亮度条...",
-    "views": 189,
+    "views": 191,
     "forwards": 2,
     "images": [
       {
@@ -115947,7 +115947,7 @@
   {
     "id": 8661,
     "date": "2026-06-16T18:55:47",
-    "views": 192,
+    "views": 194,
     "forwards": 2,
     "images": [
       {
@@ -115966,7 +115966,7 @@
     "id": 8662,
     "date": "2026-06-16T21:52:39",
     "text": "呜呜",
-    "views": 198,
+    "views": 200,
     "forwards": 0,
     "media_group_id": 14253174072981661,
     "images": [
@@ -115996,7 +115996,7 @@
     "id": 8665,
     "date": "2026-06-17T00:19:16",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的白菜/油菜",
-    "views": 198,
+    "views": 200,
     "forwards": 1,
     "media_group_id": 14253244451626341,
     "images": [
@@ -116026,7 +116026,7 @@
     "id": 8666,
     "date": "2026-06-17T06:43:05",
     "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
-    "views": 235,
+    "views": 239,
     "forwards": 4,
     "reply": {
       "id": 8133,
@@ -116049,7 +116049,7 @@
     "id": 8667,
     "date": "2026-06-17T16:51:46",
     "text": "结果开的 pr 被维护者关了，孬。\n\n大概会把 fork 留在 <a href=\"https://github.com/MewoLab/caddy-oldtls\">MewoLab/caddy-oldtls</a>",
-    "views": 205,
+    "views": 213,
     "forwards": 2,
     "reply": {
       "id": 8666,
@@ -116072,7 +116072,7 @@
     "id": 8668,
     "date": "2026-06-17T21:49:15",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n剪掉了一些后院的杂草，剪出来的杂草堆了半个垃圾桶，好累\n\n杂草好茂盛，吸走了土地里的养分又没有什么用... 如果能 genetic engineer 出像蓟或者蒲公英那么爱长的白菜、遍地长满野白菜就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 137,
+    "views": 143,
     "forwards": 0,
     "reply": {
       "id": 8665,
@@ -116096,7 +116096,7 @@
     "id": 8669,
     "date": "2026-06-17T22:34:09",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n在冲绳路过「<a href=\"https://maps.app.goo.gl/uJspDJMSH76zxoHw5\">猫の道</a>」认识了很多本地的可爱小猫，也有很多两脚兽给小猫钓鱼 qwq\n\n不知道小猫会不会也觉得游客太多了呢",
-    "views": 135,
+    "views": 143,
     "forwards": 1,
     "media_group_id": 14253885195173629,
     "images": [
@@ -116169,7 +116169,7 @@
   {
     "id": 8675,
     "date": "2026-06-17T23:15:35",
-    "views": 137,
+    "views": 145,
     "forwards": 0,
     "media_group_id": 14253905081165077,
     "images": [
@@ -116199,7 +116199,7 @@
     "id": 8677,
     "date": "2026-06-18T04:05:35",
     "text": "躺在床上闭上眼睛全都是这个长满刺的草... <i class=\"custom-emoji\" emoji-src=\"emoji/6320940220342601246.webp\">😴</i>",
-    "views": 94,
+    "views": 104,
     "forwards": 0,
     "reply": {
       "id": 8668,
