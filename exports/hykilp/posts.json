@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6596,
+    "views": 6597,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -102904,7 +102904,7 @@
     "id": 7685,
     "date": "2026-01-10T03:55:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n在 Celestium 和 tracer 家里吃了すき焼き！",
-    "views": 291,
+    "views": 292,
     "forwards": 1,
     "media_group_id": 14144138456527205,
     "images": [
@@ -114797,7 +114797,7 @@
     "id": 8573,
     "date": "2026-06-06T19:31:47",
     "text": "猫猫抓到了第一只活的老鼠！\n\n...实际上是 猫猫叼着活的老鼠就跑进来了然后老鼠在房间里乱窜，窜进了储物间，我把门关上门缝堵上我和猫猫一起抓才终于抓到瓶子里了。\n\n猫猫好像比起吃老鼠来说更想和老鼠玩，我也没有杀死它的决心，所以暂时决定把它封印在瓶子里了（戳了透气孔）",
-    "views": 300,
+    "views": 301,
     "forwards": 4,
     "media_group_id": 14246194458684965,
     "images": [
@@ -115772,7 +115772,7 @@
     "id": 8648,
     "date": "2026-06-15T14:48:31",
     "text": "整理照片 发现拍到了空中出现的奇妙未识别飞行物 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 0,
     "images": [
       {
@@ -115790,7 +115790,7 @@
   {
     "id": 8649,
     "date": "2026-06-16T01:38:27",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "forwarded_from": {
       "name": "fox_porn🦊"
@@ -115812,7 +115812,7 @@
     "id": 8651,
     "date": "2026-06-16T02:53:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\npho!",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "media_group_id": 14252627115678861,
     "images": [
@@ -115842,14 +115842,14 @@
     "id": 8652,
     "date": "2026-06-16T03:59:51",
     "text": "好像感冒了... 原本以为是吸入太多助焊剂烟导致鼻子嗓子疼，结果过了一天半还没好所以大概是感冒了",
-    "views": 200,
+    "views": 201,
     "forwards": 0
   },
   {
     "id": 8653,
     "date": "2026-06-16T13:21:13",
     "text": "猫",
-    "views": 195,
+    "views": 196,
     "forwards": 2,
     "media_group_id": 14252928589715213,
     "images": [
@@ -115929,7 +115929,7 @@
     "id": 8660,
     "date": "2026-06-16T17:13:59",
     "text": "啊啊... Linux 上居然真的让你把屏幕亮度调到 0, 然后鼠标挪走了就看不见亮度条在哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 需要摸黑找亮度条...",
-    "views": 193,
+    "views": 194,
     "forwards": 2,
     "images": [
       {
@@ -115947,7 +115947,7 @@
   {
     "id": 8661,
     "date": "2026-06-16T18:55:47",
-    "views": 195,
+    "views": 196,
     "forwards": 2,
     "images": [
       {
@@ -115966,7 +115966,7 @@
     "id": 8662,
     "date": "2026-06-16T21:52:39",
     "text": "呜呜",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "media_group_id": 14253174072981661,
     "images": [
@@ -115996,7 +115996,7 @@
     "id": 8665,
     "date": "2026-06-17T00:19:16",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的白菜/油菜",
-    "views": 201,
+    "views": 202,
     "forwards": 1,
     "media_group_id": 14253244451626341,
     "images": [
@@ -116026,7 +116026,7 @@
     "id": 8666,
     "date": "2026-06-17T06:43:05",
     "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
-    "views": 241,
+    "views": 242,
     "forwards": 4,
     "reply": {
       "id": 8133,
@@ -116049,7 +116049,7 @@
     "id": 8667,
     "date": "2026-06-17T16:51:46",
     "text": "结果开的 pr 被维护者关了，孬。\n\n大概会把 fork 留在 <a href=\"https://github.com/MewoLab/caddy-oldtls\">MewoLab/caddy-oldtls</a>",
-    "views": 216,
+    "views": 217,
     "forwards": 2,
     "reply": {
       "id": 8666,
@@ -116072,7 +116072,7 @@
     "id": 8668,
     "date": "2026-06-17T21:49:15",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n剪掉了一些后院的杂草，剪出来的杂草堆了半个垃圾桶，好累\n\n杂草好茂盛，吸走了土地里的养分又没有什么用... 如果能 genetic engineer 出像蓟或者蒲公英那么爱长的白菜、遍地长满野白菜就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 146,
+    "views": 148,
     "forwards": 0,
     "reply": {
       "id": 8665,
@@ -116096,7 +116096,7 @@
     "id": 8669,
     "date": "2026-06-17T22:34:09",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n在冲绳路过「<a href=\"https://maps.app.goo.gl/uJspDJMSH76zxoHw5\">猫の道</a>」认识了很多本地的可爱小猫，也有很多两脚兽给小猫钓鱼 qwq\n\n不知道小猫会不会也觉得游客太多了呢",
-    "views": 148,
+    "views": 150,
     "forwards": 2,
     "media_group_id": 14253885195173629,
     "images": [
@@ -116169,7 +116169,7 @@
   {
     "id": 8675,
     "date": "2026-06-17T23:15:35",
-    "views": 151,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14253905081165077,
     "images": [
@@ -116199,7 +116199,7 @@
     "id": 8677,
     "date": "2026-06-18T04:05:35",
     "text": "躺在床上闭上眼睛全都是这个长满刺的草... <i class=\"custom-emoji\" emoji-src=\"emoji/6320940220342601246.webp\">😴</i>",
-    "views": 112,
+    "views": 115,
     "forwards": 0,
     "reply": {
       "id": 8668,
