@@ -35268,7 +35268,7 @@
     "id": 2642,
     "date": "2023-09-09T18:29:15",
     "text": "结婚了！<i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i>\n\n在梦想小木屋旅店，穿上了很适合小木屋的 lolita，分别邀请了我的前任和聊聊的前任做证婚人，戴上去年七夕做的折纸戒指 qwq",
-    "views": 182,
+    "views": 183,
     "forwards": 8,
     "media_group_id": 13554273244968861,
     "images": [
@@ -106888,7 +106888,7 @@
     "id": 8001,
     "date": "2026-03-11T18:18:04",
     "text": "真的每次每次去学校都能遇到好玩的活动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>\n\n这次是 capstone design 项目的展会，大家的项目都好有意思 qwq",
-    "views": 471,
+    "views": 472,
     "forwards": 0,
     "media_group_id": 14186024678191165,
     "images": [
@@ -106998,7 +106998,7 @@
     "id": 8011,
     "date": "2026-03-11T22:25:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>",
-    "views": 614,
+    "views": 615,
     "forwards": 0,
     "files": [
       {
@@ -107019,7 +107019,7 @@
     "id": 8012,
     "date": "2026-03-12T04:05:20",
     "text": "又到了植树节 qwq\n\n想起去年的频道树好好玩，不知道要不要重启一下（一方面想要让去年没参与的频道主可以参与，另一方面觉得同样的事情第二次会有点无聊... 怎么办呢）",
-    "views": 693,
+    "views": 694,
     "forwards": 0,
     "reply": {
       "id": 5017,
@@ -107030,7 +107030,7 @@
     "id": 8013,
     "date": "2026-03-12T06:50:39",
     "text": "又到了植树节！想和大家一起再种一颗 tgcn 频道树🌳！（这次有更多功能可以玩哦~）\n\n这里是 小桂桂的回忆录 📒，是频道树的树根 🌳\n\n（如果你也有公开频道，想成为这个频道的树叶的话，就点击下面的「成为树叶」吧！ > <） <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fazaneko&rhash=d96b84e483dc30\">‎</a>",
-    "views": 847,
+    "views": 848,
     "forwards": 8,
     "forwarded_from": {
       "name": "🌲 TGCN 植树机器人 🌲",
@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1861,
+    "views": 1863,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -107051,7 +107051,7 @@
   {
     "id": 8015,
     "date": "2026-03-12T18:43:51",
-    "views": 550,
+    "views": 551,
     "forwards": 1,
     "images": [
       {
@@ -115790,7 +115790,7 @@
   {
     "id": 8649,
     "date": "2026-06-16T01:38:27",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "forwarded_from": {
       "name": "fox_porn🦊"
@@ -115996,7 +115996,7 @@
     "id": 8665,
     "date": "2026-06-17T00:19:16",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的白菜/油菜",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "media_group_id": 14253244451626341,
     "images": [
@@ -116026,7 +116026,7 @@
     "id": 8666,
     "date": "2026-06-17T06:43:05",
     "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
-    "views": 278,
+    "views": 281,
     "forwards": 4,
     "reply": {
       "id": 8133,
@@ -116049,7 +116049,7 @@
     "id": 8667,
     "date": "2026-06-17T16:51:46",
     "text": "结果开的 pr 被维护者关了，孬。\n\n大概会把 fork 留在 <a href=\"https://github.com/MewoLab/caddy-oldtls\">MewoLab/caddy-oldtls</a>",
-    "views": 263,
+    "views": 265,
     "forwards": 2,
     "reply": {
       "id": 8666,
@@ -116072,7 +116072,7 @@
     "id": 8668,
     "date": "2026-06-17T21:49:15",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n剪掉了一些后院的杂草，剪出来的杂草堆了半个垃圾桶，好累\n\n杂草好茂盛，吸走了土地里的养分又没有什么用... 如果能 genetic engineer 出像蓟或者蒲公英那么爱长的白菜、遍地长满野白菜就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 195,
+    "views": 197,
     "forwards": 0,
     "reply": {
       "id": 8665,
@@ -116096,7 +116096,7 @@
     "id": 8669,
     "date": "2026-06-17T22:34:09",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n在冲绳路过「<a href=\"https://maps.app.goo.gl/uJspDJMSH76zxoHw5\">猫の道</a>」认识了很多本地的可爱小猫，也有很多两脚兽给小猫钓鱼 qwq\n\n不知道小猫会不会也觉得游客太多了呢",
-    "views": 195,
+    "views": 196,
     "forwards": 3,
     "media_group_id": 14253885195173629,
     "images": [
@@ -116169,7 +116169,7 @@
   {
     "id": 8675,
     "date": "2026-06-17T23:15:35",
-    "views": 196,
+    "views": 197,
     "forwards": 0,
     "media_group_id": 14253905081165077,
     "images": [
@@ -116199,7 +116199,7 @@
     "id": 8677,
     "date": "2026-06-18T04:05:35",
     "text": "躺在床上闭上眼睛全都是这个长满刺的草... <i class=\"custom-emoji\" emoji-src=\"emoji/6320940220342601246.webp\">😴</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "reply": {
       "id": 8668,
@@ -116209,7 +116209,7 @@
   {
     "id": 8678,
     "date": "2026-06-19T03:54:53",
-    "views": 171,
+    "views": 172,
     "forwards": 0
   },
   {
@@ -116331,7 +116331,7 @@
     "id": 8689,
     "date": "2026-06-20T16:34:44",
     "text": "<a href=\"##猫片\">#猫片</a>\n拍到小猫在草鲨鲨 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 151,
+    "views": 153,
     "forwards": 5,
     "files": [
       {
@@ -116352,7 +116352,7 @@
     "id": 8690,
     "date": "2026-06-20T22:05:07",
     "text": "去 Jazz Fest 看了酷儿乐队 Trash Panda Brass 的演出！演出超级不错！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n去前排拍了很多好看照片 qwq",
-    "views": 125,
+    "views": 129,
     "forwards": 1,
     "media_group_id": 14255944861810333,
     "images": [
@@ -116462,7 +116462,7 @@
     "id": 8700,
     "date": "2026-06-21T07:06:51",
     "text": "哇 回家路上看到这是哪个 UW 铁道厨的痛车 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n我也好想做一个电车那样的目的地显示屏放在车后面",
-    "views": 100,
+    "views": 107,
     "forwards": 1,
     "images": [
       {
