@@ -15328,14 +15328,14 @@
     "id": 1218,
     "date": "2022-09-19T15:23:44",
     "text": "<a href=\"http://www.styluslabs.com/\">http://www.styluslabs.com/</a>\n\n这个手写笔记软件的网页居然是手写的诶！好好玩 qwq",
-    "views": 86,
+    "views": 87,
     "forwards": 0
   },
   {
     "id": 1219,
     "date": "2022-09-19T16:33:22",
     "text": "刚拿到 logisim evolution 应该做什么hhh",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
@@ -15354,7 +15354,7 @@
     "id": 1220,
     "date": "2022-09-19T18:42:07",
     "text": "2in1 本的正确用法",
-    "views": 68,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 13308903417911293,
     "images": [
@@ -15394,14 +15394,14 @@
     "id": 1223,
     "date": "2022-09-20T05:41:38",
     "text": "一转眼就又快到凌晨两点了... 时间过得好快",
-    "views": 69,
+    "views": 70,
     "forwards": 0
   },
   {
     "id": 1224,
     "date": "2022-09-20T15:07:47",
     "text": "TTC 公交新车换了 LCD 屏幕之后字更小了完全看不清...",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "media_group_id": 13309491741559629,
     "images": [
@@ -15431,7 +15431,7 @@
     "id": 1229,
     "date": "2022-09-21T02:07:13",
     "text": "给 Intel 600P 写零，写着写着速度从 1.8 GB/s 降到了 120 MB/s...\n\n然后发现是 SSD 过热了，明明贴了散热片还烧到了 71°C (╯’ – ‘)╯︵ ┻━┻\n\n把去年在宿舍买的大风扇贴上去暂时解决了问题，温度降到了 57°C，也没有严重警告了 ┬─┬ ノ( ‘ – ‘ノ)",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13309808270629829,
     "images": [
@@ -15471,7 +15471,7 @@
     "id": 1232,
     "date": "2022-09-21T02:37:28",
     "text": "好耶！我也用上灵车 btrfs raid0 了\n\n用了两块超灵车电子垃圾 SSD，一块「大号 U 盘」SN350 和一块 Intel 600P 🌚",
-    "views": 74,
+    "views": 75,
     "forwards": 0,
     "images": [
       {
@@ -15490,7 +15490,7 @@
     "id": 1233,
     "date": "2022-09-21T22:29:02",
     "text": "在学校捡到一个长满了刺的果子，然后查了一下发现它居然是栗子！🌰\n\n原来栗子外面是这个样子的 😮",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "images": [
       {
@@ -39492,7 +39492,7 @@
     "id": 2937,
     "date": "2023-11-25T09:36:07",
     "text": "RGB！",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 2936,
@@ -39518,7 +39518,7 @@
     "id": 2938,
     "date": "2023-11-25T18:33:49",
     "text": "开源了写了文档，源码在<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/CardReader\">这里</a> qwq",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 2936,
@@ -39529,7 +39529,7 @@
     "id": 2939,
     "date": "2023-11-25T20:14:34",
     "text": "悲 发烧了",
-    "views": 114,
+    "views": 115,
     "forwards": 0
   },
   {
@@ -39674,7 +39674,7 @@
     "id": 2948,
     "date": "2023-11-27T18:14:07",
     "text": "考完了！比预计的好，有被某位校友写在考场柱子上的文字暖到 qwq",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "reply": {
       "id": 2946,
@@ -39697,7 +39697,7 @@
     "id": 2949,
     "date": "2023-11-28T02:56:36",
     "text": "好消息是数据都备份出去了，而且 scrub 一遍发现数据只有 28 个 4kb 块出无法恢复的错。坏消息是剩下的问题我也不知道怎么修，现在 Reallocated Sector 还在不断增加，而且 scrub 之后 btrfs check 还有无数个报错...\n\n目前在进行一些超级慢的坏道扫描，从 SMART error log 看来坏道似乎是比较连续的，地址也很接近，希望可以屏蔽一些坏道解决。\n\n从国内买了一块新的二手 14TB 盘，暂时打算等新盘到之前继续用，希望不会在新盘到之前坏掉（x）\n\n<span class=\"spoiler\"><span>为什么别人通电两年没问题的盘到我手里不到一年就坏成这样了呢？突然在想会不会和使用习惯有关... <del>我我服务器离桌子很近而且我 ADHD 经常抖腿，会不会是抖腿震到硬盘了</del> </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</span></span></i>",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "reply": {
       "id": 2944,
@@ -39720,7 +39720,7 @@
     "id": 2950,
     "date": "2023-11-28T08:19:38",
     "text": "写了一个扫坏道脚本，会用 1gb 区块估算速度和剩余时间、可以随时停下从断点继续、停止扫描的时候会等这个区块扫完以防遗留、会把所有坏道和扫描历史记录成 Json、自动做地址换算转成要屏蔽的 LBA",
-    "views": 151,
+    "views": 152,
     "forwards": 4,
     "media_group_id": 13609276631025917,
     "images": [
@@ -39816,7 +39816,7 @@
     "id": 2958,
     "date": "2023-12-01T07:30:27",
     "text": "说起来现在 <a href=\"aza.moe\">aza.moe</a> 这个主页还是部署在 github pages 来着，之前还害怕会不会总共大小超过 1GB 就要重构了，因为 github 规则上写允许的最大部署就是 1GB\n\n结果原来只是警告一下“超过了可能会部署失败”但是实际上完全没问题 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "reply": {
       "id": 2955,
@@ -39839,7 +39839,7 @@
     "id": 2959,
     "date": "2023-12-01T20:31:51",
     "text": "呜 昨天熬夜写作业熬到凌晨八点，现在迷迷糊糊躺在床上听着<del>聊聊打字_asmr.wav</del>，感觉好好听被催眠了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 207,
+    "views": 208,
     "forwards": 2,
     "images": [
       {
@@ -43007,7 +43007,7 @@
     "id": 3183,
     "date": "2024-01-13T05:58:54",
     "text": "DX Rating 上五位数了！！开心",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "files": [
       {
@@ -43086,7 +43086,7 @@
     "id": 3188,
     "date": "2024-01-15T01:56:26",
     "text": "今天在 smash 打过了聊聊！",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "images": [
       {
@@ -43105,7 +43105,7 @@
     "id": 3189,
     "date": "2024-01-15T02:07:21",
     "text": "（在选择角色的时候）\n聊聊：给你看看这个 DLC 都有什么了不起的联动\n（省略一千字）\n我：<del>那也不是很多嘛，连 nekopara 香子兰都没有</del>",
-    "views": 146,
+    "views": 147,
     "forwards": 0,
     "reply": {
       "id": 3188,
@@ -43116,14 +43116,14 @@
     "id": 3190,
     "date": "2024-01-15T04:27:12",
     "text": "有十多个邮件要发但是现在只想睡觉...",
-    "views": 131,
+    "views": 132,
     "forwards": 0
   },
   {
     "id": 3191,
     "date": "2024-01-15T06:50:54",
     "text": "发完了三个... 感觉发邮件这种事情好心累，等到回复之前都会好焦虑好不安，会让我睡不着让我做噩梦",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "reply": {
       "id": 3190,
@@ -43134,15 +43134,15 @@
     "id": 3192,
     "date": "2024-01-15T07:22:42",
     "text": "好冷好冷好冷！",
-    "views": 139,
+    "views": 140,
     "forwards": 0
   },
   {
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 162,
-    "forwards": 3,
+    "views": 164,
+    "forwards": 4,
     "media_group_id": 13643119076454173,
     "images": [
       {
@@ -43191,7 +43191,7 @@
     "id": 3197,
     "date": "2024-01-17T00:34:04",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n可乐鸡腿！",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "images": [
       {
@@ -43210,7 +43210,7 @@
     "id": 3198,
     "date": "2024-01-17T04:53:45",
     "text": "<a href=\"##wactroller\">#wactroller</a> 今天土豆和 dv 帮忙测试把电视装上去了！结果电视晃晃被吓到了\n\n总结出今天的几个问题：\n\n1. 用 2mm 铝板 VESA 固定电视的话会前后晃动得很厉害\n2. VESA 铝板打孔打错了，下面螺纹是 M6 但是上面通孔打成了 M5\n3. 三通件用普通的圆头螺丝还是太大了装不进去，必须用矮一些的半圆头螺丝\n\n重新设计了一下 VESA 背板，加了两个折弯点，希望这样横向强度应该就足够了...",
-    "views": 128,
+    "views": 129,
     "forwards": 1,
     "media_group_id": 13643737806158573,
     "files": [
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 133,
+    "views": 134,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43311,7 +43311,7 @@
     "id": 3204,
     "date": "2024-01-18T15:13:26",
     "text": "感觉自己密恐还是不太适合 AI 修图... 因为 AI 生成的结果里总是会出现很掉 san 的东西，经常会被生成完的一瞬间 jump scare，以至于之前修图的时候如果不把画布缩放到超级小都不敢点生成\n\n明明修这个图已经是一周前了，躺在床上闭上眼睛还是会时不时闪过掉 san 的碎片然后害怕得睡不着",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 136,
+    "views": 137,
     "forwards": 2,
     "files": [
       {
@@ -44458,7 +44458,7 @@
     "id": 3282,
     "date": "2024-02-01T22:39:58",
     "text": "今天签文件用到了 iPad 之后突然发现自从入坑街机之后好久没有玩过移动端音游了，我的 iPad 也因此吃灰了好久（感觉只有玩音游和画画的时候会打开它\n\n打开了之前退坑的 Arcaea，发现用小屏幕玩动的只有胳膊和手指、没办法用整个身体跟节奏好不习惯，手指触摸也好缺打击感... 音游真的是由奢入俭难唉\n\n在想要不要出掉... <span class=\"spoiler\"><span>但是这也是我最后一个白苹果设备了出掉会不会不太好</span></span>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "images": [
       {
@@ -44477,7 +44477,7 @@
     "id": 3283,
     "date": "2024-02-02T06:13:33",
     "text": "哭哭 数据迁移好麻烦，先睡觉觉明天再继续折腾（eta +1d）",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "reply": {
       "id": 3281,
@@ -44488,7 +44488,7 @@
     "id": 3284,
     "date": "2024-02-02T06:18:53",
     "text": "数据已经拷完了，从 12TB btrfs 盘迁移到了新的 14TB bcachefs 盘。\n\n但是因为不想像上次那样被床和抖腿震坏所以还需要物理迁移到一个不会被震的地方，然后要在那边重新 setup NAS\n\n接下来还要看看旧硬盘上有哪些文件损坏了没有拷出来需要用 ddrescue 恢复...",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 3283,
@@ -44499,14 +44499,14 @@
     "id": 3285,
     "date": "2024-02-02T19:41:51",
     "text": "<a href=\"##梦\">#梦</a> 梦见在学校课上认识了一个新的朋友，她带我坐学校的超级电梯去月球上参观她的研究所，说她在研究还原地球的生态，在控制的小环境里的效果还不错，好厉害\n\n想留一个入口回到这里，就假装去厕所去开了两张传送卡片。似乎是一种不是很多人知道、可以一次性传送到记录的地点的卡片。不过在开的时候被一个穿得很正式的研究员看到了，靠近了我才看清是猫猫球，原本紧张的气氛突然放松了下来。聊了一聊发现原来猫猫球也是来开传送的，从另一边的超级电梯混进来，还给我看了她的 DIY 传送卡片，好厉害",
-    "views": 104,
+    "views": 105,
     "forwards": 1
   },
   {
     "id": 3286,
     "date": "2024-02-02T22:18:55",
     "text": "我要疯了",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -44530,7 +44530,7 @@
     "id": 3287,
     "date": "2024-02-02T23:18:58",
     "text": "贴完了！花了整整一个小时，ADHD 做这种又重复又需要集中的事情真是地狱 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n以及原来 Windows 有防猫功能",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 13655327505851861,
     "images": [
@@ -44584,7 +44584,7 @@
     "id": 3291,
     "date": "2024-02-03T03:10:10",
     "text": "哇 自动泡面售货机",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
@@ -44603,21 +44603,21 @@
     "id": 3292,
     "date": "2024-02-03T06:01:32",
     "text": "之前一直以为 Linux mainline 是一个很稳定的东西，至少每个版本都是内核魔法师测试过的版本吧？然后上周 btrfs 出了 bug 才发现很多 bug 都是进了 mainline 内核才被人发现...\n\n现在就好尴尬，我同时在用 btrfs 和 bcachefs，可是 6.7 btrfs 有 bug，而且 6.7 又恰好是 bcachefs 合并进来的第一个版本 🤯\n\n打算明天试试群友 <a href=\"https://t.me/q234rty\">@q234rty</a> 的方法加一些还没有合进 mainline 的 <a href=\"https://lore.kernel.org/all/cover.1706177914.git.fdmanana@suse.com/T/\">patch1</a> 和 <a href=\"https://lore.kernel.org/linux-btrfs/eba624e8cef9a1e84c9e1ba0c8f32347aa487e63.1706892030.git.fdmanana@suse.com/\">patch2</a> 手动编译，说不定就没有 bug 了（希望不会把更多东西弄坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n<del>现在感觉 mainline 更像是 nightly，LTS 才是 stable</del>",
-    "views": 125,
+    "views": 126,
     "forwards": 1
   },
   {
     "id": 3293,
     "date": "2024-02-03T23:09:48",
     "text": "Q: 下午六点才起床的话吃的是早饭还是晚饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 116,
+    "views": 117,
     "forwards": 0
   },
   {
     "id": 3294,
     "date": "2024-02-04T04:13:50",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉饭！\n\n看 yuri 做了卤肉馋馋我也做了 quq 不过因为家里没有五花肉就用了叉烧肉，有点瘦不过也挺好吃的",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13656160244402573,
     "images": [
@@ -44729,7 +44729,7 @@
     "id": 3302,
     "date": "2024-02-05T04:57:42",
     "text": "看到地图上标的点写了 \"Cache\" 还在想这里为什么有缓存，查了一下才知道 cache 的本意是 \"a secure place of storage\" <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 129,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 13656872502284565,
     "images": [
@@ -44759,7 +44759,7 @@
     "id": 3304,
     "date": "2024-02-05T06:41:24",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6172422080902989732.webm\">👊</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -45560,7 +45560,7 @@
     "id": 3355,
     "date": "2024-02-17T03:26:14",
     "text": "看着好舒服 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "reply": {
       "id": 3354
@@ -45582,7 +45582,7 @@
     "id": 3356,
     "date": "2024-02-17T07:58:50",
     "text": "今天给 AquaDX 注册域名的时候试了一下最新最热的 Spaceship，发现了也许是最便宜的 hosted 邮箱服务，一年只要 $5.88 耶！\n\n（相比之下 GSuite 一年要 $93，MS365 一年要 $97\n\n不过我 <a href=\"hydev.org\">hydev.org</a> 的域名邮箱刚迁移完暂时不想再迁移了，试试用 Spaceship 的邮箱服务做 AquaDX 的业务邮箱给用户发邮件好了 qwq",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "reply": {
       "id": 3280,
@@ -48117,7 +48117,7 @@
     "id": 3529,
     "date": "2024-03-27T09:08:50",
     "text": "我我要撤回一年前的话\n\n一年前刚看到 WS2812 灯的时候觉得这个设计好天才，一根数据线就可以控制无数个灯... 现在拼了 Wacca 框才发现问题所在。Wacca 这才刚发布五年的游戏，现在到处都能看到坏掉的 LED，或者说我玩过的 Wacca 框没有一个是 LED 没坏的。\n\n为什么呢？因为 WS2812 只有一条数据线，没有冗余，就像 RAID0 一样。如果一个灯坏了，后面的所有灯都收不到数据。也就是说像 Wacca 这样把 480 个灯连在一起的话，损坏概率就会比一个单独的灯要高 480 倍 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 我的这台就已经有五个坏了，然而坏了一个就必须马上换\n\n刚刚去嘉立创花 ￥1334 订了两百片 Wacca 的 LED 替换板。替换版用了 WS2813，比 2812 多了两条用来冗余的线，即使一个灯坏了剩下的也可以正常工作。\n\n（不过这种 LED 真的好难处理... 今天才知道焊 LED 之前必须 75°C 烘烤两天 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i> 不然焊的时候真空膜里面湿度蒸发膨胀会让真空膜破损提高损坏率... 所以原来我之前一直都焊错了 ;-;",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13692244244815709,
     "images": [
@@ -48255,7 +48255,7 @@
   {
     "id": 3538,
     "date": "2024-03-31T03:20:41",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "files": [
       {
@@ -48280,7 +48280,7 @@
     "id": 3539,
     "date": "2024-03-31T09:49:09",
     "text": "呜 花了六个小时报美国的税。人生第一次报税，好麻烦好麻烦好麻烦\n\n刚开始用了 SprinTax 结果提交的时候没有报成功，也没有重试的选项，说要手动邮寄... 但是现在从加拿大寄过去太晚了，结果又用 OLT 全部重新填了一遍。\n\n但是其实我能退到的税大部分都在 FICA (Social Security 和 Medicare) 上，而这两项的退税表 843 和 8316 必须邮寄，而且还必须在提交税表之前先问雇主能不能退... 然后就发了一封邮件，不知道还来不来得及",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "images": [
       {
@@ -65142,14 +65142,14 @@
     "id": 4735,
     "date": "2024-12-09T15:20:41",
     "text": "是不是把系统用户名改成 \"sandbox\" 就可以绕过大部分的病毒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 2
   },
   {
     "id": 4736,
     "date": "2024-12-09T19:26:06",
     "text": "恭喜 HyDEV 家里云到现在总共宕机整整 1024 次",
-    "views": 146,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -65168,7 +65168,7 @@
     "id": 4738,
     "date": "2024-12-10T12:06:47",
     "text": "新的硬盘到了，是 16TB 的 HC550，终于可以把重要数据从三年前买的这个 12TB 坏盘上搬走了。\n\n重新给之前的坏道扫描脚本写了一个 UI，因为是懒懒猫所以这次用了单文件 petite-vue + tailwind，感觉写起来很简洁很适合这种要嵌到小脚本里的场合。开源到 <a href=\"https://github.com/hykilpikonna/HyPyUtils\">HyPyUtils</a> 仓库里面了\n\n扫描出来新的盘全绿，旧的盘感觉把 870c~993c 这一段屏蔽掉其他的地方还能用 qwq\n\n以及 <a href=\"##TIL\">#TIL</a> 发现转转盘好有意思，刚开始扫的时候有 247 MB/s，但是快结束的时候就只有 130 MB/s 了，为什么呢？因为盘是圆形的，越靠圆心圆周就越短，所以磁头每次 seek 能读到的数据就越少 🤯 奇妙",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "media_group_id": 13870659258497573,
     "images": [
@@ -65233,7 +65233,7 @@
     "id": 4743,
     "date": "2024-12-11T05:39:52",
     "text": "发现 btrfs 开全局压缩有奇效\n\n压缩前总共用了 2.82TB，开一下 zstd:3 直接省了 1.06TB 出来",
-    "views": 150,
+    "views": 151,
     "forwards": 0,
     "images": [
       {
@@ -65252,14 +65252,14 @@
     "id": 4744,
     "date": "2024-12-11T06:49:45",
     "text": "<a href=\"##ADHD\">#ADHD</a> 三次了，解锁了笔记本想不起来要干什么，然后找到了一些事情做，做了一会觉得好困啊睡觉吧，锁定了电脑然后想起来了啊我是因为风扇很吵想给它睡眠来着，然后<del> goto 「解锁了笔记本想不起来要干什么」</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 0
   },
   {
     "id": 4745,
     "date": "2024-12-11T16:16:28",
     "text": "看看一个好软件是怎么被毁掉的\n\nWindows 一直没有好用的驱动层按键映射软件，像 AHK 这种用户层映射会因为优先级问题让远程桌面出现卡键 bug、让依赖快捷键转发的东西不工作。如果想要「只让一个特定的键盘设备的 Ctrl 和 ⌘ 交换」的话，也许只有 reWASD 这一个软件可以做到。\n\n三四年前我用 6.0 版本的 reWASD 是为了打蔚蓝多一些组合键，那个时候很好用，花 ￥66 买一个正版。快进到现在 8.0 版本，价格涨到了 ￥250，UI 改得乱七八糟，功能基本没有增加，反而重写了激活和反破解，以前用激活码就可以现在要验证帐号，导致我正版开机自起检查不到帐号崩溃...\n\n唉我就是正版软件的受害者，回去用 7.0 破解版了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "media_group_id": 13871470310996093,
     "images": [
@@ -65378,7 +65378,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65414,7 +65414,7 @@
     "id": 4756,
     "date": "2024-12-13T14:51:22",
     "text": "昨晚聊聊给我看这个快发布的叫 Catly 的游戏，我说怎么感觉不太对劲 AI 味好浓... 然后今天看推发现居然真的是 AI 生成的\n\n唉 感觉 AI hype 成功把网络上每个人训练成了 AI 内容识别 bot",
-    "views": 168,
+    "views": 169,
     "forwards": 1,
     "media_group_id": 13872811857317293,
     "images": [
@@ -65444,7 +65444,7 @@
     "id": 4758,
     "date": "2024-12-13T16:29:52",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6229016130522974935.webm\">💢</i>",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "images": [
       {
@@ -65463,7 +65463,7 @@
     "id": 4759,
     "date": "2024-12-13T23:24:46",
     "text": "我要疯了\n\n补课遇到了不认识的字母 Γ，问问 4o “倒过来的 L 是什么字母”。它连续回答了 ∟、⊥、⊤、⌊ 🌚 怎么问都答不对\n\n那算了我传图片吧，它把图片里的公式 Γ ⊢ e : τ 正确打出来了，然后我再问它这里面倒着的 L 的 latex 是什么，它回答是 ⊢ 🌚\n\n我知道是大写 Gamma 了之后，开新会话反问它“大写 Gamma 看起来像什么”，它反而知道它看起来像倒着的 L 了（？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>\n\n最后再开新会话问他 Waluigi 的帽子上写了啥，它回答倒着的 L，看起来像 gamma（？？？）<i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i><i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 0,
     "media_group_id": 13873058295167565,
     "images": [
@@ -65493,7 +65493,7 @@
     "id": 4761,
     "date": "2024-12-14T00:57:25",
     "text": "硬盘数据完全迁移完了！\n\n把所有数据拷到新盘上之后，用坏道扫描的结果计算出了旧盘的坏道起点和终点，然后绕开坏道分了两个区，然后再用 btrfs 把他们合在一起，这样就可以把 12TB 的坏盘当作一个 11TB 的好盘用了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（虽然其实也不太敢放重要数据上去，只把自带冗余的数据比如番剧和 PT 什么的放丢上去了 quq\n\n加上之前开 btrfs 压缩省出来的空间的话，现在总共有 14.9TB HDD 和 1.9TB SSD 空闲了，感觉一段时间内可以不用再担心存储不够用了",
-    "views": 150,
+    "views": 151,
     "forwards": 0,
     "reply": {
       "id": 4738,
@@ -65517,7 +65517,7 @@
     "id": 4762,
     "date": "2024-12-14T02:52:52",
     "text": "刚才和聊聊看刚更新的宝可梦地平线第 77 话，发现我现在日语居然能听懂谐音梗了！<i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n语言梗不需要看科普字幕感觉好不一样",
-    "views": 164,
+    "views": 165,
     "forwards": 0,
     "images": [
       {
@@ -110562,7 +110562,7 @@
     "id": 8276,
     "date": "2026-04-19T09:20:36",
     "text": "啊？一年没关心 bcachefs 原本想再看看能不能用的... 有被震撼到 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n<a href=\"https://poc.bcachefs.org/\">https://poc.bcachefs.org/</a>",
-    "views": 384,
+    "views": 385,
     "forwards": 2,
     "images": [
       {
@@ -110581,7 +110581,7 @@
     "id": 8277,
     "date": "2026-04-19T22:53:55",
     "text": "呜呜 被坑了... gitadora 的存档丢了\n\n之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用\n\n但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了\n\n然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内\n\n呜呜呜 看来以后不能相信随机网友的 docker 配置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 342,
+    "views": 343,
     "forwards": 3,
     "media_group_id": 14213113883732813,
     "images": [
@@ -110610,7 +110610,7 @@
   {
     "id": 8279,
     "date": "2026-04-19T23:49:34",
-    "views": 308,
+    "views": 309,
     "forwards": 0,
     "files": [
       {
@@ -111354,7 +111354,7 @@
     "id": 8336,
     "date": "2026-04-27T14:44:49",
     "text": "试了各种不同的用 yubikey 保护 ssh key 的方式，最终还是直接给它设了一个静态密码，触摸一下就打出一串特别长的密码 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为其他办法都没办法让我从 iPad 远程桌面的时候工作所以",
-    "views": 336,
+    "views": 337,
     "forwards": 0,
     "images": [
       {
@@ -111511,7 +111511,7 @@
     "id": 8345,
     "date": "2026-04-30T10:32:32",
     "text": "看到了多伦多的日出！",
-    "views": 278,
+    "views": 279,
     "forwards": 4,
     "media_group_id": 14220361217987037,
     "images": [
@@ -114260,7 +114260,7 @@
     "id": 8535,
     "date": "2026-06-01T20:19:10",
     "text": "小鸟：（没有声音的怒吼）\n\n（被当成鸟妈妈了）",
-    "views": 264,
+    "views": 265,
     "forwards": 0,
     "reply": {
       "id": 8533,
@@ -114284,7 +114284,7 @@
   {
     "id": 8536,
     "date": "2026-06-02T13:30:55",
-    "views": 246,
+    "views": 247,
     "forwards": 1,
     "media_group_id": 14243256444430101,
     "images": [
@@ -114318,7 +114318,7 @@
     "id": 8538,
     "date": "2026-06-02T13:54:54",
     "text": "长颈猫",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "media_group_id": 14243267957553661,
     "images": [
@@ -114378,7 +114378,7 @@
     "id": 8544,
     "date": "2026-06-02T17:13:40",
     "text": "看摇曳露营觉得摩托车好不错想学摩托车\n\n然后看 mono 马上被劝退 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 235,
+    "views": 236,
     "forwards": 1,
     "media_group_id": 14243363361812749,
     "images": [
@@ -114422,7 +114422,7 @@
     "id": 8547,
     "date": "2026-06-02T18:24:51",
     "text": "鸟爸爸抓到了虫子",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "reply": {
       "id": 8535,
@@ -114867,7 +114867,7 @@
     "id": 8579,
     "date": "2026-06-06T19:58:56",
     "text": "想想还是放生了",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "reply": {
       "id": 8573,
@@ -114879,7 +114879,7 @@
     "id": 8580,
     "date": "2026-06-07T02:41:21",
     "text": "整理照片 昨天和云欣和 lowb 去 Laurel Creek 湖边走了一圈，湖边气氛好不错\n\n不知道为什么 Road Closed，在地上的神秘黄色阴影区域进行了灵魂停车（？）\n\n以及捡到了巨大鹅羽毛 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不知道鸟掉羽毛是和人掉头发一样没有感觉",
-    "views": 260,
+    "views": 261,
     "forwards": 3,
     "media_group_id": 14246400652662629,
     "images": [
@@ -115002,7 +115002,7 @@
     "id": 8589,
     "date": "2026-06-08T00:33:57",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在看《恋爱中的小行星》，目前感觉真的超甜超可爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>",
-    "views": 270,
+    "views": 271,
     "forwards": 2,
     "files": [
       {
@@ -116462,7 +116462,7 @@
     "id": 8700,
     "date": "2026-06-21T07:06:51",
     "text": "哇 回家路上看到这是哪个 UW 铁道厨的痛车 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n我也好想做一个电车那样的目的地显示屏放在车后面",
-    "views": 195,
+    "views": 196,
     "forwards": 3,
     "images": [
       {
@@ -116481,7 +116481,7 @@
     "id": 8701,
     "date": "2026-06-21T21:10:30",
     "text": "前天去 dt 的时候还去了 Sanko 日超来着，这家店今年刚刚更新外面墙上的涂鸦，好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n不过依然没有找到想找的カルピス浓缩... 已经去过无数家日超中超韩超了都没有找到，大统华 平成马特 Galleria 丰亚 Oceans 都找过了... 看来只能从日本/中国运了",
-    "views": 179,
+    "views": 180,
     "forwards": 2,
     "media_group_id": 14256609842435309,
     "images": [
@@ -116561,7 +116561,7 @@
     "id": 8708,
     "date": "2026-06-22T03:55:05",
     "text": "昨天天气完美，月亮不是很亮也没有什么云，所以和聊聊开车半小时去附近的生态保护区看了星星！\n\n还看到了萤火虫和蜗牛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> （p8 是拍到的萤火虫轨迹）...虽然可惜蜗牛最后应该是会被萤火虫吃掉的\n\nAPSC 300mm 上看北极星依然只是一个点呢...",
-    "views": 188,
+    "views": 189,
     "forwards": 2,
     "media_group_id": 14256804039868605,
     "images": [
@@ -116671,21 +116671,21 @@
     "id": 8718,
     "date": "2026-06-22T08:38:21",
     "text": "Menci 给我的苹果手机作为备用机用了一年了，觉得唯一比安卓好用的地方就是需要逆向东西抓 HTTPS 的时候很方便 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n真的不懂为什么安卓想要信任一个假 root cert 这么麻烦...",
-    "views": 201,
+    "views": 202,
     "forwards": 2
   },
   {
     "id": 8719,
     "date": "2026-06-22T19:46:52",
     "text": "steam machine 发布了所以看了一下评测\n\n居然真的认真做风扇做到了几乎静音... valve 真好呀，会在这种没法体现在纸面性能上的地方用心\n\n可惜国产小盒子没有这样的用心，我每天听我的两个小盒子的小风扇的高频尖叫我要疯掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 1
   },
   {
     "id": 8720,
     "date": "2026-06-22T23:45:17",
     "text": "两个月前撒的猫草种子已经长得比猫高并且开花了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 2,
     "reply": {
       "id": 8332,
@@ -116709,7 +116709,7 @@
     "id": 8721,
     "date": "2026-06-23T21:46:52",
     "text": "聊聊的旧 iPhone 12 相机和充电口和外壳都坏了，我从中国花 ￥164 买了零件进行了全面翻新！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n真的好累好累，因为新的外壳只有外壳不是总成，所以换外壳要把 所有东西（包括贴在外壳上的按键和天线和无线充电盘）全都拆下来再转移到新的外壳上... 花了五个小时才修好\n\n修完之后例常多出了一些螺丝和一个不接电的小零件... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 但是开机之后功能和系统自检都没问题，看拆机视频也没有找到这个小零件应该放在哪... 先不管啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（好累好累，休息之后再发视频好了）",
-    "views": 139,
+    "views": 143,
     "forwards": 2,
     "media_group_id": 14258009699274181,
     "images": [
@@ -116789,7 +116789,7 @@
     "id": 8734,
     "date": "2026-06-24T04:23:16",
     "text": "听マモル推荐去玩了 <a href=\"https://store.steampowered.com/app/4146680/ReStory_Chill_Electronic_Repairs_Demo/\">ReStory</a> 的预览版，是设定在 2000 年的秋叶原的维修店模拟器，总体画风超级放松可爱\n\n旧设备真好呀... 总共就没有很多零件、整个机器拆下来螺丝只有个位数，拆电池也不需要小心翼翼拆双面胶也不用怕划伤无线充电线圈 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总之好喜欢这个，出正式版我绝对会买（甚至有点让我想开维修店了，可惜现在不是 2000 年，我也不在秋叶原...）",
-    "views": 94,
+    "views": 101,
     "forwards": 1,
     "media_group_id": 14258199973719693,
     "images": [
