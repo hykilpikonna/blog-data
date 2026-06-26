@@ -67957,7 +67957,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1395,
+    "views": 1396,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67979,7 +67979,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1186,
+    "views": 1187,
     "forwards": 7,
     "files": [
       {
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6604,
+    "views": 6605,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4260,
+    "views": 4261,
     "forwards": 31
   },
   {
@@ -116026,7 +116026,7 @@
     "id": 8666,
     "date": "2026-06-17T06:43:05",
     "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
-    "views": 305,
+    "views": 307,
     "forwards": 4,
     "reply": {
       "id": 8133,
@@ -116049,7 +116049,7 @@
     "id": 8667,
     "date": "2026-06-17T16:51:46",
     "text": "结果开的 pr 被维护者关了，孬。\n\n大概会把 fork 留在 <a href=\"https://github.com/MewoLab/caddy-oldtls\">MewoLab/caddy-oldtls</a>",
-    "views": 294,
+    "views": 295,
     "forwards": 2,
     "reply": {
       "id": 8666,
@@ -116462,7 +116462,7 @@
     "id": 8700,
     "date": "2026-06-21T07:06:51",
     "text": "哇 回家路上看到这是哪个 UW 铁道厨的痛车 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n我也好想做一个电车那样的目的地显示屏放在车后面",
-    "views": 203,
+    "views": 204,
     "forwards": 3,
     "images": [
       {
@@ -116481,7 +116481,7 @@
     "id": 8701,
     "date": "2026-06-21T21:10:30",
     "text": "前天去 dt 的时候还去了 Sanko 日超来着，这家店今年刚刚更新外面墙上的涂鸦，好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n不过依然没有找到想找的カルピス浓缩... 已经去过无数家日超中超韩超了都没有找到，大统华 平成马特 Galleria 丰亚 Oceans 都找过了... 看来只能从日本/中国运了",
-    "views": 188,
+    "views": 189,
     "forwards": 2,
     "media_group_id": 14256609842435309,
     "images": [
@@ -116671,7 +116671,7 @@
     "id": 8718,
     "date": "2026-06-22T08:38:21",
     "text": "Menci 给我的苹果手机作为备用机用了一年了，觉得唯一比安卓好用的地方就是需要逆向东西抓 HTTPS 的时候很方便 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n真的不懂为什么安卓想要信任一个假 root cert 这么麻烦...",
-    "views": 215,
+    "views": 216,
     "forwards": 2
   },
   {
@@ -116789,7 +116789,7 @@
     "id": 8734,
     "date": "2026-06-24T04:23:16",
     "text": "听マモル推荐去玩了 <a href=\"https://store.steampowered.com/app/4146680/ReStory_Chill_Electronic_Repairs_Demo/\">ReStory</a> 的预览版，是设定在 2000 年的秋叶原的维修店模拟器，总体画风超级放松可爱\n\n旧设备真好呀... 总共就没有很多零件、整个机器拆下来螺丝只有个位数，拆电池也不需要小心翼翼拆双面胶也不用怕划伤无线充电线圈 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总之好喜欢这个，出正式版我绝对会买（甚至有点让我想开维修店了，可惜现在不是 2000 年，我也不在秋叶原...）",
-    "views": 148,
+    "views": 149,
     "forwards": 2,
     "media_group_id": 14258199973719693,
     "images": [
@@ -116873,7 +116873,7 @@
   {
     "id": 8741,
     "date": "2026-06-24T17:26:27",
-    "views": 152,
+    "views": 153,
     "forwards": 1,
     "files": [
       {
@@ -116894,7 +116894,7 @@
     "id": 8742,
     "date": "2026-06-24T17:56:48",
     "text": "例常买裸板然后自己打印外壳 qwq\n\n外壳模型发布到这里了: <a href=\"https://www.thingiverse.com/thing:7374322\">https://www.thingiverse.com/thing:7374322</a>",
-    "views": 156,
+    "views": 157,
     "forwards": 2,
     "media_group_id": 14258590466825005,
     "images": [
@@ -116947,7 +116947,7 @@
     "id": 8746,
     "date": "2026-06-25T04:05:46",
     "text": "原本还觉得自己不怎么看 Fate 系列的，但是聊聊是完全没看过 Fate，尝试拉聊聊入坑的时候才意识到自己原来看过这么多 Fate 作品...",
-    "views": 136,
+    "views": 138,
     "forwards": 0
   }
 ]
