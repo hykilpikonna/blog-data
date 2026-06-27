@@ -55392,7 +55392,7 @@
     "id": 4065,
     "date": "2024-06-28T09:33:35",
     "text": "和府捞面！",
-    "views": 143,
+    "views": 144,
     "forwards": 1,
     "images": [
       {
@@ -66661,7 +66661,7 @@
     "id": 4837,
     "date": "2025-01-04T02:38:14",
     "text": "听听中二企鹅在说什么：\n<span class=\"spoiler\"><span>gay gay gay ........ gay!</span></span>\ngood job",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6609,
+    "views": 6610,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97683,7 +97683,7 @@
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 526,
+    "views": 527,
     "forwards": 2,
     "images": [
       {
@@ -97702,7 +97702,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 415,
+    "views": 416,
     "forwards": 3,
     "reply": {
       "id": 7256,
@@ -97906,7 +97906,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 362,
+    "views": 363,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97929,7 +97929,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 386,
+    "views": 387,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97951,7 +97951,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 441,
+    "views": 442,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97962,7 +97962,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 540,
+    "views": 541,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98062,14 +98062,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 459,
+    "views": 460,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 456,
+    "views": 457,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98080,7 +98080,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 438,
+    "views": 439,
     "forwards": 5,
     "images": [
       {
@@ -98489,7 +98489,7 @@
     "id": 7324,
     "date": "2025-11-28T16:28:38",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n染上紫色",
-    "views": 276,
+    "views": 277,
     "forwards": 1,
     "files": [
       {
@@ -98511,7 +98511,7 @@
     "id": 7325,
     "date": "2025-11-28T16:55:33",
     "text": "今天还去了圣心大教堂和沙面岛 qwq\n\n在教堂遇到了香港那边天主教小学的旅行团过来参观感觉好奇妙，虽然回想起我在天主教学校的经历也笑不出来\n\n以及在教堂旁边遇到了一个完全无人看管的售卖庭，卖一些纪念品和圣经之类的。虽然这种纯靠自觉的售卖庭在日本挺常见的，但是在中国这还是我第一次见... 可能也只有教堂这里会有人愿意相信中国游客的自觉了\n\n以及在街上看到了初音未来配色的星巴克和初音未来（？）",
-    "views": 282,
+    "views": 283,
     "forwards": 2,
     "media_group_id": 14114791471027077,
     "images": [
@@ -98621,7 +98621,7 @@
     "id": 7335,
     "date": "2025-11-28T17:06:00",
     "text": "<span class=\"spoiler\"><span>「今天是明天的延伸\n    明天是今天的终结」</span></span>",
-    "views": 291,
+    "views": 292,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -98632,7 +98632,7 @@
     "id": 7336,
     "date": "2025-11-29T04:39:57",
     "text": "图像识别爆炸",
-    "views": 297,
+    "views": 298,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -98655,7 +98655,7 @@
     "id": 7337,
     "date": "2025-11-29T05:44:44",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 更新 1.0.1 <i class=\"custom-emoji\" emoji-src=\"emoji/4981169547957502666.webp\">🔧</i>\n\n* 修复了英文词中间没有空格的 bug\n\n（试着在车上工作）",
-    "views": 304,
+    "views": 305,
     "forwards": 0,
     "media_group_id": 14115160674036005,
     "images": [
@@ -99325,7 +99325,7 @@
     "id": 7387,
     "date": "2025-12-03T09:29:35",
     "text": "unifi 的包装好可爱！\n\n● U ●",
-    "views": 289,
+    "views": 290,
     "forwards": 1,
     "images": [
       {
@@ -99344,7 +99344,7 @@
     "id": 7388,
     "date": "2025-12-03T10:04:57",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n见到艾米卡了！艾米卡可爱喵\n\n之前对艾米卡的印象一直是头像的小盐，现在终于有了新的印象，<span class=\"spoiler\"><span>给我的感觉是成熟可靠的大姐姐</span></span> qwq",
-    "views": 300,
+    "views": 301,
     "forwards": 3,
     "media_group_id": 14118050380457173,
     "images": [
@@ -116352,7 +116352,7 @@
     "id": 8690,
     "date": "2026-06-20T22:05:07",
     "text": "去 Jazz Fest 看了酷儿乐队 Trash Panda Brass 的演出！演出超级不错！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n去前排拍了很多好看照片 qwq",
-    "views": 209,
+    "views": 210,
     "forwards": 1,
     "media_group_id": 14255944861810333,
     "images": [
@@ -116462,7 +116462,7 @@
     "id": 8700,
     "date": "2026-06-21T07:06:51",
     "text": "哇 回家路上看到这是哪个 UW 铁道厨的痛车 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n我也好想做一个电车那样的目的地显示屏放在车后面",
-    "views": 213,
+    "views": 214,
     "forwards": 3,
     "images": [
       {
@@ -116481,7 +116481,7 @@
     "id": 8701,
     "date": "2026-06-21T21:10:30",
     "text": "前天去 dt 的时候还去了 Sanko 日超来着，这家店今年刚刚更新外面墙上的涂鸦，好好看 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n不过依然没有找到想找的カルピス浓缩... 已经去过无数家日超中超韩超了都没有找到，大统华 平成马特 Galleria 丰亚 Oceans 都找过了... 看来只能从日本/中国运了",
-    "views": 199,
+    "views": 200,
     "forwards": 2,
     "media_group_id": 14256609842435309,
     "images": [
@@ -116561,7 +116561,7 @@
     "id": 8708,
     "date": "2026-06-22T03:55:05",
     "text": "昨天天气完美，月亮不是很亮也没有什么云，所以和聊聊开车半小时去附近的生态保护区看了星星！\n\n还看到了萤火虫和蜗牛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> （p8 是拍到的萤火虫轨迹）...虽然可惜蜗牛最后应该是会被萤火虫吃掉的\n\nAPSC 300mm 上看北极星依然只是一个点呢...",
-    "views": 210,
+    "views": 211,
     "forwards": 2,
     "media_group_id": 14256804039868605,
     "images": [
@@ -116671,21 +116671,21 @@
     "id": 8718,
     "date": "2026-06-22T08:38:21",
     "text": "Menci 给我的苹果手机作为备用机用了一年了，觉得唯一比安卓好用的地方就是需要逆向东西抓 HTTPS 的时候很方便 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n真的不懂为什么安卓想要信任一个假 root cert 这么麻烦...",
-    "views": 237,
+    "views": 238,
     "forwards": 2
   },
   {
     "id": 8719,
     "date": "2026-06-22T19:46:52",
     "text": "steam machine 发布了所以看了一下评测\n\n居然真的认真做风扇做到了几乎静音... valve 真好呀，会在这种没法体现在纸面性能上的地方用心\n\n可惜国产小盒子没有这样的用心，我每天听我的两个小盒子的小风扇的高频尖叫我要疯掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 1
   },
   {
     "id": 8720,
     "date": "2026-06-22T23:45:17",
     "text": "两个月前撒的猫草种子已经长得比猫高并且开花了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 2,
     "reply": {
       "id": 8332,
@@ -116709,7 +116709,7 @@
     "id": 8721,
     "date": "2026-06-23T21:46:52",
     "text": "聊聊的旧 iPhone 12 相机和充电口和外壳都坏了，我从中国花 ￥164 买了零件进行了全面翻新！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n真的好累好累，因为新的外壳只有外壳不是总成，所以换外壳要把 所有东西（包括贴在外壳上的按键和天线和无线充电盘）全都拆下来再转移到新的外壳上... 花了五个小时才修好\n\n修完之后例常多出了一些螺丝和一个不接电的小零件... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 但是开机之后功能和系统自检都没问题，看拆机视频也没有找到这个小零件应该放在哪... 先不管啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（好累好累，休息之后再发视频好了）",
-    "views": 196,
+    "views": 198,
     "forwards": 2,
     "media_group_id": 14258009699274181,
     "images": [
@@ -116789,7 +116789,7 @@
     "id": 8734,
     "date": "2026-06-24T04:23:16",
     "text": "听マモル推荐去玩了 <a href=\"https://store.steampowered.com/app/4146680/ReStory_Chill_Electronic_Repairs_Demo/\">ReStory</a> 的预览版，是设定在 2000 年的秋叶原的维修店模拟器，总体画风超级放松可爱\n\n旧设备真好呀... 总共就没有很多零件、整个机器拆下来螺丝只有个位数，拆电池也不需要小心翼翼拆双面胶也不用怕划伤无线充电线圈 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总之好喜欢这个，出正式版我绝对会买（甚至有点让我想开维修店了，可惜现在不是 2000 年，我也不在秋叶原...）",
-    "views": 169,
+    "views": 170,
     "forwards": 2,
     "media_group_id": 14258199973719693,
     "images": [
@@ -116873,7 +116873,7 @@
   {
     "id": 8741,
     "date": "2026-06-24T17:26:27",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "files": [
       {
@@ -116894,7 +116894,7 @@
     "id": 8742,
     "date": "2026-06-24T17:56:48",
     "text": "例常买裸板然后自己打印外壳 qwq\n\n外壳模型发布到这里了: <a href=\"https://www.thingiverse.com/thing:7374322\">https://www.thingiverse.com/thing:7374322</a>",
-    "views": 185,
+    "views": 186,
     "forwards": 2,
     "media_group_id": 14258590466825005,
     "images": [
@@ -116947,14 +116947,14 @@
     "id": 8746,
     "date": "2026-06-25T04:05:46",
     "text": "原本还觉得自己不怎么看 Fate 系列的，但是聊聊是完全没看过 Fate，尝试拉聊聊入坑的时候才意识到自己原来看过这么多 Fate 作品...",
-    "views": 175,
+    "views": 176,
     "forwards": 0
   },
   {
     "id": 8747,
     "date": "2026-06-26T04:44:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的牛排！超好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n家里所有人都会做饭真好，现在大概是轮流我做日料、聊聊做西餐、室友做中餐和每次都没听说过的奇妙欧洲料理这样\n\n（以及拍到了聊聊变身十六夜咲夜的照片）",
-    "views": 139,
+    "views": 140,
     "forwards": 1,
     "media_group_id": 14259592450107685,
     "images": [
@@ -116994,7 +116994,7 @@
     "id": 8750,
     "date": "2026-06-26T05:20:48",
     "text": "怪猫猫",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "media_group_id": 14259609989995277,
     "images": [
@@ -117064,7 +117064,7 @@
     "id": 8756,
     "date": "2026-06-27T01:02:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n狐狸乌冬！\n\n原本想买きつね的结果买成了いなり... 虽然都是甜豆腐皮，但是いなり是用来裹米饭做寿司的，实在比きつね甜太多了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 131,
+    "views": 134,
     "forwards": 0,
     "images": [
       {
@@ -117083,7 +117083,7 @@
     "id": 8757,
     "date": "2026-06-27T05:30:33",
     "text": "最近在做一个旅行计划网页的 Fork，添加了很多功能，比如自动计算出发到达时间、日历模式、公交导航、预估车票和高速费、避开收费高速的设置、基于出发时间和路况规划路线、营业时间提醒、自定义分类图标...\n\n原本是想慢慢合进上游的，但是可惜和原作者的想法不太符合所以开的 PR 被拒了，所以开始维护自己的 Fork 啦，大家想用的话<a href=\"https://github.com/hykilpikonna/TrekForge\">这里是源码</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 143,
+    "views": 145,
     "forwards": 4,
     "media_group_id": 14260305869391317,
     "images": [
@@ -117113,7 +117113,7 @@
     "id": 8759,
     "date": "2026-06-27T19:33:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n正确的做了いなりずし",
-    "views": 35,
+    "views": 48,
     "forwards": 0,
     "media_group_id": 14260710265567965,
     "images": [
