@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-06-27T03:23:21.213335+00:00</updated>
+  <updated>2026-06-27T05:35:41.379655+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8757</id>
+    <title>小桂桂的回忆录 📒 #8757</title>
+    <updated>2026-06-27T05:30:33+00:00</updated>
+    <content>&lt;p&gt;最近在做一个旅行计划网页的 Fork，添加了很多功能，比如自动计算出发到达时间、日历模式、公交导航、预估车票和高速费、避开收费高速的设置、基于出发时间和路况规划路线、营业时间提醒、自定义分类图标...&lt;/p&gt;
+&lt;p&gt;原本是想慢慢合进上游的，但是可惜和原作者的想法不太符合所以开的 PR 被拒了，所以开始维护自己的 Fork 啦，大家想用的话&lt;a href="https://github.com/hykilpikonna/TrekForge"&gt;这里是源码&lt;/a&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8757" rel="alternate"/>
+  </entry>
   <entry>
     <id>8756</id>
     <title>小桂桂的回忆录 📒 #8756</title>
