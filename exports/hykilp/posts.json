@@ -107041,7 +107041,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1868,
+    "views": 1869,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4262,
+    "views": 4263,
     "forwards": 31
   },
   {
@@ -116026,7 +116026,7 @@
     "id": 8666,
     "date": "2026-06-17T06:43:05",
     "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
-    "views": 312,
+    "views": 313,
     "forwards": 4,
     "reply": {
       "id": 8133,
@@ -116954,7 +116954,7 @@
     "id": 8747,
     "date": "2026-06-26T04:44:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的牛排！超好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n家里所有人都会做饭真好，现在大概是轮流我做日料、聊聊做西餐、室友做中餐和每次都没听说过的奇妙欧洲料理这样\n\n（以及拍到了聊聊变身十六夜咲夜的照片）",
-    "views": 129,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 14259592450107685,
     "images": [
@@ -116994,7 +116994,7 @@
     "id": 8750,
     "date": "2026-06-26T05:20:48",
     "text": "怪猫猫",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 14259609989995277,
     "images": [
@@ -117064,7 +117064,7 @@
     "id": 8756,
     "date": "2026-06-27T01:02:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n狐狸乌冬！\n\n原本想买きつね的结果买成了いなり... 虽然都是甜豆腐皮，但是いなり是用来裹米饭做寿司的，实在比きつね甜太多了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 108,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
@@ -117083,7 +117083,7 @@
     "id": 8757,
     "date": "2026-06-27T05:30:33",
     "text": "最近在做一个旅行计划网页的 Fork，添加了很多功能，比如自动计算出发到达时间、日历模式、公交导航、预估车票和高速费、避开收费高速的设置、基于出发时间和路况规划路线、营业时间提醒、自定义分类图标...\n\n原本是想慢慢合进上游的，但是可惜和原作者的想法不太符合所以开的 PR 被拒了，所以开始维护自己的 Fork 啦，大家想用的话<a href=\"https://github.com/hykilpikonna/TrekForge\">这里是源码</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 107,
+    "views": 115,
     "forwards": 4,
     "media_group_id": 14260305869391317,
     "images": [
