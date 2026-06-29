@@ -72122,7 +72122,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5823,
+    "views": 5824,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -108325,7 +108325,7 @@
     "id": 8117,
     "date": "2026-03-27T03:15:29",
     "text": "看到<a href=\"https://t.me/rynif/39471\">喜欢的频道主</a>填了所以我也来填\n\n感觉喜欢的动画每年都有很多很多，但是真的能说是「构成了我」的作品实际上留九个格子很足够了\n\n<a href=\"https://my9.shatranj.space/work/s/86969fee20417a23\">https://my9.shatranj.space/work/s/86969fee20417a23</a>",
-    "views": 372,
+    "views": 373,
     "forwards": 4,
     "images": [
       {
@@ -108344,7 +108344,7 @@
     "id": 8118,
     "date": "2026-03-27T23:42:50",
     "text": "神圣猫猫",
-    "views": 322,
+    "views": 323,
     "forwards": 1,
     "media_group_id": 14197239764256053,
     "images": [
@@ -108394,7 +108394,7 @@
     "id": 8122,
     "date": "2026-03-28T02:41:36",
     "text": "不知道大家有没有注意到，我发现有 AI 代码工具之后谷歌推出的所有东西都超孬用，作为一般用户已经被迷惑无数次了...\n\n首先是 Gemini 2.5 时代「全新模型，现已上线」的通知直接挡住半边网页让鼠标点不到也没法关闭\n\n还有两周前遇到的 \"You need at least undefined AI Credits\"，昨天更新之后能正常显示需要多少了，但是依然不让我用，觉得 1074 < 50 吗？\n\n然后是今天遇到的，切换模型点了半天没反应才发现只有文字宽度可以点，并不是整行都可以点...\n\n唉 感觉即使是两三年前都很难想象谷歌的软件能变得这么不好用，像是没测试过就全球部署了一样... AI 写码最终的受害者果然还是用户 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 370,
+    "views": 371,
     "forwards": 5,
     "media_group_id": 14197325572283533,
     "images": [
@@ -108484,7 +108484,7 @@
     "id": 8130,
     "date": "2026-03-28T07:01:47",
     "text": "因为想给某个 Spring Boot 服务器做 Serverless CDN 优化，所以需要启动比较快的框架\n\n但是又不太想用 rust 重写（一个是没有精力，另一个是觉得 rust 太 verbose 了）\n\n所以花时间测试了一下 kotlin 和 rust 各种框架的启动时间（从运行指令到处理完第一个请求的时间）\n\n最后发现实际上并不需要用 rust。用 GraalVM 把 Http4K 的服务器编译成 exe 之后和 rust axum 启动速度只差了 22ms\n\n<a href=\"https://github.com/hykilpikonna/ColdStartTest\">测试源码在这里</a>",
-    "views": 396,
+    "views": 397,
     "forwards": 3,
     "media_group_id": 14197450458582693,
     "images": [
@@ -108514,7 +108514,7 @@
     "id": 8132,
     "date": "2026-03-29T16:02:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n沙卡蔬卡/北非蛋！（是室友做的\n\n感觉我和聊聊和室友喜欢做的菜的画风都好不一样",
-    "views": 347,
+    "views": 348,
     "forwards": 1,
     "images": [
       {
@@ -110012,7 +110012,7 @@
     "id": 8234,
     "date": "2026-04-15T18:22:49",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n每次下高速看到这个牌子都会想到",
-    "views": 1087,
+    "views": 1088,
     "forwards": 2,
     "images": [
       {
@@ -117196,7 +117196,7 @@
     "id": 8764,
     "date": "2026-06-29T00:30:58",
     "text": "Google Maps:\n你可以正常走\n你也可以在环岛里无限转圈圈\n预计到达时间都差不多哦！",
-    "views": 129,
+    "views": 133,
     "forwards": 0,
     "images": [
       {
@@ -117215,7 +117215,7 @@
     "id": 8765,
     "date": "2026-06-29T00:46:22",
     "text": "俗话说 磨刀不误砍柴工，但是我发现我会磨太久刀然后忘记砍柴...\n\n原本这一周放假想出去玩的，但是想先把计划旅行的网页改好，结果做了一周网页了没有时间出去玩了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 123,
+    "views": 127,
     "forwards": 0,
     "reply": {
       "id": 8757,
@@ -117227,7 +117227,7 @@
     "id": 8766,
     "date": "2026-06-29T04:07:04",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n对种的小白菜/油菜进行了拔苗助长\n\n把挤得很密集的菜挖出来空开了，希望根能活下来",
-    "views": 79,
+    "views": 89,
     "forwards": 0,
     "reply": {
       "id": 8665,
