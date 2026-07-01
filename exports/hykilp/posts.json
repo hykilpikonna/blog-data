@@ -21329,7 +21329,7 @@
     "id": 1626,
     "date": "2022-12-19T20:42:49",
     "text": "「放假第一天做了什么」\n\n1. 搭了自己的 matrix 服务器！因为太灵车了暂时不开放注册，不过欢迎大家加我的 matrix 账号 <code>@me:hydev.org</code> qwq\n\n2. 顺便整理了一下服务器的防火墙规则，给每个规则加了注释！（之前完全没开防火墙来着，毕竟一个系统管理五个 IP 分别不同服务的防火墙想想就头疼...\n\n3. 注册了 mastodon！<code>@aza@mstdn.ca</code>，不过还没想好要怎么用（x",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13371860557353733,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5122,
+    "views": 5124,
     "forwards": 29
   },
   {
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 721,
+    "views": 722,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -115365,7 +115365,7 @@
     "id": 8616,
     "date": "2026-06-11T23:26:02",
     "text": "还在想 PowerToys 会不会终于要到 v1 了",
-    "views": 762,
+    "views": 763,
     "forwards": 4,
     "images": [
       {
@@ -115384,7 +115384,7 @@
     "id": 8617,
     "date": "2026-06-12T04:59:58",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概会宕机一段时间\n\n因为在没有 KVM 也不在物理机器旁边的情况下 -Syu 重启导致机器起不来了也没办法调试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 265,
+    "views": 266,
     "forwards": 1,
     "images": [
       {
@@ -115403,7 +115403,7 @@
     "id": 8618,
     "date": "2026-06-12T06:02:23",
     "text": "听到今天这次 <a href=\"https://t.me/archlinuxcn/336\">AUR 被投毒</a>的消息其实我很不开心...\n\n因为其实一年半前我注意到了可以大规模 take orphan 投毒的这个可能性，当时准备了一个无害 payload 准备愚人节投出去恶搞一下... 我觉得只有让所有人意识到有这个可能性才能够让 aur 管理员有动力改变 aur 系统的工作方式\n\n不过当时很重要的朋友都劝退觉得我不应该这样做，觉得我会打扰到用户，觉得我会被炎上，觉得软件源应该是被信任的地方... 所以就放弃了，然后现在真的被恶意投毒了\n\n如果当时没有被劝退是不是这次投毒就不会发生了呢？",
-    "views": 297,
+    "views": 298,
     "forwards": 4,
     "media_group_id": 14249953150937525,
     "images": [
@@ -117177,7 +117177,7 @@
     "id": 8763,
     "date": "2026-06-28T18:29:24",
     "text": "为什么描述指数减少的时候人会说 increasingly less 但是描述对数增长的时候不会说 decreasingly more <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n还有为什么描述隐藏费用的时候人会说 \"additional cost\" 但是描述折扣的时候会说 \"additional discount\" 而不是 \"subtractional cost\"",
-    "views": 193,
+    "views": 194,
     "forwards": 4,
     "images": [
       {
@@ -117196,7 +117196,7 @@
     "id": 8764,
     "date": "2026-06-29T00:30:58",
     "text": "Google Maps:\n你可以正常走\n你也可以在环岛里无限转圈圈\n预计到达时间都差不多哦！",
-    "views": 194,
+    "views": 195,
     "forwards": 1,
     "images": [
       {
@@ -117251,7 +117251,7 @@
     "id": 8767,
     "date": "2026-06-29T14:23:38",
     "text": "呜呜 上学路上看到了死掉的小鸟",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 14261944146216661,
     "images": [
@@ -117291,7 +117291,7 @@
     "id": 8770,
     "date": "2026-06-30T02:14:42",
     "text": "每次都觉得好像",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "images": [
       {
@@ -117310,7 +117310,7 @@
     "id": 8771,
     "date": "2026-06-30T02:20:09",
     "text": "实际上是",
-    "views": 186,
+    "views": 187,
     "forwards": 0,
     "reply": {
       "id": 8770,
@@ -117332,7 +117332,7 @@
   {
     "id": 8772,
     "date": "2026-06-30T06:37:03",
-    "views": 175,
+    "views": 177,
     "forwards": 0,
     "images": [
       {
@@ -117351,7 +117351,7 @@
     "id": 8773,
     "date": "2026-06-30T15:09:51",
     "text": "这周",
-    "views": 163,
+    "views": 166,
     "forwards": 1,
     "images": [
       {
@@ -117370,7 +117370,7 @@
     "id": 8774,
     "date": "2026-06-30T23:42:29",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n小白菜/油菜长大了！\n\n虽然但是，小白菜长大了依然是小白菜（大小白菜？），因为白菜和大白菜都是其他的品种 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 141,
+    "views": 145,
     "forwards": 2,
     "media_group_id": 14262903594775229,
     "images": [
@@ -117424,7 +117424,7 @@
     "id": 8778,
     "date": "2026-07-01T06:19:17",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概又会宕机一段时间\n\n原因是帮忙托管服务器的 menci 刚搬完家 qwq（看上去好辛苦，希望一切顺利）",
-    "views": 112,
+    "views": 117,
     "forwards": 1,
     "reply": {
       "id": 8617,
