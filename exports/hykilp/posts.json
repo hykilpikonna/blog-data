@@ -112845,7 +112845,7 @@
     "id": 8440,
     "date": "2026-05-15T15:43:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 359,
+    "views": 360,
     "forwards": 0,
     "reply": {
       "id": 8438,
@@ -112869,7 +112869,7 @@
     "id": 8441,
     "date": "2026-05-16T07:02:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n叉烧面！（室友做的叉烧，好厉害 qwq",
-    "views": 354,
+    "views": 355,
     "forwards": 0,
     "images": [
       {
@@ -113059,7 +113059,7 @@
     "id": 8452,
     "date": "2026-05-20T07:21:52",
     "text": "所有软的地方都会刷新出睡睡小猫 <span class=\"spoiler\"><span>和它的毛</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 315,
+    "views": 316,
     "forwards": 0,
     "images": [
       {
@@ -113078,7 +113078,7 @@
     "id": 8453,
     "date": "2026-05-20T21:20:27",
     "text": "猫草",
-    "views": 309,
+    "views": 310,
     "forwards": 2,
     "images": [
       {
@@ -113097,7 +113097,7 @@
     "id": 8454,
     "date": "2026-05-21T01:31:26",
     "text": "猫穿拖鞋",
-    "views": 326,
+    "views": 327,
     "forwards": 2,
     "media_group_id": 14234616688821181,
     "images": [
@@ -113127,7 +113127,7 @@
     "id": 8456,
     "date": "2026-05-21T05:06:33",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n下班的路上被东京塔吸引走到很近的地方拍了照片！好看的 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n以及当时最喜欢的工作午餐是某蓝色便利店的大鲑饭团 🍙 可惜不久之后就下架了",
-    "views": 292,
+    "views": 293,
     "forwards": 2,
     "media_group_id": 14234719946624717,
     "images": [
@@ -115929,7 +115929,7 @@
     "id": 8660,
     "date": "2026-06-16T17:13:59",
     "text": "啊啊... Linux 上居然真的让你把屏幕亮度调到 0, 然后鼠标挪走了就看不见亮度条在哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 需要摸黑找亮度条...",
-    "views": 250,
+    "views": 251,
     "forwards": 2,
     "images": [
       {
@@ -116026,7 +116026,7 @@
     "id": 8666,
     "date": "2026-06-17T06:43:05",
     "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
-    "views": 329,
+    "views": 331,
     "forwards": 4,
     "reply": {
       "id": 8133,
@@ -116049,7 +116049,7 @@
     "id": 8667,
     "date": "2026-06-17T16:51:46",
     "text": "结果开的 pr 被维护者关了，孬。\n\n大概会把 fork 留在 <a href=\"https://github.com/MewoLab/caddy-oldtls\">MewoLab/caddy-oldtls</a>",
-    "views": 321,
+    "views": 322,
     "forwards": 2,
     "reply": {
       "id": 8666,
@@ -117196,7 +117196,7 @@
     "id": 8764,
     "date": "2026-06-29T00:30:58",
     "text": "Google Maps:\n你可以正常走\n你也可以在环岛里无限转圈圈\n预计到达时间都差不多哦！",
-    "views": 193,
+    "views": 194,
     "forwards": 1,
     "images": [
       {
@@ -117351,7 +117351,7 @@
     "id": 8773,
     "date": "2026-06-30T15:09:51",
     "text": "这周",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "images": [
       {
@@ -117370,7 +117370,7 @@
     "id": 8774,
     "date": "2026-06-30T23:42:29",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n小白菜/油菜长大了！\n\n虽然但是，小白菜长大了依然是小白菜（大小白菜？），因为白菜和大白菜都是其他的品种 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 138,
+    "views": 141,
     "forwards": 2,
     "media_group_id": 14262903594775229,
     "images": [
@@ -117424,7 +117424,7 @@
     "id": 8778,
     "date": "2026-07-01T06:19:17",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概又会宕机一段时间\n\n原因是帮忙托管服务器的 menci 刚搬完家 qwq（看上去好辛苦，希望一切顺利）",
-    "views": 106,
+    "views": 112,
     "forwards": 1,
     "reply": {
       "id": 8617,
