@@ -110936,7 +110936,7 @@
     "id": 8304,
     "date": "2026-04-23T16:10:05",
     "text": "昨天的公路照片\n\n因为高速堵车谷歌让我下高速了，然后路过了马场，里面走着马，路边还有人骑马的路牌，好奇妙",
-    "views": 303,
+    "views": 304,
     "forwards": 1,
     "media_group_id": 14215684840822773,
     "images": [
@@ -111016,7 +111016,7 @@
     "id": 8311,
     "date": "2026-04-23T19:10:21",
     "text": "设计了摇曳露营车牌框！\n\n（感谢前室友 <a href=\"https://vgen.co/AuraMage\">AuraMage</a> 帮忙画上面的小人）\n\n把设计文件开源到<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/YurucampLicensePlate\">这里</a>啦，想用的人欢迎拿去制作 qwq（不过禁止商用）",
-    "views": 380,
+    "views": 381,
     "forwards": 7,
     "media_group_id": 14215771367837749,
     "images": [
@@ -111066,14 +111066,14 @@
     "id": 8316,
     "date": "2026-04-23T21:47:43",
     "text": "今天带猫猫去后院它去抓鸟了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 313,
+    "views": 314,
     "forwards": 0
   },
   {
     "id": 8317,
     "date": "2026-04-24T03:01:55",
     "text": "虽然没有拍到猫猫抓鸟但是依然拍到了好看照片 qwq",
-    "views": 312,
+    "views": 313,
     "forwards": 1,
     "images": [
       {
@@ -115790,7 +115790,7 @@
   {
     "id": 8649,
     "date": "2026-06-16T01:38:27",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "forwarded_from": {
       "name": "fox_porn🦊"
@@ -115812,7 +115812,7 @@
     "id": 8651,
     "date": "2026-06-16T02:53:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\npho!",
-    "views": 250,
+    "views": 251,
     "forwards": 0,
     "media_group_id": 14252627115678861,
     "images": [
@@ -115996,7 +115996,7 @@
     "id": 8665,
     "date": "2026-06-17T00:19:16",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的小白菜/油菜",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "media_group_id": 14253244451626341,
     "images": [
@@ -116026,7 +116026,7 @@
     "id": 8666,
     "date": "2026-06-17T06:43:05",
     "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
-    "views": 333,
+    "views": 334,
     "forwards": 4,
     "reply": {
       "id": 8133,
@@ -116049,7 +116049,7 @@
     "id": 8667,
     "date": "2026-06-17T16:51:46",
     "text": "结果开的 pr 被维护者关了，孬。\n\n大概会把 fork 留在 <a href=\"https://github.com/MewoLab/caddy-oldtls\">MewoLab/caddy-oldtls</a>",
-    "views": 326,
+    "views": 327,
     "forwards": 2,
     "reply": {
       "id": 8666,
@@ -116072,7 +116072,7 @@
     "id": 8668,
     "date": "2026-06-17T21:49:15",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n剪掉了一些后院的杂草，剪出来的杂草堆了半个垃圾桶，好累\n\n杂草好茂盛，吸走了土地里的养分又没有什么用... 如果能 genetic engineer 出像蓟或者蒲公英那么爱长的白菜、遍地长满野白菜就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 251,
+    "views": 252,
     "forwards": 0,
     "reply": {
       "id": 8665,
@@ -116873,7 +116873,7 @@
   {
     "id": 8741,
     "date": "2026-06-24T17:26:27",
-    "views": 219,
+    "views": 220,
     "forwards": 1,
     "files": [
       {
@@ -116894,7 +116894,7 @@
     "id": 8742,
     "date": "2026-06-24T17:56:48",
     "text": "例常买裸板然后自己打印外壳 qwq\n\n外壳模型发布到这里了: <a href=\"https://www.thingiverse.com/thing:7374322\">https://www.thingiverse.com/thing:7374322</a>",
-    "views": 221,
+    "views": 222,
     "forwards": 2,
     "media_group_id": 14258590466825005,
     "images": [
@@ -116947,14 +116947,14 @@
     "id": 8746,
     "date": "2026-06-25T04:05:46",
     "text": "原本还觉得自己不怎么看 Fate 系列的，但是聊聊是完全没看过 Fate，尝试拉聊聊入坑的时候才意识到自己原来看过这么多 Fate 作品...",
-    "views": 224,
+    "views": 226,
     "forwards": 0
   },
   {
     "id": 8747,
     "date": "2026-06-26T04:44:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的牛排！超好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n家里所有人都会做饭真好，现在大概是轮流我做日料、聊聊做西餐、室友做中餐和每次都没听说过的奇妙欧洲料理这样\n\n（以及拍到了聊聊变身十六夜咲夜的照片）",
-    "views": 199,
+    "views": 200,
     "forwards": 1,
     "media_group_id": 14259592450107685,
     "images": [
@@ -116994,7 +116994,7 @@
     "id": 8750,
     "date": "2026-06-26T05:20:48",
     "text": "怪猫猫",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "media_group_id": 14259609989995277,
     "images": [
@@ -117177,7 +117177,7 @@
     "id": 8763,
     "date": "2026-06-28T18:29:24",
     "text": "为什么描述指数减少的时候人会说 increasingly less 但是描述对数增长的时候不会说 decreasingly more <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n还有为什么描述隐藏费用的时候人会说 \"additional cost\" 但是描述折扣的时候会说 \"additional discount\" 而不是 \"subtractional cost\"",
-    "views": 215,
+    "views": 216,
     "forwards": 4,
     "images": [
       {
@@ -117196,7 +117196,7 @@
     "id": 8764,
     "date": "2026-06-29T00:30:58",
     "text": "Google Maps:\n你可以正常走\n你也可以在环岛里无限转圈圈\n预计到达时间都差不多哦！",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "images": [
       {
@@ -117251,7 +117251,7 @@
     "id": 8767,
     "date": "2026-06-29T14:23:38",
     "text": "呜呜 上学路上看到了死掉的小鸟",
-    "views": 212,
+    "views": 214,
     "forwards": 1,
     "media_group_id": 14261944146216661,
     "images": [
@@ -117291,7 +117291,7 @@
     "id": 8770,
     "date": "2026-06-30T02:14:42",
     "text": "每次都觉得好像",
-    "views": 205,
+    "views": 207,
     "forwards": 1,
     "images": [
       {
@@ -117310,7 +117310,7 @@
     "id": 8771,
     "date": "2026-06-30T02:20:09",
     "text": "实际上是",
-    "views": 217,
+    "views": 219,
     "forwards": 0,
     "reply": {
       "id": 8770,
@@ -117332,7 +117332,7 @@
   {
     "id": 8772,
     "date": "2026-06-30T06:37:03",
-    "views": 212,
+    "views": 214,
     "forwards": 1,
     "images": [
       {
@@ -117351,7 +117351,7 @@
     "id": 8773,
     "date": "2026-06-30T15:09:51",
     "text": "这周",
-    "views": 205,
+    "views": 207,
     "forwards": 1,
     "images": [
       {
@@ -117370,7 +117370,7 @@
     "id": 8774,
     "date": "2026-06-30T23:42:29",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n小白菜/油菜长大了！\n\n虽然但是，小白菜长大了依然是小白菜（大小白菜？），因为白菜和大白菜都是其他的品种 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 197,
+    "views": 200,
     "forwards": 2,
     "media_group_id": 14262903594775229,
     "images": [
@@ -117424,7 +117424,7 @@
     "id": 8778,
     "date": "2026-07-01T06:19:17",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概又会宕机一段时间\n\n原因是帮忙托管服务器的 menci 刚搬完家 qwq（看上去好辛苦，希望一切顺利）",
-    "views": 195,
+    "views": 198,
     "forwards": 1,
     "reply": {
       "id": 8617,
@@ -117435,7 +117435,7 @@
     "id": 8779,
     "date": "2026-07-02T00:46:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##猫咪后院\">#猫咪后院</a>\n这几天的热流好讨厌... 小白菜遇到热天就会开始长花苞，开花之后就不长叶子了而且会变苦，所以只能把还没有长大的小白菜收割了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不过好好吃 qwq",
-    "views": 174,
+    "views": 177,
     "forwards": 2,
     "media_group_id": 14263625507099397,
     "images": [
@@ -117515,7 +117515,7 @@
     "id": 8786,
     "date": "2026-07-02T17:20:26",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n花掉一整个月的实习工资买到了我的第一台相机！下单的时候发现日本的线上购物习惯真的好不一样\n\n这个相机是在一个看上去不太靠谱的网站電子問屋 (<a href=\"denshitonya.com\">denshitonya.com</a>) 下单的，比靠谱的大线下商店ビックカメラ便宜 JP¥62,000 左右，但是怎么信任这个网站不吃我的订单呢？\n\n发现最靠谱的付款方式居然是到货付款，不需要提前付款所以不用担心被骗，不过居然 JP¥168,000 这么贵的东西都可以到付... 试了一下，填入信息、点下单、把现金从银行取出来，然后真的到货了，真的是验完货把现金给快递员就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好奇妙，如果其他地方也有这种付款方式就好了，感觉开网店会变得好方便\n\n（以及日本快递包装上的地址信息是用了那种可以一下完整撕下来的贴纸，感觉对于回收箱子的时候保护隐私来说好方便）\n\n（以及今天去看的时候发现这家网店的店名从 denshitonya 改成了 denshidonya 草，因为不想被外国人分词拾取 \"shit\" 吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>）",
-    "views": 149,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 14264102613097101,
     "images": [
@@ -117590,7 +117590,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 168,
+    "views": 174,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -117700,7 +117700,7 @@
     "id": 8802,
     "date": "2026-07-04T06:41:12",
     "text": "猫猫吓了一跳",
-    "views": 112,
+    "views": 123,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -117719,6 +117719,55 @@
         "url": "media/8802.mp4",
         "size": 2257163,
         "thumb": "media/8802.mp4_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8803,
+    "date": "2026-07-06T00:13:14",
+    "views": 41,
+    "forwards": 0,
+    "media_group_id": 14266374359715821,
+    "images": [
+      {
+        "width": 1637,
+        "height": 2560,
+        "date": "2026-07-06T00:13:09",
+        "media_type": "photo",
+        "original_name": "photo_2026-07-06_00-13-09.jpg",
+        "url": "media/8803.jpg",
+        "size": 176962,
+        "thumb": "media/8803.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1966,
+        "date": "2026-07-06T00:13:12",
+        "media_type": "photo",
+        "original_name": "photo_2026-07-06_00-13-12.jpg",
+        "url": "media/8804.jpg",
+        "size": 509192,
+        "thumb": "media/8804.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-07-06T00:13:13",
+        "media_type": "photo",
+        "original_name": "photo_2026-07-06_00-13-13.jpg",
+        "url": "media/8805.jpg",
+        "size": 620436,
+        "thumb": "media/8805.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-07-06T00:13:14",
+        "media_type": "photo",
+        "original_name": "photo_2026-07-06_00-13-14.jpg",
+        "url": "media/8806.jpg",
+        "size": 478702,
+        "thumb": "media/8806.jpg_thumb.jpg"
       }
     ]
   }
