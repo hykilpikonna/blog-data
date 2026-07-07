@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6621,
+    "views": 6622,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -77973,7 +77973,7 @@
     "id": 5662,
     "date": "2025-06-23T07:12:02",
     "text": "上周是我的生日，周末 Menci 过来玩，坐上新干线去了京东！试了一次完全无计划说走就走的旅行，和住在京东的白猫 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起玩\n\n首先去了伏見稲荷大社，虽然在之前的<a href=\"https://t.me/azaneko/5221\">摄影模拟器游戏</a>里面已经见过了，但是真的来到这里还是好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>摄影模拟器里真的是 1:1 还原吗？为什么感觉游戏里走一会就到山顶了，现实中走了超级久也才刚到四分之一的休息点</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n以及摸到了猫！给人建的大鸟居后面还有一个给猫建的小鸟居，好可爱\n\n以及发现这边的景色一直在改变——路过了很多令和七年也就是今年建的鸟居，可能千本鸟居每年都会变得更长。会不会哪一天整座山会放不下大家捐的鸟居呢",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "media_group_id": 14005301781691181,
     "images": [
@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8646,
+    "views": 8647,
     "forwards": 177,
     "media_group_id": 14043941176651549,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5143,
+    "views": 5144,
     "forwards": 30
   },
   {
@@ -113549,7 +113549,7 @@
     "id": 8488,
     "date": "2026-05-23T18:21:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n唐揚げ！",
-    "views": 250,
+    "views": 251,
     "forwards": 0,
     "media_group_id": 14236483987704117,
     "images": [
@@ -113599,7 +113599,7 @@
     "id": 8492,
     "date": "2026-05-23T21:48:30",
     "text": "猫 证件照",
-    "views": 271,
+    "views": 272,
     "forwards": 0,
     "images": [
       {
@@ -116947,7 +116947,7 @@
     "id": 8746,
     "date": "2026-06-25T04:05:46",
     "text": "原本还觉得自己不怎么看 Fate 系列的，但是聊聊是完全没看过 Fate，尝试拉聊聊入坑的时候才意识到自己原来看过这么多 Fate 作品...",
-    "views": 227,
+    "views": 228,
     "forwards": 0
   },
   {
@@ -117332,7 +117332,7 @@
   {
     "id": 8772,
     "date": "2026-06-30T06:37:03",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "images": [
       {
@@ -117351,7 +117351,7 @@
     "id": 8773,
     "date": "2026-06-30T15:09:51",
     "text": "这周",
-    "views": 221,
+    "views": 222,
     "forwards": 1,
     "images": [
       {
@@ -117370,7 +117370,7 @@
     "id": 8774,
     "date": "2026-06-30T23:42:29",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n小白菜/油菜长大了！\n\n虽然但是，小白菜长大了依然是小白菜（大小白菜？），因为白菜和大白菜都是其他的品种 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "media_group_id": 14262903594775229,
     "images": [
@@ -117435,7 +117435,7 @@
     "id": 8779,
     "date": "2026-07-02T00:46:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##猫咪后院\">#猫咪后院</a>\n这几天的热流好讨厌... 小白菜遇到热天就会开始长花苞，开花之后就不长叶子了而且会变苦，所以只能把还没有长大的小白菜收割了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不过好好吃 qwq",
-    "views": 195,
+    "views": 196,
     "forwards": 2,
     "media_group_id": 14263625507099397,
     "images": [
@@ -117775,7 +117775,7 @@
     "id": 8807,
     "date": "2026-07-06T20:55:04",
     "text": "我发现有 AI coding agent 之后自己用软件的方式不一样了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n在有 AI 之前，如果我想让计划旅行的软件能够从谷歌地图拉我保存的图钉、或者想让 kicad jlc 插件可以自动下载规格书、或者想让计算器把 (2a / 3b) 理解成 ((2a) / (3b)) 而不是 ((2a / 3) b)、或者想让 OpenPilot 自动驾驶可以关掉驾驶员注意力监控，我会开一个「功能请求」然后等人实现（虽然能等到的几乎没有）\n\n即使我很会写代码我也不想为了这些小功能去改别人的代码库，因为改之前首先要读懂原本的代码，但是理解一个新的代码库真的很累很累，为了自己想要的这一个小功能完全不值得\n\n但是 AI 读一个新代码库是完全不需要多费力气的，所以现在我会直接把别人的软件源码 clone 下来让 AI 添加我想要的功能。即使这些改动的受益者只有我一个人也没关系，因为实现这些完全不需要精力。\n\n所以我觉得也许，等 AI 让写代码这件事便宜下来之后，未来的软件对于用户来说可以不再是「完成的产品」了，而是某种「构建的起点」，无论会不会写代码的人都可以用自己的分支，让 AI 添加自己想要的奇怪功能，就只给自己一个人用... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 135,
+    "views": 139,
     "forwards": 1,
     "reply": {
       "id": 8757,
@@ -117787,7 +117787,7 @@
     "id": 8808,
     "date": "2026-07-07T02:56:48",
     "text": "聚乙烯编织绳真的是<del>自从切片面包问世以来最棒的东西</del> (zh_US)\n\n昨天给这边的中二台子也打了一个之前设计的支架，但是发现太小了... 之前的支架是 75x75 VESA，我的显示器是 100x100 VESA，但是重新打又浪费耗材，怎么办呢？\n\n那肯定是，打一个增大圈然后把小的支架像系鞋带一样绑起来！<i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <a href=\"##绳师本能\">#绳师本能</a>",
-    "views": 99,
+    "views": 105,
     "forwards": 2,
     "media_group_id": 14267144071414845,
     "images": [
