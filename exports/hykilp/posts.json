@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6622,
+    "views": 6623,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97442,7 +97442,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 606,
+    "views": 607,
     "forwards": 13
   },
   {
@@ -106331,7 +106331,7 @@
     "id": 7964,
     "date": "2026-03-01T14:26:09",
     "text": "<code>git config --global user.email</code>",
-    "views": 345,
+    "views": 346,
     "forwards": 3,
     "images": [
       {
@@ -106350,7 +106350,7 @@
     "id": 7965,
     "date": "2026-03-01T21:08:43",
     "text": "是 Pokemon 30 周年！决定开坑一个 Cobbleverse (Minecraft x Pokemon) 模组服务器！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实主要是想和聊聊玩所以开了，大家想玩的话可以一起玩哦 qwq\n\n下载: <a href=\"https://pixeldrain.com/u/SCBjfBKU\">https://pixeldrain.com/u/SCBjfBKU</a>",
-    "views": 334,
+    "views": 335,
     "forwards": 1,
     "images": [
       {
@@ -106368,7 +106368,7 @@
   {
     "id": 7966,
     "date": "2026-03-02T06:09:59",
-    "views": 311,
+    "views": 313,
     "forwards": 0,
     "images": [
       {
@@ -106387,7 +106387,7 @@
     "id": 7967,
     "date": "2026-03-03T05:17:04",
     "text": "心情过山车 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n之前法拍上拍到了四个坏掉的 macbook 盲盒，今天去取了，仔细检查了一下发现他们是：\n\n1. A2337 屏幕坏了\n2. A2337 iCloud 激活锁\n3. A2179 风扇狂转、CPU 降频、没有系统（而且还被拆过，没有一个螺丝在原本它应该在的位置）\n4. A2289 屏幕坏了\n\n想要试试把 2 的屏幕换到 1 身上能不能把 1 修好\n\n首先好的屏幕换上去之后可以开机了，但是坏消息是开机之后发现别人登了账号没法解锁。不过发现这个人的名字挺独特的，搜名字能找到一个 ins 账号，但是坏消息是这个 ins 不是很活跃，而且我尝试给她发消息结果我的号被封了。\n\n最后发现原来根本就没有激活锁，登录了 iCloud 并不代表有激活锁，只要重置数据然后正常联网激活就行了（如果用户在重置之前把设备从 find 中删掉的话就会变成这样）\n\n总之在过山车的尽头得到了一个好用的 m1 macbook air! <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> （虽然只有 8+256...）没想到我的第一个 arm 白苹果是这么绕弯拿到的",
-    "views": 308,
+    "views": 310,
     "forwards": 1,
     "media_group_id": 14180120193926557,
     "images": [
@@ -106467,7 +106467,7 @@
     "id": 7974,
     "date": "2026-03-03T15:35:45",
     "text": "Copilot 的 PR 审核是即使没有问题也要编一些问题出来吗... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 301,
+    "views": 303,
     "forwards": 1,
     "media_group_id": 14180417160204389,
     "images": [
@@ -106512,7 +106512,7 @@
     "id": 7977,
     "date": "2026-03-04T02:44:23",
     "text": "插座长了胡子！🧔",
-    "views": 339,
+    "views": 341,
     "forwards": 0,
     "images": [
       {
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5146,
+    "views": 5147,
     "forwards": 30
   },
   {
@@ -117725,7 +117725,7 @@
   {
     "id": 8803,
     "date": "2026-07-06T00:13:14",
-    "views": 190,
+    "views": 191,
     "forwards": 3,
     "media_group_id": 14266374359715821,
     "images": [
@@ -117775,7 +117775,7 @@
     "id": 8807,
     "date": "2026-07-06T20:55:04",
     "text": "我发现有 AI coding agent 之后自己用软件的方式不一样了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n在有 AI 之前，如果我想让计划旅行的软件能够从谷歌地图拉我保存的图钉、或者想让 kicad jlc 插件可以自动下载规格书、或者想让计算器把 (2a / 3b) 理解成 ((2a) / (3b)) 而不是 ((2a / 3) b)、或者想让 OpenPilot 自动驾驶可以关掉驾驶员注意力监控，我会开一个「功能请求」然后等人实现（虽然能等到的几乎没有）\n\n即使我很会写代码我也不想为了这些小功能去改别人的代码库，因为改之前首先要读懂原本的代码，但是理解一个新的代码库真的很累很累，为了自己想要的这一个小功能完全不值得\n\n但是 AI 读一个新代码库是完全不需要多费力气的，所以现在我会直接把别人的软件源码 clone 下来让 AI 添加我想要的功能。即使这些改动的受益者只有我一个人也没关系，因为实现这些完全不需要精力。\n\n所以我觉得也许，等 AI 让写代码这件事便宜下来之后，未来的软件对于用户来说可以不再是「完成的产品」了，而是某种「构建的起点」，无论会不会写代码的人都可以用自己的分支，让 AI 添加自己想要的奇怪功能，就只给自己一个人用... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 175,
+    "views": 177,
     "forwards": 2,
     "reply": {
       "id": 8757,
@@ -117787,7 +117787,7 @@
     "id": 8808,
     "date": "2026-07-07T02:56:48",
     "text": "聚乙烯编织绳真的是<del>自从切片面包问世以来最棒的东西</del> (zh_US)\n\n昨天给这边的中二台子也打了一个之前设计的支架，但是发现太小了... 之前的支架是 75x75 VESA，我的显示器是 100x100 VESA，但是重新打又浪费耗材，怎么办呢？\n\n那肯定是，打一个增大圈然后把小的支架像系鞋带一样绑起来！<i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <a href=\"##绳师本能\">#绳师本能</a>",
-    "views": 163,
+    "views": 164,
     "forwards": 2,
     "media_group_id": 14267144071414845,
     "images": [
@@ -117862,7 +117862,7 @@
     "id": 8814,
     "date": "2026-07-07T12:08:10",
     "text": "修好了一个灯泡\n\n灯泡里是 16 个小灯珠，把一个孬灯珠换掉就好了\n\n其实原本只是想试试新买的热风枪，但是最后发现焊铝 pcb 还是加热台更好用，用热风枪的话灯泡表面融化了之后下面的焊锡还完全是固体\n\n不过修了灯泡才发现灯泡厂商好孬... 同样是 16 个灯珠，并联串联亮度都一样，但是串联只要有一个灯珠坏掉整个灯泡就不亮了，而并联坏掉一个灯珠只会变暗 1/16...\n\n所以可以说串联的寿命比并联短 16 倍，所以厂商故意串联让它坏得更快吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 154,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 14267408720607405,
     "images": [
@@ -117912,7 +117912,7 @@
     "id": 8819,
     "date": "2026-07-07T13:45:30",
     "text": "今天学校异常安静，安静到我在怀疑是不是有什么放假我没注意到",
-    "views": 148,
+    "views": 154,
     "forwards": 0,
     "media_group_id": 14267455447286541,
     "images": [
@@ -117962,7 +117962,7 @@
     "id": 8823,
     "date": "2026-07-08T05:00:23",
     "text": "还记得之前拍卖买到的这四台坏掉的 macbook 吗\n\n1. A2337 屏幕坏了，换上 2 的屏幕之后就修好了\n2. A2337 iCloud 激活锁，无解\n3. A2179 iCloud 激活锁，CPU 降频，没有系统\n4. A2289 屏幕坏了\n\n因为最新的 T2 iBridgeOS 被破解了，所以今天重新试了一下修第三台\n\nCPU 降频的问题搜了一下发现大部分是触摸板下面的温度传感器出了问题，所以把 2 的触摸板换上去就修好了。然后找人进行了 T2 解锁，终于进系统啦！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n...然后进系统发现键盘上 A 和 D 键坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 依然没法当作笔记本用。修键盘需要把所有东西拆下来转移到新外壳上，新外壳感觉比这个本的价值贵了不想修了，谁想要可以免费认领（仅限北美，不在 Ontario 的话需要出运费）",
-    "views": 102,
+    "views": 115,
     "forwards": 1,
     "reply": {
       "id": 7967,
