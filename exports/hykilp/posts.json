@@ -55504,7 +55504,7 @@
   {
     "id": 4072,
     "date": "2024-06-29T06:40:59",
-    "views": 360,
+    "views": 361,
     "forwards": 4,
     "files": [
       {
@@ -81144,7 +81144,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 439,
+    "views": 440,
     "forwards": 3,
     "files": [
       {
@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8650,
+    "views": 8651,
     "forwards": 177,
     "media_group_id": 14043941176651549,
     "images": [
@@ -108850,7 +108850,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4277,
+    "views": 4278,
     "forwards": 31
   },
   {
@@ -114216,7 +114216,7 @@
     "id": 8533,
     "date": "2026-06-01T16:03:58",
     "text": "孵出来了！",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -114238,7 +114238,7 @@
     "id": 8534,
     "date": "2026-06-01T16:12:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 270,
+    "views": 271,
     "forwards": 0,
     "files": [
       {
@@ -114260,7 +114260,7 @@
     "id": 8535,
     "date": "2026-06-01T20:19:10",
     "text": "小鸟：（没有声音的怒吼）\n\n（被当成鸟妈妈了）",
-    "views": 270,
+    "views": 271,
     "forwards": 0,
     "reply": {
       "id": 8533,
@@ -114284,7 +114284,7 @@
   {
     "id": 8536,
     "date": "2026-06-02T13:30:55",
-    "views": 251,
+    "views": 252,
     "forwards": 2,
     "media_group_id": 14243256444430101,
     "images": [
@@ -114318,7 +114318,7 @@
     "id": 8538,
     "date": "2026-06-02T13:54:54",
     "text": "长颈猫",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "media_group_id": 14243267957553661,
     "images": [
@@ -114378,7 +114378,7 @@
     "id": 8544,
     "date": "2026-06-02T17:13:40",
     "text": "看摇曳露营觉得摩托车好不错想学摩托车\n\n然后看 mono 马上被劝退 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 1,
     "media_group_id": 14243363361812749,
     "images": [
@@ -117775,7 +117775,7 @@
     "id": 8807,
     "date": "2026-07-06T20:55:04",
     "text": "我发现有 AI coding agent 之后自己用软件的方式不一样了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n在有 AI 之前，如果我想让计划旅行的软件能够从谷歌地图拉我保存的图钉、或者想让 kicad jlc 插件可以自动下载规格书、或者想让计算器把 (2a / 3b) 理解成 ((2a) / (3b)) 而不是 ((2a / 3) b)、或者想让 OpenPilot 自动驾驶可以关掉驾驶员注意力监控，我会开一个「功能请求」然后等人实现（虽然能等到的几乎没有）\n\n即使我很会写代码我也不想为了这些小功能去改别人的代码库，因为改之前首先要读懂原本的代码，但是理解一个新的代码库真的很累很累，为了自己想要的这一个小功能完全不值得\n\n但是 AI 读一个新代码库是完全不需要多费力气的，所以现在我会直接把别人的软件源码 clone 下来让 AI 添加我想要的功能。即使这些改动的受益者只有我一个人也没关系，因为实现这些完全不需要精力。\n\n所以我觉得也许，等 AI 让写代码这件事便宜下来之后，未来的软件对于用户来说可以不再是「完成的产品」了，而是某种「构建的起点」，无论会不会写代码的人都可以用自己的分支，让 AI 添加自己想要的奇怪功能，就只给自己一个人用... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 223,
+    "views": 224,
     "forwards": 2,
     "reply": {
       "id": 8757,
@@ -118005,7 +118005,7 @@
     "id": 8825,
     "date": "2026-07-09T03:28:16",
     "text": "<a href=\"https://vxtwitter.com/sauricat/status/2074962655715234175\">https://vxtwitter.com/sauricat/status/2074962655715234175</a>",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -118014,7 +118014,7 @@
   {
     "id": 8826,
     "date": "2026-07-09T06:07:45",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "media_group_id": 14268618124913893,
     "images": [
@@ -118063,7 +118063,7 @@
     "id": 8829,
     "date": "2026-07-09T17:49:21",
     "text": "毛\n\n短毛猫一年没剪毛居然没有变成长毛猫（？）好奇妙",
-    "views": 155,
+    "views": 156,
     "forwards": 0,
     "media_group_id": 14268954894459565,
     "images": [
@@ -118143,7 +118143,7 @@
     "id": 8836,
     "date": "2026-07-10T05:02:02",
     "text": "<a href=\"##绳师本能\">#绳师本能</a> <del>今天的捆绑对象依然是显示器</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n因为 gitadora 游戏从 720p 升级到 4k 的原因，花 $70 重新捡了一个二手显示器，所以也重新设计了挂显示器的方法\n\n因为背面的 VESA 口不在厚度轴重心，所以如果从 VESA 那里挂的话会严重向前倾，但是如果从重心绑的话又会有线挡住屏幕...\n\n所以设计了卡在四角的走绳子的卡扣，用绳子绑两圈就可以让卡扣向中心用力自己把自己固定上了，然后从顶边的绳子把它吊起来的话，两根绳子吊到天花板上就不会左右摇晃了，甚至可以靠调整绳子的位置来调整倾斜度！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<a href=\"https://cad.onshape.com/documents/b34f22ddb47d6449bb981bf6/w/6169ec981eedb2215e87d705/e/57db350395bc80222a20b23b?renderMode=0&rightPanel=variableTablePanel&uiState=6a507b75be2fa235f9456d2c\">3D 模型放在这里了</a>（不过因为这是为我的 27UP650 的形状量身定制的，其他显示器的话不能直接用哦！）",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "media_group_id": 14269277776962013,
     "images": [
@@ -118292,7 +118292,7 @@
     "id": 8847,
     "date": "2026-07-10T15:59:41",
     "text": "猫",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "media_group_id": 14269593451767973,
     "images": [
@@ -118372,7 +118372,7 @@
     "id": 8854,
     "date": "2026-07-10T21:10:43",
     "text": "又成为了正版软件的受害者...\n\n谷歌好孬，安卓明明向下兼容很好的，明明找盗版 apk 装上都可以正常启动正常玩，但是 Google play 就是不让我安装正版 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 110,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 14269742750978853,
     "images": [
@@ -118402,7 +118402,7 @@
     "id": 8856,
     "date": "2026-07-11T00:18:32",
     "text": "预售，但是 \"start listening today\"? <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 92,
+    "views": 96,
     "forwards": 0,
     "images": [
       {
