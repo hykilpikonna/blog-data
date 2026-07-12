@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6628,
+    "views": 6629,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -80703,7 +80703,7 @@
     "id": 5892,
     "date": "2025-07-12T16:02:34",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n这次音乐会里最喜欢的两首是「<a href=\"https://www.youtube.com/watch?v=VtCrQQFWyaw\">波を越えてはるかに</a>」和「<a href=\"https://www.youtube.com/watch?v=TI9Voa4dYqs\">海の歌</a>」\n\n（因为禁止录音所以找了 YT 上其他乐团的演奏录音 qwq）",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "media_group_id": 14018689234450061,
     "files": [
@@ -80836,7 +80836,7 @@
     "id": 5902,
     "date": "2025-07-14T14:53:25",
     "text": "终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用\n\n首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 <a href=\"https://github.com/AndroPlus-org/magisk-module-miui-cn2global\">miui-cn2global</a> (v15) 用来解锁一些谷歌地区锁和 <a href=\"https://github.com/AndroPlus-org/magisk-module-androidauto\">androidauto</a> 模块，重启之后 play 更新 Auto 应用就好啦\n\n以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前<a href=\"https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/\">某 XDA 帖子</a>发了一个应用 <a href=\"https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK\">Any Auto Audio</a> 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊",
-    "views": 237,
+    "views": 240,
     "forwards": 2,
     "media_group_id": 14020038444239989,
     "images": [
@@ -80866,7 +80866,7 @@
     "id": 5904,
     "date": "2025-07-15T04:15:41",
     "text": "从中国买的新滤镜送到了！但是有点翻车\n\n买了这些：\n* UV 用来防紫外、防镜片落灰或者刮伤\n* CPL 用来去除玻璃/水面上的光反射、过滤掉电子设备屏幕的光\n* ND1000 用来降低进入镜头的光量，用来白天拍长曝光\n\n原本打算一直挂着 UV，需要的时候把其他的叠到 UV 上面... 但是发现并不是很行，因为滤镜太厚了，同时叠了两个的时候广角的角上会有黑边...\n\n不太知道怎么办... 裁剪的话本来就很小的 APSC 画幅就更窄了。每次先摘下 UV 再拧其他的滤镜的话对镜头也不太好，不知道镜头上的螺纹寿命能换多少次滤镜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "media_group_id": 14020423530192701,
     "images": [
@@ -80906,7 +80906,7 @@
     "id": 5907,
     "date": "2025-07-15T10:17:36",
     "text": "猫猫文件 🐈",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "images": [
       {
@@ -80925,14 +80925,14 @@
     "id": 5908,
     "date": "2025-07-15T14:48:43",
     "text": "第一次经历地震",
-    "views": 219,
+    "views": 220,
     "forwards": 0
   },
   {
     "id": 5909,
     "date": "2025-07-15T14:57:45",
     "text": "震度4, 完全完全没感觉... 大家说地震了我才知道地震了的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "reply": {
       "id": 5908,
@@ -80955,7 +80955,7 @@
     "id": 5910,
     "date": "2025-07-15T16:21:21",
     "text": "今天要把数据挪到新的计算集群上，但是这个集群已经快没空间了，210TB 的全闪被用到只剩 4.3TB... 还有机器人天天在群里报警提醒大家删东西\n\n所以我不太想把 400GB 的数据加进去，但是导师说也没办法啊你需要写的话只能写进去了 🌚\n\n感觉我已经能预见到存储挤满整个服务器爆炸的那一天了",
-    "views": 259,
+    "views": 261,
     "forwards": 0,
     "images": [
       {
@@ -80974,7 +80974,7 @@
     "id": 5911,
     "date": "2025-07-16T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 月火水木金働いた\n♪ ダメでも毎日頑張るしかなくて\n♪ だけど金曜日が\n♪ 終われば大丈夫\n♪ 週末は僕のヒーローに\n♪ 会いに行く\n\n<span class=\"spoiler\"><span>醒醒，今天刚周三 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</span></span></i>",
-    "views": 241,
+    "views": 243,
     "forwards": 1,
     "files": [
       {
@@ -80996,7 +80996,7 @@
     "id": 5912,
     "date": "2025-07-16T07:24:59",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n给自己的狗狗写情歌也太浪漫了 <i class=\"custom-emoji\" emoji-src=\"emoji/5326044950696042137.webm\">🥰</i>",
-    "views": 239,
+    "views": 241,
     "forwards": 0,
     "files": [
       {
@@ -81018,7 +81018,7 @@
     "id": 5913,
     "date": "2025-07-16T11:25:49",
     "text": "开香槟",
-    "views": 231,
+    "views": 233,
     "forwards": 0,
     "images": [
       {
@@ -81043,7 +81043,7 @@
     "id": 5915,
     "date": "2025-07-16T15:29:01",
     "text": "被下国际象棋的朋友推荐了 King of the Bridge 这款游戏！直播玩玩 qwq\n\n<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">https://youtube.com/live/Lwz5Qq1VaH0</a>",
-    "views": 227,
+    "views": 228,
     "forwards": 0
   },
   {
@@ -81056,7 +81056,7 @@
     "id": 5917,
     "date": "2025-07-16T17:07:13",
     "text": "直播一个小时打通了！回放在<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">这里</a>\n\n这个游戏规则改得好过分！感觉也许国际象棋新手反而会玩得更好？感觉所有一般国际象棋上的定式都不通用了，所以反而按照肌肉记忆下棋会很吃瘪 quq（<span class=\"spoiler\"><span>所以我能这么快通关反而说明我国际象棋打得很菜吗</span></span>\n\n以及想出这么邪门的作弊和反击规则作者是恶魔吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不熟悉新的规则的时候对方乱走我都不知道是不是作弊，但是我作弊就 100% 会被抓到好不公平哇...\n\n第一周目对方作弊的时候利用反击很快就赢了，但是是坏结局。第二周目尝试不作弊赢棋真的好难好难，毕竟对方作弊的时候你发现了也没办法撤回去... 不过最后对面犯够多蠢让我赢了 qwq（感觉如果对面 AI 更聪明一点的话不反击完全就是不可能赢的\n\n<del>什么时候有 pvp 模式啊</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 277,
+    "views": 278,
     "forwards": 0,
     "media_group_id": 14021485066316709,
     "images": [
@@ -81090,7 +81090,7 @@
     "id": 5920,
     "date": "2025-07-17T03:41:01",
     "text": "速通！\n\n（居然正常通关 + 速通之后依然没有超过两小时退款期限）",
-    "views": 282,
+    "views": 283,
     "forwards": 0,
     "media_group_id": 14021789291254117,
     "files": [
@@ -81126,7 +81126,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 274,
+    "views": 275,
     "forwards": 1,
     "images": [
       {
@@ -81144,7 +81144,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 441,
+    "views": 442,
     "forwards": 3,
     "files": [
       {
@@ -81215,7 +81215,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 283,
+    "views": 284,
     "forwards": 1,
     "reply": {
       "id": 5923
@@ -81237,7 +81237,7 @@
     "id": 5925,
     "date": "2025-07-18T17:50:27",
     "text": "自己还是个小孩的一百个迹象：\n\n每次每次每次每次旅行前一天晚上都睡不好，即使吃了平时会让我迷糊一整天的安眠药都没救 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 251,
+    "views": 252,
     "forwards": 0,
     "images": [
       {
@@ -81256,7 +81256,7 @@
     "id": 5927,
     "date": "2025-07-18T18:03:00",
     "text": "通往未来的圣地巡礼",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "media_group_id": 14022894242547901,
     "images": [
@@ -114879,7 +114879,7 @@
     "id": 8580,
     "date": "2026-06-07T02:41:21",
     "text": "整理照片 昨天和云欣和 lowb 去 Laurel Creek 湖边走了一圈，湖边气氛好不错\n\n不知道为什么 Road Closed，在地上的神秘黄色阴影区域进行了灵魂停车（？）\n\n以及捡到了巨大鹅羽毛 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不知道鸟掉羽毛是和人掉头发一样没有感觉",
-    "views": 269,
+    "views": 270,
     "forwards": 3,
     "media_group_id": 14246400652662629,
     "images": [
@@ -115024,7 +115024,7 @@
     "id": 8590,
     "date": "2026-06-08T12:08:34",
     "text": "好好笑",
-    "views": 280,
+    "views": 281,
     "forwards": 3,
     "images": [
       {
@@ -115079,7 +115079,7 @@
   {
     "id": 8593,
     "date": "2026-06-09T01:06:15",
-    "views": 291,
+    "views": 292,
     "forwards": 4,
     "files": [
       {
@@ -115101,14 +115101,14 @@
     "id": 8594,
     "date": "2026-06-09T04:44:47",
     "text": "我也会觉得说出一些宏大/遥远的理想很难为情...",
-    "views": 279,
+    "views": 280,
     "forwards": 1
   },
   {
     "id": 8595,
     "date": "2026-06-10T03:50:49",
     "text": "因为之前拍小猫照片大家都说像 toothless，所以今天去二刷了驯龙高手... 果然很像！龙也太可爱了，无论是外观还是行为细节都完全就是我家小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 269,
+    "views": 270,
     "forwards": 2,
     "media_group_id": 14248507598228581,
     "images": [
@@ -115384,7 +115384,7 @@
     "id": 8617,
     "date": "2026-06-12T04:59:58",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概会宕机一段时间\n\n因为在没有 KVM 也不在物理机器旁边的情况下 -Syu 重启导致机器起不来了也没办法调试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 272,
+    "views": 273,
     "forwards": 1,
     "images": [
       {
@@ -115403,7 +115403,7 @@
     "id": 8618,
     "date": "2026-06-12T06:02:23",
     "text": "听到今天这次 <a href=\"https://t.me/archlinuxcn/336\">AUR 被投毒</a>的消息其实我很不开心...\n\n因为其实一年半前我注意到了可以大规模 take orphan 投毒的这个可能性，当时准备了一个无害 payload 准备愚人节投出去恶搞一下... 我觉得只有让所有人意识到有这个可能性才能够让 aur 管理员有动力改变 aur 系统的工作方式\n\n不过当时很重要的朋友都劝退觉得我不应该这样做，觉得我会打扰到用户，觉得我会被炎上，觉得软件源应该是被信任的地方... 所以就放弃了，然后现在真的被恶意投毒了\n\n如果当时没有被劝退是不是这次投毒就不会发生了呢？",
-    "views": 306,
+    "views": 307,
     "forwards": 4,
     "media_group_id": 14249953150937525,
     "images": [
@@ -118143,7 +118143,7 @@
     "id": 8836,
     "date": "2026-07-10T05:02:02",
     "text": "<a href=\"##绳师本能\">#绳师本能</a> <del>今天的捆绑对象依然是显示器</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n因为 gitadora 游戏从 720p 升级到 4k 的原因，花 $70 重新捡了一个二手显示器，所以也重新设计了挂显示器的方法\n\n因为背面的 VESA 口不在厚度轴重心，所以如果从 VESA 那里挂的话会严重向前倾，但是如果从重心绑的话又会有线挡住屏幕...\n\n所以设计了卡在四角的走绳子的卡扣，用绳子绑两圈就可以让卡扣向中心用力自己把自己固定上了，然后从顶边的绳子把它吊起来的话，两根绳子吊到天花板上就不会左右摇晃了，甚至可以靠调整绳子的位置来调整倾斜度！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<a href=\"https://cad.onshape.com/documents/b34f22ddb47d6449bb981bf6/w/6169ec981eedb2215e87d705/e/57db350395bc80222a20b23b?renderMode=0&rightPanel=variableTablePanel&uiState=6a507b75be2fa235f9456d2c\">3D 模型放在这里了</a>（不过因为这是为我的 27UP650 的形状量身定制的，其他显示器的话不能直接用哦！）",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "media_group_id": 14269277776962013,
     "images": [
@@ -118228,7 +118228,7 @@
     "id": 8843,
     "date": "2026-07-10T11:55:54",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n上班路上看到超迷你神社里奉納了三个鸡蛋（？）",
-    "views": 167,
+    "views": 169,
     "forwards": 0,
     "media_group_id": 14269476432987141,
     "images": [
@@ -118262,7 +118262,7 @@
     "id": 8845,
     "date": "2026-07-10T12:03:54",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n为了测试新买的露营道具进行了房间露营 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 14269480272614869,
     "images": [
@@ -118292,7 +118292,7 @@
     "id": 8847,
     "date": "2026-07-10T15:59:41",
     "text": "猫",
-    "views": 161,
+    "views": 165,
     "forwards": 0,
     "media_group_id": 14269593451767973,
     "images": [
@@ -118372,7 +118372,7 @@
     "id": 8854,
     "date": "2026-07-10T21:10:43",
     "text": "又成为了正版软件的受害者...\n\n谷歌好孬，安卓明明向下兼容很好的，明明找盗版 apk 装上都可以正常启动正常玩，但是 Google play 就是不让我安装正版 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 152,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 14269742750978853,
     "images": [
@@ -118402,7 +118402,7 @@
     "id": 8856,
     "date": "2026-07-11T00:18:32",
     "text": "预售，但是 \"start listening today\"? <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 139,
+    "views": 145,
     "forwards": 0,
     "images": [
       {
@@ -118421,7 +118421,7 @@
     "id": 8857,
     "date": "2026-07-12T05:10:35",
     "text": "买了新的旧手机，是小米 15 Ultra，解锁之后刷了 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实自从小米封堵 bootloader 解锁之后就比较讨厌小米了，所以去年旧的小米 11 Ultra 坏掉之后没有考虑小米反而买了一加 13（虽然最近一加也开始封堵 bootloader 解锁了...）\n\n这次因为某高通的漏洞，反而小米也可以无授权解锁了，所以买来解锁刷了 ROM，感觉是某种程度上是 power user 的文艺复兴\n\n转移好数据之后旧的一加 13 给聊聊啦（聊聊正在进行从 iOS 换到安卓的迁移，不知道会不会不习惯 qwq）\n\n以及其实这是我第一次用 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM，我还挺喜欢的，很干净也比较符合原生的使用习惯，大部分东西都是不用很多调试到手就工作，比如 Android Auto（想起来 <a href=\"##一年前的今天\">#一年前的今天</a> 在原生 MIUI 上想要用 Android Auto 都要安装两个模块...）\n\n不过用第三方启动器+手势还是需要往常的那些 hack 的... 是小米系统的通病了（于此同时，聊聊在她完美兼容原生手势的一加 13 OOS 上选择了三键导航...... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 75,
+    "views": 87,
     "forwards": 0,
     "media_group_id": 14270664282574749,
     "images": [
