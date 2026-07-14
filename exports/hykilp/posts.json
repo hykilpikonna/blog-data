@@ -30569,7 +30569,7 @@
     "id": 2272,
     "date": "2023-06-12T03:46:26",
     "text": "<a href=\"##租房广告\">#租房广告</a>\n九月份多伦多北约克的两居公寓又空出一个房间了，想合租欢迎联系 <a href=\"https://t.me/hykilpikonna\">Azalea</a>！\n\n座标在 Wilson 地铁站旁边走路五分钟，价格大概 CA$950/mo，离 Costco 走路十五分钟。大概是图上那么大的房间，有两个小衣橱、书桌书架椅子、独立卫生间浴室、停车位，共享客厅和厨房。\n\n共享设施的话，有灶台烤箱洗碗机搅拌机洗衣机烘干机、有上下 1 Gbps 光纤 WiFi6、可以分配动态公网 IP 给服务器、可以用我们的两台 3D 打印机、焊接/手工工作台、电钢琴和吉他和 <del>DIY 马林巴琴</del>、电视、VR 头显和各种游戏机和音游手台 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n住在主卧的是 UofT 计算机系本科三年生 Azalea（<a href=\"https://github.com/hykilpikonna\">Github</a> | <a href=\"https://aza.moe/\">Blog</a>）和约克大学软件工程研究生 Lindsey（<a href=\"https://twitter.com/youquzhiji\">Twitter</a>），对室友的要求是 1. 支持 LGBTQ+ <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>，2. 是任意方面的 nerd（有感兴趣到能聊上一整天的东西就满足，比如开源项目/运维/心理/工程/音游/流行文化/铁道/游戏/etc）3. 和我们有越多交集越好\n\n总之想要合租欢迎联系哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 1077,
+    "views": 1078,
     "forwards": 22,
     "media_group_id": 13492332690096989,
     "images": [
@@ -60045,7 +60045,7 @@
     "id": 4389,
     "date": "2024-09-03T20:28:35",
     "text": "今年也是，很荣幸地翘掉了开学第一天的第一节课 <i class=\"custom-emoji\" emoji-src=\"emoji/5469634808437021491.webp\">😴</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 3,
     "reply": {
       "id": 1720,
@@ -93398,7 +93398,7 @@
     "id": 6914,
     "date": "2025-10-11T19:49:18",
     "text": "分享一例配网灵异事件\n\nsyama 来苏州在电视上一起玩 persona 3, 是 moonlight 远程连到她杭州家里的电脑上玩的，玩了几个小时之后突然直连连不上了\n\ndebug 了超级久（有五六个小时）之后，排查了这两点之间的所有设备之后，得出的结论是运营商路由表配坏了，udp ipv6 包发出不去，udp ipv4 回复进不来 🌚\n\n在路由器上抓包，测试 udp6 可以看到发送的包从杭州路由器的 wan eth 出去之后消失了，测试 udp4 可以看到回复的包从加拿大 wan eth 出去之后这边路由器完全没有看到... 从杭州 mtr -u 这边的地址也是在很近的地方就没消息了。\n\n所以现在只有 rustdesk 这个可以纯 tcp 连接的远程软件能通，moonlight 和 tailscale 都没法直连了。放弃，打算明天直接给中国移动打电话",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "media_group_id": 14081697264565341,
     "images": [
@@ -93448,7 +93448,7 @@
     "id": 6918,
     "date": "2025-10-11T19:58:25",
     "text": "不太聪明喵 moment:\n\n在路由器上想装软件想了半天没想起来 openwrt 的包管理器叫什么、看了一眼路由器的接口发现 wan6 在防火墙的 lan 区域里（居然这样还能跑）\n\n以及最早 udp 回复收不到的原因是因为 windows 旧地址没有注销，接收和回复用了两个不同的地址 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>（虽然修好了地址问题之后也依然收不到",
-    "views": 295,
+    "views": 296,
     "forwards": 1,
     "media_group_id": 14081701644656741,
     "images": [
@@ -93483,7 +93483,7 @@
     "id": 6920,
     "date": "2025-10-12T11:40:35",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸菜鱼！\n\n巴沙鱼好方便呀，不需要处理还没有刺",
-    "views": 291,
+    "views": 292,
     "forwards": 1,
     "media_group_id": 14082153881624589,
     "images": [
@@ -93533,7 +93533,7 @@
     "id": 6925,
     "date": "2025-10-15T12:36:40",
     "text": "第一次注意到，小时候喜欢的中国特色番茄味薯片，在中国居然叫「墨西哥鸡汁番茄味」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n但是它引进到加拿大之后，在加拿大的包装上标了 \"flavours from China\" 并且去掉了「墨西哥」🌚",
-    "views": 233,
+    "views": 234,
     "forwards": 2,
     "media_group_id": 14084254401753285,
     "images": [
@@ -93563,7 +93563,7 @@
     "id": 6928,
     "date": "2025-10-15T15:58:27",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和府捞面！\n\n其实和府捞面离住的地方并不近，但是实在太想吃所以花了 ￥20 的路费打车去吃了。这家的装饰没有印象中的和府捞面好看，但是草本骨汤还是印象中的味道 qwq 如果有卖汤底包就好了\n\n吃了太多面回家直接昏睡了 4h <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n...以及发现这家店的监控屏幕上是一张静止的图，显示的是三个月前的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 奇妙",
-    "views": 235,
+    "views": 236,
     "forwards": 1,
     "media_group_id": 14084351257514173,
     "images": [
@@ -93613,13 +93613,13 @@
     "id": 6931,
     "date": "2025-10-15T19:42:27",
     "text": "你们有没有过 看一个字太久就不认识这个字了的情况 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 0
   },
   {
     "id": 6932,
     "date": "2025-10-15T19:55:36",
-    "views": 257,
+    "views": 258,
     "forwards": 0,
     "files": [
       {
@@ -93644,7 +93644,7 @@
     "id": 6934,
     "date": "2025-10-16T03:45:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nPersona 3R 最后的 boss 演出配上这首曲子真的超燃！\n\n<del>烧烧我的面包</del>",
-    "views": 252,
+    "views": 253,
     "forwards": 0,
     "files": [
       {
@@ -93666,7 +93666,7 @@
     "id": 6935,
     "date": "2025-10-16T18:44:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n麻烦面",
-    "views": 224,
+    "views": 225,
     "forwards": 0,
     "media_group_id": 14085122184679549,
     "images": [
@@ -93696,7 +93696,7 @@
     "id": 6937,
     "date": "2025-10-17T06:45:49",
     "text": "不再害怕演讲了！\n\n今天讲了这次实习的期末演讲，在只练习了一次的情况下居然从头到尾流畅讲完了完全没有卡顿，问题也全都有回答上！<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n现在才真正感受到自己的沟通能力真的和两年前完全不一样了",
-    "views": 252,
+    "views": 253,
     "forwards": 1,
     "images": [
       {
@@ -93715,7 +93715,7 @@
     "id": 6938,
     "date": "2025-10-17T16:45:15",
     "text": "我穿越了",
-    "views": 251,
+    "views": 252,
     "forwards": 1,
     "images": [
       {
@@ -93734,7 +93734,7 @@
     "id": 6939,
     "date": "2025-10-17T22:01:17",
     "text": "一根棍子的显示器支架 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\nmenci 买了中二手台和显示器，我给这个显示器做了一个 45° 支架\n\n原本在考虑铝型材，但是看到显示器自带的底座只有三个点接触桌子却能够立得特别稳就在想，我也只做一个点的支撑，剩下就让引力支撑它自己好了\n\n设计好之后 3D 打印出来没想到真的可以立住，而且特别稳！很少见的第一次打印就成功了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 264,
+    "views": 265,
     "forwards": 2,
     "media_group_id": 14085907817799589,
     "images": [
@@ -93814,7 +93814,7 @@
     "id": 6946,
     "date": "2025-10-19T15:28:33",
     "text": "服务器电源真的太吵了\n\n所以魔改了一个 thermalright 的风扇！现在完全听不到电源的风扇声音了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n（代价是原本 750W 的电源现在变成了可能是 500W 的电源 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "media_group_id": 14087101705847709,
     "images": [
@@ -93894,7 +93894,7 @@
     "id": 6953,
     "date": "2025-10-19T15:31:16",
     "text": "新玩具增加了（？）\n\n发现拆下来的暴力风扇风量大到足以让它自己悬浮起来 <i class=\"custom-emoji\" emoji-src=\"emoji/5861517868021060371.webp\">😮</i> <span class=\"spoiler\"><span>也吵到能让我悬浮起来 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</span></span></i>",
-    "views": 293,
+    "views": 294,
     "forwards": 0,
     "reply": {
       "id": 6946,
@@ -93922,7 +93922,7 @@
     "id": 6954,
     "date": "2025-10-19T19:32:56",
     "text": "悲，和聊聊连麦打 persona 3 打了一个小时蓝屏了，并没有存档...",
-    "views": 280,
+    "views": 281,
     "forwards": 1
   },
   {
@@ -111122,7 +111122,7 @@
     "id": 8321,
     "date": "2026-04-25T23:35:48",
     "text": "翻翻猫",
-    "views": 298,
+    "views": 299,
     "forwards": 0,
     "files": [
       {
@@ -111144,7 +111144,7 @@
     "id": 8322,
     "date": "2026-04-26T00:49:49",
     "text": "黑眼圈。",
-    "views": 305,
+    "views": 306,
     "forwards": 1,
     "images": [
       {
@@ -111274,7 +111274,7 @@
     "id": 8331,
     "date": "2026-04-26T16:58:29",
     "text": "猫猫抓到了苍蝇！<i class=\"custom-emoji\" emoji-src=\"emoji/6170293817233638918.webm\">😐</i>",
-    "views": 332,
+    "views": 333,
     "forwards": 0,
     "files": [
       {
@@ -111295,7 +111295,7 @@
     "id": 8332,
     "date": "2026-04-26T19:08:31",
     "text": "无心撒的猫草种子发芽了！大自然好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 328,
+    "views": 329,
     "forwards": 0,
     "media_group_id": 14217844092352861,
     "images": [
@@ -111335,7 +111335,7 @@
     "id": 8335,
     "date": "2026-04-27T04:25:58",
     "text": "啊啊啊啊啊啊啊啊啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n再也不敢 YOLO 了，我让 agent 挂载一个盘，agent 不看一眼分区表就以为它是空盘把它格了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n还好没有开 trim，用 btrfs rescue 救回来了。但是真的再也不敢跳过审核让 agent sudo 了",
-    "views": 431,
+    "views": 432,
     "forwards": 11,
     "images": [
       {
@@ -111451,7 +111451,7 @@
     "id": 8342,
     "date": "2026-04-29T17:11:51",
     "text": "我焊 PCB 和烫头发的温度都是 370",
-    "views": 330,
+    "views": 331,
     "forwards": 1,
     "images": [
       {
@@ -114579,7 +114579,7 @@
     "id": 8559,
     "date": "2026-06-03T14:36:13",
     "text": "「11 年前发的所以不是 AI 安心了」",
-    "views": 336,
+    "views": 337,
     "forwards": 5,
     "reply": {
       "id": 7504,
@@ -116671,21 +116671,21 @@
     "id": 8718,
     "date": "2026-06-22T08:38:21",
     "text": "Menci 给我的苹果手机作为备用机用了一年了，觉得唯一比安卓好用的地方就是需要逆向东西抓 HTTPS 的时候很方便 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n真的不懂为什么安卓想要信任一个假 root cert 这么麻烦...",
-    "views": 276,
+    "views": 279,
     "forwards": 2
   },
   {
     "id": 8719,
     "date": "2026-06-22T19:46:52",
     "text": "steam machine 发布了所以看了一下评测\n\n居然真的认真做风扇做到了几乎静音... valve 真好呀，会在这种没法体现在纸面性能上的地方用心\n\n可惜国产小盒子没有这样的用心，我每天听我的两个小盒子的小风扇的高频尖叫我要疯掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 280,
+    "views": 284,
     "forwards": 1
   },
   {
     "id": 8720,
     "date": "2026-06-22T23:45:17",
     "text": "两个月前撒的猫草种子已经长得比猫高并且开花了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 262,
+    "views": 266,
     "forwards": 2,
     "reply": {
       "id": 8332,
@@ -116709,7 +116709,7 @@
     "id": 8721,
     "date": "2026-06-23T21:46:52",
     "text": "聊聊的旧 iPhone 12 相机和充电口和外壳都坏了，我从中国花 ￥164 买了零件进行了全面翻新！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n真的好累好累，因为新的外壳只有外壳不是总成，所以换外壳要把 所有东西（包括贴在外壳上的按键和天线和无线充电盘）全都拆下来再转移到新的外壳上... 花了五个小时才修好\n\n修完之后例常多出了一些螺丝和一个不接电的小零件... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 但是开机之后功能和系统自检都没问题，看拆机视频也没有找到这个小零件应该放在哪... 先不管啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（好累好累，休息之后再发视频好了）",
-    "views": 247,
+    "views": 251,
     "forwards": 2,
     "media_group_id": 14258009699274181,
     "images": [
@@ -116789,7 +116789,7 @@
     "id": 8734,
     "date": "2026-06-24T04:23:16",
     "text": "听マモル推荐去玩了 <a href=\"https://store.steampowered.com/app/4146680/ReStory_Chill_Electronic_Repairs_Demo/\">ReStory</a> 的预览版，是设定在 2000 年的秋叶原的维修店模拟器，总体画风超级放松可爱\n\n旧设备真好呀... 总共就没有很多零件、整个机器拆下来螺丝只有个位数，拆电池也不需要小心翼翼拆双面胶也不用怕划伤无线充电线圈 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总之好喜欢这个，出正式版我绝对会买（甚至有点让我想开维修店了，可惜现在不是 2000 年，我也不在秋叶原...）",
-    "views": 227,
+    "views": 230,
     "forwards": 2,
     "media_group_id": 14258199973719693,
     "images": [
@@ -116873,7 +116873,7 @@
   {
     "id": 8741,
     "date": "2026-06-24T17:26:27",
-    "views": 234,
+    "views": 235,
     "forwards": 1,
     "files": [
       {
@@ -116894,7 +116894,7 @@
     "id": 8742,
     "date": "2026-06-24T17:56:48",
     "text": "例常买裸板然后自己打印外壳 qwq\n\n外壳模型发布到这里了: <a href=\"https://www.thingiverse.com/thing:7374322\">https://www.thingiverse.com/thing:7374322</a>",
-    "views": 235,
+    "views": 236,
     "forwards": 2,
     "media_group_id": 14258590466825005,
     "images": [
@@ -116947,14 +116947,14 @@
     "id": 8746,
     "date": "2026-06-25T04:05:46",
     "text": "原本还觉得自己不怎么看 Fate 系列的，但是聊聊是完全没看过 Fate，尝试拉聊聊入坑的时候才意识到自己原来看过这么多 Fate 作品...",
-    "views": 241,
+    "views": 242,
     "forwards": 0
   },
   {
     "id": 8747,
     "date": "2026-06-26T04:44:16",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的牛排！超好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n家里所有人都会做饭真好，现在大概是轮流我做日料、聊聊做西餐、室友做中餐和每次都没听说过的奇妙欧洲料理这样\n\n（以及拍到了聊聊变身十六夜咲夜的照片）",
-    "views": 215,
+    "views": 216,
     "forwards": 1,
     "media_group_id": 14259592450107685,
     "images": [
@@ -116994,7 +116994,7 @@
     "id": 8750,
     "date": "2026-06-26T05:20:48",
     "text": "怪猫猫",
-    "views": 227,
+    "views": 228,
     "forwards": 0,
     "media_group_id": 14259609989995277,
     "images": [
@@ -117064,7 +117064,7 @@
     "id": 8756,
     "date": "2026-06-27T01:02:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n狐狸乌冬！\n\n原本想买きつね的结果买成了いなり... 虽然都是甜豆腐皮，但是いなり是用来裹米饭做寿司的，实在比きつね甜太多了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 0,
     "images": [
       {
@@ -117083,7 +117083,7 @@
     "id": 8757,
     "date": "2026-06-27T05:30:33",
     "text": "最近在做一个旅行计划网页的 Fork，添加了很多功能，比如自动计算出发到达时间、日历模式、公交导航、预估车票和高速费、避开收费高速的设置、基于出发时间和路况规划路线、营业时间提醒、自定义分类图标...\n\n原本是想慢慢合进上游的，但是可惜和原作者的想法不太符合所以开的 PR 被拒了，所以开始维护自己的 Fork 啦，大家想用的话<a href=\"https://github.com/hykilpikonna/TrekForge\">这里是源码</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 267,
+    "views": 268,
     "forwards": 5,
     "media_group_id": 14260305869391317,
     "images": [
@@ -117113,7 +117113,7 @@
     "id": 8759,
     "date": "2026-06-27T19:33:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n正确的做了いなりずし",
-    "views": 244,
+    "views": 245,
     "forwards": 0,
     "media_group_id": 14260710265567965,
     "images": [
@@ -117147,7 +117147,7 @@
     "id": 8761,
     "date": "2026-06-28T00:29:42",
     "text": "我的猫为什么有两只左脚",
-    "views": 268,
+    "views": 269,
     "forwards": 1,
     "media_group_id": 14260852661626181,
     "images": [
@@ -117177,7 +117177,7 @@
     "id": 8763,
     "date": "2026-06-28T18:29:24",
     "text": "为什么描述指数减少的时候人会说 increasingly less 但是描述对数增长的时候不会说 decreasingly more <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n还有为什么描述隐藏费用的时候人会说 \"additional cost\" 但是描述折扣的时候会说 \"additional discount\" 而不是 \"subtractional cost\"",
-    "views": 245,
+    "views": 246,
     "forwards": 4,
     "images": [
       {
@@ -117196,7 +117196,7 @@
     "id": 8764,
     "date": "2026-06-29T00:30:58",
     "text": "Google Maps:\n你可以正常走\n你也可以在环岛里无限转圈圈\n预计到达时间都差不多哦！",
-    "views": 242,
+    "views": 243,
     "forwards": 1,
     "images": [
       {
@@ -117215,7 +117215,7 @@
     "id": 8765,
     "date": "2026-06-29T00:46:22",
     "text": "俗话说 磨刀不误砍柴工，但是我发现我会磨太久刀然后忘记砍柴...\n\n原本这一周放假想出去玩的，但是想先把计划旅行的网页改好，结果做了一周网页了没有时间出去玩了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 239,
+    "views": 240,
     "forwards": 1,
     "reply": {
       "id": 8757,
@@ -117227,7 +117227,7 @@
     "id": 8766,
     "date": "2026-06-29T04:07:04",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n对种的小白菜/油菜进行了拔苗助长\n\n把挤得很密集的菜挖出来空开了，希望根能活下来",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "reply": {
       "id": 8665,
@@ -117251,7 +117251,7 @@
     "id": 8767,
     "date": "2026-06-29T14:23:38",
     "text": "呜呜 上学路上看到了死掉的小鸟",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "media_group_id": 14261944146216661,
     "images": [
@@ -117291,7 +117291,7 @@
     "id": 8770,
     "date": "2026-06-30T02:14:42",
     "text": "每次都觉得好像",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "images": [
       {
@@ -117310,7 +117310,7 @@
     "id": 8771,
     "date": "2026-06-30T02:20:09",
     "text": "实际上是",
-    "views": 245,
+    "views": 246,
     "forwards": 0,
     "reply": {
       "id": 8770,
@@ -117332,7 +117332,7 @@
   {
     "id": 8772,
     "date": "2026-06-30T06:37:03",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "images": [
       {
@@ -117351,7 +117351,7 @@
     "id": 8773,
     "date": "2026-06-30T15:09:51",
     "text": "这周",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "images": [
       {
@@ -117370,7 +117370,7 @@
     "id": 8774,
     "date": "2026-06-30T23:42:29",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n小白菜/油菜长大了！\n\n虽然但是，小白菜长大了依然是小白菜（大小白菜？），因为白菜和大白菜都是其他的品种 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 2,
     "media_group_id": 14262903594775229,
     "images": [
@@ -117424,7 +117424,7 @@
     "id": 8778,
     "date": "2026-07-01T06:19:17",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概又会宕机一段时间\n\n原因是帮忙托管服务器的 menci 刚搬完家 qwq（看上去好辛苦，希望一切顺利）",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "reply": {
       "id": 8617,
@@ -117435,7 +117435,7 @@
     "id": 8779,
     "date": "2026-07-02T00:46:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##猫咪后院\">#猫咪后院</a>\n这几天的热流好讨厌... 小白菜遇到热天就会开始长花苞，开花之后就不长叶子了而且会变苦，所以只能把还没有长大的小白菜收割了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不过好好吃 qwq",
-    "views": 226,
+    "views": 227,
     "forwards": 2,
     "media_group_id": 14263625507099397,
     "images": [
@@ -117515,7 +117515,7 @@
     "id": 8786,
     "date": "2026-07-02T17:20:26",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n花掉一整个月的实习工资买到了我的第一台相机！下单的时候发现日本的线上购物习惯真的好不一样\n\n这个相机是在一个看上去不太靠谱的网站電子問屋 (<a href=\"denshitonya.com\">denshitonya.com</a>) 下单的，比靠谱的大线下商店ビックカメラ便宜 JP¥62,000 左右，但是怎么信任这个网站不吃我的订单呢？\n\n发现最靠谱的付款方式居然是到货付款，不需要提前付款所以不用担心被骗，不过居然 JP¥168,000 这么贵的东西都可以到付... 试了一下，填入信息、点下单、把现金从银行取出来，然后真的到货了，真的是验完货把现金给快递员就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n好奇妙，如果其他地方也有这种付款方式就好了，感觉开网店会变得好方便\n\n（以及日本快递包装上的地址信息是用了那种可以一下完整撕下来的贴纸，感觉对于回收箱子的时候保护隐私来说好方便）\n\n（以及今天去看的时候发现这家网店的店名从 denshitonya 改成了 denshidonya 草，因为不想被外国人分词拾取 \"shit\" 吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>）",
-    "views": 220,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14264102613097101,
     "images": [
@@ -117590,7 +117590,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 280,
+    "views": 282,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -117700,7 +117700,7 @@
     "id": 8802,
     "date": "2026-07-04T06:41:12",
     "text": "猫猫吓了一跳",
-    "views": 257,
+    "views": 259,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -117725,7 +117725,7 @@
   {
     "id": 8803,
     "date": "2026-07-06T00:13:14",
-    "views": 236,
+    "views": 238,
     "forwards": 3,
     "media_group_id": 14266374359715821,
     "images": [
@@ -117775,7 +117775,7 @@
     "id": 8807,
     "date": "2026-07-06T20:55:04",
     "text": "我发现有 AI coding agent 之后自己用软件的方式不一样了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n在有 AI 之前，如果我想让计划旅行的软件能够从谷歌地图拉我保存的图钉、或者想让 kicad jlc 插件可以自动下载规格书、或者想让计算器把 (2a / 3b) 理解成 ((2a) / (3b)) 而不是 ((2a / 3) b)、或者想让 OpenPilot 自动驾驶可以关掉驾驶员注意力监控，我会开一个「功能请求」然后等人实现（虽然能等到的几乎没有）\n\n即使我很会写代码我也不想为了这些小功能去改别人的代码库，因为改之前首先要读懂原本的代码，但是理解一个新的代码库真的很累很累，为了自己想要的这一个小功能完全不值得\n\n但是 AI 读一个新代码库是完全不需要多费力气的，所以现在我会直接把别人的软件源码 clone 下来让 AI 添加我想要的功能。即使这些改动的受益者只有我一个人也没关系，因为实现这些完全不需要精力。\n\n所以我觉得也许，等 AI 让写代码这件事便宜下来之后，未来的软件对于用户来说可以不再是「完成的产品」了，而是某种「构建的起点」，无论会不会写代码的人都可以用自己的分支，让 AI 添加自己想要的奇怪功能，就只给自己一个人用... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 233,
+    "views": 236,
     "forwards": 2,
     "reply": {
       "id": 8757,
@@ -117787,7 +117787,7 @@
     "id": 8808,
     "date": "2026-07-07T02:56:48",
     "text": "聚乙烯编织绳真的是<del>自从切片面包问世以来最棒的东西</del> (zh_US)\n\n昨天给这边的中二台子也打了一个之前设计的支架，但是发现太小了... 之前的支架是 75x75 VESA，我的显示器是 100x100 VESA，但是重新打又浪费耗材，怎么办呢？\n\n那肯定是，打一个增大圈然后把小的支架像系鞋带一样绑起来！<i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <a href=\"##绳师本能\">#绳师本能</a>",
-    "views": 224,
+    "views": 227,
     "forwards": 2,
     "media_group_id": 14267144071414845,
     "images": [
@@ -117862,7 +117862,7 @@
     "id": 8814,
     "date": "2026-07-07T12:08:10",
     "text": "修好了一个灯泡\n\n灯泡里是 16 个小灯珠，把一个孬灯珠换掉就好了\n\n其实原本只是想试试新买的热风枪，但是最后发现焊铝 pcb 还是加热台更好用，用热风枪的话灯泡表面融化了之后下面的焊锡还完全是固体\n\n不过修了灯泡才发现灯泡厂商好孬... 同样是 16 个灯珠，并联串联亮度都一样，但是串联只要有一个灯珠坏掉整个灯泡就不亮了，而并联坏掉一个灯珠只会变暗 1/16...\n\n所以可以说串联的寿命比并联短 16 倍，所以厂商故意串联让它坏得更快吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 226,
+    "views": 228,
     "forwards": 0,
     "media_group_id": 14267408720607405,
     "images": [
@@ -117912,7 +117912,7 @@
     "id": 8819,
     "date": "2026-07-07T13:45:30",
     "text": "今天学校异常安静，安静到我在怀疑是不是有什么放假我没注意到",
-    "views": 227,
+    "views": 229,
     "forwards": 0,
     "media_group_id": 14267455447286541,
     "images": [
@@ -117962,7 +117962,7 @@
     "id": 8823,
     "date": "2026-07-08T05:00:23",
     "text": "还记得之前拍卖买到的这四台坏掉的 macbook 吗\n\n1. A2337 屏幕坏了，换上 2 的屏幕之后就修好了\n2. A2337 iCloud 激活锁，无解\n3. A2179 iCloud 激活锁，CPU 降频，没有系统\n4. A2289 屏幕坏了\n\n因为最新的 T2 iBridgeOS 被破解了，所以今天重新试了一下修第三台\n\nCPU 降频的问题搜了一下发现大部分是触摸板下面的温度传感器出了问题，所以把 2 的触摸板换上去就修好了。然后找人进行了 T2 解锁，终于进系统啦！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n...然后进系统发现键盘上 A 和 D 键坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 依然没法当作笔记本用。修键盘需要把所有东西拆下来转移到新外壳上，新外壳感觉比这个本的价值贵了不想修了，谁想要可以免费认领（仅限北美，不在 Ontario 的话需要出运费）",
-    "views": 258,
+    "views": 260,
     "forwards": 2,
     "reply": {
       "id": 7967,
@@ -117986,7 +117986,7 @@
     "id": 8824,
     "date": "2026-07-08T22:32:43",
     "text": "和显示器胳膊握手 🤝",
-    "views": 215,
+    "views": 217,
     "forwards": 1,
     "images": [
       {
@@ -118005,7 +118005,7 @@
     "id": 8825,
     "date": "2026-07-09T03:28:16",
     "text": "<a href=\"https://vxtwitter.com/sauricat/status/2074962655715234175\">https://vxtwitter.com/sauricat/status/2074962655715234175</a>",
-    "views": 190,
+    "views": 192,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -118014,7 +118014,7 @@
   {
     "id": 8826,
     "date": "2026-07-09T06:07:45",
-    "views": 212,
+    "views": 214,
     "forwards": 0,
     "media_group_id": 14268618124913893,
     "images": [
@@ -118044,7 +118044,7 @@
     "id": 8828,
     "date": "2026-07-09T08:52:33",
     "text": "对着天花板拍到了奇妙照片",
-    "views": 207,
+    "views": 209,
     "forwards": 0,
     "images": [
       {
@@ -118063,7 +118063,7 @@
     "id": 8829,
     "date": "2026-07-09T17:49:21",
     "text": "毛\n\n短毛猫一年没剪毛居然没有变成长毛猫（？）好奇妙",
-    "views": 178,
+    "views": 181,
     "forwards": 0,
     "media_group_id": 14268954894459565,
     "images": [
@@ -118143,7 +118143,7 @@
     "id": 8836,
     "date": "2026-07-10T05:02:02",
     "text": "<a href=\"##绳师本能\">#绳师本能</a> <del>今天的捆绑对象依然是显示器</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n因为 gitadora 游戏从 720p 升级到 4k 的原因，花 $70 重新捡了一个二手显示器，所以也重新设计了挂显示器的方法\n\n因为背面的 VESA 口不在厚度轴重心，所以如果从 VESA 那里挂的话会严重向前倾，但是如果从重心绑的话又会有线挡住屏幕...\n\n所以设计了卡在四角的走绳子的卡扣，用绳子绑两圈就可以让卡扣向中心用力自己把自己固定上了，然后从顶边的绳子把它吊起来的话，两根绳子吊到天花板上就不会左右摇晃了，甚至可以靠调整绳子的位置来调整倾斜度！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<a href=\"https://cad.onshape.com/documents/b34f22ddb47d6449bb981bf6/w/6169ec981eedb2215e87d705/e/57db350395bc80222a20b23b?renderMode=0&rightPanel=variableTablePanel&uiState=6a507b75be2fa235f9456d2c\">3D 模型放在这里了</a>（不过因为这是为我的 27UP650 的形状量身定制的，其他显示器的话不能直接用哦！）",
-    "views": 174,
+    "views": 177,
     "forwards": 0,
     "media_group_id": 14269277776962013,
     "images": [
@@ -118228,7 +118228,7 @@
     "id": 8843,
     "date": "2026-07-10T11:55:54",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n上班路上看到超迷你神社里奉納了三个鸡蛋（？）",
-    "views": 191,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 14269476432987141,
     "images": [
@@ -118262,7 +118262,7 @@
     "id": 8845,
     "date": "2026-07-10T12:03:54",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n为了测试新买的露营道具进行了房间露营 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 193,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 14269480272614869,
     "images": [
@@ -118292,7 +118292,7 @@
     "id": 8847,
     "date": "2026-07-10T15:59:41",
     "text": "猫",
-    "views": 187,
+    "views": 190,
     "forwards": 1,
     "media_group_id": 14269593451767973,
     "images": [
@@ -118372,7 +118372,7 @@
     "id": 8854,
     "date": "2026-07-10T21:10:43",
     "text": "又成为了正版软件的受害者...\n\n谷歌好孬，安卓明明向下兼容很好的，明明找盗版 apk 装上都可以正常启动正常玩，但是 Google play 就是不让我安装正版 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 192,
+    "views": 196,
     "forwards": 1,
     "media_group_id": 14269742750978853,
     "images": [
@@ -118402,7 +118402,7 @@
     "id": 8856,
     "date": "2026-07-11T00:18:32",
     "text": "预售，但是 \"start listening today\"? <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 183,
+    "views": 186,
     "forwards": 0,
     "images": [
       {
@@ -118421,7 +118421,7 @@
     "id": 8857,
     "date": "2026-07-12T05:10:35",
     "text": "买了新的旧手机，是小米 15 Ultra，解锁之后刷了 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实自从小米封堵 bootloader 解锁之后就比较讨厌小米了，所以去年旧的小米 11 Ultra 坏掉之后没有考虑小米反而买了一加 13（虽然最近一加也开始封堵 bootloader 解锁了...）\n\n这次因为某高通的漏洞，反而小米也可以无授权解锁了，所以买来解锁刷了 ROM，感觉是某种程度上是 power user 的文艺复兴\n\n转移好数据之后旧的一加 13 给聊聊啦（聊聊正在进行从 iOS 换到安卓的迁移，不知道会不会不习惯 qwq）\n\n以及其实这是我第一次用 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM，我还挺喜欢的，很干净也比较符合原生的使用习惯，大部分东西都是不用很多调试到手就工作，比如 Android Auto（想起来 <a href=\"##一年前的今天\">#一年前的今天</a> 在原生 MIUI 上想要用 Android Auto 都要安装两个模块...）\n\n不过用第三方启动器+手势还是需要往常的那些 hack 的... 是小米系统的通病了（于此同时，聊聊在她完美兼容原生手势的一加 13 OOS 上选择了三键导航...... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 175,
+    "views": 180,
     "forwards": 1,
     "media_group_id": 14270664282574749,
     "images": [
@@ -118456,7 +118456,7 @@
     "id": 8859,
     "date": "2026-07-13T04:04:50",
     "text": "（看着自己的影子）\n：我好像是一只猫",
-    "views": 151,
+    "views": 168,
     "forwards": 6,
     "images": [
       {
@@ -118475,7 +118475,7 @@
     "id": 8860,
     "date": "2026-07-13T22:21:14",
     "text": "猫草要长成小麦了",
-    "views": 21,
+    "views": 59,
     "forwards": 0,
     "reply": {
       "id": 8720,
