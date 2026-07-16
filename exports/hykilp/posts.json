@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6635,
+    "views": 6636,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -117590,7 +117590,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 290,
+    "views": 291,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -117962,7 +117962,7 @@
     "id": 8823,
     "date": "2026-07-08T05:00:23",
     "text": "还记得之前拍卖买到的这四台坏掉的 macbook 吗\n\n1. A2337 屏幕坏了，换上 2 的屏幕之后就修好了\n2. A2337 iCloud 激活锁，无解\n3. A2179 iCloud 激活锁，CPU 降频，没有系统\n4. A2289 屏幕坏了\n\n因为最新的 T2 iBridgeOS 被破解了，所以今天重新试了一下修第三台\n\nCPU 降频的问题搜了一下发现大部分是触摸板下面的温度传感器出了问题，所以把 2 的触摸板换上去就修好了。然后找人进行了 T2 解锁，终于进系统啦！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n...然后进系统发现键盘上 A 和 D 键坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 依然没法当作笔记本用。修键盘需要把所有东西拆下来转移到新外壳上，新外壳感觉比这个本的价值贵了不想修了，谁想要可以免费认领（仅限北美，不在 Ontario 的话需要出运费）",
-    "views": 282,
+    "views": 283,
     "forwards": 2,
     "reply": {
       "id": 7967,
@@ -118578,7 +118578,7 @@
     "id": 8868,
     "date": "2026-07-15T14:53:20",
     "text": "/打开水龙头",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "media_group_id": 14273017602003965,
     "images": [
@@ -118608,7 +118608,7 @@
     "id": 8870,
     "date": "2026-07-15T15:02:14",
     "text": "好大火灾",
-    "views": 175,
+    "views": 177,
     "forwards": 2,
     "media_group_id": 14273021876480205,
     "images": [
@@ -118638,14 +118638,14 @@
     "id": 8872,
     "date": "2026-07-16T02:27:31",
     "text": "怀念海苔味のりしお薯片...",
-    "views": 143,
+    "views": 146,
     "forwards": 0
   },
   {
     "id": 8873,
     "date": "2026-07-16T16:41:38",
     "text": "修了 pixel 7 pro 的屏幕 qwq\n\n这次录了视频，开了一个 YouTube 频道传 lofi ASMR 维修视频，欢迎关注喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <a href=\"https://youtu.be/S590IEf5dAI\">https://youtu.be/S590IEf5dAI</a>",
-    "views": 87,
+    "views": 94,
     "forwards": 2,
     "media_group_id": 14273760787660245,
     "images": [
