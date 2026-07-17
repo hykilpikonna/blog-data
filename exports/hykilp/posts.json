@@ -97442,7 +97442,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 607,
+    "views": 608,
     "forwards": 13
   },
   {
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5169,
+    "views": 5170,
     "forwards": 30
   },
   {
@@ -110355,7 +110355,7 @@
     "id": 8261,
     "date": "2026-04-18T06:58:58",
     "text": "今天在给服务器赛博搬家，好累\n\n我部署东西的时候习惯随便丢哪里就忘记它，但是搬家的时候要把所有这些都想起来...\n\n然后就发生了，我看到有一个 blog 的部署文件夹以为 blog 是在这里部署的，迁移完才发现实际上很久以前已经迁移到 cloudflare pages 了但是忘记把文件夹删掉... 好痛苦\n\n以及发现好多服务都是部署完用了一两次就没有继续用了的，比如直播间上次直播已经是一年前了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 300,
+    "views": 301,
     "forwards": 1,
     "media_group_id": 14211964308173789,
     "images": [
@@ -110390,7 +110390,7 @@
     "id": 8263,
     "date": "2026-04-18T15:30:31",
     "text": "map 了一下家里的网络设备拓扑结构\n\nMermaid 好用喵",
-    "views": 304,
+    "views": 305,
     "forwards": 2,
     "images": [
       {
@@ -117862,7 +117862,7 @@
     "id": 8814,
     "date": "2026-07-07T12:08:10",
     "text": "修好了一个灯泡\n\n灯泡里是 16 个小灯珠，把一个孬灯珠换掉就好了\n\n其实原本只是想试试新买的热风枪，但是最后发现焊铝 pcb 还是加热台更好用，用热风枪的话灯泡表面融化了之后下面的焊锡还完全是固体\n\n不过修了灯泡才发现灯泡厂商好孬... 同样是 16 个灯珠，并联串联亮度都一样，但是串联只要有一个灯珠坏掉整个灯泡就不亮了，而并联坏掉一个灯珠只会变暗 1/16...\n\n所以可以说串联的寿命比并联短 16 倍，所以厂商故意串联让它坏得更快吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "media_group_id": 14267408720607405,
     "images": [
@@ -117912,7 +117912,7 @@
     "id": 8819,
     "date": "2026-07-07T13:45:30",
     "text": "今天学校异常安静，安静到我在怀疑是不是有什么放假我没注意到",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "media_group_id": 14267455447286541,
     "images": [
@@ -117986,7 +117986,7 @@
     "id": 8824,
     "date": "2026-07-08T22:32:43",
     "text": "和显示器胳膊握手 🤝",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "images": [
       {
@@ -118005,7 +118005,7 @@
     "id": 8825,
     "date": "2026-07-09T03:28:16",
     "text": "<a href=\"https://vxtwitter.com/sauricat/status/2074962655715234175\">https://vxtwitter.com/sauricat/status/2074962655715234175</a>",
-    "views": 214,
+    "views": 216,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -118143,7 +118143,7 @@
     "id": 8836,
     "date": "2026-07-10T05:02:02",
     "text": "<a href=\"##绳师本能\">#绳师本能</a> <del>今天的捆绑对象依然是显示器</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n因为 gitadora 游戏从 720p 升级到 4k 的原因，花 $70 重新捡了一个二手显示器，所以也重新设计了挂显示器的方法\n\n因为背面的 VESA 口不在厚度轴重心，所以如果从 VESA 那里挂的话会严重向前倾，但是如果从重心绑的话又会有线挡住屏幕...\n\n所以设计了卡在四角的走绳子的卡扣，用绳子绑两圈就可以让卡扣向中心用力自己把自己固定上了，然后从顶边的绳子把它吊起来的话，两根绳子吊到天花板上就不会左右摇晃了，甚至可以靠调整绳子的位置来调整倾斜度！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<a href=\"https://cad.onshape.com/documents/b34f22ddb47d6449bb981bf6/w/6169ec981eedb2215e87d705/e/57db350395bc80222a20b23b?renderMode=0&rightPanel=variableTablePanel&uiState=6a507b75be2fa235f9456d2c\">3D 模型放在这里了</a>（不过因为这是为我的 27UP650 的形状量身定制的，其他显示器的话不能直接用哦！）",
-    "views": 204,
+    "views": 205,
     "forwards": 0,
     "media_group_id": 14269277776962013,
     "images": [
@@ -118262,7 +118262,7 @@
     "id": 8845,
     "date": "2026-07-10T12:03:54",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n为了测试新买的露营道具进行了房间露营 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "media_group_id": 14269480272614869,
     "images": [
@@ -118372,7 +118372,7 @@
     "id": 8854,
     "date": "2026-07-10T21:10:43",
     "text": "又成为了正版软件的受害者...\n\n谷歌好孬，安卓明明向下兼容很好的，明明找盗版 apk 装上都可以正常启动正常玩，但是 Google play 就是不让我安装正版 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 1,
     "media_group_id": 14269742750978853,
     "images": [
@@ -118402,7 +118402,7 @@
     "id": 8856,
     "date": "2026-07-11T00:18:32",
     "text": "预售，但是 \"start listening today\"? <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 256,
+    "views": 257,
     "forwards": 0,
     "images": [
       {
@@ -118421,7 +118421,7 @@
     "id": 8857,
     "date": "2026-07-12T05:10:35",
     "text": "买了新的旧手机，是小米 15 Ultra，解锁之后刷了 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实自从小米封堵 bootloader 解锁之后就比较讨厌小米了，所以去年旧的小米 11 Ultra 坏掉之后没有考虑小米反而买了一加 13（虽然最近一加也开始封堵 bootloader 解锁了...）\n\n这次因为某高通的漏洞，反而小米也可以无授权解锁了，所以买来解锁刷了 ROM，感觉是某种程度上是 power user 的文艺复兴\n\n转移好数据之后旧的一加 13 给聊聊啦（聊聊正在进行从 iOS 换到安卓的迁移，不知道会不会不习惯 qwq）\n\n以及其实这是我第一次用 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM，我还挺喜欢的，很干净也比较符合原生的使用习惯，大部分东西都是不用很多调试到手就工作，比如 Android Auto（想起来 <a href=\"##一年前的今天\">#一年前的今天</a> 在原生 MIUI 上想要用 Android Auto 都要安装两个模块...）\n\n不过用第三方启动器+手势还是需要往常的那些 hack 的... 是小米系统的通病了（于此同时，聊聊在她完美兼容原生手势的一加 13 OOS 上选择了三键导航...... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 243,
+    "views": 244,
     "forwards": 1,
     "media_group_id": 14270664282574749,
     "images": [
@@ -118456,7 +118456,7 @@
     "id": 8859,
     "date": "2026-07-13T04:04:50",
     "text": "（看着自己的影子）\n：我好像是一只猫",
-    "views": 270,
+    "views": 274,
     "forwards": 7,
     "images": [
       {
@@ -118475,7 +118475,7 @@
     "id": 8860,
     "date": "2026-07-13T22:21:14",
     "text": "猫草要长成小麦了",
-    "views": 202,
+    "views": 204,
     "forwards": 0,
     "reply": {
       "id": 8720,
@@ -118498,7 +118498,7 @@
     "id": 8861,
     "date": "2026-07-14T07:32:01",
     "text": "和聊聊开车 40 分钟去了暗空指数 4 级的 Conestogo Lake（虽然 4 级的光污染依然不够很清楚的看到银河...）\n\n这里晚上好安静，在湖边的路边停下来一个小时只有一辆车经过，只有风和风铃和小虫子的声音。路对面的小屋气氛好和谐，好想住在这种地方 qwq\n\n在天空中找到了群友 P Cygni <a href=\"https://t.me/pois_t\">@pois_t</a> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i> 好亮（以及 <a href=\"https://nova.astrometry.net/user_images/15846972#annotated\">astrometry.net</a> 好好用，上传一张照片就识别出照片上的星星了，超级准确而且是传统算法哇... 好厉害）",
-    "views": 192,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 14272114569607325,
     "images": [
@@ -118578,7 +118578,7 @@
     "id": 8868,
     "date": "2026-07-15T14:53:20",
     "text": "/打开水龙头",
-    "views": 173,
+    "views": 177,
     "forwards": 0,
     "media_group_id": 14273017602003965,
     "images": [
@@ -118608,7 +118608,7 @@
     "id": 8870,
     "date": "2026-07-15T15:02:14",
     "text": "好大火灾",
-    "views": 179,
+    "views": 184,
     "forwards": 2,
     "media_group_id": 14273021876480205,
     "images": [
@@ -118638,14 +118638,14 @@
     "id": 8872,
     "date": "2026-07-16T02:27:31",
     "text": "怀念海苔味のりしお薯片...",
-    "views": 151,
+    "views": 162,
     "forwards": 0
   },
   {
     "id": 8873,
     "date": "2026-07-16T16:41:38",
     "text": "修了 pixel 7 pro 的屏幕 qwq\n\n这次录了视频，开了一个 YouTube 频道传 lofi ASMR 维修视频，欢迎关注喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <a href=\"https://youtu.be/S590IEf5dAI\">https://youtu.be/S590IEf5dAI</a>",
-    "views": 112,
+    "views": 136,
     "forwards": 2,
     "media_group_id": 14273760787660245,
     "images": [
@@ -118695,7 +118695,7 @@
     "id": 8877,
     "date": "2026-07-16T23:43:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n寿司🍣 <del>デカ盛り</del>\n\n（实际上做这么多是因为いなり的豆腐皮快要放坏了，结果并没有吃完）",
-    "views": 37,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 14273963216541957,
     "images": [
@@ -118748,6 +118748,30 @@
         "url": "media/8881.jpg",
         "size": 759911,
         "thumb": "media/8881.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8882,
+    "date": "2026-07-17T02:12:53",
+    "views": 57,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2021-06-20T18:35:33",
+        "width": 499,
+        "height": 512,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😴",
+        "set_name": "Hykilp2019",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/8882.webp",
+        "size": 17692,
+        "thumb": "media/8882.webp_thumb.jpg"
       }
     ]
   }
