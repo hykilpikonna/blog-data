@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6637,
+    "views": 6638,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85379,7 +85379,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8656,
+    "views": 8657,
     "forwards": 177,
     "media_group_id": 14043941176651549,
     "images": [
@@ -100384,14 +100384,14 @@
     "id": 7471,
     "date": "2025-12-13T21:52:22",
     "text": "AI 写的代码里为什么也会有 typo....... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 270,
+    "views": 271,
     "forwards": 0
   },
   {
     "id": 7472,
     "date": "2025-12-13T23:56:40",
     "text": "好好笑（它返回这个的时候我还愣了一下...）",
-    "views": 284,
+    "views": 285,
     "forwards": 1,
     "images": [
       {
@@ -100410,7 +100410,7 @@
     "id": 7473,
     "date": "2025-12-14T00:33:33",
     "text": "把 blog 的数据迁移到 homelab 上把它修好了\n\n以及今天终于抽出时间把这台机器上部署的二十多个网页全都从 nginx 迁移到 caddy 了，原本觉得两小时肯定够了结果折腾到了凌晨九点半，好累好累好累...\n\n不过 caddy 确实好方便，不再需要手动管理 TLS 了，配置行数直接减少 7.5 倍！不过现在已经没有力气为这件事情开心了，全身都只想要睡觉—— <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 274,
+    "views": 275,
     "forwards": 0,
     "reply": {
       "id": 7432,
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 731,
+    "views": 732,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -115929,7 +115929,7 @@
     "id": 8660,
     "date": "2026-06-16T17:13:59",
     "text": "啊啊... Linux 上居然真的让你把屏幕亮度调到 0, 然后鼠标挪走了就看不见亮度条在哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 需要摸黑找亮度条...",
-    "views": 259,
+    "views": 260,
     "forwards": 2,
     "images": [
       {
@@ -115947,7 +115947,7 @@
   {
     "id": 8661,
     "date": "2026-06-16T18:55:47",
-    "views": 271,
+    "views": 272,
     "forwards": 2,
     "images": [
       {
@@ -117590,7 +117590,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 294,
+    "views": 295,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -117700,7 +117700,7 @@
     "id": 8802,
     "date": "2026-07-04T06:41:12",
     "text": "猫猫吓了一跳",
-    "views": 270,
+    "views": 271,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -117725,7 +117725,7 @@
   {
     "id": 8803,
     "date": "2026-07-06T00:13:14",
-    "views": 251,
+    "views": 252,
     "forwards": 3,
     "media_group_id": 14266374359715821,
     "images": [
@@ -117775,7 +117775,7 @@
     "id": 8807,
     "date": "2026-07-06T20:55:04",
     "text": "我发现有 AI coding agent 之后自己用软件的方式不一样了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n在有 AI 之前，如果我想让计划旅行的软件能够从谷歌地图拉我保存的图钉、或者想让 kicad jlc 插件可以自动下载规格书、或者想让计算器把 (2a / 3b) 理解成 ((2a) / (3b)) 而不是 ((2a / 3) b)、或者想让 OpenPilot 自动驾驶可以关掉驾驶员注意力监控，我会开一个「功能请求」然后等人实现（虽然能等到的几乎没有）\n\n即使我很会写代码我也不想为了这些小功能去改别人的代码库，因为改之前首先要读懂原本的代码，但是理解一个新的代码库真的很累很累，为了自己想要的这一个小功能完全不值得\n\n但是 AI 读一个新代码库是完全不需要多费力气的，所以现在我会直接把别人的软件源码 clone 下来让 AI 添加我想要的功能。即使这些改动的受益者只有我一个人也没关系，因为实现这些完全不需要精力。\n\n所以我觉得也许，等 AI 让写代码这件事便宜下来之后，未来的软件对于用户来说可以不再是「完成的产品」了，而是某种「构建的起点」，无论会不会写代码的人都可以用自己的分支，让 AI 添加自己想要的奇怪功能，就只给自己一个人用... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 250,
+    "views": 251,
     "forwards": 2,
     "reply": {
       "id": 8757,
@@ -117787,7 +117787,7 @@
     "id": 8808,
     "date": "2026-07-07T02:56:48",
     "text": "聚乙烯编织绳真的是<del>自从切片面包问世以来最棒的东西</del> (zh_US)\n\n昨天给这边的中二台子也打了一个之前设计的支架，但是发现太小了... 之前的支架是 75x75 VESA，我的显示器是 100x100 VESA，但是重新打又浪费耗材，怎么办呢？\n\n那肯定是，打一个增大圈然后把小的支架像系鞋带一样绑起来！<i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <a href=\"##绳师本能\">#绳师本能</a>",
-    "views": 240,
+    "views": 241,
     "forwards": 2,
     "media_group_id": 14267144071414845,
     "images": [
@@ -117862,7 +117862,7 @@
     "id": 8814,
     "date": "2026-07-07T12:08:10",
     "text": "修好了一个灯泡\n\n灯泡里是 16 个小灯珠，把一个孬灯珠换掉就好了\n\n其实原本只是想试试新买的热风枪，但是最后发现焊铝 pcb 还是加热台更好用，用热风枪的话灯泡表面融化了之后下面的焊锡还完全是固体\n\n不过修了灯泡才发现灯泡厂商好孬... 同样是 16 个灯珠，并联串联亮度都一样，但是串联只要有一个灯珠坏掉整个灯泡就不亮了，而并联坏掉一个灯珠只会变暗 1/16...\n\n所以可以说串联的寿命比并联短 16 倍，所以厂商故意串联让它坏得更快吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 243,
+    "views": 244,
     "forwards": 0,
     "media_group_id": 14267408720607405,
     "images": [
@@ -117912,7 +117912,7 @@
     "id": 8819,
     "date": "2026-07-07T13:45:30",
     "text": "今天学校异常安静，安静到我在怀疑是不是有什么放假我没注意到",
-    "views": 242,
+    "views": 243,
     "forwards": 0,
     "media_group_id": 14267455447286541,
     "images": [
@@ -117962,7 +117962,7 @@
     "id": 8823,
     "date": "2026-07-08T05:00:23",
     "text": "还记得之前拍卖买到的这四台坏掉的 macbook 吗\n\n1. A2337 屏幕坏了，换上 2 的屏幕之后就修好了\n2. A2337 iCloud 激活锁，无解\n3. A2179 iCloud 激活锁，CPU 降频，没有系统\n4. A2289 屏幕坏了\n\n因为最新的 T2 iBridgeOS 被破解了，所以今天重新试了一下修第三台\n\nCPU 降频的问题搜了一下发现大部分是触摸板下面的温度传感器出了问题，所以把 2 的触摸板换上去就修好了。然后找人进行了 T2 解锁，终于进系统啦！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n...然后进系统发现键盘上 A 和 D 键坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 依然没法当作笔记本用。修键盘需要把所有东西拆下来转移到新外壳上，新外壳感觉比这个本的价值贵了不想修了，谁想要可以免费认领（仅限北美，不在 Ontario 的话需要出运费）",
-    "views": 285,
+    "views": 286,
     "forwards": 2,
     "reply": {
       "id": 7967,
@@ -117986,7 +117986,7 @@
     "id": 8824,
     "date": "2026-07-08T22:32:43",
     "text": "和显示器胳膊握手 🤝",
-    "views": 235,
+    "views": 236,
     "forwards": 1,
     "images": [
       {
@@ -118005,7 +118005,7 @@
     "id": 8825,
     "date": "2026-07-09T03:28:16",
     "text": "<a href=\"https://vxtwitter.com/sauricat/status/2074962655715234175\">https://vxtwitter.com/sauricat/status/2074962655715234175</a>",
-    "views": 217,
+    "views": 219,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -118014,7 +118014,7 @@
   {
     "id": 8826,
     "date": "2026-07-09T06:07:45",
-    "views": 241,
+    "views": 243,
     "forwards": 0,
     "media_group_id": 14268618124913893,
     "images": [
@@ -118044,7 +118044,7 @@
     "id": 8828,
     "date": "2026-07-09T08:52:33",
     "text": "对着天花板拍到了奇妙照片",
-    "views": 240,
+    "views": 242,
     "forwards": 0,
     "images": [
       {
@@ -118063,7 +118063,7 @@
     "id": 8829,
     "date": "2026-07-09T17:49:21",
     "text": "毛\n\n短毛猫一年没剪毛居然没有变成长毛猫（？）好奇妙",
-    "views": 209,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14268954894459565,
     "images": [
@@ -118143,7 +118143,7 @@
     "id": 8836,
     "date": "2026-07-10T05:02:02",
     "text": "<a href=\"##绳师本能\">#绳师本能</a> <del>今天的捆绑对象依然是显示器</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n因为 gitadora 游戏从 720p 升级到 4k 的原因，花 $70 重新捡了一个二手显示器，所以也重新设计了挂显示器的方法\n\n因为背面的 VESA 口不在厚度轴重心，所以如果从 VESA 那里挂的话会严重向前倾，但是如果从重心绑的话又会有线挡住屏幕...\n\n所以设计了卡在四角的走绳子的卡扣，用绳子绑两圈就可以让卡扣向中心用力自己把自己固定上了，然后从顶边的绳子把它吊起来的话，两根绳子吊到天花板上就不会左右摇晃了，甚至可以靠调整绳子的位置来调整倾斜度！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<a href=\"https://cad.onshape.com/documents/b34f22ddb47d6449bb981bf6/w/6169ec981eedb2215e87d705/e/57db350395bc80222a20b23b?renderMode=0&rightPanel=variableTablePanel&uiState=6a507b75be2fa235f9456d2c\">3D 模型放在这里了</a>（不过因为这是为我的 27UP650 的形状量身定制的，其他显示器的话不能直接用哦！）",
-    "views": 207,
+    "views": 208,
     "forwards": 0,
     "media_group_id": 14269277776962013,
     "images": [
@@ -118421,7 +118421,7 @@
     "id": 8857,
     "date": "2026-07-12T05:10:35",
     "text": "买了新的旧手机，是小米 15 Ultra，解锁之后刷了 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实自从小米封堵 bootloader 解锁之后就比较讨厌小米了，所以去年旧的小米 11 Ultra 坏掉之后没有考虑小米反而买了一加 13（虽然最近一加也开始封堵 bootloader 解锁了...）\n\n这次因为某高通的漏洞，反而小米也可以无授权解锁了，所以买来解锁刷了 ROM，感觉是某种程度上是 power user 的文艺复兴\n\n转移好数据之后旧的一加 13 给聊聊啦（聊聊正在进行从 iOS 换到安卓的迁移，不知道会不会不习惯 qwq）\n\n以及其实这是我第一次用 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM，我还挺喜欢的，很干净也比较符合原生的使用习惯，大部分东西都是不用很多调试到手就工作，比如 Android Auto（想起来 <a href=\"##一年前的今天\">#一年前的今天</a> 在原生 MIUI 上想要用 Android Auto 都要安装两个模块...）\n\n不过用第三方启动器+手势还是需要往常的那些 hack 的... 是小米系统的通病了（于此同时，聊聊在她完美兼容原生手势的一加 13 OOS 上选择了三键导航...... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "media_group_id": 14270664282574749,
     "images": [
@@ -118456,7 +118456,7 @@
     "id": 8859,
     "date": "2026-07-13T04:04:50",
     "text": "（看着自己的影子）\n：我好像是一只猫",
-    "views": 286,
+    "views": 289,
     "forwards": 7,
     "images": [
       {
@@ -118475,7 +118475,7 @@
     "id": 8860,
     "date": "2026-07-13T22:21:14",
     "text": "猫草要长成小麦了",
-    "views": 210,
+    "views": 213,
     "forwards": 0,
     "reply": {
       "id": 8720,
@@ -118578,7 +118578,7 @@
     "id": 8868,
     "date": "2026-07-15T14:53:20",
     "text": "/打开水龙头",
-    "views": 187,
+    "views": 189,
     "forwards": 0,
     "media_group_id": 14273017602003965,
     "images": [
@@ -118608,7 +118608,7 @@
     "id": 8870,
     "date": "2026-07-15T15:02:14",
     "text": "好大火灾",
-    "views": 197,
+    "views": 199,
     "forwards": 2,
     "media_group_id": 14273021876480205,
     "images": [
@@ -118638,14 +118638,14 @@
     "id": 8872,
     "date": "2026-07-16T02:27:31",
     "text": "怀念海苔味のりしお薯片...",
-    "views": 178,
+    "views": 181,
     "forwards": 0
   },
   {
     "id": 8873,
     "date": "2026-07-16T16:41:38",
     "text": "修了 pixel 7 pro 的屏幕 qwq\n\n这次录了视频，开了一个 YouTube 频道传 lofi ASMR 维修视频，欢迎关注喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <a href=\"https://youtu.be/S590IEf5dAI\">https://youtu.be/S590IEf5dAI</a>",
-    "views": 158,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 14273760787660245,
     "images": [
@@ -118695,7 +118695,7 @@
     "id": 8877,
     "date": "2026-07-16T23:43:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n寿司🍣 <del>デカ盛り</del>\n\n（实际上做这么多是因为いなり的豆腐皮快要放坏了，结果并没有吃完）",
-    "views": 128,
+    "views": 140,
     "forwards": 0,
     "media_group_id": 14273963216541957,
     "images": [
@@ -118754,7 +118754,7 @@
   {
     "id": 8882,
     "date": "2026-07-17T02:12:53",
-    "views": 108,
+    "views": 122,
     "forwards": 0,
     "files": [
       {
@@ -118779,7 +118779,7 @@
     "id": 8883,
     "date": "2026-07-17T04:54:16",
     "text": "想要有更多可以维修的东西用来录视频 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i>\n\n多伦多附近的朋友如果有可以维修的东西请务必给我维修 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 100,
+    "views": 124,
     "forwards": 1,
     "reply": {
       "id": 8873,
@@ -118790,7 +118790,7 @@
   {
     "id": 8885,
     "date": "2026-07-17T05:52:42",
-    "views": 50,
+    "views": 92,
     "forwards": 1,
     "files": [
       {
@@ -118806,5 +118806,12 @@
         "thumb": "media/8885.mp4_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 8887,
+    "date": "2026-07-17T07:58:12",
+    "text": "最近在和聊聊玩 hank green 做的那个 <a href=\"https://www.hankgreen.com/fourbythree/\">4x3 的文字游戏</a>（聊聊好厉害）\n\n规则大概是，总共 9 个词里有 4 组相关的 3 个词，其中一个词会在四个组里以不同的意思出现\n\n心血来潮我也做了一个谜题，<a href=\"https://www.hankgreen.com/fourbythree/index.html#c=5wtulq114fg7y\">在这里玩</a>（不要剧透哦）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
+    "views": 51,
+    "forwards": 0
   }
 ]
