@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6636,
+    "views": 6637,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -117291,7 +117291,7 @@
     "id": 8770,
     "date": "2026-06-30T02:14:42",
     "text": "每次都觉得好像",
-    "views": 237,
+    "views": 238,
     "forwards": 1,
     "images": [
       {
@@ -118262,7 +118262,7 @@
     "id": 8845,
     "date": "2026-07-10T12:03:54",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n为了测试新买的露营道具进行了房间露营 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "media_group_id": 14269480272614869,
     "images": [
@@ -118292,7 +118292,7 @@
     "id": 8847,
     "date": "2026-07-10T15:59:41",
     "text": "猫",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "media_group_id": 14269593451767973,
     "images": [
@@ -118372,7 +118372,7 @@
     "id": 8854,
     "date": "2026-07-10T21:10:43",
     "text": "又成为了正版软件的受害者...\n\n谷歌好孬，安卓明明向下兼容很好的，明明找盗版 apk 装上都可以正常启动正常玩，但是 Google play 就是不让我安装正版 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 238,
+    "views": 239,
     "forwards": 1,
     "media_group_id": 14269742750978853,
     "images": [
@@ -118402,7 +118402,7 @@
     "id": 8856,
     "date": "2026-07-11T00:18:32",
     "text": "预售，但是 \"start listening today\"? <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 0,
     "images": [
       {
@@ -118456,7 +118456,7 @@
     "id": 8859,
     "date": "2026-07-13T04:04:50",
     "text": "（看着自己的影子）\n：我好像是一只猫",
-    "views": 274,
+    "views": 282,
     "forwards": 7,
     "images": [
       {
@@ -118475,7 +118475,7 @@
     "id": 8860,
     "date": "2026-07-13T22:21:14",
     "text": "猫草要长成小麦了",
-    "views": 204,
+    "views": 206,
     "forwards": 0,
     "reply": {
       "id": 8720,
@@ -118498,7 +118498,7 @@
     "id": 8861,
     "date": "2026-07-14T07:32:01",
     "text": "和聊聊开车 40 分钟去了暗空指数 4 级的 Conestogo Lake（虽然 4 级的光污染依然不够很清楚的看到银河...）\n\n这里晚上好安静，在湖边的路边停下来一个小时只有一辆车经过，只有风和风铃和小虫子的声音。路对面的小屋气氛好和谐，好想住在这种地方 qwq\n\n在天空中找到了群友 P Cygni <a href=\"https://t.me/pois_t\">@pois_t</a> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i> 好亮（以及 <a href=\"https://nova.astrometry.net/user_images/15846972#annotated\">astrometry.net</a> 好好用，上传一张照片就识别出照片上的星星了，超级准确而且是传统算法哇... 好厉害）",
-    "views": 195,
+    "views": 197,
     "forwards": 0,
     "media_group_id": 14272114569607325,
     "images": [
@@ -118578,7 +118578,7 @@
     "id": 8868,
     "date": "2026-07-15T14:53:20",
     "text": "/打开水龙头",
-    "views": 177,
+    "views": 180,
     "forwards": 0,
     "media_group_id": 14273017602003965,
     "images": [
@@ -118608,7 +118608,7 @@
     "id": 8870,
     "date": "2026-07-15T15:02:14",
     "text": "好大火灾",
-    "views": 184,
+    "views": 190,
     "forwards": 2,
     "media_group_id": 14273021876480205,
     "images": [
@@ -118638,14 +118638,14 @@
     "id": 8872,
     "date": "2026-07-16T02:27:31",
     "text": "怀念海苔味のりしお薯片...",
-    "views": 162,
+    "views": 170,
     "forwards": 0
   },
   {
     "id": 8873,
     "date": "2026-07-16T16:41:38",
     "text": "修了 pixel 7 pro 的屏幕 qwq\n\n这次录了视频，开了一个 YouTube 频道传 lofi ASMR 维修视频，欢迎关注喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <a href=\"https://youtu.be/S590IEf5dAI\">https://youtu.be/S590IEf5dAI</a>",
-    "views": 136,
+    "views": 148,
     "forwards": 2,
     "media_group_id": 14273760787660245,
     "images": [
@@ -118695,7 +118695,7 @@
     "id": 8877,
     "date": "2026-07-16T23:43:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n寿司🍣 <del>デカ盛り</del>\n\n（实际上做这么多是因为いなり的豆腐皮快要放坏了，结果并没有吃完）",
-    "views": 89,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 14273963216541957,
     "images": [
@@ -118754,7 +118754,7 @@
   {
     "id": 8882,
     "date": "2026-07-17T02:12:53",
-    "views": 57,
+    "views": 90,
     "forwards": 0,
     "files": [
       {
@@ -118774,5 +118774,17 @@
         "thumb": "media/8882.webp_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 8883,
+    "date": "2026-07-17T04:54:16",
+    "text": "想要有更多可以维修的东西用来录视频 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i>\n\n多伦多附近的朋友如果有可以维修的东西请务必给我维修 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
+    "views": 55,
+    "forwards": 1,
+    "reply": {
+      "id": 8873,
+      "text": "修了 pixel 7 pro 的屏幕 qwq\n\n这次录了视频，开了一个 YouTube 频道传 lofi ASMR 维修视频，欢迎关注喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <a href=\"https://youtu.be/S590IEf5dAI\">https://youtu.be/S590IEf5dAI</a>",
+      "thumb": "media/8873.jpg_thumb.jpg"
+    }
   }
 ]
