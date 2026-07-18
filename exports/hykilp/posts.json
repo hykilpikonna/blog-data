@@ -12022,7 +12022,7 @@
     "id": 988,
     "date": "2022-07-14T03:49:18",
     "text": "草莓慕斯！\n\n聊聊生日快乐w",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "media_group_id": 13262164465552685,
     "images": [
@@ -12052,7 +12052,7 @@
     "id": 989,
     "date": "2022-07-14T15:33:02",
     "text": "又到了年度的拼手速抢课地狱",
-    "views": 71,
+    "views": 72,
     "forwards": 0,
     "reply": {
       "id": 976,
@@ -12076,7 +12076,7 @@
     "id": 990,
     "date": "2022-07-14T16:19:00",
     "text": "好耶！今年想选的全都选上了！有一门课我选上的时候只剩 8 个位置",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 989,
@@ -12099,7 +12099,7 @@
     "id": 991,
     "date": "2022-07-17T04:43:46",
     "text": "发现旷野之息村里的狗狗会追自己的尾巴，还会吃我丢下的肉肉 qwq\n\n好可爱！可惜不能养",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "files": [
       {
@@ -12120,7 +12120,7 @@
     "id": 992,
     "date": "2022-07-17T17:16:10",
     "text": "是夏天的毛毛虫草！\n\n（然后聊聊说没有听说过有人把狗尾草叫成毛毛虫草的... 我反而刚知道原来它是狗尾草",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "images": [
       {
@@ -12138,7 +12138,7 @@
   {
     "id": 993,
     "date": "2022-07-18T00:26:01",
-    "views": 121,
+    "views": 122,
     "forwards": 2,
     "files": [
       {
@@ -12163,7 +12163,7 @@
     "id": 995,
     "date": "2022-07-18T00:28:05",
     "text": "画了新的 Pusheen！",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "reply": {
       "id": 993
@@ -12185,7 +12185,7 @@
     "id": 996,
     "date": "2022-07-18T01:43:57",
     "text": "学费出来了，比去年贵了 $3500... 通货膨胀好糟糕",
-    "views": 88,
+    "views": 89,
     "forwards": 1
   },
   {
@@ -12254,7 +12254,7 @@
     "id": 1001,
     "date": "2022-07-20T03:09:56",
     "text": "炒意面！",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -12273,14 +12273,14 @@
     "id": 1002,
     "date": "2022-07-20T23:58:43",
     "text": "想画 pusheen 动画... 不知道要学 Adobe AE 还是 SVGator 还是用传统方法一帧一帧画\n\n（官方 pusheen 动画只有四帧所以估计是逐帧画的吧...",
-    "views": 97,
+    "views": 98,
     "forwards": 0
   },
   {
     "id": 1003,
     "date": "2022-07-21T01:58:39",
     "text": "vscode 从 1.66 开始用管理员权限启动会白屏，而且官方不打算修复... 解决方法是开 vscode 远程开发插件然后 ssh 到 root@localhost 🌚",
-    "views": 108,
+    "views": 109,
     "forwards": 1
   },
   {
@@ -73052,7 +73052,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6638,
+    "views": 6639,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5172,
+    "views": 5173,
     "forwards": 30
   },
   {
@@ -114959,7 +114959,7 @@
     "id": 8587,
     "date": "2026-06-07T15:34:36",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n从阳台上看到了正在举办的第20回「ふれ愛まつりだ、芝地区！」祭典环游，各种年龄的人一起穿法被拉小车敲太鼓好热闹 qwq\n\n（因为是阳台照片，现在不用担心暴露住址终于可以发了）\n\n到了夏天日本各地都在举行不同规模但是都很热闹的祭り，当时周末出去玩的时候总是会路过某个地方的祭り，真好呀",
-    "views": 275,
+    "views": 276,
     "forwards": 0,
     "reply": {
       "id": 5562,
@@ -115024,7 +115024,7 @@
     "id": 8590,
     "date": "2026-06-08T12:08:34",
     "text": "好好笑",
-    "views": 283,
+    "views": 284,
     "forwards": 3,
     "images": [
       {
@@ -115042,7 +115042,7 @@
   {
     "id": 8591,
     "date": "2026-06-08T12:52:04",
-    "views": 286,
+    "views": 287,
     "forwards": 0,
     "images": [
       {
@@ -115061,7 +115061,7 @@
     "id": 8592,
     "date": "2026-06-08T22:35:09",
     "text": "现在 VSCode 启动越来越慢了，想编辑简单文本文件的时候绝对不想等 VSCode 启动\n\n之前有想过用 Zed 代替基础文本编辑器，但是用了半年发现，虽然启动很快，但是更新太频繁了，基本上每次启动都因为自动更新导致 UI 完全无响应...\n\n所以 2026 年我又回到了 Notepad++ <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 299,
+    "views": 300,
     "forwards": 1,
     "images": [
       {
@@ -115079,7 +115079,7 @@
   {
     "id": 8593,
     "date": "2026-06-09T01:06:15",
-    "views": 295,
+    "views": 296,
     "forwards": 4,
     "files": [
       {
@@ -115101,14 +115101,14 @@
     "id": 8594,
     "date": "2026-06-09T04:44:47",
     "text": "我也会觉得说出一些宏大/遥远的理想很难为情...",
-    "views": 281,
+    "views": 282,
     "forwards": 1
   },
   {
     "id": 8595,
     "date": "2026-06-10T03:50:49",
     "text": "因为之前拍小猫照片大家都说像 toothless，所以今天去二刷了驯龙高手... 果然很像！龙也太可爱了，无论是外观还是行为细节都完全就是我家小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 271,
+    "views": 272,
     "forwards": 2,
     "media_group_id": 14248507598228581,
     "images": [
@@ -115142,7 +115142,7 @@
     "id": 8597,
     "date": "2026-06-11T04:15:13",
     "text": "「您完全不会焊 0603 是吗」\n\n原本下单的时候很不自量力地觉得自己已经很会焊东西了，现在已经焊过数不清的插件、贴片 0805 也焊过一次了，0603 能难到哪里呢？省下 ￥300 换料费手焊试试吧\n\n结果我确实不会焊 0603 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 从下午五点折腾到现在才差不多把所有元件焊上了\n\n以及发现少买了一个 R20K 0603 贴片电阻... 所以用插件电阻糊上去了，看起来好好笑（明明已经让 AI 帮忙检查过 BOM 了的...）",
-    "views": 327,
+    "views": 328,
     "forwards": 2,
     "media_group_id": 14249210508073597,
     "images": [
@@ -117435,7 +117435,7 @@
     "id": 8779,
     "date": "2026-07-02T00:46:28",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##猫咪后院\">#猫咪后院</a>\n这几天的热流好讨厌... 小白菜遇到热天就会开始长花苞，开花之后就不长叶子了而且会变苦，所以只能把还没有长大的小白菜收割了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n不过好好吃 qwq",
-    "views": 234,
+    "views": 235,
     "forwards": 2,
     "media_group_id": 14263625507099397,
     "images": [
@@ -117590,7 +117590,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 296,
+    "views": 297,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -117700,7 +117700,7 @@
     "id": 8802,
     "date": "2026-07-04T06:41:12",
     "text": "猫猫吓了一跳",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -117725,7 +117725,7 @@
   {
     "id": 8803,
     "date": "2026-07-06T00:13:14",
-    "views": 255,
+    "views": 256,
     "forwards": 3,
     "media_group_id": 14266374359715821,
     "images": [
@@ -117775,7 +117775,7 @@
     "id": 8807,
     "date": "2026-07-06T20:55:04",
     "text": "我发现有 AI coding agent 之后自己用软件的方式不一样了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n在有 AI 之前，如果我想让计划旅行的软件能够从谷歌地图拉我保存的图钉、或者想让 kicad jlc 插件可以自动下载规格书、或者想让计算器把 (2a / 3b) 理解成 ((2a) / (3b)) 而不是 ((2a / 3) b)、或者想让 OpenPilot 自动驾驶可以关掉驾驶员注意力监控，我会开一个「功能请求」然后等人实现（虽然能等到的几乎没有）\n\n即使我很会写代码我也不想为了这些小功能去改别人的代码库，因为改之前首先要读懂原本的代码，但是理解一个新的代码库真的很累很累，为了自己想要的这一个小功能完全不值得\n\n但是 AI 读一个新代码库是完全不需要多费力气的，所以现在我会直接把别人的软件源码 clone 下来让 AI 添加我想要的功能。即使这些改动的受益者只有我一个人也没关系，因为实现这些完全不需要精力。\n\n所以我觉得也许，等 AI 让写代码这件事便宜下来之后，未来的软件对于用户来说可以不再是「完成的产品」了，而是某种「构建的起点」，无论会不会写代码的人都可以用自己的分支，让 AI 添加自己想要的奇怪功能，就只给自己一个人用... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 253,
+    "views": 254,
     "forwards": 2,
     "reply": {
       "id": 8757,
@@ -117787,7 +117787,7 @@
     "id": 8808,
     "date": "2026-07-07T02:56:48",
     "text": "聚乙烯编织绳真的是<del>自从切片面包问世以来最棒的东西</del> (zh_US)\n\n昨天给这边的中二台子也打了一个之前设计的支架，但是发现太小了... 之前的支架是 75x75 VESA，我的显示器是 100x100 VESA，但是重新打又浪费耗材，怎么办呢？\n\n那肯定是，打一个增大圈然后把小的支架像系鞋带一样绑起来！<i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <a href=\"##绳师本能\">#绳师本能</a>",
-    "views": 244,
+    "views": 245,
     "forwards": 2,
     "media_group_id": 14267144071414845,
     "images": [
@@ -117862,7 +117862,7 @@
     "id": 8814,
     "date": "2026-07-07T12:08:10",
     "text": "修好了一个灯泡\n\n灯泡里是 16 个小灯珠，把一个孬灯珠换掉就好了\n\n其实原本只是想试试新买的热风枪，但是最后发现焊铝 pcb 还是加热台更好用，用热风枪的话灯泡表面融化了之后下面的焊锡还完全是固体\n\n不过修了灯泡才发现灯泡厂商好孬... 同样是 16 个灯珠，并联串联亮度都一样，但是串联只要有一个灯珠坏掉整个灯泡就不亮了，而并联坏掉一个灯珠只会变暗 1/16...\n\n所以可以说串联的寿命比并联短 16 倍，所以厂商故意串联让它坏得更快吗？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 247,
+    "views": 248,
     "forwards": 0,
     "media_group_id": 14267408720607405,
     "images": [
@@ -117912,7 +117912,7 @@
     "id": 8819,
     "date": "2026-07-07T13:45:30",
     "text": "今天学校异常安静，安静到我在怀疑是不是有什么放假我没注意到",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "media_group_id": 14267455447286541,
     "images": [
@@ -117962,7 +117962,7 @@
     "id": 8823,
     "date": "2026-07-08T05:00:23",
     "text": "还记得之前拍卖买到的这四台坏掉的 macbook 吗\n\n1. A2337 屏幕坏了，换上 2 的屏幕之后就修好了\n2. A2337 iCloud 激活锁，无解\n3. A2179 iCloud 激活锁，CPU 降频，没有系统\n4. A2289 屏幕坏了\n\n因为最新的 T2 iBridgeOS 被破解了，所以今天重新试了一下修第三台\n\nCPU 降频的问题搜了一下发现大部分是触摸板下面的温度传感器出了问题，所以把 2 的触摸板换上去就修好了。然后找人进行了 T2 解锁，终于进系统啦！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n...然后进系统发现键盘上 A 和 D 键坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 依然没法当作笔记本用。修键盘需要把所有东西拆下来转移到新外壳上，新外壳感觉比这个本的价值贵了不想修了，谁想要可以免费认领（仅限北美，不在 Ontario 的话需要出运费）",
-    "views": 289,
+    "views": 290,
     "forwards": 2,
     "reply": {
       "id": 7967,
@@ -117986,7 +117986,7 @@
     "id": 8824,
     "date": "2026-07-08T22:32:43",
     "text": "和显示器胳膊握手 🤝",
-    "views": 240,
+    "views": 242,
     "forwards": 1,
     "images": [
       {
@@ -118005,7 +118005,7 @@
     "id": 8825,
     "date": "2026-07-09T03:28:16",
     "text": "<a href=\"https://vxtwitter.com/sauricat/status/2074962655715234175\">https://vxtwitter.com/sauricat/status/2074962655715234175</a>",
-    "views": 223,
+    "views": 225,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -118014,7 +118014,7 @@
   {
     "id": 8826,
     "date": "2026-07-09T06:07:45",
-    "views": 247,
+    "views": 249,
     "forwards": 0,
     "media_group_id": 14268618124913893,
     "images": [
@@ -118044,7 +118044,7 @@
     "id": 8828,
     "date": "2026-07-09T08:52:33",
     "text": "对着天花板拍到了奇妙照片",
-    "views": 244,
+    "views": 246,
     "forwards": 0,
     "images": [
       {
@@ -118063,7 +118063,7 @@
     "id": 8829,
     "date": "2026-07-09T17:49:21",
     "text": "毛\n\n短毛猫一年没剪毛居然没有变成长毛猫（？）好奇妙",
-    "views": 214,
+    "views": 216,
     "forwards": 0,
     "media_group_id": 14268954894459565,
     "images": [
@@ -118143,7 +118143,7 @@
     "id": 8836,
     "date": "2026-07-10T05:02:02",
     "text": "<a href=\"##绳师本能\">#绳师本能</a> <del>今天的捆绑对象依然是显示器</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n因为 gitadora 游戏从 720p 升级到 4k 的原因，花 $70 重新捡了一个二手显示器，所以也重新设计了挂显示器的方法\n\n因为背面的 VESA 口不在厚度轴重心，所以如果从 VESA 那里挂的话会严重向前倾，但是如果从重心绑的话又会有线挡住屏幕...\n\n所以设计了卡在四角的走绳子的卡扣，用绳子绑两圈就可以让卡扣向中心用力自己把自己固定上了，然后从顶边的绳子把它吊起来的话，两根绳子吊到天花板上就不会左右摇晃了，甚至可以靠调整绳子的位置来调整倾斜度！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<a href=\"https://cad.onshape.com/documents/b34f22ddb47d6449bb981bf6/w/6169ec981eedb2215e87d705/e/57db350395bc80222a20b23b?renderMode=0&rightPanel=variableTablePanel&uiState=6a507b75be2fa235f9456d2c\">3D 模型放在这里了</a>（不过因为这是为我的 27UP650 的形状量身定制的，其他显示器的话不能直接用哦！）",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "media_group_id": 14269277776962013,
     "images": [
@@ -118228,7 +118228,7 @@
     "id": 8843,
     "date": "2026-07-10T11:55:54",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n上班路上看到超迷你神社里奉納了三个鸡蛋（？）",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "media_group_id": 14269476432987141,
     "images": [
@@ -118262,7 +118262,7 @@
     "id": 8845,
     "date": "2026-07-10T12:03:54",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n为了测试新买的露营道具进行了房间露营 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 243,
+    "views": 244,
     "forwards": 0,
     "media_group_id": 14269480272614869,
     "images": [
@@ -118292,7 +118292,7 @@
     "id": 8847,
     "date": "2026-07-10T15:59:41",
     "text": "猫",
-    "views": 236,
+    "views": 238,
     "forwards": 1,
     "media_group_id": 14269593451767973,
     "images": [
@@ -118372,7 +118372,7 @@
     "id": 8854,
     "date": "2026-07-10T21:10:43",
     "text": "又成为了正版软件的受害者...\n\n谷歌好孬，安卓明明向下兼容很好的，明明找盗版 apk 装上都可以正常启动正常玩，但是 Google play 就是不让我安装正版 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 251,
+    "views": 253,
     "forwards": 1,
     "media_group_id": 14269742750978853,
     "images": [
@@ -118402,7 +118402,7 @@
     "id": 8856,
     "date": "2026-07-11T00:18:32",
     "text": "预售，但是 \"start listening today\"? <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 273,
+    "views": 275,
     "forwards": 0,
     "images": [
       {
@@ -118421,7 +118421,7 @@
     "id": 8857,
     "date": "2026-07-12T05:10:35",
     "text": "买了新的旧手机，是小米 15 Ultra，解锁之后刷了 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实自从小米封堵 bootloader 解锁之后就比较讨厌小米了，所以去年旧的小米 11 Ultra 坏掉之后没有考虑小米反而买了一加 13（虽然最近一加也开始封堵 bootloader 解锁了...）\n\n这次因为某高通的漏洞，反而小米也可以无授权解锁了，所以买来解锁刷了 ROM，感觉是某种程度上是 power user 的文艺复兴\n\n转移好数据之后旧的一加 13 给聊聊啦（聊聊正在进行从 iOS 换到安卓的迁移，不知道会不会不习惯 qwq）\n\n以及其实这是我第一次用 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM，我还挺喜欢的，很干净也比较符合原生的使用习惯，大部分东西都是不用很多调试到手就工作，比如 Android Auto（想起来 <a href=\"##一年前的今天\">#一年前的今天</a> 在原生 MIUI 上想要用 Android Auto 都要安装两个模块...）\n\n不过用第三方启动器+手势还是需要往常的那些 hack 的... 是小米系统的通病了（于此同时，聊聊在她完美兼容原生手势的一加 13 OOS 上选择了三键导航...... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 262,
+    "views": 265,
     "forwards": 1,
     "media_group_id": 14270664282574749,
     "images": [
@@ -118456,7 +118456,7 @@
     "id": 8859,
     "date": "2026-07-13T04:04:50",
     "text": "（看着自己的影子）\n：我好像是一只猫",
-    "views": 314,
+    "views": 317,
     "forwards": 7,
     "images": [
       {
@@ -118475,7 +118475,7 @@
     "id": 8860,
     "date": "2026-07-13T22:21:14",
     "text": "猫草要长成小麦了",
-    "views": 226,
+    "views": 229,
     "forwards": 0,
     "reply": {
       "id": 8720,
@@ -118498,7 +118498,7 @@
     "id": 8861,
     "date": "2026-07-14T07:32:01",
     "text": "和聊聊开车 40 分钟去了暗空指数 4 级的 Conestogo Lake（虽然 4 级的光污染依然不够很清楚的看到银河...）\n\n这里晚上好安静，在湖边的路边停下来一个小时只有一辆车经过，只有风和风铃和小虫子的声音。路对面的小屋气氛好和谐，好想住在这种地方 qwq\n\n在天空中找到了群友 P Cygni <a href=\"https://t.me/pois_t\">@pois_t</a> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i> 好亮（以及 <a href=\"https://nova.astrometry.net/user_images/15846972#annotated\">astrometry.net</a> 好好用，上传一张照片就识别出照片上的星星了，超级准确而且是传统算法哇... 好厉害）",
-    "views": 215,
+    "views": 217,
     "forwards": 0,
     "media_group_id": 14272114569607325,
     "images": [
@@ -118578,7 +118578,7 @@
     "id": 8868,
     "date": "2026-07-15T14:53:20",
     "text": "/打开水龙头",
-    "views": 200,
+    "views": 202,
     "forwards": 0,
     "media_group_id": 14273017602003965,
     "images": [
@@ -118608,7 +118608,7 @@
     "id": 8870,
     "date": "2026-07-15T15:02:14",
     "text": "好大火灾",
-    "views": 217,
+    "views": 219,
     "forwards": 2,
     "media_group_id": 14273021876480205,
     "images": [
@@ -118638,14 +118638,14 @@
     "id": 8872,
     "date": "2026-07-16T02:27:31",
     "text": "怀念海苔味のりしお薯片...",
-    "views": 207,
+    "views": 209,
     "forwards": 0
   },
   {
     "id": 8873,
     "date": "2026-07-16T16:41:38",
     "text": "修了 pixel 7 pro 的屏幕 qwq\n\n这次录了视频，开了一个 YouTube 频道传 lofi ASMR 维修视频，欢迎关注喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <a href=\"https://youtu.be/S590IEf5dAI\">https://youtu.be/S590IEf5dAI</a>",
-    "views": 189,
+    "views": 191,
     "forwards": 2,
     "media_group_id": 14273760787660245,
     "images": [
@@ -118695,7 +118695,7 @@
     "id": 8877,
     "date": "2026-07-16T23:43:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n寿司🍣 <del>デカ盛り</del>\n\n（实际上做这么多是因为いなり的豆腐皮快要放坏了，结果并没有吃完）",
-    "views": 178,
+    "views": 182,
     "forwards": 0,
     "media_group_id": 14273963216541957,
     "images": [
@@ -118754,7 +118754,7 @@
   {
     "id": 8882,
     "date": "2026-07-17T02:12:53",
-    "views": 174,
+    "views": 177,
     "forwards": 0,
     "files": [
       {
@@ -118779,7 +118779,7 @@
     "id": 8883,
     "date": "2026-07-17T04:54:16",
     "text": "想要有更多可以维修的东西用来录视频 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i>\n\n多伦多附近的朋友如果有可以维修的东西请务必给我维修 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 204,
+    "views": 207,
     "forwards": 1,
     "reply": {
       "id": 8873,
@@ -118790,7 +118790,7 @@
   {
     "id": 8885,
     "date": "2026-07-17T05:52:42",
-    "views": 173,
+    "views": 177,
     "forwards": 1,
     "files": [
       {
@@ -118811,14 +118811,14 @@
     "id": 8887,
     "date": "2026-07-17T07:58:12",
     "text": "最近在和聊聊玩 hank green 做的那个 <a href=\"https://www.hankgreen.com/fourbythree/\">4x3 的文字游戏</a>（聊聊好厉害）\n\n规则大概是，总共 9 个词里有 4 组相关的 3 个词，其中一个词会在四个组里以不同的意思出现\n\n心血来潮我也做了一个谜题，<a href=\"https://www.hankgreen.com/fourbythree/index.html#c=5wtulq114fg7y\">在这里玩</a>（不要剧透哦）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 166,
+    "views": 169,
     "forwards": 1
   },
   {
     "id": 8888,
     "date": "2026-07-17T15:35:45",
     "text": "好迷惑...\n\n一加在北美还挺有名气和社区的，直接退出了。Realme 除了在印度以外没有人听说过，决定出海？？\n\n以后一加即使能解锁也没法像我现在这样直接买中国版刷 OxygenOS 了... 如果刷其他第三方ROM（如果还有人做的话）就没有原生相机软件了，好可惜\n\n<span class=\"spoiler\"><span>真的还是 never settle 的一加吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323487612690498829.webp\">😕</span></span></i>",
-    "views": 159,
+    "views": 162,
     "forwards": 0,
     "images": [
       {
@@ -118837,7 +118837,7 @@
     "id": 8889,
     "date": "2026-07-17T18:51:25",
     "text": "哇 abroadinjapan 今天发的<a href=\"https://youtu.be/04ayuOqvHvE\">新视频</a>是我去过无数次的静冈县 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好奇妙，以前每次都是看别人的视频觉得「这个地方好有意思好想去」，看到自己去过的地方还是第一次，感觉像是<del>发出去的 syn 终于被 ack 了一样</del>（什么奇怪比喻",
-    "views": 148,
+    "views": 151,
     "forwards": 3,
     "media_group_id": 14274514280300477,
     "images": [
@@ -118891,7 +118891,7 @@
   {
     "id": 8894,
     "date": "2026-07-17T22:08:02",
-    "views": 139,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 14274608658862509,
     "images": [
@@ -118971,7 +118971,7 @@
     "id": 8904,
     "date": "2026-07-18T03:11:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸鸡蛋糕 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <span class=\"spoiler\"><span>（实际上蛋糕的部分是土豆泥）</span></span>\n\n聊聊生日快乐！",
-    "views": 133,
+    "views": 141,
     "forwards": 0,
     "media_group_id": 14274754149571237,
     "images": [
@@ -119021,7 +119021,7 @@
     "id": 8908,
     "date": "2026-07-18T03:23:52",
     "text": "起猛了 高松灯是你吗",
-    "views": 135,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -119040,7 +119040,7 @@
     "id": 8909,
     "date": "2026-07-18T15:12:10",
     "text": "昨天的这群小麻雀带来的故事\n\n回家的路上被小麻雀吸引住，拍了照片之后，旁边好心喂鸟的老人 NPC 来和我搭话。聊了很多大自然相关的事情，给他看了之前我家门口的一窝知更鸟，和一个和我一样喜欢大自然的路人聊天好开心\n\n不过聊着聊着发现果然还是有目的的基督教徒，虽然也不是什么坏事但是我对宗教信仰已经有比较明确的答案了，讲出来又需要花太多时间，所以决定说谎「实际上我也信基督教哦」\n\n因为我初中高中确实是在天主教学校长大的所以 pass 这个谎言并不是很难，然后又聊了一会之后很开心地道别了",
-    "views": 75,
+    "views": 98,
     "forwards": 0,
     "reply": {
       "id": 8894,
