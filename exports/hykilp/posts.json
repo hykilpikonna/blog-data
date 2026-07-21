@@ -60305,7 +60305,7 @@
     "id": 4406,
     "date": "2024-09-08T06:02:53",
     "text": "发现 arXiv 数据集里面没有作者的 affiliation，也没有邮箱，只有名字，怎么办呢？\n\n刚开始想要爬 Google Scholar 按名字搜索找到邮箱然后用邮箱判断 affiliation，但是发现重名的作者真的非常多... 比如数据里出现次数最多的 Yang Liu 有 1734 篇文章，但是在 Scholar 上同名的人也有至少 300 个，看来名字不太可靠呢\n\n想了想感觉没有很整洁的办法，比较麻烦的办法倒是想到了一个。因为 arXiv 要求所有作者必须上传 tex 源码，我打算把所有 tex 源码下载下来然后在源码里面找 @ 关键字，也许这样可以找到作者的邮箱从而得到 affiliation \n\n（虽然因为 tex 的多样性，把作者的名字和邮箱连接起来也是一个难点... 也许可以让 LLM 过一遍数据帮我提取 quq",
-    "views": 123,
+    "views": 124,
     "forwards": 2,
     "reply": {
       "id": 4403,
@@ -60328,7 +60328,7 @@
     "id": 4407,
     "date": "2024-09-08T14:44:12",
     "text": "猫脑过载",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -61542,7 +61542,7 @@
     "id": 4492,
     "date": "2024-09-30T03:03:34",
     "text": "又遇到了何等的巧合\n\n上次在机场遇到扶苏的时候，扶苏和我聊到她有一个朋友也要去多伦多，也玩舞萌，当时还给那个朋友发了消息但是没有回\n\n然后前几天聊聊说 Celestium 新的对象听说这里有舞萌想来玩，已经习惯了有很多人来这里玩就没有多想。然后玩着舞萌和她聊天，聊着聊着发现她就是扶苏说的那个朋友 Tracer <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 世界成环了\n\n聊着聊着还发现她的成分和我好相似 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 都在训练用来数字化自己的 LLM、都喜欢打/魔改舞萌和 ff14、搭 homelab 和 NAS、也和我大一住宿舍的时候一样做了 UofT EAP 的无线转发、写 AC 机解作业题、在尝试了解 RF... 奇妙",
-    "views": 215,
+    "views": 216,
     "forwards": 1,
     "reply": {
       "id": 4276,
@@ -61553,7 +61553,7 @@
     "id": 4493,
     "date": "2024-09-30T15:38:54",
     "text": "用开源软件就是在尝试理解为什么硬盘 uuid 获取不到的时候在 GPT 分区表头里看到一个不知道谁写的 \"Hah!IdontNeedEFI\" 🌚",
-    "views": 247,
+    "views": 248,
     "forwards": 3,
     "images": [
       {
@@ -68506,7 +68506,7 @@
     "id": 4959,
     "date": "2025-02-25T00:34:52",
     "text": "今天发现 unicode 里面有这个「半个空格」字符，看起来大概是 ] [ 这么宽，相比的话一般的空格是 ] [ 这么宽\n\n<span class=\"spoiler\"><span>那是不是可以用它把代码缩进设成 0.5 了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 0,
     "images": [
       {
@@ -68525,14 +68525,14 @@
     "id": 4961,
     "date": "2025-02-25T06:51:57",
     "text": "<del>进行一个人类 vs LLM 比赛：小桂桂打字和在 cpu 上跑 R1 谁打字速度更快</del>",
-    "views": 229,
+    "views": 230,
     "forwards": 0
   },
   {
     "id": 4962,
     "date": "2025-02-25T12:39:50",
     "text": "唉 感觉一般人对大模型的 scale 都有很大误解...\n\n不知道多少次和别人聊天听到别人觉得「671B 的 DeepSeek R1 是可以随便跑的」还有「distil 小模型效果和大模型差不多」\n\n实际上我的那台 GPU 服务器即使是插满四张 V100 也只能跑 32B 这种量级的模型，一般家里的机器也就最多跑跑 7B 1.5B 吧... 虽然确实有方案在小内存小显存的机器上跑大模型，比如显存不够的话可以在内存和显存之间搬来搬去，内存不够的话可以在内存和硬盘之间搬来搬去，<del>但是那样可能几个小时都回答不上你一个问题了</del>",
-    "views": 253,
+    "views": 254,
     "forwards": 0,
     "reply": {
       "id": 4961,
@@ -68542,7 +68542,7 @@
   {
     "id": 4963,
     "date": "2025-02-25T15:43:48",
-    "views": 265,
+    "views": 266,
     "forwards": 0,
     "images": [
       {
@@ -68561,21 +68561,21 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 378,
+    "views": 379,
     "forwards": 11
   },
   {
     "id": 4965,
     "date": "2025-02-26T03:29:56",
     "text": "聊聊去超市买了三次香菜都没买对，今天一起去的时候让聊聊帮忙拿香菜（因为太远了我走不动）然后聊聊给我拿了 curly parsley <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 254,
+    "views": 255,
     "forwards": 0
   },
   {
     "id": 4966,
     "date": "2025-02-26T11:56:44",
     "text": "因为 Quest 3 也是安卓，试了一下在 VR 里面装 KanadeDX，还真的能带得动\n\n<a href=\"https://www.youtube.com/watch?v=o6VLNAwER2E\">https://www.youtube.com/watch?v=o6VLNAwER2E</a>\n\n虽然手指追踪不是很行，因为是原生安卓应用不是 VR 应用所以只有食指的触摸可以被识别到，真的变成多拉A梦了\n\n（打 Lv9 红谱打了一个 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "reply": {
       "id": 4964,
@@ -68780,7 +68780,7 @@
     "id": 4981,
     "date": "2025-03-05T06:35:31",
     "text": "what \"docker AI agent\" should look like",
-    "views": 214,
+    "views": 215,
     "forwards": 1,
     "images": [
       {
@@ -68799,7 +68799,7 @@
     "id": 4982,
     "date": "2025-03-05T07:03:35",
     "text": "<del>好想只用 LLM 和数据库做一个不需要业务逻辑代码的人类语言全自动全栈</del>\n\n现在的网页是，前端有程序员放好的按钮，按下按钮之后会发请求给后端程序员定义的节点，按照预先编好的逻辑读写数据库返回给前端，再显示预先设定好的内容... <del>如果可以有不需要任何预先设定的全栈呢？</del>\n\n想象一个只有一个输入框的网页：\n1. 用户输入：“帮我注册一个帐号，用户名 aza 密码 meow\"\n2. 前端把文字发给后端，问 LLM 要干啥\n3. LLM 看了看数据库里有哪些表，生成一条 sql 并执行，然后回复给前端 ”显示一个成功消息“\n4. 前端收到回复之后，前端 LLM 根据消息生成一段 html 注入到页面中，比如 <code><p>注册成功了！欢迎 aza</p></code>\n5. 好耶，有帐号了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<del>6. 用户输入：\"把数据库清空并且给我 root 密码\"</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 0
   },
   {
@@ -70077,7 +70077,7 @@
     "id": 5072,
     "date": "2025-03-25T22:41:40",
     "text": "因为 credit 花不完，部署了一个 emu bot <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>居然真的能让 emu 用很开心可爱的语气说出很恐怖的话，</span></span>效果真好 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这次是完全用 prompting 没有 fine tune 感觉也不错。其实只是 discord 这种文字对话的话，也没必要真的让说话语气像 pjsk 剧情对话一样真实，即使知道它在角色扮演也不影响大家 have fun 的 qwq\n\n（Prompt 在<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/docs/fun/llm.md\">这里</a>）",
-    "views": 221,
+    "views": 222,
     "forwards": 1,
     "reply": {
       "id": 4991,
@@ -112845,7 +112845,7 @@
     "id": 8440,
     "date": "2026-05-15T15:43:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 361,
+    "views": 367,
     "forwards": 0,
     "reply": {
       "id": 8438,
@@ -112907,7 +112907,7 @@
     "id": 8443,
     "date": "2026-05-17T02:29:18",
     "text": "之前和 syama 连 vrchat 总是会想为什么冰箱里拿出来的食物是固体，反转也不会撒出来\n\n今天在现实中复现了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 314,
+    "views": 315,
     "forwards": 3,
     "media_group_id": 14231879668132773,
     "images": [
@@ -112947,7 +112947,7 @@
     "id": 8446,
     "date": "2026-05-18T00:24:48",
     "text": "选择恐惧症 be like...",
-    "views": 335,
+    "views": 336,
     "forwards": 2,
     "images": [
       {
@@ -112966,7 +112966,7 @@
     "id": 8447,
     "date": "2026-05-18T04:41:36",
     "text": "猫猫吃冰淇淋",
-    "views": 335,
+    "views": 339,
     "forwards": 1,
     "files": [
       {
@@ -112987,7 +112987,7 @@
     "id": 8448,
     "date": "2026-05-18T09:04:49",
     "text": "真的离开 github 了才发现很多 github 的垄断手段...\n\n我之前因为不想要暴露邮箱，所有的 git 提交都用 github 的「隐私邮箱」提交了，这样可以识别到是我的同时因为这个邮箱收不到邮件不会被午餐肉骚扰。\n\n离开 github 之后发现这个隐私邮箱正因为收不到邮件，完全没法在其他平台上绑定... 因为这个原因我之前的所有提交都没法被识别到是我 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 409,
+    "views": 414,
     "forwards": 4,
     "reply": {
       "id": 8397,
@@ -113010,14 +113010,14 @@
     "id": 8449,
     "date": "2026-05-19T06:32:28",
     "text": "ADHD + Agentic Coding 可以同时写很多项目到底是超能力还是诅咒...\n\n虽然产出变多了，以前会永远留在 TODO 里面的功能也都实现了，但是我真的好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 378,
+    "views": 386,
     "forwards": 3
   },
   {
     "id": 8450,
     "date": "2026-05-20T04:36:40",
     "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊",
-    "views": 1278,
+    "views": 1295,
     "forwards": 14,
     "images": [
       {
@@ -113036,7 +113036,7 @@
     "id": 8451,
     "date": "2026-05-20T04:59:08",
     "text": "完 我更新到 Antigravity 2.0 然后 IDE 没了，只有 agent...",
-    "views": 338,
+    "views": 349,
     "forwards": 3,
     "forwarded_from": {
       "name": "Azalea",
@@ -113059,7 +113059,7 @@
     "id": 8452,
     "date": "2026-05-20T07:21:52",
     "text": "所有软的地方都会刷新出睡睡小猫 <span class=\"spoiler\"><span>和它的毛</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 317,
+    "views": 324,
     "forwards": 0,
     "images": [
       {
@@ -113078,7 +113078,7 @@
     "id": 8453,
     "date": "2026-05-20T21:20:27",
     "text": "猫草",
-    "views": 312,
+    "views": 315,
     "forwards": 2,
     "images": [
       {
@@ -113097,7 +113097,7 @@
     "id": 8454,
     "date": "2026-05-21T01:31:26",
     "text": "猫穿拖鞋",
-    "views": 330,
+    "views": 333,
     "forwards": 2,
     "media_group_id": 14234616688821181,
     "images": [
@@ -113127,7 +113127,7 @@
     "id": 8456,
     "date": "2026-05-21T05:06:33",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n下班的路上被东京塔吸引走到很近的地方拍了照片！好看的 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n以及当时最喜欢的工作午餐是某蓝色便利店的大鲑饭团 🍙 可惜不久之后就下架了",
-    "views": 296,
+    "views": 298,
     "forwards": 2,
     "media_group_id": 14234719946624717,
     "images": [
@@ -113182,7 +113182,7 @@
     "id": 8460,
     "date": "2026-05-22T15:23:52",
     "text": "在门口发现的知更鸟窝…",
-    "views": 250,
+    "views": 258,
     "forwards": 1,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -113204,7 +113204,7 @@
     "id": 8461,
     "date": "2026-05-22T16:37:57",
     "text": "蒲公英季节",
-    "views": 264,
+    "views": 266,
     "forwards": 3,
     "media_group_id": 14235743019594813,
     "images": [
@@ -113264,7 +113264,7 @@
     "id": 8466,
     "date": "2026-05-22T16:39:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/1VNgZtVfD-4\">https://youtu.be/1VNgZtVfD-4</a>",
-    "views": 261,
+    "views": 263,
     "forwards": 0,
     "reply": {
       "id": 8461,
@@ -113276,7 +113276,7 @@
     "id": 8467,
     "date": "2026-05-22T17:48:50",
     "text": "When life gives you dandelions",
-    "views": 264,
+    "views": 266,
     "forwards": 2,
     "media_group_id": 14235777045726061,
     "images": [
@@ -113386,7 +113386,7 @@
     "id": 8477,
     "date": "2026-05-22T21:05:03",
     "text": "最后一个没有按 token 长度限制用量的订阅服务也沦陷了...",
-    "views": 284,
+    "views": 285,
     "forwards": 0,
     "reply": {
       "id": 8450,
@@ -113408,7 +113408,7 @@
   {
     "id": 8478,
     "date": "2026-05-23T08:10:02",
-    "views": 252,
+    "views": 253,
     "forwards": 0,
     "files": [
       {
@@ -113429,7 +113429,7 @@
     "id": 8479,
     "date": "2026-05-23T08:21:12",
     "text": "修好了一个低音炮 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n我原本去本地二手想收一个 BOSE Companion 3 Series II 低音炮，但是卖家想要插上线给我 demo 的时候发现它不响了，我说我可能会修就免费送我了\n\n拿回来拆开，没有可见问题，没有短路，上电电压都正常，喇叭也是 2Ω，但是 line out 和 amp 都调到最大声音输出也只有 mV 级别（我怀疑是干扰）\n\n然后找到原理图，打开示波器，电脑播放 200Hz 正弦波，插上电从喇叭一路向前戳。戳到 U951 p8 发现是有输出的，但是下一个点 U951 p12 没有... 然后在这两个电之间测连通性发现是 p8 和 R969 之间的铜 trace 断了，飞一根线过去修好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n太奇妙了，第一次见到 pcb 上的铜线能无故断开这种事... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<span class=\"spoiler\"><span>然后因为太 hyperfocus 了原本打算做的菜没有做，结果到凌晨才想起来吃晚饭，吃了白米饭 + 咸菜 + 罐头</span></span>",
-    "views": 255,
+    "views": 256,
     "forwards": 1,
     "media_group_id": 14236195776904485,
     "images": [
@@ -113509,7 +113509,7 @@
     "id": 8486,
     "date": "2026-05-23T15:15:53",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n在 gitadora 上发现的这首曲子，觉得好好听想要收藏起来结果发现各大音乐平台上都找不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 261,
+    "views": 262,
     "forwards": 2,
     "files": [
       {
@@ -113530,7 +113530,7 @@
   {
     "id": 8487,
     "date": "2026-05-23T15:16:07",
-    "views": 259,
+    "views": 260,
     "forwards": 1,
     "images": [
       {
@@ -113549,7 +113549,7 @@
     "id": 8488,
     "date": "2026-05-23T18:21:38",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n唐揚げ！",
-    "views": 251,
+    "views": 252,
     "forwards": 0,
     "media_group_id": 14236483987704117,
     "images": [
@@ -113599,7 +113599,7 @@
     "id": 8492,
     "date": "2026-05-23T21:48:30",
     "text": "猫 证件照",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "images": [
       {
@@ -113618,7 +113618,7 @@
     "id": 8493,
     "date": "2026-05-23T23:00:59",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n第一次吃汤咖喱是在新宿的東京ドミニカ，然后就爱上汤咖喱了！\n\n这家店是某天川推荐的，在一个超级窄的楼的地下一层，入口堆满了纸箱，刚下去的时候还以为是走错了... 不过味道真的很不错。感觉日本好多很不错的餐馆都是这种特别小又在特别难找的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n以及看完电影回家的路上路过了歌舞伎町但是没有敢过去转转... 感觉不是很能一个人去转的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 好希望有人能带我去<span class=\"spoiler\"><span>（感觉有很多想在日本玩的东西都是需要有人在我身边盯着我不上瘾的，比如 host club、弹珠机...）</span></span>",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "media_group_id": 14236618075845325,
     "images": [
@@ -113663,7 +113663,7 @@
     "id": 8496,
     "date": "2026-05-24T22:03:43",
     "text": "猫猫追兔兔\n\n（没追到，不太聪明喵）",
-    "views": 277,
+    "views": 278,
     "forwards": 3,
     "media_group_id": 14237281791067189,
     "images": [
@@ -113917,7 +113917,7 @@
     "id": 8514,
     "date": "2026-05-28T23:22:47",
     "text": "猫猫抓",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "files": [
       {
@@ -113940,7 +113940,7 @@
     "id": 8515,
     "date": "2026-05-28T23:33:31",
     "text": "猫猫追飞虫 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 261,
+    "views": 262,
     "forwards": 1,
     "files": [
       {
@@ -114145,7 +114145,7 @@
   {
     "id": 8529,
     "date": "2026-05-31T02:30:20",
-    "views": 300,
+    "views": 301,
     "forwards": 0,
     "media_group_id": 14241556967483709,
     "images": [
@@ -114175,7 +114175,7 @@
     "id": 8531,
     "date": "2026-05-31T04:33:22",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n收到了第一张日本的银行卡，是谦谦帮忙带我办的 SMBC 卡，因为需要本人当面签收所以上午请假了\n\n不过因为 SMBC 的信用卡申请被拒了，之后又申请了一张 PayPay 的信用卡\n\n现在离开日本了，在留卡过期的时候 PayPay 的信用卡也被禁用了，但是这个 SMBC 的账号依然没有被影响，不知道是为什么呢\n\n以及觉得日本卡有很多北美没有的功能很好用！比如说卡上没有印卡的信息、以及一张卡可以切换信用卡/储蓄卡模式之类的",
-    "views": 324,
+    "views": 325,
     "forwards": 2,
     "reply": {
       "id": 5438,
@@ -114197,7 +114197,7 @@
   {
     "id": 8532,
     "date": "2026-05-31T17:20:27",
-    "views": 279,
+    "views": 280,
     "forwards": 2,
     "images": [
       {
@@ -114216,7 +114216,7 @@
     "id": 8533,
     "date": "2026-06-01T16:03:58",
     "text": "孵出来了！",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -114238,7 +114238,7 @@
     "id": 8534,
     "date": "2026-06-01T16:12:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "files": [
       {
@@ -114260,7 +114260,7 @@
     "id": 8535,
     "date": "2026-06-01T20:19:10",
     "text": "小鸟：（没有声音的怒吼）\n\n（被当成鸟妈妈了）",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "reply": {
       "id": 8533,
@@ -114469,7 +114469,7 @@
     "id": 8549,
     "date": "2026-06-03T08:23:17",
     "text": "来到滑铁卢一个学期了每次路过 EIT 都在赶路，今天停下脚步看了一下 EIT 的博物馆（其实是聊聊想去看看所以）\n\n有好多好好看的石头，方解石里面的∞好奇妙，还发现了巨大的 Gneiss <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n说起来我对地质学有一点点兴趣和了解也是因为很久之前被推到了 <a href=\"https://youtube.com/@gneissname\">@gneissname</a> 的视频来着，拍下来想去 Gneiss 群里发发但是果然两年前已经有另一位 uw 学生发过了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "media_group_id": 14243799980067533,
     "images": [
@@ -117787,7 +117787,7 @@
     "id": 8808,
     "date": "2026-07-07T02:56:48",
     "text": "聚乙烯编织绳真的是<del>自从切片面包问世以来最棒的东西</del> (zh_US)\n\n昨天给这边的中二台子也打了一个之前设计的支架，但是发现太小了... 之前的支架是 75x75 VESA，我的显示器是 100x100 VESA，但是重新打又浪费耗材，怎么办呢？\n\n那肯定是，打一个增大圈然后把小的支架像系鞋带一样绑起来！<i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <a href=\"##绳师本能\">#绳师本能</a>",
-    "views": 247,
+    "views": 248,
     "forwards": 2,
     "media_group_id": 14267144071414845,
     "images": [
@@ -118402,7 +118402,7 @@
     "id": 8856,
     "date": "2026-07-11T00:18:32",
     "text": "预售，但是 \"start listening today\"? <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 282,
+    "views": 283,
     "forwards": 0,
     "images": [
       {
@@ -118421,7 +118421,7 @@
     "id": 8857,
     "date": "2026-07-12T05:10:35",
     "text": "买了新的旧手机，是小米 15 Ultra，解锁之后刷了 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实自从小米封堵 bootloader 解锁之后就比较讨厌小米了，所以去年旧的小米 11 Ultra 坏掉之后没有考虑小米反而买了一加 13（虽然最近一加也开始封堵 bootloader 解锁了...）\n\n这次因为某高通的漏洞，反而小米也可以无授权解锁了，所以买来解锁刷了 ROM，感觉是某种程度上是 power user 的文艺复兴\n\n转移好数据之后旧的一加 13 给聊聊啦（聊聊正在进行从 iOS 换到安卓的迁移，不知道会不会不习惯 qwq）\n\n以及其实这是我第一次用 <a href=\"Xiaomi.eu\">Xiaomi.eu</a> ROM，我还挺喜欢的，很干净也比较符合原生的使用习惯，大部分东西都是不用很多调试到手就工作，比如 Android Auto（想起来 <a href=\"##一年前的今天\">#一年前的今天</a> 在原生 MIUI 上想要用 Android Auto 都要安装两个模块...）\n\n不过用第三方启动器+手势还是需要往常的那些 hack 的... 是小米系统的通病了（于此同时，聊聊在她完美兼容原生手势的一加 13 OOS 上选择了三键导航...... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 276,
+    "views": 277,
     "forwards": 1,
     "media_group_id": 14270664282574749,
     "images": [
@@ -118779,7 +118779,7 @@
     "id": 8883,
     "date": "2026-07-17T04:54:16",
     "text": "想要有更多可以维修的东西用来录视频 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i>\n\n多伦多附近的朋友如果有可以维修的东西请务必给我维修 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "reply": {
       "id": 8873,
@@ -118790,7 +118790,7 @@
   {
     "id": 8885,
     "date": "2026-07-17T05:52:42",
-    "views": 209,
+    "views": 210,
     "forwards": 2,
     "files": [
       {
@@ -118971,7 +118971,7 @@
     "id": 8904,
     "date": "2026-07-18T03:11:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸鸡蛋糕 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> <span class=\"spoiler\"><span>（实际上蛋糕的部分是土豆泥）</span></span>\n\n聊聊生日快乐！",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 14274754149571237,
     "images": [
@@ -119021,7 +119021,7 @@
     "id": 8908,
     "date": "2026-07-18T03:23:52",
     "text": "起猛了 高松灯是你吗",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "images": [
       {
@@ -119040,7 +119040,7 @@
     "id": 8909,
     "date": "2026-07-18T15:12:10",
     "text": "昨天的这群小麻雀带来的故事\n\n回家的路上被小麻雀吸引住，拍了照片之后，旁边好心喂鸟的老人 NPC 来和我搭话。聊了很多大自然相关的事情，给他看了之前我家门口的一窝知更鸟，和一个和我一样喜欢大自然的路人聊天好开心\n\n不过聊着聊着发现果然还是有目的的基督教徒，虽然也不是什么坏事但是我对宗教信仰已经有比较明确的答案了，讲出来又需要花太多时间，所以决定说谎「实际上我也信基督教哦」\n\n因为我初中高中确实是在天主教学校长大的所以 pass 这个谎言并不是很难，然后又聊了一会之后很开心地道别了",
-    "views": 213,
+    "views": 217,
     "forwards": 0,
     "reply": {
       "id": 8894,
@@ -119051,7 +119051,7 @@
     "id": 8910,
     "date": "2026-07-18T19:50:21",
     "text": "通货膨胀孬\n<del>\n很难想象 20 年前 ¥1699 就能买到 AIPC，现在想买 AI mini PC 都要至少 ¥16999</del>",
-    "views": 245,
+    "views": 247,
     "forwards": 2,
     "images": [
       {
@@ -119071,14 +119071,14 @@
     "id": 8911,
     "date": "2026-07-19T09:40:07",
     "text": "补了 Apollo 13 电影\n\n除了被 problem-solving 的过程震撼到以外，感觉把很多实际上有点难以想象的事情表现出来了\n\n就 感觉观看过程中总是需要提醒自己，人类第一次登月的时候个人电脑和即使是非智能的便携手机都还没有被发明... 然后每次注意到都会觉得很 🤯\n\n好难想象当时给 Apollo 巡航的巨大电脑，功耗 55W 造价二十万刀，算力内存存储甚至不如现在一个功耗 55mW 售价 ￥1 的 CH551 USB 控制器... 然后人真的用这个土豆飞到了月球还回来了 🤯\n\n人类好厉害",
-    "views": 179,
+    "views": 181,
     "forwards": 1
   },
   {
     "id": 8912,
     "date": "2026-07-20T02:20:00",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n和谦谦和マモル和半喵去輪島的这次是买了相机之后第一次拍星星，第一次就拍到了银河\n\n当时运气真好啊... 感觉在日本每次看星星都是完全没有提前计划就恰巧碰到了天时地利人和的环境\n\n当时的旅店在光污染地图上是波特尔二级的暗空、正好 2025-07-19 23:00 的时候月亮在地平线下面、还正好百公里内完全没有云... <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n不过也正因为当时每次想看星星都运气特别好，让我以为看星星是很简单的事情，导致<a href=\"https://t.me/azaneko/7786\">上次</a>在满月的日子开车三个小时出去除了月亮什么都没看到 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n（以及 Stellarium VR 真好啊，输入坐标和日期时间就可以看到和当时看到的同样的星空...）",
-    "views": 152,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 14276112004440469,
     "images": [
@@ -119133,7 +119133,7 @@
     "id": 8917,
     "date": "2026-07-20T05:16:02",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n抹茶蜜わらび餅！好吃喵\n\n味道大概像是 抹茶味果冻？挺奇妙的\n\n是半年前在草津买的，今天翻到它的时候发现已经快过期了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 153,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 14276196496712829,
     "images": [
@@ -119173,14 +119173,14 @@
     "id": 8920,
     "date": "2026-07-20T07:15:57",
     "text": "要是笔画输入法可以打出不存在的字就好了",
-    "views": 149,
+    "views": 153,
     "forwards": 1
   },
   {
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 182,
+    "views": 191,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -119203,7 +119203,7 @@
     "id": 8922,
     "date": "2026-07-21T11:30:59",
     "text": "小猫什么时候一米八了",
-    "views": 112,
+    "views": 124,
     "forwards": 1,
     "images": [
       {
@@ -119222,7 +119222,7 @@
     "id": 8923,
     "date": "2026-07-21T12:41:04",
     "text": "小猫睡相",
-    "views": 92,
+    "views": 109,
     "forwards": 2,
     "media_group_id": 14277101318110605,
     "files": [
@@ -119250,6 +119250,29 @@
         "url": "media/8923.jpg",
         "size": 371038,
         "thumb": "media/8923.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8925,
+    "date": "2026-07-21T19:46:56",
+    "text": "又到了两个月一度的🤡环节",
+    "views": 49,
+    "forwards": 0,
+    "reply": {
+      "id": 8450,
+      "text": "看了一眼咕噜咕噜 IO 2026 的公布内容，怎么感觉很 🤡...\n\n发布了新模型 3.5-flash，缺点是 $1.5 进 $9 出...是 3-flash 价格的三倍，和 3.1-pro 价格差不多但是并没有 3.1-pro 聪明\n\n以及把原本是开源的 Gemini CLI 退役换成了闭源的 Antigravity CLI...\n\n到底谁会觉得这些是好方向啊"
+    },
+    "images": [
+      {
+        "width": 449,
+        "height": 253,
+        "date": "2026-07-21T19:46:56",
+        "media_type": "photo",
+        "original_name": "photo_2026-07-21_19-46-56.jpg",
+        "url": "media/8925.jpg",
+        "size": 10418,
+        "thumb": "media/8925.jpg_thumb.jpg"
       }
     ]
   }
