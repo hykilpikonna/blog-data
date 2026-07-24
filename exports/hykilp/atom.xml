@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-07-24T20:52:22.255168+00:00</updated>
+  <updated>2026-07-24T22:48:00.415136+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8954</id>
+    <title>小桂桂的回忆录 📒 #8954</title>
+    <updated>2026-07-24T21:39:57+00:00</updated>
+    <content>&lt;p&gt;什么叫欲速则不达&lt;/p&gt;
+&lt;p&gt;到学校 lab 用 stm32 测试电源，发现没有带电阻包，不想回家取，按理说不加保护电阻直接接 adc 应该也没有问题所以就接了，用可调电源测试还没问题，接上实际电源刚开起来第一个电源就掉了...&lt;/p&gt;
+&lt;p&gt;断电分析发现 stm32 烧了，3v3 短路，通电 ic 能烧干水 &lt;i class="custom-emoji" emoji-src="emoji/6169953432485496291.webm"&gt;😶&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;-￥50 并且现在只能回家了（因为没有带第二个 stm32）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8954" rel="alternate"/>
+  </entry>
   <entry>
     <id>8952</id>
     <title>小桂桂的回忆录 📒 #8952</title>
