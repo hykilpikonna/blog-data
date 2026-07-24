@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-07-24T03:20:15.280721+00:00</updated>
+  <updated>2026-07-24T05:18:48.459052+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>8950</id>
+    <title>小桂桂的回忆录 📒 #8950</title>
+    <updated>2026-07-24T04:26:22+00:00</updated>
+    <content>&lt;p&gt;嘉立创用下单助手下单可以 -¥100，但是下载下来让 codex 看了一下，发现完全就是木马 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;下单助手启动的时候会收集 Hostname、MAC 和 NIC 信息、硬盘序列号、主板和系统 ID、CPU、系统构建号、VM 状态...&lt;/p&gt;
+&lt;p&gt;然后还有通过通知消息进行任意代码执行、还有各种安全隐患比如用 HTTP 非 S 明文自动更新、超级旧版 electron、开机自启、防注入... &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;为了拿到优惠的同时不把底裤卖了，&lt;a href="https://codeberg.org/JLCJLCJLCJLC/OrderAssistant"&gt;找了一个 userscript&lt;/a&gt; 在网页上拿到小助手优惠了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=8950" rel="alternate"/>
+  </entry>
   <entry>
     <id>8948</id>
     <title>小桂桂的回忆录 📒 #8948</title>
