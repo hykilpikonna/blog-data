@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 735,
+    "views": 736,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -119601,7 +119601,7 @@
     "id": 8950,
     "date": "2026-07-24T04:26:22",
     "text": "嘉立创用下单助手下单可以 -¥100，但是下载下来让 codex 看了一下，发现完全就是木马 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n下单助手启动的时候会收集 Hostname、MAC 和 NIC 信息、硬盘序列号、主板和系统 ID、CPU、系统构建号、VM 状态...\n\n然后还有通过通知消息进行任意代码执行、还有各种安全隐患比如用 HTTP 非 S 明文自动更新、超级旧版 electron、开机自启、防注入... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n为了拿到优惠的同时不把底裤卖了，<a href=\"https://codeberg.org/JLCJLCJLCJLC/OrderAssistant\">找了一个 userscript</a> 在网页上拿到小助手优惠了",
-    "views": 308,
+    "views": 314,
     "forwards": 14,
     "images": [
       {
@@ -119619,7 +119619,7 @@
   {
     "id": 8952,
     "date": "2026-07-24T17:09:47",
-    "views": 136,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 14279303903058349,
     "images": [
@@ -119649,7 +119649,7 @@
     "id": 8954,
     "date": "2026-07-24T21:39:57",
     "text": "什么叫欲速则不达\n\n到学校 lab 用 stm32 测试电源，发现没有带电阻包，不想回家取，按理说不加保护电阻直接接 adc 应该也没有问题所以就接了，用可调电源测试还没问题，接上实际电源刚开起来第一个电源就掉了...\n\n断电分析发现 stm32 烧了，3v3 短路，通电 ic 能烧干水 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n-￥50 并且现在只能回家了（因为没有带第二个 stm32）",
-    "views": 119,
+    "views": 121,
     "forwards": 1,
     "media_group_id": 14279433583591909,
     "images": [
@@ -119678,8 +119678,8 @@
   {
     "id": 8956,
     "date": "2026-07-25T00:52:44",
-    "views": 105,
-    "forwards": 0,
+    "views": 107,
+    "forwards": 1,
     "images": [
       {
         "width": 2560,
