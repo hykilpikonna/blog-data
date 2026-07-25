@@ -43141,7 +43141,7 @@
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 167,
+    "views": 168,
     "forwards": 4,
     "media_group_id": 13643119076454173,
     "images": [
@@ -107191,7 +107191,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5182,
+    "views": 5183,
     "forwards": 30
   },
   {
@@ -112331,7 +112331,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 736,
+    "views": 737,
     "forwards": 10,
     "media_group_id": 14227451747839885,
     "images": [
@@ -114797,7 +114797,7 @@
     "id": 8573,
     "date": "2026-06-06T19:31:47",
     "text": "猫猫抓到了第一只活的老鼠！\n\n...实际上是 猫猫叼着活的老鼠就跑进来了然后老鼠在房间里乱窜，窜进了储物间，我把门关上门缝堵上我和猫猫一起抓才终于抓到瓶子里了。\n\n猫猫好像比起吃老鼠来说更想和老鼠玩，我也没有杀死它的决心，所以暂时决定把它封印在瓶子里了（戳了透气孔）",
-    "views": 335,
+    "views": 336,
     "forwards": 4,
     "media_group_id": 14246194458684965,
     "images": [
@@ -119180,7 +119180,7 @@
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 279,
+    "views": 280,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -119407,7 +119407,7 @@
     "id": 8935,
     "date": "2026-07-22T12:43:23",
     "text": "小猫好猫",
-    "views": 170,
+    "views": 171,
     "forwards": 1,
     "media_group_id": 14277793629339701,
     "images": [
@@ -119517,7 +119517,7 @@
     "id": 8945,
     "date": "2026-07-22T15:52:49",
     "text": "修修小猫",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "images": [
       {
@@ -119536,7 +119536,7 @@
     "id": 8946,
     "date": "2026-07-23T02:41:16",
     "text": "之前玩 restory demo 的时候觉得游戏里只有「坏零件」和「好零件」的区分，并不能更深层区分一个零件里面哪里坏了，只能什么坏了就整体替换感觉限制了可能性\n\n今天收到一个进水的笔记本，检测了主板发现是一个 3v3 降压模块坏了，下单了好的元件准备换上去，然后就发现无论在哪层维修都依然是「什么坏了换什么」，只不过是零件的尺寸不一样而已 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>会拆修 IC 的人会不会觉得我这样 IC 坏了就直接整个 IC 换掉很无聊</del>",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "media_group_id": 14278195808451525,
     "images": [
@@ -119601,7 +119601,7 @@
     "id": 8950,
     "date": "2026-07-24T04:26:22",
     "text": "嘉立创用下单助手下单可以 -¥100，但是下载下来让 codex 看了一下，发现完全就是木马 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n下单助手启动的时候会收集 Hostname、MAC 和 NIC 信息、硬盘序列号、主板和系统 ID、CPU、系统构建号、VM 状态...\n\n然后还有通过通知消息进行任意代码执行、还有各种安全隐患比如用 HTTP 非 S 明文自动更新、超级旧版 electron、开机自启、防注入... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n为了拿到优惠的同时不把底裤卖了，<a href=\"https://codeberg.org/JLCJLCJLCJLC/OrderAssistant\">找了一个 userscript</a> 在网页上拿到小助手优惠了",
-    "views": 320,
+    "views": 323,
     "forwards": 14,
     "images": [
       {
@@ -119619,7 +119619,7 @@
   {
     "id": 8952,
     "date": "2026-07-24T17:09:47",
-    "views": 138,
+    "views": 141,
     "forwards": 0,
     "media_group_id": 14279303903058349,
     "images": [
@@ -119649,7 +119649,7 @@
     "id": 8954,
     "date": "2026-07-24T21:39:57",
     "text": "什么叫欲速则不达\n\n到学校 lab 用 stm32 测试电源，发现没有带电阻包，不想回家取，按理说不加保护电阻直接接 adc 应该也没有问题所以就接了，用可调电源测试还没问题，接上实际电源刚开起来第一个电源就掉了...\n\n断电分析发现 stm32 烧了，3v3 短路，通电 ic 能烧干水 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n-￥50 并且现在只能回家了（因为没有带第二个 stm32）",
-    "views": 123,
+    "views": 127,
     "forwards": 1,
     "media_group_id": 14279433583591909,
     "images": [
@@ -119678,7 +119678,7 @@
   {
     "id": 8956,
     "date": "2026-07-25T00:52:44",
-    "views": 109,
+    "views": 114,
     "forwards": 1,
     "images": [
       {
