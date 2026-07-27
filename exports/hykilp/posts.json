@@ -111016,7 +111016,7 @@
     "id": 8311,
     "date": "2026-04-23T19:10:21",
     "text": "设计了摇曳露营车牌框！\n\n（感谢前室友 <a href=\"https://vgen.co/AuraMage\">AuraMage</a> 帮忙画上面的小人）\n\n把设计文件开源到<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/YurucampLicensePlate\">这里</a>啦，想用的人欢迎拿去制作 qwq（不过禁止商用）",
-    "views": 411,
+    "views": 412,
     "forwards": 7,
     "media_group_id": 14215771367837749,
     "images": [
@@ -119601,7 +119601,7 @@
     "id": 8950,
     "date": "2026-07-24T04:26:22",
     "text": "嘉立创用下单助手下单可以 -¥100，但是下载下来让 codex 看了一下，发现完全就是木马 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n下单助手启动的时候会收集 Hostname、MAC 和 NIC 信息、硬盘序列号、主板和系统 ID、CPU、系统构建号、VM 状态...\n\n然后还有通过通知消息进行任意代码执行、还有各种安全隐患比如用 HTTP 非 S 明文自动更新、超级旧版 electron、开机自启、防注入... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n为了拿到优惠的同时不把底裤卖了，<a href=\"https://codeberg.org/JLCJLCJLCJLC/OrderAssistant\">找了一个 userscript</a> 在网页上拿到小助手优惠了",
-    "views": 356,
+    "views": 357,
     "forwards": 15,
     "images": [
       {
@@ -119619,7 +119619,7 @@
   {
     "id": 8952,
     "date": "2026-07-24T17:09:47",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 14279303903058349,
     "images": [
@@ -119649,7 +119649,7 @@
     "id": 8954,
     "date": "2026-07-24T21:39:57",
     "text": "什么叫欲速则不达\n\n到学校 lab 用 stm32 测试电源，发现没有带电阻包，不想回家取，按理说不加保护电阻直接接 adc 应该也没有问题所以就接了，用可调电源测试还没问题，接上实际电源刚开起来第一个电源就掉了...\n\n断电分析发现 stm32 烧了，3v3 短路，通电 ic 能烧干水 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n-￥50 并且现在只能回家了（因为没有带第二个 stm32）",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "media_group_id": 14279433583591909,
     "images": [
@@ -119678,7 +119678,7 @@
   {
     "id": 8956,
     "date": "2026-07-25T00:52:44",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "images": [
       {
@@ -119697,14 +119697,14 @@
     "id": 8957,
     "date": "2026-07-25T22:43:46",
     "text": "原来四叶草是三叶草",
-    "views": 154,
+    "views": 156,
     "forwards": 0
   },
   {
     "id": 8958,
     "date": "2026-07-26T02:51:25",
     "text": "上学路上的花草 qwq",
-    "views": 138,
+    "views": 139,
     "forwards": 1,
     "media_group_id": 14280274280916205,
     "images": [
@@ -119804,7 +119804,7 @@
     "id": 8967,
     "date": "2026-07-26T04:10:14",
     "text": "我好像喜欢上了 2.39:1",
-    "views": 138,
+    "views": 141,
     "forwards": 2,
     "media_group_id": 14280312114159933,
     "images": [
@@ -119893,7 +119893,7 @@
   {
     "id": 8975,
     "date": "2026-07-26T17:07:08",
-    "views": 137,
+    "views": 146,
     "forwards": 1,
     "images": [
       {
@@ -119912,7 +119912,7 @@
     "id": 8976,
     "date": "2026-07-27T00:19:59",
     "text": "作案现场",
-    "views": 105,
+    "views": 116,
     "forwards": 1,
     "media_group_id": 14280892791925101,
     "images": [
