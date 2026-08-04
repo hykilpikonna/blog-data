@@ -97441,7 +97441,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 608,
+    "views": 609,
     "forwards": 13
   },
   {
@@ -117724,7 +117724,7 @@
   {
     "id": 8803,
     "date": "2026-07-06T00:13:14",
-    "views": 271,
+    "views": 272,
     "forwards": 3,
     "media_group_id": 14266374359715821,
     "images": [
@@ -117774,7 +117774,7 @@
     "id": 8807,
     "date": "2026-07-06T20:55:04",
     "text": "我发现有 AI coding agent 之后自己用软件的方式不一样了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n在有 AI 之前，如果我想让计划旅行的软件能够从谷歌地图拉我保存的图钉、或者想让 kicad jlc 插件可以自动下载规格书、或者想让计算器把 (2a / 3b) 理解成 ((2a) / (3b)) 而不是 ((2a / 3) b)、或者想让 OpenPilot 自动驾驶可以关掉驾驶员注意力监控，我会开一个「功能请求」然后等人实现（虽然能等到的几乎没有）\n\n即使我很会写代码我也不想为了这些小功能去改别人的代码库，因为改之前首先要读懂原本的代码，但是理解一个新的代码库真的很累很累，为了自己想要的这一个小功能完全不值得\n\n但是 AI 读一个新代码库是完全不需要多费力气的，所以现在我会直接把别人的软件源码 clone 下来让 AI 添加我想要的功能。即使这些改动的受益者只有我一个人也没关系，因为实现这些完全不需要精力。\n\n所以我觉得也许，等 AI 让写代码这件事便宜下来之后，未来的软件对于用户来说可以不再是「完成的产品」了，而是某种「构建的起点」，无论会不会写代码的人都可以用自己的分支，让 AI 添加自己想要的奇怪功能，就只给自己一个人用... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 272,
+    "views": 273,
     "forwards": 2,
     "reply": {
       "id": 8757,
@@ -119600,7 +119600,7 @@
     "id": 8950,
     "date": "2026-07-24T04:26:22",
     "text": "嘉立创用下单助手下单可以 -¥100，但是下载下来让 codex 看了一下，发现完全就是木马 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n下单助手启动的时候会收集 Hostname、MAC 和 NIC 信息、硬盘序列号、主板和系统 ID、CPU、系统构建号、VM 状态...\n\n然后还有通过通知消息进行任意代码执行、还有各种安全隐患比如用 HTTP 非 S 明文自动更新、超级旧版 electron、开机自启、防注入... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n为了拿到优惠的同时不把底裤卖了，<a href=\"https://codeberg.org/JLCJLCJLCJLC/OrderAssistant\">找了一个 userscript</a> 在网页上拿到小助手优惠了",
-    "views": 405,
+    "views": 406,
     "forwards": 15,
     "images": [
       {
@@ -120554,7 +120554,7 @@
     "id": 9026,
     "date": "2026-08-01T05:35:00",
     "text": "想要像弹钢琴一样打字",
-    "views": 215,
+    "views": 216,
     "forwards": 1,
     "images": [
       {
@@ -120700,7 +120700,7 @@
     "id": 9035,
     "date": "2026-08-02T18:37:33",
     "text": "下线了 daisy，以 $40/TB 的价格把三块用来 raid0 的 SSD 卖给了朋友\n\n卖之前看了一下统计，总共通电时间快三年了居然只开机了 45 次，好震撼",
-    "views": 183,
+    "views": 184,
     "forwards": 0,
     "media_group_id": 14285566828082245,
     "images": [
@@ -120729,7 +120729,7 @@
   {
     "id": 9037,
     "date": "2026-08-03T00:32:03",
-    "views": 183,
+    "views": 184,
     "forwards": 1,
     "files": [
       {
@@ -120751,7 +120751,7 @@
     "id": 9038,
     "date": "2026-08-03T04:40:55",
     "text": "好像我的频道变成猫猫频道了",
-    "views": 186,
+    "views": 187,
     "forwards": 1,
     "media_group_id": 14285856446593373,
     "images": [
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 202,
+    "views": 204,
     "forwards": 2,
     "images": [
       {
@@ -120830,7 +120830,7 @@
     "id": 9044,
     "date": "2026-08-04T00:38:16",
     "text": "有人猜出来了所以揭晓答案了\n\n这张图的意思是 <span class=\"spoiler\"><span>LGBTQIA</span></span>\n\n<span class=\"spoiler\"><span>从左到右\n1. IGBT (<b>I</b>nsulated <b>G</b>ate <b>B</b>ipolar <b>T</b>ransistor)\n2. 三极管，标准位号是 Q\n3. 电感，标准位号是 L\n4. 安培计，A = Ammeter\n\n所以是 IGBTQLA = LGBTQIA</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 工程师黑话",
-    "views": 149,
+    "views": 154,
     "forwards": 0,
     "reply": {
       "id": 9043,
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 153,
+    "views": 163,
     "forwards": 2,
     "reply": {
       "id": 4277,
@@ -120867,7 +120867,7 @@
     "id": 9046,
     "date": "2026-08-04T06:44:26",
     "text": "好累好累好累好累好累",
-    "views": 78,
+    "views": 86,
     "forwards": 0
   }
 ]
