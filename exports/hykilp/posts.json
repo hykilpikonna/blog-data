@@ -115995,7 +115995,7 @@
     "id": 8665,
     "date": "2026-06-17T00:19:16",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的小白菜/油菜",
-    "views": 278,
+    "views": 279,
     "forwards": 1,
     "media_group_id": 14253244451626341,
     "images": [
@@ -116025,7 +116025,7 @@
     "id": 8666,
     "date": "2026-06-17T06:43:05",
     "text": "没想到之前网安课作业手搓 TLS 实现的经验真的派上用场了\n\n今天尝试给 AquaDX 加游戏端原生 https 支持，发现游戏发 ClientHello 之后马上就被 caddy 服务器回 Alert 拒绝握手\n\n好巧，我手搓 TLS 的时候正好遇到过这个问题，就是如果 ClientHello 里面缺一些插件的话，现代服务器会拒绝握手。其中的一个插件是 SNI，正好这里没有\n\n修完这个问题还有一个问题就是，客户端支持的加密算法都太旧了，没有任何一个客户端支持的算法 caddy 支持，也没办法通过配置文件修好... 所以<a href=\"https://github.com/caddyserver/caddy/pull/7825\">改了源码给 caddy 启用了旧加密算法支持</a>（开源软件真好）",
-    "views": 347,
+    "views": 348,
     "forwards": 4,
     "reply": {
       "id": 8133,
@@ -116208,7 +116208,7 @@
   {
     "id": 8678,
     "date": "2026-06-19T03:54:53",
-    "views": 263,
+    "views": 264,
     "forwards": 0
   },
   {
@@ -117589,7 +117589,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 323,
+    "views": 324,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -117699,7 +117699,7 @@
     "id": 8802,
     "date": "2026-07-04T06:41:12",
     "text": "猫猫吓了一跳",
-    "views": 289,
+    "views": 290,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -117724,7 +117724,7 @@
   {
     "id": 8803,
     "date": "2026-07-06T00:13:14",
-    "views": 273,
+    "views": 274,
     "forwards": 3,
     "media_group_id": 14266374359715821,
     "images": [
@@ -119648,7 +119648,7 @@
     "id": 8954,
     "date": "2026-07-24T21:39:57",
     "text": "什么叫欲速则不达\n\n到学校 lab 用 stm32 测试电源，发现没有带电阻包，不想回家取，按理说不加保护电阻直接接 adc 应该也没有问题所以就接了，用可调电源测试还没问题，接上实际电源刚开起来第一个电源就掉了...\n\n断电分析发现 stm32 烧了，3v3 短路，通电 ic 能烧干水 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n-￥50 并且现在只能回家了（因为没有带第二个 stm32）",
-    "views": 240,
+    "views": 241,
     "forwards": 2,
     "media_group_id": 14279433583591909,
     "images": [
@@ -119892,7 +119892,7 @@
   {
     "id": 8975,
     "date": "2026-07-26T17:07:08",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "images": [
       {
@@ -119911,7 +119911,7 @@
     "id": 8976,
     "date": "2026-07-27T00:19:59",
     "text": "作案现场",
-    "views": 246,
+    "views": 247,
     "forwards": 1,
     "media_group_id": 14280892791925101,
     "images": [
@@ -119950,7 +119950,7 @@
   {
     "id": 8979,
     "date": "2026-07-27T15:51:40",
-    "views": 212,
+    "views": 213,
     "forwards": 2,
     "files": [
       {
@@ -119972,7 +119972,7 @@
     "id": 8980,
     "date": "2026-07-27T16:44:04",
     "text": "因为好奇，回去跑了跑当时依然是开源的 gpt2... 原本想问它草莓难题但是发现它还没到可以回答问题的程度\n\nhow did we get here?\n\n<span class=\"spoiler\"><span>GPT2: The future of AI is uncertain, but it is not lost on the current generation of artificial intelligence. Researchers from IBM and Microsoft are developing a new AI called Go, which can run on the Raspberry Pi, using the Linux kernel. The device can also be used as an artificial intelligence platform to analyze data.</span></span>",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "images": [
       {
@@ -119991,7 +119991,7 @@
     "id": 8981,
     "date": "2026-07-27T22:37:40",
     "text": "小鸟吃大餐",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "images": [
       {
@@ -120010,7 +120010,7 @@
     "id": 8982,
     "date": "2026-07-27T22:48:53",
     "text": "后院照片\n\n猜猜哪些是手机拍的哪些是相机拍的（防止作弊已经全部裁剪到 2:3）\n\n（hint: 三张是手机其他的是相机）\n（hint2: 相机是 a6700 18-300 3.5-6.3，手机是小米 15U）",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "media_group_id": 14281540263912053,
     "images": [
@@ -120120,7 +120120,7 @@
     "id": 8992,
     "date": "2026-07-28T01:55:56",
     "text": "揭露答案了，<span class=\"spoiler\"><span>1 5 6 </span></span>是手机，其他是相机\n\n没想到大家都没猜到<span class=\"spoiler\"><span>第一张</span></span>是手机拍的，明明我觉得这张看起来 AI 味很重的...以及没想到为什么反而大家都觉得 <span class=\"spoiler\"><span>5</span></span> 是手机拍的，明明 <span class=\"spoiler\"><span>5</span></span> 是最感受不到光圈的构图hhh\n\n其实这个手机的主摄因为 1\" 大底，实际上比我的大变焦相机在广角焦距的等效光圈反而更大（手机是等效 f/4.2，相机是等效 f/5.3...）所以广角的低光表现和景深都比我的相机好。但是这里面没有一张是广角，全都是长焦，然后手机的长焦 CMOS 光圈都小，所以就没有相机入光量大了\n\n摘选一些也许有意思的照片参数对比：\n\n<span class=\"spoiler\"><span>1. 小米15U 70mm (11.5mm 1/2.51\") 1/190s ISO50 f/1.8 (= f/10.9)\n2. a6700 155mm (103mm APSC) 1/160s ISO200 f/5.6 (= f/8.4)\n5. 小米15U 200mm (25.1mm 1/1.4\"</span></span><span class=\"spoiler\"><span>/2</span></span><span class=\"spoiler\"><span>) 1/100s ISO200 f/2.6 (= f/20.7)\n6. 小米15U 100mm (25.1mm 1/1.4\") 1/100s ISO200 f/2.6 (= f/10.3)\n7. a6700 117mm (78mm APSC) 1/125s ISO200 f/5 (= f/7.5)</span></span>",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "reply": {
       "id": 8982,
@@ -120132,7 +120132,7 @@
     "id": 8993,
     "date": "2026-07-28T05:51:00",
     "text": "今天发现了一个 2017 年的奇妙 VR 沙盒小游戏 Blocks by Google，是原本想找谷歌地球 VR 所以去 Steam 商店搜索 Google 偶然发现的\n\n在里面可以用各种图形进行简单的 low poly 建模，手感好不错感觉完全不需要适应就会用了 qwq（其实这是我第一次 mesh 建模，以前都是工程建模来着）\n\n不知道为什么感觉好冷门，我今天才听说这个，在谷歌上搜“谷歌 VR 游戏”都搜不到... 不过可能谷歌自己都忘了有这个东西了，游戏里点登录直接被谷歌自己 block 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<del>Google Blocks Google's Blocks by Google</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 1,
     "media_group_id": 14281742885268429,
     "images": [
@@ -120389,7 +120389,7 @@
   {
     "id": 9013,
     "date": "2026-07-29T17:21:26",
-    "views": 223,
+    "views": 224,
     "forwards": 1,
     "images": [
       {
@@ -120408,7 +120408,7 @@
     "id": 9014,
     "date": "2026-07-30T01:59:51",
     "text": "蜻蜓！",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "media_group_id": 14283014334605501,
     "images": [
@@ -120458,7 +120458,7 @@
     "id": 9019,
     "date": "2026-07-30T02:12:50",
     "text": "agent 对于日常折腾系统来说真的好厉害...\n\n我以前手动在 VMware 上装过 macOS，虽然不难但是踩了挺多坑花了挺多时间。今天我想在 PVE 上装 macOS，给了 agent 一个 prompt 它 18 分钟装好了...",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "media_group_id": 14283020561469293,
     "images": [
@@ -120488,7 +120488,7 @@
     "id": 9021,
     "date": "2026-07-30T13:09:53",
     "text": "守护<del>月亮</del>顶灯的小猫",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "media_group_id": 14283335949424437,
     "images": [
@@ -120528,7 +120528,7 @@
     "id": 9024,
     "date": "2026-07-30T23:29:06",
     "text": "哭哭 和中国朋友视频电话不需要绕墙的聊天平台又少了一个",
-    "views": 265,
+    "views": 266,
     "forwards": 3,
     "images": [
       {
@@ -120547,14 +120547,14 @@
     "id": 9025,
     "date": "2026-08-01T04:56:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"https://youtu.be/eTfEPt96JSM\">https://youtu.be/eTfEPt96JSM</a>",
-    "views": 222,
+    "views": 223,
     "forwards": 0
   },
   {
     "id": 9026,
     "date": "2026-08-01T05:35:00",
     "text": "想要像弹钢琴一样打字",
-    "views": 238,
+    "views": 239,
     "forwards": 1,
     "images": [
       {
@@ -120572,7 +120572,7 @@
   {
     "id": 9027,
     "date": "2026-08-01T18:22:42",
-    "views": 217,
+    "views": 218,
     "forwards": 0,
     "images": [
       {
@@ -120591,7 +120591,7 @@
     "id": 9028,
     "date": "2026-08-01T19:51:58",
     "text": "咣当 猫睡掉下去了（不过依然是脚着地）",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14284911344643213,
     "images": [
@@ -120624,7 +120624,7 @@
     "id": 9030,
     "date": "2026-08-01T23:02:11",
     "text": "llm:",
-    "views": 217,
+    "views": 219,
     "forwards": 0,
     "reply": {
       "id": 9028,
@@ -120648,14 +120648,14 @@
     "id": 9031,
     "date": "2026-08-02T14:39:00",
     "text": "山药片是药片吗",
-    "views": 204,
+    "views": 205,
     "forwards": 1
   },
   {
     "id": 9032,
     "date": "2026-08-02T16:51:25",
     "text": "不长记性猫",
-    "views": 202,
+    "views": 204,
     "forwards": 0,
     "media_group_id": 14285515886791093,
     "images": [
@@ -120700,7 +120700,7 @@
     "id": 9035,
     "date": "2026-08-02T18:37:33",
     "text": "下线了 daisy，以 $40/TB 的价格把三块用来 raid0 的 SSD 卖给了朋友\n\n卖之前看了一下统计，总共通电时间快三年了居然只开机了 45 次，好震撼",
-    "views": 209,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 14285566828082245,
     "images": [
@@ -120729,7 +120729,7 @@
   {
     "id": 9037,
     "date": "2026-08-03T00:32:03",
-    "views": 211,
+    "views": 214,
     "forwards": 1,
     "files": [
       {
@@ -120751,7 +120751,7 @@
     "id": 9038,
     "date": "2026-08-03T04:40:55",
     "text": "好像我的频道变成猫猫频道了",
-    "views": 212,
+    "views": 215,
     "forwards": 1,
     "media_group_id": 14285856446593373,
     "images": [
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 246,
+    "views": 250,
     "forwards": 3,
     "images": [
       {
@@ -120830,7 +120830,7 @@
     "id": 9044,
     "date": "2026-08-04T00:38:16",
     "text": "有人猜出来了所以揭晓答案了\n\n这张图的意思是 <span class=\"spoiler\"><span>LGBTQIA</span></span>\n\n<span class=\"spoiler\"><span>从左到右\n1. IGBT (<b>I</b>nsulated <b>G</b>ate <b>B</b>ipolar <b>T</b>ransistor)\n2. 三极管，标准位号是 Q\n3. 电感，标准位号是 L\n4. 安培计，A = Ammeter\n\n所以是 IGBTQLA = LGBTQIA</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 工程师黑话",
-    "views": 196,
+    "views": 198,
     "forwards": 1,
     "reply": {
       "id": 9043,
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 230,
+    "views": 232,
     "forwards": 3,
     "reply": {
       "id": 4277,
@@ -120867,15 +120867,15 @@
     "id": 9046,
     "date": "2026-08-04T06:44:26",
     "text": "好累好累好累好累好累",
-    "views": 179,
+    "views": 181,
     "forwards": 1
   },
   {
     "id": 9047,
     "date": "2026-08-04T13:46:03",
     "text": "长到一半的蒲公英球球",
-    "views": 163,
-    "forwards": 1,
+    "views": 166,
+    "forwards": 2,
     "media_group_id": 14286809308349741,
     "images": [
       {
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1065,
+    "views": 1082,
     "forwards": 12,
     "media_group_id": 14287044447772125,
     "images": [
@@ -120953,5 +120953,115 @@
       "id": 8925,
       "text": "又到了两个月一度的🤡环节"
     }
+  },
+  {
+    "id": 9053,
+    "date": "2026-08-06T13:34:42",
+    "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的香菜已经可以吃了 qwq",
+    "views": 45,
+    "forwards": 0,
+    "media_group_id": 14288186258451333,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-08-06T13:34:37",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-37.jpg",
+        "url": "media/9053.jpg",
+        "size": 1158039,
+        "thumb": "media/9053.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-08-06T13:34:37",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-37.jpg",
+        "url": "media/9054.jpg",
+        "size": 673390,
+        "thumb": "media/9054.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-08-06T13:34:38",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-38.jpg",
+        "url": "media/9055.jpg",
+        "size": 350341,
+        "thumb": "media/9055.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-08-06T13:34:38",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-38.jpg",
+        "url": "media/9056.jpg",
+        "size": 1461936,
+        "thumb": "media/9056.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-08-06T13:34:39",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-39.jpg",
+        "url": "media/9057.jpg",
+        "size": 1264563,
+        "thumb": "media/9057.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-08-06T13:34:39",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-39.jpg",
+        "url": "media/9058.jpg",
+        "size": 979055,
+        "thumb": "media/9058.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-08-06T13:34:40",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-40.jpg",
+        "url": "media/9059.jpg",
+        "size": 1221887,
+        "thumb": "media/9059.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-08-06T13:34:41",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-41.jpg",
+        "url": "media/9060.jpg",
+        "size": 508736,
+        "thumb": "media/9060.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-08-06T13:34:41",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-41.jpg",
+        "url": "media/9061.jpg",
+        "size": 749073,
+        "thumb": "media/9061.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-08-06T13:34:41",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-06_13-34-41.jpg",
+        "url": "media/9062.jpg",
+        "size": 602355,
+        "thumb": "media/9062.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
