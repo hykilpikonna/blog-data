@@ -70665,7 +70665,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2852,
+    "views": 2853,
     "forwards": 29,
     "images": [
       {
@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6641,
+    "views": 6642,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -96591,7 +96591,7 @@
     "id": 7180,
     "date": "2025-11-11T13:49:49",
     "text": "今天是 k-on 梓喵的生日！早上和 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起去立豊郷小学校进行了圣地巡礼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n学校从建筑布局到气氛都和动画里面完全一样哇，回想起来了不少第一次看 k-on 的时候的回忆\n\n以及看到了梓喵给其他人写的笔记，还有来参拜的大家留下的留言，都好温馨 qwq",
-    "views": 276,
+    "views": 277,
     "forwards": 0,
     "media_group_id": 14102951917738565,
     "images": [
@@ -97961,7 +97961,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 552,
+    "views": 553,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -107190,7 +107190,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5238,
+    "views": 5239,
     "forwards": 30
   },
   {
@@ -110011,7 +110011,7 @@
     "id": 8234,
     "date": "2026-04-15T18:22:49",
     "text": "<a href=\"##AIGC\">#AIGC</a>\n每次下高速看到这个牌子都会想到",
-    "views": 1098,
+    "views": 1099,
     "forwards": 2,
     "images": [
       {
@@ -111015,7 +111015,7 @@
     "id": 8311,
     "date": "2026-04-23T19:10:21",
     "text": "设计了摇曳露营车牌框！\n\n（感谢前室友 <a href=\"https://vgen.co/AuraMage\">AuraMage</a> 帮忙画上面的小人）\n\n把设计文件开源到<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/YurucampLicensePlate\">这里</a>啦，想用的人欢迎拿去制作 qwq（不过禁止商用）",
-    "views": 417,
+    "views": 418,
     "forwards": 7,
     "media_group_id": 14215771367837749,
     "images": [
@@ -119950,7 +119950,7 @@
   {
     "id": 8979,
     "date": "2026-07-27T15:51:40",
-    "views": 216,
+    "views": 217,
     "forwards": 2,
     "files": [
       {
@@ -119972,7 +119972,7 @@
     "id": 8980,
     "date": "2026-07-27T16:44:04",
     "text": "因为好奇，回去跑了跑当时依然是开源的 gpt2... 原本想问它草莓难题但是发现它还没到可以回答问题的程度\n\nhow did we get here?\n\n<span class=\"spoiler\"><span>GPT2: The future of AI is uncertain, but it is not lost on the current generation of artificial intelligence. Researchers from IBM and Microsoft are developing a new AI called Go, which can run on the Raspberry Pi, using the Linux kernel. The device can also be used as an artificial intelligence platform to analyze data.</span></span>",
-    "views": 232,
+    "views": 233,
     "forwards": 1,
     "images": [
       {
@@ -120182,7 +120182,7 @@
     "id": 8997,
     "date": "2026-07-28T22:08:59",
     "text": "（如果不同项目有不同 vibe 策略的话可以多选）",
-    "views": 237,
+    "views": 239,
     "forwards": 2,
     "files": [
       {
@@ -120233,7 +120233,7 @@
     "id": 8998,
     "date": "2026-07-29T03:03:49",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n导师带我和今年的实习生去参观了品川索尼总部\n\n首先是进行了 Sony Square 展览的参观，超级神秘超级隐蔽，展览的开始 literally 是一面墙从中间打开了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n展览从「表」面大家都知道的索尼产品历史和文化开始，比如 PS 系列、游戏、电影的各种物理道具、机器小狗，再讲到「里」面的各种以前从来没听说过但是超级厉害的技术和项目（可惜不能说） <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 213,
+    "views": 215,
     "forwards": 0,
     "media_group_id": 14282353832736349,
     "images": [
@@ -120273,7 +120273,7 @@
     "id": 9001,
     "date": "2026-07-29T03:13:49",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n那天还去参观了索尼的大崎办公室，有一个超炫酷的 maker space 叫 Bridge Terminal <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n大概是一个办公闲时可以去用 3d 打印机和电子元件自由创作、和有意思的人认识的空间... 好喜欢这里的氛围\n\n所以为什么我们研究部门不在这里呢？\n\n导师说 以前研究部门也在这里，但是索尼总部要从研究部门收办公室的租金，然后研究部门的人发现其他地方办公室租金比这里便宜太多所以就搬走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 216,
+    "views": 218,
     "forwards": 0,
     "media_group_id": 14282358632871341,
     "images": [
@@ -120383,13 +120383,13 @@
     "id": 9012,
     "date": "2026-07-29T05:44:03",
     "text": "我发现我用的 Windows Terminal、Tabby、Alacritty、Ghostty、WSL Kitty、MinGW 全都做不好 emoji 支持... 所有的命令行打多字符 emoji 都不会被正确作为一个字符处理\n\n有的显示为多个字符、有的光标会偏移五格、有的能正常显示但是按下退格键没法把它完整删掉... 做好 emoji 有这么难吗？\n\n（测试方法：打 👨‍👩‍👧‍👦 进去，看 1. 是否正常显示为一个字符、2. 光标是否在一个字符的位置、3. 按一下退格能不能把整个 emoji 删掉）",
-    "views": 260,
+    "views": 262,
     "forwards": 0
   },
   {
     "id": 9013,
     "date": "2026-07-29T17:21:26",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "images": [
       {
@@ -120408,7 +120408,7 @@
     "id": 9014,
     "date": "2026-07-30T01:59:51",
     "text": "蜻蜓！",
-    "views": 228,
+    "views": 230,
     "forwards": 0,
     "media_group_id": 14283014334605501,
     "images": [
@@ -120458,7 +120458,7 @@
     "id": 9019,
     "date": "2026-07-30T02:12:50",
     "text": "agent 对于日常折腾系统来说真的好厉害...\n\n我以前手动在 VMware 上装过 macOS，虽然不难但是踩了挺多坑花了挺多时间。今天我想在 PVE 上装 macOS，给了 agent 一个 prompt 它 18 分钟装好了...",
-    "views": 274,
+    "views": 275,
     "forwards": 1,
     "media_group_id": 14283020561469293,
     "images": [
@@ -120488,7 +120488,7 @@
     "id": 9021,
     "date": "2026-07-30T13:09:53",
     "text": "守护<del>月亮</del>顶灯的小猫",
-    "views": 245,
+    "views": 246,
     "forwards": 0,
     "media_group_id": 14283335949424437,
     "images": [
@@ -120528,7 +120528,7 @@
     "id": 9024,
     "date": "2026-07-30T23:29:06",
     "text": "哭哭 和中国朋友视频电话不需要绕墙的聊天平台又少了一个",
-    "views": 271,
+    "views": 272,
     "forwards": 3,
     "images": [
       {
@@ -120547,14 +120547,14 @@
     "id": 9025,
     "date": "2026-08-01T04:56:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"https://youtu.be/eTfEPt96JSM\">https://youtu.be/eTfEPt96JSM</a>",
-    "views": 230,
+    "views": 231,
     "forwards": 0
   },
   {
     "id": 9026,
     "date": "2026-08-01T05:35:00",
     "text": "想要像弹钢琴一样打字",
-    "views": 246,
+    "views": 247,
     "forwards": 1,
     "images": [
       {
@@ -120572,7 +120572,7 @@
   {
     "id": 9027,
     "date": "2026-08-01T18:22:42",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "images": [
       {
@@ -120591,7 +120591,7 @@
     "id": 9028,
     "date": "2026-08-01T19:51:58",
     "text": "咣当 猫睡掉下去了（不过依然是脚着地）",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "media_group_id": 14284911344643213,
     "images": [
@@ -120624,7 +120624,7 @@
     "id": 9030,
     "date": "2026-08-01T23:02:11",
     "text": "llm:",
-    "views": 229,
+    "views": 231,
     "forwards": 1,
     "reply": {
       "id": 9028,
@@ -120648,14 +120648,14 @@
     "id": 9031,
     "date": "2026-08-02T14:39:00",
     "text": "山药片是药片吗",
-    "views": 215,
+    "views": 216,
     "forwards": 1
   },
   {
     "id": 9032,
     "date": "2026-08-02T16:51:25",
     "text": "不长记性猫",
-    "views": 216,
+    "views": 217,
     "forwards": 0,
     "media_group_id": 14285515886791093,
     "images": [
@@ -120700,7 +120700,7 @@
     "id": 9035,
     "date": "2026-08-02T18:37:33",
     "text": "下线了 daisy，以 $40/TB 的价格把三块用来 raid0 的 SSD 卖给了朋友\n\n卖之前看了一下统计，总共通电时间快三年了居然只开机了 45 次，好震撼",
-    "views": 226,
+    "views": 227,
     "forwards": 0,
     "media_group_id": 14285566828082245,
     "images": [
@@ -120729,7 +120729,7 @@
   {
     "id": 9037,
     "date": "2026-08-03T00:32:03",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "files": [
       {
@@ -120751,7 +120751,7 @@
     "id": 9038,
     "date": "2026-08-03T04:40:55",
     "text": "好像我的频道变成猫猫频道了",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "media_group_id": 14285856446593373,
     "images": [
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 273,
+    "views": 275,
     "forwards": 3,
     "images": [
       {
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 273,
+    "views": 276,
     "forwards": 3,
     "reply": {
       "id": 4277,
@@ -120867,14 +120867,14 @@
     "id": 9046,
     "date": "2026-08-04T06:44:26",
     "text": "好累好累好累好累好累",
-    "views": 208,
+    "views": 209,
     "forwards": 1
   },
   {
     "id": 9047,
     "date": "2026-08-04T13:46:03",
     "text": "长到一半的蒲公英球球",
-    "views": 193,
+    "views": 196,
     "forwards": 2,
     "media_group_id": 14286809308349741,
     "images": [
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1176,
+    "views": 1181,
     "forwards": 12,
     "media_group_id": 14287044447772125,
     "images": [
@@ -120958,7 +120958,7 @@
     "id": 9053,
     "date": "2026-08-06T13:34:42",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的香菜已经可以吃了 qwq",
-    "views": 140,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 14288186258451333,
     "images": [
@@ -121068,7 +121068,7 @@
     "id": 9063,
     "date": "2026-08-07T02:28:42",
     "text": "好好笑\n\n今天试了一下 <a href=\"https://charm.land/\">charm.land</a> + K3，发现这个 harness 即使是在 YOLO 模式都不让 agent 用 ssh, sudo 之类的敏感命令，查了一下禁止这些似乎是代码里写死的，当前版本无解\n\n然后我：sh -c \"ssh ...\" 试试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n然后真的就这么简单成功绕过了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n没想到有生之年我会教 agent 怎样越狱一个 harness...",
-    "views": 154,
+    "views": 156,
     "forwards": 2,
     "media_group_id": 14288557776432349,
     "images": [
@@ -121098,7 +121098,7 @@
     "id": 9065,
     "date": "2026-08-07T16:10:51",
     "text": "我免费了",
-    "views": 96,
+    "views": 102,
     "forwards": 0,
     "reply": {
       "id": 9046,
@@ -121109,7 +121109,7 @@
     "id": 9066,
     "date": "2026-08-07T16:42:46",
     "text": "呜呜 小猫拍伤了一只蜻蜓",
-    "views": 74,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 14288967730956293,
     "images": [
@@ -121169,7 +121169,7 @@
     "id": 9071,
     "date": "2026-08-07T17:29:24",
     "text": "给蜻蜓喂了糖水，但是应该是没法恢复了...\n\n嘴上说想要让小猫学会出去抓老鼠，实际上抓了一只蜻蜓我都觉得可怜... 还是关在房间里吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 51,
+    "views": 67,
     "forwards": 0,
     "files": [
       {
