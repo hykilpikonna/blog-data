@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-08-07T01:44:55.817373+00:00</updated>
+  <updated>2026-08-07T03:18:03.012479+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>9063</id>
+    <title>小桂桂的回忆录 📒 #9063</title>
+    <updated>2026-08-07T02:28:42+00:00</updated>
+    <content>&lt;p&gt;好好笑&lt;/p&gt;
+&lt;p&gt;今天试了一下 &lt;a href="https://charm.land/"&gt;charm.land&lt;/a&gt; + K3，发现这个 harness 即使是在 YOLO 模式都不让 agent 用 ssh, sudo 之类的敏感命令，查了一下禁止这些似乎是代码里写死的，当前版本无解&lt;/p&gt;
+&lt;p&gt;然后我：sh -c "ssh ..." 试试 &lt;i class="custom-emoji" emoji-src="emoji/6323432491080222381.webp"&gt;🤪&lt;/i&gt;
+然后真的就这么简单成功绕过了 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;没想到有生之年我会教 agent 怎样越狱一个 harness...&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=9063" rel="alternate"/>
+  </entry>
   <entry>
     <id>9053</id>
     <title>小桂桂的回忆录 📒 #9053</title>
