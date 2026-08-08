@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6642,
+    "views": 6643,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -107246,7 +107246,7 @@
     "id": 8032,
     "date": "2026-03-15T22:45:28",
     "text": "站起来了！（好长！",
-    "views": 446,
+    "views": 447,
     "forwards": 2,
     "media_group_id": 14188917830126149,
     "files": [
@@ -107281,7 +107281,7 @@
     "id": 8034,
     "date": "2026-03-17T04:28:19",
     "text": "家里有一个闲置的 Wii 版吉他英雄的吉他，今天魔改了一下改成了 USB HID 设备，可以用它玩 Gitadora 了！\n\nWii 手柄的通信是 i2c，而且已经被逆向过了，所以直接焊上一个 ESP32 S2 Mini 然后调用别人的库<a href=\"https://github.com/MewoLab/Nunchuck2GF\">写一个 100 行的 HID 固件</a>就好啦 qwq",
-    "views": 391,
+    "views": 392,
     "forwards": 0,
     "media_group_id": 14189773592335341,
     "images": [
@@ -107331,7 +107331,7 @@
     "id": 8038,
     "date": "2026-03-17T07:34:22",
     "text": "（草）",
-    "views": 1206,
+    "views": 1207,
     "forwards": 4,
     "images": [
       {
@@ -107349,7 +107349,7 @@
   {
     "id": 8039,
     "date": "2026-03-18T05:47:25",
-    "views": 348,
+    "views": 349,
     "forwards": 0,
     "media_group_id": 14190502766583605,
     "images": [
@@ -107389,15 +107389,15 @@
     "id": 8042,
     "date": "2026-03-18T06:01:02",
     "text": "好累... 为什么每次我开坑想要做什么都会低估这件事需要的时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 346,
+    "views": 347,
     "forwards": 0
   },
   {
     "id": 8043,
     "date": "2026-03-18T15:27:16",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 多想要张开双手触及 宇宙的边缘\n♪ 却在合理与自由之间 给自己设边界\n♪ 若只身一人一再涉险 也到不了多远\n♪ 反复自我催眠\n♪ 平凡也算一种 和解\n\n每次被做不完的事情累到崩溃的时候都会去听这首歌，似乎对我来说已经是每年都会发生几次的事情了\n\n不知道为什么无论累倒多少次还依然不想放弃任何一件想做的事... <span class=\"spoiler\"><span>也许我实际上还不想接受自己的平凡，还不想变成无聊的大人吧</span></span>",
-    "views": 343,
-    "forwards": 1,
+    "views": 344,
+    "forwards": 2,
     "files": [
       {
         "duration": 246,
@@ -107418,7 +107418,7 @@
     "id": 8044,
     "date": "2026-03-19T05:34:11",
     "text": "配好 gitadora DM 了！好玩喵\n\n从二手店 $250 收了一套 td6 电子鼓，midi 接到电脑上，又收了一个显示器，设计了一个挂到天花板的挂钩，再把街机 hdd 和本地服务器跑起来，终于玩上 DM 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n马上就有可以吉他和鼓联动的完整 gitadora 配置了，虽然还有几个问题要解决...\n\n1. 现在没有第二台可以跑街机的电脑，所以没法同时跑 gf 和 dm... 打算在闲置的服务器上插两张显卡进行 pcie 穿透。2. 这个吊显示器方案会斜而且没办法矫正，想要重新设计。3. 现在选歌刷卡输密码要掏出物理大键盘，好麻烦\n\n明天再继续想怎么办好了，先睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 322,
+    "views": 323,
     "forwards": 3,
     "media_group_id": 14191187613811525,
     "images": [
@@ -107533,7 +107533,7 @@
     "id": 8054,
     "date": "2026-03-19T16:47:30",
     "text": "现在的软件啊... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 312,
+    "views": 313,
     "forwards": 4,
     "media_group_id": 14191510806460045,
     "images": [
@@ -107573,7 +107573,7 @@
     "id": 8057,
     "date": "2026-03-20T04:32:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> （可能不是今天）\n炸鸡皮！还有烤鸡皮！\n\n炸鸡皮是第一次做，味道很不错！不过总感觉鸡皮这种很油的东西用油炸有点不太对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n（虽然每次做鸡皮都会吐槽它真的很便宜，但是它真的很便宜，1kg $1 哇... 可惜不是每次去都有）",
-    "views": 293,
+    "views": 294,
     "forwards": 0,
     "media_group_id": 14191849317312709,
     "images": [
@@ -116670,7 +116670,7 @@
     "id": 8718,
     "date": "2026-06-22T08:38:21",
     "text": "Menci 给我的苹果手机作为备用机用了一年了，觉得唯一比安卓好用的地方就是需要逆向东西抓 HTTPS 的时候很方便 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n真的不懂为什么安卓想要信任一个假 root cert 这么麻烦...",
-    "views": 298,
+    "views": 299,
     "forwards": 2
   },
   {
@@ -116872,7 +116872,7 @@
   {
     "id": 8741,
     "date": "2026-06-24T17:26:27",
-    "views": 251,
+    "views": 252,
     "forwards": 1,
     "files": [
       {
@@ -116893,7 +116893,7 @@
     "id": 8742,
     "date": "2026-06-24T17:56:48",
     "text": "例常买裸板然后自己打印外壳 qwq\n\n外壳模型发布到这里了: <a href=\"https://www.thingiverse.com/thing:7374322\">https://www.thingiverse.com/thing:7374322</a>",
-    "views": 251,
+    "views": 252,
     "forwards": 2,
     "media_group_id": 14258590466825005,
     "images": [
@@ -117082,7 +117082,7 @@
     "id": 8757,
     "date": "2026-06-27T05:30:33",
     "text": "最近在做一个旅行计划网页的 Fork，添加了很多功能，比如自动计算出发到达时间、日历模式、公交导航、预估车票和高速费、避开收费高速的设置、基于出发时间和路况规划路线、营业时间提醒、自定义分类图标...\n\n原本是想慢慢合进上游的，但是可惜和原作者的想法不太符合所以开的 PR 被拒了，所以开始维护自己的 Fork 啦，大家想用的话<a href=\"https://github.com/hykilpikonna/TrekForge\">这里是源码</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 287,
+    "views": 288,
     "forwards": 6,
     "media_group_id": 14260305869391317,
     "images": [
@@ -119179,7 +119179,7 @@
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 379,
+    "views": 380,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -120547,7 +120547,7 @@
     "id": 9025,
     "date": "2026-08-01T04:56:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"https://youtu.be/eTfEPt96JSM\">https://youtu.be/eTfEPt96JSM</a>",
-    "views": 234,
+    "views": 235,
     "forwards": 0
   },
   {
@@ -120591,7 +120591,7 @@
     "id": 9028,
     "date": "2026-08-01T19:51:58",
     "text": "咣当 猫睡掉下去了（不过依然是脚着地）",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "media_group_id": 14284911344643213,
     "images": [
@@ -120751,7 +120751,7 @@
     "id": 9038,
     "date": "2026-08-03T04:40:55",
     "text": "好像我的频道变成猫猫频道了",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "media_group_id": 14285856446593373,
     "images": [
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 282,
+    "views": 284,
     "forwards": 3,
     "images": [
       {
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 288,
+    "views": 289,
     "forwards": 3,
     "reply": {
       "id": 4277,
@@ -120874,7 +120874,7 @@
     "id": 9047,
     "date": "2026-08-04T13:46:03",
     "text": "长到一半的蒲公英球球",
-    "views": 207,
+    "views": 208,
     "forwards": 2,
     "media_group_id": 14286809308349741,
     "images": [
@@ -120904,8 +120904,8 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1200,
-    "forwards": 12,
+    "views": 1209,
+    "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
       {
@@ -120958,7 +120958,7 @@
     "id": 9053,
     "date": "2026-08-06T13:34:42",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的香菜已经可以吃了 qwq",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 14288186258451333,
     "images": [
@@ -121068,7 +121068,7 @@
     "id": 9063,
     "date": "2026-08-07T02:28:42",
     "text": "好好笑\n\n今天试了一下 <a href=\"https://charm.land/\">charm.land</a> + K3，发现这个 harness 即使是在 YOLO 模式都不让 agent 用 ssh, sudo 之类的敏感命令，查了一下禁止这些似乎是代码里写死的，当前版本无解\n\n然后我：sh -c \"ssh ...\" 试试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n然后真的就这么简单成功绕过了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n没想到有生之年我会教 agent 怎样越狱一个 harness...",
-    "views": 172,
+    "views": 173,
     "forwards": 2,
     "media_group_id": 14288557776432349,
     "images": [
@@ -121098,7 +121098,7 @@
     "id": 9065,
     "date": "2026-08-07T16:10:51",
     "text": "我免费了",
-    "views": 143,
+    "views": 146,
     "forwards": 0,
     "reply": {
       "id": 9046,
@@ -121109,7 +121109,7 @@
     "id": 9066,
     "date": "2026-08-07T16:42:46",
     "text": "呜呜 小猫拍伤了一只蜻蜓",
-    "views": 135,
+    "views": 140,
     "forwards": 0,
     "media_group_id": 14288967730956293,
     "images": [
@@ -121169,7 +121169,7 @@
     "id": 9071,
     "date": "2026-08-07T17:29:24",
     "text": "给蜻蜓喂了糖水，但是应该是没法恢复了...\n\n嘴上说想要让小猫学会出去抓老鼠，实际上抓了一只蜻蜓我都觉得可怜... 还是关在房间里吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 131,
+    "views": 139,
     "forwards": 0,
     "files": [
       {
@@ -121191,7 +121191,7 @@
     "id": 9072,
     "date": "2026-08-08T00:05:45",
     "text": "JetBrains 太良心了\n\n虽然是订阅制，但是只要订阅满足 12 个月就可以终身免费用订阅日期之内发布的旧版本和下一个版本，所以完全可以当作「终身购买软件」\n\n而且第一年之后还会越来越便宜，本质上是升级包。而且学生和开源开发者还可以领免费许可证...\n\n没想到 2026 年还有这么良心的订阅制软件 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 101,
+    "views": 120,
     "forwards": 0,
     "images": [
       {
