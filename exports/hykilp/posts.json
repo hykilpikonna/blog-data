@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6645,
+    "views": 6646,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -114144,7 +114144,7 @@
   {
     "id": 8529,
     "date": "2026-05-31T02:30:20",
-    "views": 305,
+    "views": 306,
     "forwards": 0,
     "media_group_id": 14241556967483709,
     "images": [
@@ -114174,7 +114174,7 @@
     "id": 8531,
     "date": "2026-05-31T04:33:22",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n收到了第一张日本的银行卡，是谦谦帮忙带我办的 SMBC 卡，因为需要本人当面签收所以上午请假了\n\n不过因为 SMBC 的信用卡申请被拒了，之后又申请了一张 PayPay 的信用卡\n\n现在离开日本了，在留卡过期的时候 PayPay 的信用卡也被禁用了，但是这个 SMBC 的账号依然没有被影响，不知道是为什么呢\n\n以及觉得日本卡有很多北美没有的功能很好用！比如说卡上没有印卡的信息、以及一张卡可以切换信用卡/储蓄卡模式之类的",
-    "views": 332,
+    "views": 333,
     "forwards": 2,
     "reply": {
       "id": 5438,
@@ -114196,7 +114196,7 @@
   {
     "id": 8532,
     "date": "2026-05-31T17:20:27",
-    "views": 290,
+    "views": 291,
     "forwards": 3,
     "images": [
       {
@@ -114215,7 +114215,7 @@
     "id": 8533,
     "date": "2026-06-01T16:03:58",
     "text": "孵出来了！",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "forwarded_from": {
       "name": "新叶喵的话"
@@ -114237,7 +114237,7 @@
     "id": 8534,
     "date": "2026-06-01T16:12:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 278,
+    "views": 279,
     "forwards": 0,
     "files": [
       {
@@ -114259,7 +114259,7 @@
     "id": 8535,
     "date": "2026-06-01T20:19:10",
     "text": "小鸟：（没有声音的怒吼）\n\n（被当成鸟妈妈了）",
-    "views": 279,
+    "views": 280,
     "forwards": 0,
     "reply": {
       "id": 8533,
@@ -114283,7 +114283,7 @@
   {
     "id": 8536,
     "date": "2026-06-02T13:30:55",
-    "views": 260,
+    "views": 261,
     "forwards": 2,
     "media_group_id": 14243256444430101,
     "images": [
@@ -114317,7 +114317,7 @@
     "id": 8538,
     "date": "2026-06-02T13:54:54",
     "text": "长颈猫",
-    "views": 246,
+    "views": 247,
     "forwards": 1,
     "media_group_id": 14243267957553661,
     "images": [
@@ -115364,7 +115364,7 @@
     "id": 8616,
     "date": "2026-06-11T23:26:02",
     "text": "还在想 PowerToys 会不会终于要到 v1 了",
-    "views": 787,
+    "views": 788,
     "forwards": 4,
     "images": [
       {
@@ -119179,7 +119179,7 @@
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 390,
+    "views": 392,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 313,
+    "views": 314,
     "forwards": 3,
     "images": [
       {
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1277,
+    "views": 1280,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -121210,7 +121210,7 @@
     "id": 9073,
     "date": "2026-08-08T08:07:44",
     "text": "之前玩的维修店模拟器 ReStory 今天正式发布了！好好玩，而且正式版设备和零件的模型比 demo 精细很多哇\n\n然后边玩边写了一个 QoL mod <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 目前有无限金币、高亮需要的零件、自动商店搜索、跳过启动 ppt 的功能，以及修了游戏原本保存存档会卡 20 秒的 bug\n\n<del>因为是 unity mono 游戏，之前给 maimai 写 mod 的经验派上用场了</del>\n\nmod 在这里： <a href=\"https://github.com/hykilpikonna/RestoryQOL\">github</a> | <a href=\"https://www.nexusmods.com/restorychillelectronicrepairs/mods/5\">nexus</a>",
-    "views": 197,
+    "views": 199,
     "forwards": 4,
     "media_group_id": 14289411718441077,
     "images": [
@@ -121255,14 +121255,14 @@
     "id": 9076,
     "date": "2026-08-08T15:52:27",
     "text": "发现我家小猫是久坐提醒器 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n只要在电脑前坐久了它就会跳上桌钻到显示器后面扒拉键盘，然后我就需要起来走走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 168,
+    "views": 170,
     "forwards": 0
   },
   {
     "id": 9077,
     "date": "2026-08-09T00:50:12",
     "text": "添加了更多功能\n\n<span class=\"spoiler\"><span>结果原本终于放假了想休息玩玩游戏的又变成在工作了，好累好累</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 153,
+    "views": 155,
     "forwards": 1,
     "reply": {
       "id": 9073,
@@ -121286,7 +121286,7 @@
     "id": 9078,
     "date": "2026-08-09T02:46:20",
     "text": "对比了一下 美国州旗 加拿大省旗 日本都道府県旗 东京区旗 <del>中国省旗和港澳国旗</del>\n\n如果从每张图里选出一两张最喜欢的话：\n\n加拿大一定是 Quebec，纯粹靠同行衬托 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 虽然 Nunavut 也挺独特的，其他都太复杂了\n\n美国也许是 Maryland，查了一下这个黄黑色图案居然是 ~1600 年 George Calvert 的盾牌纹章... 感觉异常现代，不说还以为是昨天设计的。另一个喜欢的是 Alaska，虽然没有特别好看但是就，把北斗七星和北极星放上去表达阿拉斯加真的信达雅\n\n日本都道府县的话，感觉比起旗子更像公司 logo，而且我觉得都没有很好捕捉到各都道府县的 identity... 只是视觉上比较喜欢的可能是宫城县和爱知县吧\n\n东京区旗感觉图形设计反而比都道府县好看，我最喜欢的应该是品川和渋谷 qwq\n\n中国省旗就....... 全部淘汰 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 香港完胜",
-    "views": 143,
+    "views": 146,
     "forwards": 2,
     "media_group_id": 14289948643673645,
     "images": [
@@ -121346,7 +121346,7 @@
     "id": 9083,
     "date": "2026-08-10T01:56:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤鸡腿！",
-    "views": 77,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 14290615884808045,
     "images": [
@@ -121395,7 +121395,7 @@
   {
     "id": 9088,
     "date": "2026-08-10T01:57:38",
-    "views": 79,
+    "views": 91,
     "forwards": 1,
     "images": [
       {
