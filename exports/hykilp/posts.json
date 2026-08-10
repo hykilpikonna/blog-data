@@ -63541,7 +63541,7 @@
     "id": 4635,
     "date": "2024-11-08T06:20:26",
     "text": "发现有人做了 <a href=\"https://github.com/ouch-org/ouch\">ouch</a>，是一个跨格式压缩工具，有了它就不再需要记每个压缩格式的指令怎么用了 qwq",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "reply": {
       "id": 4632,
@@ -63553,7 +63553,7 @@
     "id": 4636,
     "date": "2024-11-08T08:25:31",
     "text": "今天想要在新的环境里复制 cookie 的时候发现 EditThisCookie 插件也在 chrome store 下架了...\n\n之前是 Get Cookies.txt 插件因为有病毒下架，这次是 ETC，但是不知道是为什么。ETC 是纯 js 写的，GitHub 上也有<a href=\"https://github.com/ETCExtensions/Edit-This-Cookie\">很久没人维护的源码</a>，看一眼发现我旧系统上安装的 1.6.3 版本似乎比开源的 1.5.0 新。Diff 一下发现也并没有改什么东西，似乎只是重构了一下 i18n，加了一个万圣节彩蛋... 不懂为什么下架了\n\n然后找了一下 chrome store 上有没有别的平替，发现有一个叫 EditThisCookie<b>s</b> 的插件看上去是一样的，下载下来看一眼发现这个插件的代码混淆了，而且会给奇怪的 URL 发请求... 明明就是木马吧\n\n唉 看来还是要从 Github 源码安装。感觉越来越不敢信任浏览器插件了，这种一般没人会仔细研究、还没法关掉自动更新的东西真的感觉到处都是后门...",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "media_group_id": 13848434648552213,
     "images": [
@@ -63665,7 +63665,7 @@
     "id": 4645,
     "date": "2024-11-11T20:20:14",
     "text": "支持一下 typst\n\n<del>为什么 Overleaf $8/mo 就觉得好贵还是自搭吧，typst $8/mo 反而觉得很情愿，明明都是开源软件</del> 可能是因为 typst 这边真的在 actively 加新功能",
-    "views": 164,
+    "views": 165,
     "forwards": 0,
     "reply": {
       "id": 4640,
@@ -63688,7 +63688,7 @@
     "id": 4646,
     "date": "2024-11-13T09:05:08",
     "text": "<em>Civil Disobedience</em>",
-    "views": 243,
+    "views": 244,
     "forwards": 1,
     "images": [
       {
@@ -116330,7 +116330,7 @@
     "id": 8689,
     "date": "2026-06-20T16:34:44",
     "text": "<a href=\"##猫片\">#猫片</a>\n拍到小猫在草鲨鲨 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 262,
+    "views": 263,
     "forwards": 5,
     "files": [
       {
@@ -116351,7 +116351,7 @@
     "id": 8690,
     "date": "2026-06-20T22:05:07",
     "text": "去 Jazz Fest 看了酷儿乐队 Trash Panda Brass 的演出！演出超级不错！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n去前排拍了很多好看照片 qwq",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "media_group_id": 14255944861810333,
     "images": [
@@ -119618,7 +119618,7 @@
   {
     "id": 8952,
     "date": "2026-07-24T17:09:47",
-    "views": 241,
+    "views": 242,
     "forwards": 1,
     "media_group_id": 14279303903058349,
     "images": [
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 320,
+    "views": 321,
     "forwards": 3,
     "reply": {
       "id": 4277,
@@ -120958,7 +120958,7 @@
     "id": 9053,
     "date": "2026-08-06T13:34:42",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的香菜已经可以吃了 qwq",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "media_group_id": 14288186258451333,
     "images": [
@@ -121068,7 +121068,7 @@
     "id": 9063,
     "date": "2026-08-07T02:28:42",
     "text": "好好笑\n\n今天试了一下 <a href=\"https://charm.land/\">charm.land</a> + K3，发现这个 harness 即使是在 YOLO 模式都不让 agent 用 ssh, sudo 之类的敏感命令，查了一下禁止这些似乎是代码里写死的，当前版本无解\n\n然后我：sh -c \"ssh ...\" 试试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n然后真的就这么简单成功绕过了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n没想到有生之年我会教 agent 怎样越狱一个 harness...",
-    "views": 209,
+    "views": 212,
     "forwards": 2,
     "media_group_id": 14288557776432349,
     "images": [
@@ -121210,7 +121210,7 @@
     "id": 9073,
     "date": "2026-08-08T08:07:44",
     "text": "之前玩的维修店模拟器 ReStory 今天正式发布了！好好玩，而且正式版设备和零件的模型比 demo 精细很多哇\n\n然后边玩边写了一个 QoL mod <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 目前有无限金币、高亮需要的零件、自动商店搜索、跳过启动 ppt 的功能，以及修了游戏原本保存存档会卡 20 秒的 bug\n\n<del>因为是 unity mono 游戏，之前给 maimai 写 mod 的经验派上用场了</del>\n\nmod 在这里： <a href=\"https://github.com/hykilpikonna/RestoryQOL\">github</a> | <a href=\"https://www.nexusmods.com/restorychillelectronicrepairs/mods/5\">nexus</a>",
-    "views": 201,
+    "views": 202,
     "forwards": 4,
     "media_group_id": 14289411718441077,
     "images": [
@@ -121255,14 +121255,14 @@
     "id": 9076,
     "date": "2026-08-08T15:52:27",
     "text": "发现我家小猫是久坐提醒器 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n只要在电脑前坐久了它就会跳上桌钻到显示器后面扒拉键盘，然后我就需要起来走走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 173,
+    "views": 176,
     "forwards": 0
   },
   {
     "id": 9077,
     "date": "2026-08-09T00:50:12",
     "text": "添加了更多功能\n\n<span class=\"spoiler\"><span>结果原本终于放假了想休息玩玩游戏的又变成在工作了，好累好累</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 161,
+    "views": 164,
     "forwards": 1,
     "reply": {
       "id": 9073,
@@ -121286,7 +121286,7 @@
     "id": 9078,
     "date": "2026-08-09T02:46:20",
     "text": "对比了一下 美国州旗 加拿大省旗 日本都道府県旗 东京区旗 <del>中国省旗和港澳国旗</del>\n\n如果从每张图里选出一两张最喜欢的话：\n\n加拿大一定是 Quebec，纯粹靠同行衬托 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 虽然 Nunavut 也挺独特的，其他都太复杂了\n\n美国也许是 Maryland，查了一下这个黄黑色图案居然是 ~1600 年 George Calvert 的盾牌纹章... 感觉异常现代，不说还以为是昨天设计的。另一个喜欢的是 Alaska，虽然没有特别好看但是就，把北斗七星和北极星放上去表达阿拉斯加真的信达雅\n\n日本都道府县的话，感觉比起旗子更像公司 logo，而且我觉得都没有很好捕捉到各都道府县的 identity... 只是视觉上比较喜欢的可能是宫城县和爱知县吧\n\n东京区旗感觉图形设计反而比都道府县好看，我最喜欢的应该是品川和渋谷 qwq\n\n中国省旗就....... 全部淘汰 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 香港完胜",
-    "views": 151,
+    "views": 154,
     "forwards": 2,
     "media_group_id": 14289948643673645,
     "images": [
@@ -121346,7 +121346,7 @@
     "id": 9083,
     "date": "2026-08-10T01:56:25",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n烤鸡腿！",
-    "views": 101,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 14290615884808045,
     "images": [
@@ -121395,7 +121395,7 @@
   {
     "id": 9088,
     "date": "2026-08-10T01:57:38",
-    "views": 107,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
@@ -121407,6 +121407,25 @@
         "url": "media/9088.jpg",
         "size": 588430,
         "thumb": "media/9088.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9089,
+    "date": "2026-08-10T10:21:01",
+    "text": "99.5% 手续费 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
+    "views": 39,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 2142,
+        "height": 2560,
+        "date": "2026-08-10T10:21:00",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-10_10-21-00.jpg",
+        "url": "media/9089.jpg",
+        "size": 142238,
+        "thumb": "media/9089.jpg_thumb.jpg"
       }
     ]
   }
