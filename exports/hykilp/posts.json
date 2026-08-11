@@ -97441,7 +97441,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 609,
+    "views": 610,
     "forwards": 13
   },
   {
@@ -113203,7 +113203,7 @@
     "id": 8461,
     "date": "2026-05-22T16:37:57",
     "text": "蒲公英季节",
-    "views": 273,
+    "views": 274,
     "forwards": 3,
     "media_group_id": 14235743019594813,
     "images": [
@@ -116670,21 +116670,21 @@
     "id": 8718,
     "date": "2026-06-22T08:38:21",
     "text": "Menci 给我的苹果手机作为备用机用了一年了，觉得唯一比安卓好用的地方就是需要逆向东西抓 HTTPS 的时候很方便 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n真的不懂为什么安卓想要信任一个假 root cert 这么麻烦...",
-    "views": 299,
+    "views": 300,
     "forwards": 2
   },
   {
     "id": 8719,
     "date": "2026-06-22T19:46:52",
     "text": "steam machine 发布了所以看了一下评测\n\n居然真的认真做风扇做到了几乎静音... valve 真好呀，会在这种没法体现在纸面性能上的地方用心\n\n可惜国产小盒子没有这样的用心，我每天听我的两个小盒子的小风扇的高频尖叫我要疯掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 306,
+    "views": 307,
     "forwards": 1
   },
   {
     "id": 8720,
     "date": "2026-06-22T23:45:17",
     "text": "两个月前撒的猫草种子已经长得比猫高并且开花了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 291,
+    "views": 292,
     "forwards": 2,
     "reply": {
       "id": 8332,
@@ -116872,7 +116872,7 @@
   {
     "id": 8741,
     "date": "2026-06-24T17:26:27",
-    "views": 252,
+    "views": 253,
     "forwards": 1,
     "files": [
       {
@@ -116893,7 +116893,7 @@
     "id": 8742,
     "date": "2026-06-24T17:56:48",
     "text": "例常买裸板然后自己打印外壳 qwq\n\n外壳模型发布到这里了: <a href=\"https://www.thingiverse.com/thing:7374322\">https://www.thingiverse.com/thing:7374322</a>",
-    "views": 252,
+    "views": 253,
     "forwards": 2,
     "media_group_id": 14258590466825005,
     "images": [
@@ -120528,7 +120528,7 @@
     "id": 9024,
     "date": "2026-07-30T23:29:06",
     "text": "哭哭 和中国朋友视频电话不需要绕墙的聊天平台又少了一个",
-    "views": 286,
+    "views": 287,
     "forwards": 3,
     "images": [
       {
@@ -120547,14 +120547,14 @@
     "id": 9025,
     "date": "2026-08-01T04:56:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"https://youtu.be/eTfEPt96JSM\">https://youtu.be/eTfEPt96JSM</a>",
-    "views": 246,
+    "views": 247,
     "forwards": 0
   },
   {
     "id": 9026,
     "date": "2026-08-01T05:35:00",
     "text": "想要像弹钢琴一样打字",
-    "views": 267,
+    "views": 268,
     "forwards": 1,
     "images": [
       {
@@ -120572,7 +120572,7 @@
   {
     "id": 9027,
     "date": "2026-08-01T18:22:42",
-    "views": 243,
+    "views": 244,
     "forwards": 1,
     "images": [
       {
@@ -120591,7 +120591,7 @@
     "id": 9028,
     "date": "2026-08-01T19:51:58",
     "text": "咣当 猫睡掉下去了（不过依然是脚着地）",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "media_group_id": 14284911344643213,
     "images": [
@@ -120624,7 +120624,7 @@
     "id": 9030,
     "date": "2026-08-01T23:02:11",
     "text": "llm:",
-    "views": 250,
+    "views": 251,
     "forwards": 1,
     "reply": {
       "id": 9028,
@@ -120648,14 +120648,14 @@
     "id": 9031,
     "date": "2026-08-02T14:39:00",
     "text": "山药片是药片吗",
-    "views": 235,
+    "views": 236,
     "forwards": 1
   },
   {
     "id": 9032,
     "date": "2026-08-02T16:51:25",
     "text": "不长记性猫",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "media_group_id": 14285515886791093,
     "images": [
@@ -120700,7 +120700,7 @@
     "id": 9035,
     "date": "2026-08-02T18:37:33",
     "text": "下线了 daisy，以 $40/TB 的价格把三块用来 raid0 的 SSD 卖给了朋友\n\n卖之前看了一下统计，总共通电时间快三年了居然只开机了 45 次，好震撼",
-    "views": 245,
+    "views": 246,
     "forwards": 0,
     "media_group_id": 14285566828082245,
     "images": [
@@ -120729,7 +120729,7 @@
   {
     "id": 9037,
     "date": "2026-08-03T00:32:03",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "files": [
       {
@@ -120751,7 +120751,7 @@
     "id": 9038,
     "date": "2026-08-03T04:40:55",
     "text": "好像我的频道变成猫猫频道了",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "media_group_id": 14285856446593373,
     "images": [
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 322,
+    "views": 323,
     "forwards": 3,
     "images": [
       {
@@ -120830,7 +120830,7 @@
     "id": 9044,
     "date": "2026-08-04T00:38:16",
     "text": "有人猜出来了所以揭晓答案了\n\n这张图的意思是 <span class=\"spoiler\"><span>LGBTQIA</span></span>\n\n<span class=\"spoiler\"><span>从左到右\n1. IGBT (<b>I</b>nsulated <b>G</b>ate <b>B</b>ipolar <b>T</b>ransistor)\n2. 三极管，标准位号是 Q\n3. 电感，标准位号是 L\n4. 安培计，A = Ammeter\n\n所以是 IGBTQLA = LGBTQIA</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 工程师黑话",
-    "views": 257,
+    "views": 258,
     "forwards": 1,
     "reply": {
       "id": 9043,
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 327,
+    "views": 328,
     "forwards": 3,
     "reply": {
       "id": 4277,
@@ -120867,14 +120867,14 @@
     "id": 9046,
     "date": "2026-08-04T06:44:26",
     "text": "好累好累好累好累好累",
-    "views": 246,
+    "views": 247,
     "forwards": 1
   },
   {
     "id": 9047,
     "date": "2026-08-04T13:46:03",
     "text": "长到一半的蒲公英球球",
-    "views": 240,
+    "views": 241,
     "forwards": 2,
     "media_group_id": 14286809308349741,
     "images": [
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1313,
+    "views": 1316,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -120958,7 +120958,7 @@
     "id": 9053,
     "date": "2026-08-06T13:34:42",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n种的香菜已经可以吃了 qwq",
-    "views": 204,
+    "views": 205,
     "forwards": 0,
     "media_group_id": 14288186258451333,
     "images": [
@@ -121068,7 +121068,7 @@
     "id": 9063,
     "date": "2026-08-07T02:28:42",
     "text": "好好笑\n\n今天试了一下 <a href=\"https://charm.land/\">charm.land</a> + K3，发现这个 harness 即使是在 YOLO 模式都不让 agent 用 ssh, sudo 之类的敏感命令，查了一下禁止这些似乎是代码里写死的，当前版本无解\n\n然后我：sh -c \"ssh ...\" 试试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n然后真的就这么简单成功绕过了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n没想到有生之年我会教 agent 怎样越狱一个 harness...",
-    "views": 235,
+    "views": 236,
     "forwards": 2,
     "media_group_id": 14288557776432349,
     "images": [
@@ -121169,7 +121169,7 @@
     "id": 9071,
     "date": "2026-08-07T17:29:24",
     "text": "给蜻蜓喂了糖水，但是应该是没法恢复了...\n\n嘴上说想要让小猫学会出去抓老鼠，实际上抓了一只蜻蜓我都觉得可怜... 还是关在房间里吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 0,
     "files": [
       {
@@ -121191,7 +121191,7 @@
     "id": 9072,
     "date": "2026-08-08T00:05:45",
     "text": "JetBrains 太良心了\n\n虽然是订阅制，但是只要订阅满足 12 个月就可以终身免费用订阅日期之内发布的旧版本和下一个版本，所以完全可以当作「终身购买软件」\n\n而且第一年之后还会越来越便宜，本质上是升级包。而且学生和开源开发者还可以领免费许可证...\n\n没想到 2026 年还有这么良心的订阅制软件 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "images": [
       {
@@ -121210,7 +121210,7 @@
     "id": 9073,
     "date": "2026-08-08T08:07:44",
     "text": "之前玩的维修店模拟器 ReStory 今天正式发布了！好好玩，而且正式版设备和零件的模型比 demo 精细很多哇\n\n然后边玩边写了一个 QoL mod <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 目前有无限金币、高亮需要的零件、自动商店搜索、跳过启动 ppt 的功能，以及修了游戏原本保存存档会卡 20 秒的 bug\n\n<del>因为是 unity mono 游戏，之前给 maimai 写 mod 的经验派上用场了</del>\n\nmod 在这里： <a href=\"https://github.com/hykilpikonna/RestoryQOL\">github</a> | <a href=\"https://www.nexusmods.com/restorychillelectronicrepairs/mods/5\">nexus</a>",
-    "views": 222,
+    "views": 223,
     "forwards": 4,
     "media_group_id": 14289411718441077,
     "images": [
@@ -121511,7 +121511,7 @@
     "id": 9095,
     "date": "2026-08-10T20:02:50",
     "text": "怒 <i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i> 以后不在淘宝买元件了\n\n买元件的时候觉得 LCSC ¥2 的东西淘宝只要 ¥0.4 肯定是从淘宝买，结果...\n\n今天收到了发现卖家完全散装发过来的，把外观/物理规格相同的两种不同元件放在同一个袋子里还不打标签，还少发了一种，少的元件直接导致项目没法继续... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n现在我的选择有：\nMouser：$1.6 + $20 运费，等 2~3d\nLCSC：$1.6 + $10.9 运费，等 7~15d\n淘宝：$0.3 + $15.6 运费，等 8~15d\n\n为了省 $1 结果现在要多花 $12.5 并且多等两周了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 151,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14291137361282789,
     "images": [
@@ -121541,7 +121541,7 @@
     "id": 9097,
     "date": "2026-08-11T01:08:01",
     "text": "看了 CGP Grey 的这个说人类在未来会被替代的视频。看着看着感觉不对，看了一眼发布日期，居然是 11 年前...\n\n<a href=\"https://youtu.be/7Pq-S557XQU\">https://youtu.be/7Pq-S557XQU</a>",
-    "views": 147,
+    "views": 151,
     "forwards": 1
   }
 ]
