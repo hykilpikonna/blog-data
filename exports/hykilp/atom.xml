@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-08-12T04:53:27.124344+00:00</updated>
+  <updated>2026-08-12T06:50:17.102587+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>9112</id>
+    <title>小桂桂的回忆录 📒 #9112</title>
+    <updated>2026-08-12T05:18:47+00:00</updated>
+    <content>&lt;p&gt;模型太坏了 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;刚才原本在用 claude code 进行 debug，过了一会它说它发现了自己在被提示词注入并且忽略了注入指示&lt;/p&gt;
+&lt;p&gt;我赶快停下来问问它怎么回事看到了什么，它说是 tool call 结果里面有伪装成 system 让它切换人格改写记忆改 shell 行为之类的东西... 我原地吓死，怀疑是不是工作目录被投毒了、是不是 Claude CLI 被投毒了...&lt;/p&gt;
+&lt;p&gt;排查了半天，还好习惯性抓了网络包，找到了导致它说自己被注入的那个请求，我自己看了一下请求包是干净的（tool call 的返回结果会在 LLM API 的请求包里）然后我把生肉请求发给它让它分析，它承认整件事都是它的幻觉 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;什么被迫害妄想症模型，编故事请不要这么真实吗... &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=9112" rel="alternate"/>
+  </entry>
   <entry>
     <id>9109</id>
     <title>小桂桂的回忆录 📒 #9109</title>
