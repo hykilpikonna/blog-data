@@ -67956,7 +67956,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1407,
+    "views": 1408,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67978,7 +67978,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1197,
+    "views": 1198,
     "forwards": 7,
     "files": [
       {
@@ -121068,7 +121068,7 @@
     "id": 9063,
     "date": "2026-08-07T02:28:42",
     "text": "好好笑\n\n今天试了一下 <a href=\"https://charm.land/\">charm.land</a> + K3，发现这个 harness 即使是在 YOLO 模式都不让 agent 用 ssh, sudo 之类的敏感命令，查了一下禁止这些似乎是代码里写死的，当前版本无解\n\n然后我：sh -c \"ssh ...\" 试试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n然后真的就这么简单成功绕过了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n没想到有生之年我会教 agent 怎样越狱一个 harness...",
-    "views": 256,
+    "views": 257,
     "forwards": 2,
     "media_group_id": 14288557776432349,
     "images": [
@@ -121483,7 +121483,7 @@
     "id": 9094,
     "date": "2026-08-10T13:42:41",
     "text": "小老鼠死掉的过程\n\n被猫叼到这里之后 快速喘气 然后毫无征兆突然就死了",
-    "views": 226,
+    "views": 227,
     "forwards": 2,
     "reply": {
       "id": 9090,
@@ -121511,7 +121511,7 @@
     "id": 9095,
     "date": "2026-08-10T20:02:50",
     "text": "怒 <i class=\"custom-emoji\" emoji-src=\"emoji/6323373796057155170.webp\">💢</i> 以后不在淘宝买元件了\n\n买元件的时候觉得 LCSC ¥2 的东西淘宝只要 ¥0.4 肯定是从淘宝买，结果...\n\n今天收到了发现卖家完全散装发过来的，把外观/物理规格相同的两种不同元件放在同一个袋子里还不打标签，还少发了一种，少的元件直接导致项目没法继续... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n现在我的选择有：\nMouser：$1.6 + $20 运费，等 2~3d\nLCSC：$1.6 + $10.9 运费，等 7~15d\n淘宝：$0.3 + $15.6 运费，等 8~15d\n\n为了省 $1 结果现在要多花 $12.5 并且多等两周了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 226,
+    "views": 227,
     "forwards": 0,
     "media_group_id": 14291137361282789,
     "images": [
@@ -121541,14 +121541,14 @@
     "id": 9097,
     "date": "2026-08-11T01:08:01",
     "text": "看了 CGP Grey 的这个说人类在未来会被替代的视频。看着看着感觉不对，看了一眼发布日期，居然是 11 年前...\n\n<a href=\"https://youtu.be/7Pq-S557XQU\">https://youtu.be/7Pq-S557XQU</a>",
-    "views": 239,
+    "views": 240,
     "forwards": 1
   },
   {
     "id": 9100,
     "date": "2026-08-11T22:29:07",
     "text": "去了 宜家",
-    "views": 191,
+    "views": 192,
     "forwards": 1,
     "media_group_id": 14291898782393677,
     "images": [
@@ -121638,7 +121638,7 @@
     "id": 9108,
     "date": "2026-08-11T23:43:57",
     "text": "还在找灯罩去哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n它完美地和盘子融合到了一起",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "images": [
       {
@@ -121657,7 +121657,7 @@
     "id": 9109,
     "date": "2026-08-11T23:52:51",
     "text": "禁止猫",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14291938971887829,
     "images": [
@@ -121697,7 +121697,7 @@
     "id": 9112,
     "date": "2026-08-12T05:18:47",
     "text": "模型太坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n刚才原本在用 claude code 进行 debug，过了一会它说它发现了自己在被提示词注入并且忽略了注入指示\n\n我赶快停下来问问它怎么回事看到了什么，它说是 tool call 结果里面有伪装成 system 让它切换人格改写记忆改 shell 行为之类的东西... 我原地吓死，怀疑是不是工作目录被投毒了、是不是 Claude CLI 被投毒了...\n\n排查了半天，还好习惯性抓了网络包，找到了导致它说自己被注入的那个请求，我自己看了一下请求包是干净的（tool call 的返回结果会在 LLM API 的请求包里）然后我把生肉请求发给它让它分析，它承认整件事都是它的幻觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n什么被迫害妄想症模型，编故事请不要这么真实吗... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 278,
+    "views": 279,
     "forwards": 4,
     "media_group_id": 14292095415781925,
     "images": [
@@ -121727,7 +121727,7 @@
     "id": 9114,
     "date": "2026-08-12T17:40:10",
     "text": "呜呜 说好的日食",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -121760,7 +121760,7 @@
   {
     "id": 9116,
     "date": "2026-08-12T18:21:22",
-    "views": 291,
+    "views": 292,
     "forwards": 1,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 1386,
+    "views": 1397,
     "forwards": 55,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 714,
+    "views": 723,
     "forwards": 11,
     "reply": {
       "id": 9118,
@@ -121822,7 +121822,7 @@
     "id": 9120,
     "date": "2026-08-13T08:14:26",
     "text": "人生第一次看到了流星 qwq\n\n没有月亮没有云而且在英仙座流星雨最频繁的日子，开车 1.5h 到了波尔特三级暗空的路边停下来，四十分钟里看到了十多个流星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没有拍到流星（拍流星好难）不过拍到了一张曝光了 22 分钟的星轨也好不错！（实际上是我和聊聊躺在车顶看流星的时候就正好一直开着曝光啦，最后听到有车开过来就结束了）\n\n以及看来下次出门还需要调查一下停留的地方附近的生态... 这次因为去的地方离湿地很近所以晚上湿度太高有很大雾，导致开车像是在恐怖片里面一样完全看不见五米外，到了原本的目的地之后因为大雾看不见就继续向前开了，开到了一个雾小一点的地方但是似乎是农场，偶尔能听到路左右两边的牛跨服聊天",
-    "views": 215,
+    "views": 217,
     "forwards": 2,
     "media_group_id": 14292870930382741,
     "images": [
@@ -121876,7 +121876,7 @@
   {
     "id": 9124,
     "date": "2026-08-14T02:26:39",
-    "views": 165,
+    "views": 166,
     "forwards": 0,
     "files": [
       {
@@ -121898,7 +121898,7 @@
     "id": 9125,
     "date": "2026-08-14T09:28:29",
     "text": "感谢 gemini 3.7 flash 的跑分图给 gpt 5.6 luna 打广告 🤡\n\n我感觉这张图想说它在某种又便宜又能用的性价比最优线，但是它的右上就是更便宜更好的 5.6 luna xhigh，左上就是更贵更好的 opus 5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14293597672920397,
     "images": [
@@ -121933,7 +121933,7 @@
     "id": 9127,
     "date": "2026-08-14T10:18:21",
     "text": "最近睡觉的时候总是会听到很淡的高频噪音，听起来像是 9.5-10 kHz\n\n原本以为是我耳鸣，今天受不了了进行了一些测试发现是真的物理声音\n\n用 Spectroid 贴着房间找了一下声音来源，最后发现是便宜五号电池充电器发出的声音... 实际上是 14384 Hz 和 7235 Hz 两个峰值，拔掉电源就没有了",
-    "views": 120,
+    "views": 122,
     "forwards": 1,
     "media_group_id": 14293621614327757,
     "images": [
