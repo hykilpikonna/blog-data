@@ -107190,7 +107190,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5253,
+    "views": 5254,
     "forwards": 30
   },
   {
@@ -117589,7 +117589,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 328,
+    "views": 329,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -119179,7 +119179,7 @@
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 424,
+    "views": 425,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1361,
+    "views": 1362,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -121109,7 +121109,7 @@
     "id": 9066,
     "date": "2026-08-07T16:42:46",
     "text": "呜呜 小猫拍伤了一只蜻蜓",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "media_group_id": 14288967730956293,
     "images": [
@@ -121638,7 +121638,7 @@
     "id": 9108,
     "date": "2026-08-11T23:43:57",
     "text": "还在找灯罩去哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n它完美地和盘子融合到了一起",
-    "views": 209,
+    "views": 210,
     "forwards": 1,
     "images": [
       {
@@ -121697,7 +121697,7 @@
     "id": 9112,
     "date": "2026-08-12T05:18:47",
     "text": "模型太坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n刚才原本在用 claude code 进行 debug，过了一会它说它发现了自己在被提示词注入并且忽略了注入指示\n\n我赶快停下来问问它怎么回事看到了什么，它说是 tool call 结果里面有伪装成 system 让它切换人格改写记忆改 shell 行为之类的东西... 我原地吓死，怀疑是不是工作目录被投毒了、是不是 Claude CLI 被投毒了...\n\n排查了半天，还好习惯性抓了网络包，找到了导致它说自己被注入的那个请求，我自己看了一下请求包是干净的（tool call 的返回结果会在 LLM API 的请求包里）然后我把生肉请求发给它让它分析，它承认整件事都是它的幻觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n什么被迫害妄想症模型，编故事请不要这么真实吗... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 275,
+    "views": 278,
     "forwards": 4,
     "media_group_id": 14292095415781925,
     "images": [
@@ -121727,7 +121727,7 @@
     "id": 9114,
     "date": "2026-08-12T17:40:10",
     "text": "呜呜 说好的日食",
-    "views": 231,
+    "views": 234,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -121760,7 +121760,7 @@
   {
     "id": 9116,
     "date": "2026-08-12T18:21:22",
-    "views": 280,
+    "views": 289,
     "forwards": 1,
     "images": [
       {
@@ -121779,8 +121779,8 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 1229,
-    "forwards": 52,
+    "views": 1316,
+    "forwards": 54,
     "images": [
       {
         "width": 912,
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 573,
+    "views": 647,
     "forwards": 11,
     "reply": {
       "id": 9118,
@@ -121822,7 +121822,7 @@
     "id": 9120,
     "date": "2026-08-13T08:14:26",
     "text": "人生第一次看到了流星 qwq\n\n没有月亮没有云而且在英仙座流星雨最频繁的日子，开车 1.5h 到了波尔特三级暗空的路边停下来，四十分钟里看到了十多个流星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没有拍到流星（拍流星好难）不过拍到了一张曝光了 22 分钟的星轨也好不错！（实际上是我和聊聊躺在车顶看流星的时候就正好一直开着曝光啦，最后听到有车开过来就结束了）\n\n以及看来下次出门还需要调查一下停留的地方附近的生态... 这次因为去的地方离湿地很近所以晚上湿度太高有很大雾，导致开车像是在恐怖片里面一样完全看不见五米外，到了原本的目的地之后因为大雾看不见就继续向前开了，开到了一个雾小一点的地方但是似乎是农场，偶尔能听到路左右两边的牛跨服聊天",
-    "views": 199,
+    "views": 212,
     "forwards": 2,
     "media_group_id": 14292870930382741,
     "images": [
@@ -121876,7 +121876,7 @@
   {
     "id": 9124,
     "date": "2026-08-14T02:26:39",
-    "views": 143,
+    "views": 155,
     "forwards": 0,
     "files": [
       {
@@ -121898,7 +121898,7 @@
     "id": 9125,
     "date": "2026-08-14T09:28:29",
     "text": "感谢 gemini 3.7 flash 的跑分图给 gpt 5.6 luna 打广告 🤡\n\n我感觉这张图想说它在某种又便宜又能用的性价比最优线，但是它的右上就是更便宜更好的 5.6 luna xhigh，左上就是更贵更好的 opus 5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 120,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 14293597672920397,
     "images": [
@@ -121933,8 +121933,8 @@
     "id": 9127,
     "date": "2026-08-14T10:18:21",
     "text": "最近睡觉的时候总是会听到很淡的高频噪音，听起来像是 9.5-10 kHz\n\n原本以为是我耳鸣，今天受不了了进行了一些测试发现是真的物理声音\n\n用 Spectroid 贴着房间找了一下声音来源，最后发现是便宜五号电池充电器发出的声音... 实际上是 14384 Hz 和 7235 Hz 两个峰值，拔掉电源就没有了",
-    "views": 80,
-    "forwards": 0,
+    "views": 102,
+    "forwards": 1,
     "media_group_id": 14293621614327757,
     "images": [
       {
