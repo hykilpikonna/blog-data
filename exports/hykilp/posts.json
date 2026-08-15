@@ -85378,7 +85378,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8669,
+    "views": 8670,
     "forwards": 177,
     "media_group_id": 14043941176651549,
     "images": [
@@ -107040,7 +107040,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1899,
+    "views": 1900,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -119179,7 +119179,7 @@
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 428,
+    "views": 430,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 339,
+    "views": 341,
     "forwards": 3,
     "images": [
       {
@@ -121433,7 +121433,7 @@
     "id": 9090,
     "date": "2026-08-10T13:12:15",
     "text": "...前几天刚说完，今天小猫就真的杀死了一只小老鼠\n\n（虽然比起主动杀死更多是猫猫出现把小老鼠吓死了）",
-    "views": 229,
+    "views": 230,
     "forwards": 3,
     "media_group_id": 14290940286453917,
     "images": [
@@ -121541,7 +121541,7 @@
     "id": 9097,
     "date": "2026-08-11T01:08:01",
     "text": "看了 CGP Grey 的这个说人类在未来会被替代的视频。看着看着感觉不对，看了一眼发布日期，居然是 11 年前...\n\n<a href=\"https://youtu.be/7Pq-S557XQU\">https://youtu.be/7Pq-S557XQU</a>",
-    "views": 240,
+    "views": 241,
     "forwards": 1
   },
   {
@@ -121638,7 +121638,7 @@
     "id": 9108,
     "date": "2026-08-11T23:43:57",
     "text": "还在找灯罩去哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n它完美地和盘子融合到了一起",
-    "views": 211,
+    "views": 212,
     "forwards": 1,
     "images": [
       {
@@ -121697,7 +121697,7 @@
     "id": 9112,
     "date": "2026-08-12T05:18:47",
     "text": "模型太坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n刚才原本在用 claude code 进行 debug，过了一会它说它发现了自己在被提示词注入并且忽略了注入指示\n\n我赶快停下来问问它怎么回事看到了什么，它说是 tool call 结果里面有伪装成 system 让它切换人格改写记忆改 shell 行为之类的东西... 我原地吓死，怀疑是不是工作目录被投毒了、是不是 Claude CLI 被投毒了...\n\n排查了半天，还好习惯性抓了网络包，找到了导致它说自己被注入的那个请求，我自己看了一下请求包是干净的（tool call 的返回结果会在 LLM API 的请求包里）然后我把生肉请求发给它让它分析，它承认整件事都是它的幻觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n什么被迫害妄想症模型，编故事请不要这么真实吗... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 279,
+    "views": 280,
     "forwards": 4,
     "media_group_id": 14292095415781925,
     "images": [
@@ -121727,7 +121727,7 @@
     "id": 9114,
     "date": "2026-08-12T17:40:10",
     "text": "呜呜 说好的日食",
-    "views": 235,
+    "views": 237,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -121760,7 +121760,7 @@
   {
     "id": 9116,
     "date": "2026-08-12T18:21:22",
-    "views": 293,
+    "views": 297,
     "forwards": 1,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 1404,
+    "views": 1421,
     "forwards": 56,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 730,
+    "views": 741,
     "forwards": 11,
     "reply": {
       "id": 9118,
@@ -121822,7 +121822,7 @@
     "id": 9120,
     "date": "2026-08-13T08:14:26",
     "text": "人生第一次看到了流星 qwq\n\n没有月亮没有云而且在英仙座流星雨最频繁的日子，开车 1.5h 到了波尔特三级暗空的路边停下来，四十分钟里看到了十多个流星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没有拍到流星（拍流星好难）不过拍到了一张曝光了 22 分钟的星轨也好不错！（实际上是我和聊聊躺在车顶看流星的时候就正好一直开着曝光啦，最后听到有车开过来就结束了）\n\n以及看来下次出门还需要调查一下停留的地方附近的生态... 这次因为去的地方离湿地很近所以晚上湿度太高有很大雾，导致开车像是在恐怖片里面一样完全看不见五米外，到了原本的目的地之后因为大雾看不见就继续向前开了，开到了一个雾小一点的地方但是似乎是农场，偶尔能听到路左右两边的牛跨服聊天",
-    "views": 221,
+    "views": 225,
     "forwards": 2,
     "media_group_id": 14292870930382741,
     "images": [
@@ -121876,7 +121876,7 @@
   {
     "id": 9124,
     "date": "2026-08-14T02:26:39",
-    "views": 170,
+    "views": 176,
     "forwards": 0,
     "files": [
       {
@@ -121898,7 +121898,7 @@
     "id": 9125,
     "date": "2026-08-14T09:28:29",
     "text": "感谢 gemini 3.7 flash 的跑分图给 gpt 5.6 luna 打广告 🤡\n\n我感觉这张图想说它在某种又便宜又能用的性价比最优线，但是它的右上就是更便宜更好的 5.6 luna xhigh，左上就是更贵更好的 opus 5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 158,
+    "views": 165,
     "forwards": 0,
     "media_group_id": 14293597672920397,
     "images": [
@@ -121933,8 +121933,8 @@
     "id": 9127,
     "date": "2026-08-14T10:18:21",
     "text": "最近睡觉的时候总是会听到很淡的高频噪音，听起来像是 9.5-10 kHz\n\n原本以为是我耳鸣，今天受不了了进行了一些测试发现是真的物理声音\n\n用 Spectroid 贴着房间找了一下声音来源，最后发现是便宜五号电池充电器发出的声音... 实际上是 14384 Hz 和 7235 Hz 两个峰值，拔掉电源就没有了",
-    "views": 128,
-    "forwards": 1,
+    "views": 137,
+    "forwards": 2,
     "media_group_id": 14293621614327757,
     "images": [
       {
