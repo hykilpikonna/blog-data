@@ -81909,7 +81909,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 953,
+    "views": 962,
     "forwards": 12
   },
   {
@@ -107040,7 +107040,7 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1900,
+    "views": 1901,
     "forwards": 9,
     "reply": {
       "id": 8013,
@@ -119600,7 +119600,7 @@
     "id": 8950,
     "date": "2026-07-24T04:26:22",
     "text": "嘉立创用下单助手下单可以 -¥100，但是下载下来让 codex 看了一下，发现完全就是木马 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n下单助手启动的时候会收集 Hostname、MAC 和 NIC 信息、硬盘序列号、主板和系统 ID、CPU、系统构建号、VM 状态...\n\n然后还有通过通知消息进行任意代码执行、还有各种安全隐患比如用 HTTP 非 S 明文自动更新、超级旧版 electron、开机自启、防注入... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n为了拿到优惠的同时不把底裤卖了，<a href=\"https://codeberg.org/JLCJLCJLCJLC/OrderAssistant\">找了一个 userscript</a> 在网页上拿到小助手优惠了",
-    "views": 428,
+    "views": 429,
     "forwards": 16,
     "images": [
       {
@@ -119911,7 +119911,7 @@
     "id": 8976,
     "date": "2026-07-27T00:19:59",
     "text": "作案现场",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "media_group_id": 14280892791925101,
     "images": [
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 347,
+    "views": 348,
     "forwards": 3,
     "images": [
       {
@@ -121697,7 +121697,7 @@
     "id": 9112,
     "date": "2026-08-12T05:18:47",
     "text": "模型太坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n刚才原本在用 claude code 进行 debug，过了一会它说它发现了自己在被提示词注入并且忽略了注入指示\n\n我赶快停下来问问它怎么回事看到了什么，它说是 tool call 结果里面有伪装成 system 让它切换人格改写记忆改 shell 行为之类的东西... 我原地吓死，怀疑是不是工作目录被投毒了、是不是 Claude CLI 被投毒了...\n\n排查了半天，还好习惯性抓了网络包，找到了导致它说自己被注入的那个请求，我自己看了一下请求包是干净的（tool call 的返回结果会在 LLM API 的请求包里）然后我把生肉请求发给它让它分析，它承认整件事都是它的幻觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n什么被迫害妄想症模型，编故事请不要这么真实吗... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 309,
+    "views": 310,
     "forwards": 5,
     "media_group_id": 14292095415781925,
     "images": [
@@ -121727,7 +121727,7 @@
     "id": 9114,
     "date": "2026-08-12T17:40:10",
     "text": "呜呜 说好的日食",
-    "views": 274,
+    "views": 275,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -121760,7 +121760,7 @@
   {
     "id": 9116,
     "date": "2026-08-12T18:21:22",
-    "views": 335,
+    "views": 336,
     "forwards": 1,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 1673,
+    "views": 1678,
     "forwards": 62,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 911,
+    "views": 913,
     "forwards": 12,
     "reply": {
       "id": 9118,
@@ -121876,7 +121876,7 @@
   {
     "id": 9124,
     "date": "2026-08-14T02:26:39",
-    "views": 239,
+    "views": 241,
     "forwards": 0,
     "files": [
       {
@@ -121983,7 +121983,7 @@
     "id": 9131,
     "date": "2026-08-15T18:12:59",
     "text": "记得之前有人推荐我去玩微软模拟飞行，所以去玩了！好玩喵好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 214,
+    "views": 216,
     "forwards": 3,
     "media_group_id": 14294540634428893,
     "images": [
@@ -122026,14 +122026,14 @@
     "id": 9134,
     "date": "2026-08-15T22:28:09",
     "text": "<del>我的五米灯条是不是一个 196\" 的 460p 显示器</del>",
-    "views": 190,
+    "views": 194,
     "forwards": 0
   },
   {
     "id": 9135,
     "date": "2026-08-15T23:04:01",
     "text": "感觉人类总是喜欢用很奇怪的尺寸标准...\n\n为什么显示器要用对角线长度？明明这样越偏离 1:1 正方形就会让数字越大\n\n为什么分辨率要用边长？窄屏 1440x1440 和宽屏 2880x1440 都是 1440p，但是一个比另一个大一倍\n\n为什么相机传感器尺寸要用“对角线 / 0.66”？？所谓的一英寸传感器实际上是 0.66\"，1/2\" 实际上是 0.33\"... 便宜扫描仪上的那一条传感器实际上是 8.5\"，比所有相机的尺寸数字都大了\n\n我真的觉得所有描述平面的地方都应该用 sqrt(面积)，这样既能很精准的表达实际大小同时也能和人对大小的主观感受相符\n\n比如说同样是 27\" 的 16:9 屏幕的方根面积是 17.6，而 27\" 21:9 屏幕就是 16.3，看对角线会以为一样大，看方根面积才能正确看出 21:9 的屏幕小很多",
-    "views": 188,
+    "views": 192,
     "forwards": 2,
     "reply": {
       "id": 9134,
@@ -122044,7 +122044,7 @@
     "id": 9136,
     "date": "2026-08-16T07:14:23",
     "text": "今天更新 JetBrains IDEA 发现新的启动画面变成一张很普通的 AI 风景画了...\n\n好失望，失望到决定花时间把所有历史版本的 IDEA PyCharm 下载下来拆了一下启动画面做对比\n\n好怀念 JetBrains 的 computational art 时代的启动图，真的好好看",
-    "views": 163,
+    "views": 172,
     "forwards": 3,
     "media_group_id": 14294915704180301,
     "images": [
@@ -122078,7 +122078,7 @@
     "id": 9138,
     "date": "2026-08-16T07:20:40",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 135,
+    "views": 142,
     "forwards": 1,
     "forwarded_from": {
       "name": "小桂桂的回忆录 📒"
