@@ -55392,7 +55392,7 @@
     "id": 4065,
     "date": "2024-06-28T09:33:35",
     "text": "和府捞面！",
-    "views": 145,
+    "views": 147,
     "forwards": 1,
     "images": [
       {
@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6652,
+    "views": 6653,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 349,
+    "views": 350,
     "forwards": 3,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 1764,
+    "views": 1780,
     "forwards": 62,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 968,
+    "views": 977,
     "forwards": 12,
     "reply": {
       "id": 9118,
@@ -122088,7 +122088,7 @@
     "id": 9139,
     "date": "2026-08-17T00:15:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸汤肥牛丼也是牛丼！\n\n不过做得太辣了吃了一半就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 133,
+    "views": 137,
     "forwards": 0,
     "media_group_id": 14295405866438045,
     "images": [
@@ -122118,7 +122118,7 @@
     "id": 9143,
     "date": "2026-08-17T03:42:22",
     "text": "（？）",
-    "views": 94,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 14295505142588117,
     "images": [
