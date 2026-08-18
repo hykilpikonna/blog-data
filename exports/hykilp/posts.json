@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 197,
+    "views": 198,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 337,
+    "views": 338,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 230,
+    "views": 231,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41437,7 +41437,7 @@
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -48897,7 +48897,7 @@
     "id": 3580,
     "date": "2024-04-14T08:43:41",
     "text": "出发六个小时前我在床上和聊聊聊天 be like\n：呜呜呜再过几个小时就见不到聊聊了\n：你要每天给我打电话哦\n：不行，每小时！\n：不行不行，每分钟！每秒！每毫秒！\n：<del>每毫秒给我打一个电话，如果超时五次就会被分布式进程管理器鉴定为卡住了杀掉重开哦</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 120,
+    "views": 121,
     "forwards": 1,
     "reply": {
       "id": 3579,
@@ -48908,13 +48908,13 @@
     "id": 3581,
     "date": "2024-04-15T22:29:26",
     "text": "电源插座\n\nUS / Canada: ☹️\nEU: 😶\nDenmark: 🙂",
-    "views": 124,
+    "views": 125,
     "forwards": 1
   },
   {
     "id": 3582,
     "date": "2024-04-15T23:49:43",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -48933,7 +48933,7 @@
     "id": 3583,
     "date": "2024-04-16T13:18:00",
     "text": "演讲完了！很顺利！\n\n（感谢妈妈拍照",
-    "views": 128,
+    "views": 129,
     "forwards": 3,
     "media_group_id": 13706187841309237,
     "images": [
@@ -48963,7 +48963,7 @@
     "id": 3585,
     "date": "2024-04-16T15:16:55",
     "text": "今天上午去领了名牌看开场会。开场会好无聊，说了很多没有用的话，不过看到了提交数据，加拿大甚至没上榜。之后爬了一下网页数据发现这次多伦多大学只有 16 篇，而且除了我以外只有一篇是关于音频的，滑铁卢 8 篇，McGill 一篇... 相比数据里上海交大有 183 篇。唉，加拿大在音频领域真的不行呀，研要申去哪里呢？\n\n中午下午看了一些别人的讲座和海报，记一下有意思的：看到了有人在讲座里提到 Vocaloid 声音合成有多么多么真实，但是明明 Vocaloid 反而是变得真实之后就没有人用了，大家喜欢的就是很重合成感的声音；看到了从脑电波识别出一个人想要说的话转成语音的模型，虽然看那个巨大的巨多线的头盔应该没有能够实际应用场合...；看到了检测发音口音音素的模型，感觉每个语言学习 app 都应该有这个东西，听完在想能不能用类似的方式做更精细的练声建议；看到了我们团队里 Ivan 在做的 HoloLens 非侵入式脑电波交互演示；看到了一个非常厉害的实时变声模型，基本上没有延迟哇，加上大功率音响真的感觉我说出口就是另一个人的声音，在想能不能用同样的思路做实时语音翻译。\n\n中午吃了很好吃的烤肉和汤（然后被汤辣到嗓子哑了 呜呜\n\n演讲完之后晚上去 LGBTQ+ Meetup 吃到了超级丰盛晚餐还认识了新的朋友 Robin！是一个在 UC Berkeley 音频 AI 领域的跨女研究生，人超级好看！而且和我一样是通过研究练声助手踏入了这个领域哇，世界好小 qwq 加了联系方式，希望以后可以一起研究练声助手（我也试试申一申 Berkeley 好了",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "media_group_id": 13706244920724965,
     "images": [
@@ -49043,7 +49043,7 @@
     "id": 3592,
     "date": "2024-04-19T09:53:34",
     "text": "哇 这是何等的运气 qwq",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "images": [
       {
@@ -49062,7 +49062,7 @@
     "id": 3593,
     "date": "2024-04-19T14:39:10",
     "text": "我真的好不会告别。四天的时间转瞬即逝，闭幕之后又和新的朋友们和导师聊了很多很多，好想停下时间一直留在这里... 可惜时间不会不舍，会展大厅的显示器已经换掉了 ICASSP 的招牌，留下一条寂静的街道\n\n也许会议的意义就在这里吧，比起展示已经过时六个月的论文更重要的是创造了一个把不同道路上的朋友们每年聚集在一起的契机...",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "reply": {
       "id": 2512,
@@ -49085,7 +49085,7 @@
     "id": 3595,
     "date": "2024-04-21T07:07:56",
     "text": "到家了！\n\n路上遇到了好多不幸的事情，想和 Robin 约饭结果不在同一个航站楼、安检的时候因为我买机票在护照名字后面加上了 preferred name 被拦下来了、然后到温哥华转机因为飞机上一个厕所坏了没人知道怎么修，剩下的厕所数量又达不到起飞需要的法律标准所以延误了 4.25 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n这是大数定律在起作用吗，前几天运气太好了（x",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13709466209245173,
     "images": [
@@ -49135,14 +49135,14 @@
     "id": 3599,
     "date": "2024-04-23T02:40:35",
     "text": "icassp 刚结束就要赶回来考试好累，不过刚通宵一天复习考完了 373 算法感觉考得不错。还剩最后一个考试就结束了，是去年落下的 369 intro OS qwq",
-    "views": 106,
+    "views": 107,
     "forwards": 0
   },
   {
     "id": 3600,
     "date": "2024-04-23T07:12:58",
     "text": "想下载课件但是这门课没有开导出功能怎么办？\n\n花十分钟手动下载 ❌\n花半个小时写一个爬虫 ✅",
-    "views": 113,
+    "views": 114,
     "forwards": 1,
     "images": [
       {
@@ -49161,7 +49161,7 @@
     "id": 3601,
     "date": "2024-04-23T22:02:57",
     "text": "考完了... 感觉可能考不到 50%\n\n去年期末考试的那天发烧所以 defer 掉了，原本以为补考会很容易... 没想到要到这个学期末才能补考，和今年的同学考一样的卷子。但是今年换了教授而且他把所有课程内容重新规划了一遍，和去年的内容有好多不一样，有好多没见过的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n还有些题是按今年作业出的，说 “recall in A1...” 什么的，但是我没做过今年的 A1 呀 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "reply": {
       "id": 3599,
@@ -49184,14 +49184,14 @@
     "id": 3602,
     "date": "2024-04-24T06:52:36",
     "text": "<a href=\"##TIL\">#TIL</a> 今天刚知道原来上海是直辖市\n\n之前一直以为上海是省，苏州和上海市在上海省 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 195,
+    "views": 196,
     "forwards": 9
   },
   {
     "id": 3603,
     "date": "2024-04-24T20:33:25",
     "text": "在走廊里听到很大的风声来自这个小东西，还在想是给什么东西的散热器，然后发现是专门用来放风声白噪音的小喇叭 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -49214,14 +49214,14 @@
     "id": 3604,
     "date": "2024-04-25T02:45:35",
     "text": "EMS 国际快递只能填英文地址太坏了，刚才收到了快递员的电话似乎看不懂用英文写的国内地址呢... <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 105,
+    "views": 106,
     "forwards": 0
   },
   {
     "id": 3605,
     "date": "2024-04-25T14:26:36",
     "text": "呜呜 不小心把自己的 bot token 公开了，感觉好丢人\n\n昨天晚上聊聊 Telegram 上突然收到了好多莫名其妙的消息，来自我们的 TG Bot... 这个 Bot 原本是用来发通知的，比如说写需要挂机的脚本的时候通常会在结尾加一个 tg 消息通知什么的，但是这些消息明显不是我们发的，怎么回事呢？\n\n查了查 GitHub 发现是我一两年前把它推到私有库里了，然后过了很久整理仓库的时候忘记这里有 token 就把仓库公开了，然后用 GitGuardian 扫了一遍发现还有几个其他的仓库也有同样的情况... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n以后公开仓库之前一定要记得扫描一遍 token ;-;",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "media_group_id": 13712441574874101,
     "images": [
@@ -49251,14 +49251,14 @@
     "id": 3607,
     "date": "2024-04-25T16:40:28",
     "text": "<a href=\"https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/\">The Story of AI Graphics at JetBrains</a>\nAlso: <a href=\"https://cai.jetbrains.com/\">Computational Arts Initiative</a>\n\n看完这篇 Blog 我真的好爱 JetBrains。每一年 IDEA 的启动画面都是精心调制的广义 AI 图形，从以前的随机粒子生成，到 2020 的 CPPN 网络，再到 2023 年的 Stable Diffusion LoRA... 明明只是一个启动画面的一张图，这种没有功能性、甚至很少人会注意到的细节却花了这么多精力探索 qwq\n\n感觉能让大家在这种细节或者说好奇心上花时间的公司好棒，真希望这样的公司能多一些呀...",
-    "views": 157,
+    "views": 158,
     "forwards": 3
   },
   {
     "id": 3608,
     "date": "2024-04-25T17:27:31",
     "text": "好玩 qwq\n\n（<a href=\"https://code2art.jetbrains.com/#509ffabc\">https://code2art.jetbrains.com/#509ffabc</a>",
-    "views": 159,
+    "views": 160,
     "forwards": 2,
     "reply": {
       "id": 3607,
@@ -49370,14 +49370,14 @@
     "id": 3615,
     "date": "2024-04-29T16:02:31",
     "text": "和多伦多的家说了再见 qwq",
-    "views": 148,
+    "views": 149,
     "forwards": 1
   },
   {
     "id": 3616,
     "date": "2024-04-29T16:04:22",
     "text": "猜猜我要去哪",
-    "views": 151,
+    "views": 152,
     "forwards": 1,
     "media_group_id": 13715253299988973,
     "images": [
@@ -67956,7 +67956,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1409,
+    "views": 1410,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67978,7 +67978,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1199,
+    "views": 1200,
     "forwards": 7,
     "files": [
       {
@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6653,
+    "views": 6654,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -81909,7 +81909,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1024,
+    "views": 1026,
     "forwards": 12
   },
   {
@@ -118062,7 +118062,7 @@
     "id": 8829,
     "date": "2026-07-09T17:49:21",
     "text": "毛\n\n短毛猫一年没剪毛居然没有变成长毛猫（？）好奇妙",
-    "views": 243,
+    "views": 244,
     "forwards": 0,
     "media_group_id": 14268954894459565,
     "images": [
@@ -120811,7 +120811,7 @@
     "id": 9043,
     "date": "2026-08-03T19:51:14",
     "text": "这是什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i> <span class=\"spoiler\"><span>EE 人专用加密通话</span></span>",
-    "views": 353,
+    "views": 354,
     "forwards": 3,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 1863,
+    "views": 1884,
     "forwards": 62,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1058,
+    "views": 1108,
     "forwards": 12,
     "reply": {
       "id": 9118,
@@ -121822,7 +121822,7 @@
     "id": 9120,
     "date": "2026-08-13T08:14:26",
     "text": "人生第一次看到了流星 qwq\n\n没有月亮没有云而且在英仙座流星雨最频繁的日子，开车 1.5h 到了波尔特三级暗空的路边停下来，四十分钟里看到了十多个流星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没有拍到流星（拍流星好难）不过拍到了一张曝光了 22 分钟的星轨也好不错！（实际上是我和聊聊躺在车顶看流星的时候就正好一直开着曝光啦，最后听到有车开过来就结束了）\n\n以及看来下次出门还需要调查一下停留的地方附近的生态... 这次因为去的地方离湿地很近所以晚上湿度太高有很大雾，导致开车像是在恐怖片里面一样完全看不见五米外，到了原本的目的地之后因为大雾看不见就继续向前开了，开到了一个雾小一点的地方但是似乎是农场，偶尔能听到路左右两边的牛跨服聊天",
-    "views": 291,
+    "views": 292,
     "forwards": 2,
     "media_group_id": 14292870930382741,
     "images": [
@@ -121933,7 +121933,7 @@
     "id": 9127,
     "date": "2026-08-14T10:18:21",
     "text": "最近睡觉的时候总是会听到很淡的高频噪音，听起来像是 9.5-10 kHz\n\n原本以为是我耳鸣，今天受不了了进行了一些测试发现是真的物理声音\n\n用 Spectroid 贴着房间找了一下声音来源，最后发现是便宜五号电池充电器发出的声音... 实际上是 14384 Hz 和 7235 Hz 两个峰值，拔掉电源就没有了",
-    "views": 291,
+    "views": 292,
     "forwards": 3,
     "media_group_id": 14293621614327757,
     "images": [
@@ -122033,7 +122033,7 @@
     "id": 9135,
     "date": "2026-08-15T23:04:01",
     "text": "感觉人类总是喜欢用很奇怪的尺寸标准...\n\n为什么显示器要用对角线长度？明明这样越偏离 1:1 正方形就会让数字越大\n\n为什么分辨率要用边长？窄屏 1440x1440 和宽屏 2880x1440 都是 1440p，但是一个比另一个大一倍\n\n为什么相机传感器尺寸要用“对角线 / 0.66”？？所谓的一英寸传感器实际上是 0.66\"，1/2\" 实际上是 0.33\"... 便宜扫描仪上的那一条传感器实际上是 8.5\"，比所有相机的尺寸数字都大了\n\n我真的觉得所有描述平面的地方都应该用 sqrt(面积)，这样既能很精准的表达实际大小同时也能和人对大小的主观感受相符\n\n比如说同样是 27\" 的 16:9 屏幕的方根面积是 17.6，而 27\" 21:9 屏幕就是 16.3，看对角线会以为一样大，看方根面积才能正确看出 21:9 的屏幕小很多",
-    "views": 218,
+    "views": 219,
     "forwards": 2,
     "reply": {
       "id": 9134,
@@ -122044,7 +122044,7 @@
     "id": 9136,
     "date": "2026-08-16T07:14:23",
     "text": "今天更新 JetBrains IDEA 发现新的启动画面变成一张很普通的 AI 风景画了...\n\n好失望，失望到决定花时间把所有历史版本的 IDEA PyCharm 下载下来拆了一下启动画面做对比\n\n好怀念 JetBrains 的 computational art 时代的启动图，真的好好看",
-    "views": 228,
+    "views": 229,
     "forwards": 3,
     "media_group_id": 14294915704180301,
     "images": [
@@ -122078,7 +122078,7 @@
     "id": 9138,
     "date": "2026-08-16T07:20:40",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 201,
+    "views": 202,
     "forwards": 1,
     "forwarded_from": {
       "name": "小桂桂的回忆录 📒"
@@ -122088,7 +122088,7 @@
     "id": 9139,
     "date": "2026-08-17T00:15:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸汤肥牛丼也是牛丼！\n\n不过做得太辣了吃了一半就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 183,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 14295405866438045,
     "images": [
@@ -122118,7 +122118,7 @@
     "id": 9143,
     "date": "2026-08-17T03:42:22",
     "text": "（？）",
-    "views": 159,
+    "views": 161,
     "forwards": 0,
     "media_group_id": 14295505142588117,
     "images": [
@@ -122158,8 +122158,8 @@
     "id": 9144,
     "date": "2026-08-17T11:20:42",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a> 前租户留下的花盆长出了一棵神秘植物\n\n拍照识别一下，llm：这是百合，下面是一只黑猫 ☺️\n\n等等... 百合，猫，😱\n\n赶紧把它放到很高猫上不去的地方隔离一下，再查查怎么办\n\n想想和我印象里的百合不太一样，用 Google lens 确认了一下，发现实际上是加拿大 goldenrod，对猫没有毒 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n把它放下来了，果然还是不能随便相信 llm 的视觉能力\n\n（不过同样确认了一下，厨房的葱确实还是葱，还是需要放到小猫碰不到的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 115,
-    "forwards": 1,
+    "views": 121,
+    "forwards": 2,
     "media_group_id": 14295725139945197,
     "images": [
       {
