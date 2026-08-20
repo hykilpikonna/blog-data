@@ -72121,7 +72121,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5833,
+    "views": 5834,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -107190,7 +107190,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5265,
+    "views": 5267,
     "forwards": 30
   },
   {
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1410,
+    "views": 1411,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2098,
+    "views": 2103,
     "forwards": 67,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1324,
+    "views": 1327,
     "forwards": 12,
     "reply": {
       "id": 9118,
@@ -122088,7 +122088,7 @@
     "id": 9139,
     "date": "2026-08-17T00:15:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸汤肥牛丼也是牛丼！\n\n不过做得太辣了吃了一半就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 231,
+    "views": 233,
     "forwards": 0,
     "media_group_id": 14295405866438045,
     "images": [
@@ -122118,7 +122118,7 @@
     "id": 9143,
     "date": "2026-08-17T03:42:22",
     "text": "（？）",
-    "views": 226,
+    "views": 228,
     "forwards": 0,
     "media_group_id": 14295505142588117,
     "images": [
@@ -122232,7 +122232,7 @@
     "id": 9149,
     "date": "2026-08-18T14:26:22",
     "text": "不太聪明喵",
-    "views": 195,
+    "views": 196,
     "forwards": 1,
     "images": [
       {
@@ -122250,7 +122250,7 @@
   {
     "id": 9150,
     "date": "2026-08-19T05:04:59",
-    "views": 173,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 14296927194811861,
     "images": [
@@ -122280,14 +122280,14 @@
     "id": 9152,
     "date": "2026-08-19T20:11:20",
     "text": "<a href=\"##TIL\">#TIL</a> 原来じゃないじゃない不是双重否定",
-    "views": 137,
+    "views": 144,
     "forwards": 0
   },
   {
     "id": 9153,
     "date": "2026-08-19T23:17:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n樱桃芬达照烧鸡腿！\n\n味道意外的不是很黑暗料理",
-    "views": 124,
+    "views": 132,
     "forwards": 0,
     "media_group_id": 14297451477245421,
     "images": [
@@ -122337,7 +122337,7 @@
     "id": 9157,
     "date": "2026-08-19T23:38:17",
     "text": "烘干猫",
-    "views": 125,
+    "views": 135,
     "forwards": 1,
     "images": [
       {
@@ -122356,7 +122356,7 @@
     "id": 9158,
     "date": "2026-08-20T01:18:08",
     "text": "猫",
-    "views": 113,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -122375,7 +122375,7 @@
     "id": 9159,
     "date": "2026-08-20T02:04:18",
     "text": "两天前刚说完，今天谷歌 1 学生计划就回来了\n\n<a href=\"https://one.google.com/ai-student\">https://one.google.com/ai-student</a>\n\n虽然只有美国有 Pro，其他国家都是 Plus",
-    "views": 105,
+    "views": 118,
     "forwards": 1,
     "reply": {
       "id": 9148,
