@@ -113035,7 +113035,7 @@
     "id": 8451,
     "date": "2026-05-20T04:59:08",
     "text": "完 我更新到 Antigravity 2.0 然后 IDE 没了，只有 agent...",
-    "views": 367,
+    "views": 368,
     "forwards": 4,
     "forwarded_from": {
       "name": "Azalea",
@@ -113126,7 +113126,7 @@
     "id": 8456,
     "date": "2026-05-21T05:06:33",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n下班的路上被东京塔吸引走到很近的地方拍了照片！好看的 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n以及当时最喜欢的工作午餐是某蓝色便利店的大鲑饭团 🍙 可惜不久之后就下架了",
-    "views": 305,
+    "views": 306,
     "forwards": 2,
     "media_group_id": 14234719946624717,
     "images": [
@@ -121109,7 +121109,7 @@
     "id": 9066,
     "date": "2026-08-07T16:42:46",
     "text": "呜呜 小猫拍伤了一只蜻蜓",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "media_group_id": 14288967730956293,
     "images": [
@@ -121169,7 +121169,7 @@
     "id": 9071,
     "date": "2026-08-07T17:29:24",
     "text": "给蜻蜓喂了糖水，但是应该是没法恢复了...\n\n嘴上说想要让小猫学会出去抓老鼠，实际上抓了一只蜻蜓我都觉得可怜... 还是关在房间里吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "files": [
       {
@@ -121697,7 +121697,7 @@
     "id": 9112,
     "date": "2026-08-12T05:18:47",
     "text": "模型太坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n刚才原本在用 claude code 进行 debug，过了一会它说它发现了自己在被提示词注入并且忽略了注入指示\n\n我赶快停下来问问它怎么回事看到了什么，它说是 tool call 结果里面有伪装成 system 让它切换人格改写记忆改 shell 行为之类的东西... 我原地吓死，怀疑是不是工作目录被投毒了、是不是 Claude CLI 被投毒了...\n\n排查了半天，还好习惯性抓了网络包，找到了导致它说自己被注入的那个请求，我自己看了一下请求包是干净的（tool call 的返回结果会在 LLM API 的请求包里）然后我把生肉请求发给它让它分析，它承认整件事都是它的幻觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n什么被迫害妄想症模型，编故事请不要这么真实吗... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 328,
+    "views": 329,
     "forwards": 5,
     "media_group_id": 14292095415781925,
     "images": [
@@ -121727,7 +121727,7 @@
     "id": 9114,
     "date": "2026-08-12T17:40:10",
     "text": "呜呜 说好的日食",
-    "views": 306,
+    "views": 307,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -121760,7 +121760,7 @@
   {
     "id": 9116,
     "date": "2026-08-12T18:21:22",
-    "views": 374,
+    "views": 375,
     "forwards": 1,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2074,
+    "views": 2077,
     "forwards": 66,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1308,
+    "views": 1310,
     "forwards": 12,
     "reply": {
       "id": 9118,
@@ -121822,7 +121822,7 @@
     "id": 9120,
     "date": "2026-08-13T08:14:26",
     "text": "人生第一次看到了流星 qwq\n\n没有月亮没有云而且在英仙座流星雨最频繁的日子，开车 1.5h 到了波尔特三级暗空的路边停下来，四十分钟里看到了十多个流星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没有拍到流星（拍流星好难）不过拍到了一张曝光了 22 分钟的星轨也好不错！（实际上是我和聊聊躺在车顶看流星的时候就正好一直开着曝光啦，最后听到有车开过来就结束了）\n\n以及看来下次出门还需要调查一下停留的地方附近的生态... 这次因为去的地方离湿地很近所以晚上湿度太高有很大雾，导致开车像是在恐怖片里面一样完全看不见五米外，到了原本的目的地之后因为大雾看不见就继续向前开了，开到了一个雾小一点的地方但是似乎是农场，偶尔能听到路左右两边的牛跨服聊天",
-    "views": 317,
+    "views": 318,
     "forwards": 2,
     "media_group_id": 14292870930382741,
     "images": [
@@ -121876,7 +121876,7 @@
   {
     "id": 9124,
     "date": "2026-08-14T02:26:39",
-    "views": 297,
+    "views": 298,
     "forwards": 0,
     "files": [
       {
@@ -121898,7 +121898,7 @@
     "id": 9125,
     "date": "2026-08-14T09:28:29",
     "text": "感谢 gemini 3.7 flash 的跑分图给 gpt 5.6 luna 打广告 🤡\n\n我感觉这张图想说它在某种又便宜又能用的性价比最优线，但是它的右上就是更便宜更好的 5.6 luna xhigh，左上就是更贵更好的 opus 5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 307,
+    "views": 308,
     "forwards": 0,
     "media_group_id": 14293597672920397,
     "images": [
@@ -121933,7 +121933,7 @@
     "id": 9127,
     "date": "2026-08-14T10:18:21",
     "text": "最近睡觉的时候总是会听到很淡的高频噪音，听起来像是 9.5-10 kHz\n\n原本以为是我耳鸣，今天受不了了进行了一些测试发现是真的物理声音\n\n用 Spectroid 贴着房间找了一下声音来源，最后发现是便宜五号电池充电器发出的声音... 实际上是 14384 Hz 和 7235 Hz 两个峰值，拔掉电源就没有了",
-    "views": 329,
+    "views": 330,
     "forwards": 3,
     "media_group_id": 14293621614327757,
     "images": [
@@ -122044,7 +122044,7 @@
     "id": 9136,
     "date": "2026-08-16T07:14:23",
     "text": "今天更新 JetBrains IDEA 发现新的启动画面变成一张很普通的 AI 风景画了...\n\n好失望，失望到决定花时间把所有历史版本的 IDEA PyCharm 下载下来拆了一下启动画面做对比\n\n好怀念 JetBrains 的 computational art 时代的启动图，真的好好看",
-    "views": 272,
+    "views": 273,
     "forwards": 4,
     "media_group_id": 14294915704180301,
     "images": [
@@ -122232,7 +122232,7 @@
     "id": 9149,
     "date": "2026-08-18T14:26:22",
     "text": "不太聪明喵",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "images": [
       {
@@ -122250,7 +122250,7 @@
   {
     "id": 9150,
     "date": "2026-08-19T05:04:59",
-    "views": 144,
+    "views": 148,
     "forwards": 0,
     "media_group_id": 14296927194811861,
     "images": [
@@ -122280,7 +122280,76 @@
     "id": 9152,
     "date": "2026-08-19T20:11:20",
     "text": "<a href=\"##TIL\">#TIL</a> 原来じゃないじゃない不是双重否定",
-    "views": 44,
+    "views": 68,
     "forwards": 0
+  },
+  {
+    "id": 9153,
+    "date": "2026-08-19T23:17:14",
+    "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n樱桃芬达照烧鸡腿！\n\n味道意外的不是很黑暗料理",
+    "views": 39,
+    "forwards": 0,
+    "media_group_id": 14297451477245421,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-08-19T23:17:12",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-19_23-17-12.jpg",
+        "url": "media/9153.jpg",
+        "size": 567684,
+        "thumb": "media/9153.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2026-08-19T23:17:13",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-19_23-17-13.jpg",
+        "url": "media/9154.jpg",
+        "size": 742567,
+        "thumb": "media/9154.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-08-19T23:17:13",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-19_23-17-13.jpg",
+        "url": "media/9155.jpg",
+        "size": 838944,
+        "thumb": "media/9155.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2026-08-19T23:17:13",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-19_23-17-13.jpg",
+        "url": "media/9156.jpg",
+        "size": 560117,
+        "thumb": "media/9156.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9157,
+    "date": "2026-08-19T23:38:17",
+    "text": "烘干猫",
+    "views": 31,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1928,
+        "date": "2026-08-19T23:38:17",
+        "media_type": "photo",
+        "original_name": "photo_2026-08-19_23-38-17.jpg",
+        "url": "media/9157.jpg",
+        "size": 218130,
+        "thumb": "media/9157.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
