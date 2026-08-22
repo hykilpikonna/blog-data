@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6660,
+    "views": 6661,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -118607,7 +118607,7 @@
     "id": 8870,
     "date": "2026-07-15T15:02:14",
     "text": "好大火灾",
-    "views": 282,
+    "views": 283,
     "forwards": 2,
     "media_group_id": 14273021876480205,
     "images": [
@@ -118753,7 +118753,7 @@
   {
     "id": 8882,
     "date": "2026-07-17T02:12:53",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "files": [
       {
@@ -118778,7 +118778,7 @@
     "id": 8883,
     "date": "2026-07-17T04:54:16",
     "text": "想要有更多可以维修的东西用来录视频 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i>\n\n多伦多附近的朋友如果有可以维修的东西请务必给我维修 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 296,
+    "views": 297,
     "forwards": 1,
     "reply": {
       "id": 8873,
@@ -118789,7 +118789,7 @@
   {
     "id": 8885,
     "date": "2026-07-17T05:52:42",
-    "views": 263,
+    "views": 264,
     "forwards": 2,
     "files": [
       {
@@ -118810,14 +118810,14 @@
     "id": 8887,
     "date": "2026-07-17T07:58:12",
     "text": "最近在和聊聊玩 hank green 做的那个 <a href=\"https://www.hankgreen.com/fourbythree/\">4x3 的文字游戏</a>（聊聊好厉害）\n\n规则大概是，总共 9 个词里有 4 组相关的 3 个词，其中一个词会在四个组里以不同的意思出现\n\n心血来潮我也做了一个谜题，<a href=\"https://www.hankgreen.com/fourbythree/index.html#c=5wtulq114fg7y\">在这里玩</a>（不要剧透哦）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 251,
+    "views": 252,
     "forwards": 2
   },
   {
     "id": 8888,
     "date": "2026-07-17T15:35:45",
     "text": "好迷惑...\n\n一加在北美还挺有名气和社区的，直接退出了。Realme 除了在印度以外没有人听说过，决定出海？？\n\n以后一加即使能解锁也没法像我现在这样直接买中国版刷 OxygenOS 了... 如果刷其他第三方ROM（如果还有人做的话）就没有原生相机软件了，好可惜\n\n<span class=\"spoiler\"><span>真的还是 never settle 的一加吗 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323487612690498829.webp\">😕</span></span></i>",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "images": [
       {
@@ -118836,7 +118836,7 @@
     "id": 8889,
     "date": "2026-07-17T18:51:25",
     "text": "哇 abroadinjapan 今天发的<a href=\"https://youtu.be/04ayuOqvHvE\">新视频</a>是我去过无数次的静冈县 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n好奇妙，以前每次都是看别人的视频觉得「这个地方好有意思好想去」，看到自己去过的地方还是第一次，感觉像是<del>发出去的 syn 终于被 ack 了一样</del>（什么奇怪比喻",
-    "views": 231,
+    "views": 232,
     "forwards": 3,
     "media_group_id": 14274514280300477,
     "images": [
@@ -119050,7 +119050,7 @@
     "id": 8910,
     "date": "2026-07-18T19:50:21",
     "text": "通货膨胀孬\n<del>\n很难想象 20 年前 ¥1699 就能买到 AIPC，现在想买 AI mini PC 都要至少 ¥16999</del>",
-    "views": 316,
+    "views": 317,
     "forwards": 2,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2289,
+    "views": 2295,
     "forwards": 67,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1582,
+    "views": 1587,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -122208,7 +122208,7 @@
     "id": 9148,
     "date": "2026-08-18T04:52:17",
     "text": "去年用学生证领的谷歌 1 要结束了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 256,
+    "views": 257,
     "forwards": 0,
     "reply": {
       "id": 9125,
@@ -122232,7 +122232,7 @@
     "id": 9149,
     "date": "2026-08-18T14:26:22",
     "text": "不太聪明喵",
-    "views": 234,
+    "views": 236,
     "forwards": 1,
     "images": [
       {
@@ -122250,7 +122250,7 @@
   {
     "id": 9150,
     "date": "2026-08-19T05:04:59",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14296927194811861,
     "images": [
@@ -122424,7 +122424,7 @@
     "id": 9162,
     "date": "2026-08-21T14:31:01",
     "text": "昨天又例常肚肚疼\n\n想做一些能让我 hyperfocus 忘记疼的事情，我想 factorio 感觉上是能让我忘记一切的游戏，正好想入坑就下载下来玩玩吧 qwq\n\n打开游戏是下午七点\n\n...回过神来已经第二天早上十点了 <a href=\"tg://emoji?id=6323315689444607430\">☁️</a>",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 14298581290607405,
     "images": [
@@ -122463,7 +122463,7 @@
   {
     "id": 9165,
     "date": "2026-08-22T05:13:22",
-    "views": 108,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
@@ -122482,7 +122482,7 @@
     "id": 9166,
     "date": "2026-08-22T05:17:53",
     "text": "种的 Basil 藤爬到绿萝上了",
-    "views": 104,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
