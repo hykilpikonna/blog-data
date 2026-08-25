@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6663,
+    "views": 6664,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2363,
+    "views": 2364,
     "forwards": 67,
     "images": [
       {
@@ -122524,7 +122524,7 @@
   {
     "id": 9168,
     "date": "2026-08-23T16:42:55",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "images": [
       {
@@ -122543,7 +122543,7 @@
     "id": 9169,
     "date": "2026-08-24T16:16:17",
     "text": "出门太急的后果",
-    "views": 188,
+    "views": 191,
     "forwards": 0,
     "images": [
       {
@@ -122562,7 +122562,7 @@
     "id": 9170,
     "date": "2026-08-24T20:01:41",
     "text": "小猫击杀的老鼠 +1",
-    "views": 177,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 14300813609955229,
     "images": [
@@ -122592,7 +122592,7 @@
     "id": 9172,
     "date": "2026-08-25T01:35:07",
     "text": "这学期\n上课在设计 renewable BESS\n下课还在设计 renewable BESS",
-    "views": 155,
+    "views": 158,
     "forwards": 0,
     "media_group_id": 14300973655951085,
     "images": [
@@ -122627,7 +122627,7 @@
     "id": 9174,
     "date": "2026-08-25T03:26:03",
     "text": "草 原来火车整不好真的会撞",
-    "views": 132,
+    "views": 137,
     "forwards": 0,
     "images": [
       {
