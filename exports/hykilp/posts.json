@@ -121697,7 +121697,7 @@
     "id": 9112,
     "date": "2026-08-12T05:18:47",
     "text": "模型太坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n刚才原本在用 claude code 进行 debug，过了一会它说它发现了自己在被提示词注入并且忽略了注入指示\n\n我赶快停下来问问它怎么回事看到了什么，它说是 tool call 结果里面有伪装成 system 让它切换人格改写记忆改 shell 行为之类的东西... 我原地吓死，怀疑是不是工作目录被投毒了、是不是 Claude CLI 被投毒了...\n\n排查了半天，还好习惯性抓了网络包，找到了导致它说自己被注入的那个请求，我自己看了一下请求包是干净的（tool call 的返回结果会在 LLM API 的请求包里）然后我把生肉请求发给它让它分析，它承认整件事都是它的幻觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n什么被迫害妄想症模型，编故事请不要这么真实吗... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 359,
+    "views": 363,
     "forwards": 6,
     "media_group_id": 14292095415781925,
     "images": [
@@ -122627,7 +122627,7 @@
     "id": 9174,
     "date": "2026-08-25T03:26:03",
     "text": "草 原来火车整不好真的会撞",
-    "views": 176,
+    "views": 177,
     "forwards": 0,
     "images": [
       {
@@ -122646,7 +122646,7 @@
     "id": 9175,
     "date": "2026-08-25T15:06:12",
     "text": "为什么我喜欢在日本开车旅游\n\n同样是开车 6h 的距离，从东京出发可以去愛知岐阜富山長野静岡山梨新潟群馬埼玉神奈川千葉茨城栃木福島山形宮城\n\n从 Kitchener 出发不能进美国的话甚至没法出省... 只能去 Ottawa 玩或者等有极光的时候去 Sudbury 看看极光了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 109,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 14301362980376821,
     "images": [
@@ -122676,7 +122676,7 @@
     "id": 9177,
     "date": "2026-08-25T15:54:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n是小猫做的",
-    "views": 87,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 14301385979692053,
     "images": [
