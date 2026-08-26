@@ -97441,7 +97441,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 612,
+    "views": 613,
     "forwards": 14
   },
   {
@@ -107190,7 +107190,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5282,
+    "views": 5283,
     "forwards": 30
   },
   {
@@ -118455,7 +118455,7 @@
     "id": 8859,
     "date": "2026-07-13T04:04:50",
     "text": "（看着自己的影子）\n：我好像是一只猫",
-    "views": 370,
+    "views": 371,
     "forwards": 7,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2378,
+    "views": 2380,
     "forwards": 68,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1671,
+    "views": 1672,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -122232,7 +122232,7 @@
     "id": 9149,
     "date": "2026-08-18T14:26:22",
     "text": "不太聪明喵",
-    "views": 282,
+    "views": 283,
     "forwards": 1,
     "images": [
       {
@@ -122250,7 +122250,7 @@
   {
     "id": 9150,
     "date": "2026-08-19T05:04:59",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "media_group_id": 14296927194811861,
     "images": [
@@ -122482,7 +122482,7 @@
     "id": 9166,
     "date": "2026-08-22T05:17:53",
     "text": "种的 Basil 藤爬到绿萝上了",
-    "views": 249,
+    "views": 250,
     "forwards": 1,
     "images": [
       {
@@ -122501,7 +122501,7 @@
     "id": 9167,
     "date": "2026-08-23T03:00:55",
     "text": "在 steam 上两年没有打过一次折的自信",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "reply": {
       "id": 9162,
@@ -122524,7 +122524,7 @@
   {
     "id": 9168,
     "date": "2026-08-23T16:42:55",
-    "views": 222,
+    "views": 223,
     "forwards": 0,
     "images": [
       {
@@ -122592,7 +122592,7 @@
     "id": 9172,
     "date": "2026-08-25T01:35:07",
     "text": "这学期\n上课在设计 renewable BESS\n下课还在设计 renewable BESS",
-    "views": 190,
+    "views": 191,
     "forwards": 0,
     "media_group_id": 14300973655951085,
     "images": [
@@ -122646,7 +122646,7 @@
     "id": 9175,
     "date": "2026-08-25T15:06:12",
     "text": "为什么我喜欢在日本开车旅游\n\n同样是开车 6h 的距离，从东京出发可以去愛知岐阜富山長野静岡山梨新潟群馬埼玉神奈川千葉茨城栃木福島山形宮城\n\n从 Kitchener 出发不能进美国的话甚至没法出省... 只能去 Ottawa 玩或者等有极光的时候去 Sudbury 看看极光了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 161,
+    "views": 163,
     "forwards": 0,
     "media_group_id": 14301362980376821,
     "images": [
@@ -122676,7 +122676,7 @@
     "id": 9177,
     "date": "2026-08-25T15:54:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n是小猫做的",
-    "views": 156,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 14301385979692053,
     "images": [
@@ -122716,7 +122716,7 @@
     "id": 9180,
     "date": "2026-08-26T02:13:18",
     "text": "好想要能种出无籽西瓜的种子",
-    "views": 112,
+    "views": 117,
     "forwards": 0
   }
 ]
