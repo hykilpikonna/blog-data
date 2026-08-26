@@ -12,7 +12,22 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:08:46 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #9184</title>
+      <link>https://aza.moe/life?post=9184</link>
+      <description>&lt;p&gt;从 JetBrains IDEA 的日志里找回来了，得救了&lt;/p&gt;</description>
+      <guid isPermaLink="false">9184</guid>
+    </item>
+    <item>
+      <title>小桂桂的回忆录 📒 #9183</title>
+      <link>https://aza.moe/life?post=9183</link>
+      <description>&lt;p&gt;Windows 💢💢💢💢&lt;/p&gt;
+&lt;p&gt;今天安装 AMD ROCm 的时候按官方教程打了 &lt;code&gt;setx PATH "%PATH%;..." /M&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;当时还没有意识到什么不对，就重启了，重启之后发现 ssh 找不到指令，一看 PATH 变量里面有 &lt;code&gt;%PATH%&lt;/code&gt; 才意识到炸了（因为 &lt;code&gt;%PATH%&lt;/code&gt; 是 cmd 的变量格式，PowerShell 不向下兼容所以没有替换变量就直接原文写上去了&lt;/p&gt;
+&lt;p&gt;好了现在我不知道之前的 PATH 变量是什么了&lt;/p&gt;</description>
+      <guid isPermaLink="false">9183</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #9182</title>
       <link>https://aza.moe/life?post=9182</link>
