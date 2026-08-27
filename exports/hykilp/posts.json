@@ -70665,7 +70665,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2863,
+    "views": 2864,
     "forwards": 29,
     "images": [
       {
@@ -89011,7 +89011,7 @@
     "id": 6548,
     "date": "2025-09-07T20:59:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n键盘测试歌\n\n几个小时前看到有群友发了某<a href=\"https://usevia.app/test\">键盘测试网页</a>，每个按键都是一个音符，还可以选合成器的音色，而且在电脑键盘上用 Wicki-Hayden 音符布局真的太天才了！\n\n好好玩 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 玩着玩着好想录下来做一个 lofi loop，就去做了！大概是这个频道里 <a href=\"##戴上耳机\">#戴上耳机</a> tag 里第一首自己做的曲子\n\n<a href=\"https://youtu.be/FNn9DtywBoM\">Youtube</a> | <a href=\"https://www.bilibili.com/video/BV1s5a9zsEL5/\">Bilibili</a>",
-    "views": 427,
+    "views": 428,
     "forwards": 4,
     "files": [
       {
@@ -117589,7 +117589,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 336,
+    "views": 338,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2404,
+    "views": 2410,
     "forwards": 68,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1682,
+    "views": 1683,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -122044,7 +122044,7 @@
     "id": 9136,
     "date": "2026-08-16T07:14:23",
     "text": "今天更新 JetBrains IDEA 发现新的启动画面变成一张很普通的 AI 风景画了...\n\n好失望，失望到决定花时间把所有历史版本的 IDEA PyCharm 下载下来拆了一下启动画面做对比\n\n好怀念 JetBrains 的 computational art 时代的启动图，真的好好看",
-    "views": 346,
+    "views": 347,
     "forwards": 6,
     "media_group_id": 14294915704180301,
     "images": [
@@ -122524,7 +122524,7 @@
   {
     "id": 9168,
     "date": "2026-08-23T16:42:55",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "images": [
       {
@@ -122562,7 +122562,7 @@
     "id": 9170,
     "date": "2026-08-24T20:01:41",
     "text": "小猫击杀的老鼠 +1",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "media_group_id": 14300813609955229,
     "images": [
@@ -122723,7 +122723,7 @@
     "id": 9181,
     "date": "2026-08-26T14:51:11",
     "text": "完全没猜到",
-    "views": 176,
+    "views": 177,
     "forwards": 1,
     "images": [
       {
@@ -122742,7 +122742,7 @@
     "id": 9182,
     "date": "2026-08-26T17:30:56",
     "text": "发现在家跑小模型完全不划算\n\n我的 AMD 机器跑 Qwen 3.8 27B 小模型 13 token/s，推理的时候和 idle 相比多吃大概 100W 的电，电费 CA$0.142/kWh\n\n这样只算电费就已经 US$0.22/M 出 $0.0067/M 入了，已经比 304B-A37B 的 dsv4f 0731 的 API 贵了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 164,
+    "views": 167,
     "forwards": 2,
     "images": [
       {
@@ -122761,7 +122761,7 @@
     "id": 9183,
     "date": "2026-08-26T20:16:30",
     "text": "Windows 💢💢💢💢\n\n今天安装 AMD ROCm 的时候按官方教程打了 <code>setx PATH \"%PATH%;...\" /M</code>\n\n当时还没有意识到什么不对，就重启了，重启之后发现 ssh 找不到指令，一看 PATH 变量里面有 <code>%PATH%</code> 才意识到炸了（因为 <code>%PATH%</code> 是 cmd 的变量格式，PowerShell 不向下兼容所以没有替换变量就直接原文写上去了\n\n好了现在我不知道之前的 PATH 变量是什么了",
-    "views": 152,
+    "views": 158,
     "forwards": 0,
     "images": [
       {
@@ -122780,7 +122780,7 @@
     "id": 9184,
     "date": "2026-08-26T20:29:13",
     "text": "从 JetBrains IDEA 的日志里找回来了，得救了",
-    "views": 149,
+    "views": 155,
     "forwards": 0,
     "reply": {
       "id": 9183,
