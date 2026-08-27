@@ -69295,7 +69295,7 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 852,
+    "views": 853,
     "forwards": 10
   },
   {
@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6665,
+    "views": 6666,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -81909,7 +81909,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1132,
+    "views": 1133,
     "forwards": 12
   },
   {
@@ -107040,8 +107040,8 @@
     "id": 8014,
     "date": "2026-03-12T07:11:46",
     "text": "这次添加了 浇水 和 树洞 功能 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>（分别是投票和匿名消息）\n\n以及可以去 <a href=\"tree.aza.moe\">tree.aza.moe</a> 看到完整的频道树哦",
-    "views": 1908,
-    "forwards": 9,
+    "views": 1910,
+    "forwards": 10,
     "reply": {
       "id": 8013,
       "text": "又到了植树节！想和大家一起再种一颗 tgcn 频道树🌳！（这次有更多功能可以玩哦~）\n\n这里是 小桂桂的回忆录 📒，是频道树的树根 🌳\n\n（如果你也有公开频道，想成为这个频道的树叶的话，就点击下面的「成为树叶」吧！ > <） <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fazaneko&rhash=d96b84e483dc30\">‎</a>"
@@ -112027,7 +112027,7 @@
     "id": 8381,
     "date": "2026-05-06T17:14:15",
     "text": "github 已经完全不能用了...\n\n今天想要审核一个 PR，首先是 clone 速度超级慢，然后尝试加 comment 的时候还 HTTP 422 了...",
-    "views": 405,
+    "views": 406,
     "forwards": 3,
     "media_group_id": 14224701246897629,
     "images": [
@@ -112394,7 +112394,7 @@
     "id": 8407,
     "date": "2026-05-11T05:53:48",
     "text": "昨天去看了 Project Hail Mary\n\n林子给我安利的时候说是工程师爽文，我看完觉得真的是爽文，太爽了，感觉第一次看到这么充满希望的科幻电影。\n\n我真的超喜欢这个所有人能好好让科学家解决科学问题的世界... 遇到灾难地球整体可以达成一致、没有政治博弈和人类贪婪的喧哗；唯一的敌人也只是纯粹的物理现象、也因此成为了最终解决方案的一部分。如果我们的现实也是这样就好了\n\n以及好喜欢它的科幻设定以及 rocky 这个角色的设定，每个看似很随机的细节背后都有实际的理论原因。Rocky 是一个从完全不同的环境进化出来又在关键的地方很相似的外星研究员，五条腿没有脸没有眼睛（因为他们的进化环境没有光，像是在地球海底一样）靠震动定位、生活在高温但是因为高压所以水依然是液体的星球，和人类的 Grace 完全没法在同一个温度压力环境下存在、却依然可以通过翻译器理解对方的语言产生感情关联真的太浪漫了\n\n不过说到语言，可能语言是唯一一个我觉得不太真实的地方，两个文明的个体第一次接触感觉完全不像是第一次接触。在搭好翻译器之前感觉就已经靠肢体语言互相理解意图了，搭翻译器的过程只是逐词录音替换，搭好之后就真的完全是在说英语，还是很地道完全没有翻译偏差的英语... <del>原来 Erid 也是英国殖民地</del>\n\n不过总体上是很喜欢的电影！推荐大家看。感觉和最近 NASA 载人深空探索的复兴一起给我了很多对世界的希望 qwq",
-    "views": 362,
+    "views": 363,
     "forwards": 5,
     "images": [
       {
@@ -117589,7 +117589,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 335,
+    "views": 336,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -119179,7 +119179,7 @@
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 465,
+    "views": 466,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -120132,7 +120132,7 @@
     "id": 8993,
     "date": "2026-07-28T05:51:00",
     "text": "今天发现了一个 2017 年的奇妙 VR 沙盒小游戏 Blocks by Google，是原本想找谷歌地球 VR 所以去 Steam 商店搜索 Google 偶然发现的\n\n在里面可以用各种图形进行简单的 low poly 建模，手感好不错感觉完全不需要适应就会用了 qwq（其实这是我第一次 mesh 建模，以前都是工程建模来着）\n\n不知道为什么感觉好冷门，我今天才听说这个，在谷歌上搜“谷歌 VR 游戏”都搜不到... 不过可能谷歌自己都忘了有这个东西了，游戏里点登录直接被谷歌自己 block 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n<del>Google Blocks Google's Blocks by Google</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 252,
+    "views": 253,
     "forwards": 1,
     "media_group_id": 14281742885268429,
     "images": [
@@ -120182,7 +120182,7 @@
     "id": 8997,
     "date": "2026-07-28T22:08:59",
     "text": "（如果不同项目有不同 vibe 策略的话可以多选）",
-    "views": 294,
+    "views": 295,
     "forwards": 2,
     "files": [
       {
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 380,
+    "views": 381,
     "forwards": 3,
     "reply": {
       "id": 4277,
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2398,
+    "views": 2404,
     "forwards": 68,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1680,
+    "views": 1682,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -121876,7 +121876,7 @@
   {
     "id": 9124,
     "date": "2026-08-14T02:26:39",
-    "views": 322,
+    "views": 323,
     "forwards": 0,
     "files": [
       {
@@ -121898,7 +121898,7 @@
     "id": 9125,
     "date": "2026-08-14T09:28:29",
     "text": "感谢 gemini 3.7 flash 的跑分图给 gpt 5.6 luna 打广告 🤡\n\n我感觉这张图想说它在某种又便宜又能用的性价比最优线，但是它的右上就是更便宜更好的 5.6 luna xhigh，左上就是更贵更好的 opus 5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 335,
+    "views": 336,
     "forwards": 0,
     "media_group_id": 14293597672920397,
     "images": [
@@ -121933,7 +121933,7 @@
     "id": 9127,
     "date": "2026-08-14T10:18:21",
     "text": "最近睡觉的时候总是会听到很淡的高频噪音，听起来像是 9.5-10 kHz\n\n原本以为是我耳鸣，今天受不了了进行了一些测试发现是真的物理声音\n\n用 Spectroid 贴着房间找了一下声音来源，最后发现是便宜五号电池充电器发出的声音... 实际上是 14384 Hz 和 7235 Hz 两个峰值，拔掉电源就没有了",
-    "views": 360,
+    "views": 361,
     "forwards": 3,
     "media_group_id": 14293621614327757,
     "images": [
@@ -121983,7 +121983,7 @@
     "id": 9131,
     "date": "2026-08-15T18:12:59",
     "text": "记得之前有人推荐我去玩微软模拟飞行，所以去玩了！好玩喵好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 293,
+    "views": 294,
     "forwards": 3,
     "media_group_id": 14294540634428893,
     "images": [
@@ -122026,14 +122026,14 @@
     "id": 9134,
     "date": "2026-08-15T22:28:09",
     "text": "<del>我的五米灯条是不是一个 196\" 的 460p 显示器</del>",
-    "views": 286,
+    "views": 287,
     "forwards": 0
   },
   {
     "id": 9135,
     "date": "2026-08-15T23:04:01",
     "text": "感觉人类总是喜欢用很奇怪的尺寸标准...\n\n为什么显示器要用对角线长度？明明这样越偏离 1:1 正方形就会让数字越大\n\n为什么分辨率要用边长？窄屏 1440x1440 和宽屏 2880x1440 都是 1440p，但是一个比另一个大一倍\n\n为什么相机传感器尺寸要用“对角线 / 0.66”？？所谓的一英寸传感器实际上是 0.66\"，1/2\" 实际上是 0.33\"... 便宜扫描仪上的那一条传感器实际上是 8.5\"，比所有相机的尺寸数字都大了\n\n我真的觉得所有描述平面的地方都应该用 sqrt(面积)，这样既能很精准的表达实际大小同时也能和人对大小的主观感受相符\n\n比如说同样是 27\" 的 16:9 屏幕的方根面积是 17.6，而 27\" 21:9 屏幕就是 16.3，看对角线会以为一样大，看方根面积才能正确看出 21:9 的屏幕小很多",
-    "views": 287,
+    "views": 288,
     "forwards": 2,
     "reply": {
       "id": 9134,
@@ -122044,7 +122044,7 @@
     "id": 9136,
     "date": "2026-08-16T07:14:23",
     "text": "今天更新 JetBrains IDEA 发现新的启动画面变成一张很普通的 AI 风景画了...\n\n好失望，失望到决定花时间把所有历史版本的 IDEA PyCharm 下载下来拆了一下启动画面做对比\n\n好怀念 JetBrains 的 computational art 时代的启动图，真的好好看",
-    "views": 345,
+    "views": 346,
     "forwards": 6,
     "media_group_id": 14294915704180301,
     "images": [
@@ -122078,7 +122078,7 @@
     "id": 9138,
     "date": "2026-08-16T07:20:40",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 292,
+    "views": 293,
     "forwards": 1,
     "forwarded_from": {
       "name": "小桂桂的回忆录 📒"
@@ -122088,7 +122088,7 @@
     "id": 9139,
     "date": "2026-08-17T00:15:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸汤肥牛丼也是牛丼！\n\n不过做得太辣了吃了一半就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 296,
+    "views": 297,
     "forwards": 0,
     "media_group_id": 14295405866438045,
     "images": [
@@ -122118,7 +122118,7 @@
     "id": 9143,
     "date": "2026-08-17T03:42:22",
     "text": "（？）",
-    "views": 300,
+    "views": 301,
     "forwards": 0,
     "media_group_id": 14295505142588117,
     "images": [
@@ -122158,7 +122158,7 @@
     "id": 9144,
     "date": "2026-08-17T11:20:42",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a> 前租户留下的花盆长出了一棵神秘植物\n\n拍照识别一下，llm：这是百合，下面是一只黑猫 ☺️\n\n等等... 百合，猫，😱\n\n赶紧把它放到很高猫上不去的地方隔离一下，再查查怎么办\n\n想想和我印象里的百合不太一样，用 Google lens 确认了一下，发现实际上是加拿大 goldenrod，对猫没有毒 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n把它放下来了，果然还是不能随便相信 llm 的视觉能力\n\n（不过同样确认了一下，厨房的葱确实还是葱，还是需要放到小猫碰不到的地方 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 284,
+    "views": 285,
     "forwards": 2,
     "media_group_id": 14295725139945197,
     "images": [
@@ -122208,7 +122208,7 @@
     "id": 9148,
     "date": "2026-08-18T04:52:17",
     "text": "去年用学生证领的谷歌 1 要结束了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 301,
+    "views": 302,
     "forwards": 0,
     "reply": {
       "id": 9125,
@@ -122232,7 +122232,7 @@
     "id": 9149,
     "date": "2026-08-18T14:26:22",
     "text": "不太聪明喵",
-    "views": 288,
+    "views": 289,
     "forwards": 1,
     "images": [
       {
@@ -122250,7 +122250,7 @@
   {
     "id": 9150,
     "date": "2026-08-19T05:04:59",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "media_group_id": 14296927194811861,
     "images": [
@@ -122280,14 +122280,14 @@
     "id": 9152,
     "date": "2026-08-19T20:11:20",
     "text": "<a href=\"##TIL\">#TIL</a> 原来じゃないじゃない不是双重否定",
-    "views": 244,
+    "views": 245,
     "forwards": 0
   },
   {
     "id": 9153,
     "date": "2026-08-19T23:17:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n樱桃芬达照烧鸡腿！\n\n味道意外的不是很黑暗料理",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "media_group_id": 14297451477245421,
     "images": [
@@ -122337,7 +122337,7 @@
     "id": 9157,
     "date": "2026-08-19T23:38:17",
     "text": "烘干猫",
-    "views": 307,
+    "views": 308,
     "forwards": 1,
     "images": [
       {
@@ -122356,7 +122356,7 @@
     "id": 9158,
     "date": "2026-08-20T01:18:08",
     "text": "猫",
-    "views": 286,
+    "views": 288,
     "forwards": 0,
     "images": [
       {
@@ -122375,7 +122375,7 @@
     "id": 9159,
     "date": "2026-08-20T02:04:18",
     "text": "两天前刚说完，今天谷歌 1 学生计划就回来了\n\n<a href=\"https://one.google.com/ai-student\">https://one.google.com/ai-student</a>\n\n虽然只有美国有 Pro，其他国家都是 Plus",
-    "views": 278,
+    "views": 280,
     "forwards": 1,
     "reply": {
       "id": 9148,
@@ -122386,7 +122386,7 @@
     "id": 9160,
     "date": "2026-08-20T17:10:09",
     "text": "葱长得好好",
-    "views": 290,
+    "views": 291,
     "forwards": 1,
     "images": [
       {
@@ -122405,7 +122405,7 @@
     "id": 9161,
     "date": "2026-08-20T22:20:55",
     "text": "好包含的表格\n\n问家长信息的时候不假设必须有一父一母，甚至不假设一个人必须有两个家长（默认给了四个槽）",
-    "views": 286,
+    "views": 287,
     "forwards": 4,
     "images": [
       {
@@ -122424,7 +122424,7 @@
     "id": 9162,
     "date": "2026-08-21T14:31:01",
     "text": "昨天又例常肚肚疼\n\n想做一些能让我 hyperfocus 忘记疼的事情，我想 factorio 感觉上是能让我忘记一切的游戏，正好想入坑就下载下来玩玩吧 qwq\n\n打开游戏是下午七点\n\n...回过神来已经第二天早上十点了 <a href=\"tg://emoji?id=6323315689444607430\">☁️</a>",
-    "views": 271,
+    "views": 272,
     "forwards": 0,
     "media_group_id": 14298581290607405,
     "images": [
@@ -122463,7 +122463,7 @@
   {
     "id": 9165,
     "date": "2026-08-22T05:13:22",
-    "views": 269,
+    "views": 270,
     "forwards": 0,
     "images": [
       {
@@ -122482,7 +122482,7 @@
     "id": 9166,
     "date": "2026-08-22T05:17:53",
     "text": "种的 Basil 藤爬到绿萝上了",
-    "views": 263,
+    "views": 266,
     "forwards": 1,
     "images": [
       {
@@ -122501,7 +122501,7 @@
     "id": 9167,
     "date": "2026-08-23T03:00:55",
     "text": "在 steam 上两年没有打过一次折的自信",
-    "views": 265,
+    "views": 266,
     "forwards": 0,
     "reply": {
       "id": 9162,
@@ -122524,7 +122524,7 @@
   {
     "id": 9168,
     "date": "2026-08-23T16:42:55",
-    "views": 245,
+    "views": 246,
     "forwards": 0,
     "images": [
       {
@@ -122543,7 +122543,7 @@
     "id": 9169,
     "date": "2026-08-24T16:16:17",
     "text": "出门太急的后果",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "images": [
       {
@@ -122562,7 +122562,7 @@
     "id": 9170,
     "date": "2026-08-24T20:01:41",
     "text": "小猫击杀的老鼠 +1",
-    "views": 218,
+    "views": 219,
     "forwards": 0,
     "media_group_id": 14300813609955229,
     "images": [
@@ -122592,7 +122592,7 @@
     "id": 9172,
     "date": "2026-08-25T01:35:07",
     "text": "这学期\n上课在设计 renewable BESS\n下课还在设计 renewable BESS",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 14300973655951085,
     "images": [
@@ -122627,7 +122627,7 @@
     "id": 9174,
     "date": "2026-08-25T03:26:03",
     "text": "草 原来火车整不好真的会撞",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "images": [
       {
@@ -122646,7 +122646,7 @@
     "id": 9175,
     "date": "2026-08-25T15:06:12",
     "text": "为什么我喜欢在日本开车旅游\n\n同样是开车 6h 的距离，从东京出发可以去愛知岐阜富山長野静岡山梨新潟群馬埼玉神奈川千葉茨城栃木福島山形宮城\n\n从 Kitchener 出发不能进美国的话甚至没法出省... 只能去 Ottawa 玩或者等有极光的时候去 Sudbury 看看极光了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "media_group_id": 14301362980376821,
     "images": [
@@ -122676,7 +122676,7 @@
     "id": 9177,
     "date": "2026-08-25T15:54:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n是小猫做的",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "media_group_id": 14301385979692053,
     "images": [
@@ -122716,14 +122716,14 @@
     "id": 9180,
     "date": "2026-08-26T02:13:18",
     "text": "好想要能种出无籽西瓜的种子",
-    "views": 194,
+    "views": 196,
     "forwards": 0
   },
   {
     "id": 9181,
     "date": "2026-08-26T14:51:11",
     "text": "完全没猜到",
-    "views": 172,
+    "views": 176,
     "forwards": 1,
     "images": [
       {
@@ -122742,7 +122742,7 @@
     "id": 9182,
     "date": "2026-08-26T17:30:56",
     "text": "发现在家跑小模型完全不划算\n\n我的 AMD 机器跑 Qwen 3.8 27B 小模型 13 token/s，推理的时候和 idle 相比多吃大概 100W 的电，电费 CA$0.142/kWh\n\n这样只算电费就已经 US$0.22/M 出 $0.0067/M 入了，已经比 304B-A37B 的 dsv4f 0731 的 API 贵了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 155,
+    "views": 164,
     "forwards": 2,
     "images": [
       {
@@ -122761,7 +122761,7 @@
     "id": 9183,
     "date": "2026-08-26T20:16:30",
     "text": "Windows 💢💢💢💢\n\n今天安装 AMD ROCm 的时候按官方教程打了 <code>setx PATH \"%PATH%;...\" /M</code>\n\n当时还没有意识到什么不对，就重启了，重启之后发现 ssh 找不到指令，一看 PATH 变量里面有 <code>%PATH%</code> 才意识到炸了（因为 <code>%PATH%</code> 是 cmd 的变量格式，PowerShell 不向下兼容所以没有替换变量就直接原文写上去了\n\n好了现在我不知道之前的 PATH 变量是什么了",
-    "views": 142,
+    "views": 152,
     "forwards": 0,
     "images": [
       {
@@ -122780,7 +122780,7 @@
     "id": 9184,
     "date": "2026-08-26T20:29:13",
     "text": "从 JetBrains IDEA 的日志里找回来了，得救了",
-    "views": 139,
+    "views": 149,
     "forwards": 0,
     "reply": {
       "id": 9183,
