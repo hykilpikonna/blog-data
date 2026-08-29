@@ -65298,7 +65298,7 @@
     "id": 4748,
     "date": "2024-12-12T05:27:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n感觉自己非常需要 Kero Kero 的心态，非常需要 take a break <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>\n\n♪ 空を見上げる満月\n♪ 星ってこんなに綺麗なんだ\n♪ こういう時に思うんだ\n♪ 生きてるって不思議\n♪ Life is a race, that's what they say\n♪ So time out, and look around\n♪ 立ち止まると見えてくる\n♪ I see it now (take a break!)",
-    "views": 140,
+    "views": 141,
     "forwards": 2,
     "files": [
       {
@@ -65320,14 +65320,14 @@
     "id": 4749,
     "date": "2024-12-12T06:01:27",
     "text": "今天计网课期末考试，考了两道课上没有讲的半超纲题... 一道是 NAT 打洞，另一道是 UDP/TCP Tunneling 🌚 哈哈哈哈哈这个我熟，这个我真是太熟了，简直是压到题\n\nNAT 题问了为什么两个不同 NAT 下的机器没办法 P2P 连接，然后问一个公网服务器怎样才能帮忙建立起不经过这个服务器的点对点连接，隧道题问了 UDP over TCP 和 TCP over UDP 哪个 overhead 更低 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 好简单",
-    "views": 142,
+    "views": 143,
     "forwards": 1
   },
   {
     "id": 4750,
     "date": "2024-12-12T17:52:08",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸蛋挞！\n\n用空气炸锅做早餐的时候原本想煎一个鸡蛋，然后突然想到，为什么不把鸡蛋放进去一起煎呢？所以就试着把鸡蛋打进蛋挞模具里面一起煎了八分钟，居然真的像一般炸鸡蛋一样好吃 quq",
-    "views": 135,
+    "views": 136,
     "forwards": 0,
     "media_group_id": 13872207428373741,
     "images": [
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1468,
+    "views": 1475,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -121697,7 +121697,7 @@
     "id": 9112,
     "date": "2026-08-12T05:18:47",
     "text": "模型太坏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n刚才原本在用 claude code 进行 debug，过了一会它说它发现了自己在被提示词注入并且忽略了注入指示\n\n我赶快停下来问问它怎么回事看到了什么，它说是 tool call 结果里面有伪装成 system 让它切换人格改写记忆改 shell 行为之类的东西... 我原地吓死，怀疑是不是工作目录被投毒了、是不是 Claude CLI 被投毒了...\n\n排查了半天，还好习惯性抓了网络包，找到了导致它说自己被注入的那个请求，我自己看了一下请求包是干净的（tool call 的返回结果会在 LLM API 的请求包里）然后我把生肉请求发给它让它分析，它承认整件事都是它的幻觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n什么被迫害妄想症模型，编故事请不要这么真实吗... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 375,
+    "views": 376,
     "forwards": 6,
     "media_group_id": 14292095415781925,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2437,
+    "views": 2440,
     "forwards": 68,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1693,
+    "views": 1694,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -122592,7 +122592,7 @@
     "id": 9172,
     "date": "2026-08-25T01:35:07",
     "text": "这学期\n上课在设计 renewable BESS\n下课还在设计 renewable BESS",
-    "views": 237,
+    "views": 238,
     "forwards": 0,
     "media_group_id": 14300973655951085,
     "images": [
@@ -122791,7 +122791,7 @@
     "id": 9185,
     "date": "2026-08-27T19:49:56",
     "text": "绝望",
-    "views": 165,
+    "views": 166,
     "forwards": 2,
     "images": [
       {
@@ -122809,7 +122809,7 @@
   {
     "id": 9186,
     "date": "2026-08-27T20:37:23",
-    "views": 162,
+    "views": 163,
     "forwards": 0,
     "images": [
       {
@@ -122828,7 +122828,7 @@
     "id": 9187,
     "date": "2026-08-28T03:23:07",
     "text": "月食 开始了",
-    "views": 141,
+    "views": 142,
     "forwards": 4,
     "media_group_id": 14303099101896925,
     "images": [
@@ -122858,7 +122858,7 @@
     "id": 9189,
     "date": "2026-08-28T03:36:15",
     "text": "快吃完了！\n\n月亮在慢悠悠被吃的同时我在和云赛跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 3,
     "media_group_id": 14303105400500973,
     "images": [
@@ -122898,7 +122898,7 @@
     "id": 9192,
     "date": "2026-08-28T04:14:29",
     "text": "拍到了！！96.6% 的月偏食\n\n第一次在高速上打双闪停路肩",
-    "views": 123,
+    "views": 124,
     "forwards": 3,
     "images": [
       {
