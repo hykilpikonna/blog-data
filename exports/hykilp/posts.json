@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6667,
+    "views": 6668,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -119179,7 +119179,7 @@
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 491,
+    "views": 492,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1502,
+    "views": 1505,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2471,
+    "views": 2476,
     "forwards": 68,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1719,
+    "views": 1725,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -122646,7 +122646,7 @@
     "id": 9175,
     "date": "2026-08-25T15:06:12",
     "text": "为什么我喜欢在日本开车旅游\n\n同样是开车 6h 的距离，从东京出发可以去愛知岐阜富山長野静岡山梨新潟群馬埼玉神奈川千葉茨城栃木福島山形宮城\n\n从 Kitchener 出发不能进美国的话甚至没法出省... 只能去 Ottawa 玩或者等有极光的时候去 Sudbury 看看极光了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 250,
+    "views": 251,
     "forwards": 0,
     "media_group_id": 14301362980376821,
     "images": [
@@ -122898,7 +122898,7 @@
     "id": 9192,
     "date": "2026-08-28T04:14:29",
     "text": "拍到了！！96.6% 的月偏食\n\n第一次在高速上打双闪停路肩",
-    "views": 206,
+    "views": 207,
     "forwards": 5,
     "images": [
       {
@@ -122917,7 +122917,7 @@
     "id": 9193,
     "date": "2026-08-29T01:01:50",
     "text": "聊聊因为<span class=\"spoiler\"><span>没有按时陪小猫玩</span></span>被逮捕了，送聊聊去监狱拘留一天 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n好吧其实是监狱改造的旅店 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 177,
+    "views": 179,
     "forwards": 5,
     "media_group_id": 14303722481077253,
     "images": [
@@ -123026,7 +123026,7 @@
   {
     "id": 9203,
     "date": "2026-08-30T00:52:24",
-    "views": 121,
+    "views": 125,
     "forwards": 0,
     "images": [
       {
@@ -123045,7 +123045,7 @@
     "id": 9204,
     "date": "2026-08-30T04:10:03",
     "text": "去农业博物馆，感觉注意到了小动物的个性\n\n看到在这里打工的小猫，走路姿态感觉像是这里的馆长一样（因为是工作小猫，并没有固定位置会随机刷新，所以能看到还是有点运气的）。好羡慕可以让它在这里随意乱跑，如果是我的小猫的话一定会抓住一切机会找缝隙窜出去 \n\n还有毛发是一个❤️的小牛、喜欢伸舌头的大牛、姿势看起来超舒适的一长条羊驼、有很大圈笼子但是喜欢挤在一角的山羊、像鸟一样立在树枝上的小鸡，都好独特",
-    "views": 96,
+    "views": 100,
     "forwards": 1,
     "media_group_id": 14304504026234965,
     "images": [
@@ -123155,7 +123155,7 @@
     "id": 9214,
     "date": "2026-08-30T04:34:26",
     "text": "冷战时期的藏身处\n\n<del>原来冷战时期就有 esp32 和 windows 95</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n不知道有多少是当时存留下来的有多少是新布置的，不过总体来说年代还是挺正确啦\n\n结果即使在讲冷战藏身处，最让我感兴趣的还是这里面的旧机器呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 85,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 14304515730188229,
     "images": [
