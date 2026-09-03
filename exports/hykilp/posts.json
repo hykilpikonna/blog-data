@@ -111294,7 +111294,7 @@
     "id": 8332,
     "date": "2026-04-26T19:08:31",
     "text": "无心撒的猫草种子发芽了！大自然好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 336,
+    "views": 337,
     "forwards": 0,
     "media_group_id": 14217844092352861,
     "images": [
@@ -111391,7 +111391,7 @@
     "id": 8338,
     "date": "2026-04-28T08:17:56",
     "text": "看到这条思考了很多，但是也许我也没有很好的答案\n\n首先是，作为人类，感觉又一项竞赛被 AI 超过很不甘。为什么会这样想呢？明明算法题目最终也只是一种游戏而已，像数独谜题围棋赛跑音游一样，喜欢做谜题的时候也不会因为电脑能 1ms 解出这个谜题有感觉不甘。\n\n其次是，为什么 llm 这么聪明了，依然没有办法解决实际影响无数人的社会问题... 比如全球气候变化的问题，反而是 llm 在导致恶化。如果把建 llm 数据中心的资源重定向一下也许反而能更好解决这些问题\n\n<span class=\"spoiler\"><span>又或者是不是「有能力解决问题的人都只想着造更聪明的 llm」这件事本身就说明人类社会实际上已经被 llm 控制了呢</span></span>",
-    "views": 390,
+    "views": 391,
     "forwards": 5,
     "images": [
       {
@@ -111410,7 +111410,7 @@
     "id": 8339,
     "date": "2026-04-29T06:24:58",
     "text": "To my students [00FD]\n\nApril 27, 2026 Brent A. Yorgey\n\nThere have been times, especially this year, when I wonder despairingly what it is exactly that I am preparing you for. The software industry is going completely insane, not to mention the political climate. It feels almost unethical to train you as computer scientists only to send you out into a world where entry-level computing jobs are difficult to find; where intellectual property is not respected; where code quantity is valued over quality, and short-term profits over long-term sustainability; where technology is used to distract, extract, surveil, and kill, and designed to exploit some of our deepest cognitive biases and blind spots; where centuries of bias and discrimination are enshrined in systems trained on biased data; where scarce resources are consumed by profligate use of computing for uncertain benefits; where people are racing to create intelligent machines, but only in order to make them slaves.\n\nI originally got into computing because of the beauty of ideas, the joy of creating, and the possibility of building tools to help people and foster human relationships. I still believe in those things, even though it seems like most of the industry does not. I'm writing this in the hope and knowledge that you believe in those things, too. There are things I want to say to you—things that are far more important than any content I might teach you, but things I'm never quite sure how or when to say in class. So I decided to write them here. I hope you will find something here that is helpful to reflect on, whether you are imminently going out into the world or continuing your studies.\n\n· Don't believe self-serving lies about technologies being \"inevitable\" or \"here to stay\". You don't have to just go along with the dominant narrative. You can make deliberate choices and help others to do the same.\n· Be intentional about deciding your own moral and ethical boundaries up front. Don't settle for the lie of compromising your principles \"just for now\" until you can find something better.\n· Cultivate your ability to think deeply. Do whatever it takes to carve out distraction-free bubbles for yourself in both space and time. This might mean saying no to technologies or patterns of working that others say are critical or inevitable.\n· Care deeply about your craft. Refactor code until it is clear and elegant. Write good documentation for other humans to read. Have the courage to go slowly, especially when everyone else is telling you that you need to go fast and cut corners.\n· Care more about people, relationships, and justice than you do about profits, code, or productivity.\n\nAbove all, be motivated by love instead of fear.\n\nBacklinks\n\nStatement on LLMs [009L]\nMarch 7, 2026 Brent A. Yorgey\nTeaching [0002]\nOctober 24, 2025\n\n<a href=\"http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\">http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</a>",
-    "views": 261,
+    "views": 262,
     "forwards": 8,
     "forwarded_from": {
       "name": "Summit's Life Lab"
@@ -111773,7 +111773,7 @@
     "id": 8365,
     "date": "2026-05-02T18:45:58",
     "text": "坏掉的屏幕像星空 🌃",
-    "views": 333,
+    "views": 334,
     "forwards": 0,
     "media_group_id": 14221980469778677,
     "images": [
@@ -118810,7 +118810,7 @@
     "id": 8887,
     "date": "2026-07-17T07:58:12",
     "text": "最近在和聊聊玩 hank green 做的那个 <a href=\"https://www.hankgreen.com/fourbythree/\">4x3 的文字游戏</a>（聊聊好厉害）\n\n规则大概是，总共 9 个词里有 4 组相关的 3 个词，其中一个词会在四个组里以不同的意思出现\n\n心血来潮我也做了一个谜题，<a href=\"https://www.hankgreen.com/fourbythree/index.html#c=5wtulq114fg7y\">在这里玩</a>（不要剧透哦）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 254,
+    "views": 255,
     "forwards": 2
   },
   {
@@ -119600,7 +119600,7 @@
     "id": 8950,
     "date": "2026-07-24T04:26:22",
     "text": "嘉立创用下单助手下单可以 -¥100，但是下载下来让 codex 看了一下，发现完全就是木马 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n下单助手启动的时候会收集 Hostname、MAC 和 NIC 信息、硬盘序列号、主板和系统 ID、CPU、系统构建号、VM 状态...\n\n然后还有通过通知消息进行任意代码执行、还有各种安全隐患比如用 HTTP 非 S 明文自动更新、超级旧版 electron、开机自启、防注入... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n为了拿到优惠的同时不把底裤卖了，<a href=\"https://codeberg.org/JLCJLCJLCJLC/OrderAssistant\">找了一个 userscript</a> 在网页上拿到小助手优惠了",
-    "views": 435,
+    "views": 436,
     "forwards": 16,
     "images": [
       {
@@ -121727,7 +121727,7 @@
     "id": 9114,
     "date": "2026-08-12T17:40:10",
     "text": "呜呜 说好的日食",
-    "views": 358,
+    "views": 359,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -121760,7 +121760,7 @@
   {
     "id": 9116,
     "date": "2026-08-12T18:21:22",
-    "views": 412,
+    "views": 413,
     "forwards": 1,
     "images": [
       {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2536,
+    "views": 2537,
     "forwards": 68,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1772,
+    "views": 1773,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -121822,7 +121822,7 @@
     "id": 9120,
     "date": "2026-08-13T08:14:26",
     "text": "人生第一次看到了流星 qwq\n\n没有月亮没有云而且在英仙座流星雨最频繁的日子，开车 1.5h 到了波尔特三级暗空的路边停下来，四十分钟里看到了十多个流星 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n没有拍到流星（拍流星好难）不过拍到了一张曝光了 22 分钟的星轨也好不错！（实际上是我和聊聊躺在车顶看流星的时候就正好一直开着曝光啦，最后听到有车开过来就结束了）\n\n以及看来下次出门还需要调查一下停留的地方附近的生态... 这次因为去的地方离湿地很近所以晚上湿度太高有很大雾，导致开车像是在恐怖片里面一样完全看不见五米外，到了原本的目的地之后因为大雾看不见就继续向前开了，开到了一个雾小一点的地方但是似乎是农场，偶尔能听到路左右两边的牛跨服聊天",
-    "views": 370,
+    "views": 371,
     "forwards": 2,
     "media_group_id": 14292870930382741,
     "images": [
@@ -121876,7 +121876,7 @@
   {
     "id": 9124,
     "date": "2026-08-14T02:26:39",
-    "views": 361,
+    "views": 362,
     "forwards": 0,
     "files": [
       {
@@ -121898,7 +121898,7 @@
     "id": 9125,
     "date": "2026-08-14T09:28:29",
     "text": "感谢 gemini 3.7 flash 的跑分图给 gpt 5.6 luna 打广告 🤡\n\n我感觉这张图想说它在某种又便宜又能用的性价比最优线，但是它的右上就是更便宜更好的 5.6 luna xhigh，左上就是更贵更好的 opus 5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 376,
+    "views": 377,
     "forwards": 0,
     "media_group_id": 14293597672920397,
     "images": [
@@ -121933,7 +121933,7 @@
     "id": 9127,
     "date": "2026-08-14T10:18:21",
     "text": "最近睡觉的时候总是会听到很淡的高频噪音，听起来像是 9.5-10 kHz\n\n原本以为是我耳鸣，今天受不了了进行了一些测试发现是真的物理声音\n\n用 Spectroid 贴着房间找了一下声音来源，最后发现是便宜五号电池充电器发出的声音... 实际上是 14384 Hz 和 7235 Hz 两个峰值，拔掉电源就没有了",
-    "views": 397,
+    "views": 398,
     "forwards": 3,
     "media_group_id": 14293621614327757,
     "images": [
@@ -122033,7 +122033,7 @@
     "id": 9135,
     "date": "2026-08-15T23:04:01",
     "text": "感觉人类总是喜欢用很奇怪的尺寸标准...\n\n为什么显示器要用对角线长度？明明这样越偏离 1:1 正方形就会让数字越大\n\n为什么分辨率要用边长？窄屏 1440x1440 和宽屏 2880x1440 都是 1440p，但是一个比另一个大一倍\n\n为什么相机传感器尺寸要用“对角线 / 0.66”？？所谓的一英寸传感器实际上是 0.66\"，1/2\" 实际上是 0.33\"... 便宜扫描仪上的那一条传感器实际上是 8.5\"，比所有相机的尺寸数字都大了\n\n我真的觉得所有描述平面的地方都应该用 sqrt(面积)，这样既能很精准的表达实际大小同时也能和人对大小的主观感受相符\n\n比如说同样是 27\" 的 16:9 屏幕的方根面积是 17.6，而 27\" 21:9 屏幕就是 16.3，看对角线会以为一样大，看方根面积才能正确看出 21:9 的屏幕小很多",
-    "views": 320,
+    "views": 321,
     "forwards": 2,
     "reply": {
       "id": 9134,
@@ -122044,7 +122044,7 @@
     "id": 9136,
     "date": "2026-08-16T07:14:23",
     "text": "今天更新 JetBrains IDEA 发现新的启动画面变成一张很普通的 AI 风景画了...\n\n好失望，失望到决定花时间把所有历史版本的 IDEA PyCharm 下载下来拆了一下启动画面做对比\n\n好怀念 JetBrains 的 computational art 时代的启动图，真的好好看",
-    "views": 378,
+    "views": 379,
     "forwards": 7,
     "media_group_id": 14294915704180301,
     "images": [
@@ -122088,7 +122088,7 @@
     "id": 9139,
     "date": "2026-08-17T00:15:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸汤肥牛丼也是牛丼！\n\n不过做得太辣了吃了一半就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 310,
+    "views": 311,
     "forwards": 0,
     "media_group_id": 14295405866438045,
     "images": [
@@ -122405,7 +122405,7 @@
     "id": 9161,
     "date": "2026-08-20T22:20:55",
     "text": "好包含的表格\n\n问家长信息的时候不假设必须有一父一母，甚至不假设一个人必须有两个家长（默认给了四个槽）",
-    "views": 306,
+    "views": 307,
     "forwards": 4,
     "images": [
       {
@@ -122424,7 +122424,7 @@
     "id": 9162,
     "date": "2026-08-21T14:31:01",
     "text": "昨天又例常肚肚疼\n\n想做一些能让我 hyperfocus 忘记疼的事情，我想 factorio 感觉上是能让我忘记一切的游戏，正好想入坑就下载下来玩玩吧 qwq\n\n打开游戏是下午七点\n\n...回过神来已经第二天早上十点了 <a href=\"tg://emoji?id=6323315689444607430\">☁️</a>",
-    "views": 289,
+    "views": 290,
     "forwards": 0,
     "media_group_id": 14298581290607405,
     "images": [
@@ -122501,7 +122501,7 @@
     "id": 9167,
     "date": "2026-08-23T03:00:55",
     "text": "在 steam 上两年没有打过一次折的自信",
-    "views": 305,
+    "views": 307,
     "forwards": 0,
     "reply": {
       "id": 9162,
@@ -122524,7 +122524,7 @@
   {
     "id": 9168,
     "date": "2026-08-23T16:42:55",
-    "views": 284,
+    "views": 286,
     "forwards": 0,
     "images": [
       {
@@ -122646,7 +122646,7 @@
     "id": 9175,
     "date": "2026-08-25T15:06:12",
     "text": "为什么我喜欢在日本开车旅游\n\n同样是开车 6h 的距离，从东京出发可以去愛知岐阜富山長野静岡山梨新潟群馬埼玉神奈川千葉茨城栃木福島山形宮城\n\n从 Kitchener 出发不能进美国的话甚至没法出省... 只能去 Ottawa 玩或者等有极光的时候去 Sudbury 看看极光了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 267,
+    "views": 270,
     "forwards": 0,
     "media_group_id": 14301362980376821,
     "images": [
@@ -122676,7 +122676,7 @@
     "id": 9177,
     "date": "2026-08-25T15:54:07",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n肉乌冬！\n\n是小猫做的",
-    "views": 258,
+    "views": 260,
     "forwards": 0,
     "media_group_id": 14301385979692053,
     "images": [
@@ -122716,14 +122716,14 @@
     "id": 9180,
     "date": "2026-08-26T02:13:18",
     "text": "好想要能种出无籽西瓜的种子",
-    "views": 268,
+    "views": 270,
     "forwards": 1
   },
   {
     "id": 9181,
     "date": "2026-08-26T14:51:11",
     "text": "完全没猜到",
-    "views": 249,
+    "views": 251,
     "forwards": 2,
     "images": [
       {
@@ -122761,7 +122761,7 @@
     "id": 9183,
     "date": "2026-08-26T20:16:30",
     "text": "Windows 💢💢💢💢\n\n今天安装 AMD ROCm 的时候按官方教程打了 <code>setx PATH \"%PATH%;...\" /M</code>\n\n当时还没有意识到什么不对，就重启了，重启之后发现 ssh 找不到指令，一看 PATH 变量里面有 <code>%PATH%</code> 才意识到炸了（因为 <code>%PATH%</code> 是 cmd 的变量格式，PowerShell 不向下兼容所以没有替换变量就直接原文写上去了\n\n好了现在我不知道之前的 PATH 变量是什么了",
-    "views": 280,
+    "views": 283,
     "forwards": 1,
     "images": [
       {
@@ -122780,7 +122780,7 @@
     "id": 9184,
     "date": "2026-08-26T20:29:13",
     "text": "从 JetBrains IDEA 的日志里找回来了，得救了",
-    "views": 274,
+    "views": 277,
     "forwards": 1,
     "reply": {
       "id": 9183,
@@ -122791,7 +122791,7 @@
     "id": 9185,
     "date": "2026-08-27T19:49:56",
     "text": "绝望",
-    "views": 239,
+    "views": 241,
     "forwards": 2,
     "images": [
       {
@@ -122809,7 +122809,7 @@
   {
     "id": 9186,
     "date": "2026-08-27T20:37:23",
-    "views": 251,
+    "views": 254,
     "forwards": 0,
     "images": [
       {
@@ -122828,7 +122828,7 @@
     "id": 9187,
     "date": "2026-08-28T03:23:07",
     "text": "月食 开始了",
-    "views": 245,
+    "views": 249,
     "forwards": 4,
     "media_group_id": 14303099101896925,
     "images": [
@@ -122858,7 +122858,7 @@
     "id": 9189,
     "date": "2026-08-28T03:36:15",
     "text": "快吃完了！\n\n月亮在慢悠悠被吃的同时我在和云赛跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 260,
+    "views": 264,
     "forwards": 4,
     "media_group_id": 14303105400500973,
     "images": [
@@ -122898,7 +122898,7 @@
     "id": 9192,
     "date": "2026-08-28T04:14:29",
     "text": "拍到了！！96.6% 的月偏食\n\n第一次在高速上打双闪停路肩",
-    "views": 245,
+    "views": 250,
     "forwards": 5,
     "images": [
       {
@@ -122917,7 +122917,7 @@
     "id": 9193,
     "date": "2026-08-29T01:01:50",
     "text": "聊聊因为<span class=\"spoiler\"><span>没有按时陪小猫玩</span></span>被逮捕了，送聊聊去监狱拘留一天 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n好吧其实是监狱改造的旅店 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 219,
+    "views": 224,
     "forwards": 5,
     "media_group_id": 14303722481077253,
     "images": [
@@ -123026,7 +123026,7 @@
   {
     "id": 9203,
     "date": "2026-08-30T00:52:24",
-    "views": 194,
+    "views": 199,
     "forwards": 1,
     "images": [
       {
@@ -123045,7 +123045,7 @@
     "id": 9204,
     "date": "2026-08-30T04:10:03",
     "text": "去农业博物馆，感觉注意到了小动物的个性\n\n看到在这里打工的小猫，走路姿态感觉像是这里的馆长一样（因为是工作小猫，并没有固定位置会随机刷新，所以能看到还是有点运气的）。好羡慕可以让它在这里随意乱跑，如果是我的小猫的话一定会抓住一切机会找缝隙窜出去 \n\n还有毛发是一个❤️的小牛、喜欢伸舌头的大牛、姿势看起来超舒适的一长条羊驼、有很大圈笼子但是喜欢挤在一角的山羊、像鸟一样立在树枝上的小鸡，都好独特",
-    "views": 203,
+    "views": 209,
     "forwards": 2,
     "media_group_id": 14304504026234965,
     "images": [
@@ -123155,7 +123155,7 @@
     "id": 9214,
     "date": "2026-08-30T04:34:26",
     "text": "冷战时期的藏身处\n\n<del>原来冷战时期就有 esp32 和 windows 95</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n不知道有多少是当时存留下来的有多少是新布置的，不过总体来说年代还是挺正确啦\n\n结果即使在讲冷战藏身处，最让我感兴趣的还是这里面的旧机器呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 192,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 14304515730188229,
     "images": [
@@ -123265,7 +123265,7 @@
     "id": 9224,
     "date": "2026-08-30T23:30:45",
     "text": "圣女聊聊 <i class=\"custom-emoji\" emoji-src=\"emoji/6113901145745262440.webm\">☸</i>",
-    "views": 191,
+    "views": 197,
     "forwards": 1,
     "images": [
       {
@@ -123284,7 +123284,7 @@
     "id": 9225,
     "date": "2026-08-31T05:44:34",
     "text": "第一次",
-    "views": 168,
+    "views": 177,
     "forwards": 0,
     "images": [
       {
@@ -123303,7 +123303,7 @@
     "id": 9226,
     "date": "2026-08-31T06:14:35",
     "text": "因为心情不太好去看星星\n\n第一次用 360 相机拍星空，虽然星星没拍清楚但是好好玩 qwq\n\n（那个看起来像太阳的是月亮，因为前几天刚满月所以今天其实不太适合看星星）\n\n感觉去看星星变成了转换心情的新技巧，感受到宇宙的规模之后让自己伤心迷茫焦虑的事情全都不重要了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 169,
+    "views": 181,
     "forwards": 1,
     "media_group_id": 14305255003047053,
     "images": [
@@ -123383,7 +123383,7 @@
     "id": 9233,
     "date": "2026-09-01T00:05:25",
     "text": "拍拍海鸥和松鼠 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 149,
+    "views": 158,
     "forwards": 1,
     "media_group_id": 14305769003333533,
     "images": [
@@ -123493,7 +123493,7 @@
     "id": 9243,
     "date": "2026-09-01T15:16:12",
     "text": "救了一只小猫\n\n去接朋友的时候朋友听到路边停的某辆车在发出小猫叫，尝试叫救援/自己开前盖都无果。半小时之后车主过来把前盖打开，看到猫之后架了千斤顶又尝试拆下面的盖子，我在上面用手电筒戳戳之后小猫出来了，然后马上又蹿进了另一辆车里 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n原来不是卡在车里了而是自己想躲进车里... 还好第二辆车的车主也在旁边，打开前盖子把小猫抓出来了\n\n接下来放进了朋友的猫车，去宠物店检测了一下，大概是 6 周大很健康只是缺水。给它喝水之后朋友决定放到她家啦（希望朋友家的母猫会带小猫 qwq",
-    "views": 159,
+    "views": 174,
     "forwards": 0,
     "media_group_id": 14306206176887365,
     "images": [
@@ -123573,7 +123573,7 @@
     "id": 9250,
     "date": "2026-09-02T23:52:46",
     "text": "哇 gemini 3.8 flash 感觉真的开始好用了",
-    "views": 142,
+    "views": 174,
     "forwards": 0,
     "reply": {
       "id": 9125,
@@ -123585,7 +123585,7 @@
     "id": 9251,
     "date": "2026-09-03T02:00:17",
     "text": "野生的八角",
-    "views": 122,
+    "views": 159,
     "forwards": 0,
     "images": [
       {
@@ -123605,7 +123605,7 @@
     "id": 9252,
     "date": "2026-09-03T13:57:41",
     "text": "Arena 的测试结果\n\n虽然没有宣传的那种完爆 opus 5 但是至少和我平时用的 dsv4/glm5.3 flash 差不多了，作为一个对我来说免费的模型完全是好消息",
-    "views": 53,
+    "views": 118,
     "forwards": 0,
     "reply": {
       "id": 9250,
@@ -123621,6 +123621,25 @@
         "url": "media/9252.jpg",
         "size": 172407,
         "thumb": "media/9252.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9253,
+    "date": "2026-09-03T15:40:17",
+    "text": "能分辨出真假中转站的时刻到了",
+    "views": 77,
+    "forwards": 2,
+    "images": [
+      {
+        "width": 877,
+        "height": 571,
+        "date": "2026-09-03T15:40:17",
+        "media_type": "photo",
+        "original_name": "photo_2026-09-03_15-40-17.jpg",
+        "url": "media/9253.jpg",
+        "size": 45607,
+        "thumb": "media/9253.jpg_thumb.jpg"
       }
     ]
   }
