@@ -72121,7 +72121,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5837,
+    "views": 5838,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2540,
+    "views": 2541,
     "forwards": 68,
     "images": [
       {
@@ -122898,7 +122898,7 @@
     "id": 9192,
     "date": "2026-08-28T04:14:29",
     "text": "拍到了！！96.6% 的月偏食\n\n第一次在高速上打双闪停路肩",
-    "views": 252,
+    "views": 253,
     "forwards": 5,
     "images": [
       {
@@ -122917,7 +122917,7 @@
     "id": 9193,
     "date": "2026-08-29T01:01:50",
     "text": "聊聊因为<span class=\"spoiler\"><span>没有按时陪小猫玩</span></span>被逮捕了，送聊聊去监狱拘留一天 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n好吧其实是监狱改造的旅店 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 228,
+    "views": 229,
     "forwards": 5,
     "media_group_id": 14303722481077253,
     "images": [
@@ -123265,7 +123265,7 @@
     "id": 9224,
     "date": "2026-08-30T23:30:45",
     "text": "圣女聊聊 <i class=\"custom-emoji\" emoji-src=\"emoji/6113901145745262440.webm\">☸</i>",
-    "views": 204,
+    "views": 206,
     "forwards": 1,
     "images": [
       {
@@ -123284,7 +123284,7 @@
     "id": 9225,
     "date": "2026-08-31T05:44:34",
     "text": "第一次",
-    "views": 185,
+    "views": 187,
     "forwards": 0,
     "images": [
       {
@@ -123573,7 +123573,7 @@
     "id": 9250,
     "date": "2026-09-02T23:52:46",
     "text": "哇 gemini 3.8 flash 感觉真的开始好用了",
-    "views": 192,
+    "views": 194,
     "forwards": 0,
     "reply": {
       "id": 9125,
@@ -123585,7 +123585,7 @@
     "id": 9251,
     "date": "2026-09-03T02:00:17",
     "text": "野生的八角",
-    "views": 182,
+    "views": 185,
     "forwards": 0,
     "images": [
       {
@@ -123605,7 +123605,7 @@
     "id": 9252,
     "date": "2026-09-03T13:57:41",
     "text": "Arena 的测试结果\n\n虽然没有宣传的那种完爆 opus 5 但是至少和我平时用的 dsv4/glm5.3 flash 差不多了，作为一个对我来说免费的模型完全是好消息",
-    "views": 167,
+    "views": 172,
     "forwards": 0,
     "reply": {
       "id": 9250,
@@ -123628,7 +123628,7 @@
     "id": 9253,
     "date": "2026-09-03T15:40:17",
     "text": "能分辨出真假中转站的时刻到了",
-    "views": 185,
+    "views": 192,
     "forwards": 3,
     "images": [
       {
@@ -123646,7 +123646,7 @@
   {
     "id": 9254,
     "date": "2026-09-03T19:32:41",
-    "views": 100,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
