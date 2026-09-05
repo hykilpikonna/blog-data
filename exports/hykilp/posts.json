@@ -53136,7 +53136,7 @@
     "id": 3904,
     "date": "2024-06-04T02:18:45",
     "text": "前几天 menci 拿到了一块 「半径 25 厘米的窗户」 <span class=\"spoiler\"><span>maimai 官机触屏</span></span>，决定给它搭一个框架做一个 maimai 手台 qwq\n\n研究了几天把固定方案定下来了，外框和按键是和之前做的 wacca 台一样是铝型材+铝板的方案，固定玻璃打算用密度板、防滑海绵、和 3D 打印的塑料片压住，再用 VESA 从后面固定显示器\n\n触摸感应的话，官方的触屏输出看起来有 RX TX 应该是串口，用示波器搞清协议接到电脑上就行了。按键买了兔键，自己画了灯光板和控制板，有开源的 mai_pico 固件应该也不是问题，就是不知道延迟会不会很糟糕，装上之后和官方 io4 对比一下好了。电视原本想用 43\" 4k 144 的 M430QVN，但是发现它的输出信号是一个非标八通道 eDP 51-pin 没办法直接引出（标准的 eDP / DP 最高只有四通道）被劝退买了 AOC 43F12 1080p 60\n\n把需要的材料都下单了，希望拼的时候不会遇到预料外的事情 quq",
-    "views": 92,
+    "views": 93,
     "forwards": 2,
     "media_group_id": 13739740201514749,
     "images": [
@@ -70665,7 +70665,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2867,
+    "views": 2868,
     "forwards": 29,
     "images": [
       {
@@ -97441,7 +97441,7 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 615,
+    "views": 616,
     "forwards": 14
   },
   {
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2551,
+    "views": 2552,
     "forwards": 69,
     "images": [
       {
@@ -123691,14 +123691,14 @@
     "id": 9257,
     "date": "2026-09-05T11:56:47",
     "text": "好讨厌 Anker，总是做一些自以为很智能实际很蠢的东西...\n\n之前买了一个 $70 的 Anker 140W 充电器，拿到手发现不支持小米协议（同外观同系列的 100W 款支持），算了那就用来做固定电源吧，然后发现它经常会断电重协商...\n\n我原本打算放在维修台那里，一根 type-C 给电烙铁另一根给相机录像用的假电池持续供电（因为一般充电的话会比假电池发热更多导致相机过热）然后启动电烙铁相机就重启了，过一会还没升温完电烙铁又重启了... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 完全没法用\n\n评价是没有 $27 的杂牌电源好用 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 158,
+    "views": 160,
     "forwards": 0
   },
   {
     "id": 9258,
     "date": "2026-09-05T14:54:56",
     "text": "孬。Gemini antigravity 的家庭组开始共享 quota 了\n\n以前开一个 Pro 给家庭组开五个小号是 5x quota，现在变成 1x quota 了... Gemini 使用成本瞬间 x5",
-    "views": 102,
+    "views": 107,
     "forwards": 0,
     "reply": {
       "id": 9252,
