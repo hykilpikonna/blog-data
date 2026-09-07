@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6672,
+    "views": 6673,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -107633,7 +107633,7 @@
     "id": 8062,
     "date": "2026-03-20T22:00:24",
     "text": "哭哭 好累\n\n发现手上的 2080 显卡正好支持 vgpu（就是把一个显卡分给多个虚拟机的功能）就决定试试能不能用 vgpu 解决街机需要很多个性能要求不高的机器的问题\n\n结果在坐和放宽了一整天之后放弃了... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n最后虽然 vm 认显卡了，但是即使只是在桌面上每帧渲染也都要等几秒，经常黑屏卡住之类的。问了 vgpu 群群友也没有想法，不知道怎么办",
-    "views": 286,
+    "views": 287,
     "forwards": 2,
     "media_group_id": 14192352194150061,
     "images": [
@@ -107713,7 +107713,7 @@
     "id": 8069,
     "date": "2026-03-20T23:21:32",
     "text": "哇 降级系统之后完全工作了！\n\n感谢群友 <a href=\"https://t.me/rbqvq\">@rbqvq</a> 发现问题 qwq\n\n实际上所有步骤都对了，只不过我装的 PVE 9.1.1 太新了, 内核版本 6.17 支持还不是很好，宿主机驱动在一直崩溃。降级内核到 6.11 之后就好啦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 310,
+    "views": 311,
     "forwards": 3,
     "reply": {
       "id": 8062,
@@ -117369,7 +117369,7 @@
     "id": 8774,
     "date": "2026-06-30T23:42:29",
     "text": "<a href=\"##猫咪后院\">#猫咪后院</a>\n小白菜/油菜长大了！\n\n虽然但是，小白菜长大了依然是小白菜（大小白菜？），因为白菜和大白菜都是其他的品种 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 2,
     "media_group_id": 14262903594775229,
     "images": [
@@ -117423,7 +117423,7 @@
     "id": 8778,
     "date": "2026-07-01T06:19:17",
     "text": "呜呜 <a href=\"https://t.me/voice_tools_bot\">@voice_tools_bot</a> 和 <a href=\"amaoke.app\">amaoke.app</a> 和 <a href=\"whisper.hydev.org\">whisper.hydev.org</a> 大概又会宕机一段时间\n\n原因是帮忙托管服务器的 menci 刚搬完家 qwq（看上去好辛苦，希望一切顺利）",
-    "views": 267,
+    "views": 268,
     "forwards": 1,
     "reply": {
       "id": 8617,
@@ -120458,7 +120458,7 @@
     "id": 9019,
     "date": "2026-07-30T02:12:50",
     "text": "agent 对于日常折腾系统来说真的好厉害...\n\n我以前手动在 VMware 上装过 macOS，虽然不难但是踩了挺多坑花了挺多时间。今天我想在 PVE 上装 macOS，给了 agent 一个 prompt 它 18 分钟装好了...",
-    "views": 298,
+    "views": 299,
     "forwards": 1,
     "media_group_id": 14283020561469293,
     "images": [
@@ -120528,7 +120528,7 @@
     "id": 9024,
     "date": "2026-07-30T23:29:06",
     "text": "哭哭 和中国朋友视频电话不需要绕墙的聊天平台又少了一个",
-    "views": 307,
+    "views": 308,
     "forwards": 3,
     "images": [
       {
@@ -120547,7 +120547,7 @@
     "id": 9025,
     "date": "2026-08-01T04:56:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"https://youtu.be/eTfEPt96JSM\">https://youtu.be/eTfEPt96JSM</a>",
-    "views": 271,
+    "views": 272,
     "forwards": 0
   },
   {
@@ -121210,7 +121210,7 @@
     "id": 9073,
     "date": "2026-08-08T08:07:44",
     "text": "之前玩的维修店模拟器 ReStory 今天正式发布了！好好玩，而且正式版设备和零件的模型比 demo 精细很多哇\n\n然后边玩边写了一个 QoL mod <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 目前有无限金币、高亮需要的零件、自动商店搜索、跳过启动 ppt 的功能，以及修了游戏原本保存存档会卡 20 秒的 bug\n\n<del>因为是 unity mono 游戏，之前给 maimai 写 mod 的经验派上用场了</del>\n\nmod 在这里： <a href=\"https://github.com/hykilpikonna/RestoryQOL\">github</a> | <a href=\"https://www.nexusmods.com/restorychillelectronicrepairs/mods/5\">nexus</a>",
-    "views": 295,
+    "views": 296,
     "forwards": 5,
     "media_group_id": 14289411718441077,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2563,
+    "views": 2565,
     "forwards": 69,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1794,
+    "views": 1795,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -123573,7 +123573,7 @@
     "id": 9250,
     "date": "2026-09-02T23:52:46",
     "text": "哇 gemini 3.8 flash 感觉真的开始好用了",
-    "views": 249,
+    "views": 257,
     "forwards": 0,
     "reply": {
       "id": 9125,
@@ -123585,7 +123585,7 @@
     "id": 9251,
     "date": "2026-09-03T02:00:17",
     "text": "野生的八角",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "images": [
       {
@@ -123605,7 +123605,7 @@
     "id": 9252,
     "date": "2026-09-03T13:57:41",
     "text": "Arena 的测试结果\n\n虽然没有宣传的那种完爆 opus 5 但是至少和我平时用的 dsv4/glm5.3 flash 差不多了，作为一个对我来说免费的模型完全是好消息",
-    "views": 242,
+    "views": 243,
     "forwards": 0,
     "reply": {
       "id": 9250,
@@ -123628,7 +123628,7 @@
     "id": 9253,
     "date": "2026-09-03T15:40:17",
     "text": "能分辨出真假中转站的时刻到了",
-    "views": 283,
+    "views": 284,
     "forwards": 3,
     "images": [
       {
@@ -123646,7 +123646,7 @@
   {
     "id": 9254,
     "date": "2026-09-03T19:32:41",
-    "views": 262,
+    "views": 266,
     "forwards": 1,
     "images": [
       {
@@ -123672,7 +123672,7 @@
     "id": 9256,
     "date": "2026-09-05T07:26:16",
     "text": "🔁",
-    "views": 234,
+    "views": 236,
     "forwards": 0,
     "images": [
       {
@@ -123691,14 +123691,14 @@
     "id": 9257,
     "date": "2026-09-05T11:56:47",
     "text": "好讨厌 Anker，总是做一些自以为很智能实际很蠢的东西...\n\n之前买了一个 $70 的 Anker 140W 充电器，拿到手发现不支持小米协议（同外观同系列的 100W 款支持），算了那就用来做固定电源吧，然后发现它经常会断电重协商...\n\n我原本打算放在维修台那里，一根 type-C 给电烙铁另一根给相机录像用的假电池持续供电（因为一般充电的话会比假电池发热更多导致相机过热）然后启动电烙铁相机就重启了，过一会还没升温完电烙铁又重启了... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 完全没法用\n\n评价是没有 $27 的杂牌电源好用 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 225,
+    "views": 228,
     "forwards": 0
   },
   {
     "id": 9258,
     "date": "2026-09-05T14:54:56",
     "text": "孬。Gemini antigravity 的家庭组开始共享 quota 了\n\n以前开一个 Pro 给家庭组开五个小号是 5x quota，现在变成 1x quota 了... Gemini 使用成本瞬间 x5",
-    "views": 236,
+    "views": 238,
     "forwards": 1,
     "reply": {
       "id": 9252,
@@ -123709,7 +123709,7 @@
     "id": 9259,
     "date": "2026-09-06T01:30:17",
     "text": "标题两个大字「かに」<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>\n\n<span class=\"spoiler\"><span>小字：本品はかにではありません </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</span></span></i>",
-    "views": 200,
+    "views": 208,
     "forwards": 1,
     "images": [
       {
@@ -123728,7 +123728,7 @@
     "id": 9260,
     "date": "2026-09-06T03:30:45",
     "text": "翻照片\n\n前几天在 Ottawa 旅游的时候去 Shawarma Palace 吃了 Shawarma\n\n然后原本在远处拍照，被厨师看见了厨师对我笑我赶快按快门，拍到了好不错的照片 qwq\n\n可惜那天便携照片打印机正好落在旅店了... 结果发邮件把照片给他啦。即使感觉现场打出来更有意思",
-    "views": 196,
+    "views": 204,
     "forwards": 1,
     "media_group_id": 14309323567535301,
     "images": [
@@ -123763,7 +123763,7 @@
     "id": 9262,
     "date": "2026-09-07T13:39:27",
     "text": "小学的回忆开始攻击我",
-    "views": 74,
+    "views": 113,
     "forwards": 0,
     "images": [
       {
