@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-09-10T06:24:38.196156+00:00</updated>
+  <updated>2026-09-10T08:25:48.163023+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>9265</id>
+    <title>小桂桂的回忆录 📒 #9265</title>
+    <updated>2026-09-10T06:56:53+00:00</updated>
+    <content>&lt;p&gt;写某 GPS 固件的时候想了一秒要不要为防止 Y2106 溢出问题把时间存储改成 uint64&lt;/p&gt;
+&lt;p&gt;然后仔细想了想觉得我会想这个问题真的好蠢，MCU 肯定活不了 80 年，而且等到 2106 年现在的需求和适配的设备标准应该都已经变成博物馆文物了...&lt;/p&gt;
+&lt;p&gt;（何况 GPS 模块本身收到的 GPS 日期反而会更早溢出... 这个只剩 16 年我感觉觉得有点危还是合理的？虽然因为是模块本身的问题没有我可以做的就是）&lt;/p&gt;
+&lt;p&gt;然后就感觉一般 future-proof 和 overengineer 的界限好模糊呀，&lt;del&gt;会不会几百年后某太阳系戴森球上的无数个大大小小 AI agent 和扩建机器的社会会觉得当初设计 ipv6 只留了 128 位的地址很近视&lt;/del&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=9265" rel="alternate"/>
+  </entry>
   <entry>
     <id>9264</id>
     <title>小桂桂的回忆录 📒 #9264</title>
