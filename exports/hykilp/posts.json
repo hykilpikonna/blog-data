@@ -107190,7 +107190,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5329,
+    "views": 5330,
     "forwards": 30
   },
   {
@@ -110335,7 +110335,7 @@
     "id": 8260,
     "date": "2026-04-18T04:09:06",
     "text": "？？？\n\n也许在 AI 眼里我是一个累赘，让我去网页上改一个 CNAME 不如直接把我的 Cloudflare API key 翻出来发请求改吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n（完全没有问过我要不要手动去网页上改，也完全没问我要 API key，就直接把它翻出来了......）\n\n不敢用了。",
-    "views": 318,
+    "views": 319,
     "forwards": 2,
     "images": [
       {
@@ -110354,7 +110354,7 @@
     "id": 8261,
     "date": "2026-04-18T06:58:58",
     "text": "今天在给服务器赛博搬家，好累\n\n我部署东西的时候习惯随便丢哪里就忘记它，但是搬家的时候要把所有这些都想起来...\n\n然后就发生了，我看到有一个 blog 的部署文件夹以为 blog 是在这里部署的，迁移完才发现实际上很久以前已经迁移到 cloudflare pages 了但是忘记把文件夹删掉... 好痛苦\n\n以及发现好多服务都是部署完用了一两次就没有继续用了的，比如直播间上次直播已经是一年前了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 308,
+    "views": 309,
     "forwards": 1,
     "media_group_id": 14211964308173789,
     "images": [
@@ -110389,7 +110389,7 @@
     "id": 8263,
     "date": "2026-04-18T15:30:31",
     "text": "map 了一下家里的网络设备拓扑结构\n\nMermaid 好用喵",
-    "views": 311,
+    "views": 312,
     "forwards": 2,
     "images": [
       {
@@ -110408,7 +110408,7 @@
     "id": 8264,
     "date": "2026-04-18T20:29:38",
     "text": "看了 mygo 总集篇的猫猫小故事，好看喵\n\n好羡慕猫猫，真希望我能有勇气像猫猫那样<span class=\"spoiler\"><span>无视社会礼仪常识、遇到不喜欢的事情可以直接跑掉</span></span> 感觉这样也许可以省下很多精力去做更想做的事情",
-    "views": 311,
+    "views": 312,
     "forwards": 1,
     "images": [
       {
@@ -110427,7 +110427,7 @@
     "id": 8265,
     "date": "2026-04-18T20:55:17",
     "text": "谁设计的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 314,
+    "views": 315,
     "forwards": 0,
     "reply": {
       "id": 8122,
@@ -110451,7 +110451,7 @@
     "id": 8266,
     "date": "2026-04-19T02:04:39",
     "text": "遛猫",
-    "views": 315,
+    "views": 316,
     "forwards": 1,
     "media_group_id": 14212514239392477,
     "images": [
@@ -110561,7 +110561,7 @@
     "id": 8276,
     "date": "2026-04-19T09:20:36",
     "text": "啊？一年没关心 bcachefs 原本想再看看能不能用的... 有被震撼到 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n<a href=\"https://poc.bcachefs.org/\">https://poc.bcachefs.org/</a>",
-    "views": 388,
+    "views": 389,
     "forwards": 2,
     "images": [
       {
@@ -111491,7 +111491,7 @@
     "id": 8344,
     "date": "2026-04-30T08:49:52",
     "text": "凌晨在朋友家修 CVE... <a href=\"https://copy.fail\">https://copy.fail</a>\n\n我所有的 linux 服务器都中枪，所以连到每个服务器一个一个修，也许到了能反映出哪个发行版好用的时候了\n\narch 的服务器最好修，直接 pacman -Syu 重启就修好了\n\nproxmox 因为是刚装的所以直接 apt upgrade 也修好了\n\nfedora 两个新的直接 dnf update 就好了，一个旧的要 dnf system-upgrade 跳两次 (40 > 42 > 44)\n\nubuntu... 我的三个 ubuntu 全都火葬场。因为 ubuntu 只有最新的 26 修了，其他版本都没修，所以要把所有系统更新到 26。有一个系统不知道为什么 do-release-upgrade 就是没法更新到 26，所以就 22 > 24 > 25 > 26 了，一天重启了不知道多少次。另一个系统 do-release-upgrade 的过程中和 oracle cloud 的定时任务冲突了，dpkg 报错导致失败还没法回滚，重要的是 sudo 没了，oracle 还禁止 root 登录... 试了一下 copyfail 的 PoC 也不行（因为 PoC 是 x86 的，我是 arm64）。最后还是开了一个新的虚拟机，把盘挂上去修好再挂回去把新的虚拟机删掉，然后继续 24 > 25 > 26...\n\n好累好累，现在快凌晨五点了，我凌晨六点还要开车一个小时回家...",
-    "views": 316,
+    "views": 317,
     "forwards": 3,
     "images": [
       {
@@ -111510,7 +111510,7 @@
     "id": 8345,
     "date": "2026-04-30T10:32:32",
     "text": "看到了多伦多的日出！",
-    "views": 290,
+    "views": 291,
     "forwards": 4,
     "media_group_id": 14220361217987037,
     "images": [
@@ -111540,7 +111540,7 @@
     "id": 8347,
     "date": "2026-04-30T18:17:32",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n味噌豚骨拉面！（昨天在 tracer 和 celestium 家做的）\n\n实际上是 原本只是想去玩，但是路过日超看到了冷冻面条和叉烧卷和超便宜猪骨所以就决定做拉面了！\n\n...结果即使有高压锅帮忙也依然花了 3.5h，七点开始做十点半才做好，累累\n\n以及可怜 celestium 没有第三个面碗只能用盆吃了，感觉用宽底的盆装面虽然倒了同样多的汤和面和肉但是看起来就是好少呀 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 286,
+    "views": 287,
     "forwards": 0,
     "media_group_id": 14220584420286541,
     "images": [
@@ -111600,21 +111600,21 @@
     "id": 8352,
     "date": "2026-05-01T02:53:19",
     "text": "我：I need a rest\n聊聊：<span class=\"spoiler\"><span>用手铐可以吗</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5370947515220761242.tgs\">😇</i>",
-    "views": 301,
+    "views": 302,
     "forwards": 0
   },
   {
     "id": 8353,
     "date": "2026-05-01T03:51:24",
     "text": "...听到隔壁在超级大声放 Gangnam Style <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n今年是何年",
-    "views": 285,
+    "views": 286,
     "forwards": 0
   },
   {
     "id": 8354,
     "date": "2026-05-01T12:31:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n猫猫在学鸟叫",
-    "views": 282,
+    "views": 283,
     "forwards": 2,
     "files": [
       {
@@ -112330,7 +112330,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 753,
+    "views": 754,
     "forwards": 11,
     "media_group_id": 14227451747839885,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2599,
+    "views": 2600,
     "forwards": 69,
     "images": [
       {
@@ -121798,7 +121798,7 @@
     "id": 9119,
     "date": "2026-08-12T23:22:13",
     "text": "实际上是\n\n<span class=\"spoiler\"><span>原本只是想做一个无害玩笑但是怎么这么多人没有试试就以为是真的了</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 1819,
+    "views": 1820,
     "forwards": 13,
     "reply": {
       "id": 9118,
@@ -123646,7 +123646,7 @@
   {
     "id": 9254,
     "date": "2026-09-03T19:32:41",
-    "views": 361,
+    "views": 362,
     "forwards": 1,
     "images": [
       {
@@ -123665,7 +123665,7 @@
     "id": 9255,
     "date": "2026-09-04T16:14:00",
     "text": "在多伦多 downtown 双向停牌交叉路直行感觉真的需要等到天时地利人和才能过\n\n需要同时这边的行人道没人、向左没车、向右没车、没有不太聪明猫排到交叉路中间、对面的人行道也没人，全都满足才能过\n\n我等了好久等不下去直接堵路过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 335,
+    "views": 336,
     "forwards": 0
   },
   {
@@ -123691,14 +123691,14 @@
     "id": 9257,
     "date": "2026-09-05T11:56:47",
     "text": "好讨厌 Anker，总是做一些自以为很智能实际很蠢的东西...\n\n之前买了一个 $70 的 Anker 140W 充电器，拿到手发现不支持小米协议（同外观同系列的 100W 款支持），算了那就用来做固定电源吧，然后发现它经常会断电重协商...\n\n我原本打算放在维修台那里，一根 type-C 给电烙铁另一根给相机录像用的假电池持续供电（因为一般充电的话会比假电池发热更多导致相机过热）然后启动电烙铁相机就重启了，过一会还没升温完电烙铁又重启了... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 完全没法用\n\n评价是没有 $27 的杂牌电源好用 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 336,
+    "views": 338,
     "forwards": 0
   },
   {
     "id": 9258,
     "date": "2026-09-05T14:54:56",
     "text": "孬。Gemini antigravity 的家庭组开始共享 quota 了\n\n以前开一个 Pro 给家庭组开五个小号是 5x quota，现在变成 1x quota 了... Gemini 使用成本瞬间 x5",
-    "views": 354,
+    "views": 356,
     "forwards": 1,
     "reply": {
       "id": 9252,
@@ -123763,7 +123763,7 @@
     "id": 9262,
     "date": "2026-09-07T13:39:27",
     "text": "小学的回忆开始攻击我",
-    "views": 345,
+    "views": 347,
     "forwards": 0,
     "images": [
       {
@@ -123782,7 +123782,7 @@
     "id": 9263,
     "date": "2026-09-08T01:15:16",
     "text": "好怀念三年前画板子的风格",
-    "views": 301,
+    "views": 303,
     "forwards": 0,
     "reply": {
       "id": 1965,
@@ -123793,7 +123793,7 @@
     "id": 9264,
     "date": "2026-09-09T06:08:27",
     "text": "最近总是想关掉所有 AI 花一两周回顾一下四五年前的生活方式\n\n然后就想到，是不是和四五年前总是想关掉手机电脑去瓦尔登湖露营是同样的状态",
-    "views": 257,
+    "views": 258,
     "forwards": 1
   },
   {
@@ -123826,14 +123826,14 @@
     "id": 9267,
     "date": "2026-09-10T17:49:11",
     "text": "好好笑 想申请的学校里唯一一个需要我考英语考试的学校是一所日本的学校",
-    "views": 210,
+    "views": 213,
     "forwards": 1
   },
   {
     "id": 9268,
     "date": "2026-09-11T02:07:35",
     "text": "小猫展示柜",
-    "views": 174,
+    "views": 178,
     "forwards": 0,
     "images": [
       {
@@ -123852,7 +123852,7 @@
     "id": 9269,
     "date": "2026-09-11T02:41:45",
     "text": "<a href=\"##今天桂桂吃什么\">#今天桂桂吃什么</a>\n黑椒牛柳意面！",
-    "views": 180,
+    "views": 184,
     "forwards": 1,
     "images": [
       {
@@ -123871,7 +123871,7 @@
     "id": 9270,
     "date": "2026-09-11T23:17:24",
     "text": "上一次剪纸做展示纸板还是高中 qwq",
-    "views": 134,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 14313349152267701,
     "images": [
@@ -123931,7 +123931,7 @@
     "id": 9275,
     "date": "2026-09-12T00:37:37",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱火锅！",
-    "views": 132,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -123949,7 +123949,7 @@
   {
     "id": 9276,
     "date": "2026-09-12T04:16:07",
-    "views": 105,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -123968,7 +123968,7 @@
     "id": 9277,
     "date": "2026-09-12T05:21:57",
     "text": "感觉有 AI agent 之后所有公司的运维成本都变高了\n\n因为给员工用 agent 就会花很多钱，不给就会有人用中转站把数据和各种 api/ssh key 漏出去 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 73,
+    "views": 97,
     "forwards": 1
   }
 ]
