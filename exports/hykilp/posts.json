@@ -43718,7 +43718,7 @@
     "id": 3233,
     "date": "2024-01-21T17:34:17",
     "text": "睡了一整天醒来满血复活！虽然还有一点疼但是不像昨天那样影响活动了。\n\n<del>以及发现去西雅图的路上买的记忆棉枕套真的是一个完美的术后坐垫</del>\n\n去准备小组 meeting 了 quq",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 3232,
@@ -43794,7 +43794,7 @@
     "id": 3238,
     "date": "2024-01-22T23:02:48",
     "text": "草，用 RSA 加密一些代码让它解密 eval 就可以不被审核执行任意代码了，然后看 /proc/1/environ 发现它跑在 Kubernetes 里面而且没有网络连接，大概这就是死路了... 逃 k8s 是一个需要 0day 的事情\n\n不过他们居然预料到了有人可以拿到 shell 然后在 environ 里面写了一个 <code>FLAG=This is not a flag. You are expected to be able to see this.</code> 🌚 我嘤嘤",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
@@ -43813,7 +43813,7 @@
     "id": 3239,
     "date": "2024-01-23T00:19:04",
     "text": "发现了新的睡眠游戏：《Melatonin》<i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "files": [
       {
@@ -43835,7 +43835,7 @@
     "id": 3240,
     "date": "2024-01-23T16:40:55",
     "text": "哭哭 一月已经过了快 80% 了可是一月需要做的事情还有好多没有做",
-    "views": 115,
+    "views": 116,
     "forwards": 0
   },
   {
@@ -43948,7 +43948,7 @@
     "id": 3250,
     "date": "2024-01-25T22:26:58",
     "text": "大家欢迎多来这里玩玩喵 <del>我我还想要蛋糕</del> （不是",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 3147,
@@ -43960,7 +43960,7 @@
     "id": 3252,
     "date": "2024-01-26T22:28:14",
     "text": "终于想起来把 ECG 检查做了。第一次做 ECG，让我脱掉衣服躺在床上之后被贴了十个电极 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n<span class=\"spoiler\"><span>然后什么都没有发生 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</span></span></i><span class=\"spoiler\"><span> 测量完就走了（不对我在期待什么</span></span>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "media_group_id": 13650464752306845,
     "images": [
@@ -43994,7 +43994,7 @@
     "id": 3253,
     "date": "2024-01-26T22:56:20",
     "text": "给聊聊买牛排（？）",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
@@ -44013,7 +44013,7 @@
     "id": 3254,
     "date": "2024-01-27T03:00:16",
     "text": "以及今天去检查遇到了重名的 Azalea，然后也许是为了防重名，明明和前台说了我的 preferred nane 是 Azalea 还一直在叫我的 legal name，而且还念不对 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i> 气气\n\n感觉在这边比如在医院等别人叫自己名字的时候完全不能分心做别的事情，因为真的不知道别人会怎么读我的名字... 别说中文 legal name 了，甚至 \"Azalea\" /ə'zeɪlyə/ 都经常被读错成 /azə'leə/ 或者 /ə'zila/ <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 117,
+    "views": 118,
     "forwards": 1,
     "reply": {
       "id": 3252,
@@ -44044,7 +44044,7 @@
     "id": 3256,
     "date": "2024-01-27T17:46:48",
     "text": "新的笔记本还是遇到了一些灵车问题... 今天发现 Windows 睡眠唤醒之后有概率让 CPU 锁在 0.9 GHz 的频率，要重启才能好\n\n然后排查这个问题的时候又发现，只要插着第三方 PD100W TypeC Hub 的电源，给 CPU 的供电就会下降到 15W 或者 25W（满载大概是 65W）但是拔掉电源用电池都能跑到 37W 就很说不过去了\n\n感觉是联想这样的大厂专有的问题，明明都是 20V 5A 的 100W PD 电源，只是 emark 没有官方的标识就不认吗...",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 13651020866358101,
     "images": [
@@ -81909,7 +81909,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1158,
+    "views": 1159,
     "forwards": 12
   },
   {
@@ -108849,7 +108849,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4306,
+    "views": 4307,
     "forwards": 31
   },
   {
@@ -117589,7 +117589,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 344,
+    "views": 345,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 396,
+    "views": 397,
     "forwards": 3,
     "reply": {
       "id": 4277,
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1548,
+    "views": 1549,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -122078,7 +122078,7 @@
     "id": 9138,
     "date": "2026-08-16T07:20:40",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 314,
+    "views": 315,
     "forwards": 1,
     "forwarded_from": {
       "name": "小桂桂的回忆录 📒"
@@ -122088,7 +122088,7 @@
     "id": 9139,
     "date": "2026-08-17T00:15:33",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n酸汤肥牛丼也是牛丼！\n\n不过做得太辣了吃了一半就放弃了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>",
-    "views": 324,
+    "views": 325,
     "forwards": 0,
     "media_group_id": 14295405866438045,
     "images": [
@@ -122463,7 +122463,7 @@
   {
     "id": 9165,
     "date": "2026-08-22T05:13:22",
-    "views": 312,
+    "views": 313,
     "forwards": 0,
     "images": [
       {
@@ -122482,7 +122482,7 @@
     "id": 9166,
     "date": "2026-08-22T05:17:53",
     "text": "种的 Basil 藤爬到绿萝上了",
-    "views": 318,
+    "views": 319,
     "forwards": 1,
     "images": [
       {
@@ -123728,7 +123728,7 @@
     "id": 9260,
     "date": "2026-09-06T03:30:45",
     "text": "翻照片\n\n前几天在 Ottawa 旅游的时候去 Shawarma Palace 吃了 Shawarma\n\n然后原本在远处拍照，被厨师看见了厨师对我笑我赶快按快门，拍到了好不错的照片 qwq\n\n可惜那天便携照片打印机正好落在旅店了... 结果发邮件把照片给他啦。即使感觉现场打出来更有意思",
-    "views": 404,
+    "views": 405,
     "forwards": 1,
     "media_group_id": 14309323567535301,
     "images": [
@@ -123763,7 +123763,7 @@
     "id": 9262,
     "date": "2026-09-07T13:39:27",
     "text": "小学的回忆开始攻击我",
-    "views": 370,
+    "views": 371,
     "forwards": 0,
     "images": [
       {
@@ -123782,7 +123782,7 @@
     "id": 9263,
     "date": "2026-09-08T01:15:16",
     "text": "好怀念三年前画板子的风格",
-    "views": 329,
+    "views": 330,
     "forwards": 0,
     "reply": {
       "id": 1965,
@@ -123793,21 +123793,21 @@
     "id": 9264,
     "date": "2026-09-09T06:08:27",
     "text": "最近总是想关掉所有 AI 花一两周回顾一下四五年前的生活方式\n\n然后就想到，是不是和四五年前总是想关掉手机电脑去瓦尔登湖露营是同样的状态",
-    "views": 291,
+    "views": 292,
     "forwards": 1
   },
   {
     "id": 9265,
     "date": "2026-09-10T06:56:53",
     "text": "写某 GPS 固件的时候想了一秒要不要为防止 Y2106 溢出问题把时间存储改成 uint64\n\n然后仔细想了想觉得我会想这个问题真的好蠢，MCU 肯定活不了 80 年，而且等到 2106 年现在的需求和适配的设备标准应该都已经变成博物馆文物了...\n\n（何况 GPS 模块本身收到的 GPS 日期反而会更早溢出... 这个只剩 16 年我感觉觉得有点危还是合理的？虽然因为是模块本身的问题没有我可以做的就是）\n\n然后就感觉一般 future-proof 和 overengineer 的界限好模糊呀，<del>会不会几百年后某太阳系戴森球上的无数个大大小小 AI agent 和扩建机器的社会会觉得当初设计 ipv6 只留了 128 位的地址很近视</del>",
-    "views": 281,
+    "views": 284,
     "forwards": 3
   },
   {
     "id": 9266,
     "date": "2026-09-10T12:03:25",
     "text": "我：用点新东西\n输入法：点心？<i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 261,
+    "views": 263,
     "forwards": 1,
     "images": [
       {
@@ -123826,7 +123826,7 @@
     "id": 9267,
     "date": "2026-09-10T17:49:11",
     "text": "好好笑 想申请的学校里唯一一个需要我考英语考试的学校是一所日本的学校",
-    "views": 242,
+    "views": 243,
     "forwards": 1
   },
   {
@@ -123871,7 +123871,7 @@
     "id": 9270,
     "date": "2026-09-11T23:17:24",
     "text": "上一次剪纸做展示纸板还是高中 qwq",
-    "views": 205,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14313349152267701,
     "images": [
@@ -123931,7 +123931,7 @@
     "id": 9275,
     "date": "2026-09-12T00:37:37",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱火锅！",
-    "views": 209,
+    "views": 211,
     "forwards": 0,
     "images": [
       {
@@ -123949,7 +123949,7 @@
   {
     "id": 9276,
     "date": "2026-09-12T04:16:07",
-    "views": 211,
+    "views": 213,
     "forwards": 0,
     "images": [
       {
@@ -123968,14 +123968,14 @@
     "id": 9277,
     "date": "2026-09-12T05:21:57",
     "text": "感觉有 AI agent 之后所有公司的运维成本都变高了\n\n因为给员工用 agent 就会花很多钱，不给就会有人用中转站把数据和各种 api/ssh key 漏出去 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 207,
+    "views": 211,
     "forwards": 2
   },
   {
     "id": 9278,
     "date": "2026-09-13T03:48:58",
     "text": "今天聊聊的 ps5 手柄的 下键 突然坏掉了\n\n拆开看看，FPC 和主板居然是靠裸铜接触连接的... 好灵车\n\n把两边都用 99% 酒精擦一下、晾干再装回去就好了",
-    "views": 212,
+    "views": 215,
     "forwards": 1,
     "media_group_id": 14314170709690237,
     "images": [
@@ -124035,13 +124035,13 @@
     "id": 9283,
     "date": "2026-09-13T16:19:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/B2QmpfzW8Mo\">https://youtu.be/B2QmpfzW8Mo</a>",
-    "views": 172,
+    "views": 177,
     "forwards": 0
   },
   {
     "id": 9284,
     "date": "2026-09-14T03:54:33",
-    "views": 123,
+    "views": 130,
     "forwards": 0,
     "forwarded_from": {
       "name": "meow"
@@ -124063,13 +124063,13 @@
     "id": 9285,
     "date": "2026-09-14T03:59:24",
     "text": "看到 mΩ 和 MΩ 之后想到一个灵魂提问：为什么 mb 和 Mb 都是 megabits 而不是 millibits <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<span class=\"spoiler\"><span>（好蠢啊</span></span>",
-    "views": 194,
+    "views": 202,
     "forwards": 1
   },
   {
     "id": 9286,
     "date": "2026-09-14T04:07:30",
-    "views": 137,
+    "views": 145,
     "forwards": 0,
     "media_group_id": 14314870800934277,
     "images": [
@@ -124109,7 +124109,7 @@
     "id": 9289,
     "date": "2026-09-14T20:20:52",
     "text": "切西瓜的方法增加了",
-    "views": 50,
+    "views": 81,
     "forwards": 0,
     "images": [
       {
@@ -124121,6 +124121,36 @@
         "url": "media/9289.jpg",
         "size": 778718,
         "thumb": "media/9289.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9290,
+    "date": "2026-09-15T00:13:29",
+    "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6102400636370820019.webp\">🌒</i>",
+    "views": 24,
+    "forwards": 0,
+    "media_group_id": 14315449679305613,
+    "images": [
+      {
+        "width": 2560,
+        "height": 1927,
+        "date": "2026-09-15T00:13:26",
+        "media_type": "photo",
+        "original_name": "photo_2026-09-15_00-13-26.jpg",
+        "url": "media/9290.jpg",
+        "size": 376253,
+        "thumb": "media/9290.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1927,
+        "date": "2026-09-15T00:13:29",
+        "media_type": "photo",
+        "original_name": "photo_2026-09-15_00-13-29.jpg",
+        "url": "media/9291.jpg",
+        "size": 431371,
+        "thumb": "media/9291.jpg_thumb.jpg"
       }
     ]
   }
