@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6680,
+    "views": 6681,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1554,
+    "views": 1555,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -122232,7 +122232,7 @@
     "id": 9149,
     "date": "2026-08-18T14:26:22",
     "text": "不太聪明喵",
-    "views": 321,
+    "views": 322,
     "forwards": 1,
     "images": [
       {
@@ -124348,21 +124348,21 @@
     "id": 9309,
     "date": "2026-09-15T18:56:47",
     "text": "群里有人有除了索尼富士佳能以外的相机吗 qwq\n\n（在写相机 GPS 固件想要兼容更多品牌的相机的协议所以问问）",
-    "views": 228,
+    "views": 229,
     "forwards": 2
   },
   {
     "id": 9310,
     "date": "2026-09-15T23:01:55",
     "text": "哭哭 几年前给聊聊买的 canokey 坏掉了\n\n不知道怎么回事",
-    "views": 357,
+    "views": 358,
     "forwards": 2
   },
   {
     "id": 9311,
     "date": "2026-09-16T02:23:54",
     "text": "终于",
-    "views": 210,
+    "views": 211,
     "forwards": 0,
     "media_group_id": 14316203476011749,
     "images": [
@@ -124391,7 +124391,7 @@
   {
     "id": 9313,
     "date": "2026-09-16T03:35:23",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "images": [
       {
@@ -124410,7 +124410,7 @@
     "id": 9314,
     "date": "2026-09-17T01:18:53",
     "text": "今天真的超级倒霉\n\n首先是服务器坏掉了。VM 里面不知道为什么突然开始掉盘，于此同时宿主机 ssh web 都不响应\n\n决定下楼去物理抢救，过去打开机箱太急把玻璃打碎了，然后清理玻璃的时候把手划破了...",
-    "views": 194,
+    "views": 195,
     "forwards": 1,
     "media_group_id": 14316863471354909,
     "images": [
@@ -124461,7 +124461,7 @@
     "id": 9318,
     "date": "2026-09-17T04:16:26",
     "text": "💢😇",
-    "views": 192,
+    "views": 193,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -124484,7 +124484,7 @@
     "id": 9319,
     "date": "2026-09-17T05:09:26",
     "text": "EPYC 的内存好灵车\n\n重启之前 uptime 76 天没有一次 ECC 报错，重启之后两小时到现在已经有 25 个 corrected error 了",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "reply": {
       "id": 9314,
@@ -124496,7 +124496,7 @@
     "id": 9320,
     "date": "2026-09-17T05:19:20",
     "text": "小猫睡大觉",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "media_group_id": 14316978881624893,
     "images": [
@@ -124526,7 +124526,7 @@
     "id": 9322,
     "date": "2026-09-17T15:07:16",
     "text": "捕梦网",
-    "views": 271,
+    "views": 272,
     "forwards": 4,
     "images": [
       {
@@ -124545,7 +124545,7 @@
     "id": 9323,
     "date": "2026-09-17T17:25:19",
     "text": "该学学 en_LLM 了",
-    "views": 1070,
+    "views": 1073,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -124556,7 +124556,7 @@
     "id": 9324,
     "date": "2026-09-18T03:15:48",
     "text": "👀",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "media_group_id": 14317610791111493,
     "images": [
@@ -124596,7 +124596,7 @@
     "id": 9327,
     "date": "2026-09-18T16:26:49",
     "text": "感觉现在买什么东西都要花好多时间...\n\n刚才想买月饼，我想要 \n1. 散装（因为有铁盒子运费就太贵了）\n2. 材料真实（e.g. 蛋黄一定要是蛋黄、莲蓉一定要是莲蓉）\n3. 性价比最优\n的双黄莲蓉和凤梨和蜜桃月饼\n\n然后花了两个小时还没找到很好的选项... 发现老字号的都没有散装而且特别贵，散装的翻评论找成分表每次都让我失望，以及真的没有好品牌做水果月饼...\n\n不知道怎么办。如果可以把淘宝接给 agent 就好了",
-    "views": 151,
+    "views": 153,
     "forwards": 0,
     "images": [
       {
@@ -124614,7 +124614,7 @@
   {
     "id": 9328,
     "date": "2026-09-19T00:44:42",
-    "views": 109,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 14318229459919197,
     "images": [
@@ -124677,7 +124677,7 @@
     "id": 9333,
     "date": "2026-09-19T04:19:11",
     "text": "月饼bench",
-    "views": 76,
+    "views": 83,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -124731,7 +124731,7 @@
     "id": 9337,
     "date": "2026-09-19T04:19:59",
     "text": "五字旁一个乍是什么字",
-    "views": 78,
+    "views": 86,
     "forwards": 0,
     "reply": {
       "id": 9333,
