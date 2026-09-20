@@ -71405,7 +71405,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 252,
+    "views": 253,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -119179,7 +119179,7 @@
     "id": 8921,
     "date": "2026-07-20T07:23:34",
     "text": "喵哈！",
-    "views": 550,
+    "views": 551,
     "forwards": 1,
     "reply": {
       "id": 5097,
@@ -124496,7 +124496,7 @@
     "id": 9320,
     "date": "2026-09-17T05:19:20",
     "text": "小猫睡大觉",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "media_group_id": 14316978881624893,
     "images": [
@@ -124526,7 +124526,7 @@
     "id": 9322,
     "date": "2026-09-17T15:07:16",
     "text": "捕梦网",
-    "views": 301,
+    "views": 303,
     "forwards": 5,
     "images": [
       {
@@ -124545,7 +124545,7 @@
     "id": 9323,
     "date": "2026-09-17T17:25:19",
     "text": "该学学 en_LLM 了",
-    "views": 1128,
+    "views": 1132,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -124556,7 +124556,7 @@
     "id": 9324,
     "date": "2026-09-18T03:15:48",
     "text": "👀",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "media_group_id": 14317610791111493,
     "images": [
@@ -124596,7 +124596,7 @@
     "id": 9327,
     "date": "2026-09-18T16:26:49",
     "text": "感觉现在买什么东西都要花好多时间...\n\n刚才想买月饼，我想要 \n1. 散装（因为有铁盒子运费就太贵了）\n2. 材料真实（e.g. 蛋黄一定要是蛋黄、莲蓉一定要是莲蓉）\n3. 性价比最优\n的双黄莲蓉和凤梨和蜜桃月饼\n\n然后花了两个小时还没找到很好的选项... 发现老字号的都没有散装而且特别贵，散装的翻评论找成分表每次都让我失望，以及真的没有好品牌做水果月饼...\n\n不知道怎么办。如果可以把淘宝接给 agent 就好了",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "images": [
       {
@@ -124614,7 +124614,7 @@
   {
     "id": 9328,
     "date": "2026-09-19T00:44:42",
-    "views": 174,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 14318229459919197,
     "images": [
@@ -124677,7 +124677,7 @@
     "id": 9333,
     "date": "2026-09-19T04:19:11",
     "text": "月饼bench",
-    "views": 177,
+    "views": 180,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -124731,7 +124731,7 @@
     "id": 9337,
     "date": "2026-09-19T04:19:59",
     "text": "五字旁一个乍是什么字",
-    "views": 182,
+    "views": 185,
     "forwards": 0,
     "reply": {
       "id": 9333,
@@ -124755,7 +124755,7 @@
     "id": 9338,
     "date": "2026-09-19T13:32:01",
     "text": "㋿Ξ㍾㍿",
-    "views": 174,
+    "views": 178,
     "forwards": 2,
     "forwarded_from": {
       "name": "oldherl",
@@ -124766,7 +124766,7 @@
     "id": 9339,
     "date": "2026-09-20T02:06:26",
     "text": "终于把递归推箱子 Patrick's Parabox 所有挑战关卡打通了！总共 364 个关卡全程没有看攻略花了 16h 12m\n\n各种悖论好炸头🤯 比如尝试把一个只存在于自己里面的递归箱子推到自己外面会推到哪里之类的\n\n不过更炸头的是居然所有的悖论都是 intended game feature... 基本上是在前面找到了一个悖论以为自己很聪明然后下一章的关卡里就变成了通关必要的机制hhh 以为找到悖论解锁了隐藏成就其实只要正常打通所有关卡就会解锁所有成就 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n总之好好玩，对喜欢解谜题的人强烈推荐 qwq",
-    "views": 149,
+    "views": 159,
     "forwards": 2,
     "media_group_id": 14318959890137469,
     "images": [
@@ -124846,7 +124846,7 @@
     "id": 9346,
     "date": "2026-09-20T14:02:07",
     "text": "感冒了（怪聊聊）",
-    "views": 83,
+    "views": 104,
     "forwards": 0
   }
 ]
