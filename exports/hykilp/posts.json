@@ -120383,13 +120383,13 @@
     "id": 9012,
     "date": "2026-07-29T05:44:03",
     "text": "我发现我用的 Windows Terminal、Tabby、Alacritty、Ghostty、WSL Kitty、MinGW 全都做不好 emoji 支持... 所有的命令行打多字符 emoji 都不会被正确作为一个字符处理\n\n有的显示为多个字符、有的光标会偏移五格、有的能正常显示但是按下退格键没法把它完整删掉... 做好 emoji 有这么难吗？\n\n（测试方法：打 👨‍👩‍👧‍👦 进去，看 1. 是否正常显示为一个字符、2. 光标是否在一个字符的位置、3. 按一下退格能不能把整个 emoji 删掉）",
-    "views": 303,
+    "views": 304,
     "forwards": 0
   },
   {
     "id": 9013,
     "date": "2026-07-29T17:21:26",
-    "views": 268,
+    "views": 269,
     "forwards": 1,
     "images": [
       {
@@ -120408,7 +120408,7 @@
     "id": 9014,
     "date": "2026-07-30T01:59:51",
     "text": "蜻蜓！",
-    "views": 262,
+    "views": 263,
     "forwards": 0,
     "media_group_id": 14283014334605501,
     "images": [
@@ -120458,7 +120458,7 @@
     "id": 9019,
     "date": "2026-07-30T02:12:50",
     "text": "agent 对于日常折腾系统来说真的好厉害...\n\n我以前手动在 VMware 上装过 macOS，虽然不难但是踩了挺多坑花了挺多时间。今天我想在 PVE 上装 macOS，给了 agent 一个 prompt 它 18 分钟装好了...",
-    "views": 303,
+    "views": 304,
     "forwards": 1,
     "media_group_id": 14283020561469293,
     "images": [
@@ -120488,7 +120488,7 @@
     "id": 9021,
     "date": "2026-07-30T13:09:53",
     "text": "守护<del>月亮</del>顶灯的小猫",
-    "views": 275,
+    "views": 276,
     "forwards": 0,
     "media_group_id": 14283335949424437,
     "images": [
@@ -120528,7 +120528,7 @@
     "id": 9024,
     "date": "2026-07-30T23:29:06",
     "text": "哭哭 和中国朋友视频电话不需要绕墙的聊天平台又少了一个",
-    "views": 313,
+    "views": 314,
     "forwards": 3,
     "images": [
       {
@@ -120547,14 +120547,14 @@
     "id": 9025,
     "date": "2026-08-01T04:56:20",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"https://youtu.be/eTfEPt96JSM\">https://youtu.be/eTfEPt96JSM</a>",
-    "views": 274,
+    "views": 275,
     "forwards": 0
   },
   {
     "id": 9026,
     "date": "2026-08-01T05:35:00",
     "text": "想要像弹钢琴一样打字",
-    "views": 296,
+    "views": 297,
     "forwards": 1,
     "images": [
       {
@@ -120572,7 +120572,7 @@
   {
     "id": 9027,
     "date": "2026-08-01T18:22:42",
-    "views": 272,
+    "views": 273,
     "forwards": 1,
     "images": [
       {
@@ -120591,7 +120591,7 @@
     "id": 9028,
     "date": "2026-08-01T19:51:58",
     "text": "咣当 猫睡掉下去了（不过依然是脚着地）",
-    "views": 278,
+    "views": 279,
     "forwards": 1,
     "media_group_id": 14284911344643213,
     "images": [
@@ -120624,7 +120624,7 @@
     "id": 9030,
     "date": "2026-08-01T23:02:11",
     "text": "llm:",
-    "views": 279,
+    "views": 280,
     "forwards": 1,
     "reply": {
       "id": 9028,
@@ -121068,7 +121068,7 @@
     "id": 9063,
     "date": "2026-08-07T02:28:42",
     "text": "好好笑\n\n今天试了一下 <a href=\"https://charm.land/\">charm.land</a> + K3，发现这个 harness 即使是在 YOLO 模式都不让 agent 用 ssh, sudo 之类的敏感命令，查了一下禁止这些似乎是代码里写死的，当前版本无解\n\n然后我：sh -c \"ssh ...\" 试试 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n然后真的就这么简单成功绕过了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n没想到有生之年我会教 agent 怎样越狱一个 harness...",
-    "views": 284,
+    "views": 285,
     "forwards": 2,
     "media_group_id": 14288557776432349,
     "images": [
@@ -123826,14 +123826,14 @@
     "id": 9267,
     "date": "2026-09-10T17:49:11",
     "text": "好好笑 想申请的学校里唯一一个需要我考英语考试的学校是一所日本的学校",
-    "views": 277,
+    "views": 278,
     "forwards": 1
   },
   {
     "id": 9268,
     "date": "2026-09-11T02:07:35",
     "text": "小猫展示柜",
-    "views": 256,
+    "views": 257,
     "forwards": 0,
     "images": [
       {
@@ -123931,7 +123931,7 @@
     "id": 9275,
     "date": "2026-09-12T00:37:37",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n汤咖喱火锅！",
-    "views": 254,
+    "views": 255,
     "forwards": 0,
     "images": [
       {
@@ -123949,7 +123949,7 @@
   {
     "id": 9276,
     "date": "2026-09-12T04:16:07",
-    "views": 261,
+    "views": 262,
     "forwards": 0,
     "images": [
       {
@@ -123975,7 +123975,7 @@
     "id": 9278,
     "date": "2026-09-13T03:48:58",
     "text": "今天聊聊的 ps5 手柄的 下键 突然坏掉了\n\n拆开看看，FPC 和主板居然是靠裸铜接触连接的... 好灵车\n\n把两边都用 99% 酒精擦一下、晾干再装回去就好了",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "media_group_id": 14314170709690237,
     "images": [
@@ -124035,13 +124035,13 @@
     "id": 9283,
     "date": "2026-09-13T16:19:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/B2QmpfzW8Mo\">https://youtu.be/B2QmpfzW8Mo</a>",
-    "views": 242,
+    "views": 243,
     "forwards": 1
   },
   {
     "id": 9284,
     "date": "2026-09-14T03:54:33",
-    "views": 198,
+    "views": 199,
     "forwards": 1,
     "forwarded_from": {
       "name": "meow"
@@ -124063,13 +124063,13 @@
     "id": 9285,
     "date": "2026-09-14T03:59:24",
     "text": "看到 mΩ 和 MΩ 之后想到一个灵魂提问：为什么 mb 和 Mb 都是 megabits 而不是 millibits <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<span class=\"spoiler\"><span>（好蠢啊</span></span>",
-    "views": 285,
+    "views": 286,
     "forwards": 1
   },
   {
     "id": 9286,
     "date": "2026-09-14T04:07:30",
-    "views": 212,
+    "views": 213,
     "forwards": 1,
     "media_group_id": 14314870800934277,
     "images": [
@@ -124238,7 +124238,7 @@
     "id": 9299,
     "date": "2026-09-15T03:23:46",
     "text": "今天和流浪猫聊天练习日语的时候说到マリマリマリー发现 K3 居然不知道它是什么，明明在日本超有人气的\n\n然后想测试一下有多少模型知道... 发现我试的十家只有 Gemini 和 GPT 和 K3 知道（K3 知道但是用的时候怎么想不起来呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>）\n\n以及 qwen 3.8 max 一个请求想了 23 分钟还没想出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>（是一个请求，不是 agentic）因为怕破产我把它停了\n\n记得之前有人问我平时聊天为什么要用 Gemini，也许这就是为什么吧",
-    "views": 208,
+    "views": 209,
     "forwards": 1,
     "media_group_id": 14315541011563181,
     "images": [
@@ -124355,7 +124355,7 @@
     "id": 9310,
     "date": "2026-09-15T23:01:55",
     "text": "哭哭 几年前给聊聊买的 canokey 坏掉了\n\n不知道怎么回事",
-    "views": 366,
+    "views": 367,
     "forwards": 2
   },
   {
@@ -124461,7 +124461,7 @@
     "id": 9318,
     "date": "2026-09-17T04:16:26",
     "text": "💢😇",
-    "views": 197,
+    "views": 198,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -124484,7 +124484,7 @@
     "id": 9319,
     "date": "2026-09-17T05:09:26",
     "text": "EPYC 的内存好灵车\n\n重启之前 uptime 76 天没有一次 ECC 报错，重启之后两小时到现在已经有 25 个 corrected error 了",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "reply": {
       "id": 9314,
@@ -124496,7 +124496,7 @@
     "id": 9320,
     "date": "2026-09-17T05:19:20",
     "text": "小猫睡大觉",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 14316978881624893,
     "images": [
@@ -124526,7 +124526,7 @@
     "id": 9322,
     "date": "2026-09-17T15:07:16",
     "text": "捕梦网",
-    "views": 295,
+    "views": 296,
     "forwards": 5,
     "images": [
       {
@@ -124545,7 +124545,7 @@
     "id": 9323,
     "date": "2026-09-17T17:25:19",
     "text": "该学学 en_LLM 了",
-    "views": 1112,
+    "views": 1114,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -124556,7 +124556,7 @@
     "id": 9324,
     "date": "2026-09-18T03:15:48",
     "text": "👀",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14317610791111493,
     "images": [
@@ -124596,7 +124596,7 @@
     "id": 9327,
     "date": "2026-09-18T16:26:49",
     "text": "感觉现在买什么东西都要花好多时间...\n\n刚才想买月饼，我想要 \n1. 散装（因为有铁盒子运费就太贵了）\n2. 材料真实（e.g. 蛋黄一定要是蛋黄、莲蓉一定要是莲蓉）\n3. 性价比最优\n的双黄莲蓉和凤梨和蜜桃月饼\n\n然后花了两个小时还没找到很好的选项... 发现老字号的都没有散装而且特别贵，散装的翻评论找成分表每次都让我失望，以及真的没有好品牌做水果月饼...\n\n不知道怎么办。如果可以把淘宝接给 agent 就好了",
-    "views": 183,
+    "views": 185,
     "forwards": 0,
     "images": [
       {
@@ -124614,7 +124614,7 @@
   {
     "id": 9328,
     "date": "2026-09-19T00:44:42",
-    "views": 159,
+    "views": 162,
     "forwards": 0,
     "media_group_id": 14318229459919197,
     "images": [
@@ -124677,7 +124677,7 @@
     "id": 9333,
     "date": "2026-09-19T04:19:11",
     "text": "月饼bench",
-    "views": 158,
+    "views": 161,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -124731,7 +124731,7 @@
     "id": 9337,
     "date": "2026-09-19T04:19:59",
     "text": "五字旁一个乍是什么字",
-    "views": 161,
+    "views": 163,
     "forwards": 0,
     "reply": {
       "id": 9333,
@@ -124755,7 +124755,7 @@
     "id": 9338,
     "date": "2026-09-19T13:32:01",
     "text": "㋿Ξ㍾㍿",
-    "views": 149,
+    "views": 152,
     "forwards": 2,
     "forwarded_from": {
       "name": "oldherl",
@@ -124766,7 +124766,7 @@
     "id": 9339,
     "date": "2026-09-20T02:06:26",
     "text": "终于把递归推箱子 Patrick's Parabox 所有挑战关卡打通了！总共 364 个关卡全程没有看攻略花了 16h 12m\n\n各种悖论好炸头🤯 比如尝试把一个只存在于自己里面的递归箱子推到自己外面会推到哪里之类的\n\n不过更炸头的是居然所有的悖论都是 intended game feature... 基本上是在前面找到了一个悖论以为自己很聪明然后下一章的关卡里就变成了通关必要的机制hhh 以为找到悖论解锁了隐藏成就其实只要正常打通所有关卡就会解锁所有成就 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n总之好好玩，对喜欢解谜题的人强烈推荐 qwq",
-    "views": 89,
+    "views": 96,
     "forwards": 2,
     "media_group_id": 14318959890137469,
     "images": [
