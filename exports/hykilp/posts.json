@@ -110290,14 +110290,14 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2162,
+    "views": 2163,
     "forwards": 31
   },
   {
     "id": 8258,
     "date": "2026-04-17T20:06:34",
     "text": "猫！！！！！！ <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 313,
+    "views": 314,
     "forwards": 0,
     "images": [
       {
@@ -110316,7 +110316,7 @@
     "id": 8259,
     "date": "2026-04-18T00:14:30",
     "text": "猫",
-    "views": 318,
+    "views": 319,
     "forwards": 0,
     "images": [
       {
@@ -110335,7 +110335,7 @@
     "id": 8260,
     "date": "2026-04-18T04:09:06",
     "text": "？？？\n\n也许在 AI 眼里我是一个累赘，让我去网页上改一个 CNAME 不如直接把我的 Cloudflare API key 翻出来发请求改吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n（完全没有问过我要不要手动去网页上改，也完全没问我要 API key，就直接把它翻出来了......）\n\n不敢用了。",
-    "views": 319,
+    "views": 320,
     "forwards": 2,
     "images": [
       {
@@ -110354,7 +110354,7 @@
     "id": 8261,
     "date": "2026-04-18T06:58:58",
     "text": "今天在给服务器赛博搬家，好累\n\n我部署东西的时候习惯随便丢哪里就忘记它，但是搬家的时候要把所有这些都想起来...\n\n然后就发生了，我看到有一个 blog 的部署文件夹以为 blog 是在这里部署的，迁移完才发现实际上很久以前已经迁移到 cloudflare pages 了但是忘记把文件夹删掉... 好痛苦\n\n以及发现好多服务都是部署完用了一两次就没有继续用了的，比如直播间上次直播已经是一年前了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 309,
+    "views": 310,
     "forwards": 1,
     "media_group_id": 14211964308173789,
     "images": [
@@ -110389,7 +110389,7 @@
     "id": 8263,
     "date": "2026-04-18T15:30:31",
     "text": "map 了一下家里的网络设备拓扑结构\n\nMermaid 好用喵",
-    "views": 312,
+    "views": 313,
     "forwards": 2,
     "images": [
       {
@@ -110408,7 +110408,7 @@
     "id": 8264,
     "date": "2026-04-18T20:29:38",
     "text": "看了 mygo 总集篇的猫猫小故事，好看喵\n\n好羡慕猫猫，真希望我能有勇气像猫猫那样<span class=\"spoiler\"><span>无视社会礼仪常识、遇到不喜欢的事情可以直接跑掉</span></span> 感觉这样也许可以省下很多精力去做更想做的事情",
-    "views": 312,
+    "views": 313,
     "forwards": 1,
     "images": [
       {
@@ -110427,7 +110427,7 @@
     "id": 8265,
     "date": "2026-04-18T20:55:17",
     "text": "谁设计的 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i><i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 316,
+    "views": 317,
     "forwards": 0,
     "reply": {
       "id": 8122,
@@ -110451,7 +110451,7 @@
     "id": 8266,
     "date": "2026-04-19T02:04:39",
     "text": "遛猫",
-    "views": 318,
+    "views": 319,
     "forwards": 1,
     "media_group_id": 14212514239392477,
     "images": [
@@ -110561,7 +110561,7 @@
     "id": 8276,
     "date": "2026-04-19T09:20:36",
     "text": "啊？一年没关心 bcachefs 原本想再看看能不能用的... 有被震撼到 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n<a href=\"https://poc.bcachefs.org/\">https://poc.bcachefs.org/</a>",
-    "views": 390,
+    "views": 391,
     "forwards": 2,
     "images": [
       {
@@ -110580,7 +110580,7 @@
     "id": 8277,
     "date": "2026-04-19T22:53:55",
     "text": "呜呜 被坑了... gitadora 的存档丢了\n\n之前给 gitadora 开私服的时候直接谷歌找了一个别人打好的 docker 包就直接用了，也确实能用\n\n但是迁移的时候下线了旧机器上的容器才发现存档文件夹里没东西，因为它路径映射写的是错的，根本没有把存档路径映射出去... 重新开起来的时候已经晚了，存档在容器下线的时候一起被删了\n\n然后就是，我虽然有每日 btrfs 快照备份，但是 docker 用的是 btrfs 子卷，子卷又正好不在快照范围内\n\n呜呜呜 看来以后不能相信随机网友的 docker 配置了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 350,
+    "views": 351,
     "forwards": 3,
     "media_group_id": 14213113883732813,
     "images": [
@@ -119600,7 +119600,7 @@
     "id": 8950,
     "date": "2026-07-24T04:26:22",
     "text": "嘉立创用下单助手下单可以 -¥100，但是下载下来让 codex 看了一下，发现完全就是木马 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n下单助手启动的时候会收集 Hostname、MAC 和 NIC 信息、硬盘序列号、主板和系统 ID、CPU、系统构建号、VM 状态...\n\n然后还有通过通知消息进行任意代码执行、还有各种安全隐患比如用 HTTP 非 S 明文自动更新、超级旧版 electron、开机自启、防注入... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n为了拿到优惠的同时不把底裤卖了，<a href=\"https://codeberg.org/JLCJLCJLCJLC/OrderAssistant\">找了一个 userscript</a> 在网页上拿到小助手优惠了",
-    "views": 446,
+    "views": 447,
     "forwards": 16,
     "images": [
       {
@@ -123800,7 +123800,7 @@
     "id": 9265,
     "date": "2026-09-10T06:56:53",
     "text": "写某 GPS 固件的时候想了一秒要不要为防止 Y2106 溢出问题把时间存储改成 uint64\n\n然后仔细想了想觉得我会想这个问题真的好蠢，MCU 肯定活不了 80 年，而且等到 2106 年现在的需求和适配的设备标准应该都已经变成博物馆文物了...\n\n（何况 GPS 模块本身收到的 GPS 日期反而会更早溢出... 这个只剩 16 年我感觉觉得有点危还是合理的？虽然因为是模块本身的问题没有我可以做的就是）\n\n然后就感觉一般 future-proof 和 overengineer 的界限好模糊呀，<del>会不会几百年后某太阳系戴森球上的无数个大大小小 AI agent 和扩建机器的社会会觉得当初设计 ipv6 只留了 128 位的地址很近视</del>",
-    "views": 326,
+    "views": 327,
     "forwards": 3
   },
   {
@@ -124545,7 +124545,7 @@
     "id": 9323,
     "date": "2026-09-17T17:25:19",
     "text": "该学学 en_LLM 了",
-    "views": 1165,
+    "views": 1167,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -124853,7 +124853,7 @@
     "id": 9347,
     "date": "2026-09-21T02:15:59",
     "text": "还没有决定好要开还是要合上的卷毛 aster",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14319655673367445,
     "images": [
