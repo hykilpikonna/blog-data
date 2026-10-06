@@ -73050,7 +73050,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6684,
+    "views": 6685,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -121778,7 +121778,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2697,
+    "views": 2698,
     "forwards": 69,
     "images": [
       {
@@ -123572,7 +123572,7 @@
     "id": 9250,
     "date": "2026-09-02T23:52:46",
     "text": "哇 gemini 3.8 flash 感觉真的开始好用了",
-    "views": 361,
+    "views": 362,
     "forwards": 0,
     "reply": {
       "id": 9125,
@@ -123584,7 +123584,7 @@
     "id": 9251,
     "date": "2026-09-03T02:00:17",
     "text": "野生的八角",
-    "views": 358,
+    "views": 359,
     "forwards": 0,
     "images": [
       {
@@ -123604,7 +123604,7 @@
     "id": 9252,
     "date": "2026-09-03T13:57:41",
     "text": "Arena 的测试结果\n\n虽然没有宣传的那种完爆 opus 5 但是至少和我平时用的 dsv4/glm5.3 flash 差不多了，作为一个对我来说免费的模型完全是好消息",
-    "views": 381,
+    "views": 382,
     "forwards": 0,
     "reply": {
       "id": 9250,
@@ -123627,7 +123627,7 @@
     "id": 9253,
     "date": "2026-09-03T15:40:17",
     "text": "能分辨出真假中转站的时刻到了",
-    "views": 410,
+    "views": 411,
     "forwards": 3,
     "images": [
       {
@@ -123645,7 +123645,7 @@
   {
     "id": 9254,
     "date": "2026-09-03T19:32:41",
-    "views": 404,
+    "views": 405,
     "forwards": 1,
     "images": [
       {
@@ -123664,7 +123664,7 @@
     "id": 9255,
     "date": "2026-09-04T16:14:00",
     "text": "在多伦多 downtown 双向停牌交叉路直行感觉真的需要等到天时地利人和才能过\n\n需要同时这边的行人道没人、向左没车、向右没车、没有不太聪明猫排到交叉路中间、对面的人行道也没人，全都满足才能过\n\n我等了好久等不下去直接堵路过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 381,
+    "views": 382,
     "forwards": 0
   },
   {
@@ -123727,7 +123727,7 @@
     "id": 9260,
     "date": "2026-09-06T03:30:45",
     "text": "翻照片\n\n前几天在 Ottawa 旅游的时候去 Shawarma Palace 吃了 Shawarma\n\n然后原本在远处拍照，被厨师看见了厨师对我笑我赶快按快门，拍到了好不错的照片 qwq\n\n可惜那天便携照片打印机正好落在旅店了... 结果发邮件把照片给他啦。即使感觉现场打出来更有意思",
-    "views": 442,
+    "views": 443,
     "forwards": 1,
     "media_group_id": 14309323567535301,
     "images": [
@@ -123762,7 +123762,7 @@
     "id": 9262,
     "date": "2026-09-07T13:39:27",
     "text": "小学的回忆开始攻击我",
-    "views": 400,
+    "views": 401,
     "forwards": 0,
     "images": [
       {
@@ -123781,7 +123781,7 @@
     "id": 9263,
     "date": "2026-09-08T01:15:16",
     "text": "好怀念三年前画板子的风格",
-    "views": 362,
+    "views": 363,
     "forwards": 0,
     "reply": {
       "id": 1965,
@@ -123792,21 +123792,21 @@
     "id": 9264,
     "date": "2026-09-09T06:08:27",
     "text": "最近总是想关掉所有 AI 花一两周回顾一下四五年前的生活方式\n\n然后就想到，是不是和四五年前总是想关掉手机电脑去瓦尔登湖露营是同样的状态",
-    "views": 328,
+    "views": 329,
     "forwards": 1
   },
   {
     "id": 9265,
     "date": "2026-09-10T06:56:53",
     "text": "写某 GPS 固件的时候想了一秒要不要为防止 Y2106 溢出问题把时间存储改成 uint64\n\n然后仔细想了想觉得我会想这个问题真的好蠢，MCU 肯定活不了 80 年，而且等到 2106 年现在的需求和适配的设备标准应该都已经变成博物馆文物了...\n\n（何况 GPS 模块本身收到的 GPS 日期反而会更早溢出... 这个只剩 16 年我感觉觉得有点危还是合理的？虽然因为是模块本身的问题没有我可以做的就是）\n\n然后就感觉一般 future-proof 和 overengineer 的界限好模糊呀，<del>会不会几百年后某太阳系戴森球上的无数个大大小小 AI agent 和扩建机器的社会会觉得当初设计 ipv6 只留了 128 位的地址很近视</del>",
-    "views": 347,
+    "views": 348,
     "forwards": 3
   },
   {
     "id": 9266,
     "date": "2026-09-10T12:03:25",
     "text": "我：用点新东西\n输入法：点心？<i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 325,
+    "views": 326,
     "forwards": 1,
     "images": [
       {
@@ -123825,14 +123825,14 @@
     "id": 9267,
     "date": "2026-09-10T17:49:11",
     "text": "好好笑 想申请的学校里唯一一个需要我考英语考试的学校是一所日本的学校",
-    "views": 294,
+    "views": 295,
     "forwards": 1
   },
   {
     "id": 9268,
     "date": "2026-09-11T02:07:35",
     "text": "小猫展示柜",
-    "views": 271,
+    "views": 272,
     "forwards": 0,
     "images": [
       {
@@ -123851,7 +123851,7 @@
     "id": 9269,
     "date": "2026-09-11T02:41:45",
     "text": "<a href=\"##今天桂桂吃什么\">#今天桂桂吃什么</a>\n黑椒牛柳意面！",
-    "views": 284,
+    "views": 285,
     "forwards": 1,
     "images": [
       {
@@ -124062,7 +124062,7 @@
     "id": 9285,
     "date": "2026-09-14T03:59:24",
     "text": "看到 mΩ 和 MΩ 之后想到一个灵魂提问：为什么 mb 和 Mb 都是 megabits 而不是 millibits <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<span class=\"spoiler\"><span>（好蠢啊</span></span>",
-    "views": 310,
+    "views": 311,
     "forwards": 1
   },
   {
@@ -124237,7 +124237,7 @@
     "id": 9299,
     "date": "2026-09-15T03:23:46",
     "text": "今天和流浪猫聊天练习日语的时候说到マリマリマリー发现 K3 居然不知道它是什么，明明在日本超有人气的\n\n然后想测试一下有多少模型知道... 发现我试的十家只有 Gemini 和 GPT 和 K3 知道（K3 知道但是用的时候怎么想不起来呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>）\n\n以及 qwen 3.8 max 一个请求想了 23 分钟还没想出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>（是一个请求，不是 agentic）因为怕破产我把它停了\n\n记得之前有人问我平时聊天为什么要用 Gemini，也许这就是为什么吧",
-    "views": 238,
+    "views": 239,
     "forwards": 1,
     "media_group_id": 14315541011563181,
     "images": [
@@ -124390,7 +124390,7 @@
   {
     "id": 9313,
     "date": "2026-09-16T03:35:23",
-    "views": 238,
+    "views": 239,
     "forwards": 0,
     "images": [
       {
@@ -124409,7 +124409,7 @@
     "id": 9314,
     "date": "2026-09-17T01:18:53",
     "text": "今天真的超级倒霉\n\n首先是服务器坏掉了。VM 里面不知道为什么突然开始掉盘，于此同时宿主机 ssh web 都不响应\n\n决定下楼去物理抢救，过去打开机箱太急把玻璃打碎了，然后清理玻璃的时候把手划破了...",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "media_group_id": 14316863471354909,
     "images": [
@@ -125130,7 +125130,7 @@
     "id": 9367,
     "date": "2026-09-26T00:05:31",
     "text": "买到了便宜月饼！中秋节当天居然直接半价了\n\n看这个 <del>14.99</del> <del>12.99</del> <del>9.99</del> 7.99!! 好好笑\n\n又买了一些广州酒家和它对比一下 qwq",
-    "views": 284,
+    "views": 285,
     "forwards": 2,
     "media_group_id": 14323049048530085,
     "images": [
@@ -125180,7 +125180,7 @@
     "id": 9371,
     "date": "2026-09-27T17:08:10",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n室友做的汉堡月饼！",
-    "views": 255,
+    "views": 257,
     "forwards": 1,
     "images": [
       {
@@ -125199,13 +125199,13 @@
     "id": 9372,
     "date": "2026-09-27T23:38:55",
     "text": "「言わなければならない」说出来感觉像绕口令",
-    "views": 267,
+    "views": 269,
     "forwards": 0
   },
   {
     "id": 9373,
     "date": "2026-09-28T23:14:41",
-    "views": 306,
+    "views": 307,
     "forwards": 0,
     "images": [
       {
@@ -125308,7 +125308,7 @@
     "id": 9380,
     "date": "2026-10-03T04:39:09",
     "text": "寻找图片中的杂草 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 178,
+    "views": 181,
     "forwards": 0,
     "media_group_id": 14328018795536565,
     "images": [
@@ -125338,7 +125338,7 @@
     "id": 9382,
     "date": "2026-10-04T01:09:27",
     "text": "Chicory 好好看",
-    "views": 168,
+    "views": 170,
     "forwards": 0,
     "media_group_id": 14328609335799525,
     "images": [
@@ -125378,7 +125378,7 @@
     "id": 9385,
     "date": "2026-10-04T01:11:10",
     "text": "从后院玩累了回来之后的小猫爪子",
-    "views": 174,
+    "views": 176,
     "forwards": 2,
     "images": [
       {
@@ -125396,7 +125396,7 @@
   {
     "id": 9386,
     "date": "2026-10-05T21:21:22",
-    "views": 123,
+    "views": 129,
     "forwards": 0,
     "forwarded_from": {
       "name": "Ciellyn"
@@ -125418,7 +125418,7 @@
     "id": 9387,
     "date": "2026-10-05T21:23:29",
     "text": "是之前<a href=\"https://t.me/azaneko/9245?single\">救的那只小猫</a>",
-    "views": 123,
+    "views": 129,
     "forwards": 0,
     "reply": {
       "id": 9386
