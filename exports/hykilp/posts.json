@@ -45115,7 +45115,8 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480
+        "size": 39480,
+        "thumb": "media/3328.webm_thumb.jpg"
       }
     ]
   },
@@ -112329,7 +112330,7 @@
     "id": 8403,
     "date": "2026-05-10T16:44:28",
     "text": "因为最近 github 的各种问题决定离开 github 了，但是不想离开 github 上的贡献者社区，所以让猫猫帮忙写了一个多向读写的仓库同步工具 <a href=\"https://github.com/MaigoLabs/refray\">refray</a>！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n可以把仓库同步到∞个 git 平台，并且监听 webhook 所以可以在任何一个平台上有改动的时候第一时间同步到其他的平台上，这样就可以自己用 codeberg 写项目的同时不影响 github 上的人贡献了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n项目链接：<a href=\"https://github.com/MaigoLabs/refray\">GitHub</a> | <a href=\"https://gitlab.com/maigolabs/refray\">GitLab</a> | <a href=\"https://codeberg.org/MaigoLabs/refray\">Codeberg</a> | <a href=\"https://gitea.aza.moe/MaigoLabs/refray\">Gitea</a> <del>大人才做选择，我是小孩子我全都要！</del>",
-    "views": 757,
+    "views": 758,
     "forwards": 11,
     "media_group_id": 14227451747839885,
     "images": [
@@ -123492,7 +123493,7 @@
     "id": 9243,
     "date": "2026-09-01T15:16:12",
     "text": "救了一只小猫\n\n去接朋友的时候朋友听到路边停的某辆车在发出小猫叫，尝试叫救援/自己开前盖都无果。半小时之后车主过来把前盖打开，看到猫之后架了千斤顶又尝试拆下面的盖子，我在上面用手电筒戳戳之后小猫出来了，然后马上又蹿进了另一辆车里 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n原来不是卡在车里了而是自己想躲进车里... 还好第二辆车的车主也在旁边，打开前盖子把小猫抓出来了\n\n接下来放进了朋友的猫车，去宠物店检测了一下，大概是 6 周大很健康只是缺水。给它喝水之后朋友决定放到她家啦（希望朋友家的母猫会带小猫 qwq",
-    "views": 291,
+    "views": 292,
     "forwards": 0,
     "media_group_id": 14306206176887365,
     "images": [
@@ -123572,7 +123573,7 @@
     "id": 9250,
     "date": "2026-09-02T23:52:46",
     "text": "哇 gemini 3.8 flash 感觉真的开始好用了",
-    "views": 364,
+    "views": 365,
     "forwards": 0,
     "reply": {
       "id": 9125,
@@ -123584,7 +123585,7 @@
     "id": 9251,
     "date": "2026-09-03T02:00:17",
     "text": "野生的八角",
-    "views": 361,
+    "views": 362,
     "forwards": 0,
     "images": [
       {
@@ -125308,7 +125309,7 @@
     "id": 9380,
     "date": "2026-10-03T04:39:09",
     "text": "寻找图片中的杂草 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 186,
+    "views": 187,
     "forwards": 0,
     "media_group_id": 14328018795536565,
     "images": [
@@ -125338,7 +125339,7 @@
     "id": 9382,
     "date": "2026-10-04T01:09:27",
     "text": "Chicory 好好看",
-    "views": 174,
+    "views": 175,
     "forwards": 0,
     "media_group_id": 14328609335799525,
     "images": [
@@ -125378,7 +125379,7 @@
     "id": 9385,
     "date": "2026-10-04T01:11:10",
     "text": "从后院玩累了回来之后的小猫爪子",
-    "views": 180,
+    "views": 182,
     "forwards": 2,
     "images": [
       {
@@ -125396,7 +125397,7 @@
   {
     "id": 9386,
     "date": "2026-10-05T21:21:22",
-    "views": 139,
+    "views": 141,
     "forwards": 0,
     "forwarded_from": {
       "name": "Ciellyn"
@@ -125418,7 +125419,7 @@
     "id": 9387,
     "date": "2026-10-05T21:23:29",
     "text": "是之前<a href=\"https://t.me/azaneko/9245?single\">救的那只小猫</a>",
-    "views": 138,
+    "views": 140,
     "forwards": 0,
     "reply": {
       "id": 9386
