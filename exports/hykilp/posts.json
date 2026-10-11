@@ -109094,7 +109094,7 @@
     "id": 8171,
     "date": "2026-04-05T18:42:09",
     "text": "AI agent 相关的代码库好草台，感觉很多东西都不按标准写\n\n今天想要用 agno 部署一个用 skill 回答问题的 discord 机器人，然后发现它不支持标准的 skill，因为 agno 的 skill 实现里认为所有 .md 都应该在 references 的第一层目录，也不支持在元信息里定义 references\n\n然后发现如果我改源码让它 index 二级目录的话，它会把整个文件树全都放进 prompt 里，一个请求 165k token... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> 难道不应该是让 agent 按需读吗？标准里写好了 progressive disclosure 的核心原则 agno 也没有尊重\n\nagno 一个 39.2k star 的项目... 这是为什么呢？",
-    "views": 335,
+    "views": 336,
     "forwards": 2,
     "media_group_id": 14203316239623157,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2711,
+    "views": 2712,
     "forwards": 69,
     "images": [
       {
@@ -124545,7 +124545,7 @@
     "id": 9323,
     "date": "2026-09-17T17:25:19",
     "text": "该学学 en_LLM 了",
-    "views": 1276,
+    "views": 1277,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -125397,7 +125397,7 @@
   {
     "id": 9386,
     "date": "2026-10-05T21:21:22",
-    "views": 223,
+    "views": 224,
     "forwards": 0,
     "forwarded_from": {
       "name": "Ciellyn"
@@ -125419,7 +125419,7 @@
     "id": 9387,
     "date": "2026-10-05T21:23:29",
     "text": "是之前<a href=\"https://t.me/azaneko/9245?single\">救的那只小猫</a>",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "reply": {
       "id": 9386
@@ -125429,7 +125429,7 @@
     "id": 9389,
     "date": "2026-10-06T23:12:43",
     "text": "好好看",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 14330626906313149,
     "images": [
@@ -125469,7 +125469,7 @@
     "id": 9392,
     "date": "2026-10-07T01:58:41",
     "text": "今天无法工作的原因：",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "images": [
       {
@@ -125488,7 +125488,7 @@
     "id": 9393,
     "date": "2026-10-08T00:51:33",
     "text": "修了冰箱\n\n风扇冻住了导致没法把制冷吹出来，拆开把冰块敲出来就修好了 qwq",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "images": [
       {
@@ -125506,7 +125506,7 @@
   {
     "id": 9394,
     "date": "2026-10-08T06:28:42",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "files": [
       {
@@ -125529,14 +125529,14 @@
     "id": 9395,
     "date": "2026-10-08T07:55:18",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/3TNpOD6bov8\">https://youtu.be/3TNpOD6bov8</a>\n\n<span class=\"spoiler\"><span>感觉最讽刺的事情是，整个曲子包含 MV 是使用 Suno 和 Claude 做的</span></span>",
-    "views": 211,
+    "views": 212,
     "forwards": 4
   },
   {
     "id": 9396,
     "date": "2026-10-08T21:04:54",
     "text": "<del>特斯拉英伟达 V100 是什么汽车</del>",
-    "views": 197,
+    "views": 199,
     "forwards": 0,
     "images": [
       {
@@ -125555,7 +125555,7 @@
     "id": 9397,
     "date": "2026-10-09T03:14:22",
     "text": "今天在 repair club 修好了一台进水了不开机的笔记本！（然后收到了 $67 捐赠金，开心喵）<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n这次真的超级幸运... 把主板拆出来、把两面的水彻底擦干净、然后用 99% 酒精把进水通电导致腐蚀的地方清干净，插上电源看待机稳定 20V 1W 正常了。打算试试运气，把排线都插上按开机键居然直接就正常开机了...！\n\n明明之前看到有几个完全腐蚀掉的焊盘（比如 P4 右上角的 SOT-23-5）原本还是有点担心的，结果居然成功开机了，太幸运了\n\n（开机之前我原本的预期是不会成功的，已经告诉别人买新的电脑之后怎样把 SSD 数据拷出来了）",
-    "views": 186,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 14332125298066557,
     "images": [
@@ -125610,7 +125610,7 @@
     "id": 9401,
     "date": "2026-10-09T18:40:38",
     "text": "为什么技术选型这么难啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 170,
+    "views": 173,
     "forwards": 0,
     "images": [
       {
@@ -125629,7 +125629,7 @@
     "id": 9402,
     "date": "2026-10-09T20:19:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好可爱！！！",
-    "views": 161,
+    "views": 165,
     "forwards": 1,
     "files": [
       {
@@ -125650,7 +125650,7 @@
   {
     "id": 9403,
     "date": "2026-10-09T20:48:04",
-    "views": 159,
+    "views": 162,
     "forwards": 3,
     "images": [
       {
@@ -125669,7 +125669,7 @@
     "id": 9404,
     "date": "2026-10-10T14:17:57",
     "text": "好好看",
-    "views": 122,
+    "views": 126,
     "forwards": 1,
     "images": [
       {
