@@ -35366,7 +35366,7 @@
     "id": 2649,
     "date": "2023-09-13T02:08:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n我做的炒卷心菜和新室友猪猪做的红烧肉！\n\n回家之后第一次做饭 qwq",
-    "views": 142,
+    "views": 143,
     "forwards": 0,
     "images": [
       {
@@ -35385,14 +35385,14 @@
     "id": 2650,
     "date": "2023-09-13T18:03:20",
     "text": "在学 Onshape，不想用 FreeCAD 了...\n\n<del>怎么感觉每次开新坑都在学新的软件，高中受不了 Fusion 360 转学 OpenSCAD，意识到 SCAD 对不规则形状的局限性之后转学 FreeCAD，现在觉得 FreeCAD 麻烦又想转了</del>",
-    "views": 145,
+    "views": 146,
     "forwards": 1
   },
   {
     "id": 2651,
     "date": "2023-09-13T19:38:31",
     "text": "世界上最远的距离... 课间的十分钟跑过去还是骑车过去都赶不上",
-    "views": 152,
+    "views": 153,
     "forwards": 2,
     "media_group_id": 13557071287951933,
     "images": [
@@ -35422,7 +35422,7 @@
     "id": 2653,
     "date": "2023-09-14T22:29:59",
     "text": "？",
-    "views": 131,
+    "views": 132,
     "forwards": 1,
     "files": [
       {
@@ -35444,7 +35444,7 @@
     "id": 2654,
     "date": "2023-09-15T19:30:37",
     "text": "uoft 自行车停车桩好壮观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 感觉自己的电滑板格格不入",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 13558449901162749,
     "images": [
@@ -35474,7 +35474,7 @@
     "id": 2656,
     "date": "2023-09-15T22:50:55",
     "text": "没有开机键怎么办.jpg",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13558546042981149,
     "images": [
@@ -35504,7 +35504,7 @@
     "id": 2658,
     "date": "2023-09-16T04:19:36",
     "text": "聊聊的模型太多了摆不下，给聊聊买了一个模型柜一起拼好了 qwq",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "media_group_id": 13558703808882701,
     "images": [
@@ -35544,7 +35544,7 @@
     "id": 2661,
     "date": "2023-09-18T00:17:21",
     "text": "计了一下时，发现一个人准备咖喱的时间只要 14 分钟 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> <del>只要 vectorize 一下需要做的事情</del>",
-    "views": 129,
+    "views": 130,
     "forwards": 2,
     "media_group_id": 13559969931238269,
     "images": [
@@ -73021,7 +73021,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 1003,
+    "views": 1004,
     "forwards": 2,
     "images": [
       {
@@ -73040,7 +73040,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1261,
+    "views": 1262,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6687,
+    "views": 6688,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -108849,7 +108849,7 @@
     "id": 8152,
     "date": "2026-04-03T12:01:43",
     "text": "User-Agent <span class=\"spoiler\"><span>是 OpenClaw 的意思吗？</span></span>",
-    "views": 4320,
+    "views": 4321,
     "forwards": 31
   },
   {
@@ -121898,7 +121898,7 @@
     "id": 9125,
     "date": "2026-08-14T09:28:29",
     "text": "感谢 gemini 3.7 flash 的跑分图给 gpt 5.6 luna 打广告 🤡\n\n我感觉这张图想说它在某种又便宜又能用的性价比最优线，但是它的右上就是更便宜更好的 5.6 luna xhigh，左上就是更贵更好的 opus 5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 404,
+    "views": 405,
     "forwards": 0,
     "media_group_id": 14293597672920397,
     "images": [
@@ -125555,7 +125555,7 @@
     "id": 9397,
     "date": "2026-10-09T03:14:22",
     "text": "今天在 repair club 修好了一台进水了不开机的笔记本！（然后收到了 $67 捐赠金，开心喵）<i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>\n\n这次真的超级幸运... 把主板拆出来、把两面的水彻底擦干净、然后用 99% 酒精把进水通电导致腐蚀的地方清干净，插上电源看待机稳定 20V 1W 正常了。打算试试运气，把排线都插上按开机键居然直接就正常开机了...！\n\n明明之前看到有几个完全腐蚀掉的焊盘（比如 P4 右上角的 SOT-23-5）原本还是有点担心的，结果居然成功开机了，太幸运了\n\n（开机之前我原本的预期是不会成功的，已经告诉别人买新的电脑之后怎样把 SSD 数据拷出来了）",
-    "views": 241,
+    "views": 242,
     "forwards": 1,
     "media_group_id": 14332125298066557,
     "images": [
@@ -125610,7 +125610,7 @@
     "id": 9401,
     "date": "2026-10-09T18:40:38",
     "text": "为什么技术选型这么难啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 277,
+    "views": 278,
     "forwards": 0,
     "images": [
       {
@@ -125629,7 +125629,7 @@
     "id": 9402,
     "date": "2026-10-09T20:19:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好可爱！！！",
-    "views": 283,
+    "views": 284,
     "forwards": 2,
     "files": [
       {
@@ -125650,7 +125650,7 @@
   {
     "id": 9403,
     "date": "2026-10-09T20:48:04",
-    "views": 290,
+    "views": 291,
     "forwards": 3,
     "images": [
       {
@@ -125669,7 +125669,7 @@
     "id": 9404,
     "date": "2026-10-10T14:17:57",
     "text": "好好看",
-    "views": 242,
+    "views": 243,
     "forwards": 1,
     "images": [
       {
@@ -125688,7 +125688,7 @@
     "id": 9405,
     "date": "2026-10-12T00:41:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nお好み焼き！\n\n三个人一起做的，虽然即使有三个人做起来也依然很累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 0,
     "media_group_id": 14334125638073773,
     "images": [
@@ -125768,7 +125768,7 @@
     "id": 9412,
     "date": "2026-10-13T00:26:33",
     "text": "半喵：这是不是写给 suica 企鹅的\n\n看了一下发布这个曲子的时间确实是 suica 企鹅退役的半年后",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "reply": {
       "id": 9402,
@@ -125779,7 +125779,7 @@
     "id": 9413,
     "date": "2026-10-13T01:59:42",
     "text": "世界就是巨大的草台班子",
-    "views": 214,
+    "views": 215,
     "forwards": 0,
     "images": [
       {
@@ -125798,7 +125798,7 @@
     "id": 9414,
     "date": "2026-10-13T03:37:07",
     "text": "全成就了！花了 140h",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "reply": {
       "id": 9374,
@@ -125821,7 +125821,7 @@
     "id": 9415,
     "date": "2026-10-13T18:34:59",
     "text": "第一次进行激光切割，好炫酷",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 14335331992418461,
     "images": [
@@ -125870,7 +125870,7 @@
   {
     "id": 9419,
     "date": "2026-10-13T18:38:53",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "files": [
       {
@@ -125893,7 +125893,7 @@
     "id": 9420,
     "date": "2026-10-13T23:38:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n不想出被窝！！<i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n<a href=\"https://www.youtube.com/watch?v=s4DxPeLNVuw\">YouTube</a>",
-    "views": 203,
+    "views": 204,
     "forwards": 2,
     "files": [
       {
@@ -125915,7 +125915,7 @@
     "id": 9421,
     "date": "2026-10-14T02:28:20",
     "text": "以后再也不用外表看起来对称的元件了，焊一个板子焊反了三个元件 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 248,
+    "views": 250,
     "forwards": 2,
     "images": [
       {
@@ -125934,7 +125934,7 @@
     "id": 9422,
     "date": "2026-10-14T05:48:27",
     "text": "哭哭 发现好像已经没有免费的 CAD 可以满足我的日常项目需求了\n\n至今为止最喜欢用的是 Onshape，可惜 Onshape 因为是浏览器网页软件，物体数量多了就特别卡... 果然还是需要换到 SolidWorks 吗",
-    "views": 195,
+    "views": 197,
     "forwards": 4,
     "reply": {
       "id": 2650,
@@ -125957,7 +125957,7 @@
     "id": 9423,
     "date": "2026-10-14T07:51:43",
     "text": "如果 AI 真的有成功代替程序员的话，我应该能直接买 $2130 的 token（onshape 一年商用许可证的钱）来 vibe 出一个 onshape 的开源平替\n\n实际上可能这个投入 vibe 出来 parasolid 内核都不够... 所以至少现在 AI 并没有成功代替程序员\n\n<span class=\"spoiler\"><span>这样想我真的好希望 AI 能代替程序员，好希望 AI 能给每个闭源收费软件都写一个能用的开源平替</span></span>",
-    "views": 187,
+    "views": 189,
     "forwards": 1,
     "reply": {
       "id": 9422,
@@ -125968,7 +125968,7 @@
     "id": 9424,
     "date": "2026-10-14T17:21:45",
     "text": "一些新项目的预览 qwq",
-    "views": 193,
+    "views": 195,
     "forwards": 1,
     "files": [
       {
@@ -125991,7 +125991,7 @@
     "id": 9425,
     "date": "2026-10-15T16:11:14",
     "text": "发明了 浴缸马桶二合一\n\n<span class=\"spoiler\"><span>这样就可以边上厕所边洗澡了</span></span>（确信）",
-    "views": 64,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 14336645395031197,
     "images": [
