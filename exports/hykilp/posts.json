@@ -82938,7 +82938,7 @@
     "id": 6067,
     "date": "2025-07-28T14:48:33",
     "text": "哭哭\n\n因为原本维护前端的风庄在<span class=\"spoiler\"><span>休眠</span></span>，久违地回到 <a href=\"one-among.us\">one-among.us</a> 前端代码库里改点代码。\n\n太久没写了这套代码变得好陌生，翻翻文件重新熟悉一下，翻到风庄留下的天才代码想要和谁吐槽吐槽的时候才真正意识到她真的不在了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 333,
+    "views": 334,
     "forwards": 5
   },
   {
@@ -86432,7 +86432,7 @@
     "id": 6334,
     "date": "2025-08-23T06:59:41",
     "text": "去世... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n我首先是 <code>code ~/.pypirc</code> 然后发现 powershell 命令行没有把 <code>~</code> 解析成家目录，而是在当前目录创建了一个叫 <code>~</code> 的文件夹\n\n然后我想删除这个叫 <code>~</code> 的文件夹，打了 <code>rm ~</code> 我以为它和之前一样不会把 <code>~</code> 解析成家目录所以就直接按同意了，然后它报了错我才发现我把我自己的家删了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n不知道有没有办法找到它删了哪些东西",
-    "views": 348,
+    "views": 349,
     "forwards": 5,
     "images": [
       {
@@ -97211,7 +97211,7 @@
     "id": 7226,
     "date": "2025-11-16T08:27:47",
     "text": "发现了野生的木琴！（不过为什么所有琴键都是同样的音色 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 289,
+    "views": 290,
     "forwards": 0,
     "media_group_id": 14106253338050181,
     "files": [
@@ -97246,7 +97246,7 @@
     "id": 7228,
     "date": "2025-11-16T12:16:28",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6102860812051814101.webp\">🌗</i> 234°<span class=\"spoiler\"><span>（11 月 16 日）</span></span>\n\n去翻墙了！（物理）\n\n爬墙好累呀... 台阶超级陡，而且刚上坡就下坡的好折磨，好难想象建的人到底是怎样把每一块转搬上来的，感觉让我搬的话每一块转都需要一天的体力\n\n以及中国的长城感觉好荒凉，是一条两边都看不到边界的分界线。哪边是里是外、是保护还是牢笼也已经分不清了。\n\n<del>地球是圆的，所以我用石子原地摆个圈圈就是保护全世界的长城 </del><del><i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</del></i>",
-    "views": 281,
+    "views": 282,
     "forwards": 1,
     "media_group_id": 14106363105405861,
     "images": [
@@ -97356,7 +97356,7 @@
     "id": 7238,
     "date": "2025-11-16T12:34:35",
     "text": "出片（物理）\n\n和长城下面的并不长的小猫",
-    "views": 292,
+    "views": 293,
     "forwards": 0,
     "media_group_id": 14106371805346341,
     "images": [
@@ -97441,21 +97441,21 @@
     "id": 7245,
     "date": "2025-11-17T02:18:44",
     "text": "<a href=\"https://www.youtube.com/watch?v=uB0gr7Fh6lY\"><em>The Cameras Tracking You = A Security Nightmare</a></em>\n\n看了这个视频，居然布满整个美国的监控摄像头可以这么草台... 简单概括一下：\n\n1. 在运行已知不安全的安卓 8\n2. 物理按几下按钮就可以让它开 WiFi 拿到 adb shell\n3. 厂商的程序没有禁止调试\n4. 系统里有 root 权限的脚本，修改脚本就能提权\n5. 警方的管理账号不要求 2FA\n6. 会自动连到固定的 WiFi SSID，开一个热点轻易 MITM\n7. MITM 能看到网络在传明文数据，包含用户密码\n8. 官方说数据加密保留七天，但是实际上连出厂测试的照片都依然明文保存在相机上\n9. 谷歌可以搜到一个 demo 演讲稿，里面有示例代码，代码里有实际部署的活 API key <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n太震撼了，感觉全都是完全没考虑过安全性的新人开发者才会写出来的东西，而且凡是大规模部署之前进行了 security audit 都不会这么离谱...\n\n归根结底，信任一个 tech startup 在全美部署 >80000 个监控摄像头怎么可能出问题呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 618,
+    "views": 619,
     "forwards": 14
   },
   {
     "id": 7246,
     "date": "2025-11-17T03:14:13",
     "text": "呜呜 发现在日本买的便携吹风机带到中国之后没法用，因为是 110V\n\n想买一个同时兼容 110V 和 220V 的吹风机，但是能找到的所有吹风机都只兼容一个电压... 好难办 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 346,
+    "views": 347,
     "forwards": 1
   },
   {
     "id": 7247,
     "date": "2025-11-17T08:23:45",
     "text": "<a href=\"##鸡尾酒实验室\">#鸡尾酒实验室</a>\n因为家里打开了一瓶梅酒就正好试着调调酒，发现梅酒 + calpis 还是 + 姜汁都好不错 qwq\n\n（也试了 + 乌龙茶 / + 茉莉茶 但是并不是很喜欢）\n\n喝完酒大困困，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 340,
+    "views": 341,
     "forwards": 0,
     "media_group_id": 14106942604793301,
     "images": [
@@ -97485,7 +97485,7 @@
     "id": 7249,
     "date": "2025-11-18T10:38:41",
     "text": "离开北京了",
-    "views": 377,
+    "views": 378,
     "forwards": 0,
     "images": [
       {
@@ -97504,7 +97504,7 @@
     "id": 7251,
     "date": "2025-11-18T11:47:33",
     "text": "喜报，cloudflare 宕了\n\n想去 uptime 截张图然后发现我的 uptime 也在 cloudflare 后面 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 387,
+    "views": 388,
     "forwards": 3,
     "media_group_id": 14107731627422045,
     "images": [
@@ -97534,7 +97534,7 @@
     "id": 7252,
     "date": "2025-11-18T13:19:34",
     "text": "我去初音未来了",
-    "views": 377,
+    "views": 378,
     "forwards": 3,
     "media_group_id": 14107775798719589,
     "images": [
@@ -97574,14 +97574,14 @@
     "id": 7255,
     "date": "2025-11-19T03:22:51",
     "text": "<del>有时候很羡慕 AI，代码写出问题了有别人帮忙背锅</del>",
-    "views": 409,
+    "views": 410,
     "forwards": 1
   },
   {
     "id": 7256,
     "date": "2025-11-19T05:49:03",
     "text": "在写一个用来练习日语歌カラオケ读歌词速度和日语打字速度的 app",
-    "views": 2186,
+    "views": 2187,
     "forwards": 14,
     "reply": {
       "id": 7212,
@@ -97609,7 +97609,7 @@
     "id": 7257,
     "date": "2025-11-20T03:46:24",
     "text": "WestJet 真厉害，18:35 JST 出发 00:26 EST 到达\n\n然后告诉我途经 5 小时 51 分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 417,
+    "views": 418,
     "forwards": 0,
     "images": [
       {
@@ -97628,7 +97628,7 @@
     "id": 7258,
     "date": "2025-11-20T06:14:28",
     "text": "信 息 高 速 公 路\n\n感觉<a href=\"http://submarinecablemap.com/\">海底线缆地图</a>好奇妙，解释了很多之前不理解的延迟怪谈。以及原本以为跨过太平洋一两万公里这么可怕规模的光线在海底一定只有很少一两根吧，结果发现实际上很常见，基本上每个网络公司都有一根... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n以及发现日本很多小离岛都有单独走线，感觉政府会资助这些居猫比居民多的小岛拉网线好不错呀",
-    "views": 471,
+    "views": 472,
     "forwards": 5,
     "media_group_id": 14108954145660541,
     "images": [
@@ -97658,7 +97658,7 @@
     "id": 7260,
     "date": "2025-11-20T12:45:45",
     "text": "<a href=\"https://www.youtube.com/live/grEFYa98DMw\">https://www.youtube.com/live/grEFYa98DMw</a>",
-    "views": 504,
+    "views": 505,
     "forwards": 0,
     "forwarded_from": {
       "name": "#山前今天吃什麼"
@@ -97668,21 +97668,21 @@
     "id": 7261,
     "date": "2025-11-20T13:41:12",
     "text": "Auld Lang Syne 和 Going Home 已经沦为全世界共通闭店音乐了",
-    "views": 585,
+    "views": 586,
     "forwards": 1
   },
   {
     "id": 7262,
     "date": "2025-11-20T20:11:20",
     "text": "写代码真的好容易破坏作息\n\n明明之前和家人旅游的两周已经养好了很规律的十点睡七点起的作息，已经适应到只要到晚上十点就会困了，但是 hyper focus 着写了两天代码之后又变成凌晨才睡了... <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 633,
+    "views": 634,
     "forwards": 7
   },
   {
     "id": 7263,
     "date": "2025-11-21T05:26:59",
     "text": "曲 名 隐 写",
-    "views": 532,
+    "views": 533,
     "forwards": 2,
     "images": [
       {
@@ -97701,7 +97701,7 @@
     "id": 7264,
     "date": "2025-11-21T16:58:30",
     "text": "差不多写完准备部署了\n\n今天加了一个会跟随用户打字速度播放/暂停音乐的模式，然后发现并不是很好用。因为网易云的歌词都是用户上传的，很多时候时间戳对得很糟糕，总是多一个词少一个词的...\n\n不知道有没有办法用音频矫正歌词的时间戳，感觉我能想到的办法里无论是用没有词的人声主旋律，还是用 whisper 去识别带时间戳的逐词转写，都不是很靠谱的样子",
-    "views": 421,
+    "views": 422,
     "forwards": 3,
     "reply": {
       "id": 7256,
@@ -97712,7 +97712,7 @@
     "id": 7265,
     "date": "2025-11-22T13:30:47",
     "text": "添加了唱歌模式！可以实时调人声辅助和背景音乐的比例 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（tone.js 真好用\n<del>\n</del>原本只是想做一个打字 app 的，不过既然我正好会做音轨分离（因为是上个月实习研究的内容）就把唱歌模式也加上了 qwq\n\n<del>快进到做成完整的カラオケ app</del>",
-    "views": 400,
+    "views": 401,
     "forwards": 3,
     "media_group_id": 14110545978129917,
     "files": [
@@ -97747,7 +97747,7 @@
   {
     "id": 7267,
     "date": "2025-11-23T09:34:02",
-    "views": 367,
+    "views": 368,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -97797,7 +97797,7 @@
     "id": 7268,
     "date": "2025-11-24T12:03:45",
     "text": "之前从京都开车回九州的时候正好是日落，也正好是向日落的方向开所以还挺好看的，就拿出相机录了一个小时 qwq\n\n<span class=\"spoiler\"><span>（不要问我一个人开车是怎么拿出相机录的 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</span></span></i><span class=\"spoiler\"><span>）</span></span>\n\n回家看视频发现好抖，尝试用 ffmpeg vidstabdetect 后期防抖一下但是效果并没有很好，也许需要设计一些固定件了...",
-    "views": 336,
+    "views": 337,
     "forwards": 1,
     "reply": {
       "id": 7199,
@@ -97905,7 +97905,7 @@
     "id": 7276,
     "date": "2025-11-25T13:13:16",
     "text": "为什么那天要下午出发凌晨到达呢，其实是因为 0:00~4:00 出高速的话有夜间优惠，可以省下 30% 左右的高速费。那一程总共省下了 JP￥3400 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 371,
+    "views": 372,
     "forwards": 0,
     "reply": {
       "id": 7268,
@@ -97928,7 +97928,7 @@
     "id": 7277,
     "date": "2025-11-25T14:15:46",
     "text": "尝试部署了一下，部署在 menci 家里的 GPU 服务器上，用 cloudflared 反代到公网\n\n...然后发现网速完全不能用，只有 14KB/s...\n\n不知道怎么办了。如果部署到加拿大的 GPU 服务器上的话连到网易云也会很慢",
-    "views": 395,
+    "views": 396,
     "forwards": 0,
     "reply": {
       "id": 7267
@@ -97950,7 +97950,7 @@
     "id": 7278,
     "date": "2025-11-25T14:51:49",
     "text": "好像并不是网络的问题，诊断发现只有浏览器播放音频的时候会下载速度慢，关掉播放器直接下载就不会了，可能是浏览器自带的省流量策略吧",
-    "views": 452,
+    "views": 453,
     "forwards": 1,
     "reply": {
       "id": 7277,
@@ -97961,7 +97961,7 @@
     "id": 7279,
     "date": "2025-11-25T14:59:29",
     "text": "<a href=\"##アマオケ\">#アマオケ</a> 第一个版本公开部署了！\n<a href=\"https://amaoke.app/\">\n链接是 amaoke.app</a> 欢迎来玩 qwq\n\n不过因为是第一个测试版本，应该会有很多 bug，遇到了 bug 还请务必反馈给我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n开源仓库<a href=\"https://github.com/MaigoLabs/amaoke.app\">在这里</a>",
-    "views": 567,
+    "views": 568,
     "forwards": 7,
     "media_group_id": 14112662159526669,
     "images": [
@@ -98061,14 +98061,14 @@
     "id": 7289,
     "date": "2025-11-26T07:31:44",
     "text": "要去广州了，有群友想要见面吗 qwq",
-    "views": 473,
+    "views": 474,
     "forwards": 3
   },
   {
     "id": 7290,
     "date": "2025-11-26T10:26:25",
     "text": "失策。原本计划的回程路线是苏州 > 广州 > 深圳 > 香港 > 东京 > 多伦多\n\n...但是即使有很多行李寄海运了，依然有一个托运箱 + 一个随身箱 + 一个大包 + 一个小包总共 23 + 10 + 6 + 2 = 41kg 的行李 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n要拖着这些到处跑感觉会好累，已经后悔了",
-    "views": 466,
+    "views": 467,
     "forwards": 3,
     "reply": {
       "id": 7289,
@@ -98079,7 +98079,7 @@
     "id": 7291,
     "date": "2025-11-27T11:14:41",
     "text": "神秘仪式\n\n（好久没有这样拍过见面合影了）",
-    "views": 449,
+    "views": 450,
     "forwards": 5,
     "images": [
       {
@@ -98098,7 +98098,7 @@
     "id": 7292,
     "date": "2025-11-27T14:21:37",
     "text": "今天和 <a href=\"https://t.me/Aoino_Skynext\">@Aoino_Skynext</a> 和 <a href=\"https://t.me/renna_z\">@renna_z</a> 去了广州<i class=\"custom-emoji\" emoji-src=\"emoji/6291579304216103504.webp\">🏳️‍⚧️</i>塔！\n\n还去旁边的桥上看了日落，风景好不错好不错！没有带相机真的太可惜了\n\n<del>以及看到了对面的桥在播 bad apple</del>（存疑）",
-    "views": 325,
+    "views": 326,
     "forwards": 3,
     "media_group_id": 14114026380721021,
     "images": [
@@ -98208,7 +98208,7 @@
     "id": 7302,
     "date": "2025-11-28T05:01:36",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n广式牛丼（...？）",
-    "views": 302,
+    "views": 303,
     "forwards": 0,
     "images": [
       {
@@ -98227,7 +98227,7 @@
     "id": 7303,
     "date": "2025-11-28T10:16:31",
     "text": "感觉广州好猫猫喵喵的，今天已经遇到了十多只猫猫了",
-    "views": 302,
+    "views": 303,
     "forwards": 1,
     "media_group_id": 14114599932668413,
     "images": [
@@ -98307,7 +98307,7 @@
     "id": 7310,
     "date": "2025-11-28T11:03:46",
     "text": "<a href=\"##神秘仪式\">#神秘仪式</a>\n\n三个一加手机好好笑",
-    "views": 340,
+    "views": 341,
     "forwards": 5,
     "media_group_id": 14114622614571069,
     "images": [
@@ -98337,7 +98337,7 @@
     "id": 7312,
     "date": "2025-11-28T13:19:47",
     "text": "有 障 碍 卫 生 间",
-    "views": 316,
+    "views": 317,
     "forwards": 1,
     "images": [
       {
@@ -98356,7 +98356,7 @@
     "id": 7313,
     "date": "2025-11-28T15:59:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 298,
+    "views": 299,
     "forwards": 0,
     "files": [
       {
@@ -98378,7 +98378,7 @@
     "id": 7314,
     "date": "2025-11-28T16:27:08",
     "text": "和 <a href=\"https://t.me/YuanAshes\">@YuanAshes</a> 和 <a href=\"https://t.me/renna_z\">@renna_z</a> 和 <a href=\"https://t.me/Recopec\">@Recopec</a> 去白云山看了日落！\n\n原本以为这种很大众的旅游景点应该是本地人都去过的，没想到沫沫和 <a href=\"https://t.me/Recopec\">@Recopec</a> 都没去过，奇妙\n\n以及原本以为太阳落到云下面去之后日落就已经结束了，然后就去坐缆车下山了，结果发现在缆车上天空变成紫色<del>被 empurple </del>的时候才最好看",
-    "views": 282,
+    "views": 283,
     "forwards": 1,
     "media_group_id": 14114777830105621,
     "images": [
@@ -98488,7 +98488,7 @@
     "id": 7324,
     "date": "2025-11-28T16:28:38",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n染上紫色",
-    "views": 277,
+    "views": 278,
     "forwards": 1,
     "files": [
       {
@@ -98510,7 +98510,7 @@
     "id": 7325,
     "date": "2025-11-28T16:55:33",
     "text": "今天还去了圣心大教堂和沙面岛 qwq\n\n在教堂遇到了香港那边天主教小学的旅行团过来参观感觉好奇妙，虽然回想起我在天主教学校的经历也笑不出来\n\n以及在教堂旁边遇到了一个完全无人看管的售卖庭，卖一些纪念品和圣经之类的。虽然这种纯靠自觉的售卖庭在日本挺常见的，但是在中国这还是我第一次见... 可能也只有教堂这里会有人愿意相信中国游客的自觉了\n\n以及在街上看到了初音未来配色的星巴克和初音未来（？）",
-    "views": 283,
+    "views": 284,
     "forwards": 2,
     "media_group_id": 14114791471027077,
     "images": [
@@ -99151,7 +99151,7 @@
     "id": 7375,
     "date": "2025-12-02T05:03:44",
     "text": "失策。原本计划最后一天路过香港的时候和群友见见的，还定了早八闹钟特别早起了，结果现在感觉很难赶上飞机...\n\n8:00 收拾行李洗漱下楼\n9:20 开始打车到天河珠村\n9:37 司机接上我\n10:00 坐上地铁 13 号线去新塘\n10:40 到新塘，吃饭等车\n11:05 坐上新塘到深圳的火车\n11:59 到深圳\n12:30 罗湖出了海关、坐上东铁线（首先是被出关抽查在留卡，之后又被边检抽查行李，我有那么可疑吗...）\n12:35 上水站下车等巴士\n12:45 坐上巴士出发去机场...\n\n预计 13:50 到，但是 14:55 的飞机还要托运的话怎么样都赶不上吧...",
-    "views": 328,
+    "views": 329,
     "forwards": 0,
     "reply": {
       "id": 7290,
@@ -106815,7 +106815,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 464,
+    "views": 465,
     "forwards": 5,
     "media_group_id": 14184936480305877,
     "files": [
@@ -117589,7 +117589,7 @@
     "id": 8792,
     "date": "2026-07-02T20:08:01",
     "text": "<a href=\"##一年前的今天\">#一年前的今天</a>\n「狙击手的对决」\n\n汇总一下マモル拍我拍マモル拍照片和我拍マモル拍我拍照片的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 353,
+    "views": 354,
     "forwards": 4,
     "media_group_id": 14264183050486645,
     "images": [
@@ -126191,7 +126191,7 @@
   {
     "id": 9441,
     "date": "2026-10-17T03:04:58",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "images": [
       {
@@ -126210,14 +126210,14 @@
     "id": 9442,
     "date": "2026-10-17T06:00:53",
     "text": "哭哭... 在没有 fume hood、只开了窗户的情况下焊了 92 个 SMT 焊盘 + 312 个穿孔焊脚\n\n然后现在头晕头疼鼻子疼感觉要死了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 以后再也不敢在房间里焊东西了\n\n打算周一去校医院开化验单抽血查一下血铅",
-    "views": 210,
+    "views": 213,
     "forwards": 5
   },
   {
     "id": 9443,
     "date": "2026-10-18T05:57:20",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> <a href=\"##神秘仪式\">#神秘仪式</a>\n七人份的火锅！\n\n不是第一次七个人在这里一起吃饭了，总共煮了两锅，一锅すき焼き和一锅一風堂鶏白湯，鶏白湯超赞！！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n玩也玩得好开心 qwq <del>补上了一周秋假一直在家里赶项目赶作业的缺憾</del>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "media_group_id": 14338424322090357,
     "images": [
