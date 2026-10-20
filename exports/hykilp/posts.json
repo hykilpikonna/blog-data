@@ -85378,7 +85378,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8695,
+    "views": 8696,
     "forwards": 178,
     "media_group_id": 14043941176651549,
     "images": [
@@ -106627,7 +106627,7 @@
     "id": 7984,
     "date": "2026-03-05T18:58:01",
     "text": "猫箱",
-    "views": 333,
+    "views": 334,
     "forwards": 1,
     "images": [
       {
@@ -106746,7 +106746,7 @@
     "id": 7992,
     "date": "2026-03-08T14:25:18",
     "text": "……?",
-    "views": 349,
+    "views": 350,
     "forwards": 3,
     "images": [
       {
@@ -106765,7 +106765,7 @@
     "id": 7993,
     "date": "2026-03-09T23:18:23",
     "text": "看到朋友的 Jellyfin 媒体库很好看，我也想搭一个，原本以为很好搭的就开坑了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n然后发现它需要一个特殊的文件结构，但是大部分种子下载下来都不是这种文件结构... 怎么办呢？\n\n朋友推荐我用 Sonarr，是一个\"自动\"整理媒体文件结构的软件，然而试了一下发现它完全不自动... 从文件夹名自动识别番剧有 >90% 识别的都是错的 (p2)，手动加进去之后识别剧集也识别不对 (p3)... 折腾了四个小时之后直接放弃 Sonarr 了\n\n最后又花了 6h 手搓了一个小工具 <a href=\"https://github.com/hykilpikonna/MTfin\">MTfin</a>，输入 IMDB ID 自动从 M-Team 获取种子列表用 GPT5 选种、调 qB 下载、然后自动用 GPT5 生成映射表映射到 Jellyfin 的文件结构 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n正好趁这两天 M-Team 站免，把之前存的总共 4TB 的番剧电影都用这个脚本统一重新下载了一遍，不知道运营商看到我 1gbps 跑满一整天会怎么想 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>（希望不会被找麻烦",
-    "views": 328,
+    "views": 329,
     "forwards": 4,
     "media_group_id": 14184786424218413,
     "images": [
@@ -106815,7 +106815,7 @@
     "id": 7997,
     "date": "2026-03-10T04:31:00",
     "text": "3D 打印了一个电子鼓（是 <a href=\"https://open-e-drums.com/\">Open E-Drums</a> 的模型）\n\n固件参数好难调呀... 调了好久才终于能拾取到打击了（还好买了 35mm 蜂鸣片，之前的 27mm 蜂鸣片完全拾取不到）\n\n然而现在的固件依然是基本上识别不到 roll... <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 465,
+    "views": 466,
     "forwards": 5,
     "media_group_id": 14184936480305877,
     "files": [
@@ -106850,7 +106850,7 @@
   {
     "id": 7999,
     "date": "2026-03-11T05:06:36",
-    "views": 402,
+    "views": 403,
     "forwards": 0,
     "images": [
       {
@@ -106868,7 +106868,7 @@
   {
     "id": 8000,
     "date": "2026-03-11T17:30:41",
-    "views": 433,
+    "views": 434,
     "forwards": 1,
     "images": [
       {
@@ -106887,7 +106887,7 @@
     "id": 8001,
     "date": "2026-03-11T18:18:04",
     "text": "真的每次每次去学校都能遇到好玩的活动 <i class=\"custom-emoji\" emoji-src=\"emoji/6320807076356425260.webp\">😄</i>\n\n这次是 capstone design 项目的展会，大家的项目都好有意思 qwq",
-    "views": 485,
+    "views": 486,
     "forwards": 0,
     "media_group_id": 14186024678191165,
     "images": [
@@ -106997,7 +106997,7 @@
     "id": 8011,
     "date": "2026-03-11T22:25:21",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>",
-    "views": 627,
+    "views": 628,
     "forwards": 0,
     "files": [
       {
@@ -107018,7 +107018,7 @@
     "id": 8012,
     "date": "2026-03-12T04:05:20",
     "text": "又到了植树节 qwq\n\n想起去年的频道树好好玩，不知道要不要重启一下（一方面想要让去年没参与的频道主可以参与，另一方面觉得同样的事情第二次会有点无聊... 怎么办呢）",
-    "views": 707,
+    "views": 708,
     "forwards": 0,
     "reply": {
       "id": 5017,
@@ -121983,7 +121983,7 @@
     "id": 9131,
     "date": "2026-08-15T18:12:59",
     "text": "记得之前有人推荐我去玩微软模拟飞行，所以去玩了！好玩喵好玩喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 333,
+    "views": 334,
     "forwards": 3,
     "media_group_id": 14294540634428893,
     "images": [
@@ -125669,7 +125669,7 @@
     "id": 9404,
     "date": "2026-10-10T14:17:57",
     "text": "好好看",
-    "views": 264,
+    "views": 265,
     "forwards": 1,
     "images": [
       {
@@ -125768,7 +125768,7 @@
     "id": 9412,
     "date": "2026-10-13T00:26:33",
     "text": "半喵：这是不是写给 suica 企鹅的\n\n看了一下发布这个曲子的时间确实是 suica 企鹅退役的半年后",
-    "views": 268,
+    "views": 269,
     "forwards": 0,
     "reply": {
       "id": 9402,
@@ -125968,7 +125968,7 @@
     "id": 9424,
     "date": "2026-10-14T17:21:45",
     "text": "一些新项目的预览 qwq",
-    "views": 288,
+    "views": 289,
     "forwards": 1,
     "files": [
       {
@@ -126021,7 +126021,7 @@
     "id": 9427,
     "date": "2026-10-15T23:17:30",
     "text": "把羽绒服放在猫床上让猫猫睡觉\n\n就会升级成猫戎服",
-    "views": 212,
+    "views": 213,
     "forwards": 1,
     "reply": {
       "id": 8440,
@@ -126032,7 +126032,7 @@
     "id": 9428,
     "date": "2026-10-16T09:27:36",
     "text": "可能上学期上过电力电子课的好处就是\n\n现在需要一个 12V 转 5V 降压模块又不想等两周快递的时候，用手上的元件和洞洞板手搓一个线性稳压器不再会觉得很灵车了\n\n<span class=\"spoiler\"><span>*好像实际上更灵车了</span></span>",
-    "views": 258,
+    "views": 259,
     "forwards": 4,
     "media_group_id": 14337142854913453,
     "images": [
@@ -126062,7 +126062,7 @@
     "id": 9430,
     "date": "2026-10-16T22:03:56",
     "text": "去玩了 OneShot！\n\n真的好厉害，原来游戏还可以这样写... 感觉是我玩到的第一个把一个游戏或者是程序的边界作为某种 lore 和 feature 写进故事和解密过程里的游戏，第一个现实世界中的我会和游戏角色聊天、在故事里成为某种存在的游戏，好震撼\n\n故事也好不错，二周目的好结局好暖心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>（<span class=\"spoiler\"><span><del>虽然原本是 OneShot 但是怎么感觉从二周目游戏才刚正式开始</span></span></del>）\n\n总之不剧透了，没有玩过的推荐去玩喵",
-    "views": 191,
+    "views": 192,
     "forwards": 3,
     "media_group_id": 14337505892406797,
     "images": [
@@ -126142,7 +126142,7 @@
     "id": 9437,
     "date": "2026-10-17T00:48:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n依然是お好み焼き！\n\n上次做完之后看视频看到关西人说「​お好み焼きは粉もんやない！キャベツもんや！」所以这次决定重新按「卷心菜料理」来做一次\n\n放了很多很多很多很多卷心菜，卷心菜好吃喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 14337585070985773,
     "images": [
@@ -126191,7 +126191,7 @@
   {
     "id": 9441,
     "date": "2026-10-17T03:04:58",
-    "views": 181,
+    "views": 182,
     "forwards": 0,
     "images": [
       {
@@ -126210,7 +126210,7 @@
     "id": 9442,
     "date": "2026-10-17T06:00:53",
     "text": "哭哭... 在没有 fume hood、只开了窗户的情况下焊了 92 个 SMT 焊盘 + 312 个穿孔焊脚\n\n然后现在头晕头疼鼻子疼感觉要死了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 以后再也不敢在房间里焊东西了\n\n打算周一去校医院开化验单抽血查一下血铅",
-    "views": 253,
+    "views": 254,
     "forwards": 5
   },
   {
@@ -126277,7 +126277,7 @@
     "id": 9448,
     "date": "2026-10-18T19:03:19",
     "text": "已经到了每个变更要等半分钟的复杂度了...",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "media_group_id": 14338801598333549,
     "images": [
@@ -126311,7 +126311,7 @@
     "id": 9450,
     "date": "2026-10-19T04:36:00",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 144,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -126330,8 +126330,8 @@
     "id": 9451,
     "date": "2026-10-19T15:51:59",
     "text": "一半棵树还不想离开夏天 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 97,
-    "forwards": 2,
+    "views": 110,
+    "forwards": 3,
     "images": [
       {
         "width": 2560,
