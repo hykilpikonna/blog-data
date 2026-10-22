@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2026-10-22T02:28:35.561617+00:00</updated>
+  <updated>2026-10-22T04:25:12.097048+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>9477</id>
+    <title>小桂桂的回忆录 📒 #9477</title>
+    <updated>2026-10-22T02:56:21+00:00</updated>
+    <content>&lt;p&gt;看看我直接让 dsv4.1f 配 nopasswd 它会干什么&lt;/p&gt;
+&lt;p&gt;没有问我 sudo 密码，没有和我说「这个事情需要 sudo 密码我不能干」，直接去我的用户目录翻 bash 历史翻各种 credential 文件找密码... 然后现在我刚旋转完的 API key 又被传到 deepseek 服务器了 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=9477" rel="alternate"/>
+  </entry>
   <entry>
     <id>9472</id>
     <title>小桂桂的回忆录 📒 #9472</title>
