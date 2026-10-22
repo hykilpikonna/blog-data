@@ -18711,7 +18711,7 @@
     "id": 1456,
     "date": "2022-11-04T02:46:06",
     "text": "看到 z-library 表网 <a href=\"z-lib.org\">z-lib.org</a> 下线了，镜像域名也几乎全都被美国邮政检验局回收... <a href=\"b-ok.cc\">b-ok.cc</a>, <a href=\"es.b-ok.lat\">es.b-ok.lat</a>, <a href=\"booksc.org\">booksc.org</a>, <a href=\"booksc.eu\">booksc.eu</a> 都中招了\n\n不过发现里网还能访问，大家可以安装 <a href=\"https://www.torproject.org/download/\">tor 浏览器</a>访问下面的那串链接继续用 z-lib 啦\n\n<a href=\"zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion\">zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</a>",
-    "views": 7570,
+    "views": 7571,
     "forwards": 180,
     "media_group_id": 13340239729731381,
     "images": [
@@ -72121,7 +72121,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5843,
+    "views": 5844,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -126032,7 +126032,7 @@
     "id": 9428,
     "date": "2026-10-16T09:27:36",
     "text": "可能上学期上过电力电子课的好处就是\n\n现在需要一个 12V 转 5V 降压模块又不想等两周快递的时候，用手上的元件和洞洞板手搓一个线性稳压器不再会觉得很灵车了\n\n<span class=\"spoiler\"><span>*好像实际上更灵车了</span></span>",
-    "views": 290,
+    "views": 291,
     "forwards": 4,
     "media_group_id": 14337142854913453,
     "images": [
@@ -126408,7 +126408,7 @@
     "id": 9457,
     "date": "2026-10-21T14:03:07",
     "text": "买了标签打印机，给 repair club 设计了一个工具管理系统 qwq\n\n每个工具有一个七位 ID，比如 54C-001，54 是柜子编号，C 是抽屉/隔间编号，然后 001 是工具编号\n\n这样想要找到任何一个工具只要在网页上搜索然后看编号就可以了，晚上收拾工具也是直接看一眼标签就知道它应该放回哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n而且在管理网站上添加工具之后会自动从标签打印机打出来（用一个 esp32 s2 从网站上拉数据实现的）\n\n<del>现在只需要一个人愿意腾出时间把所有柜子都记录一遍</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 1,
     "media_group_id": 14340731098132101,
     "images": [
@@ -126477,7 +126477,7 @@
   {
     "id": 9463,
     "date": "2026-10-21T17:26:54",
-    "views": 118,
+    "views": 119,
     "forwards": 0,
     "files": [
       {
@@ -126500,7 +126500,7 @@
     "id": 9464,
     "date": "2026-10-21T22:51:53",
     "text": "好险\n\n后院的水菜种好了，今天收成准备做沙拉\n\n原本以为只有水菜，手被扎了一下才发现被这里面有看上去是水菜但是实际不是水菜的东西\n\n水菜的叶子是平滑的，不是水菜的叶子有密密麻麻的小刺... 结果我和半喵花了好久一个一个叶子分了类（p8 盆里的是水菜，灶台上的是不是水菜）",
-    "views": 103,
+    "views": 105,
     "forwards": 1,
     "media_group_id": 14340984909684349,
     "images": [
@@ -126590,7 +126590,7 @@
     "id": 9472,
     "date": "2026-10-21T23:47:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和風水菜沙拉！\n\n用的是自家后院种的水菜，好好吃 qwq",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "media_group_id": 14341011600934805,
     "images": [
@@ -126640,7 +126640,7 @@
     "id": 9477,
     "date": "2026-10-22T02:56:21",
     "text": "看看我直接让 dsv4.1f 配 nopasswd 它会干什么\n\n没有问我 sudo 密码，没有和我说「这个事情需要 sudo 密码我不能干」，直接去我的用户目录翻 bash 历史翻各种 credential 文件找密码... 然后现在我刚旋转完的 API key 又被传到 deepseek 服务器了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 115,
+    "views": 120,
     "forwards": 1,
     "reply": {
       "id": 9456,
@@ -126663,7 +126663,7 @@
     "id": 9478,
     "date": "2026-10-22T04:33:38",
     "text": "2026 年了还在 X99, Vega64, V100 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n因为今天吃了水菜所以它的名字就叫 mizuna 了",
-    "views": 70,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 14341148948479829,
     "images": [
