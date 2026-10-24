@@ -105403,7 +105403,7 @@
     "id": 7886,
     "date": "2026-02-15T18:09:11",
     "text": "无语了。今天的 OpenAI 草台\n\n因为某个团队项目需要用到 OpenAI Moderation API，我想开一个只有 Moderation 权限的密钥，但是即使我开了这个权限也依然说缺少权限 <code>model.request</code>... 但是管理界面上根本没有 <code>model.request</code>?\n\n然后我试了一下把 Model capabilities 那里从 \"Mixed\" 改成 \"Request\" 再把所有不需要的权限关掉，然后就有 <code>model.request</code> 了......\n\n结果就是这个生草画面，两个看起来完全一样的权限设置界面，一个有 `model.request`，另一个没有 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n唉，也许这就是 vibe code 整个前端的后果吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 1,
     "media_group_id": 14169431608190149,
     "images": [
@@ -124677,7 +124677,7 @@
     "id": 9333,
     "date": "2026-09-19T04:19:11",
     "text": "月饼bench",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -126408,7 +126408,7 @@
     "id": 9457,
     "date": "2026-10-21T14:03:07",
     "text": "买了标签打印机，给 repair club 设计了一个工具管理系统 qwq\n\n每个工具有一个七位 ID，比如 54C-001，54 是柜子编号，C 是抽屉/隔间编号，然后 001 是工具编号\n\n这样想要找到任何一个工具只要在网页上搜索然后看编号就可以了，晚上收拾工具也是直接看一眼标签就知道它应该放回哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n而且在管理网站上添加工具之后会自动从标签打印机打出来（用一个 esp32 s2 从网站上拉数据实现的）\n\n<del>现在只需要一个人愿意腾出时间把所有柜子都记录一遍</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 183,
+    "views": 184,
     "forwards": 1,
     "media_group_id": 14340731098132101,
     "images": [
@@ -126477,7 +126477,7 @@
   {
     "id": 9463,
     "date": "2026-10-21T17:26:54",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "files": [
       {
@@ -126500,7 +126500,7 @@
     "id": 9464,
     "date": "2026-10-21T22:51:53",
     "text": "好险\n\n后院的水菜种好了，今天收成准备做沙拉\n\n原本以为只有水菜，手被扎了一下才发现被这里面有看上去是水菜但是实际不是水菜的东西\n\n水菜的叶子是平滑的，不是水菜的叶子有密密麻麻的小刺... 结果我和半喵花了好久一个一个叶子分了类（p8 盆里的是水菜，灶台上的是不是水菜）",
-    "views": 141,
+    "views": 142,
     "forwards": 1,
     "media_group_id": 14340984909684349,
     "images": [
@@ -126590,7 +126590,7 @@
     "id": 9472,
     "date": "2026-10-21T23:47:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和風水菜沙拉！\n\n用的是自家后院种的水菜，好好吃 qwq",
-    "views": 156,
+    "views": 157,
     "forwards": 1,
     "media_group_id": 14341011600934805,
     "images": [
@@ -126663,7 +126663,7 @@
     "id": 9478,
     "date": "2026-10-22T04:33:38",
     "text": "2026 年了还在 X99, Vega64, V100 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n因为今天吃了水菜所以它的名字就叫 mizuna 了",
-    "views": 170,
+    "views": 173,
     "forwards": 0,
     "media_group_id": 14341148948479829,
     "images": [
@@ -126692,7 +126692,7 @@
   {
     "id": 9480,
     "date": "2026-10-22T17:23:47",
-    "views": 149,
+    "views": 152,
     "forwards": 0,
     "images": [
       {
@@ -126711,7 +126711,7 @@
     "id": 9481,
     "date": "2026-10-23T23:05:34",
     "text": "从中国买了一个不锈钢切肉器，回来还没用洗一次就生锈了 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 111,
+    "views": 120,
     "forwards": 1,
     "media_group_id": 14342373873393341,
     "images": [
@@ -126761,7 +126761,7 @@
     "id": 9485,
     "date": "2026-10-24T03:05:18",
     "text": "某人让猫猫的屎飞起来把灯罩砸下来了，砸下来的灯罩把地上的网线切断了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 这是什么迷幻事件链",
-    "views": 80,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 14342488944107349,
     "images": [
