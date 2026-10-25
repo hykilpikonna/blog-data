@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6691,
+    "views": 6692,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -85378,7 +85378,7 @@
     "id": 6255,
     "date": "2025-08-18T04:50:47",
     "text": "clash-verge-rev 还有后续 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n在 Windows 上卸载 clash-verge-rev 2.3.2 的时候会删除整个用户开始菜单目录，会导致开始菜单被清空 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n翻了一下源码，发现这个问题三周前<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/commit/9661c5fd82bb6e3622c87cdb4767be6bf4ae686f\">在代码里修复了</a>，但是目前还没有发布带修复的正式版本。\n\n只有这一个版本有问题，这个版本之前卸载会留一个坏的链接在开始菜单里。如果你在 2.3.2 想要卸载的话，先覆盖安装<a href=\"https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild\">预览版 2.4.0-autobuild</a> 再卸载就不会有问题了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（感谢 <a href=\"https://t.me/baked_3c\">@baked_3c</a> 投稿",
-    "views": 8697,
+    "views": 8698,
     "forwards": 178,
     "media_group_id": 14043941176651549,
     "images": [
@@ -107190,7 +107190,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5390,
+    "views": 5391,
     "forwards": 30
   },
   {
@@ -110290,7 +110290,7 @@
   {
     "id": 8257,
     "date": "2026-04-17T18:19:25",
-    "views": 2178,
+    "views": 2179,
     "forwards": 31
   },
   {
@@ -125206,7 +125206,7 @@
   {
     "id": 9373,
     "date": "2026-09-28T23:14:41",
-    "views": 555,
+    "views": 556,
     "forwards": 2,
     "images": [
       {
@@ -126640,7 +126640,7 @@
     "id": 9477,
     "date": "2026-10-22T02:56:21",
     "text": "看看我直接让 dsv4.1f 配 nopasswd 它会干什么\n\n没有问我 sudo 密码，没有和我说「这个事情需要 sudo 密码我不能干」，直接去我的用户目录翻 bash 历史翻各种 credential 文件找密码... 然后现在我刚旋转完的 API key 又被传到 deepseek 服务器了 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "reply": {
       "id": 9456,
@@ -126663,7 +126663,7 @@
     "id": 9478,
     "date": "2026-10-22T04:33:38",
     "text": "2026 年了还在 X99, Vega64, V100 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n因为今天吃了水菜所以它的名字就叫 mizuna 了",
-    "views": 204,
+    "views": 206,
     "forwards": 0,
     "media_group_id": 14341148948479829,
     "images": [
@@ -126821,7 +126821,7 @@
     "id": 9490,
     "date": "2026-10-25T01:17:59",
     "text": "发现了天然魔术贴受体",
-    "views": 121,
+    "views": 124,
     "forwards": 0,
     "files": [
       {
@@ -126843,7 +126843,7 @@
     "id": 9491,
     "date": "2026-10-25T05:01:28",
     "text": "去了每周一次的 farmer's market!\n\n吃到了现压的意面加上现磨的奶酪，原来意面本应是这么软 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n以及在这里终于找到了鸡皮！想想上次在超市见到鸡皮已经是什么时候了... 所以 $20 把剩下的 3.6kg 全都打包走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 84,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 14343235908687389,
     "images": [
@@ -126923,7 +126923,7 @@
     "id": 9498,
     "date": "2026-10-25T05:01:37",
     "text": "啄木鸟！",
-    "views": 87,
+    "views": 90,
     "forwards": 0,
     "media_group_id": 14343235981711085,
     "images": [
@@ -126963,7 +126963,7 @@
     "id": 9501,
     "date": "2026-10-25T14:14:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/BLgNIDmk8KI\">https://youtu.be/BLgNIDmk8KI</a>",
-    "views": 47,
+    "views": 56,
     "forwards": 1
   }
 ]
