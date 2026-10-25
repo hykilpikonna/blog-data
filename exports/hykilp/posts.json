@@ -123800,14 +123800,14 @@
     "id": 9265,
     "date": "2026-09-10T06:56:53",
     "text": "写某 GPS 固件的时候想了一秒要不要为防止 Y2106 溢出问题把时间存储改成 uint64\n\n然后仔细想了想觉得我会想这个问题真的好蠢，MCU 肯定活不了 80 年，而且等到 2106 年现在的需求和适配的设备标准应该都已经变成博物馆文物了...\n\n（何况 GPS 模块本身收到的 GPS 日期反而会更早溢出... 这个只剩 16 年我感觉觉得有点危还是合理的？虽然因为是模块本身的问题没有我可以做的就是）\n\n然后就感觉一般 future-proof 和 overengineer 的界限好模糊呀，<del>会不会几百年后某太阳系戴森球上的无数个大大小小 AI agent 和扩建机器的社会会觉得当初设计 ipv6 只留了 128 位的地址很近视</del>",
-    "views": 360,
+    "views": 361,
     "forwards": 4
   },
   {
     "id": 9266,
     "date": "2026-09-10T12:03:25",
     "text": "我：用点新东西\n输入法：点心？<i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 345,
+    "views": 346,
     "forwards": 1,
     "images": [
       {
@@ -123826,7 +123826,7 @@
     "id": 9267,
     "date": "2026-09-10T17:49:11",
     "text": "好好笑 想申请的学校里唯一一个需要我考英语考试的学校是一所日本的学校",
-    "views": 318,
+    "views": 319,
     "forwards": 1
   },
   {
@@ -123968,14 +123968,14 @@
     "id": 9277,
     "date": "2026-09-12T05:21:57",
     "text": "感觉有 AI agent 之后所有公司的运维成本都变高了\n\n因为给员工用 agent 就会花很多钱，不给就会有人用中转站把数据和各种 api/ssh key 漏出去 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 283,
+    "views": 284,
     "forwards": 3
   },
   {
     "id": 9278,
     "date": "2026-09-13T03:48:58",
     "text": "今天聊聊的 ps5 手柄的 下键 突然坏掉了\n\n拆开看看，FPC 和主板居然是靠裸铜接触连接的... 好灵车\n\n把两边都用 99% 酒精擦一下、晾干再装回去就好了",
-    "views": 291,
+    "views": 292,
     "forwards": 1,
     "media_group_id": 14314170709690237,
     "images": [
@@ -124035,13 +124035,13 @@
     "id": 9283,
     "date": "2026-09-13T16:19:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/B2QmpfzW8Mo\">https://youtu.be/B2QmpfzW8Mo</a>",
-    "views": 272,
+    "views": 273,
     "forwards": 1
   },
   {
     "id": 9284,
     "date": "2026-09-14T03:54:33",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "forwarded_from": {
       "name": "meow"
@@ -124063,13 +124063,13 @@
     "id": 9285,
     "date": "2026-09-14T03:59:24",
     "text": "看到 mΩ 和 MΩ 之后想到一个灵魂提问：为什么 mb 和 Mb 都是 megabits 而不是 millibits <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<span class=\"spoiler\"><span>（好蠢啊</span></span>",
-    "views": 326,
+    "views": 327,
     "forwards": 1
   },
   {
     "id": 9286,
     "date": "2026-09-14T04:07:30",
-    "views": 243,
+    "views": 244,
     "forwards": 1,
     "media_group_id": 14314870800934277,
     "images": [
@@ -124109,7 +124109,7 @@
     "id": 9289,
     "date": "2026-09-14T20:20:52",
     "text": "切西瓜的方法增加了",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "images": [
       {
@@ -126389,7 +126389,7 @@
     "id": 9456,
     "date": "2026-10-21T02:38:08",
     "text": "怎么问都没问就直接读我本机的 API Key <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n（这是 deepseek v4.1f 1017）",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "images": [
       {
@@ -126408,7 +126408,7 @@
     "id": 9457,
     "date": "2026-10-21T14:03:07",
     "text": "买了标签打印机，给 repair club 设计了一个工具管理系统 qwq\n\n每个工具有一个七位 ID，比如 54C-001，54 是柜子编号，C 是抽屉/隔间编号，然后 001 是工具编号\n\n这样想要找到任何一个工具只要在网页上搜索然后看编号就可以了，晚上收拾工具也是直接看一眼标签就知道它应该放回哪了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n而且在管理网站上添加工具之后会自动从标签打印机打出来（用一个 esp32 s2 从网站上拉数据实现的）\n\n<del>现在只需要一个人愿意腾出时间把所有柜子都记录一遍</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 1,
     "media_group_id": 14340731098132101,
     "images": [
@@ -126590,7 +126590,7 @@
     "id": 9472,
     "date": "2026-10-21T23:47:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和風水菜沙拉！\n\n用的是自家后院种的水菜，好好吃 qwq",
-    "views": 174,
+    "views": 175,
     "forwards": 1,
     "media_group_id": 14341011600934805,
     "images": [
@@ -126663,7 +126663,7 @@
     "id": 9478,
     "date": "2026-10-22T04:33:38",
     "text": "2026 年了还在 X99, Vega64, V100 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n因为今天吃了水菜所以它的名字就叫 mizuna 了",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "media_group_id": 14341148948479829,
     "images": [
@@ -126821,7 +126821,7 @@
     "id": 9490,
     "date": "2026-10-25T01:17:59",
     "text": "发现了天然魔术贴受体",
-    "views": 124,
+    "views": 126,
     "forwards": 0,
     "files": [
       {
@@ -126843,7 +126843,7 @@
     "id": 9491,
     "date": "2026-10-25T05:01:28",
     "text": "去了每周一次的 farmer's market!\n\n吃到了现压的意面加上现磨的奶酪，原来意面本应是这么软 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n以及在这里终于找到了鸡皮！想想上次在超市见到鸡皮已经是什么时候了... 所以 $20 把剩下的 3.6kg 全都打包走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 89,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 14343235908687389,
     "images": [
@@ -126923,7 +126923,7 @@
     "id": 9498,
     "date": "2026-10-25T05:01:37",
     "text": "啄木鸟！",
-    "views": 90,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 14343235981711085,
     "images": [
@@ -126963,7 +126963,7 @@
     "id": 9501,
     "date": "2026-10-25T14:14:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/BLgNIDmk8KI\">https://youtu.be/BLgNIDmk8KI</a>",
-    "views": 56,
+    "views": 61,
     "forwards": 1
   }
 ]
