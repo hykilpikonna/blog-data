@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6693,
+    "views": 6694,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -97609,7 +97609,7 @@
     "id": 7257,
     "date": "2025-11-20T03:46:24",
     "text": "WestJet 真厉害，18:35 JST 出发 00:26 EST 到达\n\n然后告诉我途经 5 小时 51 分 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 418,
+    "views": 419,
     "forwards": 0,
     "images": [
       {
@@ -107190,7 +107190,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5395,
+    "views": 5396,
     "forwards": 30
   },
   {
@@ -126923,7 +126923,7 @@
     "id": 9498,
     "date": "2026-10-25T05:01:37",
     "text": "啄木鸟！",
-    "views": 149,
+    "views": 150,
     "forwards": 0,
     "media_group_id": 14343235981711085,
     "images": [
@@ -126963,14 +126963,14 @@
     "id": 9501,
     "date": "2026-10-25T14:14:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/BLgNIDmk8KI\">https://youtu.be/BLgNIDmk8KI</a>",
-    "views": 146,
+    "views": 150,
     "forwards": 1
   },
   {
     "id": 9502,
     "date": "2026-10-26T05:32:38",
     "text": "「机 械 键 盘 手」",
-    "views": 173,
+    "views": 175,
     "forwards": 3,
     "images": [
       {
@@ -126989,7 +126989,7 @@
     "id": 9503,
     "date": "2026-10-27T03:04:15",
     "text": "去了「終電アンコール」，是 Hassoutobi Eigenbass 特異点 三个乐队的地下演唱会！\n\nHassoutobi 好欢乐好活力（p6~7）拿出机械键盘整活的也是他们hhhhh\n\nEigenbass 主唱真的超酷！！「雑踏、僕らの街」开场真的燃爆了！unravel 也是，跟着唱出来了（虽然知道 live 的时候跟着唱不好但是实在太燃了）然后还有不在歌单上的突然开始演奏春日影 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n以及好喜欢这个遮住半张脸的帽子，神秘感好强我也想试试（看了一下 ins 原来是真的不想露脸，但是无论如何这个实在太好看了 quqqq\n\n特異点感觉实力超强？？？主唱居然唱「アスノヨゾラ哨戒班」完全没有跑调...... 感觉橙星的曲子超难唱的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 键盘手也实力超强（这次不是机械键盘手了hhhh）\n\n啊啊乐队真好啊我也想组乐队...！",
-    "views": 115,
+    "views": 119,
     "forwards": 2,
     "media_group_id": 14344562041548861,
     "images": [
@@ -127098,5 +127098,29 @@
       "id": 9502,
       "text": "「机 械 键 盘 手」"
     }
+  },
+  {
+    "id": 9513,
+    "date": "2026-10-28T04:19:07",
+    "views": 20,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2026-10-28T04:18:40",
+        "width": 512,
+        "height": 512,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "🧘",
+        "set_name": "azalea_anim",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/9513.webm",
+        "size": 187450,
+        "thumb": "media/9513.webm_thumb.jpg"
+      }
+    ]
   }
 ]
