@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6694,
+    "views": 6695,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -120841,7 +120841,7 @@
     "id": 9045,
     "date": "2026-08-04T03:43:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##两年前的今天\">#两年前的今天</a>\n这首也是秒五里面我特别喜欢、每次听都会哭的曲子\n\n♪ 命が繰り返すならば なんども君のもとへ\n♪ 欲しいものなど もう何もない\n♪ 君のほかに大切なものなど",
-    "views": 415,
+    "views": 416,
     "forwards": 3,
     "reply": {
       "id": 4277,
@@ -120904,7 +120904,7 @@
     "id": 9049,
     "date": "2026-08-04T21:55:56",
     "text": "今天对比 benchmark 分数的时候发现 3.6 flash 分数还不错，所以回去试了一下 3.6 flash 的 antigravity\n\n我只能说我觉得给它机会我是🤡",
-    "views": 1596,
+    "views": 1597,
     "forwards": 13,
     "media_group_id": 14287044447772125,
     "images": [
@@ -126843,7 +126843,7 @@
     "id": 9491,
     "date": "2026-10-25T05:01:28",
     "text": "去了每周一次的 farmer's market!\n\n吃到了现压的意面加上现磨的奶酪，原来意面本应是这么软 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n以及在这里终于找到了鸡皮！想想上次在超市见到鸡皮已经是什么时候了... 所以 $20 把剩下的 3.6kg 全都打包走了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14343235908687389,
     "images": [
@@ -126923,7 +126923,7 @@
     "id": 9498,
     "date": "2026-10-25T05:01:37",
     "text": "啄木鸟！",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 14343235981711085,
     "images": [
@@ -126963,14 +126963,14 @@
     "id": 9501,
     "date": "2026-10-25T14:14:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n<a href=\"https://youtu.be/BLgNIDmk8KI\">https://youtu.be/BLgNIDmk8KI</a>",
-    "views": 156,
+    "views": 157,
     "forwards": 1
   },
   {
     "id": 9502,
     "date": "2026-10-26T05:32:38",
     "text": "「机 械 键 盘 手」",
-    "views": 188,
+    "views": 190,
     "forwards": 3,
     "images": [
       {
@@ -126989,7 +126989,7 @@
     "id": 9503,
     "date": "2026-10-27T03:04:15",
     "text": "去了「終電アンコール」，是 Hassoutobi Eigenbass 特異点 三个乐队的地下演唱会！\n\nHassoutobi 好欢乐好活力（p6~7）拿出机械键盘整活的也是他们hhhhh\n\nEigenbass 主唱真的超酷！！「雑踏、僕らの街」开场真的燃爆了！unravel 也是，跟着唱出来了（虽然知道 live 的时候跟着唱不好但是实在太燃了）然后还有不在歌单上的突然开始演奏春日影 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>\n\n以及好喜欢这个遮住半张脸的帽子，神秘感好强我也想试试（看了一下 ins 原来是真的不想露脸，但是无论如何这个实在太好看了 quqqq\n\n特異点感觉实力超强？？？主唱居然唱「アスノヨゾラ哨戒班」完全没有跑调...... 感觉橙星的曲子超难唱的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 键盘手也实力超强（这次不是机械键盘手了hhhh）\n\n啊啊乐队真好啊我也想组乐队...！",
-    "views": 141,
+    "views": 144,
     "forwards": 2,
     "media_group_id": 14344562041548861,
     "images": [
@@ -127102,7 +127102,7 @@
   {
     "id": 9513,
     "date": "2026-10-28T04:19:07",
-    "views": 82,
+    "views": 88,
     "forwards": 0,
     "files": [
       {
