@@ -103116,7 +103116,7 @@
     "id": 7702,
     "date": "2026-01-13T22:27:13",
     "text": "之前下雨下雪都擦不干净车窗，越擦越脏（Fig. 4）\n\n问群友群友说是雨刷的问题，今天换了一套雨刷，效果真的立竿见影 qwq\n\n（没想到对车做的第一次魔改是雨刷）",
-    "views": 284,
+    "views": 285,
     "forwards": 0,
     "media_group_id": 14146745867916445,
     "images": [
@@ -103570,7 +103570,7 @@
     "id": 7734,
     "date": "2026-01-20T22:13:11",
     "text": "换 ebox 了！说说体验吧\n\n首先是终于有 ipv6 了，每台设备都有公网 ip 好不错！\n\n其次网络设备也很不错，之前用 Bell 的时候给的是一个带光纤的路由器，所以如果想用自己的路由器就只能自己买光猫棒... 相比之下 EBox 是直接给了一个 10G ONT，想接自己的路由器直接用它接就可以了（我接了豆腐球给我的 MikroTik hAP ac，好用喵感谢豆腐）\n\n不过激活体验真的很孬，我 12.28 开的账号居然 1.20 才有人来安装... 明明只要给我 ONT 我自己就会装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n网络线路的话，是 1 gbps 下 750 mbps 上的套餐，实测有线上下都在 700 mbps 左右。\n\n以及确实所有路由都要绕蒙特利尔，所以增加了 10 ms 的延迟，从之前的 2ms 变成了 11ms... 好像也不影响什么，反而因为和很多云服务 ISP 有直连的 peering 所以跳转次数更少了，测了全球连进来的延迟也不比之前差\n\n总之还很满意喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 298,
+    "views": 299,
     "forwards": 3,
     "media_group_id": 14151577535205573,
     "images": [
@@ -121779,7 +121779,7 @@
     "id": 9118,
     "date": "2026-08-12T21:05:21",
     "text": "搭了免费 llm 喵欢迎使用喵 <i class=\"custom-emoji\" emoji-src=\"emoji/6323432491080222381.webp\">🤪</i>\n\n<code>https://freellm.hydev.org/v1</code>\n\n<code>sk-2r8dLPhTGcVFz5asm3hPZxGHS4bAohS4</code>",
-    "views": 2753,
+    "views": 2754,
     "forwards": 69,
     "images": [
       {
@@ -127254,7 +127254,7 @@
     "id": 9524,
     "date": "2026-10-30T05:57:25",
     "text": "标签打印机的奇妙用法",
-    "views": 223,
+    "views": 224,
     "forwards": 5,
     "images": [
       {
@@ -127273,7 +127273,7 @@
     "id": 9525,
     "date": "2026-10-30T14:15:19",
     "text": "昨天在 repair club 修好了一台笔记本，真的是我见过的最诅咒的东西\n\n打开后壳测了半天，发现一个 power rail 都没通，3.3 和 5V 看起来都在无限重启，原本还以为是因为某个元件短路触发了供电的过流保护，但是测什么都正常\n\n然后问 AI，AI 说这台电脑有开后壳检测，而且是光传感器 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i> 光 传 感 器\n\n接上简单测试了一下，还真的合上后壳就有电压，打开后壳就没电压... 立即搬去小房间把灯关掉继续\n\n然后测了一下所有的地方看起来没问题，怀疑是开机按钮坏了，手动短接之前测出来是开机按钮的 pin 然后它就开机了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i> 真的就只是开机键坏了",
-    "views": 201,
+    "views": 203,
     "forwards": 1,
     "media_group_id": 14346957756741925,
     "images": [
@@ -127353,7 +127353,7 @@
     "id": 9532,
     "date": "2026-10-30T22:45:31",
     "text": "发现标签打印机也有负片 qwq\n\n好好看",
-    "views": 151,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14347202649108677,
     "images": [
@@ -127428,7 +127428,7 @@
     "id": 9538,
     "date": "2026-10-31T07:00:54",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n第一次有让我看哭了的游戏预告片\n\n<a href=\"https://youtu.be/xqkNEx5z8SI\">https://youtu.be/xqkNEx5z8SI</a>",
-    "views": 112,
+    "views": 115,
     "forwards": 4
   }
 ]
