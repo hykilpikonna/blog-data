@@ -73051,7 +73051,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6697,
+    "views": 6698,
     "forwards": 153,
     "media_group_id": 13966976157341773,
     "images": [
@@ -91745,7 +91745,7 @@
   {
     "id": 6776,
     "date": "2025-09-30T04:33:59",
-    "views": 556,
+    "views": 557,
     "forwards": 9,
     "media_group_id": 14073654712928549,
     "images": [
@@ -107190,7 +107190,7 @@
     "id": 8027,
     "date": "2026-03-14T02:16:37",
     "text": "今年的植树活动结束的时候树上有 262<a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\"> </a>个频道（比去年多了 48 个！）<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n分析结果出来啦，<a href=\"https://github.com/hykilpikonna/ChannelTree/blob/main/README.md\">在这里</a>（下面是 <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Freadme.html&rhash=d96b84e483dc30\">preview</a>）\n\n以及这次做了一个泡泡图，<a href=\"https://tree.aza.moe/bubble.html\">可以去这里看</a> qwq\n\n感谢大家再次参与哦！",
-    "views": 5404,
+    "views": 5405,
     "forwards": 30
   },
   {
@@ -123807,7 +123807,7 @@
     "id": 9266,
     "date": "2026-09-10T12:03:25",
     "text": "我：用点新东西\n输入法：点心？<i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 407,
+    "views": 408,
     "forwards": 1,
     "images": [
       {
@@ -123826,14 +123826,14 @@
     "id": 9267,
     "date": "2026-09-10T17:49:11",
     "text": "好好笑 想申请的学校里唯一一个需要我考英语考试的学校是一所日本的学校",
-    "views": 390,
+    "views": 391,
     "forwards": 2
   },
   {
     "id": 9268,
     "date": "2026-09-11T02:07:35",
     "text": "小猫展示柜",
-    "views": 343,
+    "views": 344,
     "forwards": 0,
     "images": [
       {
@@ -123852,7 +123852,7 @@
     "id": 9269,
     "date": "2026-09-11T02:41:45",
     "text": "<a href=\"##今天桂桂吃什么\">#今天桂桂吃什么</a>\n黑椒牛柳意面！",
-    "views": 330,
+    "views": 331,
     "forwards": 1,
     "images": [
       {
@@ -123871,7 +123871,7 @@
     "id": 9270,
     "date": "2026-09-11T23:17:24",
     "text": "上一次剪纸做展示纸板还是高中 qwq",
-    "views": 281,
+    "views": 282,
     "forwards": 0,
     "media_group_id": 14313349152267701,
     "images": [
@@ -127678,7 +127678,7 @@
   {
     "id": 9556,
     "date": "2026-11-03T01:27:36",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
@@ -127697,7 +127697,7 @@
     "id": 9557,
     "date": "2026-11-03T06:50:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢かなで（第一次听到这首歌好像是和マモル旅行的时候在车上听到的）\n\n发现现在已经可以打一些慢节奏日本民谣的原曲难度了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 不过游戏判定还是比耳朵松，SS 了依然有些听上去就很偏",
-    "views": 87,
+    "views": 89,
     "forwards": 1,
     "files": [
       {
@@ -127720,7 +127720,7 @@
     "id": 9558,
     "date": "2026-11-03T07:02:14",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> \n♪ 君が僕の前に現れた日から\n♪ 何もかもが違くみえたんだ\n♪ 朝も光も涙も、歌う声も\n♪ 君が輝きをくれたんだ",
-    "views": 79,
+    "views": 81,
     "forwards": 1,
     "files": [
       {
