@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
     - uses: actions/checkout@v4
@@ -18,13 +20,13 @@ jobs:
   
     - uses: actions/setup-node@v4
       with:
-        node-version: 18
+        node-version: 22
         cache: 'yarn'
         
-    - uses: awalsh128/cache-apt-pkgs-action@latest
-      with:
-        packages: ffmpeg chromium-browser
-        version: 1.0
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg
 
     - name: Install dependencies
       run: |
@@ -76,18 +78,8 @@ jobs:
         fi
         ls -lah
         
-    - uses: EndBug/add-and-commit@v7
+    - uses: EndBug/add-and-commit@v11
       with:
-        # Determines the way the action fills missing author name and email. Three options are available:
-        # - github_actor -> UserName <UserName@users.noreply.github.com>
-        # - user_info -> Your Display Name <your-actual@email.com>
-        # - github_actions -> github-actions <email associated with the github logo>
-        # Default: github_actor
         default_author: github_actions
-        
-        branch: gh-pages
-        branch_mode: create
-
-        # The message for the commit.
-        # Default: 'Commit from GitHub Actions (name of the workflow)'
+        new_branch: gh-pages
         message: '[U] Update channel content'
