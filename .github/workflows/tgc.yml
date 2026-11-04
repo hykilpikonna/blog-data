@@ -2,8 +2,16 @@ name: Telegram Channel Updater
 
 on:
   schedule:
+    # Incremental update every 2 hours
     - cron: '0 */2 * * *'
+    # Weekly full crawl on Sunday at 00:00 UTC
+    - cron: '0 0 * * 0'
   workflow_dispatch:
+    inputs:
+      full:
+        description: 'Run full crawl instead of incremental'
+        type: boolean
+        default: false
 
 jobs:
   build:
@@ -54,7 +62,15 @@ jobs:
       env:
         tgc_config: ${{ secrets.TGC_CONFIG }}
         PYTHONUNBUFFERED: 1
-      run: tgc
+        IS_FULL: ${{ github.event.inputs.full == 'true' || github.event.schedule == '0 0 * * 0' }}
+      run: |
+        if [ "$IS_FULL" = "true" ]; then
+          echo "Running full crawl..."
+          tgc --full
+        else
+          echo "Running incremental crawl..."
+          tgc
+        fi
     
     - name: Zotero Download
       env:
